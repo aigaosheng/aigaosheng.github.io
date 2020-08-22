@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      Python
+subtitle:   Course slides (5th)
+date:       2019-09-21
+author:     BY GS
+published: false
+header-img: image/rawa-sun-falling.jpg
+catalog: true
+tags:
+    - computer program
+    - Python
+
+ch5_url: https://docs.google.com/presentation/d/1HWmBYYAMOmn83BUyQFSCB_1rvf22gzCBrXXHKMAe0BM/edit?usp=sharing
+ch5_title: 5th course slide
+---
+
+<a href={{ page.ch5_url }}> <p style=BLUE>  {{ page.ch5_title }} </p></a>
