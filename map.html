@@ -1,0 +1,94 @@
+<!--
+---
+title:  足迹
+layout: default
+description: 从哪里来，又到哪里去
+header-img: "image/rawa-sun-falling.jpg"
+---
+-->
+
+<head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset = utf-8>
+
+  <!-- Here map lib
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-core.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-service.js" type="text/javascript" charset="utf-8"></script> -->
+  
+  <title>Map demo using HERE & Leaflet</title>
+  <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script> -->
+
+  <!-- load leaflet CSS-->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+  <!-- Load Leaflet's JS -->
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+   crossorigin=""></script>
+
+   <style>
+      body, html { border: 0; padding: 0; margin: 0; }
+      #mapid { height: 500px; }
+   </style>
+   
+</head>
+<body>
+  <!-- map container -->
+  <div id="mapid"></div>
+
+  <script>
+  /* Javascript from section below goes here */
+  const hereApi = {id: 'buPqxvr8ocrJ0Ivv6sFI', code: 'UTN-ShcDIMNvJs35taI9LA' };
+  const style = 'normal.day';
+  const hereTileUrl = `https://2.base.maps.api.here.com/maptile/2.1/streettile/newest/${style}/{z}/{x}/{y}/512/png8?app_id=${hereApi.id}&app_code=${hereApi.code}&ppi=320`;
+
+  var latitude, longitude;
+  var watchID;
+  var geoLoc;
+
+
+  function showMeMap(latitude, longitude) {
+    const place_map = L.map('mapid', {
+      center: [latitude, longitude], //[37.773972, -122.431297],
+      //center: [37.773972, -122.431297],
+      zoom: 1,
+      layers: [L.tileLayer(hereTileUrl)]
+    });
+
+    place_map.attributionControl.addAttribution('&copy; HERE 2019');
+
+    var home_shandong  = L.marker([35.0708, 116.3103]).bindPopup('Jinxiang, Shandong, China');
+    var home_beijing = L.marker([ 39.90606, 116.24752]).bindPopup('Beijing, China');
+    var home_xiAn = L.marker([34.24456, 108.91006]).bindPopup("Xi'an, Shanxin, China");
+    var home_sg = L.marker([1.31062, 103.79249]).bindPopup('Singapore');
+
+    var landmark_gps = [
+      L.marker([35.0632297, 116.3117506]).bindPopup('金乡县花园小学，启蒙教育'),
+      L.marker([35.0652551, 116.3045151]).bindPopup('金乡县西关小学，启蒙教育'),
+      L.marker([35.0634994, 116.3153393]).bindPopup('金乡一中(又王杰中学)，我的中学(84-89)'),
+      L.marker([34.2445693, 108.910087]).bindPopup('西工大。忘不了的酸汤水饺、棍棍面(89-93)'),
+      L.marker([39.9628001, 116.3559143]).bindPopup("北邮, 开启人工智能研究生涯，进入语音识别(93-96)"),
+      L.marker([39.90606, 116.24752]).bindPopup('中科院自动化所,NLPR，语音识别研发(98-01)'),
+      L.marker([1.3073018, 103.7879241]).bindPopup('新加坡, 02-'),
+    ];
+
+    var my_trace = L.layerGroup(landmark_gps).addTo(place_map);
+
+    var circle = L.circle([latitude, longitude], {
+      color: 'red',
+      fillColor: '#f03',
+      fillOpacity: 0.5,
+      radius: 100
+    }).addTo(place_map)
+
+    //marker.bindPopup("<b>Home</b>").openPopup();
+    //circle.bindPopup("I am a circle.").openPopup();;
+    //polygon.bindPopup("I am a polygon.").openPopup();;
+  }
+  showMeMap(0, 0);
+
+  </script>
+
+</body>
+
