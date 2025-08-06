@@ -1,15 +1,15 @@
 destination: site_staging
 
 # Site settings
-title:  AI Learning House by GS
+title:  AI Consultant and Educator
 SEOTitle: 高升的博客| BY GS
 header-img: image/rawa-sun-falling3.jpg
 email: mediatechai2019@gmail.com
 description:  积少成多，集腋成裘
 keyword: "高升的博客, 高升，gaosheng, 机器学习，人工智能, AI, machine learning, speech recognition, nlp, data science "
-url: "http://masterAIalgo.github.io"          
+url: "http://aigaosheng.github.io"          
 #baseurl:       # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/masterAIalgo/masterAIalgo.github.io.git" # you code repository
+github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -21,7 +21,7 @@ sidebar-avatar: /image/gs.jpg      # use absolute URL, seeing it's used in both 
 # SNS settings
 RSS: false
 linkedin_username:    dlsheng 
-github_username:    masterAIalgo
+github_username:    aigaosheng
 
 
 # Build settings
@@ -35,7 +35,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate-v2]
 
 
 
@@ -53,10 +53,10 @@ kramdown:
 
 # 评论系统
 #Disqus（https://disqus.com/）
-disqus_username: masteraialgo-github-io
+disqus_username: aigaosheng-github-io
 disqus:
   enable: true    #是否开启Disqus评论
-  username: masteraialgo-github-io
+  username: aigaosheng-github-io
 
 #Gitalk
 #gitalk:
