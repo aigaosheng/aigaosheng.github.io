@@ -1,0 +1,212 @@
+---
+layout: post
+title: Llama.cpp,let running LLM in low vRAM gpu smoooth
+date: 2024-01-22 16:23:21.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- AIGC
+- LLM
+tags: []
+meta:
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1705911803'
+  timeline_notification: '1705911805'
+  _publicize_job_id: '91301263816'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_396523799570456";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1705912067
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/01/22/llama-cpplet-running-llm-in-low-vram-gpu-smoooth/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>It is impossible to running large language model such as LLama having 7B parameters in a consumer GPU, having 10GB vRAM or even lower. <a href="https://github.com/ggerganov/llama.cpp">Llama.cpp</a> rewrites inferfence using c/c++, and make LLM inference available in consumer low vRAM, and even in CPU. How to install llama.cpp?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Clone the source code in the local from <a href="https://github.com/ggerganov/llama.cpp.git">llama.cpp.git</a>, following the instruction to install. Llama.cpp can run in windows, macos, and linux. After successfully install, you need converting the native LLM models into llama.cpp format. Currently it supports the following LLMs and  multimodal models<!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li> LLaMA <!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li> LLaMA 2 </li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> Falcon</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp#instruction-mode-with-alpaca">Alpaca</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp#using-gpt4all">GPT4All</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca">Chinese LLaMA / Alpaca</a> and <a href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2">Chinese LLaMA-2 / Alpaca-2</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/bofenghuang/vigogne">Vigogne (French)</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp/discussions/643#discussioncomment-5533894">Vicuna</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://bair.berkeley.edu/blog/2023/04/03/koala/">Koala</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/OpenBuddy/OpenBuddy">OpenBuddy 🐶 (Multilingual)</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp?tab=readme-ov-file#using-pygmalion-7b--metharme-7b">Pygmalion/Metharme</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/nlpxucan/WizardLM">WizardLM</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/models?search=baichuan-inc/Baichuan">Baichuan 1 &amp; 2</a> + <a href="https://huggingface.co/hiyouga/baichuan-7b-sft">derivations</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/models?search=BAAI/Aquila">Aquila 1 &amp; 2</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp/pull/3187">Starcoder models</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/mistralai/Mistral-7B-v0.1">Mistral AI v0.1</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/smallcloudai/Refact-1_6B-fim">Refact</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp/pull/3410">Persimmon 8B</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp/pull/3417">MPT</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp/pull/3553">Bloom</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/models?search=01-ai/Yi">Yi models</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp/pull/3586">StableLM-3b-4e1t</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/models?search=deepseek-ai/deepseek">Deepseek models</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/models?search=Qwen/Qwen">Qwen models</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/models?search=mistral-ai/Mixtral">Mixtral MoE</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://github.com/ggerganov/llama.cpp/pull/3557">PLaMo-13B</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/gpt2">GPT-2</a>
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<strong>Multimodal models:</strong><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/collections/liuhaotian/llava-15-653aac15d994e992e2677a7e">Llava 1.5 models</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/models?search=SkunkworksAI/Bakllava">Bakllava</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/NousResearch/Obsidian-3B-V0.5">Obsidian</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/models?search=Lin-Chen/ShareGPT4V">ShareGPT4V</a>
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p> Llama.cpp is written C/C++, and it can run using the build-in tool to start LLM as a command or as a service. If you want to call these functions in llama.cpp, install <a href="https://github.com/abetlen/llama-cpp-python.git">llama-cpp-python</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>#install <br><br>pip install llama-cpp-python<br><br>#test llama-cpp api<br>from llama_cpp import Llama<br>llm = Llama(model_path="./models/llama2-7b/ggml-model-f16.gguf")<br>output = llm(<br>      "Q: what is the capital of China? A: ", # Prompt<br>      max_tokens=32, # Generate up to 32 tokens<br>      stop=["Q:", "\n"], # Stop generating just before the model would generate a new question<br>      echo=True # Echo the prompt back in the output<br>) # Generate a completion, can also call create_completion<br>print(output)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>I test llama2-7B model in rtx 4070 10GB vRAM, and text generation is fast. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Notes: Also try <a href="https://github.com/lyogavin/Anima/tree/main/air_llm">air_llm</a>, which can load 7B LLM model. However, inference is still very slow. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Resource summary</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li><a href="https://github.com/ggerganov/llama.cpp">https://github.com/ggerganov/llama.cpp</a></li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li><a href="https://github.com/ggerganov/ggml">https://github.com/ggerganov/ggml</a></li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<a href="https://github.com/oobabooga/text-generation-webui">https://github.com/oobabooga/text-generation-webui</a>, a webui for LLM related applications  </li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li><a href="https://python.langchain.com/docs/integrations/llms/llamacpp">https://python.langchain.com/docs/integrations/llms/llamacpp</a></li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --><br />
+</body></html></p>

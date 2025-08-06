@@ -1,0 +1,69 @@
+---
+layout: post
+title: How to save HTML to image
+date: 2022-11-27 17:40:17.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags:
+- html to image
+- Python
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1669542019'
+  _publicize_job_id: '79109319732'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_191358683420303";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1596801105534636033";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+  wordads_ufa: s:wpcom-ufa-v3-beta:1669544889
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/11/27/how-to-save-html-to-image/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>As I discussed in <a href="https://aisengtech.com/2022/11/27/how-to-embed-matplotlib-figure-in-html/">How to embed matplotlib figure in html</a>, sometime the return from different third-party tools are HTML. In order to merge different analysis into one, I use image as a media. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>How to covert html to image?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol>
+<!-- wp:list-item --></p>
+<li>Install wkhtmltopdf, </li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Install python package, imgkit</li>
+<p><!-- /wp:list-item -->
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>sudo apt-get install wkhtmltopdf
+pip install imgkit</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Then you can save HTML to image</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>import imgkit
+
+imgkit.from_url('http://google.com', 'out.jpg')
+imgkit.from_file('test.html', 'out.jpg')</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Here is an example to show merged image of backtrader figure report and quantstats html report</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1856,"width":295,"height":1269,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large is-resized"><img src="{{site.baseurl}}/assets/2022/11/tqqq_xgb_predict_eval_strategy-3.jpg?w=238" alt="" class="wp-image-1856" width="295" height="1269"></figure>
+<p><!-- /wp:image --><br />
+</body></html></p>

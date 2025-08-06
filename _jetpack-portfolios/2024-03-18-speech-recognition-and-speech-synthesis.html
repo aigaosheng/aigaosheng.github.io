@@ -1,0 +1,80 @@
+---
+layout: jetpack-portfolio
+title: Speech recognition and speech synthesis
+date: 2024-03-18 22:39:49.000000000 +08:00
+type: jetpack-portfolio
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags: []
+meta:
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1710772790'
+  _publicize_job_id: '92825889619'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_428875763001926";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1710772798;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/portfolio/speech-recognition-and-speech-synthesis/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:heading --><html><body></p>
+<h2 class="wp-block-heading">Background</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Speech recognition is evolving significantlly comparing to 2000's when I am working on the topic. The main changes: model framework (HMM -&gt; DNN), training data volume, and computation resource. Some old ideas still work in the new paradigm, e.g. quant (to reduce memory cost and speedup inference), engineering optimizatiion playing critical role because we need the models running in low-resources while performance keeping invariant (or less). T</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>There are a lot of papers in the domain. As a start, I follow OpenAI transform framework.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Resource list</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3 class="wp-block-heading">Speech recognition</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>
+<a href="https://github.com/openai/whisper/tree/main">OpenAI Whisper github</a>. The original code of transformer encoder-decoder based, mainly in the inference. Reading and debug the code to dive into the details of greed search and beam search. For training, suggest to use Huggingface implemented version</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> <a href="https://huggingface.co/blog/fine-tune-whisper">Huggingface blog to introduce how to fine-tune Whisper in specific language</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li><a href="https://github.com/ggerganov/whisper.cpp">Whisper.cpp, a twin brother of Llama.cpp, but in speech recognition</a></li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<a href="https://github.com/huggingface/peft/blob/main/examples/int8_training/peft_bnb_whisper_large_v2_training.ipynb">Lora + Whisper</a>: I have experience of Lora adapted stable diffusion or Lora adapted segment anything model. In the image domain, small image samples can generate amazing results in the specific domain. But in Whisper speech to text, it is not evaluated.  </li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":3} --></p>
+<h3 class="wp-block-heading">Speech synthesis</h3>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>
+<a href="https://github.com/collabora/WhisperSpeech">Collabora open-sourced Whisper text to speech</a>: In TTS (text to speech), now mainly follow the transformer based version. The TTS quality of the pretrained models is good. It also support speaker clone (but not so amazing. A lot needed to improve. )  </li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

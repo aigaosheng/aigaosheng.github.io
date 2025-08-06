@@ -1,0 +1,63 @@
+---
+layout: post
+title: Correctly install sd-webui-train-tools extension in stable diffusion webui
+  to train Lora
+date: 2023-08-30 00:12:30.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- Python
+tags:
+- lora
+- stable diffusion webui
+meta:
+  _last_editor_used_jetpack: block-editor
+  footnotes: ''
+  timeline_notification: '1693325553'
+  _publicize_job_id: '87087790958'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_315067971049373";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1699638201
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2023/08/30/correctly-install-sd-webui-train-tools-extension-in-stable-diffusion-webui-to-train-lora/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>The easy practice to train Lora model &amp; evaluate it is to using stable diffusion webui, <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master">https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master</a>, and install extension sd-webui-train-tools, <a href="https://github.com/liasece/sd-webui-train-tools">https://github.com/liasece/sd-webui-train-tools</a>. But after installed extension, following instruction to train lora model, there is a error happened can cause lora training failed. The error is when importlib networks.lora, it reports networks.lora not a module.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I spend some time to investigate the reason and try fix it. Google cannot find a solution. From the error, it looks that module path is not in system path. But after append module path into system path. The error still is there. After debug, finally find it is a bug in <a href="https://github.com/liasece/sd-webui-train-tools/blob/main/liasece_sd_webui_train_tools/train.py">https://github.com/liasece/sd-webui-train-tools/blob/main/liasece_sd_webui_train_tools/train.py</a>. In the following function, sub_module="library" is wrong. Correct value is None. After set sub_module=None (or remove the argument because default is None), Lora training starts</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>def train(cfg: ArgStore) -&gt; None:
+    args = cfg.create_args()
+    with pc.PythonContextWarper(
+            to_module_path= os.path.abspath(os.path.join(os.path.dirname(__file__), "sd_scripts")), 
+            path_include= os.path.abspath(os.path.join(os.path.dirname(__file__), "..")), 
+            sub_module="library",
+        ):
+        # begin training
+        train_network.train(args)
+
+Correct version:
+def train(cfg: ArgStore) -&gt; None:
+    args = cfg.create_args()
+    with pc.PythonContextWarper(
+            to_module_path= os.path.abspath(os.path.join(os.path.dirname(__file__), "sd_scripts")), 
+            path_include= os.path.abspath(os.path.join(os.path.dirname(__file__), "..")), 
+            sub_module=None,
+        ):
+        # begin training
+        train_network.train(args)</code></pre>
+<p><!-- /wp:code --><br />
+</body></html></p>

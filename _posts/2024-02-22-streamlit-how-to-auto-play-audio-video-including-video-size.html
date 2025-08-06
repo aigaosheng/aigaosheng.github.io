@@ -1,0 +1,41 @@
+---
+layout: post
+title: 'Streamlit: how to auto play audio, video including video size'
+date: 2024-02-22 23:39:19.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AIGC
+tags:
+- streamlit
+meta:
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1708616361'
+  timeline_notification: '1708616362'
+  _publicize_job_id: '92179430912'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_415024977720338";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1708616665
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/02/22/streamlit-how-to-auto-play-audio-video-including-video-size/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>I am currently working on the talking avatar project and use <a href="https://github.com/streamlit/streamlit">streamlit</a> to build the demo. Streamlit audio and video function cannot support autoplay and change video window size when playing. Search and find a solution foor audio, i.e. encoding audio into base64 and use native HTML tag to control audio play. But for video, not find one. Using similar method, encoding video into base64 with HTML video tag, it work well. The following are sample function code and actual result:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>def autoplay_audio(wav_file, is_auto = True):<br>    with open(wav_file, "rb") as f:<br>        data = f.read()<br>        b64 = base64.b64encode(data).decode()<br>        if is_auto:<br>            md = f"""<br>                &lt;audio controls autoplay="true"&gt;<br>                &lt;source src="data:audio/mp3;base64,{b64}" type="audio/wav"&gt;<br>                &lt;/audio&gt;<br>                """<br>        else:<br>            md = f"""<br>                &lt;audio controls autoplay="false"&gt;<br>                &lt;source src="data:audio/mp3;base64,{b64}" type="audio/wav"&gt;<br>                &lt;/audio&gt;<br>                """<br><br>    return md<br><br>def autoplay_video(video_file, is_auto = True):<br>    with open(video_file, "rb") as f:<br>        data = f.read()<br>        b64 = base64.b64encode(data).decode()<br>        if is_auto:<br>            md = f"""<br>                &lt;video controls width=320 height=240 autoplay&gt;<br>                &lt;source src="data:video/mp4;base64,{b64}"&gt;<br>                &lt;/video&gt;<br>                """<br>        else:<br>            md = f"""<br>                &lt;video controls width=320 height=240 autoplay muted&gt;<br>                &lt;source src="data:video/mp4;base64,{b64}"&gt;<br>                &lt;/video&gt;<br>                """<br>    return md<br></code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:image {"id":2154,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/02/screenshot-from-2024-02-22-23-37-55.png?w=441" alt="" class="wp-image-2154"></figure>
+<p><!-- /wp:image --><br />
+</body></html></p>

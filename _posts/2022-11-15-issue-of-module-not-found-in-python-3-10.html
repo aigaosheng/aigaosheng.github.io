@@ -1,0 +1,55 @@
+---
+layout: post
+title: Issue of module not found in Python 3.10
+date: 2022-11-15 08:17:53.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Programming language
+tags:
+- Python
+- Python module issue
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1668471476'
+  _publicize_job_id: '78727381220'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_188595180363320";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1592310930469167105";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+  wordads_ufa: s:wpcom-ufa-v3-beta:1668471678
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/11/15/issue-of-module-not-found-in-python-3-10/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>After upgrading python from Python 3.8 to 3.10, modules look installed in virtual environment previously, but cannot import. It will report e.g. module not found numpy, module not found pandas</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Try uninstall install version and install again like</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>pip install numpy
+pip install XXXX</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Still same error when e.g. import numpy</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Solution: </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>pip uninstall numpy
+python -m pip install --user --upgrade numpy</code></pre>
+<p><!-- /wp:code --><br />
+</body></html></p>

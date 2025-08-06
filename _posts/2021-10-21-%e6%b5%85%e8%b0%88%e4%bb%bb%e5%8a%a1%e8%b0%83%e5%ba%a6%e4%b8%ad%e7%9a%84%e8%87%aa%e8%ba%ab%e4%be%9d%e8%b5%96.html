@@ -1,0 +1,54 @@
+---
+layout: post
+title: 浅谈任务调度中的自身依赖
+date: 2021-10-21 09:05:22.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- audio fingerprint, music search
+- technology
+tags:
+- cache
+- 系统开发，业务依赖
+meta:
+  _publicize_job_id: '1'
+  timeline_notification: '1634778328'
+  _rest_api_published: '1'
+  _rest_api_client_id: '11'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3056832241268596";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1450991620070035457";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2021/10/21/%e6%b5%85%e8%b0%88%e4%bb%bb%e5%8a%a1%e8%b0%83%e5%ba%a6%e4%b8%ad%e7%9a%84%e8%87%aa%e8%ba%ab%e4%be%9d%e8%b5%96/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>在大数据处理中，因为算法或者业务逻辑的要求，有时候需要依赖任务本身的历史数据，譬如，当前业务日期依赖T-1，即昨天的计算结果。这就是自依赖，在任务调度图上看，就是一个闭环。</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>以T-1来说，如果昨天的任务没有完成，那么今天的业务日期是处于等待状态，直到昨天的完成为止。这种有个潜在的风险是，如果任务失败，而又不能及时发现并重启，那么后续的所有业务日期的任务都处于等待。而且，重启任务要从最早失败的日期开始，等成功了，在重启下一个业务日期。这种一个一个按顺序重启，非常麻烦。那么如何解决这个问题？</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>解决方案要具体问题具体分析，如果如果T-1的依赖是业务强要求，譬如，一定要严格计算今天同昨天比新增的数据，那么就一定要这个依赖。但在大数据处理时，这种严格的业务要求通常不会有。</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>如果是因为算法计算为了提高效率，减少计算量，昨天已经处理过的数据，今天就不必处理了，直接把昨天的结果拿来就行，这时候，就完全可以去掉这种自依赖。从而保证系统的稳定性和鲁棒性。核心是cache，即把所需的历史数据，譬如，t-1的结果放到一个cache表（独立的表或者和处理结果同一个表，但放到一个特别的最大业务日期分区，譬如99991231），那么在当前业务日期计算的时候，增量是和从cache取得，就不需要依赖自身。cache总是保存当前最新的业务日期处理结果。当当天的业务日期处理完成后，除了更新当前业务日期分区，同时，也要更新cache表或最大业务日期分区。这样即使历史任务很多失败了，也可以快速修复数据，因为cache里总是有数据在，只是增量计算的参考不再是严格的t-1，但实际上不影响任何东西。因为算法增量计算的目的是不做重复计算，大多数时候是要把增量和cache的数据做合并，每天仍是全量。</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>如何设计cache，和具体算法业务有关，如果你想在某些情况下已经计算过的，其中一些在某些条件下需要重新计算，这时候，cache的逻辑可以复杂，只cache满足条件的部分数据。你也可以设计个开关，随时打开或关闭cache。</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>我们希望系统稳定，减少维护成本，把宝贵的时间和聪明放到更有价值的地方，就需要在系统开发的时候提前规划好，设计好。</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

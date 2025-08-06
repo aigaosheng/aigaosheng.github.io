@@ -1,0 +1,61 @@
+---
+layout: post
+title: How to setup huggingface environment to save models and data in your specified
+  directory
+date: 2024-01-11 21:26:12.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- AIGC
+tags:
+- huggingface environment variable setting
+- stable diffusion
+meta:
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1704979574'
+  timeline_notification: '1704979575'
+  _publicize_job_id: '90998911648'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_390146470208189";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/01/11/how-to-setup-huggingface-environment-to-save-models-and-data-in-your-specified-directory/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>Normally, when using huggingface to load pretrained model and load data from huggingface, it will check if these models and dataset are available in its cached location. By default, the location is</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>#for mac &amp; ubuntu, the root location of huggingface data saved<br>~/.cache/huggingface</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>More details for huggingface environment variables refer to <a href="https://huggingface.co/docs/huggingface_hub/package_reference/environment_variables">Huggingface environment variables</a>. Sometimes you want to save these models in specific locations. For example, when you develop models &amp; services using huggingface pretrained moldels and then deploy them into clound server API service. Normally for security issue, the server will disable online download models from huggingface. In the case, you need to tell huggingface to load models from specified location and offline download these models and transfer to the location. You need set these environment variables in the bash configure file. The bash file  in Mac &amp; Ubuntu as:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>#In Mac, bash file is<br>~/.bash_profile<br>open and modify the bash file and add the following script<br><br><br>#set huggingface env<br>export HF_HOME=/Users/abc/hf_home<br>export HF_HUB_CACHE=$HF_HOME/hub<br>export HF_ASSETS_CACHE=$HF_HONE/assets<br>export HF_HUB_OFFLINE=0<br><br>#similarly in Ubuntu, bash file is<br>~/.bashrc<br><br>Add the above export as in Mac<br></code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>For exmaple, when using the stable diffusion to generate image, the stable diffusion 2.1 is loaded like</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>import torch<br>from diffusers import StableDiffusionPipeline, DPMSolverMultistepScheduler<br><br>model_id = "stabilityai/stable-diffusion-2-1"<br><br># Use the DPMSolverMultistepScheduler (DPM-Solver++) scheduler here instead<br><br>pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float32)<br>pipe.scheduler = DPMSolverMultistepScheduler.from_config(pipe.scheduler.config)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>If HF_HOME is specified as above example, then you check /Users/abc/hf_home/hub, then you can find the model saved in your specified model as</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2081,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/01/image.png?w=1024" alt="" class="wp-image-2081"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Then you can copy all HF_HOME to any machine, you only need to setup huggingface environment varibales in new machine. Then when running above stable diffusion model loading, huggingface does not need to download models from remote.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

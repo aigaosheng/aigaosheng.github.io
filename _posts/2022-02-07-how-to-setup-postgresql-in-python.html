@@ -1,0 +1,74 @@
+---
+layout: post
+title: How to setup PostgreSQL in Python
+date: 2022-02-07 08:35:12.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Programming language
+tags:
+- PostgreSQL
+- psycopg2
+- Python
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1644194115'
+  _publicize_job_id: '68653931666'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3134826096802543";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1490484296565592071";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/02/07/how-to-setup-postgresql-in-python/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:list --><html><body></p>
+<ul>
+<li>Install Psycopg2 package in Python</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>pip install psycopg2 or
+pipenv install psycopg2 (virtual python environment)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Install postgresql in Ubuntu </li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>sudo apt update
+sudo apt install postgresql postgresql-contrib</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>After successfully install postgresql, the default role is postgres. So when you connect postgresql service in your own Ubuntu user, you cannot connect it, reporting the username not in the role. Thus create a role using your own username, and add your username in ROLE of postgres</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>psql postgres 
+
+postgres=# CREATE ROLE ubuntu_username superuser;
+postgres=# ALTER ROLE ubuntu_username WITH LOGIN;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>In python, connect postgresql, e.g.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>import psycopg2
+
+conn = psycopg2.connect("dbname=test user=user_name")</code></pre>
+<p><!-- /wp:code --><br />
+</body></html></p>

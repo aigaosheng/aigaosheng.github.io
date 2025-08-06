@@ -1,0 +1,61 @@
+---
+layout: post
+title: Captcha recognition
+date: 2024-01-16 22:11:01.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- Algorithm
+tags:
+- captcha
+- huggingface
+- image to text
+meta:
+  _last_editor_used_jetpack: block-editor
+  _publicize_pending: '1'
+  firehose_sent: '1705414263'
+  timeline_notification: '1705414264'
+  jetpack_seo_noindex: ''
+  _coblocks_attr: ''
+  _coblocks_dimensions: ''
+  _coblocks_responsive_height: ''
+  _coblocks_accordion_ie_support: ''
+  _jetpack_post_was_ever_published: ''
+  reader_suggested_tags: ''
+  _jetpack_newsletter_access: ''
+  _jetpack_dont_email_post_to_subs: ''
+  _jetpack_newsletter_tier_id: '0'
+  footnotes: ''
+  _wpas_feature_enabled: ''
+  wordads_ufa: s:wpcom-ufa-v4:1705414747
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/01/16/captcha-recognition/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>A <strong>CAPTCHA</strong> is a type of challenge-response test used in coomputing to determine whether the user is human in order to deter bot attacks and spam. In the captcha test in the website, a captcha image is display to the user, who recognizes the characters and input the correct characters in the reponse box. It is similar to OCR. Here is a captcha example.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2089,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/01/captcha2.jpg?w=434" alt="" class="wp-image-2089"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>From the another view, it is an image-to-text understanding task. With the latest progress of multi-modality (image - text ) transformer models, it is possible to use the pretrained multi-modality model, such as BLIP or other image-text models, to solve the problem. Comparing the traditional machine learning models such as xgboost, logistic regression, svm, it is not a must to collect the training samples to learn these models. Many available pretrained models are available now (Many image-to-text pretrained models are available in  <a href="https://huggingface.co/models?pipeline_tag=image-to-text">Huggingface image-to-text</a>. The following is an sample code</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code><br>from transformers import pipeline<br>from PIL import Image<br><br>class CaptchaI2T(object):<br>    def __init__(self, ):<br>        self.pipe = pipeline("image-to-text", model="microsoft/trocr-large-printed")<br><br>    def __call__(self, im_path):<br>        """<br>        args:<br>            im_path: PIL image <br>        """<br>        try:<br>            pred2 = self.pipe(im_path)[0]<br>            pred = pred2["generated_text"]<br>        except:<br>            pred = None<br><br>        return pred</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Of course, the pretrained model is not yet perfect. If you want to get higher accuracy, the training data collection is still needed.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

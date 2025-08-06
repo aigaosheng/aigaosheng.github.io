@@ -1,0 +1,67 @@
+---
+layout: post
+title: SQL optimization - long tail affecting performance
+date: 2021-09-24 22:59:35.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Programming language
+- technology
+tags:
+- sql
+meta:
+  _publicize_job_id: '1'
+  timeline_notification: '1632495581'
+  _rest_api_published: '1'
+  _rest_api_client_id: '11'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3037280993223721";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1441417071867437063";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+  _last_editor_used_jetpack: block-editor
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2021/09/24/sql-optimization-long-tail-affecting-performance/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>It often happens that you need join multiple tables (more than two) into one and do some computation. the you will find many instances are long tails. All other instances complete, long tail instances still running. For example, normal instances may 1 hour completed but long tail may more than 24 hours even worse it halt there.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>For example, write a sql to do text information retrieval, ie, a query document table to match a target document database, with constrain of only selected query and target document pair are needed to calculate score.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Let saying 3 tables are query, target, candidate. Normally, you can join 3 at one time, like</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:shortcode --><br />
+Select other-score ……<br />
+from query q<br />
+Join target t<br />
+On q.word=t.word<br />
+Join candidate c<br />
+On q.id=c.query_id<br />
+And t.id=c.target_id<br />
+……<br />
+<!-- /wp:shortcode --></p>
+<p><!-- wp:paragraph --></p>
+<p>In big data, query, target and candidate maybe millions, which is normal. But word distribution along document is very skew, following 80-20 rule or Pareto principle. It will cause above join operation having serious long tail issue.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>In my practice, some normal instances completed about a few hours, but long tails running more than 1 day and still halting there without any progress.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>After analyzing, change 3 join at one time into first join query and candidate, and their result join target. Only this logic change, the task complete at 1 hour without any long tail, data skew.  Comparing with before , the task cannot successfully completed even after running 24 hours.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>It is amazing performance improvement.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

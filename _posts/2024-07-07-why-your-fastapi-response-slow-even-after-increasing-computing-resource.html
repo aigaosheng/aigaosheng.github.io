@@ -1,0 +1,105 @@
+---
+layout: post
+title: Why your fastapi response slow, even after increasing computing resource
+date: 2024-07-07 22:38:50.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags:
+- fastapi
+meta:
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1720363132'
+  timeline_notification: '1720363133'
+  _publicize_job_id: '96045213627'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_496861666203335";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1720363142;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1720363515
+  _elasticsearch_data_sharing_indexed_on: '2024-07-07 14:39:41'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/07/07/why-your-fastapi-response-slow-even-after-increasing-computing-resource/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>FastAPI is a poppolar framework to build API service. It is easy to use, fast and support async requests. FastAPI support multiple workers and parallel high volume (middle level) requests. But when you quickly develop an API using the default setting, and deploy into production, you may find the response is slow or even some of requests failed due to time of out in case of high traffic (thousands of ) requests. You google and read documents, all saysing thousands of requests should be ok. What you do to solve the problem?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>First, you try increase computing resources, e.g. from 2-cores increasing 10-cores. Then test and still failed, many portions of requests are failed.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>But the main reason may be in the fastapi service configure. Normally, you start your app service like </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>#assume your api code in api.py and app is instance.
+uvicorn.run("api:app", host="0.0.0.0", port = 5012)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>  Almost all samples code are written like this. It is ok as a simple demo code. By default, the above sample code only start 1 worker, which means 1 processs to serve the requests. It is not as your expects that as more as possible workers auto-start. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you want to start multiple workers, you need explicitly set in the arguments, e.g.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>#assume your api code in api.py and app is instance.
+uvicorn.run("api:app", host="0.0.0.0", port = 5012, workers = 2)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>In the case, 2 workers are started.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>How do you know your API server actually start the number of workers you specified? Simply, you monitor the logging information when api starts.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p> Here are example logging info in different configures.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list {"ordered":true} --></p>
+<ol class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>Default configure (1 worker): only 1 process start</li>
+<p><!-- /wp:list-item -->
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:image {"id":2386,"width":"607px","height":"auto","sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large is-resized"><img src="{{site.baseurl}}/assets/2024/07/screenshot-from-2024-07-07-21-40-38.png?w=833" alt="" class="wp-image-2386" style="width:607px;height:auto"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>2. workers = 2</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:media-text {"mediaId":2394,"mediaLink":"https://aisengtech.com/?attachment_id=2394","mediaType":"image"} --></p>
+<div class="wp-block-media-text is-stacked-on-mobile">
+<figure class="wp-block-media-text__media"><img src="{{site.baseurl}}/assets/2024/07/screenshot-from-2024-07-07-21-43-29-1.png?w=737" alt="" class="wp-image-2394 size-full"></figure>
+<div class="wp-block-media-text__content">
+<!-- wp:paragraph {"placeholder":"Content…"} --></p>
+<p>2 process start (process id: 20441, 20442)</p>
+<p><!-- /wp:paragraph -->
+</div>
+</div>
+<p><!-- /wp:media-text --></p>
+<p><!-- wp:media-text {"mediaId":2392,"mediaLink":"https://aisengtech.com/?attachment_id=2392","mediaType":"image"} --></p>
+<div class="wp-block-media-text is-stacked-on-mobile">
+<figure class="wp-block-media-text__media"><img src="{{site.baseurl}}/assets/2024/07/screenshot-from-2024-07-07-21-44-47-1.png?w=1024" alt="" class="wp-image-2392 size-full"></figure>
+<div class="wp-block-media-text__content">
+<!-- wp:paragraph {"placeholder":"Content…"} --></p>
+<p>ps -aF to check the running process. you will find 4 process-id.</p>
+<p><!-- /wp:paragraph -->
+</div>
+</div>
+<p><!-- /wp:media-text --></p>
+<p><!-- wp:paragraph --></p>
+<p>In the stage of API server starting, if multiple process start (process number is worker number, if worker number is less than core)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>After you set workers correctly, you will find requests processing is fast, and you enjoy fastapi power.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

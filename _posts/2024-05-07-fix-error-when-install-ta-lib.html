@@ -1,0 +1,74 @@
+---
+layout: post
+title: 'Fix error when install ta-lib:'
+date: 2024-05-07 22:07:51.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- fintech
+tags:
+- ta-lib
+- technical analysis
+meta:
+  _jetpack_memberships_contains_paywalled_content: ''
+  _jetpack_memberships_contains_paid_content: ''
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1715090873'
+  timeline_notification: '1715090874'
+  _publicize_job_id: '94340258710'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_459417223281113";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1715090880;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1715091055
+  _elasticsearch_data_sharing_indexed_on: '2024-05-07 14:11:48'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/05/07/fix-error-when-install-ta-lib/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>ta-lib is a popular open-source to calculatte technical analysis indicators in finace anaylysis. But when you install</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>pip installl ta-lib</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>The following error occurs</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>ERROR: Could not build wheels for ta-lib, which is required to install pyproject.toml-based projects</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>The reason is that ta-lib python wrapper depending on the ta-lib c++ library. You need manually install. So how to install it?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Download ta-lib c/c++ source code  <a href="https://ta-lib.org/install/">ta-lib-0.4.0-src.tar.gz</a> (Do not download from github c/c++ source code, which misses <strong>configure</strong>. Then following the steps to install. You will be successfull (Test in Apple Mac M1 and Ubuntu).</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>unzip
+cd ta-lib
+./configure --prefix=/usr/local
+make
+sudo make install
+pip install ta-lib</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Some initial comparison: <a href="https://github.com/ta-lib/ta-lib-python">ta-lib-python</a> vs ta <a href="https://github.com/bukosabino/ta">ta</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>ta is easy to install. But it supports only 43 technical indicators. As comparison, ta-lib supports 200 indicators. </p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

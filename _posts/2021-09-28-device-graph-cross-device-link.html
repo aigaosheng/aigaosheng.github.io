@@ -1,0 +1,66 @@
+---
+layout: post
+title: Device graph - cross-device link
+date: 2021-09-28 22:43:38.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- data science
+- Machine learning
+- Media industry
+- media industry data science
+- technology
+tags: []
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1632840221'
+  _publicize_job_id: '63529478915'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3040178652933955";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1442862627059761167";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2021/09/28/device-graph-cross-device-link/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>In modern society, many of us have multiple devices,such as desktop pc,mobile phone,pad,et at and are surfing the internet using different devices. Some may surf using different browsers such as Google, Bing, Baidu, Firefox, ....... Cookies in different devices and browsers are unique. For example, I read news paper in CNA using chrome and have assigned a cookie ID to me. Next time, I read news in CNA using Firefox using same device, and is assigned another cookie id.  Then from cookie id, I have 2 different identities, i.e. different person. Now the question is, can we identify the the two cookie ids referring to one person? </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Simple way is to ask users to create an account and login every time they consume contents in your platform. Thus, the user account can link different cookie ids among different devices or browsers.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>But if users do not want login, have a way to do it? Technically, it can. This is called device graph, i.e. based on available cookie data, link different cookie ids to one unique identify, referring to one person.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Cookie records all the behaviors in the surfing, e.g. dwelling time, visiting url, click, ip address, device types (e.g. iphone, samsung S20, huawei P40, PC, ...), browser type (e.g. chrome, firefox, safari, bing, baidu). It looks  like</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Cookie-id = 1234, IP:0.0.0., visiting url: wordpress.com at 21:00:00 20210908, browser: firefox, device: pc, ...</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>For each cookie-id, we can aggregate behaviors in the history with different window, e.g. last 30 days, last 60 days, last 90 days, and extract a high-dimensional feature to characterize the cookie-id.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Then it needs to group similar cookie-ids into a cluster. From the view of pattern recognition and machine learning, it is a supervised cluster problem. If there are some login user available, these login users can give us some golden answers about which cookies must be in the same cluster. Thus, it is becoming a semi-supervised clustering problem. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Clustering can also be viewed from graph theory. We can calculate similarity score between any pair of cookies to measure the probability of the pair cookie that is from the same identity (Only need to keep high probability candidate). Then a cookie graph is built, node being cookie-id, and edge being weight to measure link strength. Now any graph cut algorithm can be exploited to solve the clustering problem. Graph cut can identify sub-graph in which all cookie ids is identified as the same identity.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Device graph is very useful technology in ads targeting, personalized recommendation.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

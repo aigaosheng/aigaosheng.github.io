@@ -1,0 +1,45 @@
+---
+layout: post
+title: 'UNet2DConditionModel object has no attribute attn_processors. Did you mean:
+  set_attn_processor'
+date: 2023-11-13 22:18:13.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+tags:
+- bug fixed
+- diffusers
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1699885096'
+  _publicize_job_id: '89326578313'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_356976973525139";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1699885338
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2023/11/13/unet2dconditionmodel-object-has-no-attribute-attn_processors-did-you-mean-set_attn_processor/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>When training lora model using train_text_to_image_lora.py, it reports errors like </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>UNet2DConditionModel object has no attribute attn_processors. Did you mean: set_attn_processor</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>After investigate reported error line in diffusers/loaders.py, and compare it with diffusers (version used) source code. Finally it is found that it is caused by diffusers package version. Uninstall the diffusers and re-install a lower version, problem fixed.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Most errors found in stable diffusion usage, which is caused by version mismatch. If you find diffusers or transformers related errors, first step is to check package version.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

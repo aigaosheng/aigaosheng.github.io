@@ -1,0 +1,57 @@
+---
+layout: post
+title: How to embed matplotlib figure in html
+date: 2022-11-27 17:20:49.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags:
+- matplotlib figure to image
+- Python
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1669540852'
+  _publicize_job_id: '79108940005'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_191356273420544";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1596796214720200704";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+  wordads_ufa: s:wpcom-ufa-v3-beta:1669541084
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/11/27/how-to-embed-matplotlib-figure-in-html/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>Sometime, when we use third-party tool, which may provide visualization using matplotlib to plot figure and visualize the results. It is ok if we only use this tool. However, if we want to integrate these figures with other tools. The figures cannot be used. For example, I use backtrader to do backtest and visualize the signal and buy/sell datetime (figure plot), while using  quantstats to do capitabl &amp; gain/loss analysis (can view in html). It is better to merge them into one html to do visulization.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Because image is easily embedded in html using base64 coding, I convert plot figure into image base64. The following code snippet do the coversion</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>def figure2base64(fg):
+    img = None
+    with BytesIO() as img_buf:
+        plt.savefig(img_buf, format='jpg')
+        img = base64.b64encode(img_buf.getbuffer()).decode('utf-8')
+    
+    return img</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>The input is a figure instance, which can be plot.show() to display, and the return is base64 encoded image, which can be embedded into html using the following</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>&lt;img src="data:image/jpeg;base64,base64_image /&gt;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

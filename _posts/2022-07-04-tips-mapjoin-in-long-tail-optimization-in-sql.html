@@ -1,0 +1,81 @@
+---
+layout: post
+title: 'Tips: mapjoin in long-tail optimization in SQL'
+date: 2022-07-04 09:10:44.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Programming language
+- sql
+tags:
+- lonng tail
+- mapjoin
+- SQL optimization
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1656897047'
+  _publicize_job_id: '74327968190'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3246069855678166";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1543764255488589824";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/07/04/tips-mapjoin-in-long-tail-optimization-in-sql/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p> When joining a big table, saying<strong> A</strong>, (e.g.10M records), with a small table, saying <strong>B</strong> (e.g. 1000 records), based on some keys, the long-tail issue may popup. For example, if you have 10M product &amp; category name records, A, and another product name and category name identity table, B. Now you want a new table patch product, category name, &amp; category name identity together, you may write code like, </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>DROP TABLE IF EXISTS prd_cat_id;
+CREATE TABLE IF NOT EXISTS prd_cat_id LIFECYCLE 7 AS
+SELECT A.product, A.category_name, B.cat_id 
+FROM A
+JOIN B
+ON A.category_name=B.category_name
+;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Then you find the job running slowly, even instances allocated many, saying 1000. When you investigate the logview, it is found many instances completed very fast, only a few, saying 10 instances running very slow. It is the long-tail issue, i.e. some instances allocated too many samples than others, which causes overall performance very worse.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>To solve the issue, what you need is to allocate almost same samples among all instances. In the case, <strong>mapjoin</strong>, can help you. The magic mapjoin can significantly improve SQL code performance.   </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>DROP TABLE IF EXISTS prd_cat_id;
+CREATE TABLE IF NOT EXISTS prd_cat_id LIFECYCLE 7 AS
+SELECT /*+ mapjoin(B) */
+A.product, A.category_name, B.cat_id 
+FROM A
+JOIN B
+ON A.category_name=B.category_name
+;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Rather than single small table, mapjoin can support join multiple small tables at the same time. For example, if there is another table, saying C, which mapping category name into nation, i.e. category name is nation dependent. Just write code like</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>DROP TABLE IF EXISTS prd_cat_id;
+CREATE TABLE IF NOT EXISTS prd_cat_id LIFECYCLE 7 AS
+SELECT /*+ mapjoin(B,C) */
+A.product, A.category_name, B.cat_id, C.nation 
+FROM A
+JOIN B
+ON A.category_name=B.category_name
+JOIN C
+ON A.category_name=C.category_name
+;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

@@ -1,0 +1,191 @@
+---
+layout: post
+title: 'Competitive intelligence in e-commerce: all about product pricing and assortment'
+date: 2024-05-05 17:53:33.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Algorithm
+- e-commerce
+tags:
+- Competitive intelligence
+- product match
+meta:
+  _jetpack_memberships_contains_paywalled_content: ''
+  _jetpack_memberships_contains_paid_content: ''
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1714902815'
+  timeline_notification: '1714902816'
+  _publicize_job_id: '94272278931'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_458077900081712";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1714902822;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1714903238
+  _elasticsearch_data_sharing_indexed_on: '2024-05-05 09:55:00'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/05/05/competitive-intelligence-in-e-commerce-all-about-product-pricing-and-assortment/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>In the current e-commerce market, competitio is brutal, particularly in southeast asia market, where the resident income is very low. Low price is at the top priority in online shopping. As more and more players join the battle, as the online platform operator, it is critical to monitor the product price  comparing with the competitor's platform in realtime, and make sure product price is lower than their competitors. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>As the customers, price hunting is the normal behavior, which they compare price in different platform for the same or similar products and search the best deal.  However, the method is not suitable for the platform, because the platform has very large  scale product base, millions / billions of product. Everyday millions of new products are listing. Even the business  only operate a few popular items. Thousands products are normal. The other hurdle is language. The operators cannot understand every language. When considering realtime monitoring, it is impossible for mannual. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>So the e-commerce company develop the algorithm driven same product match system to address the above issues. The system includes many modules in order to determine which product pairs are same and which products cannot find the matched items in the competitor.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The basic problem in the competitive intelligence in the e-commerce is to identify whether a pair of products is same product or not based on the product title, main image, attributes, and description. It is a binary classification problem, but in practice there are not annotated samples available to train the classifier at the cold-start stage. In addition, the product volume is very large, e.g. millions or billions of products in the platform. Thus it is impossible to score all possibile pairs. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p> One possible solution is to leverage low-cost KNN to extract a set of high probability candidate pairs and then use fine-grained model to re-rank. The overall algorithm processing flow is similar to the search: build indexing, coarse recall, fusion, and re-ranking.  A possible framework of the competitive intelligence system is depicted in the following figure.  </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2347,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/05/ci_framework.png?w=1024" alt="" class="wp-image-2347"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5 class="wp-block-heading">Data source</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:heading {"level":6} --></p>
+<h6 class="wp-block-heading">Design the guildline of product match or not   </h6>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>In order to develop same product match system, the first step is to define what  is the meaning of same product. The definition is balanced among business requirement, algorithm feasibility and explainability. The guideline book will be iterated and updated based on the feedback and  bad case analysis in the product development untill  it is finalized. The guidline book will include many rules with examples to define  in which condition the  product pair is same and in which condition it is not. The examples should cover different cases such as covering as many level-1 categories as possible. The guideline is the base of matching performance evaluation and the human annotation on the pair of product.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":6} --></p>
+<h6 class="wp-block-heading">Prepare product base pool</h6>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>In the product match, two produc base pool are needed, which are business related in most times. For example,  if we want to monitor product prices between our own platform and our competitors, one  product pool is extracted from our own platform, while another is  from the competitor platform (buy data or crawl). If we want to know how the price distribution of the same products in our own platform, both  product pools  are from our own platform (but product  selection logic maybe  different based on business.) . </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5 class="wp-block-heading">Algorithm flow of product match</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>In developing product match system, the various features are extracted to represent the product content:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Title: product title carries most informative information about the product, e.g. product model, color, size, ...... </li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Main image: normally there are multiple images available for an item. If possible, try to use as many as possible to improve matching performance.   </li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Attribute: the attributes have multiple categories and values such as cloth size (S, M, XL ...), color (black, green ...). The attributes and values cotain many noises, i.e. it is not formal defined even in a platform, let alone in the different platforms. Thus de-noise is a must step to normalize them </li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":6} --></p>
+<h6 class="wp-block-heading"> Text content representation</h6>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>In order to measure the text similarity score, it needs to represent the text as a spare or dense vector. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>TF-IDF</strong>: classical text representation using term frequency and inverted document frequency, popular methods  such as BM25. In product match, it achives high precision with low  recall (semantc gap)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Dense vector</strong>: there are a lot of candidates available such as fasttext, bert, xrobert, ....</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":6} --></p>
+<h6 class="wp-block-heading">Image content representation</h6>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>There are many pretrained deep learning models available such as ResNet, ViT, .....</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":6} --></p>
+<h6 class="wp-block-heading">Multimodality content representation</h6>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p> The text-image multimodality  models are CLIP, ....</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":6} --></p>
+<h6 class="wp-block-heading">Coarse recall</h6>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>In the stage, the object  is to use low-cost KNN to generate possible product candidates for any given  product input. The  vector based indexing is first built on one product pool while quering the index using the product in the other pool. There are many vector based indexing algorithms such as FAISS.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>For bag-of-word based feature (TF-IDF), elasticsearch is a good choice.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p> After the corase recall, multiple  ranking lists are oputput together with similarity score.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":6} --></p>
+<h6 class="wp-block-heading">Fusion and re-ranking</h6>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>In order to generate the final match/not-match decision on the product pair, we need to combine multiple ranking list into one. If there are not labelled training data available (human annotated match/not-match product pair), heuristic method is often used for fusion. If training data availabe, the binary classifier can be trained to combine the multiple list into one.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":6} --></p>
+<h6 class="wp-block-heading">Output</h6>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The final  output of the product match system maybe includes:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Same product pair: in the case, the price comparison result can be tagged, e.g. same price, price lower than competitor, price higher than the  competitor.</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Produc which  cannot find any same products: these outputs are also informative.  For example, from these products, we can understand which products sold in the competitor but not sold in our platform. It will remind  business operators to find supplier for these products.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":6} --></p>
+<h6 class="wp-block-heading">Some tips in implementation</h6>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>
+<strong>Cache</strong>: use cache to record which pairs are already computed and reduce duplicated computation. <!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Cache update: check if the product title or main image are changed. If yes, need trigger to re-calculate</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<strong>Fine-tune in-house models:</strong> text, image, and multimodality can significantlly improve F1 or AUC. This is because the e-commerce product title and image is quite from the training data in the pretrained models in the style. The pre-trained models cannot provide sufficient discrimination capability in calculating similarity score.</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> Discriminative training (e.g. MoCo based) on DNN model can further improve performance metric in product match.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>The product match output can support many downstream business applcations such as product pricing to improve price competition, assortment operation, traffic boosting, ......</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5 class="wp-block-heading">Last step: colse loop to iteration</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>In  the period of data usage in the business operators, there will be many feedbacks on the algorithm matching quality.  Let  us design a feedback module to allow the users to thumb up or down on  the results, and allow them correct the wrong cases. These feedback as the human annonated product pairs can be further used to fine-tune the algorithm matching module, and dinamically measures the system performance. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Copyright</strong>: </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><em>Please request permission before copy the content. </em></p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

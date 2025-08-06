@@ -1,0 +1,90 @@
+---
+layout: post
+title: Viewer forecasting - predicting how many users will read or watch your content
+date: 2021-09-22 23:18:04.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- Algorithm
+- data science
+- Machine learning
+- Media industry
+- media industry data science
+- technology
+tags:
+- forecasting
+- regression model
+- viewer forecasting
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1632323887'
+  _publicize_job_id: '63305528466'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3035800780038409";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1440696942602850310";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2021/09/22/viewer-forecasting-predicting-how-many-users-will-read-or-watch-your-content/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>Media companies create News article, audio, and video content to engage users to their platform and provides Ads service to make money. The content creators must understand which topics are most interesting to the audiences, and how their content is popular. For the popular content, i.e. attracting large volume of viewers in short time, the creators may plan to follow user interesting to do deep report on the topic. It is thus necessary to predict the viewer volume for a published article.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>For example, the CNA reporter publishes a article on 22 Sep 2021 06:25AM , COVID-19: Home recovery patients 'anxious' without clear instructions, set up Telegram group for support ( <a href="https://www.channelnewsasia.com/singapore/covid-19-home-recovery-quarantine-art-self-test-kit-telegram-support-group-2191691">https://www.channelnewsasia.com/singapore/covid-19-home-recovery-quarantine-art-self-test-kit-telegram-support-group-2191691</a>). The reporter wants to know how many viewers the article will be attracted in the next 24 hours or 72 hours. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Predicting the viewer number of article is a classical time series regression problem. Based on the article published date, time, calendar day, day of week, history viewers of a article, the regression model can be learned and used to do forecasting. The following are steps.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>Data collection and cleaning
+<ul>
+<li>Collect history articles together with their viewers, which are series number. e.g. article A published 4 hours ago, its hourly viewer numbers are (0-th, 0), (1-th, 10), (2-th, 100), (3,1000). Collect a lot of these sequence from published articles</li>
+</ul>
+</li>
+<li>Prepare training set to train regression model
+<ul>
+<li>Training data is a set of pairs like (x, y), x is the feature, which is evidence observed, and y is target value (golden truth). If we only forecast next hour viewer number, y is just a number. For above series example, (x,y) pairs may look like ([0,10],100), ([10,100], 1000), i.e. use the past 2-hour viewer number to predict the next hour. But in practice, it is more complicated than the simple case. For example, in the project I worked in the media company, it needs to predict next 72-hour viewers.</li>
+</ul>
+</li>
+<li>Feature extraction
+<ul>
+<li>Feature extraction is most important step in forecasting. If feature is bad, the regression accuracy is worse regardless of which state-of-art machine learning models used. In the news article, the viewer number is only one source of feature. Other features like publish date, time, time of day, day of week, channel, .... Many extra-features can help to improve forecasting precision.</li>
+<li>Because viewer is integer, it is better to use it in LOG domain. e.g. use LOG(1000) rather than 1000 as a feature, and LOG will non-linear re-scale the number.</li>
+</ul>
+</li>
+<li>Machine learning model
+<ul>
+<li>Any machine learning model for regression can be applied after the feature and training data is ready. For example, xgboost, decision tree, neural network. I finally apply a DNN with metric oriented learning (My previous research, <a href="https://aisengtech.com/2021/08/29/learn-a-metric-oriented-classifier/">Learn a metric oriented classifier</a>, learning NN to optimize metrics like mean square error (MSE), adjusted R2, ...)</li>
+</ul>
+</li>
+<li>Forecasting performance metrics
+<ul>
+<li>Popular metrics like mean square error, mean absolute error, adjusted R2.</li>
+</ul>
+</li>
+<li>After model is ready, next step is to deploy forecasting as a service. You can try Flask,<a href="https://flask.palletsprojects.com/en/2.0.x/">https://flask.palletsprojects.com/en/2.0.x/</a>, to build a service. Your data engineering team can call the service to do real-time forecasting.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>When I work on the forecasting, not only on news article, but also on audio viewer prediction for broadcast channel program (which is a little different from article, because broadcast program is a scheduled program, e.g. 1-3 program-A, 4-5 program-B), and video program prediction.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>You can also apply forecasting  to predict exchange rate between two dollars. e.g. predicting USD/SGD exchange rate in next a few days. I try the forecasting model on USD/RMB exchange rate prediction. It looks good.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you feels the topic  interest and want to know more, please contact me.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

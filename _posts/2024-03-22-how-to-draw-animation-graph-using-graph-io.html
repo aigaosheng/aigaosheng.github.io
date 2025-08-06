@@ -1,0 +1,167 @@
+---
+layout: post
+title: How to draw animation graph using Graph.io
+date: 2024-03-22 11:28:46.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- visualization
+tags:
+- animation graph
+- draw.io
+meta:
+  _jetpack_memberships_contains_paywalled_content: ''
+  _jetpack_memberships_contains_paid_content: ''
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1711078128'
+  _publicize_job_id: '92925085339'
+  timeline_notification: '1711078129'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_430852596137576";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1711078139;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1711079668
+  _oembed_766019108705fcfde9bf6d899b18c7fb: "{{unknown}}"
+  _oembed_9d1e783c3859ca7d6274f8b3a10a749f: "{{unknown}}"
+  _oembed_e5f16ee7e7b3e79a81ed53796bf7c683: "{{unknown}}"
+  _elasticsearch_data_sharing_indexed_on: '2024-03-22 03:56:29'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/03/22/how-to-draw-animation-graph-using-graph-io/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>I often read the posts shared in LinkedIn, which contain the amazing animation graph. So I am thinking how do I also draw it? Previously, I shared a post, <a href="https://aisengtech.com/2024/02/07/draw-io-a-beautiful-tool-to-draw-graph-and-flow/">Draw.io, a beautiful tool to draw graph and flow</a> . After googling, it is found Draw.io have the functio, which let us set the propertu of arrow to enable animation. Before introduce how to do, I firstly share how to setup Draw.io, focusing in Ubuntu (Windows should be also easy).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>4 ways to use Draw.io</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>
+<a href="https://app.diagrams.net/?src=about">Draw.io web version</a><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>It is simple. There is nothing to setup. Just visit the URL .</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<a href="https://github.com/jgraph/drawio-desktop/releases/tag/v24.0.4">Draw.io App</a><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>If you like install an invidual App, you can visit the URL to download the Windows/Mac/Linux version, and install.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Draw.io plugin in Visual studio code <!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li>If you are frequently use VSC to programming and don't want to switch between VSC and another Draw.io tool, you can install the plugin, Draw.io Integration v1.6.6. Just search draw.io. There are many plugins, I select the Draw.io extension developed by Henning Dieterich.</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Issue:<!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li>The functions are similar to the above two. But after completing animation setting, the export svg is still a still image, without animation. </li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Thus, for animation, the web version or App are recommend.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<a href="https://github.com/QuantStack/jupyterlab-drawio/">Jupyterlab-drawio</a><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>There is plugin in Jupyter-lab. But I find it is not full functions available. For example, I cannot find how load and edit a drawio file. So I do not suggest</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p> How to enable animation of edge?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>There is a few difference between the Draw.io App and web version, due to the version of development. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>In Draw.io App</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:media-text {"mediaId":2244,"mediaLink":"https://aisengtech.com/?attachment_id=2244","mediaType":"image"} --></p>
+<div class="wp-block-media-text is-stacked-on-mobile">
+<figure class="wp-block-media-text__media"><img src="{{site.baseurl}}/assets/2024/03/screenshot-from-2024-03-22-11-00-14.png?w=1024" alt="" class="wp-image-2244 size-full"></figure>
+<div class="wp-block-media-text__content">
+<!-- wp:list {"ordered":true} --></p>
+<ol>
+<!-- wp:list-item --></p>
+<li>Click the edge you want to enable animation</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Then in the right menu, find Flow animation under Style. Select it, and you will see the edge is flowing now.</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Note: drawio file extension is suggest SVG </li>
+<p><!-- /wp:list-item -->
+</ol>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph -->
+</div>
+</div>
+<p><!-- /wp:media-text --></p>
+<p><!-- wp:paragraph --></p>
+<p>In Draw.io web version</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:media-text {"mediaId":2248,"mediaLink":"https://aisengtech.com/?attachment_id=2248","mediaType":"image"} --></p>
+<div class="wp-block-media-text is-stacked-on-mobile">
+<figure class="wp-block-media-text__media"><img src="{{site.baseurl}}/assets/2024/03/screenshot-from-2024-03-22-11-21-41.png?w=1024" alt="" class="wp-image-2248 size-full"></figure>
+<div class="wp-block-media-text__content">
+<!-- wp:list {"ordered":true} --></p>
+<ol>
+<!-- wp:list-item --></p>
+<li>Click the edge you want to enable animation</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Then in the right menu, click and expand Properties under Style. Scroll down to find Flow animation and select it. You will see the edge is flowing now.</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Note: drawio file extension is suggest SVG </li>
+<p><!-- /wp:list-item -->
+</ol>
+<p><!-- /wp:list -->
+</div>
+</div>
+<p><!-- /wp:media-text --></p>
+<p><!-- wp:paragraph --></p>
+<p>Example animation graph: </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://viewer.diagrams.net/?tags=%7B%7D&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1&amp;title=rag_summ.drawio.svg#R7VpRc6M2EP41nmkfLoMQxuYxjuPrQ26aaa5z7SMGBdQAYoQc2%2F31XYGEAZGEODh12vghQYu0SPt9u1otTPBVuvvK%2FTz%2BxkKSTGwr3E3wcmLb3syCv1KwrwRze1YJIk7DSoQOgjv6N1FCNS7a0JAUrY6CsUTQvC0MWJaRQLRkPuds2%2B52z5L2U3M%2FIobgLvATU%2FqDhiLurELKfyE0ivWTketVd1Jfd1YrKWI%2FZNuGCF9P8BVnTFRX6e6KJNJ22i7VuNUTd%2BuJcZKJIQPsasCjn2zU2m5uvoFg7RckhP9LFmzSVCqzrTu48vleTVzstTUE2cGzFrFIExAguCwEZw%2FkiiWMgyRjGfRc3NMk6Yj8hEYZNAN4AAH54pFwQcHOl%2BpGSsNQPmaxjakgd7kfyGdugVQg42yThUQuxJLqWSa0%2BomNMbbgB%2FLEX5Nk4QcPUdm%2FM4PigYggVtMONvyRrKgQNIuU6C8aReU67brznVp5wFIaqAcriqIptE0IFCpycWTXEClIvhKWEiENa%2Bm7U0UP5R%2BaLdsD2bD2obhBNC3zFb%2BjWvOBAnChWNDPCGww4na5Kh0M%2FnyXUHfxP%2BCAnkCqQY1XwDHM3E3cQ3LvbxIxDgi21QYBuSYKyD4RCk4%2FCh3Lv8blwCcsa%2BYtXQ3CLSuooKzX%2F246HWo%2F7DqoYHmfHzdBkp7DNiKhGUxPx2PpmQWQBDztu1Sx%2FOKaPrwqf01alMNiP5eK010kN5cLmCRJ%2FfwilKGqhHsQybq8GoExHa9FM5Mw8x6%2BuCPwZWrw5QdZV%2FF7Yrt%2BKlHK1oX899Pvv938%2FEmlD0Wluv0OVHKfoFIoqfS5DfRBcbJtAFsGGIbdSQi5qWoq%2BzUM%2FZydwC%2FubTIncylP2PYyo5CgVm6KnrNewTY8UI9XOa%2BcxbPm5CQB3Y%2FtDLrPNmroLaNl1qkdYt6GwXFwW4XweUSEGtWxcD2NQUafPZETX2cRBJ5uOP2%2F%2BAH2pm0AkH0xHeYJY0SluQHKUgdpOOfFm%2BzBAEJH92APG0ZIOH4ZjnWF3c26FtTQ%2FFrtOxqMhsk%2FDoYOGpDSoh4E0RgQItOxzGCWhZfygC6tk%2FhFUdpneDhDU%2BQgB%2BRkR8Ufaoy8%2FlPu%2BBdT1VruVAJQNvaNxi3hFBYmM4%2FqVHlsWHQGhsWG5ac9hteyN0ZPhDubGOrgWU3diJ6GImM3tDqKxgvDyHT5%2FxZdzpUbM08H9jezw1Q1Ij%2B8T368Bz%2Bw%2FYLLD2VHd%2Fc5Yeywh%2BTNZ8YNgJ%2FvpaIv1oVleVpSqZtNdfugsGztm6030a2yfivbOlcGHh%2BhnL4IdbKTRJ2hvQMNB2Ul54Wr08HVOTYrcdwXFI0IqVkfP6vI8hF3mLpQWp%2Ft7WP9G3tdVSdjAh7g3O1XVP9mLaBV6zHfxLVrvtDZdRd2VTAt7%2BjXnHisoloLJaSjcoNvrttDuJpxbzmH2mbiWBV44Iifbz5GYbO3Rj8CMEaZDZnI9FYIXMNlj6p3DoiuZ%2BVTq5UHv4E%2BVXd%2BD5%2FC84E%2BhUYpVJsvLK9iX5R7Q5GzrCBwGZGM8Gpj6oJ6Ht8QnJot9UcJY8DdTZ48E2%2Fb68G7uyMeBbf5vvGWszQXZnXcuofVA9b64xE4ZxRmrfY88D%2FBpxzd1Ka%2Fam71RdQxcDJf5jXK5jlnAYH0NIvOFI%2Fn%2FfEp5zoBirb7csKC%2Bl7I4teDCM3D919VXnr4iA5f%2FwM%3D" target="_blank" rel="noreferrer noopener">Animation graph</a></p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

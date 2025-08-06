@@ -1,0 +1,75 @@
+---
+layout: post
+title: Do we need concern openAi governance?
+date: 2023-03-26 22:32:40.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+tags:
+- content governance
+- openAI
+- text-to-image
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1679841163'
+  _publicize_job_id: '82649226792'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_228217053067799";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1639998861652443177";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+  wordads_ufa: s:wpcom-ufa-v3-beta:1679841355
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2023/03/26/do-we-need-concern-openai-governance/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>As most already know text-to-image generation  from Baidu 文心一言 looks quite bad when the input is Chinese idiom. In the weekend I test it using openAI text-to-image API. Unfortunately I find another thing, text content governance, i.e. your input text is safe but openAI judges not-safe and not provide service.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>for example,  if input query is 肉丝 (shredded pork)，API will reject returning result, and get error. It means "肉丝" is not a safe phrase by OpenAI governance system. But the word in Chinese is very normal.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:gallery {"linkTo":"none"} --></p>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":1898,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2023/03/rousi_error.png?w=1024" alt="" class="wp-image-1898"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:image {"align":"center","id":1899,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image aligncenter size-large"><img src="{{site.baseurl}}/assets/2023/03/rousi2.png?w=1024" alt="" class="wp-image-1899"></figure>
+<p><!-- /wp:image --></figure>
+<p><!-- /wp:gallery --></p>
+<p><!-- wp:paragraph --></p>
+<p>OpenAI governance system is robust. NO. If add space between Chinese character, input query like "肉 丝", then  text-to-image generate works, and the generated image like the left one (NOT expected), but actually the right best. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:jetpack/image-compare {"imageBefore":{"id":1894,"url":"https://aisengtech.com/wp-content/uploads/2023/03/e88289e4b89d-1.png","alt":"","width":512,"height":512},"imageAfter":{"id":1895,"url":"https://aisengtech.com/wp-content/uploads/2023/03/rousi_truth.png","alt":"","width":1288,"height":958},"lock":{"move":false,"remove":false}} --></p>
+<figure class="wp-block-jetpack-image-compare">
+<div class="juxtapose" data-mode="horizontal">
+<img id="1894" src="{{site.baseurl}}/assets/2023/03/e88289e4b89d-1.png" alt="" width="512" height="512" class="image-compare__image-before"><img id="1895" src="{{site.baseurl}}/assets/2023/03/rousi_truth.png" alt="" width="1288" height="958" class="image-compare__image-after">
+</div>
+</figure>
+<p><!-- /wp:jetpack/image-compare --></p>
+<p><!-- wp:paragraph --></p>
+<p>Some thinking:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Do we need a deep governance system? In good point, it can guarantee generated content safe (defined by OpenAI, not users). In bad point, we can only get information what OpenAI wants us find. Is it terrible? Maybe it will be an idea world. Do we really need it (many movies already discuss) ?</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>At the current stage, the governance system is not robust. It is very easy to skip.    </li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

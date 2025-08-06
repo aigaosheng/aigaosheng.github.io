@@ -1,0 +1,86 @@
+---
+layout: post
+title: 'SQL tips: get exclusive data set'
+date: 2022-07-10 11:20:06.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- sql
+tags: []
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1657423208'
+  _publicize_job_id: '74552519126'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3250937555191396";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1545971136952926212";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/07/10/sql-tips-get-exclusive-data-set/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>In data science &amp; data engineering, it is often required to extracting exclusive data set from a large-scale table in a business date comparing with a history data, e.g. daily new product incremental, weekly new users, .....  Here two ways are discussed using an example of how to calculate daily new products.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p> Method 1: use LEFT JOIN operator, e.g.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:preformatted --></p>
+<pre class="wp-block-preformatted">-- daily_biz_tb is table to store daily product with schema like 
+-- CREATE TABLE IF NOT EXISTS daily_biz_tb (product_id STRING, title STRING) PARTITION BY (ds STRING)
+
+DROP TABLE IF EXISTS daily_inc_tb;
+CREATE TABLE daily_inc_tb LIFECYCLE 7 AS 
+SELECT t1.* FROM (
+  SELECT product_id, title 
+  FROM daily_biz_tb 
+  WHERE ds='${bizdate}'
+)t1
+LEFT JOIN (
+  SELECT product_id, title 
+  FROM daily_biz_tb 
+  WHERE ds='${yesterday}'
+)t2
+ON t1.product_id=t2_product_id
+WHERE t2.product_id IS NULL
+;</pre>
+<p><!-- /wp:preformatted --></p>
+<p><!-- wp:paragraph --></p>
+<p> The logic is that if product_id in today but not in yesterday, after left join, the column t2.product_id will be NULL in today. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Method 2: left anti join. The LEFT ANTI JOIN will be much elegant. It will exclude all item based on key product_id. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:preformatted --></p>
+<pre class="wp-block-preformatted">-- daily_biz_tb is table to store daily product with schema like 
+-- CREATE TABLE IF NOT EXISTS daily_biz_tb (product_id STRING, title STRING) PARTITION BY (ds STRING)
+
+DROP TABLE IF EXISTS daily_inc_tb;
+CREATE TABLE daily_inc_tb LIFECYCLE 7 AS 
+SELECT t1.* FROM (
+  SELECT product_id, title 
+  FROM daily_biz_tb 
+  WHERE ds='${bizdate}'
+)t1
+LEFT ANTI JOIN (
+  SELECT product_id, title 
+  FROM daily_biz_tb 
+  WHERE ds='${yesterday}'
+)t2
+ON t1.product_id=t2_product_id
+;</pre>
+<p><!-- /wp:preformatted --></p>
+<p><!-- wp:paragraph --></p>
+<p>Which one is recommended? Of course, left anti join. It is not only elegant but also performance better when from a big table excluding data in a small table. e.g. 1T table excluding 1K data in small table. In practice, method 1 sometimes has performance issue while method 2 fast. </p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

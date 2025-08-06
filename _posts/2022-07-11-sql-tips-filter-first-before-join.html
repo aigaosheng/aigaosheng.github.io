@@ -1,0 +1,126 @@
+---
+layout: post
+title: 'SQL tips: filter first before join'
+date: 2022-07-11 18:10:13.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Programming language
+tags:
+- sql
+- SQL optimization
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1657534215'
+  _publicize_job_id: '74592900738'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3251908758427609";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1546436728407425027";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/07/11/sql-tips-filter-first-before-join/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>When JOIN multiple tables, the direct and simple way is to sequentially join one-by-one, e.g. if you have a table with schema as, which record a pair of samples, saying ima &amp; imb are item ids.  </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>CREATE TABLE IF NOT EXISTS pair (
+   ima BIGINT,
+   imb BIGINT
+)
+PARTITION BY (
+  ds STRING
+)
+LIFECYCLE 7
+; </code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Then each item is represented by a high-dimensional (e.g. 1024 dimension) vector, store in another table, like</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>CREATE TABLE IF NOT EXISTS emb (
+   imid BIGINT,
+   vec STRING
+)
+PARTITION BY (
+  ds STRING
+)
+LIFECYCLE 7
+; 
+
+Note: vec is concatenating all vector elements into a string for easily store in SQL table. e.g. a 5-dimension vector [1,2,3,4,5], which is stored as "1,2,3,4,5" if comma as separator
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>In practice, emb table is often very large because it stores all history vector calculated. e.g. if the vector is image embedding. The item already calculated in the past is not re-calculated today for reduce duplicate calculation. While the item in pair table is often a subset of emb. In case of millions of items, emb table size may be ~TB/PB. If we need to calculate the cosine similarity of item pair in pair table, like   </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>CREATE TABLE pair_cosine LIFECYCLE 7 AS
+SELECT p.ima,p.imb, COSINE(a1.vec,a2.vec) FROM (
+  SELECT ima, imb FROM pair WHERE ds=bizdate
+)p
+JOIN (
+  SELECT imid, vec FROM emb WHERE ds=bizdate
+)a1
+ON p.ima=a1.imid
+JOIN (
+  SELECT imid, vec FROM emb WHERE ds=bizdate
+)a2
+ON p.imb=a2.imid
+;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Because emb table is TB/PB scale, there will be performance issue using the above naive script. A lot of time spends on loading emb table.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Considering the items in pair table being a relatively small subset of emb, it is more efficient if collecting subset embedding in temporary table, and then do above operation. The example script like</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>CREATE TABLE emb_a LIFECYCLE 7 AS
+SELECT p.ima,a1.vec FROM (
+  SELECT DISTINCT ima FROM pair WHERE ds=bizdate
+)p
+JOIN (
+  SELECT imid, vec FROM emb WHERE ds=bizdate
+)a1
+ON p.ima=a1.imid
+;
+
+CREATE TABLE emb_b LIFECYCLE 7 AS
+SELECT p.imb,a1.vec FROM (
+  SELECT DISTINCT imb FROM pair WHERE ds=bizdate
+)p
+JOIN (
+  SELECT imid, vec FROM emb WHERE ds=bizdate
+)a1
+ON p.imb=a1.imid
+;
+
+CREATE TABLE pair_cosine LIFECYCLE 7 AS
+SELECT p.ima,p.imb, COSINE(a1.vec,a2.vec) FROM (
+  SELECT ima, imb FROM pair WHERE ds=bizdate
+)p
+JOIN emb_a a1
+ON p.ima=a1.ima
+JOIN emb_b a2
+ON p.imb=a2.imb
+;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>After above process optimization, performance will be improved. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Remember SQL cannot do all possible optimization for you. It is best practice to analyze the performance bottleneck and try to optimize block-by-block. Sometime it is not a big issue if enough resource. But resource is not always enough because big data always exp increasing.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

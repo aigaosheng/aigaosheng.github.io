@@ -1,0 +1,114 @@
+---
+layout: post
+title: How to patch Python project into executable command
+date: 2024-05-30 22:38:57.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags:
+- pex
+- Python
+meta:
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1717079939'
+  timeline_notification: '1717079941'
+  _publicize_job_id: '95033868199'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_473692035186965";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1717079947;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1717080304
+  _elasticsearch_data_sharing_indexed_on: '2024-05-30 14:42:23'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/05/30/how-to-patch-python-project-into-executable-command/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>It is not easy to deploy a Python project in cross-platform and cross-machine. You need spend time to prepare requirements.txt and solve the package version conflict. If project can be processed into one command, running the command can start the project function, which looks reduce deploying time.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><a href="https://github.com/pex-tool/pex">pex </a>is just what you need. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>How to use pex tool to patch your project into one command? </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Demo project <a href="https://github.com/aigaosheng/python-cli-demo">Patch Python fastapi server project into command </a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>1. Create a virtual environment, if don't have. Then activate env</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>2. Install pex tool</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>pip install pex</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>3. Put all project code in a directory, e.g. in the demo project, it is "src"</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>4. Prepare entry function, e.g. in the demo, it is def run() in app.py, and import it in src/<strong>__init__</strong>.py</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>5. Prepare pyproject.toml. MUST: in [project.scripts], set adder = "app:run" (app:run is entry of program)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>6. Run pex to patch (outside src/). server_cli.pex is output executable name (can be any, extention .pex not necessary)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>pex . -o server_cli.pex -r requirements.txt -D src -c adder</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>7. Test command</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code># Start server
+./server_cli.pex
+
+# code call server endpoint
+
+import requests
+
+params = {
+
+"msg": "u catch it?",
+
+}
+
+url = "http://0.0.0.0:8000"
+
+rsp = requests.post(url, json = params)
+
+rsp.json()
+
+Output: {'msg': 'u catch it?', 'is_success': True}</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>In Python3, there is a tool, zipapp. But it has limitation:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:quote --></p>
+<blockquote class="wp-block-quote"><p>
+<!-- wp:paragraph --></p>
+<p>Any files may be present in the ZIP archive, <strong>but importers are only invoked for .py and .pyc files. ZIP import of dynamic modules (.pyd, .so) is disallowed</strong>. <a href="https://stackoverflow.com/questions/73040963/modulenotfound-exception-with-zipapp-and-compiled-c-code">https://stackoverflow.com/questions/73040963/modulenotfound-exception-with-zipapp-and-compiled-c-code</a></p>
+<p><!-- /wp:paragraph -->
+</p></blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:paragraph --></p>
+<p>For example, when zipapp langchain, it report orjson cannot loaded. Another noisy thing is that zipapp need downloads dependency to you  project fold, which makes messy.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p> Many thanks to the project, <a href="https://github.com/cwgem/pex_simple_cli">pex_simple_cli</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

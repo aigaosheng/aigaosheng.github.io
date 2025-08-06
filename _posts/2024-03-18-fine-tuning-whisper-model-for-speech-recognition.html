@@ -1,0 +1,83 @@
+---
+layout: post
+title: Fine-tuning Whisper model for speech recognition
+date: 2024-03-18 22:04:48.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- Algorithm
+tags:
+- speech recognition
+- speech to text
+- Transformer
+- Whisper
+- word error rate
+meta:
+  _jetpack_memberships_contains_paywalled_content: ''
+  _jetpack_memberships_contains_paid_content: ''
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1710770690'
+  timeline_notification: '1710770691'
+  _publicize_job_id: '92825093238'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_428859806336855";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1710770699;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1710821025
+  _elasticsearch_data_sharing_indexed_on: '2024-03-19 04:05:44'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/03/18/fine-tuning-whisper-model-for-speech-recognition/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>Although OpenAI open-sourced multi-lingual Whisper model, <a href="https://github.com/openai/whisper">https://github.com/openai/whisper</a>, achived the state-of-art results in the benchmark dataset, there are many scenaria the pretrained models donot work well. For example, the languages not covered in the pretrained model. Whisper-V3 support 100 languages. Thus, the model must be re-trained in order to support new language. For the minority languages, even they are covered in the pretrained model, the accuracy is often worse and need to collect more data to adapt the pretrained model in order to reduce word error rate. In the post, huggingface implemented whisper version is used to fine-tune the Chinese language (It is just for testing training code functionality rather than training a product version model. No computing resource. As soon as resources (computing and data) ready, SOTA model can be trained). You can refer <a href="https://github.com/openai/whisper">Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers</a> . The following figure shows the logic flow for model training.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2194,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/03/whisper_flow_img.png?w=677" alt="" class="wp-image-2194"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Get annotated training data, i.e. a set of speech-text pair samples. In the demo code, I get the data from the <a href="https://huggingface.co/datasets/mozilla-foundation/common_voice_11_0/tree/main/audio/zh-CN">common-voice (Chinese)</a> </li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Download the pretrained whisper based model</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Transform speech wave data  to Mel-spectrum features, which are further feeded into transformer encoder<!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li>For Whisper, speech must be 16K sample rate. If not, nee re-sampling</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>The size of Mel band is 80 or 128 (for whisper large)</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Transformer encoder-decoder is trained to learn text-audio cross attension and audio self-attention. The predicted next token, P(next-token|text, audio) (the probability is calculated in the decoder), together with ground-truth text to calculate cross-entropy loss. Then gradients are computed and model parameters are updated.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>The training code and word-error-rate (WER) evaluation code is in the following:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>"""<br>Test codes for fine-tuning Whisper speech-to-text, i.e. speech recognition <br>"""<br><br>from datasets import load_dataset, DatasetDict, Audio<br>from transformers import WhisperFeatureExtractor, WhisperTokenizer, WhisperProcessor, WhisperForConditionalGeneration<br>import torch<br>from dataclasses import dataclass<br>from typing import Any, Dict, List, Union<br>import evaluate<br>from transformers import Seq2SeqTrainingArguments<br>from transformers import Seq2SeqTrainer<br>from evaluate import load<br><br><br>@dataclass<br>class DataCollatorSpeechSeq2SeqWithPadding:<br>    processor: Any<br><br>    def __call__(self, features: List[Dict[str, Union[List[int], torch.Tensor]]]) -&gt; Dict[str, torch.Tensor]:<br>        # split inputs and labels since they have to be of different lengths and need different padding methods<br>        # first treat the audio inputs by simply returning torch tensors<br>        input_features = [{"input_features": feature["input_features"]} for feature in features]<br>        batch = self.processor.feature_extractor.pad(input_features, return_tensors="pt")<br><br>        # get the tokenized label sequences<br>        label_features = [{"input_ids": feature["labels"]} for feature in features]<br>        # pad the labels to max length<br>        labels_batch = self.processor.tokenizer.pad(label_features, return_tensors="pt")<br><br>        # replace padding with -100 to ignore loss correctly<br>        labels = labels_batch["input_ids"].masked_fill(labels_batch.attention_mask.ne(1), -100)<br><br>        # if bos token is appended in previous tokenization step,<br>        # cut bos token here as it's append later anyways<br>        if (labels[:, 0] == self.processor.tokenizer.bos_token_id).all().cpu().item():<br>            labels = labels[:, 1:]<br><br>        batch["labels"] = labels<br><br>        return batch<br>        <br>def compute_metrics(pred):<br>    pred_ids = pred.predictions<br>    label_ids = pred.label_ids<br><br>    # replace -100 with the pad_token_id<br>    label_ids[label_ids == -100] = tokenizer.pad_token_id<br><br>    # we do not want to group tokens when computing the metrics<br>    pred_str = tokenizer.batch_decode(pred_ids, skip_special_tokens=True)<br>    label_str = tokenizer.batch_decode(label_ids, skip_special_tokens=True)<br><br>    wer = 100 * metric.compute(predictions=pred_str, references=label_str)<br><br>    return {"wer": wer}<br>    <br>def prepare_dataset(batch):<br>    # load and resample audio data from 48 to 16kHz<br>    audio = batch["audio"]<br>    # print(f"""** {batch}""")<br>    # compute log-Mel input features from input audio array <br>    batch["input_features"] = feature_extractor(audio["array"], sampling_rate=audio["sampling_rate"]).input_features[0]<br>    # encode target text to label ids <br>    batch["labels"] = tokenizer(batch["sentence"]).input_ids<br>    # print(f"""** {batch["labels"]}""")<br>    return batch<br><br>#Step-1: Define model structure &amp; initialization, feature extractor, text tokenizer<br>model_base_default = "openai/whisper-small"<br>language = "zh"<br>save_dir = "whisper-small-zh-me"<br>max_steps = 500<br><br>feature_extractor = WhisperFeatureExtractor.from_pretrained(model_base_default, language=language)<br>tokenizer = WhisperTokenizer.from_pretrained(model_base_default, task="transcribe", language=language)<br>processor = WhisperProcessor.from_pretrained(model_base_default, task="transcribe", language=language)<br><br>#Step-2: Prepare train/dev/test data<br>common_voice1 = DatasetDict()<br>common_voice1["train"] = load_dataset("mozilla-foundation/common_voice_11_0", "zh-CN", split="train", use_auth_token=False).select(range(1000))<br>common_voice1["test"] = load_dataset("mozilla-foundation/common_voice_11_0", "zh-CN", split="test", use_auth_token=False).select(range(50))<br>common_voice = common_voice1.remove_columns(["accent", "age", "client_id", "down_votes", "gender", "locale", "path", "segment", "up_votes"])<br>common_voice = common_voice.cast_column("audio", Audio(sampling_rate=16000))<br>common_voice = common_voice.map(prepare_dataset, remove_columns=common_voice.column_names["train"], num_proc=1)<br><br><br>data_collator = DataCollatorSpeechSeq2SeqWithPadding(processor=processor)<br>metric = evaluate.load("wer")                                             <br><br>#<br>model = WhisperForConditionalGeneration.from_pretrained(model_base_default)<br>model.generation_config.language = language<br><br>model.config.forced_decoder_ids = None<br>model.config.suppress_tokens = []<br><br><br>training_args = Seq2SeqTrainingArguments(<br>    output_dir=save_dir, #"./whisper-small-zh-me",  # change to a repo name of your choice<br>    per_device_train_batch_size=16,<br>    gradient_accumulation_steps=1,  # increase by 2x for every 2x decrease in batch size<br>    learning_rate=1e-5,<br>    warmup_steps=100, #500,<br>    max_steps=max_steps, #4000,<br>    gradient_checkpointing=True,<br>    fp16=True,<br>    evaluation_strategy="steps",<br>    per_device_eval_batch_size=8,<br>    predict_with_generate=True,<br>    generation_max_length=225,<br>    save_steps=500, #500, #1000,<br>    eval_steps=500, #500, #1000,<br>    logging_steps=25,<br>    report_to=["tensorboard"],<br>    load_best_model_at_end=True,<br>    metric_for_best_model="wer",<br>    greater_is_better=False,<br>    push_to_hub=False, #True,<br><br><br>)<br><br>trainer = Seq2SeqTrainer(<br>    args=training_args,<br>    model=model,<br>    train_dataset=common_voice["train"],<br>    eval_dataset=common_voice["test"],<br>    data_collator=data_collator,<br>    compute_metrics=compute_metrics,<br>    tokenizer=processor.feature_extractor,<br>)<br>trainer.train()<br><br>#evaluate the model trained<br>#evaluation<br><br># from datasets import load_dataset<br># from transformers import WhisperForConditionalGeneration, WhisperProcessor<br># import torch<br># from evaluate import load<br># from datasets import Audio<br><br># librispeech_test_clean = load_dataset("librispeech_asr", "clean", split="test")<br><br>model_pth = f"{save_dir}/checkpoint-{max_steps}" #(<br>model_token_pth = "openai/whisper-small"<br># model_pth = "openai/whisper-large"<br>is_local = True<br>processor = WhisperProcessor.from_pretrained(model_token_pth)#"openai/whisper-small")<br>model = WhisperForConditionalGeneration.from_pretrained(model_pth, local_files_only=is_local).to("cuda")<br><br>def map_to_pred(batch):<br>    audio = batch["audio"]<br>    input_features = processor(audio["array"], sampling_rate=audio["sampling_rate"], return_tensors="pt").input_features<br>    batch["reference"] = processor.tokenizer._normalize(batch['sentence'])<br><br>    with torch.no_grad():<br>        predicted_ids = model.generate(input_features.to("cuda"))[0]<br>    transcription = processor.decode(predicted_ids)<br>    batch["prediction"] = processor.tokenizer._normalize(transcription)<br>    return batch<br><br>common_voice2 = common_voice1["test"].cast_column("audio", Audio(sampling_rate=16000))<br>result = common_voice2.map(map_to_pred)<br><br>wer = load("wer")<br>print(100 * wer.compute(references=result["reference"], predictions=result["prediction"]))<br><br>                                        </code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>The above code is tested in 4070. </p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

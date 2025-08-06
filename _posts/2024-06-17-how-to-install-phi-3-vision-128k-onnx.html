@@ -1,0 +1,203 @@
+---
+layout: post
+title: How to install Phi-3-vision 128k onnx
+date: 2024-06-17 18:02:41.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- LLM
+- multimodal LLM
+tags:
+- multimodal
+- phi-3 vision
+meta:
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1718618562'
+  timeline_notification: '1718618564'
+  _publicize_job_id: '95504259890'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_484392007450301";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1718618570;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _elasticsearch_data_sharing_indexed_on: '2024-06-19 13:34:58'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/06/17/how-to-install-phi-3-vision-128k-onnx/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>Open-source LLMs (text modality) are involution and competitive among the AI companies. There are also quantization optimized small LLMs available (e.g. llm.cpp, ollama), which are running realtime in the low-memory consumer GPU (e.g. 4070 10GB for me), and even CPUs (but inference slowly). In contrast, open-sourced multimodal LLMs are not so. For example, my favorite Llava model (by Ollama) is not upgraded almost more than half-year, its latest version is still 1.6 in Ollama (Although the auhors have new versions in <a href="https://github.com/haotian-liu/LLaVA">LLaVA: Large Language and Vision Assistant</a>). That is why it is so exciting to read Microsoft releasing Phi-3 vision 128K with amazing performance comparing with GPT-4o. Although it can load in 10GB GPU, it will fail when prompt is longer (OOM). I am waiting for the community of llm.cpp or Ollama to add support. It looks quite slow. Up to now, the only available quant version (~2GB) is Microfoft released onnx version. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Following <a href="https://onnxruntime.ai/docs/build/inferencing">onnx install instruction</a>, you can install Phi-3-vision 128k in your local desktop. But it needs a little effort. According to the instruction, I install in Apple M1 (generation is slow, about 100s to process a query), and Ubuntu 22.04 RTX-4070 (3s to process a query). </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Install in Apple M1 is quite easy comparing with Ubuntu, bassed on my experience. So I will mainly focus on install on Ubuntu. Enironment configure is a must to success.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>Step-1: Recommend to install from open-source<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>git clone --recursive https://github.com/Microsoft/onnxruntime.git</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li><code>git clone https://github.com/microsoft/onnxruntime-genai</code></li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Step-2: create a new conda environment<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>When I first install, I use existing conda environment. But it always report protoc version incompatible. It spends me a lot of time (considering compile onnxruntime lib very slow, about 1-hour), and then you get compile fail. I google but not find a good solution. After investigate, protoc in Ubuntu 22.04 is 3.20 while onnxruntime use 3.12. So I remove protoc 3.20 and create new conda env (you need install <strong>numpy</strong> after env ready)</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Step-3: compile onnxruntime<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>cd onnxruntime</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<code>./build.sh --build_shared_lib --skip_tests --parallel 8 --use_cuda --config Release</code> <code>--cmake_extra_defines CMAKE_CUDA_ARCHITECTURES="89"</code><!-- wp:list --></p>
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>--parallel: you need set a number of parallel threads based on how many cores in you desktop. If you not set, default it will use maximum. Then you will find desktop is no response.</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<code>--cmake_extra_defines</code>: MUST set. Default is 80, which may not compatible with your GPU. For RTX 4070, <code>CUDA ARCHITECTURES</code> is 89. You can google to find the value for your GPU. If you donot set, you will get cuda architecture not match.</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>CUDA version: 12.3 in my system</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>The step is very slow. Just rest</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>After compiling completed, compy the library and head files to onnxruntime-genai.<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li><code>cp include/onnxruntime/core/session/onnxruntime_c_api.h ../onnxruntime-genai/ort/include </code></li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li><code>cp build/Linux/Release/libonnxruntime*.so* ../onnxruntime-genai/ort/lib</code></li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Step-4: compile onnxruntime-genai<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li><code>cd ../onnxruntime-genai</code></li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>
+<code>python build.py --use_cuda</code> --config Release --parallel 8 <code>--cmake_extra_defines CMAKE_CUDA_ARCHITECTURES="89"</code>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>cd build/Linux/Release/wheel<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li><code>pip install *.whl</code></li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Step-5: Download Phi-3 vision 128K onnx model (CUDA)<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>huggingface-cli download microsoft/Phi-3-vision-128k-instruct-onnx-cuda  --local-dir YOUR_LOCAL_DIR<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>I remove --include cuda-int4-rtn-block-32/*, because command fails if use it.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Download sample code to do test<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>curl https://raw.githubusercontent.com/microsoft/onnxruntime-genai/main/examples/python/phi3v.py -o phi3v.py</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>python phi3v.py -m cuda-int4-rtn-block-32 (model path). <!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>Please note: the demo code only accept image file in your local PC. So if you want to input other format, like base64, image URL, you need write your own wrap-up function to process.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Step-6: Wrap up your own service.  I build a server based on Phi-3 vision, a compatible API interface.  The following image is a streamlit app I build, which let user upload local image or input image url, then you input prompt, the app will call Phi-3 vision service and return result.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Example 1</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Prompt: tell me about the image</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2376,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/06/screenshot-from-2024-06-17-17-58-38.png?w=817" alt="" class="wp-image-2376"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p> Example 2</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Prompt: tell me a story based on the image</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2378,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/06/screenshot-from-2024-06-17-18-00-49.png?w=817" alt="" class="wp-image-2378"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Based on your applications, you can tune prompt to generate what you want output.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

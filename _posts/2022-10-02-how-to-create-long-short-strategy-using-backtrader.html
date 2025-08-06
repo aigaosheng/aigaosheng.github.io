@@ -1,0 +1,400 @@
+---
+layout: post
+title: How to create long-short strategy using backtrader
+date: 2022-10-02 12:00:12.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- stock
+tags:
+- backtrader
+- fintech
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1664683215'
+  _publicize_job_id: '77295283136'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_178891024667069";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1576421813005029376";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/10/02/how-to-create-long-short-strategy-using-backtrader/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>In the last post <a href="https://aisengtech.com/2022/09/27/how-to-build-machine-learning-model-to-generate-trading-signal/">How to build machine learning model to generate trading signal</a>, I share the general processing flow to apply machine learning based signal prediction to create a long strategy. Now I will share how to create a long-short strategy using backtrader to improve the trading performance. In the following, I will discuss four topics:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>How to use personalized data format (CSV) in backtrader</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>How to add personalized signal line in plot</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>How to set a long-short strategy</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Performance comparison between only-long and long-short stragtegy</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5>How to use personalized CSV format</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Backtrader provides API to read Yahoo-format OHLC CSV file. When new columns in CSV, you need write your own CSV reader. For example, in machine learning based trading, I predict buy/sell/hold signal and write OHLC together with predicted signal in CSV, like </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1775,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/10/image-1.png?w=1024" alt="" class="wp-image-1775"><br />
+<figcaption class="wp-element-caption">Example of ML-based signal generation for trading (column predict is signal, 0=hold,1=buy,2=sell)</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>The CSV cannot read using Yahoo CSV reader in backtrader. In order to read the format, write a new reader based on base class, bt.feeds.PandasData, in backtrader.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:syntaxhighlighter/code --></p>
+<pre class="wp-block-syntaxhighlighter-code">class MLPredictCsv(bt.feeds.PandasData):
+    '''
+    Desc: for customized CSV format
+    '''
+
+    # What new data will be availible in the Stratagies line object
+    lines = ('predict',)
+
+    # Which columns go to which variable
+    params = (
+        ('open', 'Open'),
+        ('high', 'High'),
+        ('low', 'Low'),
+        ('close', 'Close'),
+        ('Adj Close','Adj Close'),
+        ('volume', 'Volume'),
+        ('openinterest', 'openinterest'),
+        ('predict', 'signal'),
+    )</pre>
+<p><!-- /wp:syntaxhighlighter/code --></p>
+<p><!-- wp:paragraph --></p>
+<p>In the above personalized CSV reader, each element in params is a mapping, first value being backtrader internal variable name which is actually used in backtrade test and second being the column name in CSV. Then you can read your CSV like, and use data as normal.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:syntaxhighlighter/code --></p>
+<pre class="wp-block-syntaxhighlighter-code">mlpredicted_signal = pd.read_csv(ml_predict_csv_file,
+                                parse_dates=True,
+                                index_col=0,                             
+                            )
+ data = MLPredictCsv(dataname=mlpredicted_signal)
+</pre>
+<p><!-- /wp:syntaxhighlighter/code --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5>How to personalize signal line</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Because signal is predicted by third-party tool, the buy/sell/hold signal will not be automatically display in plot. In order to display personal lines, you need write another class based on bt.Indicator.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code> class MLSignal(bt.Indicator):
+
+    lines = ('predict',)
+
+    def __init__(self):
+        self.lines.predict = self.data0.predict</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Then add it in __init__() of strategy class, like</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>class MLStrategy(bt.Strategy):
+    params = dict(
+        onlylong = False
+    )
+    
+    def log(self, txt, dt=None):
+        ''' Logging function fot this strategy'''
+        dt = dt or self.datas[0].datetime.date(0)
+        print('%s, %s' % (dt.isoformat(), txt))
+
+    def __init__(self):
+        # Keep a reference to the "close" line in the data[0] dataseries
+        self.dataclose = self.datas[0].close
+        self.dataopen = self.datas[0].open
+        self.ml_signal = MLSignal(self.data)
+        # To keep track of pending orders
+        self.order = None</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Then in plot, MLSignal predict line will be shown. Otherwise, it is not.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1780,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/10/image-2.png?w=390" alt="" class="wp-image-1780"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5>How to use long-short strategy </h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>In the backtrader source code, there is an example file, <strong>LongShortStrategy.py,</strong> to show how to use long-short. In the following, I will share my complete code for long-short &amp; long strategy test.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>#*-* coding: utf-8 *-*
+#!/usr/bin/env python3
+
+'''
+long-short strategy evaluation
+'''
+from __future__ import (absolute_import, division, print_function,
+                        unicode_literals)
+
+import datetime  # For datetime objects
+import os.path  # To manage paths
+import sys  # To find out the script name (in argv[0])
+import backtrader as bt
+import backtrader.indicators as btind
+from backtrader.feeds import GenericCSVData
+
+import itertools
+import backtrader as bt
+import pandas as pd
+import quantstats
+from backtrader.analyzers import (SQN, AnnualReturn, TimeReturn, SharpeRatio,
+                                  TradeAnalyzer)
+
+# onlylong = False
+
+class MLSignal(bt.Indicator):
+
+    lines = ('predict',)
+
+    def __init__(self):
+        self.lines.predict = self.data0.predict
+
+class MLPredictCsv(bt.feeds.PandasData):
+    '''
+    Desc: for customized CSV format
+    '''
+
+    # What new data will be availible in the Stratagies line object
+    lines = ('predict',)
+
+    # Which columns go to which variable
+    params = (
+        ('open', 'Open'),
+        ('high', 'High'),
+        ('low', 'Low'),
+        ('close', 'Close'),
+        ('Adj Close','Adj Close'),
+        ('volume', 'volume'),
+        ('openinterest', 'openinterest'),
+        ('predict', 'signal'),
+    )
+
+# Create a Stratey
+class MLStrategy(bt.Strategy):
+    params = dict(
+        onlylong = False
+    )
+    
+    def log(self, txt, dt=None):
+        ''' Logging function fot this strategy'''
+        dt = dt or self.datas[0].datetime.date(0)
+        print('%s, %s' % (dt.isoformat(), txt))
+
+    def __init__(self):
+        # Keep a reference to the "close" line in the data[0] dataseries
+        self.dataclose = self.datas[0].close
+        self.dataopen = self.datas[0].open
+        self.ml_signal = MLSignal(self.data)
+        # To keep track of pending orders
+        self.order = None
+
+    def notify_order(self, order):
+        if order.status in [order.Submitted, order.Accepted]:
+            # Buy/Sell order submitted/accepted to/by broker - Nothing to do
+            return
+
+        # Check if an order has been completed
+        # Attention: broker could reject order if not enough cash
+        if order.status in [order.Completed]:
+            if order.isbuy():
+                self.log('BUY EXECUTED, %.2f' % order.executed.price)
+            elif order.issell():
+                self.log('SELL EXECUTED, %.2f' % order.executed.price)
+
+            self.bar_executed = len(self)
+
+        elif order.status in [order.Canceled, order.Margin, order.Rejected]:
+            self.log('Order Canceled/Margin/Rejected')
+
+        # Write down: no pending order
+        self.order = None
+
+    def next(self):
+        #if order is active, no new order allow
+        if self.order:
+            return
+
+        # Check if we are in the market
+        if self.ml_signal.lines.predict &gt; 0:
+            if self.position:
+                self.log('CLOSE SHORT , %.2f' % self.data.close[0])
+                self.close()
+            # Buy
+            self.log('BUY CREATE, %.2f' % self.dataclose[0])
+            self.order = self.buy()
+        elif self.ml_signal.lines.predict &lt; 0:
+            if self.position:
+                self.log('CLOSE LONG , %.2f' % self.data.close[0])
+                self.close()
+            
+            if not self.p.onlylong:
+                self.log('SELL CREATE , %.2f' % self.data.close[0])
+                self.sell()
+
+def strategyEvaluate(tick_symbol, ml_predict_csv, strategy_log_file, quant_output, quant_output_html, n_stake = 40, cash_capital = 1000, is_onlylong = False):
+    '''
+    Desc: ML predict signal based strategy evaluation
+
+    '''
+    mlpredicted_signal = pd.read_csv(ml_predict_csv,
+                                parse_dates=True,
+                                index_col=0,                             
+                            )
+    def mapsignal(x):
+        if x == 0:
+            return 0 #bt.SIGNAL_NONE
+        elif x == 1:
+            return 1 #bt.SIGNAL_LONG
+        elif x == 2:
+            return -1 #bt.SIGNAL_SHORT
+    
+    mlpredicted_signal['signal'] = mlpredicted_signal['signal'].transform(mapsignal)
+
+    yr1, mth1, day1 = list(map(lambda x:int(x),str(mlpredicted_signal.index[0]).split(' ')[0].split('-')))
+    yr2, mth2, day2 = list(map(lambda x:int(x),str(mlpredicted_signal.index[-1]).split(' ')[0].split('-')))
+    
+    mlpredicted_signal['openinterest'] = 0
+    data = MLPredictCsv(dataname=mlpredicted_signal)
+
+    # create Cerebro instance and attach data to it
+    cerebro = bt.Cerebro()
+    cerebro.adddata(data)
+    # Add a strategy
+    cerebro.addstrategy(MLStrategy, onlylong = is_onlylong)
+    # Set our desired cash start
+    cerebro.broker.setcash(cash_capital)
+
+#     cerebro.broker.setcommission(commission=0)
+
+    #Add strategy to Cerebro
+    cerebro.addanalyzer(bt.analyzers.SharpeRatio, _name='sharpe_ratio')
+    cerebro.addanalyzer(bt.analyzers.PyFolio, _name='PyFolio')
+    cerebro.addanalyzer(TradeAnalyzer)
+
+    # better net liquidation value view
+    cerebro.addobserver(bt.observers.Value)
+
+    # Default position size
+    cerebro.addsizer(bt.sizers.SizerFix, stake=n_stake)    
+    
+    #add output log file 
+    cerebro.addwriter(bt.WriterFile, csv=True, out=strategy_log_file)    
+
+
+    # Print out the starting conditions
+    print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
+
+    # Run over everything
+    results = cerebro.run()
+
+    # Print out the final result
+    print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
+
+    #Get strategy stats
+    strat = results[0]
+    portfolio_stats = strat.analyzers.getbyname('PyFolio')
+    returns, positions, transactions, gross_lev = portfolio_stats.get_pf_items()
+    returns.index = returns.index.tz_convert(None)
+    
+    # print(returns)
+    # print(positions)
+    # print(portfolio_stats)
+    quantstats.reports.html(returns, output = quant_output, download_filename = quant_output_html, title = tick_symbol)
+    
+    import webbrowser
+    webbrowser.open(quant_output_html)
+
+    cerebro.plot(iplot=False)
+
+if __name__ == '__main__':
+    tick_symbol = 'TQQQ'
+    signal_file = f'{tick_symbol}_predict_eval_test.csv'
+    o_strategy_log_file = f'{tick_symbol}_predict_eval_strategy.log'
+    o_quant_output_file = f'{tick_symbol}_predict_eval_strategy.stats'
+    o_quant_output_html = f'{tick_symbol}_predict_eval_strategy.html'
+    n_stake = 10
+    cash_capital = 1000
+    is_onlylong = False #True, False=long-short, True=only long without short
+
+    strategyEvaluate(tick_symbol, signal_file, o_strategy_log_file, o_quant_output_file, o_quant_output_html, n_stake, cash_capital, is_onlylong)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5>Performance comparison between longshort &amp; long only</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:image {"id":1785,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/10/long.png?w=1021" alt="" class="wp-image-1785"><br />
+<figcaption class="wp-element-caption">Long only</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:jetpack/image-compare {"imageBefore":{"id":1785,"url":"https://aisengtech.com/wp-content/uploads/2022/10/long.png","alt":"","width":1021,"height":696},"imageAfter":{"id":1786,"url":"https://aisengtech.com/wp-content/uploads/2022/10/longshort.png","alt":"","width":1014,"height":701},"caption":"Longshort"} --></p>
+<figure class="wp-block-jetpack-image-compare">
+<div class="juxtapose" data-mode="horizontal">
+<img id="1785" src="{{site.baseurl}}/assets/2022/10/long.png" alt="" width="1021" height="696" class="image-compare__image-before"><img id="1786" src="{{site.baseurl}}/assets/2022/10/longshort.png" alt="" width="1014" height="701" class="image-compare__image-after">
+</div>
+<figcaption>Longshort</figcaption>
+</figure>
+<p><!-- /wp:jetpack/image-compare --></p>
+<p><!-- wp:paragraph --></p>
+<p>The obvious difference between long &amp; longshort in that in 2022, longshort is quite better than long only. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1791,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/10/screenshot-from-2022-10-02-11-48-47.png?w=617" alt="" class="wp-image-1791"><br />
+<figcaption class="wp-element-caption">Long only</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:image {"id":1792,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/10/longshort-2.png?w=609" alt="" class="wp-image-1792"><br />
+<figcaption class="wp-element-caption">Longshort</figcaption>
+</figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5>Summary</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Issues in ML predicted signal:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Prediction is still not robust enough. Some parameters changes will significantly affect performance</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Predicted signal based on daily, it is too many in/out operation. Need further post-optimize the signal</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Short is still very dangerous. As a naive, it is just for paper trading and test. Complete strategy need including many factors like signal pruning, risk control and capital management. Currently have no knowledge. </li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --><br />
+</body></html></p>

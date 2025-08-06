@@ -1,0 +1,56 @@
+---
+layout: post
+title: 'sympy: a python package for symbolic computation'
+date: 2024-04-06 12:18:07.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Python package
+tags:
+- symbolic computation
+meta:
+  _jetpack_memberships_contains_paywalled_content: ''
+  _jetpack_memberships_contains_paid_content: ''
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1712377088'
+  timeline_notification: '1712377090'
+  _publicize_job_id: '93325243796'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_440229315199904";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1712377097;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1712377271
+  _elasticsearch_data_sharing_indexed_on: '2024-04-06 04:19:41'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/04/06/sympy-a-python-package-for-symbolic-computation/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>Do you still remember how to calculate difference, gradient, limit, ... in mathematic? if you forget, never mind. Here is a python package to help you. What you need: know python programming and define your functions, and then call package function to do your task. Symbolic computation is important component in PyTorch and Tensorflow.  </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The package name is symoy, refer <a href="https://github.com/sympy/sympy">Python package for Symbolic Computation</a>. Symbolic computation deals with the computation of mathematical objects symbolically. This means that the mathematical objects are represented exactly, not approximately, and mathematical expressions with unevaluated variables are left in symbolic form. The following example</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>from sympy import *
+
+x = symbols('x')
+
+y = diff(sin(x)*exp(x), x)
+
+
+y is 𝑒<sup>𝑥</sup>sin(𝑥)+𝑒<sup>𝑥</sup>cos(𝑥)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>It is quite interesting. Will integrate into projects when symbolic processing is needed.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

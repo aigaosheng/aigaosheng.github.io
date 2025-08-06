@@ -1,0 +1,145 @@
+---
+layout: post
+title: How to build machine learning model to generate trading signal
+date: 2022-09-27 23:36:54.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- fintech
+tags:
+- backtrader
+- feature engineering
+- Machine learning
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1664293017'
+  _publicize_job_id: '77148550027'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_177995891423249";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1574785205117882369";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/09/27/how-to-build-machine-learning-model-to-generate-trading-signal/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>Recently I am working on how to build machine learning model to predict signal and build a winning strategy. Technical traders will read the price trending curve and use many technical analysis based signal to facilitate strategy operation such as bollinger band, macd, etc. But it is post analysis based on history, not having prediction power. I use the target stock history price sequence with the selected other security, they work together to extract statistics of price moving in different look-back window. Then I collect a set of feature samples and label the sample as buy, sell, and hold, a 3-category classification problem.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>In general, the overall processing flow as follows:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Download selected target stock history price and other selected stocks to enrich the target stock price </li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Feature engineering, e.g. extract n-look-back day statistics. I do not directly use price as feature because it depends on actual price, sensitive to price scale, and difficult to scale to other tasks</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Label sample as buy, hold and sell using selected criterio</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Develop machine learning model<!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li>Split data into train, development, and evaluation along the time</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Model training and optimization based on development set</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Predict buy, sell and hold signal in evaluation set. Save prediction to file for following analysis</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Based on predict signal, use backtrader, <a href="https://www.backtrader.com/">https://www.backtrader.com/</a>, to backtest performance of the machine learning based strategy</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Some thinking:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Use extra-security price improving prediction power</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Even a little increase in prediction accuracy, e.g. 1%, will see gain increase &amp; sharpe ratio improvement</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> Feature engineering is very important</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Next step: <!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li>strategy needs further improvement.</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>post-processing predicted signal to increase stability</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>need adding capital management.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>I have no finance &amp; trading experience. It is just a personal development to investigate if my ML &amp; system experience can work in the domain. Welcome discussion or leave comments if you are interested.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>   backtest performce on APPLE.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:cover {"url":"https://aisengtech.com/wp-content/uploads/2022/09/image.png?w=1024","id":1751,"dimRatio":50,"isDark":false,"style":{"color":[]}} --></p>
+<div class="wp-block-cover is-light">
+<span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-1751" alt="" src="{{site.baseurl}}/assets/2022/09/image.png?w=1024" data-object-fit="cover">
+<div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"center","fontSize":"large"} --></p>
+<p class="has-text-align-center has-large-font-size">
+<p><!-- /wp:paragraph -->
+</div>
+</div>
+<p><!-- /wp:cover --></p>
+<p><!-- wp:image {"id":1753,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/09/image-1.png?w=861" alt="" class="wp-image-1753"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:image {"id":1755,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/09/image-2.png?w=797" alt="" class="wp-image-1755"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:image {"id":1757,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/09/image-3.png?w=553" alt="" class="wp-image-1757"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>backtest on TQQQ</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1759,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/09/image-4.png?w=652" alt="" class="wp-image-1759"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:image {"id":1761,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/09/image-5.png?w=477" alt="" class="wp-image-1761"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Signal to suggest operation next day</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":1765,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2022/09/image-6.png?w=347" alt="" class="wp-image-1765"></figure>
+<p><!-- /wp:image --><br />
+</body></html></p>

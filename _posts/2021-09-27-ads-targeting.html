@@ -1,0 +1,63 @@
+---
+layout: post
+title: Ads targeting
+date: 2021-09-27 22:46:29.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- Algorithm
+- data science
+- Media industry
+- media industry data science
+- technology
+tags:
+- ads targeting
+- digital optimiser
+meta:
+  _last_editor_used_jetpack: block-editor
+  _publicize_job_id: '63489176069'
+  timeline_notification: '1632753993'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3039458933005927";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1442500936098717701";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2021/09/27/ads-targeting/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>As a publisher platform, broadcast companies create content to attract users to their platform, and earn money by ads operation or by content subscription. Because media company is business driven, and they do not have enough manpower to develop own ads technology such as user tracking, ads placement, ads optimization, ......, they use third-party service such as Google DoubleClick. Based on Google technology, the media company can get real-time data about how users react to the ads displayed to them, e.g. which ads unit displayed to users (impression), whether user click the ads or not. From ads click information, in-house data scientists can develop machine learning model (lookalike model) to predict how probability a user will click an ads. Thus, ads targeting will be implemented, i.e. targeting ads to precisely tailored audience. Thus, it can improve click through rate (CTR) and drive traffic.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Big internet tech companies such as Google, Facebook, Baidu have ads targeting products. But there is intention that media companies like to build their in-house technology because of data privacy and they do not want depend on third-party service too heavy. Building in-house technology can let them easily customized ads targeting model to support niche business requirements, and improves quick response to business.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>How to build ads  targeting model?</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Firstly, the problem is formulated as: given an ads - user pair, predict if user click the ads or not. Thus, from machine learning point, it is a binary classification problem.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Secondly, collect data to prepare training samples to learn a ML model. Collect ads-user pairs already displayed in the platform. If using Google DoubleClick, you can get the real-time impression log data. From these log data, you will know which ads unit impress the audience, and whether the audience click the ads. If the user click the ads, the impression is positive (1). Otherwise, it is negative (0). Thus, each ads-user log pair is tagged as 1 or 0.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Thirdly, represent the ads-user pair as a feature vector. In lookalike model, it try to find potential audience with similar behavior what they already know. Thus, ads information can be ignored. It only need to represent a user using a vector. This vector characterizes the user history behaviors in the platform from various dimension. How to use feature to represent a user, please refer to <a href="https://aisengtech.com/2021/09/14/your-browsing-behavior-expose-your-gender-age-ethnicity/">your-browsing-behavior-expose-your-gender-age-ethnicity</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Lastly, you can train any supervised machine learning model to do prediction. In my case, a simple weighted linear classifier works good, which is like mean of positive sample, negative sample, plus discriminative info comparing with a background model. A/B test on some ads unit shows promising results. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>After the model learned, we can rank audiences based on how much probability the audience will click the ads, and selected top-N to do ads targeting.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

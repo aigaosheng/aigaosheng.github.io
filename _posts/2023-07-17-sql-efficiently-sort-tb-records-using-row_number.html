@@ -1,0 +1,90 @@
+---
+layout: post
+title: 'SQL: Efficiently sort &gt;TB records using row_number'
+date: 2023-07-17 22:18:00.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- data science
+tags:
+- data engineer
+- SQL optimization
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1689603483'
+  _publicize_job_id: '85823999583'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_292494359973401";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v3-beta:1689603786
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2023/07/17/sql-efficiently-sort-tb-records-using-row_number/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>When randomly sampling or tagging records using row number  in a table, row_number() plus partition over is often used. For example, if there is a table with schema like,</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>CREATE TABLE IF NOT EXISTS A AS ( 
+   c1 STRING,
+   c2 STRING
+)
+PARTITIONED BY (
+   c3 STRING
+)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>If we want randomly sampling N records from each partition in A, in general, the script likes</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>CREATE TABLE B AS
+SELECT * 
+FROM (
+SELECT *,
+       ROW_NUMBER() OVER(PARTITION BY c3 ORDER BY RAND()) r
+FROM A
+)
+WHERE r&lt;=N
+;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>If A is small, e.g. less than 1 million,  there is not significant efficiency issue. But if A is bigger, particularly if string value is very long, which is the case when storing an image data as base64 encoded string, one image may have a few MB. Thus, millions of records may be more than a few TB. In this case, efficiency issue happens. It may run a few hours or even hang here.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>After analysis, the bottleneck is the last reduce stage, where only a few instances allocated, limited by partition size c3. e.g. if c3 has 3 partition,  3 instances allocated. In case of no partition table, it is 1 instance allocated. Since millions of records and large tables, it costs a lot of memory. Allocated instances cannot handle.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>To solve the issue, allocating more instances in reducer is a must. In order to make it work, we re-write the process logic as,</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>Assume c1 is sample_id colume, e.g. person identity. c2 is person image base64.
+
+CREATE TABLE B AS
+WITH b AS (
+  SELECT c1, c2 
+  FROM (
+    SELECT c1,
+         c3,
+         ROW_NUMBER() OVER(PARTITION BY c3 ORDER BY RAND()) r
+    FROM A
+  )
+  WHERE r&lt;=N
+)
+SELECT A.* 
+FROM  A
+JOIN b
+ON b.c1=A.c1
+;</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>After above re-organize the processing logic, block b does not load large value column c2 field, which makes it fast. And the JOIN operation can apply many instances, which is not constrained by c3 partition. In my case, when processing a few millions of image base64 records, it spends hours and cannot complete the task before re-organize logic. After re-write logic, a few minutes the job completes.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

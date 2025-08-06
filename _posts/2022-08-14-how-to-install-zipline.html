@@ -1,0 +1,65 @@
+---
+layout: post
+title: 'How to install Zipline: an algorithm trading tool'
+date: 2022-08-14 10:56:03.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- fintech
+tags:
+- ta-lib
+- zipline
+meta:
+  _last_editor_used_jetpack: block-editor
+  _oembed_482ac0237848bb1ec4a09ac40f15a06f: "{{unknown}}"
+  timeline_notification: '1660445767'
+  _publicize_job_id: '75733667165'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3276963215922163";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1558648668407857153";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2022/08/14/how-to-install-zipline/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>It is not easy to install Zipline, Pythonic algorithmic trading library,<a href="https://github.com/quantopian/zipline">https://github.com/quantopian/zipline</a>, even following the install instruction. The original package only support Python 3.6, and not support latest version. So I find a version in <a rel="noreferrer noopener" href="https://zipline.ml4trading.io/install.html" target="_blank">author's github of the book: machine learning for trading</a>, which support Python version &gt;= 3.7.  </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The technical analysis in Zipline uses a third-party library, <a href="https://www.ta-lib.org/">TA-LIB: technical analysis library</a>. Before installing ta-lib Python package, you need first compile ta-lib C++ library from the source code, following install instruction. After the C library ready in local, you can use pip to install package, e.g.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>1. Download source code: ta-lib-0.4.0-src.tar.gz
+2. decompress Zip file: tar -xzf ta-lib-0.4.0-src.tar.gz
+3. Compile lib and install
+$ ./configure --prefix=/usr
+$ make
+$ sudo make install
+4. Install Python package: pipenv install ta-lib (I use <a href="https://pipenv.pypa.io/en/latest/">Pipenv: tool to manageme Python virtual environment management</a>)</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Then when pipenv install zipline-reloaded, it is not success. Check the error, which report key Turkey not in country. After checking source code, it is found  Türkiye in the country name list (I remember Turkey changing country name to Türkiye, but code maybe a little old to update).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>Country("Türkiye", "TR", "TUR", "792", "Türkiye"),</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>So I clone the package to my repository,<a href="https://github.com/aigaosheng/zipline-reloaded">Upgraded zipline</a>, and doing upgrading the zipline for my usage, adding the following key mapping solving the issue.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>Country("Turkey", "TR", "TUR", "792", "Türkiye")</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you have any issue to install Zipline, welcome discuss.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

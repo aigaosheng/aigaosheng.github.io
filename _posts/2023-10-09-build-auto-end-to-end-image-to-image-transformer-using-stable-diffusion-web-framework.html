@@ -1,0 +1,60 @@
+---
+layout: post
+title: Build auto end-to-end image-to-image transformer using stable diffusion web
+  framework
+date: 2023-10-09 23:49:56.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- Algorithm
+tags:
+- image genration
+- mannequin image transform
+- stable diffusion webui
+meta:
+  _last_editor_used_jetpack: block-editor
+  footnotes: ''
+  timeline_notification: '1696866599'
+  _publicize_job_id: '88353595179'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_337525555470281";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1696866842
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2023/10/09/build-auto-end-to-end-image-to-image-transformer-using-stable-diffusion-web-framework/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>There are many articles, posts or YouTube video teaching how to use stable diffusion web UI framework, <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master">https://github.com/AUTOMATIC1111/stable-diffusion-webui/tree/master</a>, to replace face, background, cloth, style, etc. The interactive UI is easy to explore the capability of stable diffusion, e.g. how different diffusion model effects on the style of generated image, how to use inpainting to replacing face, cloth, background. But we are interesting to build auto end-to-end pipeline to do model transform, i.e. keeping cloth while replacing model and their pose. Here is the main recipe:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>Choose a base stable diffusion model based on the style your preferred. There are a lot of open-source models you can find in <a href="https://civitai.com/">https://civitai.com/</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Segment and mask cloth. You can use Meta segment anything, <a href="https://segment-anything.com/">https://segment-anything.com/</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Select a pose template. You can choose image that can extract pose. OpenPose can do pose extraction, <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose">https://github.com/CMU-Perceptual-Computing-Lab/openpose</a>.</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Align the cloth to pose template. The step is very important. If the alignment is good, perfect image is generated. Otherwise, the generated image is weird something.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Connect all the modules above together, end-to-end pipeline can be built. Input a cloth image &amp; pose template image, then output try-on cloth image with human model. Of course, the method works best on mannequin image transforming to human model. But for general challenging try-on, it cannot.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

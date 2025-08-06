@@ -1,0 +1,181 @@
+---
+layout: post
+title: Deploy local chatgpt or deepseek like application using gptme
+date: 2025-03-16 00:15:20.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- agent
+tags:
+- AI
+- artificial-intelligence
+meta:
+  _g_feedback_shortcode_5d2f4cf0ca240483cc3f2782fddbf88ee8fe6a62: "\n\t\t\t\t[contact-field
+    label=\"Name\" type=\"name\"  required=\"true\" /]\n\t\t\t\t[contact-field label=\"Email\"
+    type=\"email\" required=\"true\" /]\n\t\t\t\t[contact-field label=\"Website\"
+    type=\"url\" /]\n\t\t\t\t[contact-field label=\"Message\" type=\"textarea\" /]"
+  _g_feedback_shortcode_atts_5d2f4cf0ca240483cc3f2782fddbf88ee8fe6a62: a:17:{s:2:"to";s:19:"c013a2015@gmail.com";s:7:"subject";s:83:"[AI,
+    Tech &amp; Life] Deploy local chatgpt or deepseek like application using gptme";s:12:"show_subject";s:2:"no";s:6:"widget";i:0;s:14:"block_template";N;s:19:"block_template_part";N;s:2:"id";i:2484;s:18:"submit_button_text";s:6:"Submit";s:14:"customThankyou";s:0:"";s:21:"customThankyouHeading";s:26:"Your
+    message has been sent";s:21:"customThankyouMessage";s:30:"Thank you for your submission!";s:22:"customThankyouRedirect";s:0:"";s:10:"jetpackCRM";b:1;s:9:"className";N;s:9:"postToUrl";N;s:14:"salesforceData";N;s:12:"hiddenFields";N;}
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1742055322'
+  timeline_notification: '1742055323'
+  _publicize_job_id: '102501231383'
+  _elasticsearch_data_sharing_indexed_on: '2025-03-15 16:14:08'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_671054215450745";}}
+  _publicize_shares: a:9:{s:6:"status";s:7:"success";s:7:"message";s:53:"https://facebook.com/1630088060609695_671054215450745";s:9:"timestamp";i:1742055330;s:7:"service";s:8:"facebook";s:13:"connection_id";i:23923317;s:11:"external_id";s:16:"1630088060609695";s:13:"external_name";s:2:"Sw";s:15:"profile_picture";s:414:"https://scontent-iad3-1.xx.fbcdn.net/v/t1.30497-1/453178253_471506465671661_2781666950760530985_n.png?stp=cp0_dst-png_s50x50&_nc_cat=1&ccb=1-7&_nc_sid=22ec41&_nc_ohc=NtrlBO4xUsUQ7kNvgFsdRKI&_nc_oc=AditNZBGflo0y3L3N7nJPDH_PI19WTYd7Xf4wAygr_XGghgWWBuYM94oBQ7h3G6aGn0&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&edm=AGaHXAAEAAAA&_nc_gid=AKteDBDFiRdXQkUUIP6smkZ&oh=00_AYHZhzg0RabsGpRuIimdAuvKWO1GXyqmE6ldT9qtzqRsDg&oe=67F66DFA";s:12:"profile_link";s:41:"https://www.facebook.com/1630088060609695";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2025/03/16/deploy-local-chatgpt-or-deepseek-like-application-using-gptme/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>If you are concern privacy issue or cost of running agent based application, now you can do it by setup local application using <a href="https://github.com/gptme/gptme">GPTME: personal AI assistant/agent in your terminal</a>. Currently the repository cannot well support local models. If you want to support local models using <a href="https://ollama.com/search">Ollama</a>, you can install from the repository of my forked gptme, <a href="https://github.com/aigaosheng/gptme">gptme: support Ollama local models such as gemma3, llama3.2-vision, ...</a> The main addon of my version is to add local models supported into model-meta. The following is supported local models. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>"local": {
+        "gemma3": {
+            "context": 128_000,
+            "max_output": 32_768,
+            "price_input": 0.0,
+            "price_output": 0.0,
+            "supports_vision": True,
+        },
+        "llama3.2-vision": {
+            "context": 128_000,
+            "max_output": 32_768,
+            "price_input": 0.0,
+            "price_output": 0.0,
+            "supports_vision": True,
+        },
+        "deepseek-r1": {
+            "context": 128_000,
+            "max_output": 32_768,
+            "price_input": 0.0,
+            "price_output": 0.0,
+            "supports_vision": False,
+        },
+        "qwen2.5": {
+            "context": 128_000,
+            "max_output": 32_768,
+            "price_input": 0.0,
+            "price_output": 0.0,
+            "supports_vision": False,
+        },        
+    },</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:paragraph --></p>
+<p>Step-by-step to install gptme</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>Install pipx if not installed: <code>pip install --user pipx</code>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Install gptme: <!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li><code>pipx install gptme</code></li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Install with browser tool and server support: <code>pipx install 'gptme[server,browser]'</code>
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Setup configure: <code>~/.config/gptme/config.toml</code>, example <!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>MODEL can be changed at running time, e.g. if you want to use model llama3.2-vision, you can start <code>gptme --model local/llama3.2-vision</code>
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>[prompt]
+about_user = "I am a curious human programmer."
+response_preference = "Basic concepts don't need to be explained."
+
+[prompt.project]
+activitywatch = "ActivityWatch is a free and open-source automated time-tracker that helps you track how you spend your time on your devices."
+gptme = "gptme is a CLI to interact with large language models in a Chat-style interface, enabling the assistant to execute commands and code on the local machine, letting them assist in all kinds of development and terminal-based work."
+
+[env]
+MODEL="local/gemma3"
+OPENAI_BASE_URL="http://localhost:11434/v1"
+
+#TOOL_FORMAT = "markdown" # Select the tool formal. One of `markdown`, `xml`, `tool`
+TOOL_ALLOWLIST = "save,append,patch,ipython,shell,browser"  # Comma separated list of allowed tools
+TOOL_MODULES = "gptme.tools,custom.tools" # List of python comma separated python module path
+</code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>Start gptme: <code>gptme</code>. If you want to change default model, you can run <code>gptme --model local/MODEL_NAME</code><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item --></p>
+<li>If you local model not found, you can <code>ollama pull MODEL_NAME</code> to downlod models to local</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>Here is example to test local gemma3 vision </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:columns {"verticalAlignment":null} --></p>
+<div class="wp-block-columns">
+<!-- wp:column {"verticalAlignment":"stretch"} --></p>
+<div class="wp-block-column is-vertically-aligned-stretch">
+<!-- wp:image {"id":2494,"width":"338px","height":"auto","sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large is-resized"><img src="{{site.baseurl}}/assets/2025/03/t1-1.jpeg?w=960" alt="" class="wp-image-2494" style="width:338px;height:auto"></figure>
+<p><!-- /wp:image -->
+</div>
+<p><!-- /wp:column --></p>
+<p><!-- wp:column --></p>
+<div class="wp-block-column">
+<!-- wp:image {"id":2491,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2025/03/screenshot-from-2025-03-15-23-59-12.png?w=1024" alt="" class="wp-image-2491"></figure>
+<p><!-- /wp:image -->
+</div>
+<p><!-- /wp:column -->
+</div>
+<p><!-- /wp:columns --></p>
+<p><!-- wp:cover {"url":"https://aisengtech.wordpress.com/wp-content/uploads/2025/03/screenshot-from-2025-03-16-00-11-46.png?w=1024","id":2496,"dimRatio":50,"style":{"color":[]}} --></p>
+<div class="wp-block-cover">
+<img class="wp-block-cover__image-background wp-image-2496" alt="" src="{{site.baseurl}}/assets/2025/03/screenshot-from-2025-03-16-00-11-46.png?w=1024" data-object-fit="cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span>
+<div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"center","fontSize":"large"} --></p>
+<p class="has-text-align-center has-large-font-size">
+<p><!-- /wp:paragraph -->
+</div>
+</div>
+<p><!-- /wp:cover --></p>
+<p><!-- wp:paragraph --></p>
+<p>example to test browser </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Based on gptme, many interesting application can be deployed. But current performance and robustness looks not good. A lot of efforts are needed for a good production.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

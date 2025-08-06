@@ -1,0 +1,76 @@
+---
+layout: post
+title: Your browsing behavior expose your gender, age &amp; ethnicity
+date: 2021-09-14 22:53:42.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- Algorithm
+- Media industry
+- media industry data science
+tags:
+- age prediction
+- data science
+- gender prediction
+- Machine learning
+- user profile
+meta:
+  _last_editor_used_jetpack: block-editor
+  timeline_notification: '1631631225'
+  _publicize_job_id: '63002547630'
+  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:26861408;s:54:"https://facebook.com/1630088060609695_3029783723973448";}s:7:"twitter";a:1:{i:26870712;s:58:"https://twitter.com/mincheng_ds/status/1437791705659547648";}}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  _publicize_done_23927232: '1'
+  _wpas_done_26870712: '1'
+  publicize_twitter_user: mincheng_ds
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2021/09/14/your-browsing-behavior-expose-your-gender-age-ethnicity/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>Gender, age and ethnicity are the basic profile of the user, which are valuable information in recommendation and precise Ads targeting. Unfortunately, the profile feature is often not available among the users surfing the web. One reason is that the users are becoming more concern about their privacy. Even they fill them, they are faked and noisy. In media and publishing companies, selling Ads in their platform is their core business. To engage advertisers, they need put right ads in right place so that right audience is targeted and improve Ads performance, e.g. CTR (click through rate).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>For example, it is not good to place women makeup product ads in a news article discussing local flood, or recommend Chinese food to an Indian or Malay.  </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>In order to achieve the goal, the platform must understand the audience profile and their preference and favorite who visit their sites.  Based on cookies, data scientists can extract a set of features to profiling the the audience from various dimensions, which is a high dimensional binary vector stored in database. The collected features describe the user activities in the platform from different dimension.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li>User basic profile
+<ul>
+<li>Gender: male or female</li>
+<li>Age group: in the Ads marketing, the useful is age segment or group rather than actual age. The age group may look like &lt;18, 18-24, 25-34, 35-44, 45-54, 55-64, and 65 and older. </li>
+<li>Ethnicity: In Singapore, there are 4 main ethnicity, i.e. Chinese, Malay, India, and other.</li>
+</ul>
+</li>
+<li>News channel or site visited in the history. It is often counted based on various spanning window,e.g. last 30-day, 60-day, 90-day, 180-day, ......</li>
+<li>Radio channel listened in the history</li>
+<li>Video channel watched in the history</li>
+<li>Topics reading in the history. The topics look like internal news, local news, crime, food &amp; kitchen, sports, electronics, ....... The topics are predefined as content taxonomy. Refer to IAB <a href="https://www.iab.com/guidelines/content-taxonomy/">https://www.iab.com/guidelines/content-taxonomy/</a> to find complete definition on taxonomy.  IAB taxonomy is often modified to add or remove some in order to customize for particular platform.</li>
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:paragraph --></p>
+<p>The above statistics are count and frequency. The next step is to analyze the distribution of each feature dimension and set thresholds to binary the feature. After the process, each user is characterized by a high-dimensional vector, and audience can be analyzed and reported from the various combined segmentation. For example, it can answer how many users read a topic like sports, including gender distribution, age distribution, or ethnicity distribution. This insight analysis can help business to make decision.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>In company, the user profile database together report metrics and UI exists as a data product.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>As discussed in the beginning, gender, age, and ethnicity are often missing. Thus it needs to build machine learning models to predict them. In terms of pattern recognition and machine learning, gender prediction is a binary classification problem, age group and ethnicity are a multi-class classification problem. </p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Before building classifiers, training samples, with golden truth, are needed, i.e. given a user, we 100% know it is male or female, age, and ethnicity. These golden users are often costly collected. Based on these golden users, and collecting their browsing behaviors discussed above as classification features, ML models are trained to do prediction for all users with unknown age, gender and ethnicity. In data science, the most important step is data collection, data clean, and feature preparation. The model selection is relatively not so important. Most traditional ML model can complete these prediction tasks.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>

@@ -1,0 +1,119 @@
+---
+layout: post
+title: Document summarization and question-answering on document -LLM + LangChain
+date: 2024-03-10 23:57:47.000000000 +08:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- AI
+- AIGC
+tags:
+- LangChain
+- LLM
+- RAG
+- streamlit
+meta:
+  _last_editor_used_jetpack: block-editor
+  firehose_sent: '1710086269'
+  timeline_notification: '1710086270'
+  _publicize_job_id: '92618459436'
+  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:26861408;s:53:"https://facebook.com/1630088060609695_424435190112650";}}
+  _publicize_shares: a:6:{s:6:"status";s:7:"failure";s:7:"message";s:60:"Error 401
+    (Unauthorized) -- Could not authenticate you. [32]";s:9:"timestamp";i:1710086277;s:7:"service";s:7:"twitter";s:13:"connection_id";i:23927232;s:13:"external_name";s:11:"mincheng_ds";}
+  _publicize_done_23923317: '1'
+  _wpas_done_26861408: '1'
+  wordads_ufa: s:wpcom-ufa-v4:1710086473
+  _elasticsearch_data_sharing_indexed_on: '2024-03-10 15:59:42'
+author:
+  login: c013a2015
+  email: c013a2015@gmail.com
+  display_name: sheng gao
+  first_name: sheng
+  last_name: gao
+permalink: "/2024/03/10/document-summarization-and-question-answering-on-document-llm-langchain/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>It is known that large language model (LLM) based chat can answer any query with satisfied accuracy. But when ask questions about the fact, in particular the fact is the latest reported and is not covered in the training data lifecycle. With high probability the answer is wrong. One method is to exploit retrieval augmented generation (RAG), and provide the latest documents to LLM as a context. Combining context documents and query will provide satisfied result. The following figure shows the overall flow of RAG based question and answering.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"id":2177,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/03/rag_qa-3.png?w=663" alt="" class="wp-image-2177"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>PDF to text: <!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li>
+<a href="https://github.com/py-pdf/pypdf/tree/757932944f54ba661b89e0629ed3fc9d8345dbab">PyPDF</a> is used to extract text from PDF. I use it rather than pdf reader in <a href="https://github.com/langchain-ai/langchain">LangChain</a> because I want to have more control on text post-processing.</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Web document:<!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li>Use WebBaseLoader in LangChain to download and extract text from the URL (In future, it may change to my own crawl if a lot of webpage downloaded.)</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Document chunk and index<!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li>Document chunk is processed by first extracting paragraphs and then group paragraph untill the specified chunk size</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>Index engine: In LangChain, many index engines are provided from commercial to open-source. Firstly, vector database such as FAISS and Chroma are exploited, in which vector embedding of documents is extracted using LLM (Here Google Gemma used). Unfortunately, after a few try, the accuracy of recall is very bad. Then I change to traditional indexing such BM25 or TFIDF. At least, when query words exist in the document, the accuracy looks good (Just OK. Semantic vector match will be investigated in fugure to address semathc gap between query question and indexed documents.)</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>   Prompt template for question &amp; answer task : </li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:code --></p>
+<pre class="wp-block-code"><code>qa_prompt_template_cfg = """Answer the question as precise as possible using the provided context. If the answer is<br>                    not contained in the context, say "answer not available in context" \n\n<br>                    Context: \n {context}?\n<br>                    Question: \n {question} \n<br>                    Answer:<br>                  """<br>qa_prompt_template = PromptTemplate(<br>    template = qa_prompt_template_cfg, <br>    input_variables = ["context", "question"]<br>)<br></code></pre>
+<p><!-- /wp:code --></p>
+<p><!-- wp:list --></p>
+<ul>
+<!-- wp:list-item --></p>
+<li>LLM model: Google Gemma</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>The UI and evaluate sample is in the following<!-- wp:list -->
+<ul>
+<!-- wp:list-item --></p>
+<li>Test sample is a news article, providing a URL, <a href="https://www.straitstimes.com/life/entertainment/bye-taylor-swift-show-over-but-singapore-will-keep-looking-at-you">taylor-swift-show-over-but-singapore-will-keep-looking-at-you</a>
+</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li>In the first, it is to generate a summary for the news</li>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<li> Then ask a question: how many fans?</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list -->
+</li>
+<p><!-- /wp:list-item -->
+</ul>
+<p><!-- /wp:list --></p>
+<p><!-- wp:image {"id":2182,"sizeSlug":"large","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/03/screenshot-from-2024-03-10-22-57-15.png?w=1024" alt="" class="wp-image-2182"></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p>Currently processing a large PDF, e.g. 30-page financial report, is very very slow in my 4070, and the document length is much longer than the context token limit (8192). Testing in the financial resport looks good, if the query words do not have semantic issue. The quality of RAG retrieved documents highly affect answer quality. For RAG based chat, building high recall retrieval system is critical.  </p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>
