@@ -1,88 +1,89 @@
 ---
 title: Tags
 layout: default
-description: Browse posts by tags
+description: Thinking, planning and doing
 header-img: "image/rawa-sun-falling2-a.png"
-permalink: "/tags/"
 ---
 
 <!-- Page Header -->
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="site-heading" id="tag-heading">
-          <h1>{{ page.title }}</h1>
-          <span class="subheading">{{ page.description }}</span>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading" id="tag-heading">
+                    <h1>{{ page.title }}</h1>
+                    <span class="subheading">{{ page.description }}</span>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
 </header>
 
 <!-- Main Content -->
 <div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-      <!-- tag -->
-      <section id="tag-cloud2" class="tags mb-4">
-        <h2>All Tags</h2>
-        <div class="tag-cloud2">
-				{% for tag in site.tags %}
-				<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
-				{% endfor %}
-			</div>
-      <hr>
-
-      <!-- Tag Cloud -->
-      <section id="tag-cloud" class="tags mb-4">
-        <h2>All Tags</h2>
-        <div class="tag-cloud">
-          {% for tag in site.tags %}
-            <a href="#{{ tag[0] | slugify }}" class="tag-link" title="{{ tag[0] }} - {{ tag[1].size }} posts" rel="{{ tag[1].size }}">
-              {{ tag[0] }} ({{ tag[1].size }})
-            </a>
-          {% endfor %}
+    <div class="row">
+        <!-- Left column: Posts by tag -->
+        <div class="col-md-9">
+            {% for tag in site.tags %}
+            <section id="{{ tag[0] }}" class="tag-section">
+                <h2 class="tag-title">#{{ tag[0] }}</h2>
+                <ul class="list-unstyled">
+                    {% for post in tag[1] %}
+                    <li class="post-item">
+                        <a href="{{ post.url | prepend: site.baseurl }}">
+                            <h4>{{ post.title }}</h4>
+                            {% if post.subtitle %}
+                                <p class="text-muted">{{ post.subtitle }}</p>
+                            {% endif %}
+                        </a>
+                        <small class="text-muted">{{ post.date | date: "%Y-%m-%d" }}</small>
+                        <hr>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </section>
+            {% endfor %}
         </div>
-        <hr>
-      </section>
 
-      <!-- Tagged Posts -->
-      {% for tag in site.tags %}
-        <section class="tag-section">
-          <h3 id="{{ tag[0] | slugify }}" class="tag-title">
-            <i class="fa fa-tag"></i> {{ tag[0] }}
-          </h3>
-          {% for post in tag[1] %}
-            <div class="post-preview">
-              <a href="{{ post.url | relative_url }}">
-                <h4 class="post-title">{{ post.title }}</h4>
-                {% if post.subtitle %}
-                  <h5 class="post-subtitle">{{ post.subtitle }}</h5>
-                {% endif %}
-              </a>
-              <p class="post-meta">
-                <i class="fa fa-calendar"></i> {{ post.date | date: "%Y-%m-%d" }}
-              </p>
+        <!-- Right column: Tag cloud -->
+        <div class="col-md-3">
+            <div class="well">
+                <h4>Tag Cloud</h4>
+                <div id="tag_cloud" class="tag-cloud">
+                    {% for tag in site.tags %}
+                    {% assign tag_name = tag[0] %}
+                    <a href="#{{ tag_name }}" 
+                       style="font-size: {{ 100 | plus: tag[1].size | divided_by: 2 }}%;">
+                       {{ tag_name }}
+                    </a>
+                    {% endfor %}
+                </div>
             </div>
-            <hr>
-          {% endfor %}
-        </section>
-      {% endfor %}
-
+        </div>
     </div>
-  </div>
 </div>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const hash = window.location.hash;
-    if (hash) {
-      const target = document.querySelector(hash);
-      if (target) {
-        target.scrollIntoView({ behavior: "smooth" });
-      }
+<style>
+    .tag-cloud a {
+        display: inline-block;
+        margin: 5px;
+        text-decoration: none;
     }
-  });
-</script>
+
+    .tag-title {
+        margin-top: 40px;
+        border-bottom: 2px solid #ddd;
+        padding-bottom: 5px;
+    }
+
+    .post-item h4 {
+        margin: 0;
+    }
+
+    .well {
+        background-color: #f5f5f5;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+</style>
