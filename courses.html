@@ -29,84 +29,28 @@ cplusplus_slides:
 ---
 
 <!-- Page Header -->
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
-        <div class="site-heading" id="tag-heading">
-          <h1>{{ page.title }}</h1>
-          <span class="subheading">{{ page.description }}</span>
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
-
-<!-- Main Content -->
 <div class="container">
-  <div class="row">
-    <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+	<h3 style="color: blue; text-decoration: underline;">Python Course Slides</h3>
+	<ol>
+		{% for key, value in page.python_slides %}
+		<li>
+			<a href="{{ value }}" style="text-decoration: none; border-bottom: 1px solid red;">
+				{{ key | replace: "_", " " | replace: "slides", "Slides" | capitalize }}
+			</a>
+		</li>
+		{% endfor %}
+	</ol>
+</div>
 
-      <h3 class="text-primary"><u>Python Course Slides</u></h3>
-      <ul class="list-unstyled">
-        {% for title, url in page.python_slides %}
-        <li class="mb-2">
-          <a href="{{ url }}" target="_blank" style="text-decoration: none; border-bottom: 1px solid #d9534f;">
-            {{ title }}
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
-
-      <hr>
-
-      <h3 class="text-primary"><u>C++ Course Slides and Sample Code</u></h3>
-      <ul class="list-unstyled">
-        {% for title, url in page.cplusplus_slides %}
-        <li class="mb-2">
-          <a href="{{ url }}" target="_blank" style="text-decoration: none; border-bottom: 1px solid #d9534f;">
-            {{ title }}
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
-
-      <hr>
-
-      <h3 class="text-primary"><u>Self-Learning Resources</u></h3>
-
-      <p>
-        There are many great resources for self-learning programming. A great starting point is
-        <a href="https://www.w3schools.com/python/" target="_blank" style="text-decoration: none; border-bottom: 1px solid #d9534f;">
-          <span class="text-danger">w3schools.com</span>
-        </a>, which provides interactive tutorials and examples for quick learning.
-      </p>
-
-      <p>
-        After grasping the basics, the best place to master any language is its
-        <strong>official documentation</strong>:
-      </p>
-
-      <ul>
-        <li>
-          <em>Python:</em>
-          <a href="https://docs.python.org/3/tutorial/index.html" target="_blank" style="text-decoration: none; border-bottom: 1px solid #d9534f;">
-            <span class="text-danger">Python 3 Tutorial</span>
-          </a>
-        </li>
-        <li>
-          <em>C++:</em>
-          <a href="http://www.cplusplus.com/doc/tutorial/" target="_blank" style="text-decoration: none; border-bottom: 1px solid #d9534f;">
-            <span class="text-danger">C++ Tutorial</span>
-          </a>
-        </li>
-      </ul>
-
-      <p>
-        When facing errors or bugs, search the exact error message on
-        <a href="https://stackoverflow.com/" target="_blank">StackOverflow</a> – most issues have been discussed with helpful solutions.
-      </p>
-
-    </div>
-  </div>
+<div class="container">
+	<h3 style="color: blue; text-decoration: underline;">C++ Course Slides and Sample Code</h3>
+	<ol>
+		{% for key, value in page.cplusplus_slides %}
+		<li>
+			<a href="{{ value }}" style="text-decoration: none; border-bottom: 1px solid red;">
+				{{ key | replace: "_", " " | replace: "slides", "Slides" | capitalize }}
+			</a>
+		</li>
+		{% endfor %}
+	</ol>
 </div>
