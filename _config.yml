@@ -1,4 +1,4 @@
-destination: site_staging
+# destination: site_staging
 
 # Site settings
 title:  AI Consultant and Educator
@@ -26,7 +26,7 @@ github_username:    aigaosheng
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "draft", "docs", "img"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "draft", "docs", "img", "search.json"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
@@ -34,15 +34,10 @@ anchorjs: true                          # if you want to customize anchor. check
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 plugins:
-  - jekyll-paginate-v2
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-json-feed # optional
-
-exclude:
-  - search.json
-
+  - jekyll-paginate
 
 
 
