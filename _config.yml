@@ -4,12 +4,11 @@ destination: site_staging
 title:  AI Consultant and Educator
 SEOTitle: 高升的博客| BY GS
 header-img: image/rawa-sun-falling3.jpg
-email: mediatechai2019@gmail.com
+email: goseng123@gmail.com
 description:  积少成多，集腋成裘
 keyword: "高升的博客, 高升，gaosheng, 机器学习，人工智能, AI, machine learning, speech recognition, nlp, data science "
 url: "http://aigaosheng.github.io"          
-#baseurl:       # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git" # you code repository
+github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
