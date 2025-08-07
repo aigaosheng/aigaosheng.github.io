@@ -39,6 +39,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
+defaults:
+  - scope:
+      path: ""
+      type: "json"
+    values:
+      layout: null
 
 
 # Markdown settings
