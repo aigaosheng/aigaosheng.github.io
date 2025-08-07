@@ -25,6 +25,13 @@ permalink: "/tags/"
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
+	<!-- tag -->
+	<div id='tag_cloud_1' class="tags">
+		{% for tag in site.tags %}
+		<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+		{% endfor %}
+	</div>		
+
       <!-- Tag Cloud -->
       <section id="tag-cloud" class="tags mb-4">
         <h2>All Tags</h2>
