@@ -21,32 +21,39 @@ header-img: "image/rawa-sun-falling2-a.png"
 
 <!-- Main Content -->
 <div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <!-- tag -->
-			<div id='tag_cloud' class="tags">
-				{% for tag in site.tags %}
-				<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
-				{% endfor %}
-			</div>
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            
+            <!-- Tag Cloud -->
+            <div id='tag_cloud' class="tags">
+                {% for tag in site.tags %}
+                    <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+                {% endfor %}
+            </div>
 
+            <hr>
 
-				 <div class="post-preview">
-				    <a href="{{ post.url | prepend: site.baseurl }}">
-				        <h2 class="post-title">
-                            {{ post.title }}
-				        </h2>
-				        {% if post.subtitle %}
-				        <h3 class="post-subtitle">
-				            {{ post.subtitle }}
-				        </h3>
-				        {% endif %}
-				    </a>
-				    <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
-				</div>
-				<hr>
-			</div>
+            <!-- Posts per Tag -->
+            {% for tag in site.tags %}
+                <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
+                <ul class="tag-posts">
+                    {% for post in tag[1] %}
+                        <li>
+                            <div class="post-preview">
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    <h3 class="post-title">{{ post.title }}</h3>
+                                    {% if post.subtitle %}
+                                        <h4 class="post-subtitle">{{ post.subtitle }}</h4>
+                                    {% endif %}
+                                </a>
+                                <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p>
+                            </div>
+                            <hr>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endfor %}
 
-		</div>
-	</div>
+        </div>
+    </div>
 </div>
