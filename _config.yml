@@ -2,8 +2,8 @@ destination: site_staging
 
 # Site settings
 title:  AI Consultant and Educator
-SEOTitle: 高升的博客| BY GS
-header-img: image/rawa-sun-falling3.jpg
+SEOTitle: Sheng's Blog | BY GS
+header-img: image/rawa-sun-falling2-a
 email: goseng123@gmail.com
 description:  积少成多，集腋成裘
 keyword: "高升的博客, 高升，gaosheng, 机器学习，人工智能, AI, machine learning, speech recognition, nlp, data science "
@@ -13,8 +13,7 @@ github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git"
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: AI/ML researcher and developer. Data science. Ads optimizer for CTR, news recommendation
-sidebar-avatar: /image/gs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
+sidebar-avatar: /image/gs.jpg     
 
 
 # SNS settings
