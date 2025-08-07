@@ -30,27 +30,32 @@ cplusplus_slides:
 
 <!-- Page Header -->
 <div class="container">
-	<h3 style="color: blue; text-decoration: underline;">Python Course Slides</h3>
-	<ol>
-		{% for key, value in page.python_slides %}
-		<li>
-			<a href="{{ value }}" style="text-decoration: none; border-bottom: 1px solid red;">
-				{{ key | replace: "_", " " | replace: "slides", "Slides" | capitalize }}
-			</a>
-		</li>
-		{% endfor %}
-	</ol>
+  <h3 style="color: blue; text-decoration: underline;">Python Course Slides</h3>
+  <ol>
+    {% for item in page.python_slides %}
+      {% assign key = item[0] %}
+      {% assign value = item[1] %}
+      <li>
+        <a href="{{ value }}" style="text-decoration: none; border-bottom: 1px solid red;">
+          {{ key }}
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
 </div>
 
+
 <div class="container">
-	<h3 style="color: blue; text-decoration: underline;">C++ Course Slides and Sample Code</h3>
-	<ol>
-		{% for key, value in page.cplusplus_slides %}
-		<li>
-			<a href="{{ value }}" style="text-decoration: none; border-bottom: 1px solid red;">
-				{{ key | replace: "_", " " | replace: "slides", "Slides" | capitalize }}
-			</a>
-		</li>
-		{% endfor %}
-	</ol>
+  <h3 style="color: blue; text-decoration: underline;">C++ Course Slides and Sample Code</h3>
+  <ol>
+    {% for item in page.cplusplus_slides %}
+      {% assign key = item[0] %}
+      {% assign value = item[1] %}
+      <li>
+        <a href="{{ value }}" style="text-decoration: none; border-bottom: 1px solid red;">
+          {{ key }}
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
 </div>
