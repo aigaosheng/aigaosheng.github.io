@@ -35,7 +35,15 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-plugins: [jekyll-paginate-v2, jekyll-lunr-js-search]
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-json-feed # optional
+
+exclude:
+  - search.json
 
 
 
