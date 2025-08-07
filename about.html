@@ -1,0 +1,81 @@
+---
+layout: page
+title: "About"
+description: "Welcome to Sheng's blog"
+header-img: "image/rawa-sun-falling2-a.png"
+---
+
+> keep curious. Never stop learning  
+> 活到老，学到老
+
+Welcome to **gao sheng's (GS)** blog.
+
+A researcher and developer in machine learning, data science, speech recognition, NLP, and image recognition.
+
+Loves jogging, cooking, and Kindle.
+
+### Find me @
+
+- [LinkedIn](https://www.linkedin.com/in/dlsheng/)
+- [GitHub](https://github.com/aigaosheng)
+
+<div id="mapid" style="height:550px; width:100%; margin-top:30px; border-radius:12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"></div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+  const map = L.map('mapid').setView([35.0, 105.0], 4);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors',
+    maxZoom: 18
+  }).addTo(map);
+
+  const customIcon = L.icon({
+    iconUrl: 'https://cdn-icons-png.flaticon.com/512/684/684908.png',
+    iconSize: [28, 28],
+    iconAnchor: [14, 28],
+    popupAnchor: [0, -26]
+  });
+
+  const locations = [
+    { pos: [35.0708, 116.3103], popup: '金乡，山东，中国（家乡）', visited: '出生地' },
+    { pos: [39.90606, 116.24752], popup: '北京，中国', visited: '1993–1996, 1998–2001' },
+    { pos: [34.24456, 108.91006], popup: "西安，陕西，中国", visited: '1989–1993' },
+    { pos: [1.31062, 103.79249], popup: '新加坡', visited: '2002–至今' },
+    { pos: [35.0632297, 116.3117506], popup: '金乡县花园小学', visited: '启蒙教育' },
+    { pos: [35.0652551, 116.3045151], popup: '金乡县西关小学', visited: '小学阶段' },
+    { pos: [35.0634994, 116.3153393], popup: '金乡一中（王杰中学）', visited: '1984–1989' },
+    { pos: [34.2445693, 108.910087], popup: '西工大', visited: '1989–1993' },
+    { pos: [39.9628001, 116.3559143], popup: '北邮', visited: '1993–1996' },
+    { pos: [39.90606, 116.24752], popup: '中科院自动化所，NLPR', visited: '1998–2001' },
+    { pos: [1.3073018, 103.7879241], popup: '新加坡生活', visited: '2002–至今' }
+  ];
+
+  locations.forEach(loc => {
+    const marker = L.marker(loc.pos, { icon: customIcon }).addTo(map);
+    marker.bindPopup(`<strong>${loc.popup}</strong><br/><em>${loc.visited}</em>`);
+  });
+
+  map.locate({ setView: false, maxZoom: 12 });
+
+  map.on('locationfound', function(e) {
+    const radius = e.accuracy.toFixed(0);
+    const userPopup = `你在这里 (精度: ${radius} 米)`;
+
+    L.marker(e.latlng).addTo(map)
+      .bindPopup(userPopup)
+      .openPopup();
+
+    L.circle(e.latlng, {
+      color: 'blue',
+      fillColor: '#3f51b5',
+      fillOpacity: 0.2,
+      radius: e.accuracy
+    }).addTo(map);
+  });
+
+  map.on('locationerror', function(e) {
+    console.warn("无法获取位置: " + e.message);
+  });
+</script>
