@@ -8,23 +8,13 @@ layout: default
 
 <!-- Post Header -->
 <style type="text/css">
-    header.intro-header {
+    header.intro-header{
         position: relative;
-        {% if page.header-img or site.header-img %}
-            background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
-            background-size: cover;
-            background-position: center;
-            color: white;
-            padding: 80px 0;
-        {% else %}
-            background-color: #f5f5f5;
-            color: #333;
-            padding: 40px 0;
-        {% endif %}
+        background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
     }
 
-    {% if page.header-mask and (page.header-img or site.header-img) %}
-    header.intro-header .header-mask {
+    {% if page.header-mask %}
+    header.intro-header .header-mask{
         width: 100%;
         height: 100%;
         position: absolute;
@@ -32,11 +22,8 @@ layout: default
     }
     {% endif %}
 </style>
-
-<header class="intro-header">
-    {% if page.header-mask and (page.header-img or site.header-img) %}
+<header class="intro-header" >
     <div class="header-mask"></div>
-    {% endif %}
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -47,16 +34,18 @@ layout: default
                         {% endfor %}
                     </div>
                     <h1>{{ page.title }}</h1>
-                    {% if page.subtitle %}
+                    {% comment %}
+                        always create a h2 for keeping the margin , Hux
+                    {% endcomment %}
+                    {% comment %} if page.subtitle {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
-                    {% endif %}
-                    <span class="meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    {% comment %} endif {% endcomment %}
+                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
         </div>
     </div>
 </header>
-
 
 <!-- Post Content -->
 <article>

@@ -1,0 +1,75 @@
+---
+layout: post
+title: How to build frontend APP as an newbie
+date: 2025-08-15 
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags:
+- AI
+- AI agent
+- artificial-intelligence
+- chatGPT
+- LLM
+- LLM coder
+- technology
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<!-- wp:paragraph --><html><body></p>
+<p>All my past experiences are working on developing machine learning and AI algorithms and models, build data pipeline and deploy models as API services. When building frontend UI, just use streamlit or gradio for proof-of-concept (POC). But you know, these POC are not far more product ready. Frontend UI is normally use JS/TS + react which is platform dependent. When I am now working not only on building AI agent but also on building frontend APP for customer ready. It is time to learn how to develop frontend app.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>After a few survey (just ask llm chat to compare and recommend), Flutter + Dart is a best choice, although learning curve is a little steep. But nevermind, dart language syntax is similar to C++, quite familar.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>To quickly build backend api and frontend, I heavily use LLM coders (switch between Claud, qwen, chatgpt, kimi, gemini). I use free app version. First choice is Claud. Afte Claud free limit complete, switch to others.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The snapshot is a taxi invoice system. It include:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5 class="wp-block-heading">Backend</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>It is an LLM agent (Ollama), tailoring to extract structured information from scan image.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The taxis invoice agent extract metadata from input image such as date, pickup location, destination, total fare. I use OCR to extract text, which feeds to LLM to parse structure data. I also test feeding image into LLM, but find sometime LLM fails to extract data, in case of low image quality. Extracting text from image can use Docling, which is first version. Then I find there is a few errors. Then try PaddleOCR by Baidu, which is better than Docling.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The agent can also process images in word document or PDF (put many images in one file).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The taxi invoice agent is as a backend API service (FastAPI)</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5 class="wp-block-heading">Frontend</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>the frontend is Flutter APP, which is written by LLM coder. In my case, first version is streamlit using my familar Python (also written by LLM coder). Then I migrate streamlit to flutter (LLM coder).</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading {"level":5} --></p>
+<h5 class="wp-block-heading">Some tips using LLM coders:</h5>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Write a clear function and logic requirement for your task, e.g. 1) Check duplicacte file uploaded, 2) In processing files, skip processed file, 3) Allow edit extract invoice data, ….</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>LLM coder is not always bug free. For functions already widely used, meaning a lot of training data, then Claude can generate bug free code. But for some, you need manually fix. For example, when asking Claude to write a OCR module using paddleOCR. The code has bug when running, which is caused old version of paddleOCR. Even I try many times to ask Claude to fix the issue (Copy error log to Claude), it still fails. Then mannual fix is fast, which is a few argument or function replacement. Please remember, LLM coder is still a pattern recognition system. It is good at what it learn.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Iterative update: it is normal to adding new functions or changing logic in app. So just upload latest version to LLM coder, write your change requirement.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If LLM coder fails to fixing an issue, when try a few times. Do not waste time on LLM. Just manual do it</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>LLM coder is helpful tool. It assits newbie, like me, have no experience on Flutter to build APP with the functions what I want. At leat, it build a starting framework, what I can add more functions into it.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>I must admit that the APP is quite simple. When developing complex logic APP, experienced frontend software is a must.</p>
+<p><!-- /wp:paragraph --><br />
+</body></html></p>
