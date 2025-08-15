@@ -8,8 +8,7 @@ parent_id: '0'
 published: true
 password: ''
 status: publish
-categories:
-- AI
+categories: []
 tags:
 - OCR
 - LLM
