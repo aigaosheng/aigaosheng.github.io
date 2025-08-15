@@ -1,22 +1,21 @@
 ---
 layout: post
-title: Build my first AI product: taxi invoice metadata extraction
-date: 2025-08-15
+title: Build my first AI product taxi invoice metadata extraction
+date: 2025-08-15 
 type: post
-author: BY GS
 parent_id: '0'
 published: true
 password: ''
 status: publish
 categories: []
 tags:
-- OCR
+- AI
+- AI agent
+- artificial-intelligence
+- chatGPT
 - LLM
-- Flutter
-- FastAPI
-- Stripe payment
-- Github CI/CD
-- Python
+- LLM coder
+- technology
 ---
 
 ## Background
