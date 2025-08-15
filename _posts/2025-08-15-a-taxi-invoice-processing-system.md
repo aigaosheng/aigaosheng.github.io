@@ -2,8 +2,12 @@
 layout: post
 title: Build my first AI product: taxi invoice metadata extraction
 date: 2025-08-15
+type: post
 author: BY GS
+parent_id: '0'
 published: true
+password: ''
+status: publish
 categories:
 - AI
 tags:
@@ -14,7 +18,6 @@ tags:
 - Stripe payment
 - Github CI/CD
 - Python
-permalink: "/2025/08/15/Build-my-first-AI-product-taxi-invoice-metadata-extraction/"
 ---
 
 ## Background
