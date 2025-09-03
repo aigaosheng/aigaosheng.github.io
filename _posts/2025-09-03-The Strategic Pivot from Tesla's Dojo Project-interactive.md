@@ -49,27 +49,45 @@ An interactive breakdown of Tesla's decision to end its ambitious in-house super
 
 ## 🚀 Dojo Project Timeline
 
-<div id="timeline" class="relative max-w-2xl mx-auto">
-  <div class="absolute left-1/2 w-0.5 h-full bg-gray-300 transform -translate-x-1/2"></div>
+<div class="relative max-w-3xl mx-auto">
+  <!-- Vertical line -->
+  <div class="absolute left-1/2 transform -translate-x-1/2 bg-gray-300 w-0.5 h-full"></div>
 
-  <div class="timeline-item cursor-pointer" data-target="timeline-2019">
-    <h4 class="font-semibold">2019 – Project Announcement</h4>
-    <div id="timeline-2019" class="timeline-item-content bg-white p-4 rounded-lg shadow-md mt-2">
-      Tesla first announced Dojo as a custom-built in-house solution to process video data for FSD neural networks.
+  <div class="space-y-12">
+    <!-- 2019 -->
+    <div class="flex justify-start w-full">
+      <div class="w-1/2 pr-6 text-right">
+        <h4 class="font-semibold text-lg">2019 – Project Announcement</h4>
+        <p class="text-gray-500">Tesla first announced Dojo as an in-house supercomputer for FSD training.</p>
+      </div>
+      <div class="relative flex items-center justify-center">
+        <div class="w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center shadow font-bold">1</div>
+      </div>
+      <div class="w-1/2"></div>
     </div>
-  </div>
 
-  <div class="timeline-item cursor-pointer" data-target="timeline-2021">
-    <h4 class="font-semibold">2021–2022 – AI Day Showcase</h4>
-    <div id="timeline-2021" class="timeline-item-content bg-white p-4 rounded-lg shadow-md mt-2">
-      Dojo became the centerpiece of AI Day, highlighting Tesla’s D1 chip and ExaPOD cluster ambitions.
+    <!-- 2021–2022 -->
+    <div class="flex justify-end w-full">
+      <div class="w-1/2"></div>
+      <div class="relative flex items-center justify-center">
+        <div class="w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center shadow font-bold">2</div>
+      </div>
+      <div class="w-1/2 pl-6 text-left">
+        <h4 class="font-semibold text-lg">2021–2022 – AI Day Showcase</h4>
+        <p class="text-gray-500">Dojo became the centerpiece of Tesla’s AI Day, showcasing the D1 chip and ExaPOD cluster.</p>
+      </div>
     </div>
-  </div>
 
-  <div class="timeline-item cursor-pointer" data-target="timeline-2025">
-    <h4 class="font-semibold">Aug 10, 2025 – The Pivot</h4>
-    <div id="timeline-2025" class="timeline-item-content bg-white p-4 rounded-lg shadow-md mt-2">
-      Elon Musk declared Dojo an “evolutionary dead end,” shifting focus toward AI5/AI6 chips and external partners.
+    <!-- 2025 -->
+    <div class="flex justify-start w-full">
+      <div class="w-1/2 pr-6 text-right">
+        <h4 class="font-semibold text-lg">Aug 10, 2025 – The Pivot</h4>
+        <p class="text-gray-500">Elon Musk called Dojo an “evolutionary dead end,” shifting focus to AI5/AI6 and partnerships.</p>
+      </div>
+      <div class="relative flex items-center justify-center">
+        <div class="w-10 h-10 bg-blue-600 text-white rounded-full flex items-center justify-center shadow font-bold">3</div>
+      </div>
+      <div class="w-1/2"></div>
     </div>
   </div>
 </div>
