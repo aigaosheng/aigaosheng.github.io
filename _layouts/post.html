@@ -54,19 +54,19 @@ layout: default
 
                     <span class="meta" title="{{ page.date | date: '%B %d, %Y at %I:%M %p' }}">
                       Posted 
-                      {% if years >= 1 %}
-                        {{ years | floor }} year {{ years | floor | pluralize }} ago
-                      {% elsif months >= 1 %}
-                        {{ months | floor }} month {{ months | floor | pluralize }} ago
-                      {% elsif days >= 1 %}
-                        {{ days | floor }} day {{ days | floor | pluralize }} ago
-                      {% elsif hours >= 1 %}
-                        {{ hours | floor }} hour {{ hours | floor | pluralize }} ago
-                      {% elsif minutes >= 1 %}
-                        {{ minutes | floor }} minute {{ minutes | floor | pluralize }} ago
-                      {% else %}
+                        {% if years >= 1 %}
+                        {{ years | floor }} year{% if years | floor != 1 %}s{% endif %} ago
+                        {% elsif months >= 1 %}
+                        {{ months | floor }} month{% if months | floor != 1 %}s{% endif %} ago
+                        {% elsif days >= 1 %}
+                        {{ days | floor }} day{% if days | floor != 1 %}s{% endif %} ago
+                        {% elsif hours >= 1 %}
+                        {{ hours | floor }} hour{% if hours | floor != 1 %}s{% endif %} ago
+                        {% elsif minutes >= 1 %}
+                        {{ minutes | floor }} minute{% if minutes | floor != 1 %}s{% endif %} ago
+                        {% else %}
                         just now
-                      {% endif %}
+                        {% endif %}
                     </span>
 
                 </div>
