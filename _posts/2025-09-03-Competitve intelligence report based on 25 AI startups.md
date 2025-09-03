@@ -156,5 +156,3 @@ Future opportunities lie at the **intersection of AI, compliance, and domain-spe
 Startups that pair **domain expertise with AI infrastructure** and **build trust through compliance and accuracy** are best positioned to capture sustainable market share.
 
 ---
-
-👉 Sheng, do you want me to format this into a **PDF-style investment-grade report** (with charts + competitive landscape maps), or keep it as a **markdown/Notion doc** for live updates?
