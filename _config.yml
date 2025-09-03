@@ -1,4 +1,5 @@
 # destination: site_staging
+timezone: "Asia/Singapore"
 
 # Site settings
 title:  AI Consultant and Educator

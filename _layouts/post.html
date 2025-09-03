@@ -22,6 +22,7 @@ layout: default
     }
     {% endif %}
 </style>
+
 <header class="intro-header" >
     <div class="header-mask"></div>
     <div class="container">
@@ -35,15 +36,14 @@ layout: default
                     </div>
                     <h1>{{ page.title }}</h1>
                     {% comment %}
-                        always create a h2 for keeping the margin , Hux
+                        always create a h2 for keeping the margin
                     {% endcomment %}
-                    {% comment %} if page.subtitle {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
-                    {% comment %} endif {% endcomment %}
 
-                    <!-- Pure Liquid time-ago with hover datetime -->
-                    {% assign now = 'now' | date: '%s' %}
-                    {% assign post_time = page.date | date: '%s' %}
+                    <!-- Time-ago with hover datetime in Singapore timezone -->
+                    {% assign offset_hours = 8 %}  <!-- Singapore UTC+8 -->
+                    {% assign post_time = page.date | date: "%s" | plus: offset_hours | times: 3600 %}
+                    {% assign now = 'now' | date: "%s" | plus: offset_hours | times: 3600 %}
                     {% assign seconds_diff = now | minus: post_time %}
 
                     {% assign minutes = seconds_diff | divided_by: 60 %}
@@ -52,21 +52,21 @@ layout: default
                     {% assign months = days | divided_by: 30 %}
                     {% assign years = days | divided_by: 365 %}
 
-                    <span class="meta" title="{{ page.date | date: '%B %d, %Y at %I:%M %p' }}">
+                    <span class="meta" title="{{ page.date | date: "%B %d, %Y at %I:%M %p SGT" }}">
                       Posted 
-                        {% if years >= 1 %}
+                      {% if years >= 1 %}
                         {{ years | floor }} year{% if years | floor != 1 %}s{% endif %} ago
-                        {% elsif months >= 1 %}
+                      {% elsif months >= 1 %}
                         {{ months | floor }} month{% if months | floor != 1 %}s{% endif %} ago
-                        {% elsif days >= 1 %}
+                      {% elsif days >= 1 %}
                         {{ days | floor }} day{% if days | floor != 1 %}s{% endif %} ago
-                        {% elsif hours >= 1 %}
+                      {% elsif hours >= 1 %}
                         {{ hours | floor }} hour{% if hours | floor != 1 %}s{% endif %} ago
-                        {% elsif minutes >= 1 %}
+                      {% elsif minutes >= 1 %}
                         {{ minutes | floor }} minute{% if minutes | floor != 1 %}s{% endif %} ago
-                        {% else %}
+                      {% else %}
                         just now
-                        {% endif %}
+                      {% endif %}
                     </span>
 
                 </div>
@@ -74,6 +74,7 @@ layout: default
         </div>
     </div>
 </header>
+
 
 
 <!-- Post Content -->
