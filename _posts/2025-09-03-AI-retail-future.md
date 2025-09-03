@@ -155,8 +155,6 @@ Artificial intelligence introduces a fundamentally new retail dimension: **consu
 
 ## 4. Strategic Implications
 
-(Expanded with financial context.)
-
 ### 4.1 Entrepreneurs
 
 * High-growth opportunities in **consultative niches** (home improvement, health).
