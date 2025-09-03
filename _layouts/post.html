@@ -55,15 +55,15 @@ layout: default
                     <span class="meta" title="{{ page.date | date: '%B %d, %Y at %I:%M %p' }}">
                       Posted 
                       {% if years >= 1 %}
-                        {{ years | floor }} year{{ years | floor | pluralize }} ago
+                        {{ years | floor }} year {{ years | floor | pluralize }} ago
                       {% elsif months >= 1 %}
-                        {{ months | floor }} month{{ months | floor | pluralize }} ago
+                        {{ months | floor }} month {{ months | floor | pluralize }} ago
                       {% elsif days >= 1 %}
-                        {{ days | floor }} day{{ days | floor | pluralize }} ago
+                        {{ days | floor }} day {{ days | floor | pluralize }} ago
                       {% elsif hours >= 1 %}
-                        {{ hours | floor }} hour{{ hours | floor | pluralize }} ago
+                        {{ hours | floor }} hour {{ hours | floor | pluralize }} ago
                       {% elsif minutes >= 1 %}
-                        {{ minutes | floor }} minute{{ minutes | floor | pluralize }} ago
+                        {{ minutes | floor }} minute {{ minutes | floor | pluralize }} ago
                       {% else %}
                         just now
                       {% endif %}
