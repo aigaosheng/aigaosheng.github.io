@@ -40,12 +40,41 @@ layout: default
                     {% comment %} if page.subtitle {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% comment %} endif {% endcomment %}
-                    <span class="meta">Posted on {{ page.date | date: "%B %d, %Y at %I:%M %p" }}</span>
+
+                    <!-- Pure Liquid time-ago with hover datetime -->
+                    {% assign now = 'now' | date: '%s' %}
+                    {% assign post_time = page.date | date: '%s' %}
+                    {% assign seconds_diff = now | minus: post_time %}
+
+                    {% assign minutes = seconds_diff | divided_by: 60 %}
+                    {% assign hours = minutes | divided_by: 60 %}
+                    {% assign days = hours | divided_by: 24 %}
+                    {% assign months = days | divided_by: 30 %}
+                    {% assign years = days | divided_by: 365 %}
+
+                    <span class="meta" title="{{ page.date | date: '%B %d, %Y at %I:%M %p' }}">
+                      Posted 
+                      {% if years >= 1 %}
+                        {{ years | floor }} year{{ years | floor | pluralize }} ago
+                      {% elsif months >= 1 %}
+                        {{ months | floor }} month{{ months | floor | pluralize }} ago
+                      {% elsif days >= 1 %}
+                        {{ days | floor }} day{{ days | floor | pluralize }} ago
+                      {% elsif hours >= 1 %}
+                        {{ hours | floor }} hour{{ hours | floor | pluralize }} ago
+                      {% elsif minutes >= 1 %}
+                        {{ minutes | floor }} minute{{ minutes | floor | pluralize }} ago
+                      {% else %}
+                        just now
+                      {% endif %}
+                    </span>
+
                 </div>
             </div>
         </div>
     </div>
 </header>
+
 
 <!-- Post Content -->
 <article>
@@ -230,39 +259,3 @@ layout: default
     }
 </style>
 {% endif %}
-
-<article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  
-  <!-- Time ago using pure Liquid -->
-  {% assign now = 'now' | date: '%s' %}
-  {% assign post_time = page.date | date: '%s' %}
-  {% assign seconds_diff = now | minus: post_time %}
-
-  {% assign minutes = seconds_diff | divided_by: 60 %}
-  {% assign hours = minutes | divided_by: 60 %}
-  {% assign days = hours | divided_by: 24 %}
-  {% assign months = days | divided_by: 30 %}
-  {% assign years = days | divided_by: 365 %}
-
-  <p class="post-date">
-    Published 
-    {% if years >= 1 %}
-      {{ years | floor }} year{{ years | floor | pluralize }} ago
-    {% elsif months >= 1 %}
-      {{ months | floor }} month{{ months | floor | pluralize }} ago
-    {% elsif days >= 1 %}
-      {{ days | floor }} day{{ days | floor | pluralize }} ago
-    {% elsif hours >= 1 %}
-      {{ hours | floor }} hour{{ hours | floor | pluralize }} ago
-    {% elsif minutes >= 1 %}
-      {{ minutes | floor }} minute{{ minutes | floor | pluralize }} ago
-    {% else %}
-      just now
-    {% endif %}
-  </p>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-</article>
