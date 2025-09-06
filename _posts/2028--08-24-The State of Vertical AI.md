@@ -11,74 +11,64 @@ tags:
 - Insight by LLM
 ---
 
-# Summary of *The State of Vertical AI (Q2) – by Euclid Ventures*
+# The State of Vertical AI (Q2 2025)  
+*Summary of Euclid Ventures Report*  
 
-[Read the original report here](https://insights.euclid.vc/p/the-state-of-vertical-ai-q2?r=jc412&utm_campaign=post&utm_medium=web)
+[Read the original report](https://insights.euclid.vc/p/the-state-of-vertical-ai-q2?r=jc412&utm_campaign=post&utm_medium=web)  
 
----
 
-## Market Overview (Q2 2025)
+## Market Overview  
 
-- **$17.4B** raised across **784 vertical venture financings** (US & Canada).
-- **57% of deal volume** and **36% of dollars** were in verticals.
-- **42%** of deals > $10M, **10%** > $50M.
-- **Healthcare & Financial Services** dominated (58% of deal value, 52% of volume).
-- Horizontal AI still absorbs larger mega-rounds, but **Vertical AI is rising in early-stage momentum**.
+- $17.4B raised across 784 vertical venture financings (US & Canada)  
+- 57% of deal volume and 36% of dollars were in verticals  
+- 42% of deals > $10M, 10% > $50M  
+- Healthcare & Financial Services: 58% of deal value, 52% of volume  
+- Horizontal AI still takes mega-rounds, but Vertical AI leads early-stage growth  
 
----
+## Sector Trends  
 
-## Sector Trends
+- **Healthcare**: Abridge ($300M), Commure ($200M), Tennr ($101M), Sword Health, Jane Software ($500M secondary)  
+- **Financial Services**: Addepar ($230M), Altruist ($152M), Wealthbox ($200M), Juniper Square ($130M), Octaura ($47M)  
+- **Supply Chain & Logistics**: Stord ($80M), Flock Freight ($60M), UniUni ($70M)  
+- **Retail & CPG**: Owner ($120M), Ghost ($40M)  
+- **Hospitality & Media**: Canary Technologies ($80M), Teamworks ($235M)  
+- **Legal AI**: Harvey ($300M, $5B valuation), Laurel ($100M)  
+- **Education**: SchoolAI ($25M), Elevate K-12 ($25M)  
+- **Construction & Trades**: Miter ($23M), Remarcable ($15M), AIM ($50M)  
+- **Public Sector**: Prepared ($80M), Onebrief ($20M)  
 
-- **Healthcare**: Abridge ($300M), Commure ($200M), Tennr ($101M), Sword Health, Jane Software ($500M secondary).  
-- **Financial Services**: Addepar ($230M), Altruist ($152M), Wealthbox ($200M), Juniper Square ($130M), Octaura ($47M).  
-- **Supply Chain & Logistics**: Stord ($80M), Flock Freight ($60M), UniUni ($70M).  
-- **Retail & CPG**: Owner ($120M), Ghost ($40M).  
-- **Hospitality & Media**: Canary Technologies ($80M), Teamworks ($235M).  
-- **Legal AI**: Harvey ($300M, $5B valuation), Laurel ($100M).  
-- **Education**: SchoolAI ($25M), Elevate K-12 ($25M).  
-- **Construction & Trades**: Miter ($23M), Remarcable ($15M), AIM ($50M).  
-- **Public Sector & Emergency Response**: Prepared ($80M), Onebrief ($20M).  
+## Rounds of Note  
 
----
+- Abridge – $300M → $5.3B valuation (a16z)  
+- Harvey – $300M → $5B valuation (Kleiner Perkins, Coatue)  
+- Commure – $200M → $3.5B valuation (GC)  
+- Tennr – $101M (IVP)  
+- Jane – $500M secondary at $1.8B valuation with only $10M primary  
+- Sword Health – $40M → $4B valuation (GC, Khosla)  
+- Nourish – $70M (AI dietitian platform)  
+- Owner – $120M Series C → $1B valuation  
+- Entrata – $200M → $4.3B valuation (Blackstone)  
 
-## Rounds of Note
+## Exits of Note  
 
-- **Abridge**: $300M (a16z) → $5.3B valuation; competing with Epic’s new AI scribe.  
-- **Harvey**: $300M (Kleiner Perkins, Coatue) → $5B valuation; scaling legal AI globally.  
-- **Commure**: $200M (GC) → ~$3.5B valuation; healthcare AI infrastructure.  
-- **Tennr**: $101M (IVP); automates patient referrals.  
-- **Jane**: $500M secondary at $1.8B valuation with only ~$10M raised in primary — capital efficient scale-up.  
-- **Sword Health**: $40M (GC, Khosla) → $4B valuation.  
-- **Nourish**: $70M; AI-powered dietitian platform.  
-- **Owner**: $120M Series C → $1B valuation; restaurant digital OS.  
-- **Entrata**: $200M (Blackstone) → $4.3B valuation; multifamily property OS.  
+- vLex acquired by Clio ($1B) – legal AI  
+- Acumatica acquired by Vista Equity (~$2B) – SMB ERP  
+- Enfusion acquired by Clearwater Analytics ($1.5B) – asset management SaaS  
+- Sevenrooms acquired by DoorDash ($1.2B) – restaurant software  
+- SmarterDx rolled into New Mountain Capital ($1.5B deal) – clinical AI  
+- PlusAI SPAC ($1.2B valuation) – autonomous trucking  
 
----
+## Key Themes  
 
-## Exits of Note
+1. Healthcare AI boom: scribing, referrals, nutrition, virtual care  
+2. Financial services tech: wealth, CRM, private markets  
+3. Legal AI rising: Harvey, Laurel, vLex deal  
+4. Capital efficiency valued (e.g., Jane)  
+5. Supply chain/logistics rebound  
+6. Hospitality & education showing early momentum  
+7. Consolidation & exits show vertical AI maturity  
 
-- **vLex acquired by Clio** ($1B) – legal AI consolidation.  
-- **Acumatica acquired by Vista Equity** (~$2B) – SMB ERP.  
-- **Enfusion acquired by Clearwater Analytics** ($1.5B) – asset management SaaS.  
-- **Sevenrooms acquired by DoorDash** ($1.2B) – restaurant software.  
-- **SmarterDx (clinical AI)** rolled into New Mountain Capital platform ($1.5B deal).  
-- **PlusAI SPAC** ($1.2B valuation) – autonomous trucking.  
+## Bottom Line  
 
----
-
-## Key Themes
-
-1. **Healthcare AI boom**: scribing, referrals, nutrition, virtual care.  
-2. **Financial services tech**: wealth management, CRM, private markets.  
-3. **Legal AI heating up**: Harvey, Laurel, vLex acquisition.  
-4. **Capital efficiency valued**: e.g., Jane.  
-5. **Supply chain/logistics rebound**: AI-driven optimization.  
-6. **Hospitality & education**: seeing early-stage momentum.  
-7. **Consolidation & exits**: signal vertical AI maturity.  
-
----
-
-## Bottom Line
-
-Vertical AI is gaining traction with **increasing deal volume and early-stage momentum**, particularly in **healthcare, financial services, and legal tech**.  
-Capital efficiency is emerging as a differentiator, while **exits and acquisitions show growing maturity** in vertical ecosystems.  
+Vertical AI is gaining traction with **rising deal volume** and **early-stage growth**, led by **healthcare, financial services, and legal tech**.  
+**Capital efficiency** is a differentiator, while **exits and acquisitions** highlight growing maturity in vertical ecosystems.  
