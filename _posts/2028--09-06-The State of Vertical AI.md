@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Summary of The State of Vertical AI (Q2)
-date: 2025-08-24 
+title: Summary of The State of Vertical AI Q2
+date: 2025-09-06 
 type: post
 published: true
 status: publish
@@ -60,13 +60,13 @@ tags:
 
 ## Key Themes  
 
-1. Healthcare AI boom: scribing, referrals, nutrition, virtual care  
-2. Financial services tech: wealth, CRM, private markets  
-3. Legal AI rising: Harvey, Laurel, vLex deal  
-4. Capital efficiency valued (e.g., Jane)  
-5. Supply chain/logistics rebound  
-6. Hospitality & education showing early momentum  
-7. Consolidation & exits show vertical AI maturity  
+- Healthcare AI boom: scribing, referrals, nutrition, virtual care  
+- Financial services tech: wealth, CRM, private markets  
+- Legal AI rising: Harvey, Laurel, vLex deal  
+- Capital efficiency valued (e.g., Jane)  
+- Supply chain/logistics rebound  
+- Hospitality & education showing early momentum  
+- Consolidation & exits show vertical AI maturity  
 
 ## Bottom Line  
 

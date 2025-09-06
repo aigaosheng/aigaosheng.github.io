@@ -16,9 +16,7 @@ tags:
 
 This document outlines a repeatable, quantitative research framework for analyzing industry sectors, companies, and market trends to identify attractive investment opportunities. It combines macro insights, sector analysis, fundamental screening, momentum validation, and portfolio construction into a structured, research-driven process.
 
-
-
-## 1. Industry & Sector Analysis
+## Industry & Sector Analysis
 
 At this stage, the goal is to identify which industries or sectors are positioned to outperform.
 
@@ -34,9 +32,7 @@ At this stage, the goal is to identify which industries or sectors are positione
 - Relative strength analysis: Compare sector ETFs (e.g., XLK, XLE, XLF) to benchmark indices.  
 - Factor decomposition: Regress sector returns on style factors (value, momentum, quality, low volatility).  
 
-
-
-## 2. Company Screening Within Sectors
+## Company Screening Within Sectors
 
 Once promising sectors are identified, screen companies inside them.
 
@@ -53,9 +49,7 @@ Once promising sectors are identified, screen companies inside them.
 - Machine learning signals: Use random forests or gradient boosting with financial + alternative data.  
 - Earnings revision models: Monitor analyst EPS revisions (predictive edge).  
 
-
-
-## 3. Trend & Momentum Analysis
+## Trend & Momentum Analysis
 
 Trends validate or challenge the fundamental view.
 
@@ -71,9 +65,7 @@ Trends validate or challenge the fundamental view.
 - Satellite data (shipping, store parking lots).  
 - Hiring & R&D signals: Job postings, patent filings, GitHub activity.  
 
-
-
-## 4. Cross-Validation
+## Cross-Validation
 
 Reduce false positives by aligning signals:
 
@@ -81,21 +73,17 @@ Reduce false positives by aligning signals:
 - Company fundamentals ↔ alternative data trends.  
 - Valuation discipline ↔ growth/momentum thesis.  
 
-
-
-## 5. Portfolio Construction & Risk Controls
+## Portfolio Construction & Risk Controls
 
 - Diversification: Avoid overexposure to one sector/theme.  
 - Position sizing: Weight by conviction and volatility.  
 - Risk management: Track factor exposures (beta, style, size).  
 - Backtesting: Validate with historical simulations.  
 
-
-
 ## Example Workflow in Practice
 
-1. Macro signals suggest AI adoption and cloud growth → overweight Tech.  
-2. Relative strength: XLK outperforming S&P 500 over 6 months.  
-3. Within Tech: screen for firms with high R&D spend, earnings momentum, and attractive EV/EBITDA.  
-4. Validate with alt-data: GitHub activity, job postings, AI model adoption.  
-5. Portfolio picks: Nvidia, AMD, Super Micro, Databricks (IPO) with risk-weighted positions.  
+- Macro signals suggest AI adoption and cloud growth → overweight Tech.  
+- Relative strength: XLK outperforming S&P 500 over 6 months.  
+- Within Tech: screen for firms with high R&D spend, earnings momentum, and attractive EV/EBITDA.  
+- Validate with alt-data: GitHub activity, job postings, AI model adoption.  
+- Portfolio picks: Nvidia, AMD, Super Micro, Databricks (IPO) with risk-weighted positions.  
