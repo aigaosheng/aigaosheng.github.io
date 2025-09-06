@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quantitative Investment Screening & Scoring Pipeline 
+title: Quantitative Investment Screening & Scoring Pipeline
 date: 2025-09-06 
 type: post
 published: true
@@ -11,6 +11,7 @@ tags:
 - Stock screening with Python
 - Quantitative investment research
 ---
+
 
 # 📊 A Quantitative Framework for Identifying High-Potential Sectors and Companies
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of **“The State of Vertical AI (Q2) 
+title: Summary of **“The State of Vertical AI (Q2)
 date: 2025-08-24 
 type: post
 published: true
