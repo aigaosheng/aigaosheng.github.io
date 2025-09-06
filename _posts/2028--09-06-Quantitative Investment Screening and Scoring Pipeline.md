@@ -17,8 +17,6 @@ tags:
 
 This document outlines a **repeatable, quantitative research framework** for analyzing **industry sectors, companies, and market trends** to identify attractive investment opportunities. It combines **macro insights, sector analysis, fundamental screening, momentum validation, and portfolio construction** into a structured, research-driven process.
 
----
-
 ## 🔹 1. Industry & Sector Analysis
 
 At this stage, the goal is to identify which industries or sectors are positioned to outperform.
@@ -35,7 +33,6 @@ At this stage, the goal is to identify which industries or sectors are positione
 * **Relative strength analysis**: Compare sector ETFs (e.g., XLK, XLE, XLF) to benchmark indices.
 * **Factor decomposition**: Regress sector returns on style factors (value, momentum, quality, low volatility).
 
----
 
 ## 🔹 2. Company Screening Within Sectors
 
@@ -54,7 +51,6 @@ Once promising sectors are identified, screen companies inside them.
 * **Machine learning signals**: Use random forests or gradient boosting with financial + alternative data.
 * **Earnings revision models**: Monitor analyst EPS revisions (predictive edge).
 
----
 
 ## 🔹 3. Trend & Momentum Analysis
 
@@ -72,7 +68,6 @@ Trends validate or challenge the fundamental view.
 * **Satellite data** (shipping, store parking lots).
 * **Hiring & R\&D signals**: Job postings, patent filings, GitHub activity.
 
----
 
 ## 🔹 4. Cross-Validation
 
@@ -82,7 +77,6 @@ Reduce false positives by aligning signals:
 * Company **fundamentals** ↔ **alternative data trends**.
 * **Valuation discipline** ↔ **growth/momentum thesis**.
 
----
 
 ## 🔹 5. Portfolio Construction & Risk Controls
 
@@ -90,8 +84,6 @@ Reduce false positives by aligning signals:
 * **Position sizing**: Weight by conviction and volatility.
 * **Risk management**: Track factor exposures (beta, style, size).
 * **Backtesting**: Validate with historical simulations.
-
----
 
 ## ✅ Example Workflow in Practice
 
@@ -101,7 +93,6 @@ Reduce false positives by aligning signals:
 4. Validate with alt-data: GitHub activity, job postings, AI model adoption.
 5. Portfolio picks: **Nvidia, AMD, Super Micro, Databricks (IPO)** with risk-weighted positions.
 
----
 ## 📊 Quantitative Investment Research Process Flow
 
           ┌───────────────────┐

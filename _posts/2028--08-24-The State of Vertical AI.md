@@ -14,8 +14,6 @@ tags:
 # Summary of **“The State of Vertical AI (Q2) – by Euclid Ventures”**
 [Summary of the post: The State of Vertical AI (Q2) – by Euclid Ventures](https://insights.euclid.vc/p/the-state-of-vertical-ai-q2?r=jc412&utm_campaign=post&utm_medium=web)
 
----
-
 ## 📊 Market Overview (Q2 2025)
 
 * **\$17.4B** raised across **784 vertical venture financings** (US & Canada).
@@ -24,7 +22,6 @@ tags:
 * **Healthcare & Financial Services** dominated (58% of deal value, 52% of volume).
 * Horizontal AI still absorbs larger mega-rounds, but **Vertical AI is rising in early-stage momentum**.
 
----
 
 ## 📈 Sector Trends
 
@@ -38,8 +35,6 @@ tags:
 * **Construction & Trades**: Miter (\$23M), Remarcable (\$15M), AIM (\$50M).
 * **Public Sector & Emergency Response**: Prepared (\$80M), Onebrief (\$20M).
 
----
-
 ## 🚀 Rounds of Note
 
 * **Abridge**: \$300M (a16z) → \$5.3B valuation; competing with Epic’s new AI scribe.
@@ -52,7 +47,6 @@ tags:
 * **Owner**: \$120M Series C → \$1B valuation; restaurant digital OS.
 * **Entrata**: \$200M (Blackstone) → \$4.3B valuation; multifamily property OS.
 
----
 
 ## 🔄 Exits of Note
 
@@ -62,8 +56,6 @@ tags:
 * **Sevenrooms acquired by DoorDash** (\$1.2B) – restaurant software.
 * **SmarterDx (clinical AI)** rolled into New Mountain Capital platform (\$1.5B deal).
 * **PlusAI SPAC** (\$1.2B valuation) – autonomous trucking.
-
----
 
 ## 🌟 Key Themes
 
@@ -75,7 +67,6 @@ tags:
 6. **Hospitality & education** seeing early-stage momentum.
 7. **Consolidation & exits** show vertical AI maturity across sectors.
 
----
 
 ✅ **Bottom Line**:
 Vertical AI is gaining traction with increasing deal volume and early-stage momentum, particularly in healthcare, financial services, and legal tech. Capital efficiency is emerging as a differentiator, while exits and acquisitions show growing maturity in vertical ecosystems.
