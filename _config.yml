@@ -2,18 +2,18 @@
 timezone: "Asia/Singapore"
 
 # Site settings
-title:  AI Consultant and Educator
-SEOTitle: Sheng's Blog | BY GS
+title: Transform Your Business with AI | Consulting & Development
+SEOTitle: AI Consultant | Machine Learning Solutions | Expert Developers
 header-img: image/rawa-sun-falling2-a
 email: goseng123@gmail.com
 description:  积少成多，集腋成裘
-keyword: "高升的博客, 高升，gaosheng, 机器学习，人工智能, AI, machine learning, speech recognition, nlp, data science "
+keyword: AI Consultant, Machine Learning Solutions, Data Science Services, Expert Developers
 url: "https://www.aisengtech.com"          
 github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: AI/ML researcher and developer. Data science. Ads optimizer for CTR, news recommendation
+sidebar-about-description: Artificial intelligence, Agent, machine learning, data science, Expert Developers
 sidebar-avatar: /image/gs.jpg     
 
 
