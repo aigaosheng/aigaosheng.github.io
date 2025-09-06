@@ -11,11 +11,11 @@ tags:
 - Stock screening with Python
 - Quantitative investment research
 ---
-# 📊 A Quantitative Framework for Identifying High-Potential Sectors and Companies
+# A Quantitative Framework for Identifying High-Potential Sectors and Companies
 
 This document outlines a **repeatable, quantitative research framework** for analyzing **industry sectors, companies, and market trends** to identify attractive investment opportunities. It combines **macro insights, sector analysis, fundamental screening, momentum validation, and portfolio construction** into a structured, research-driven process.
 
-## 🔹 1. Industry & Sector Analysis
+## 1. Industry & Sector Analysis
 
 At this stage, the goal is to identify which industries or sectors are positioned to outperform.
 
@@ -32,7 +32,7 @@ At this stage, the goal is to identify which industries or sectors are positione
 * **Factor decomposition**: Regress sector returns on style factors (value, momentum, quality, low volatility).
 
 
-## 🔹 2. Company Screening Within Sectors
+## 2. Company Screening Within Sectors
 
 Once promising sectors are identified, screen companies inside them.
 
@@ -50,7 +50,7 @@ Once promising sectors are identified, screen companies inside them.
 * **Earnings revision models**: Monitor analyst EPS revisions (predictive edge).
 
 
-## 🔹 3. Trend & Momentum Analysis
+## 3. Trend & Momentum Analysis
 
 Trends validate or challenge the fundamental view.
 
@@ -67,7 +67,7 @@ Trends validate or challenge the fundamental view.
 * **Hiring & R\&D signals**: Job postings, patent filings, GitHub activity.
 
 
-## 🔹 4. Cross-Validation
+## 4. Cross-Validation
 
 Reduce false positives by aligning signals:
 
@@ -76,14 +76,14 @@ Reduce false positives by aligning signals:
 * **Valuation discipline** ↔ **growth/momentum thesis**.
 
 
-## 🔹 5. Portfolio Construction & Risk Controls
+## 5. Portfolio Construction & Risk Controls
 
 * **Diversification**: Avoid overexposure to one sector/theme.
 * **Position sizing**: Weight by conviction and volatility.
 * **Risk management**: Track factor exposures (beta, style, size).
 * **Backtesting**: Validate with historical simulations.
 
-## ✅ Example Workflow in Practice
+## Example Workflow in Practice
 
 1. Macro signals suggest **AI adoption and cloud growth** → overweight Tech.
 2. Relative strength: XLK outperforming S\&P 500 over 6 months.
@@ -91,7 +91,7 @@ Reduce false positives by aligning signals:
 4. Validate with alt-data: GitHub activity, job postings, AI model adoption.
 5. Portfolio picks: **Nvidia, AMD, Super Micro, Databricks (IPO)** with risk-weighted positions.
 
-## 📊 Quantitative Investment Research Process Flow
+## Quantitative Investment Research Process Flow
 
           ┌───────────────────┐
           │ Data Collection   │

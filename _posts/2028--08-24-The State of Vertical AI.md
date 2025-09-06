@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary of **“The State of Vertical AI (Q2)
+title: Summary of The State of Vertical AI (Q2)
 date: 2025-08-24 
 type: post
 published: true
@@ -11,10 +11,10 @@ tags:
 - Insight by LLM
 ---
 
-# Summary of **“The State of Vertical AI (Q2) – by Euclid Ventures”**
+# Summary of **The State of Vertical AI (Q2) – by Euclid Ventures**
 [Summary of the post: The State of Vertical AI (Q2) – by Euclid Ventures](https://insights.euclid.vc/p/the-state-of-vertical-ai-q2?r=jc412&utm_campaign=post&utm_medium=web)
 
-## 📊 Market Overview (Q2 2025)
+## Market Overview (Q2 2025)
 
 * **\$17.4B** raised across **784 vertical venture financings** (US & Canada).
 * **57% of deal volume** and **36% of dollars** were in verticals.
@@ -23,7 +23,7 @@ tags:
 * Horizontal AI still absorbs larger mega-rounds, but **Vertical AI is rising in early-stage momentum**.
 
 
-## 📈 Sector Trends
+## Sector Trends
 
 * **Healthcare**: Still the largest vertical, led by Abridge (\$300M), Commure (\$200M), Tennr (\$101M), Sword Health, and Jane Software (\$500M secondary).
 * **Financial Services**: Strong quarter with Addepar (\$230M), Altruist (\$152M), Wealthbox (\$200M), Juniper Square (\$130M), and Octaura (\$47M).
@@ -35,7 +35,7 @@ tags:
 * **Construction & Trades**: Miter (\$23M), Remarcable (\$15M), AIM (\$50M).
 * **Public Sector & Emergency Response**: Prepared (\$80M), Onebrief (\$20M).
 
-## 🚀 Rounds of Note
+## Rounds of Note
 
 * **Abridge**: \$300M (a16z) → \$5.3B valuation; competing with Epic’s new AI scribe.
 * **Harvey**: \$300M (Kleiner Perkins, Coatue) → \$5B valuation; scaling legal AI globally.
@@ -48,7 +48,7 @@ tags:
 * **Entrata**: \$200M (Blackstone) → \$4.3B valuation; multifamily property OS.
 
 
-## 🔄 Exits of Note
+## Exits of Note
 
 * **vLex acquired by Clio** (\$1B) – legal AI consolidation.
 * **Acumatica acquired by Vista Equity** (\~\$2B) – SMB ERP.
@@ -57,7 +57,7 @@ tags:
 * **SmarterDx (clinical AI)** rolled into New Mountain Capital platform (\$1.5B deal).
 * **PlusAI SPAC** (\$1.2B valuation) – autonomous trucking.
 
-## 🌟 Key Themes
+## Key Themes
 
 1. **Healthcare AI boom** continues with scribing, referrals, nutrition, and virtual care.
 2. **Financial services tech** (wealth management, CRM, private markets) is a strong second pillar.
@@ -68,5 +68,5 @@ tags:
 7. **Consolidation & exits** show vertical AI maturity across sectors.
 
 
-✅ **Bottom Line**:
+**Bottom Line**:
 Vertical AI is gaining traction with increasing deal volume and early-stage momentum, particularly in healthcare, financial services, and legal tech. Capital efficiency is emerging as a differentiator, while exits and acquisitions show growing maturity in vertical ecosystems.
