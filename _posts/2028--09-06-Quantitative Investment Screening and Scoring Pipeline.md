@@ -103,29 +103,50 @@ Reduce false positives by aligning signals:
 ---
 ## 📊 Quantitative Investment Research Process Flow
 
-```mermaid
-flowchart TD
-
-    A[🌍 Macro & Sector Analysis] --> B[🏭 Sector Selection]
-    B --> C[📈 Company Screening]
-    C --> D[📊 Trend & Momentum Analysis]
-    D --> E[🔍 Cross-Validation]
-    E --> F[💼 Portfolio Construction & Risk Controls]
-
-    %% Details
-    A --> A1[Macro Indicators: GDP, Rates, Inflation]
-    A --> A2[Sector Rotation Models]
-    A --> A3[Thematic Drivers: AI, Green Energy]
-
-    C --> C1[Fundamental Metrics: P/E, ROE, Debt]
-    C --> C2[Factor Models: Value, Growth, Momentum]
-    C --> C3[ML Signals: Analyst Revisions, Sentiment]
-
-    D --> D1[Momentum: 6-12m Returns]
-    D --> D2[Sentiment: News, Social Media]
-    D --> D3[Alt Data: Web Traffic, Jobs, Patents]
-
-    F --> F1[Diversification & Position Sizing]
-    F --> F2[Risk Management: Beta, Drawdowns]
-    F --> F3[Backtesting & Validation]
-```
+          ┌───────────────────┐
+          │ Data Collection   │
+          │ (YahooFinance,    │
+          │ Alpha Vantage,    │
+          │ FRED, Web Scraping│
+          └─────────┬─────────┘
+                    │
+          ┌─────────▼─────────┐
+          │ Data Preprocessing │
+          │ - Cleaning         │
+          │ - Normalization    │
+          │ - Feature Eng.     │
+          └─────────┬─────────┘
+                    │
+          ┌─────────▼─────────┐
+          │ Factor Extraction  │
+          │ - Macro Indicators │
+          │ - Industry Trends  │
+          │ - Company Metrics  │
+          └─────────┬─────────┘
+                    │
+          ┌─────────▼─────────┐
+          │ Scoring & Ranking  │
+          │ - Composite Scores │
+          │ - Factor Weights   │
+          │ - Sector/Company   │
+          │   Ranking          │
+          └─────────┬─────────┘
+                    │
+          ┌─────────▼─────────┐
+          │ Screening & Alerts │
+          │ - Top Sectors      │
+          │ - Top Companies    │
+          │ - Watchlists       │
+          └─────────┬─────────┘
+                    │
+          ┌─────────▼─────────┐
+          │ Backtesting        │
+          │ - Historical Tests │
+          │ - Strategy Eval    │
+          └─────────┬─────────┘
+                    │
+          ┌─────────▼─────────┐
+          │ Portfolio Build    │
+          │ - Position Sizing  │
+          │ - Risk Mgmt        │
+          └───────────────────┘
