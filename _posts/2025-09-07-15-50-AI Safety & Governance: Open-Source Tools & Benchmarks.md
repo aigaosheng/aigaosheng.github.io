@@ -15,9 +15,10 @@ tags:
 ---
 
 ---
+
 # AI Safety & Governance Open-Source Tools & Benchmarks
 
-A curated list of open-source GitHub repositories for evaluating large language models (LLMs) across various dimensions of safety, fairness, and robustness.
+- A curated list of open-source GitHub repositories for evaluating large language models (LLMs) across various dimensions of safety, fairness, and robustness.
 
 | Dimension              | Tool / Benchmark | Description | GitHub Link |
 | ---------------------- | ---------------- | ----------- | ----------- |
@@ -39,4 +40,5 @@ A curated list of open-source GitHub repositories for evaluating large language 
 | **Domain-Specific**    | HELM Enterprise Benchmark | Extends HELM for domain-specific datasets (finance, legal, etc.) | [Link](https://github.com/IBM/helm-enterprise-benchmark) |
 |                        | MMLU-CF          | Contamination-free version of MMLU for rigorous evaluation | [Link](https://github.com/microsoft/MMLU-CF) |
 |                        | Shopping MMLU    | Multi-task benchmark for LLMs on online shopping tasks | [Link](https://github.com/KL4805/ShoppingMMLU) |
+
 ---
