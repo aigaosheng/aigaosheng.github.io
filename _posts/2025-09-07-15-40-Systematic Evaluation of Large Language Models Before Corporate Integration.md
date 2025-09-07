@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Systematic Evaluation of Large Language Models Before Corporate Integration
-date: 2025-09-07
+date: 2025-09-07 15:40:00 +0800
 type: post
 published: true
 status: publish
