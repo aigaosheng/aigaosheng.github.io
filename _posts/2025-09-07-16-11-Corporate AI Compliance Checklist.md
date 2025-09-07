@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Corporate AI Compliance Checklist
-date: 2025-09-07
+date: 2025-09-07 16:11:00 +0800
 type: post
 published: true
 status: publish
