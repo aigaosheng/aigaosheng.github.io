@@ -2,34 +2,37 @@
 ---
 {
   "index": [
+    {% assign items = "" | split: "" %}
+    
     {% for post in site.posts %}
+      {% capture json_item %}
       {
         "id": {{ forloop.index | jsonify }},
         "title": {{ post.title | jsonify }},
         "url": {{ post.url | relative_url | jsonify }},
         "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
         "content": {{ post.content | strip_html | strip_newlines | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
+      }
+      {% endcapture %}
+      {% assign items = items | push: json_item %}
     {% endfor %}
 
-    {% assign hasPosts = site.posts.size | minus: 1 %}
-    {% if hasPosts >= 0 %}
-      {% assign separator = "," %}
-    {% else %}
-      {% assign separator = "" %}
-    {% endif %}
-
+    {% assign page_index_offset = site.posts.size %}
     {% for page in site.pages %}
-      {% if page.title and page.search_exclude != true %}
-        {{ separator }}
+      {% if page.title and page.search_exclude != true and page.layout != "tags" and page.layout != "categories" %}
+        {% capture json_item %}
         {
-          "id": {{ forloop.index | plus: site.posts.size | jsonify }},
+          "id": {{ forloop.index | plus: page_index_offset | jsonify }},
           "title": {{ page.title | jsonify }},
           "url": {{ page.url | relative_url | jsonify }},
           "date": {{ page.date | date: "%Y-%m-%d" | jsonify }},
           "content": {{ page.content | strip_html | strip_newlines | jsonify }}
-        }{% unless forloop.last %},{% endunless %}
+        }
+        {% endcapture %}
+        {% assign items = items | push: json_item %}
       {% endif %}
     {% endfor %}
+
+    {{ items | join: "," }}
   ]
 }

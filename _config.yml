@@ -16,7 +16,6 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: Artificial intelligence, Agent, machine learning, data science, Expert Developers
 sidebar-avatar: /image/gs.jpg     
 
-
 # SNS settings
 RSS: false
 linkedin_username:    dlsheng 
@@ -28,7 +27,7 @@ github_username:    aigaosheng
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "draft", "docs", "img"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: true 
 
 
 
