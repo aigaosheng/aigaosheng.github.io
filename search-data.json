@@ -19,7 +19,7 @@
 
     {% assign page_index_offset = site.posts.size %}
     {% for page in site.pages %}
-      {% if page.title and page.search_exclude != true and page.layout != "tags" and page.layout != "categories" %}
+      {% if page.title and page.url and page.url != "/course/" and page.url != "/search/" and page.search_exclude != true and page.layout != "tags" and page.layout != "categories" %}
         {% capture json_item %}
         {
           "id": {{ forloop.index | plus: page_index_offset | jsonify }},
