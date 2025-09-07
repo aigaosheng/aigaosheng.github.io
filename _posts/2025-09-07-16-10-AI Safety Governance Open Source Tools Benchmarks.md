@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI Safety & Governance: Open-Source Tools & Benchmarks
+title: AI Safety & Governance - Open-Source Tools & Benchmarks
 date: 2025-09-07
 type: post
 published: true
