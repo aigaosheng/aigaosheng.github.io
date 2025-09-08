@@ -36,10 +36,14 @@ layout: default
                     </div>
                     <h1>{{ page.title }}</h1>
                     <h2 class="subheading">{{ page.subtitle }}</h2>
+                
+                    <span class="meta">
+                    Posted on {{ page.date | date: "%B %d, %Y at %I:%M %p %Z" }}
+                    </span>
 
                     <!-- Time-ago with hover datetime in Singapore timezone -->
-                    {% assign offset_seconds = 8 | times: 3600 %}   <!-- UTC+8 -->
-                    {% assign post_time = page.date | date: "%s" | plus: offset_seconds %}
+                    <!--{% assign offset_seconds = 8 | times: 3600 %}   <!-- UTC+8 -->
+                    <!--{% assign post_time = page.date | date: "%s" | plus: offset_seconds %}
                     {% assign now = 'now' | date: "%s" | plus: offset_seconds %}
                     {% assign seconds_diff = now | minus: post_time %}
 
@@ -64,7 +68,7 @@ layout: default
                       {% else %}
                         just now
                       {% endif %}
-                    </span>
+                    </span> -->
 
                 </div>
             </div>
