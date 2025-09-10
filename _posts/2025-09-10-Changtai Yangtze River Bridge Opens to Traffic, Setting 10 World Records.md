@@ -37,6 +37,8 @@ Advanced digital and intelligent technologies were deployed throughout construct
 With its strength, beauty, and groundbreaking engineering, the Changtai Yangtze River Bridge not only supports regional integration in the Yangtze River Delta, but also stands as a new symbol of China’s modernization drive.
 
 ---
-![Changtai Yangtze River Bridge. Beautiful. Great engineer](Changtai-bridge.png)
+- Changtai Yangtze River Bridge. Beautiful. Great engineer
+
+![Changtai Yangtze River Bridge](/image/Changtai-bridge.png)
 
 - Reference: [常泰长江大桥正式通车，实现4项“世界首创”6项“世界之最”](https://www.changzhou.gov.cn/ns_news/128175746480025)
