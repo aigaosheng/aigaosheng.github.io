@@ -14,7 +14,7 @@ tags:
 - Surge AI
 ---
 
-**Mercor's Strategic Position in the AI Data Race: A Comparative Analysis**
+# Mercor's Strategic Position in the AI Data Race: A Comparative Analysis
 
 Mercor, an AI recruiting startup founded by three 21-year-old Thiel Fellows, has rapidly ascended in the AI data sector. In February 2025, the company secured \$100 million in a Series B funding round, elevating its valuation to \$2 billion. By September 2025, Mercor was reportedly entertaining offers for a Series C at a \$10 billion valuation, underscoring its swift growth and investor confidence.
 

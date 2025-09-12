@@ -11,7 +11,7 @@ tags:
 - Artist
 - AI in music industry
 ---
----
+
 # OpenWav: Empowering Artists to Take Back the Music Industry
 
 The music industry is broken. That’s the sentiment echoed by Grammy winner **Wyclef Jean**, and it’s the driving force behind **OpenWav**, a new app designed to give artists more control, fairer revenue, and a direct connection to fans.
