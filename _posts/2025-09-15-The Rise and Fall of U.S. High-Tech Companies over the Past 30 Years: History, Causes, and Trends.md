@@ -10,9 +10,9 @@ tags:
 - Market Analysis
 - Dot-Com Era
 - AI Era
+- Rise and fall of U.S. High-Tech Companies 
+- Technology innovation
 ---
----
-
 # 📊 **The Rise and Fall of U.S. High-Tech Companies over the Past 30 Years: History, Causes, and Trends**
 ---
 <p align="center">
