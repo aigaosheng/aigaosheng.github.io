@@ -14,7 +14,7 @@ tags:
 ---
 ---
 # 智能代理AI部署的六大经验：来自麦肯锡50多个企业项目的总结
-[Source: McKinsey reveals 6 lessons from 50+ agentic AI deployments](https://enterpriseaiexecutive.ai/p/mckinsey-reveals-6-lessons-from-50-agentic-ai-deployments)
+[Source](https://enterpriseaiexecutive.ai/p/mckinsey-reveals-6-lessons-from-50-agentic-ai-deployments)
 ---
 ## **1. 智能代理 AI 部署的六大经验**
 
