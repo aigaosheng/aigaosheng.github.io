@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started
+title: Git Cheat Sheet
 date: 2025-09-17 09:33:00 +0800
 type: post
 published: true
@@ -20,7 +20,7 @@ As a tech guy, ```git``` is a daily life. The git cheat sheet is a MUST you must
   ```bash
   git init
 ````
-
+---
 * Clone an existing repo:
 
   ```bash
@@ -393,4 +393,4 @@ git remote add <name> <url>
 * Local config: `.git/config`
 * Global config: `~/.gitconfig`
 * Ignore list: `.gitignore`
-
+---
