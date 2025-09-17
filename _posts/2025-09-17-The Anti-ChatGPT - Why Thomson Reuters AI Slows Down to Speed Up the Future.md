@@ -1,18 +1,18 @@
 ---
 layout: post
-title: The "Anti-ChatGPT" - Why Thomson Reuters AI Slows Down to Speed Up the Future
+title: The Anti-ChatGPT - Why Thomson Reuters AI Slows Down to Speed Up the Future
 date: 2025-09-17 10:10:00 +0800
 type: post
 published: true
 status: publish
 categories: []
 tags:
-- Git 
-- Git cheat sheet
-- Software development
+- ChatGPT 
+- Thomson Reuters
+- Agentic AI
 ---
 ---
-# ⚖️ The “Anti-ChatGPT”: Why Thomson Reuters’ AI Slows Down to Speed Up the Future
+# The “Anti-ChatGPT”: Why Thomson Reuters’ AI Slows Down to Speed Up the Future
 
 When you hear “AI,” you probably think of ChatGPT: lightning-fast, endlessly talkative, sometimes brilliant, sometimes… confidently wrong.
 
@@ -86,8 +86,15 @@ The Thomson Reuters experiment shows us the next wave of AI won’t be defined b
 ---
 
 ## 💡 Final Thought
-
 The “Anti-ChatGPT” isn’t a rejection of generative AI — it’s a reminder that **not every problem needs the same kind of intelligence**.
 
 Sometimes, the most valuable thing AI can do… is take its time.
+
+Every corporate business problem presents its own unique context and complexities. Achieving a deep understanding of these factors is essential for ensuring that AI solutions are not only successfully implemented but also deliver sustainable value within the corporate environment.
+
 ---
+## Sources
+
+[Source 1](https://venturebeat.com/ai/the-anti-chatgpt-thomson-reuters-multi-agent-system-slashes-20-hour-tasks-to)
+
+[Source 2](https://www.thomsonreuters.com/en/press-releases/2025/may/thomson-reuters-ushers-in-the-next-era-of-ai-with-launch-of-agentic-intelligence)
