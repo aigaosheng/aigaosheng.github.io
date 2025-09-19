@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Brings Gemini to Chrome: The Dawn of Agentic Browsing
+title: Google Brings Gemini to Chrome - The Dawn of Agentic Browsing
 date: 2025-09-19 22:16:00 +0800
 type: post
 published: true
