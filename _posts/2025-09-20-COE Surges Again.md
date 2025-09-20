@@ -85,15 +85,6 @@ All eyes will be on the next COE bidding round in early October. Will the surge 
 
 ---
 
-### Practical tips if you’re shopping now
-
-* **Do the math carefully:** Factor in COE into your financing. A higher premium can shift a car model out of budget.
-* **Check rebate eligibility:** EV buyers should confirm timelines for the reduced rebate.
-* **Consider alternatives:** Used cars, car-sharing schemes, and leasing may offer more predictable costs in the short term.
-* **For renewals:** Keep watch on the PQP trend — it lags current premiums but will rise if the upward trend holds.
-
----
-
 ### Bottom line
 
 This round’s COE spike, with Category A breaching **S\$119,000**, shows how tightly demand and policy announcements are interwoven. For buyers, it means higher barriers to car ownership. For policymakers, it is another reminder of the delicate balance between transport goals, affordability, and Singaporeans’ aspirations to own a car.
