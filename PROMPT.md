@@ -1,0 +1,1 @@
+Read article from the provided link, write styled like a modern blog article with visuals/emoji cues. The  link is 
