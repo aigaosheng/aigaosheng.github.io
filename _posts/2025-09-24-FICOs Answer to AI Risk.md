@@ -82,4 +82,4 @@ If this works, we could see:
 
 👉 What do you think — would you trust an AI more if every answer came with a “trust score”?
 
----s
+---
