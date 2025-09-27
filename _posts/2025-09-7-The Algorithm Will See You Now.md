@@ -69,4 +69,4 @@ AI isn’t a “doctor replacement machine.” It’s a tool that integrates int
 
 ---
 
-[Source](https://worksinprogress.co/issue/the-algorithm-will-see-you-now/,)
+[Source: The algorithm will see you now](https://worksinprogress.co/issue/the-algorithm-will-see-you-now/,)
