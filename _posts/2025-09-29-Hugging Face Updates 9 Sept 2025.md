@@ -12,11 +12,6 @@ tags:
 - Chinese Open-Source AI
 ---
 ---
-[![Multimodal Based Video Models - Hugging Face Community Computer Vision Course](https://images.openai.com/thumbnails/url/Qk1prnicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4p0S3xMIoM0TWLLzQMzglKNCs2KjPODM9IiQiIKi8xygwJj08rNfZ1rfTWLUnxKi8NDUxz8ayscjHJLlcrBgAR4yoe)](https://huggingface.co/learn/computer-vision-course/unit7/video-processing/multimodal-based-video-models?utm_source=chatgpt.com)
-
-Here’s a comprehensive analysis of the latest developments from Hugging Face as of late September 2025, focusing on new model releases, platform enhancements, and emerging trends in the AI community.
-
----
 
 ## 🧠 New Model Releases
 
