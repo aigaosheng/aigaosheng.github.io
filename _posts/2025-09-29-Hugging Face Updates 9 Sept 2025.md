@@ -90,4 +90,4 @@ Chinese AI models such as MiniCPM4.1 and HunyuanImage-3.0 are gaining traction o
 [7]: https://huggingface.co/blog/riskrubric?utm_source=chatgpt.com "Democratizing AI Safety with RiskRubric.ai"
 [8]: https://huggingface.co/blog/lematerial?utm_source=chatgpt.com "LeMaterial: an open source initiative to accelerate ..."
 [9]: https://huggingface.co/blog/chinese-ai-expansion?utm_source=chatgpt.com "A Short Summary of Chinese AI Global Expansion"
-[10]: http://huggingface.co/blog/idefics2https://huggingface.co/docs/transformers/main/en/model_doc/idefics2 "Introducing Idefics2: A Powerful 8B Vision-Language Model for the community"
+[10]: https://huggingface.co/docs/transformers/main/en/model_doc/idefics2 "Introducing Idefics2: A Powerful 8B Vision-Language Model for the community"
