@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Taxi Reimbursement Assistant
-date: 2025-10-02 09:52:00 +0800
+date: 2025-10-02 23:22:00 +0800
 type: post
 published: true
 status: publish
@@ -14,7 +14,7 @@ tags:
 ---
 🚖 **TaxiClaim – 智能打车报销助手**
 
-[Taxi reaceipts → Excel in seconds. AI does the work, you save the time.](https://admintool.aisengtech.com)
+Click the link. [Taxi reaceipts → Excel in seconds. AI does the work, you save the time.](https://admintool.aisengtech.com). Free try. 
 
 轻松管理收据 · 快速生成报表 · 高效完成报销  
 Smart Receipt Manager · Instant Report · Hassle-free Reimbursement
