@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Template"
-date: 2026-10-01 23:23:00 +0800
+title: "AI-Powered Holiday Shopping: A 520% Surge in 2025"
+date: 2025-10-07 23:28:00 +0800
 type: post
 published: true
 status: publish
