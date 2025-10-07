@@ -53,10 +53,10 @@ kramdown:
 
 # 评论系统
 #Disqus（https://disqus.com/）
-disqus_username: aigaosheng-github-io
-disqus:
-  enable: False    #是否开启Disqus评论
-  username: aigaosheng-github-io
+# disqus_username: aigaosheng-github-io
+# disqus:
+#   enable: False    #是否开启Disqus评论
+#   username: aigaosheng-github-io
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
