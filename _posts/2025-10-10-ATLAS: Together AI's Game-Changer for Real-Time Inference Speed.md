@@ -12,6 +12,7 @@ tags:
 - Speculative decoding
 - Real-time AI learning
 - Together AI platform
+keywords: ["Adaptive AI inference","AI performance optimization","Speculative decoding","Real-time AI learning","Together AI platform"]
 ---
 ---
 [![Together AI's ATLAS adaptive speculator delivers 400% inference speedup by  learning from workloads in real-time | VentureBeat](https://images.openai.com/static-rsc-1/-DFtJ515jHwhdOMDzIm_QExZ5nAlQB6NKB8uUWWPoUcR2fzO49XL--lpzn1e5T7xl7dKEi-ZBqNy7bEYK_GFzyuoSvn1MIAhBSQQf8vr835CrvR4UyzxqNHyQ9Rsb8Uo0O8u3cukip2SgqkqJ5hrFg)](https://venturebeat.com/ai/together-ais-atlas-adaptive-speculator-delivers-400-inference-speedup-by?utm_source=chatgpt.com)

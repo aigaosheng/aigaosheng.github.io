@@ -10,6 +10,7 @@ tags:
 - Privatization Premium
 - Banking Consolidation
 - Regulatory Risk
+keywords: ["Privatization Premium", "Banking Consolidation", "Regulatory Risk"]
 ---
 ---
 

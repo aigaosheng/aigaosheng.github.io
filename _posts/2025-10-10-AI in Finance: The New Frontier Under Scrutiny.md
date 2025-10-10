@@ -10,6 +10,7 @@ tags:
 - AI in finance
 - Financial regulation
 - Cybersecurity in banking
+keywords: ["AI in finance","Financial regulation","Cybersecurity in banking"]
 ---
 ---
 **AI in Finance: The New Frontier Under Scrutiny**

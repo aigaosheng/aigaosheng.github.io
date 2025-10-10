@@ -13,6 +13,7 @@ tags:
 - Hallucination detection AI
 - Multimodal AI fine-tuning
 - Multimodal AI fine-tuning without forgetting
+keywords: ["AI research breakthroughs","Large language models (LLMs)","Machine learning optimization","Hallucination detection AI","Multimodal AI fine-tuning","Multimodal AI fine-tuning without forgetting"]
 ---
 ---
 # Daily AI / Tech Research Update — arXiv papers (last 24 hours up to **2025-10-10**)

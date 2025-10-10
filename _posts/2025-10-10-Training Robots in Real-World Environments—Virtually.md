@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Template"
-date: 2026-10-01 23:23:00 +0800
+title: "Training Robots in Real-World Environments—Virtually"
+date: 2025-10-10 23:40:00 +0800
 type: post
 published: true
 status: publish
@@ -10,6 +10,7 @@ tags:
 - Steerable Scene Generation
 - Monte Carlo Tree Search
 - Reinforcement Learning
+keywords: ["Steerable Scene Generation","Reinforcement Learning", "Monte Carlo Tree Search"]
 ---
 ---
 **🤖 Training Robots in Real-World Environments—Virtually**

@@ -10,6 +10,7 @@ tags:
 - AI infrastructure
 - Fed rate-cut odds
 - Retail volatility
+keywords: ["AI infrastructure","Fed rate-cut odds","Retail volatility"]
 ---
 ---
 

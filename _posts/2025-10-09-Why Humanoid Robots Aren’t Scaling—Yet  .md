@@ -10,6 +10,7 @@ tags:
 - Humanoid robots  
 - Industrial automation  
 - AI reliability
+keywords: ["Humanoid robots","Industrial automation","AI reliability"]
 ---
 ---
 # Why Humanoid Robots Aren’t Scaling—Yet  

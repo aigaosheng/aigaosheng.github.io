@@ -10,6 +10,7 @@ tags:
 - Contactless health monitoring  
 - Wi-Fi sensing  
 - AI-powered diagnostics
+keywords: ["Contactless health monitoring","Wi-Fi sensing","AI-powered diagnostics"]
 ---
 ---
 **Your Wi-Fi Can Now Listen to Your Heartbeat—No Wearables Required**

@@ -12,6 +12,7 @@ tags:
 - agent memory RL mem-agent
 - AI model energy efficiency
 - open source Chinese AI models
+keywords: ["Hugging Face update Oct 2025","multimodal models Hugging Face","agent memory RL mem-agent","AI model energy efficiency","open source Chinese AI models"]
 ---
 ---
 
