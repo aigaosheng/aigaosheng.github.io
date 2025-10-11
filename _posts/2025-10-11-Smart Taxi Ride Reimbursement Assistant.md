@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Taxi Reimbursement Assistant
-date: 2025-10-08 23:30:00 +0800
+date: 2025-10-11 22:30:00 +0800
 type: post
 published: true
 status: publish
@@ -10,6 +10,7 @@ tags:
 - Taxi Claim
 - Taxi Reimbursement
 - AI agent
+keywords: ["Taxi Reimbursement", "Taxi Claim", "Taxi invoice to Excel"]
 ---
 ---
 🚖 **TaxiClaim – 智能打车报销助手**
