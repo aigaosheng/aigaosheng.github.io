@@ -10,7 +10,7 @@ tags:
 - 产能管控
 - Trade Friction
 - Capital Rotation
-keywords: ["China Stock Market","Trade Tension","Policy Impact"]
+keywords: [China Stock Market,Trade Tension,Policy Impact]
 ---
 ---
 
