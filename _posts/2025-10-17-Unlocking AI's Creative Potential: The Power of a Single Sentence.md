@@ -12,8 +12,6 @@ tags:
 - Mode Collapse
 keywords: [AI prompts, creative AI, Verbalized Sampling]
 ---
-[![What is an AI Prompt Engineering? - GeeksforGeeks](https://images.openai.com/static-rsc-1/g-xfIKwsehad5JP7RRyqeXlLFQf2iskvfhFw_mbNUxdoEtPrsdOUy5GKL-hZJhnaJsCJy5tM9xOd-SyK4JdZGSkfI3dAQhbzXfNV_HbMaSaj1-bK0sIpaynlxl-quB5RWKrxTDTququcv25tw6Cmlg)](https://www.geeksforgeeks.org/artificial-intelligence/what-is-an-ai-prompt-engineering/?utm_source=chatgpt.com)
-
 **Unlocking AI's Creative Potential: The Power of a Single Sentence**
 
 > A Simple Prompt Modification Enhances AI Model Diversity and Creativity
