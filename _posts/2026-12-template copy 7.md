@@ -9,4 +9,7 @@ categories: []
 tags:
 
 keywords: []
+permalink: /link name/
 ---
+
+[In-depth report Arduino – A Pillar of Open-Source Innovation]({{ site.baseurl }}/link name/)
