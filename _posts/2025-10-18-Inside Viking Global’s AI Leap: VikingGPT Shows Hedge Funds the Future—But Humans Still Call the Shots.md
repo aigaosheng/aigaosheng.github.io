@@ -11,6 +11,7 @@ tags:
 - Hedge fund AI  
 - Trade ideas
 keywords: [VikingGPT, hedge fund, artificial intelligence]
+permalink: /Inside Viking Global’s AI Leap - VikingGPT Shows Hedge Funds the Future—But Humans Still Call the Shots/
 ---
 
 # Inside Viking Global’s AI Leap: VikingGPT Shows Hedge Funds the Future—But Humans Still Call the Shots
@@ -57,3 +58,9 @@ Read the full Bloomberg story: [https://www.bloomberg.com/news/articles/2025-10-
 [8](https://www.reuters.com/markets/wealth/hedge-funds-shift-bets-double-down-big-tech-amid-ai-boom-2025-08-14/)
 [9](https://www.ainvest.com/news/viking-global-investors-ai-chatbot-boosts-trade-ideas-operations-efficiency-2510/)
 [10](https://vikingglobal.com/investments/)
+
+---
+
+You may also enjoy reading:
+
+- [VikingGPT - Viking Global Investors' In-House AI Strategy]({{ site.baseurl }}/VikingGPT - Viking Global Investors' In-House AI Strategy/)
