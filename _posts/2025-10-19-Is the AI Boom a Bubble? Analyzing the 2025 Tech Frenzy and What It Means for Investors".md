@@ -11,6 +11,7 @@ tags:
 - AI investment trends  
 - Enterprise AI adoption  
 keywords: [AI, investment, bubble]
+permalink: /Is the AI Boom a Bubble? Analyzing the 2025 Tech Frenzy and What It Means for Investors/
 ---
 **Is the AI Boom a Bubble? Analyzing the 2025 Tech Frenzy and What It Means for Investors**
 

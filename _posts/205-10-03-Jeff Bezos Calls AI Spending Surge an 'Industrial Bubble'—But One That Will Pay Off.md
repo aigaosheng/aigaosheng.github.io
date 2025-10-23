@@ -10,6 +10,7 @@ tags:
 - AI Investment
 - Tech Bubbles
 - Jeff Bezos Insights
+permalink: /Jeff Bezos Calls AI Spending Surge an 'Industrial Bubble'—But One That Will Pay Off/
 ---
 ---
 [![Bezos Says AI Spending Boom Is a Bubble That Will Pay Off - Bloomberg](https://images.openai.com/thumbnails/750f7af46a44c9fca329f61c4e36a592.jpeg)](https://www.bloomberg.com/news/articles/2025-10-03/bezos-says-ai-spending-boom-is-a-bubble-that-will-pay-off?utm_source=chatgpt.com)

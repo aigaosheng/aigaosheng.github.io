@@ -10,6 +10,7 @@ tags:
 - Market Analysis
 - Dot-Com Era
 - AI Era
+permalink: /Market Analysis Echoes of the Dot-Com Era in Today’s Market and Future Implications/
 ---
 ---
 # Market Analysis: Echoes of the Dot-Com Era in Today’s Market and Future Implications
