@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "arning Money with AI: A 2025 Guide for Americans"
+title: "arning Money with AI - A 2025 Guide for Americans"
 date: 2025-10-25 13:03:00 +0800
 type: post
 published: true
@@ -11,7 +11,7 @@ tags:
 - Personal Finance Automation
 - Digital Entrepreneurship
 keywords: [make money with AI, AI income strategies, AI freelance opportunities]
-permalink: /arning Money with AI: A 2025 Guide for Americans/
+permalink: /arning Money with AI - A 2025 Guide for Americans/
 ---
 
 ## Earning Money with AI: A 2025 Guide for Americans
