@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rolling Eyes, Everywhere: DHS Seeks to Deploy AI-Outlined Surveillance Trucks"
+title: "Rolling Eyes, Everywhere - DHS Seeks to Deploy AI-Outlined Surveillance Trucks"
 date: 2025-10-26 17:43:00 +0800
 type: post
 published: true
@@ -11,7 +11,7 @@ tags:
 - border monitoring
 - mobile surveillance trucks
 keywords: [surveillance, artificial intelligence, border security]
-permalink: /Rolling Eyes, Everywhere: DHS Seeks to Deploy AI-Outlined Surveillance Trucks/
+permalink: /Rolling Eyes, Everywhere - DHS Seeks to Deploy AI-Outlined Surveillance Trucks/
 ---
 
 **Rolling Eyes, Everywhere: DHS Seeks to Deploy AI-Outlined Surveillance Trucks**
