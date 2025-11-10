@@ -171,9 +171,6 @@ These align with McKinsey’s **“Rewired” framework**: strategy, talent, ope
 ## Source: 
 [The state of AI in 2025 November 2025 Agents, innovation, and transformation](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/)
 
-[Copy: the-state-of-ai-in-2025-agents-innovation-and-transformation](assets/the-state-of-ai-in-2025-agents-innovation-and-transformation.pdf)
-
-<a href="assets/myfile.pdf" target="_blank">Copy</a>
-
+[Copy]({{ site.baseurl }}/assets/the-state-of-ai-in-2025-agents-innovation-and-transformation.pdf/)
 
 ---
