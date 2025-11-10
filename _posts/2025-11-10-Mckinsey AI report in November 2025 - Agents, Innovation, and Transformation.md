@@ -169,8 +169,8 @@ These align with McKinsey’s **“Rewired” framework**: strategy, talent, ope
 > Those who treat AI as a catalyst for reinvention — not incremental optimization — are already pulling ahead.
 
 ## Source: 
-[The state of AI in 2025 November 2025 Agents, innovation, and transformation](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/)
+[Mckiney AI report in November 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/)
 
-[Copy]({{ site.baseurl }}/assets/the-state-of-ai-in-2025-agents-innovation-and-transformation.pdf/)
+[My Copy]({{ site.baseurl }}/assets/the-state-of-ai-in-2025-agents-innovation-and-transformation.pdf/)
 
 ---
