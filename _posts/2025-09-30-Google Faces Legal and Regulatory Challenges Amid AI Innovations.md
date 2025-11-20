@@ -58,8 +58,8 @@ Google's advancements in AI technologies, such as the expansion of "Search Live"
 
 ---
 
-[1]: https://www.reuters.com/legal/government/google-wins-us-court-order-against-latam-airlines-youtube-video-dispute-2025-09-25/?utm_source=chatgpt.com "Google wins US court order against LATAM Airlines in YouTube video dispute"
-[2]: https://www.business-standard.com/companies/news/google-eu-fine-digital-markets-act-antitrust-dma-probe-penalty-shopping-125092600216_1.html?utm_source=chatgpt.com "Google faces EU fine for boosting its own search platforms ..."
-[3]: https://arstechnica.com/tech-policy/2025/09/eu-investigates-apple-google-and-microsoft-over-handling-of-online-scams/?utm_source=chatgpt.com "EU investigates Apple, Google, and Microsoft over ..."
-[4]: https://timesofindia.indiatimes.com/technology/tech-news/google-to-supercharge-search-with-ai-by-search-live-in-india-company-says-country-leads-the-way-in-adopting-innovations/articleshow/124085084.cms?utm_source=chatgpt.com "Google to supercharge Search with AI by 'Search Live' in India, company says country leads the way in adopting innovations"
-[5]: https://timesofindia.indiatimes.com/technology/tech-news/google-launches-ai-powered-mood-board-app-mixboard-to-rival-pinterest/articleshow/124095494.cms?utm_source=chatgpt.com "Google launches AI-powered mood board app 'Mixboard' to rival Pinterest"
+[1]: https://www.reuters.com/legal/government/google-wins-us-court-order-against-latam-airlines-youtube-video-dispute-2025-09-25/ "Google wins US court order against LATAM Airlines in YouTube video dispute"
+[2]: https://www.business-standard.com/companies/news/google-eu-fine-digital-markets-act-antitrust-dma-probe-penalty-shopping-125092600216_1.html "Google faces EU fine for boosting its own search platforms ..."
+[3]: https://arstechnica.com/tech-policy/2025/09/eu-investigates-apple-google-and-microsoft-over-handling-of-online-scams/ "EU investigates Apple, Google, and Microsoft over ..."
+[4]: https://timesofindia.indiatimes.com/technology/tech-news/google-to-supercharge-search-with-ai-by-search-live-in-india-company-says-country-leads-the-way-in-adopting-innovations/articleshow/124085084.cms "Google to supercharge Search with AI by 'Search Live' in India, company says country leads the way in adopting innovations"
+[5]: https://timesofindia.indiatimes.com/technology/tech-news/google-launches-ai-powered-mood-board-app-mixboard-to-rival-pinterest/articleshow/124095494.cms "Google launches AI-powered mood board app 'Mixboard' to rival Pinterest"

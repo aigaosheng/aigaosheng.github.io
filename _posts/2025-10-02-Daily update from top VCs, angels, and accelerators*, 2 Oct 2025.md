@@ -57,8 +57,8 @@ tags:
 
 ---
 
-[1]: https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune?utm_source=chatgpt.com "Mira Murati's Stealth AI Lab Launches Its First Product"
-[2]: https://finance.yahoo.com/news/ai-startup-dualentry-raises-90-091205705.html?utm_source=chatgpt.com "AI startup DualEntry raises $90 million to deepen ERP ..."
-[3]: https://www.reuters.com/technology/company-valued-415-million-2025-10-02/?utm_source=chatgpt.com "Company valued at $415 million"
-[4]: https://www.reuters.com/technology/openai-hits-500-billion-valuation-after-share-sale-source-says-2025-10-02/?utm_source=chatgpt.com "OpenAI hits $500 billion valuation after share sale to SoftBank, others, source says"
+[1]: https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune "Mira Murati's Stealth AI Lab Launches Its First Product"
+[2]: https://finance.yahoo.com/news/ai-startup-dualentry-raises-90-091205705.html "AI startup DualEntry raises $90 million to deepen ERP ..."
+[3]: https://www.reuters.com/technology/company-valued-415-million-2025-10-02/ "Company valued at $415 million"
+[4]: https://www.reuters.com/technology/openai-hits-500-billion-valuation-after-share-sale-source-says-2025-10-02/ "OpenAI hits $500 billion valuation after share sale to SoftBank, others, source says"
 [5]: https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/ "Oneleet raises $33M to shake up the world of security compliance | TechCrunch"

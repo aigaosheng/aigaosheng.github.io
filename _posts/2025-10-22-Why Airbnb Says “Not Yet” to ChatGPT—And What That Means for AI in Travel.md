@@ -68,7 +68,7 @@ In short: Airbnb isn’t backing out of AI—it’s holding its cards close as i
 
 Source link: [https://www.cnbc.com/2025/10/22/airbnb-chatgpt-ai-chesky.html](https://www.cnbc.com/2025/10/22/airbnb-chatgpt-ai-chesky.html)
 
-[1]: https://www.latimes.com/business/story/2025-10-21/chesky-says-openai-tools-not-ready-for-chatgpt-tie-up-with-airbnb-app?utm_source=chatgpt.com "Airbnb CEO says ChatGPT isn't ready"
-[2]: https://www.scmp.com/tech/tech-trends/article/3329921/airbnb-picks-alibabas-qwen-over-chatgpt-win-chinese-open-source-ai?utm_source=chatgpt.com "Airbnb chooses Alibaba’s open-source AI over ‘not ready’ ChatGPT"
-[3]: https://www.emarketer.com/content/airbnb-takes-cautious-approach-ai-rivals-rush?utm_source=chatgpt.com "Airbnb takes cautious approach to AI as rivals rush in"
-[4]: https://www.ft.com/content/4d1acaff-07e4-4739-9ea4-5c6cba553e74?utm_source=chatgpt.com "Online travel platforms prepare for rise of artificial intelligence 'agents'"
+[1]: https://www.latimes.com/business/story/2025-10-21/chesky-says-openai-tools-not-ready-for-chatgpt-tie-up-with-airbnb-app "Airbnb CEO says ChatGPT isn't ready"
+[2]: https://www.scmp.com/tech/tech-trends/article/3329921/airbnb-picks-alibabas-qwen-over-chatgpt-win-chinese-open-source-ai "Airbnb chooses Alibaba’s open-source AI over ‘not ready’ ChatGPT"
+[3]: https://www.emarketer.com/content/airbnb-takes-cautious-approach-ai-rivals-rush "Airbnb takes cautious approach to AI as rivals rush in"
+[4]: https://www.ft.com/content/4d1acaff-07e4-4739-9ea4-5c6cba553e74 "Online travel platforms prepare for rise of artificial intelligence 'agents'"

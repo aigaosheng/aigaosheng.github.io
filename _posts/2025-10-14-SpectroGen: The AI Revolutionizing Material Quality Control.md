@@ -59,4 +59,4 @@ For more detailed information, visit the original article: [MIT News – Checkin
 
 ---
 
-[1]: https://news.mit.edu/2025/checking-quality-materials-just-got-easier-new-ai-tool-1014?utm_source=chatgpt.com "Checking the quality of materials just got easier with a new ..."
+[1]: https://news.mit.edu/2025/checking-quality-materials-just-got-easier-new-ai-tool-1014 "Checking the quality of materials just got easier with a new ..."

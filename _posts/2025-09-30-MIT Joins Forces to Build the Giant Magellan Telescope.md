@@ -12,7 +12,7 @@ tags:
 - Ground-Based Telescopes
 ---
 ---
-[![MIT joins in constructing the Giant Magellan Telescope | MIT News | Massachusetts Institute of Technology](https://images.openai.com/thumbnails/url/iOEzLXicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7ULTItLvesyK-Iz08zTE9zyzLzyAssNS1NzdMt8QyNCKkotXANcHIxMSsPSs0rMPYIzHE3CypMc0tTKwYA3F8pgg)](https://news.mit.edu/2025/mit-joins-constructing-giant-magellan-telescope-0930?utm_source=chatgpt.com)
+[![MIT joins in constructing the Giant Magellan Telescope | MIT News | Massachusetts Institute of Technology](https://images.openai.com/thumbnails/url/iOEzLXicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7ULTItLvesyK-Iz08zTE9zyzLzyAssNS1NzdMt8QyNCKkotXANcHIxMSsPSs0rMPYIzHE3CypMc0tTKwYA3F8pgg)](https://news.mit.edu/2025/mit-joins-constructing-giant-magellan-telescope-0930)
 
 ## 🔭 MIT Joins Forces to Build the Giant Magellan Telescope
 

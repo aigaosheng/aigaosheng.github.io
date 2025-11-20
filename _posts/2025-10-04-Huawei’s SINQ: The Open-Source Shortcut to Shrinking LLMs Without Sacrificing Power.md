@@ -12,7 +12,7 @@ tags:
 - LLM Optimization
 ---
 ---
-[![Huawei's new open source technique shrinks LLMs to make them run on less powerful, less expensive hardware | VentureBeat](https://images.openai.com/thumbnails/url/sFZ9ZXicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4uskzxSHZxKoyPyoioKsmpdMkKyzDJrMp1dvf1CXbNTXSy9HdLjzTyM3QJVCu2NTQAAByOJQE)](https://venturebeat.com/ai/huaweis-new-open-source-technique-shrinks-llms-to-make-them-run-on-less?utm_source=chatgpt.com)
+[![Huawei's new open source technique shrinks LLMs to make them run on less powerful, less expensive hardware | VentureBeat](https://images.openai.com/thumbnails/url/sFZ9ZXicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4uskzxSHZxKoyPyoioKsmpdMkKyzDJrMp1dvf1CXbNTXSy9HdLjzTyM3QJVCu2NTQAAByOJQE)](https://venturebeat.com/ai/huaweis-new-open-source-technique-shrinks-llms-to-make-them-run-on-less)
 
 ---
 
@@ -76,4 +76,4 @@ For more details, visit the original article on [VentureBeat](https://venturebea
 
 ---
 
-[1]: https://venturebeat.com/ai/huaweis-new-open-source-technique-shrinks-llms-to-make-them-run-on-less?utm_source=chatgpt.com "Huawei's new open source technique shrinks LLMs to ..."
+[1]: https://venturebeat.com/ai/huaweis-new-open-source-technique-shrinks-llms-to-make-them-run-on-less "Huawei's new open source technique shrinks LLMs to ..."

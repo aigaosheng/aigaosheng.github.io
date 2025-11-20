@@ -77,6 +77,6 @@ In short: A trial in Essex is showing how a garden-shed data centre is being use
 
 Source: [https://www.bbc.com/news/articles/c0rpy7envr5o](https://www.bbc.com/news/articles/c0rpy7envr5o)
 
-[1]: https://www.newssniffer.co.uk/articles/2863862?utm_source=chatgpt.com "I heat my Essex home with a data centre in the shed"
-[2]: https://forums.raspberrypi.com/viewtopic.php?p=2348558&utm_source=chatgpt.com "Data centre using Pi's.."
-[3]: https://www.wilderssecurity.com/posts/3256567/?utm_source=chatgpt.com "Data centre in the shed reduces energy bills to £40"
+[1]: https://www.newssniffer.co.uk/articles/2863862 "I heat my Essex home with a data centre in the shed"
+[2]: https://forums.raspberrypi.com/viewtopic.php?p=2348558 "Data centre using Pi's.."
+[3]: https://www.wilderssecurity.com/posts/3256567/ "Data centre in the shed reduces energy bills to £40"

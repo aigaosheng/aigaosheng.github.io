@@ -100,12 +100,12 @@ tags:
 
 ---
 
-[1]: https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage?utm_source=chatgpt.com "Seizing the agentic AI advantage"
-[2]: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-change-agent-goals-decisions-and-implications-for-ceos-in-the-agentic-age?utm_source=chatgpt.com "CEO strategies for leading in the age of agentic AI"
-[3]: https://www.mckinsey.com/industries/life-sciences/our-insights/reimagining-life-science-enterprises-with-agentic-ai?utm_source=chatgpt.com "Reimagining life science enterprises with agentic AI"
-[4]: https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/empowering-advanced-industries-with-agentic-ai?utm_source=chatgpt.com "Empowering advanced industries with agentic AI"
-[5]: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era?utm_source=chatgpt.com "The agentic organization: A new operating model for AI"
-[6]: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-future-of-work-is-agentic?utm_source=chatgpt.com "The future of work is agentic"
-[7]: https://www.mckinsey.com/industries/travel/our-insights/remapping-travel-with-agentic-ai?utm_source=chatgpt.com "Remapping travel with agentic AI"
-[8]: https://www.mckinsey.com/capabilities/operations/our-insights/the-future-of-customer-experience-embracing-agentic-ai?utm_source=chatgpt.com "The future of customer experience: Embracing agentic AI"
+[1]: https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage "Seizing the agentic AI advantage"
+[2]: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-change-agent-goals-decisions-and-implications-for-ceos-in-the-agentic-age "CEO strategies for leading in the age of agentic AI"
+[3]: https://www.mckinsey.com/industries/life-sciences/our-insights/reimagining-life-science-enterprises-with-agentic-ai "Reimagining life science enterprises with agentic AI"
+[4]: https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/empowering-advanced-industries-with-agentic-ai "Empowering advanced industries with agentic AI"
+[5]: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era "The agentic organization: A new operating model for AI"
+[6]: https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-future-of-work-is-agentic "The future of work is agentic"
+[7]: https://www.mckinsey.com/industries/travel/our-insights/remapping-travel-with-agentic-ai "Remapping travel with agentic AI"
+[8]: https://www.mckinsey.com/capabilities/operations/our-insights/the-future-of-customer-experience-embracing-agentic-ai "The future of customer experience: Embracing agentic AI"
 [9]: https://www.mckinsey.com/capabilities/quantumblack/our-insights/one-year-of-agentic-ai-six-lessons-from-the-people-doing-the-work "One Year of Agentic AI: Six Lessons from the People Doing the Work"

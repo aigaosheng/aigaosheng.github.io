@@ -122,13 +122,13 @@ Below are **10 validated, high-impact** arXiv preprints (all posted in the last 
 
 ---
 
-[1]: https://arxiv.org/abs/2510.08570?utm_source=chatgpt.com "[2510.08570] Who Said Neural Networks Aren't Linear?"
-[2]: https://arxiv.org/abs/2510.08564?utm_source=chatgpt.com "How to Teach Large Multimodal Models New Skills"
-[3]: https://arxiv.org/abs/2510.08569?utm_source=chatgpt.com "ArenaBencher: Automatic Benchmark Evolution via Multi ..."
-[4]: https://arxiv.org/abs/2510.08554?utm_source=chatgpt.com "Improving Reasoning for Diffusion Language Models via ..."
-[5]: https://arxiv.org/abs/2510.08571?utm_source=chatgpt.com "Scalable Offline Metrics for Autonomous Driving"
-[6]: https://paperreading.club/page?id=346122&utm_source=chatgpt.com "BLAZER: Bootstrapping LLM-based Manipulation Agents with ..."
-[7]: https://arxiv.org/abs/2510.08389?utm_source=chatgpt.com "Revisiting Hallucination Detection with Effective Rank ..."
-[8]: https://arxiv.org/abs/2510.08308?utm_source=chatgpt.com "First Try Matters: Revisiting the Role of Reflection in Reasoning Models"
-[9]: https://arxiv.org/abs/2510.08425?utm_source=chatgpt.com "[2510.08425] Reinforcing Diffusion Models by Direct Group ..."
-[10]: https://arxiv.org/abs/2510.08549?utm_source=chatgpt.com "Entropy Regularizing Activation: Boosting Continuous Control, Large Language Models, and Image Classification with Activation as Entropy Constraints"
+[1]: https://arxiv.org/abs/2510.08570 "[2510.08570] Who Said Neural Networks Aren't Linear?"
+[2]: https://arxiv.org/abs/2510.08564 "How to Teach Large Multimodal Models New Skills"
+[3]: https://arxiv.org/abs/2510.08569 "ArenaBencher: Automatic Benchmark Evolution via Multi ..."
+[4]: https://arxiv.org/abs/2510.08554 "Improving Reasoning for Diffusion Language Models via ..."
+[5]: https://arxiv.org/abs/2510.08571 "Scalable Offline Metrics for Autonomous Driving"
+[6]: https://paperreading.club/page?id=346122 "BLAZER: Bootstrapping LLM-based Manipulation Agents with ..."
+[7]: https://arxiv.org/abs/2510.08389 "Revisiting Hallucination Detection with Effective Rank ..."
+[8]: https://arxiv.org/abs/2510.08308 "First Try Matters: Revisiting the Role of Reflection in Reasoning Models"
+[9]: https://arxiv.org/abs/2510.08425 "[2510.08425] Reinforcing Diffusion Models by Direct Group ..."
+[10]: https://arxiv.org/abs/2510.08549 "Entropy Regularizing Activation: Boosting Continuous Control, Large Language Models, and Image Classification with Activation as Entropy Constraints"

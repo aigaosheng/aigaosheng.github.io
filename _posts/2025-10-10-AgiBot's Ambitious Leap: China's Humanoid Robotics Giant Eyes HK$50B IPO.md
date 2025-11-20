@@ -13,7 +13,7 @@ tags:
 keywords: ["AgiBot IPO Hong Kong", "Chinese humanoid robots", "Robotics investment 2025","AI robotics technology","Shanghai tech startups"]
 ---
 ---
-[![Agibot unveils AI model that allows humanoid robots to perform real-world  tasks | South China Morning Post](https://images.openai.com/static-rsc-1/5FCh5-m7p4re1bwiZqX0GAi6E3tH3_J_rnoMormJMUvnLE_Ep7gcHsiZE6sUMO4SntdenKtC0kjYayzWUknKwOtPBtqvnoy22xuM-Xa6lqG1e_4daTVkN3ackUPLd6pYIsKAvDrry3MRh57swyO0hA)](https://www.scmp.com/tech/tech-trends/article/3301814/agibot-unveils-ai-model-allows-humanoid-robots-perform-real-world-tasks?utm_source=chatgpt.com)
+[![Agibot unveils AI model that allows humanoid robots to perform real-world  tasks | South China Morning Post](https://images.openai.com/static-rsc-1/5FCh5-m7p4re1bwiZqX0GAi6E3tH3_J_rnoMormJMUvnLE_Ep7gcHsiZE6sUMO4SntdenKtC0kjYayzWUknKwOtPBtqvnoy22xuM-Xa6lqG1e_4daTVkN3ackUPLd6pYIsKAvDrry3MRh57swyO0hA)](https://www.scmp.com/tech/tech-trends/article/3301814/agibot-unveils-ai-model-allows-humanoid-robots-perform-real-world-tasks)
 
 # 🤖 AgiBot's Ambitious Leap: China's Humanoid Robotics Giant Eyes HK$50B IPO
 

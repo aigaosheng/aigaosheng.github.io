@@ -46,8 +46,8 @@ Closing / Key Takeaways
 Sources (representative hub pages and blog entries referenced above)
 Hugging Face Blog / Hub pages and Daily Papers listings. ([Hugging Face][1])
 
-[1]: https://huggingface.co/blog?utm_source=chatgpt.com "Hugging Face – Blog"
-[2]: https://huggingface.co/deepseek-ai/DeepSeek-OCR?utm_source=chatgpt.com "deepseek-ai/DeepSeek-OCR"
-[3]: https://huggingface.co/blog/isaacus/introducing-mleb?utm_source=chatgpt.com "Introducing the Massive Legal Embedding Benchmark ..."
-[4]: https://huggingface.co/papers?utm_source=chatgpt.com "Daily Papers"
-[5]: https://huggingface.co/papers/month/2025-10?utm_source=chatgpt.com "Daily Papers"
+[1]: https://huggingface.co/blog "Hugging Face – Blog"
+[2]: https://huggingface.co/deepseek-ai/DeepSeek-OCR "deepseek-ai/DeepSeek-OCR"
+[3]: https://huggingface.co/blog/isaacus/introducing-mleb "Introducing the Massive Legal Embedding Benchmark ..."
+[4]: https://huggingface.co/papers "Daily Papers"
+[5]: https://huggingface.co/papers/month/2025-10 "Daily Papers"

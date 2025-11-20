@@ -91,10 +91,10 @@ In short: a blend of ancient medicine and bleeding-edge AI might let your tongue
 
 **Source:** “AI Scans Tongue Color to Predict Diseases,” *Scientific American* ([Scientific American][1])
 
-[1]: https://www.scientificamerican.com/article/ai-scans-tongue-color-to-predict-diseases/?utm_source=chatgpt.com "AI Scans Tongue Color to Predict Diseases"
-[2]: https://www.sciencedaily.com/releases/2024/08/240813132031.htm?utm_source=chatgpt.com "Say 'aah' and get a diagnosis on the spot: is this the future ..."
-[3]: https://www.researchgate.net/publication/381797360_Tongue_Disease_Prediction_Based_on_Machine_Learning_Algorithms?utm_source=chatgpt.com "(PDF) Tongue Disease Prediction Based on Machine ..."
-[4]: https://www.eurekalert.org/news-releases/1054273?utm_source=chatgpt.com "Say 'aah' and get a diagnosis on the spot: is this the future ..."
-[5]: https://www.news-medical.net/news/20240815/Artificial-intelligence-predicts-tongue-disease-with-96-percent-accuracy.aspx?utm_source=chatgpt.com "Artificial intelligence predicts tongue disease with 96 ..."
-[6]: https://www.news-medical.net/news/20240813/Innovative-AI-system-uses-tongue-color-to-identify-multiple-health-conditions.aspx?utm_source=chatgpt.com "Innovative AI system uses tongue color to identify multiple ..."
-[7]: https://www.sciencedirect.com/science/article/pii/S258937772400020X?utm_source=chatgpt.com "Research status and prospect of tongue image diagnosis ..."
+[1]: https://www.scientificamerican.com/article/ai-scans-tongue-color-to-predict-diseases/ "AI Scans Tongue Color to Predict Diseases"
+[2]: https://www.sciencedaily.com/releases/2024/08/240813132031.htm "Say 'aah' and get a diagnosis on the spot: is this the future ..."
+[3]: https://www.researchgate.net/publication/381797360_Tongue_Disease_Prediction_Based_on_Machine_Learning_Algorithms "(PDF) Tongue Disease Prediction Based on Machine ..."
+[4]: https://www.eurekalert.org/news-releases/1054273 "Say 'aah' and get a diagnosis on the spot: is this the future ..."
+[5]: https://www.news-medical.net/news/20240815/Artificial-intelligence-predicts-tongue-disease-with-96-percent-accuracy.aspx "Artificial intelligence predicts tongue disease with 96 ..."
+[6]: https://www.news-medical.net/news/20240813/Innovative-AI-system-uses-tongue-color-to-identify-multiple-health-conditions.aspx "Innovative AI system uses tongue color to identify multiple ..."
+[7]: https://www.sciencedirect.com/science/article/pii/S258937772400020X "Research status and prospect of tongue image diagnosis ..."

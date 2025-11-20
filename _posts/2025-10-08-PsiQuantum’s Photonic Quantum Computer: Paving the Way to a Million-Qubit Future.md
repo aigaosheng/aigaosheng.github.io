@@ -12,7 +12,7 @@ tags:
 - Credit Card Debt Management
 ---
 ---
-[![PsiQuantum Plans Quantum Supercomputer That Runs on Light - IEEE Spectrum](https://images.openai.com/thumbnails/url/vxJxw3icu5mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5J1zUI8go1DSsMzE5x9igvL85wNoy0rDQsiI_38NWNysvTzU708DLJMCoLVCsGAJICI_A)](https://spectrum.ieee.org/amp/psyquantum-supercomputer-2674117178?utm_source=chatgpt.com)
+[![PsiQuantum Plans Quantum Supercomputer That Runs on Light - IEEE Spectrum](https://images.openai.com/thumbnails/url/vxJxw3icu5mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5J1zUI8go1DSsMzE5x9igvL85wNoy0rDQsiI_38NWNysvTzU708DLJMCoLVCsGAJICI_A)](https://spectrum.ieee.org/amp/psyquantum-supercomputer-2674117178)
 
 **PsiQuantum’s Photonic Quantum Computer: Paving the Way to a Million-Qubit Future**
 
@@ -66,4 +66,4 @@ PsiQuantum's approach may also influence the broader quantum computing landscape
 
 For a more detailed exploration of PsiQuantum's initiatives and progress, you can read the full article here: ([IEEE Spectrum][1]).
 
-[1]: https://spectrum.ieee.org/psyquantum-supercomputer?utm_source=chatgpt.com "PsiQuantum Supercomputer: Aiming for a Million Qubits"
+[1]: https://spectrum.ieee.org/psyquantum-supercomputer "PsiQuantum Supercomputer: Aiming for a Million Qubits"

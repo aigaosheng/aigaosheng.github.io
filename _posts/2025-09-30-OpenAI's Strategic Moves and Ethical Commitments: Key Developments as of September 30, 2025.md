@@ -12,7 +12,7 @@ tags:
 - Generative video
 ---
 ---
-[![Azure OpenAI News September 2025 - Dynamics Edge](https://images.openai.com/thumbnails/url/m9j13nicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4M9y41z_QyTCk1DffyCY3PDUjK8Ct3N_V1y02ODAwrCAyydIlMrkxKL3BzzvcJCzM09rTMM_GocnNVKwYAvpYorw)](https://www.dynamicsedge.com/azure-openai-news-september-2025/?utm_source=chatgpt.com)
+[![Azure OpenAI News September 2025 - Dynamics Edge](https://images.openai.com/thumbnails/url/m9j13nicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4M9y41z_QyTCk1DffyCY3PDUjK8Ct3N_V1y02ODAwrCAyydIlMrkxKL3BzzvcJCzM09rTMM_GocnNVKwYAvpYorw)](https://www.dynamicsedge.com/azure-openai-news-september-2025/)
 
 ## OpenAI's Strategic Moves and Ethical Commitments: Key Developments as of September 30, 2025
 
@@ -54,9 +54,9 @@ OpenAI's recent initiatives reflect a strategic approach to both technological a
 
 ---
 
-[1]: https://www.reuters.com/legal/litigation/openai-bring-parental-controls-chatgpt-after-california-teens-suicide-2025-09-29/?utm_source=chatgpt.com "OpenAI launches parental controls in ChatGPT after California teen's suicide"
-[2]: https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app?utm_source=chatgpt.com "OpenAI Is Preparing to Launch a Social App for AI-Generated Videos"
-[3]: https://openai.com/index/openai-nvidia-systems-partnership/?utm_source=chatgpt.com "OpenAI and NVIDIA announce strategic partnership to ..."
-[4]: https://www.techmarketview.com/ukhotviews/archive/2025/09/30/openai-revenue-climbs-as-anthropic-launches-claude-sonnet-45?utm_source=chatgpt.com "OpenAI revenue climbs as Anthropic launches Claude ..."
-[5]: https://www.reuters.com/legal/litigation/californias-newsom-signs-law-requiring-ai-safety-disclosures-2025-09-29/?utm_source=chatgpt.com "California's Newsom signs law requiring AI safety disclosures"
-[6]: https://openai.com/index/people-first-ai-fund/?utm_source=chatgpt.com "A People-First AI Fund: $50M to support nonprofits"
+[1]: https://www.reuters.com/legal/litigation/openai-bring-parental-controls-chatgpt-after-california-teens-suicide-2025-09-29/ "OpenAI launches parental controls in ChatGPT after California teen's suicide"
+[2]: https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app "OpenAI Is Preparing to Launch a Social App for AI-Generated Videos"
+[3]: https://openai.com/index/openai-nvidia-systems-partnership/ "OpenAI and NVIDIA announce strategic partnership to ..."
+[4]: https://www.techmarketview.com/ukhotviews/archive/2025/09/30/openai-revenue-climbs-as-anthropic-launches-claude-sonnet-45 "OpenAI revenue climbs as Anthropic launches Claude ..."
+[5]: https://www.reuters.com/legal/litigation/californias-newsom-signs-law-requiring-ai-safety-disclosures-2025-09-29/ "California's Newsom signs law requiring AI safety disclosures"
+[6]: https://openai.com/index/people-first-ai-fund/ "A People-First AI Fund: $50M to support nonprofits"

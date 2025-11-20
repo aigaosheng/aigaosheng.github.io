@@ -69,7 +69,7 @@ tags:
 
 ---
 
-[1]: https://www.arxiv.org/pdf/2509.21972?utm_source=chatgpt.com "Risks of Large Language Models in Education"
-[2]: https://arxiv.org/pdf/2509.17276?utm_source=chatgpt.com "Probabilistic Token Alignment for Large Language Model ..."
-[3]: https://arxiv.org/abs/2509.24418?utm_source=chatgpt.com "GSPR: Aligning LLM Safeguards as Generalizable Safety Policy Reasoners"
-[4]: https://arxiv.org/abs/2509.24877?utm_source=chatgpt.com "The Emergence of Social Science of Large Language Models"
+[1]: https://www.arxiv.org/pdf/2509.21972 "Risks of Large Language Models in Education"
+[2]: https://arxiv.org/pdf/2509.17276 "Probabilistic Token Alignment for Large Language Model ..."
+[3]: https://arxiv.org/abs/2509.24418 "GSPR: Aligning LLM Safeguards as Generalizable Safety Policy Reasoners"
+[4]: https://arxiv.org/abs/2509.24877 "The Emergence of Social Science of Large Language Models"

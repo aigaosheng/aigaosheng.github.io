@@ -63,4 +63,4 @@ Many earlier advice lists focused on overt errors — mis‑synced lips, extra f
 As synthetic video becomes mainstream, our ability to spot what *feels off* will matter more than ever. The strongest red‑flag? A video styled like something real and covert, yet lacking the grounding cues of authenticity. In short: when your instincts say *“this looks like a thing I’ve seen, but I don’t know why or where”*, you might be watching an AI‑generated clip.
 Source: [https://www.bbc.com/future/article/20251031-the-number-one-sign-you-might-be-watching-ai-video](https://www.bbc.com/future/article/20251031-the-number-one-sign-you-might-be-watching-ai-video)
 
-[1]: https://en.wikipedia.org/wiki/Deepfake?utm_source=chatgpt.com "Deepfake"
+[1]: https://en.wikipedia.org/wiki/Deepfake "Deepfake"

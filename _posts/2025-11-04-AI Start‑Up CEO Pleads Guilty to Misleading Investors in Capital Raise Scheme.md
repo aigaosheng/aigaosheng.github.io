@@ -63,6 +63,6 @@ The guilty plea by David Fairfull of Metigy is a cautionary tale for start‑u
 
 **Source:** Australian Financial Review link: [https://www.afr.com/technology/ai-start-up-founder-pleads-guilty-to-misleading-investors-20251104-p5n7p9](https://www.afr.com/technology/ai-start-up-founder-pleads-guilty-to-misleading-investors-20251104-p5n7p9)
 
-[1]: https://www.capitalbrief.com/briefing/former-metigy-ceo-pleads-guilty-to-misleading-investors-dishonestly-using-his-position-be4c877e-aed5-4f29-9731-2b7e52fb5055/?utm_source=chatgpt.com "Former Metigy CEO pleads guilty to misleading investors ..."
-[2]: https://www.afr.com/by/tess-bennett-p4yw9c?utm_source=chatgpt.com "Tess Bennett"
-[3]: https://www.dlapiper.com/en/insights/publications/2025/04/doj-and-sec-send-warning-against-ai-washing-with-charges-against-technology-startup-founder?utm_source=chatgpt.com "DOJ and SEC send warning on “AI washing” with charges ..."
+[1]: https://www.capitalbrief.com/briefing/former-metigy-ceo-pleads-guilty-to-misleading-investors-dishonestly-using-his-position-be4c877e-aed5-4f29-9731-2b7e52fb5055/ "Former Metigy CEO pleads guilty to misleading investors ..."
+[2]: https://www.afr.com/by/tess-bennett-p4yw9c "Tess Bennett"
+[3]: https://www.dlapiper.com/en/insights/publications/2025/04/doj-and-sec-send-warning-against-ai-washing-with-charges-against-technology-startup-founder "DOJ and SEC send warning on “AI washing” with charges ..."

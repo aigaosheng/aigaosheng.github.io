@@ -133,9 +133,9 @@ Anthropic published a report detailing a sophisticated state-sponsored cyber esp
 
 ---
 
-[1]: https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure?utm_source=chatgpt.com "Anthropic invests $50 billion in American AI infrastructure \ Anthropic"
-[2]: https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots?utm_source=chatgpt.com "Anthropic and Iceland announce one of the world’s first national AI education pilots \ Anthropic"
-[3]: https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence?utm_source=chatgpt.com "New offices in Paris and Munich expand Anthropic’s European presence \ Anthropic"
-[4]: https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific?utm_source=chatgpt.com "Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth \ Anthropic"
-[5]: https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of?%3Butm_medium=web&amp%3Butm_campaign=airflow-in-action-uber&e45d281a_page=1&wtime=4s&utm_source=chatgpt.com "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International \ Anthropic"
-[6]: https://www.anthropic.com/news/disrupting-AI-espionage?utm_source=chatgpt.com "Disrupting the first reported AI-orchestrated cyber espionage campaign \ Anthropic"
+[1]: https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure "Anthropic invests $50 billion in American AI infrastructure \ Anthropic"
+[2]: https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots "Anthropic and Iceland announce one of the world’s first national AI education pilots \ Anthropic"
+[3]: https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence "New offices in Paris and Munich expand Anthropic’s European presence \ Anthropic"
+[4]: https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific "Seoul becomes Anthropic’s third office in Asia-Pacific as we continue our international growth \ Anthropic"
+[5]: https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of?%3Butm_medium=web&amp%3Butm_campaign=airflow-in-action-uber&e45d281a_page=1&wtime=4s "Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of International \ Anthropic"
+[6]: https://www.anthropic.com/news/disrupting-AI-espionage "Disrupting the first reported AI-orchestrated cyber espionage campaign \ Anthropic"

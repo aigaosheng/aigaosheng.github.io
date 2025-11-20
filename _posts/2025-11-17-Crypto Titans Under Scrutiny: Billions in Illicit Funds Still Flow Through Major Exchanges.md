@@ -56,6 +56,6 @@ Even as regulators tighten the screws on cryptocurrency platforms, the ICIJ’s 
 
 **Source:** Tech in Asia – *Crypto giants moved billions in illegal funds despite crackdown* ([startupnews.fyi][3])
 
-[1]: https://www.icij.org/?utm_source=chatgpt.com "International Consortium of Investigative Journalists - ICIJ"
-[2]: https://www.thailand-business-news.com/news/258641-the-coin-laundry-how-crypto-giants-moved-billions-tied-to-crime-and-hackers?utm_source=chatgpt.com "The Coin Laundry: How Crypto giants moved billions tied to crime and hackers - Thailand Business News"
-[3]: https://startupnews.fyi/2025/11/17/crypto-giants-moved-billions-in-illegal-funds-despite-crackdown/?utm_source=chatgpt.com "Crypto giants moved billions in illegal funds despite crackdown"
+[1]: https://www.icij.org/ "International Consortium of Investigative Journalists - ICIJ"
+[2]: https://www.thailand-business-news.com/news/258641-the-coin-laundry-how-crypto-giants-moved-billions-tied-to-crime-and-hackers "The Coin Laundry: How Crypto giants moved billions tied to crime and hackers - Thailand Business News"
+[3]: https://startupnews.fyi/2025/11/17/crypto-giants-moved-billions-in-illegal-funds-despite-crackdown/ "Crypto giants moved billions in illegal funds despite crackdown"

@@ -13,7 +13,7 @@ tags:
 keywords: [AI chatbot, investment research, operational efficiency]
 permalink: /VikingGPT - Viking Global Investors' In-House AI Strategy/
 ---
-[![VikingGPT' Helps Hedge Fund Giant Wrestle With Trade Ideas - Bloomberg](https://images.openai.com/static-rsc-1/NHT-CzdTwHPRmxBPSNxcz3TJp4Ep03YsxXRLh9mPsNB2rGhi_JCaKHbnfvV9ptABRxdc8_kbNRaIXlFcCJo__Hxc7v-1kmICPvtlNKUpiV43nkqO20tEsObGO7lnYf-e8C6zqQZfa6d9SBXBThpMrQ)](https://www.bloomberg.com/news/articles/2025-10-17/-vikinggpt-helps-hedge-fund-giant-wrestle-with-trade-ideas?utm_source=chatgpt.com)
+[![VikingGPT' Helps Hedge Fund Giant Wrestle With Trade Ideas - Bloomberg](https://images.openai.com/static-rsc-1/NHT-CzdTwHPRmxBPSNxcz3TJp4Ep03YsxXRLh9mPsNB2rGhi_JCaKHbnfvV9ptABRxdc8_kbNRaIXlFcCJo__Hxc7v-1kmICPvtlNKUpiV43nkqO20tEsObGO7lnYf-e8C6zqQZfa6d9SBXBThpMrQ)](https://www.bloomberg.com/news/articles/2025-10-17/-vikinggpt-helps-hedge-fund-giant-wrestle-with-trade-ideas)
 
 **VikingGPT: Viking Global Investors' In-House AI Strategy**
 
@@ -73,8 +73,8 @@ In conclusion, VikingGPT represents a strategic initiative by Viking Global Inve
 
 ---
 
-[1]: https://www.ainvest.com/news/viking-global-investors-ai-chatbot-boosts-trade-ideas-operations-efficiency-2510/?utm_source=chatgpt.com "Viking Global Investors' AI Chatbot Boosts Trade Ideas and ..."
-[2]: https://e24.no/i/GyozMl?utm_source=chatgpt.com "Bloomberg: Viking Global har laget egen AI-bot"
+[1]: https://www.ainvest.com/news/viking-global-investors-ai-chatbot-boosts-trade-ideas-operations-efficiency-2510/ "Viking Global Investors' AI Chatbot Boosts Trade Ideas and ..."
+[2]: https://e24.no/i/GyozMl "Bloomberg: Viking Global har laget egen AI-bot"
 
 ---
 You may also enjoy reading:

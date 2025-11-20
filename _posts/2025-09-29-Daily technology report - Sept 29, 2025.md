@@ -185,10 +185,10 @@ tags:
 
 ---
 
-[1]: https://arxiv.org/abs/2509.06917?utm_source=chatgpt.com "[2509.06917] Paper2Agent: Reimagining Research Papers ..."
-[2]: https://techcrunch.com/2025/09/22/tech-layoffs-2025-list/?utm_source=chatgpt.com "A comprehensive list of 2025 tech layoffs"
-[3]: https://techstartups.com/2025/09/25/top-startup-and-tech-funding-news-september-25-2025/?utm_source=chatgpt.com "Top Startup and Tech Funding News – September 25, 2025"
-[4]: https://www.reuters.com/markets/europe/european-shares-gain-healthcare-technology-boost-2025-09-29/?utm_source=chatgpt.com "European shares get healthcare, tech boost; US government shutdown in focus"
-[5]: https://arxiv.org/list/cs.AI/recent?utm_source=chatgpt.com "Artificial Intelligence"
-[6]: https://m.economictimes.com/tech/technology/saas-platform-petpooja-raises-15-4-million-funding-led-by-dharana-capital/articleshow/124212343.cms?utm_source=chatgpt.com "SaaS platform Petpooja raises $15.4 million funding led by Dharana Capital"
-[7]: https://alleywatch.com/2025/09/the-weekly-notable-startup-funding-report-9-29-25/?utm_source=chatgpt.com "The Weekly Notable Startup Funding Report: 9/29/25"
+[1]: https://arxiv.org/abs/2509.06917 "[2509.06917] Paper2Agent: Reimagining Research Papers ..."
+[2]: https://techcrunch.com/2025/09/22/tech-layoffs-2025-list/ "A comprehensive list of 2025 tech layoffs"
+[3]: https://techstartups.com/2025/09/25/top-startup-and-tech-funding-news-september-25-2025/ "Top Startup and Tech Funding News – September 25, 2025"
+[4]: https://www.reuters.com/markets/europe/european-shares-gain-healthcare-technology-boost-2025-09-29/ "European shares get healthcare, tech boost; US government shutdown in focus"
+[5]: https://arxiv.org/list/cs.AI/recent "Artificial Intelligence"
+[6]: https://m.economictimes.com/tech/technology/saas-platform-petpooja-raises-15-4-million-funding-led-by-dharana-capital/articleshow/124212343.cms "SaaS platform Petpooja raises $15.4 million funding led by Dharana Capital"
+[7]: https://alleywatch.com/2025/09/the-weekly-notable-startup-funding-report-9-29-25/ "The Weekly Notable Startup Funding Report: 9/29/25"

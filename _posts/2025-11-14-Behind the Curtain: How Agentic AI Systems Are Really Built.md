@@ -104,18 +104,18 @@ For you, Sheng, this means: leverage your depth in system design and AI, priorit
 
 If you like, I can pull together a **reading-pack (PDFs + code links)** of 10 of the best resources for *agentic AI system building in production* (including open-source frameworks, architecture patterns, case studies). Would you like that?
 
-* [reuters.com](https://www.reuters.com/business/over-40-agentic-ai-projects-will-be-scrapped-by-2027-gartner-says-2025-06-25/?utm_source=chatgpt.com)
-* [TechRadar](https://www.techradar.com/pro/garbage-in-agentic-out-why-data-and-document-quality-is-critical-to-autonomous-ais-success?utm_source=chatgpt.com)
-* [theverge.com](https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents?utm_source=chatgpt.com)
+* [reuters.com](https://www.reuters.com/business/over-40-agentic-ai-projects-will-be-scrapped-by-2027-gartner-says-2025-06-25/)
+* [TechRadar](https://www.techradar.com/pro/garbage-in-agentic-out-why-data-and-document-quality-is-critical-to-autonomous-ais-success)
+* [theverge.com](https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents)
 
-[1]: https://www.mckinsey.com/capabilities/quantumblack/our-insights/one-year-of-agentic-ai-six-lessons-from-the-people-doing-the-work?utm_source=chatgpt.com "One year of agentic AI: Six lessons from the people doing ..."
-[2]: https://www.bcg.com/publications/2025/how-agentic-ai-is-transforming-enterprise-platforms?utm_source=chatgpt.com "How Agentic AI is Transforming Enterprise Platforms"
-[3]: https://www.anthropic.com/research/building-effective-agents?utm_source=chatgpt.com "Building Effective AI Agents"
-[4]: https://www.freecodecamp.org/news/the-agentic-ai-handbook/?utm_source=chatgpt.com "The Agentic AI Handbook: A Beginner's Guide to ..."
-[5]: https://www.ibm.com/think/insights/agentic-ai?utm_source=chatgpt.com "Agentic AI: 4 reasons why it's the next big thing in AI research"
-[6]: https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/agentic-ai-primer.html?utm_source=chatgpt.com "Agentic AI Primer | Singapore Government Developer Portal"
-[7]: https://arxiv.org/abs/2510.25445?utm_source=chatgpt.com "Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions"
-[8]: https://arxiv.org/abs/2508.10146?utm_source=chatgpt.com "Agentic AI Frameworks: Architectures, Protocols, and Design Challenges"
-[9]: https://arxiv.org/abs/2506.04133?utm_source=chatgpt.com "TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems"
-[10]: https://www.techradar.com/pro/garbage-in-agentic-out-why-data-and-document-quality-is-critical-to-autonomous-ais-success?utm_source=chatgpt.com "Garbage in, Agentic out: why data and document quality is critical to autonomous AI's success"
-[11]: https://hbr.org/2025/10/designing-a-successful-agentic-ai-system?utm_source=chatgpt.com "Designing a Successful Agentic AI System"
+[1]: https://www.mckinsey.com/capabilities/quantumblack/our-insights/one-year-of-agentic-ai-six-lessons-from-the-people-doing-the-work "One year of agentic AI: Six lessons from the people doing ..."
+[2]: https://www.bcg.com/publications/2025/how-agentic-ai-is-transforming-enterprise-platforms "How Agentic AI is Transforming Enterprise Platforms"
+[3]: https://www.anthropic.com/research/building-effective-agents "Building Effective AI Agents"
+[4]: https://www.freecodecamp.org/news/the-agentic-ai-handbook/ "The Agentic AI Handbook: A Beginner's Guide to ..."
+[5]: https://www.ibm.com/think/insights/agentic-ai "Agentic AI: 4 reasons why it's the next big thing in AI research"
+[6]: https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/agentic-ai-primer.html "Agentic AI Primer | Singapore Government Developer Portal"
+[7]: https://arxiv.org/abs/2510.25445 "Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions"
+[8]: https://arxiv.org/abs/2508.10146 "Agentic AI Frameworks: Architectures, Protocols, and Design Challenges"
+[9]: https://arxiv.org/abs/2506.04133 "TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems"
+[10]: https://www.techradar.com/pro/garbage-in-agentic-out-why-data-and-document-quality-is-critical-to-autonomous-ais-success "Garbage in, Agentic out: why data and document quality is critical to autonomous AI's success"
+[11]: https://hbr.org/2025/10/designing-a-successful-agentic-ai-system "Designing a Successful Agentic AI System"

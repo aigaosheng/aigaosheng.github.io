@@ -210,17 +210,17 @@ For clients (such as yourself, Sheng) building intelligent systems (email automa
 
 **Source Link**: [https://www.databricks.com/blog/responsible-ai-databricks-data-intelligence-platform](https://www.databricks.com/blog/responsible-ai-databricks-data-intelligence-platform) ([Databricks][5])
 
-[1]: https://www.databricks.com/blog/introducing-databricks-ai-governance-framework?utm_source=chatgpt.com "Introducing the Databricks AI Governance Framework | Databricks Blog"
-[2]: https://www.databricks.com/blog/introducing-databricks-ai-security-framework-dasf?utm_source=chatgpt.com "Introducing the Databricks AI Security Framework (DASF) | Databricks Blog"
-[3]: https://www.databricks.com/blog/announcing-databricks-ai-security-framework-20?utm_source=chatgpt.com "Announcing the Databricks AI Security Framework 2.0 | Databricks Blog"
-[4]: https://www.databricks.com/blog/deploying-third-party-models-securely-databricks-data-intelligence-platform-and-hiddenlayer?utm_source=chatgpt.com "Deploying Third-party models securely | Databricks Blog"
-[5]: https://www.databricks.com/blog/responsible-ai-databricks-data-intelligence-platform?utm_source=chatgpt.com "Responsible AI with the Databricks Data Intelligence Platform | Databricks Blog"
-[6]: https://www.databricks.com/blog/implementing-llm-guardrails-safe-and-responsible-generative-ai-deployment-databricks?utm_source=chatgpt.com "Implementing LLM Guardrails for Safe and Responsible Generative AI Deployment on Databricks | Databricks Blog"
-[7]: https://www.databricks.com/blog/introducing-new-governance-capabilities-scale-ai-agents-confidence?utm_source=chatgpt.com "Introducing New Governance Capabilities to Scale AI Agents with Confidence | Databricks Blog"
-[8]: https://www.databricks.com/blog/new-updates-mosaic-ai-gateway-bring-security-and-governance-genai-models?utm_source=chatgpt.com "Announcing Advanced Security and Governance in Mosaic AI Gateway | Databricks Blog"
-[9]: https://www.databricks.com/blog/furthering-our-commitment-responsible-ai-development-through-industry-and-government?utm_source=chatgpt.com "Furthering Our Commitment to Responsible AI Development Through Industry and Government Organizations | Databricks Blog"
-[10]: https://www.databricks.com/blog/securing-ai-lifecycle-databricks-ventures-invests-noma-security?utm_source=chatgpt.com "Securing the AI Lifecycle: Databricks Ventures Invests in Noma Security | Databricks Blog"
-[11]: https://www.databricks.com/blog/helping-enterprises-responsibly-deploy-ai?utm_source=chatgpt.com "Helping Enterprises Responsibly Deploy AI | Databricks Blog"
-[12]: https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks?utm_source=chatgpt.com "Building High-Quality and Trusted Data Products with Databricks | Databricks Blog"
+[1]: https://www.databricks.com/blog/introducing-databricks-ai-governance-framework "Introducing the Databricks AI Governance Framework | Databricks Blog"
+[2]: https://www.databricks.com/blog/introducing-databricks-ai-security-framework-dasf "Introducing the Databricks AI Security Framework (DASF) | Databricks Blog"
+[3]: https://www.databricks.com/blog/announcing-databricks-ai-security-framework-20 "Announcing the Databricks AI Security Framework 2.0 | Databricks Blog"
+[4]: https://www.databricks.com/blog/deploying-third-party-models-securely-databricks-data-intelligence-platform-and-hiddenlayer "Deploying Third-party models securely | Databricks Blog"
+[5]: https://www.databricks.com/blog/responsible-ai-databricks-data-intelligence-platform "Responsible AI with the Databricks Data Intelligence Platform | Databricks Blog"
+[6]: https://www.databricks.com/blog/implementing-llm-guardrails-safe-and-responsible-generative-ai-deployment-databricks "Implementing LLM Guardrails for Safe and Responsible Generative AI Deployment on Databricks | Databricks Blog"
+[7]: https://www.databricks.com/blog/introducing-new-governance-capabilities-scale-ai-agents-confidence "Introducing New Governance Capabilities to Scale AI Agents with Confidence | Databricks Blog"
+[8]: https://www.databricks.com/blog/new-updates-mosaic-ai-gateway-bring-security-and-governance-genai-models "Announcing Advanced Security and Governance in Mosaic AI Gateway | Databricks Blog"
+[9]: https://www.databricks.com/blog/furthering-our-commitment-responsible-ai-development-through-industry-and-government "Furthering Our Commitment to Responsible AI Development Through Industry and Government Organizations | Databricks Blog"
+[10]: https://www.databricks.com/blog/securing-ai-lifecycle-databricks-ventures-invests-noma-security "Securing the AI Lifecycle: Databricks Ventures Invests in Noma Security | Databricks Blog"
+[11]: https://www.databricks.com/blog/helping-enterprises-responsibly-deploy-ai "Helping Enterprises Responsibly Deploy AI | Databricks Blog"
+[12]: https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks "Building High-Quality and Trusted Data Products with Databricks | Databricks Blog"
 
 [In-depth report Arduino – A Pillar of Open-Source Innovation]({{ site.baseurl }}/link name/)

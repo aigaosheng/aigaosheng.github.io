@@ -59,4 +59,4 @@ In a world where data volumes are exploding and regulatory scrutiny is intensify
 PwC’s A$1.5 billion push into AI-augmented auditing is a landmark investment, signalling a shift in how audit services will be delivered — not simply faster or cheaper, but deeper and more insight-driven. Organisations being audited would do well to take note: the expectation is changing, and so is the price.
 Source: [https://www.afr.com/companies/professional-services/pwc-s-1-5b-ai-audit-revolution-has-a-catch-don-t-expect-a-discount-20250814-p5mn3q](https://www.afr.com/companies/professional-services/pwc-s-1-5b-ai-audit-revolution-has-a-catch-don-t-expect-a-discount-20250814-p5mn3q)
 
-[1]: https://www.afr.com/by/edmund-tadros-j7gem?utm_source=chatgpt.com "Edmund Tadros"
+[1]: https://www.afr.com/by/edmund-tadros-j7gem "Edmund Tadros"

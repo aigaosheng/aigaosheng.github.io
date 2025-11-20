@@ -144,13 +144,13 @@ permalink: /Daily AI Tech Research Update — last 72 hours (Oct 20–23, 2025)/
 
 ---
 
-[1]: https://arxiv.org/abs/2510.19544?utm_source=chatgpt.com "Demonstrating Real Advantage of Machine-Learning ..."
-[2]: https://arxiv.org/abs/2510.19788?utm_source=chatgpt.com "[2510.19788] Benchmarking World-Model Learning"
-[3]: https://arxiv.org/abs/2510.18927?utm_source=chatgpt.com "BAPO: Stabilizing Off-Policy Reinforcement Learning for ..."
-[4]: https://arxiv.org/abs/2510.19767?utm_source=chatgpt.com "Advancing LLM Reasoning by Overcoming Underthinking ..."
-[5]: https://arxiv.org/abs/2510.19755?utm_source=chatgpt.com "A Survey on Cache Methods in Diffusion Models"
-[6]: https://arxiv.org/abs/2510.18821?utm_source=chatgpt.com "Pushing the Frontier of Agent Capability without Supervision"
-[7]: https://arxiv.org/abs/2510.19617?utm_source=chatgpt.com "Propius: A Platform for Collaborative Machine Learning ..."
-[8]: https://arxiv.org/abs/2510.18921?utm_source=chatgpt.com "Benchmarking On-Device Machine Learning on Apple ..."
-[9]: https://arxiv.org/abs/2510.19347?utm_source=chatgpt.com "[2510.19347] A New Type of Adversarial Examples"
-[10]: https://arxiv.org/abs/2510.19479?utm_source=chatgpt.com "[2510.19479] Graph Unlearning Meets Influence-aware ..."
+[1]: https://arxiv.org/abs/2510.19544 "Demonstrating Real Advantage of Machine-Learning ..."
+[2]: https://arxiv.org/abs/2510.19788 "[2510.19788] Benchmarking World-Model Learning"
+[3]: https://arxiv.org/abs/2510.18927 "BAPO: Stabilizing Off-Policy Reinforcement Learning for ..."
+[4]: https://arxiv.org/abs/2510.19767 "Advancing LLM Reasoning by Overcoming Underthinking ..."
+[5]: https://arxiv.org/abs/2510.19755 "A Survey on Cache Methods in Diffusion Models"
+[6]: https://arxiv.org/abs/2510.18821 "Pushing the Frontier of Agent Capability without Supervision"
+[7]: https://arxiv.org/abs/2510.19617 "Propius: A Platform for Collaborative Machine Learning ..."
+[8]: https://arxiv.org/abs/2510.18921 "Benchmarking On-Device Machine Learning on Apple ..."
+[9]: https://arxiv.org/abs/2510.19347 "[2510.19347] A New Type of Adversarial Examples"
+[10]: https://arxiv.org/abs/2510.19479 "[2510.19479] Graph Unlearning Meets Influence-aware ..."

@@ -73,7 +73,7 @@ Shield AI’s unveiling of the X-BAT stands as a clear signal that the next gene
 
 **Source**: [Bloomberg – Shield AI Debuts Plans for New AI-Powered Fighter Jet](https://www.bloomberg.com/news/articles/2025-10-22/shield-ai-debuts-plans-for-new-ai-powered-fighter-jet)
 
-[1]: https://www.bloomberg.com/news/articles/2025-10-22/shield-ai-debuts-plans-for-new-ai-powered-fighter-jet?utm_source=chatgpt.com "Shield AI Debuts Plans for New AI-Powered Fighter Jet"
-[2]: https://www.prnewswire.com/news-releases/shield-ai-unveils-x-bat-an-ai-piloted-vtol-fighter-jet-for-contested-environments-302591251.html?utm_source=chatgpt.com "Shield AI Unveils X-BAT, an AI-Piloted VTOL Fighter Jet for ..."
-[3]: https://www.defenseone.com/business/2025/10/shield-ais-unmanned-fighter-jet-concept-pitched-drone-wingman-or-solo-aircraft/408963/?utm_source=chatgpt.com "Shield AI's unmanned fighter jet concept pitched as a ..."
-[4]: https://defence-blog.com/shield-ai-develops-worlds-first-autonomous-vtol-fighter-jet/?utm_source=chatgpt.com "Shield AI develops world's first autonomous VTOL fighter jet"
+[1]: https://www.bloomberg.com/news/articles/2025-10-22/shield-ai-debuts-plans-for-new-ai-powered-fighter-jet "Shield AI Debuts Plans for New AI-Powered Fighter Jet"
+[2]: https://www.prnewswire.com/news-releases/shield-ai-unveils-x-bat-an-ai-piloted-vtol-fighter-jet-for-contested-environments-302591251.html "Shield AI Unveils X-BAT, an AI-Piloted VTOL Fighter Jet for ..."
+[3]: https://www.defenseone.com/business/2025/10/shield-ais-unmanned-fighter-jet-concept-pitched-drone-wingman-or-solo-aircraft/408963/ "Shield AI's unmanned fighter jet concept pitched as a ..."
+[4]: https://defence-blog.com/shield-ai-develops-worlds-first-autonomous-vtol-fighter-jet/ "Shield AI develops world's first autonomous VTOL fighter jet"

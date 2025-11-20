@@ -12,7 +12,7 @@ tags:
 - Chinese open-source AI
 keywords: [Hugging Face updates, multimodal AI models, energy-efficient AI, Chinese open-source AI, AI community trends]
 ---
-[![Hugging Face Open-Sourced FineVision: A New Multimodal Dataset with 24  Million Samples for Training Vision-Language Models (VLMs) - MarkTechPost](https://images.openai.com/static-rsc-1/dY41wJjPNks7H0h27hkLaj7_-4hJTwxx9RJ4SbU7tlNLhdkx5J6MJqTFyftgsJaPQTuqVMR_LcEMuuFw6EO7tWOsH0yAcxKfIvd3NPnX1-tLofWt5F3THEklhAghM9QZXKRx7LfX_0nZ45riump-4w)](https://www.marktechpost.com/2025/09/06/hugging-face-open-sourced-finevision-a-new-multimodal-dataset-with-24-million-samples-for-training-vision-language-models-vlms/?utm_source=chatgpt.com)
+[![Hugging Face Open-Sourced FineVision: A New Multimodal Dataset with 24  Million Samples for Training Vision-Language Models (VLMs) - MarkTechPost](https://images.openai.com/static-rsc-1/dY41wJjPNks7H0h27hkLaj7_-4hJTwxx9RJ4SbU7tlNLhdkx5J6MJqTFyftgsJaPQTuqVMR_LcEMuuFw6EO7tWOsH0yAcxKfIvd3NPnX1-tLofWt5F3THEklhAghM9QZXKRx7LfX_0nZ45riump-4w)](https://www.marktechpost.com/2025/09/06/hugging-face-open-sourced-finevision-a-new-multimodal-dataset-with-24-million-samples-for-training-vision-language-models-vlms/)
 
 # Hugging Face Daily Update: Key Developments in AI 
 
@@ -60,9 +60,9 @@ These developments indicate a shift towards more accessible, efficient, and vers
 
 ---
 
-[1]: https://huggingface.co/models?utm_source=chatgpt.com "Models"
-[2]: https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev?utm_source=chatgpt.com "black-forest-labs/FLUX.1-Kontext-dev"
-[3]: https://huggingface.co/blog/openvino-vlm?utm_source=chatgpt.com "Get your VLM running in 3 simple steps on Intel CPUs"
-[4]: https://huggingface.co/blog/erikkaum/endpoints-changelog?utm_source=chatgpt.com "Inference Endpoints Changelog 🚀"
-[5]: https://huggingface.co/papers/2510.12831?utm_source=chatgpt.com "Paper page - MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training"
-[6]: https://huggingface.co/papers?q=IoT-specialized+datasets&utm_source=chatgpt.com "Daily Papers"
+[1]: https://huggingface.co/models "Models"
+[2]: https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev "black-forest-labs/FLUX.1-Kontext-dev"
+[3]: https://huggingface.co/blog/openvino-vlm "Get your VLM running in 3 simple steps on Intel CPUs"
+[4]: https://huggingface.co/blog/erikkaum/endpoints-changelog "Inference Endpoints Changelog 🚀"
+[5]: https://huggingface.co/papers/2510.12831 "Paper page - MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training"
+[6]: https://huggingface.co/papers?q=IoT-specialized+datasets "Daily Papers"

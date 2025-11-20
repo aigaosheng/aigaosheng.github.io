@@ -66,4 +66,4 @@ For a deeper dive into the R1 and its capabilities, check out the full article h
 
 ---
 
-[1]: https://newatlas.com/ai-humanoids/unitree-r1-humanoid-robot/?utm_source=chatgpt.com "Affordable humanoid robot R1 launched by Unitree"
+[1]: https://newatlas.com/ai-humanoids/unitree-r1-humanoid-robot/ "Affordable humanoid robot R1 launched by Unitree"

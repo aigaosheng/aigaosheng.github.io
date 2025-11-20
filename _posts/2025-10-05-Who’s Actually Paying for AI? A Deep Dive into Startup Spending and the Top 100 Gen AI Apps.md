@@ -97,5 +97,5 @@ If you’re building an AI app (or betting on one), you might ask: “Is my targ
 * TechCrunch: *A new a16z report looks at which AI companies startups are actually paying for* ([TechCrunch][1])
 * a16z: *The Top 100 Gen AI Consumer Apps – 5th Edition* ([Andreessen Horowitz][2])
 
-[1]: https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/?utm_source=chatgpt.com "A new a16z report looks at which AI companies startups are actually paying for | TechCrunch"
+[1]: https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/ "A new a16z report looks at which AI companies startups are actually paying for | TechCrunch"
 [2]: https://a16z.com/100-gen-ai-apps-5/ "The Top 100 Gen AI Consumer Apps - 5th Edition | Andreessen Horowitz"

@@ -57,5 +57,5 @@ Waggel’s hiring cap is more than a quirky headline — it’s a live experimen
 
 Source link: [https://www.thetimes.com/business-money/entrepreneurs/article/pet-insurer-waggel-recruitment-ai-enterprise-network-d2jjq2v57](https://www.thetimes.com/business-money/entrepreneurs/article/pet-insurer-waggel-recruitment-ai-enterprise-network-d2jjq2v57)
 
-[1]: https://www.thetimes.co.uk/article/pet-insurer-waggel-recruitment-ai-enterprise-network-d2jjq2v57?utm_source=chatgpt.com "Pet insurer puts cap on recruitment to make staff use AI better"
-[2]: https://www.computerweekly.com/news/366632710/Pet-insurers-fuel-AI-take-up-in-veterinary-sector?utm_source=chatgpt.com "Pet insurers fuel AI take up in veterinary sector"
+[1]: https://www.thetimes.co.uk/article/pet-insurer-waggel-recruitment-ai-enterprise-network-d2jjq2v57 "Pet insurer puts cap on recruitment to make staff use AI better"
+[2]: https://www.computerweekly.com/news/366632710/Pet-insurers-fuel-AI-take-up-in-veterinary-sector "Pet insurers fuel AI take up in veterinary sector"

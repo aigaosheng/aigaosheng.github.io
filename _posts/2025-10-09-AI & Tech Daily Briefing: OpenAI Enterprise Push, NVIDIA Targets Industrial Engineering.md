@@ -100,7 +100,7 @@ NVIDIA announced and hosted a livestream titled “A new era of industrial engin
 
 ---
 
-[1]: https://openai.com/index/hibob/?utm_source=chatgpt.com "HiBob turns 2,500 GPTs into a flywheel for product and team growth"
-[2]: https://community.openai.com/t/tokens-of-appreciation-milestone-awards-for-openai-api-token-usage/1361639?utm_source=chatgpt.com "Tokens of Appreciation — milestone awards for OpenAI API token usage"
-[3]: https://forums.developer.nvidia.com/t/livestream-a-new-era-of-industrial-engineering-with-nvidia-episode-1-2025-10-09/347165?utm_source=chatgpt.com "Livestream: A new era of industrial engineering with NVIDIA"
-[4]: https://www.anthropic.com/news?utm_source=chatgpt.com "Anthropic News"
+[1]: https://openai.com/index/hibob/ "HiBob turns 2,500 GPTs into a flywheel for product and team growth"
+[2]: https://community.openai.com/t/tokens-of-appreciation-milestone-awards-for-openai-api-token-usage/1361639 "Tokens of Appreciation — milestone awards for OpenAI API token usage"
+[3]: https://forums.developer.nvidia.com/t/livestream-a-new-era-of-industrial-engineering-with-nvidia-episode-1-2025-10-09/347165 "Livestream: A new era of industrial engineering with NVIDIA"
+[4]: https://www.anthropic.com/news "Anthropic News"

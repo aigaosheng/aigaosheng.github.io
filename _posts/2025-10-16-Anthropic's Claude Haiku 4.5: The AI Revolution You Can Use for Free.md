@@ -13,7 +13,7 @@ tags:
 keywords: [AI model release, enterprise AI solutions, Claude Haiku 4.5]
 ---
 ---
-[![Anthropic Launches Claude Haiku 4.5: Small AI Model that Delivers  Sonnet-4-Level Coding Performance at One-Third the Cost and more than Twice  the Speed - MarkTechPost](https://images.openai.com/static-rsc-1/cVfOxjA1JYxshmpqB_ZqWzIoyqqYCxOTZy9nNjWY36_0_KVm3gmaE_YpRWd-JgJYB0bSJVX2kJJ6b-v5MBG9JKiUpH47OzGzfINRw7UBIaHm1yOnBpYMTQWGS-VhQ-wBu6tRLFVdh-zQOAJBQpQYEg)](https://www.marktechpost.com/2025/10/15/anthropic-launches-claude-haiku-4-5-small-ai-model-that-delivers-sonnet-4-level-coding-performance-at-one-third-the-cost-and-more-than-twice-the-speed/?utm_source=chatgpt.com)
+[![Anthropic Launches Claude Haiku 4.5: Small AI Model that Delivers  Sonnet-4-Level Coding Performance at One-Third the Cost and more than Twice  the Speed - MarkTechPost](https://images.openai.com/static-rsc-1/cVfOxjA1JYxshmpqB_ZqWzIoyqqYCxOTZy9nNjWY36_0_KVm3gmaE_YpRWd-JgJYB0bSJVX2kJJ6b-v5MBG9JKiUpH47OzGzfINRw7UBIaHm1yOnBpYMTQWGS-VhQ-wBu6tRLFVdh-zQOAJBQpQYEg)](https://www.marktechpost.com/2025/10/15/anthropic-launches-claude-haiku-4-5-small-ai-model-that-delivers-sonnet-4-level-coding-performance-at-one-third-the-cost-and-more-than-twice-the-speed/)
 
 **Anthropic's Claude Haiku 4.5: The AI Revolution You Can Use for Free**
 
@@ -64,4 +64,4 @@ The release of Claude Haiku 4.5 signals a shift towards more accessible and effi
 
 Anthropic's strategic release of Claude Haiku 4.5 marks a significant milestone in the AI industry. By offering advanced capabilities at an accessible price point, they're not just competing—they're redefining the playing field. For developers and enterprises alike, this is an opportunity to leverage cutting-edge AI without breaking the bank.
 
-[1]: https://venturebeat.com/ai/anthropic-is-giving-away-its-powerful-claude-haiku-4-5-ai-for-free-to-take?utm_source=chatgpt.com "Anthropic is giving away its powerful Claude Haiku 4.5 AI ..."
+[1]: https://venturebeat.com/ai/anthropic-is-giving-away-its-powerful-claude-haiku-4-5-ai-for-free-to-take "Anthropic is giving away its powerful Claude Haiku 4.5 AI ..."

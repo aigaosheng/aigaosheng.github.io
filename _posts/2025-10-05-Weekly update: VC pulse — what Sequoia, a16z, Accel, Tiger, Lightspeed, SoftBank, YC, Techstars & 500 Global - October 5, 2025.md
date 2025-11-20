@@ -60,9 +60,9 @@ tags:
 
 ---
 
-[1]: https://www.prnewswire.com/news-releases/paid-raises-21-million-seed-to-build-infrastructure-for-the-ai-agent-economy-302569185.html?utm_source=chatgpt.com "Paid Raises $21 Million Seed to Build Infrastructure for the ..."
-[2]: https://www.reuters.com/business/ai-coding-startup-vercel-raises-300-million-valued-93-billion-2025-09-30/?utm_source=chatgpt.com "AI coding startup Vercel raises $300 million, valued at $9.3 billion"
-[3]: https://www.reuters.com/business/ai-chip-firm-cerebras-raises-11-billion-adds-trump-linked-1789-capital-investor-2025-09-30/?utm_source=chatgpt.com "AI chip firm Cerebras raises $1.1 billion, adds Trump-linked 1789 Capital as investor"
-[4]: https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/?utm_source=chatgpt.com "A new a16z report looks at which AI companies startups are actually paying for"
-[5]: https://www.techstars.com/blog/innovation-in-action/techstars-update-september-2025?utm_source=chatgpt.com "Techstars Update: September 2025"
-[6]: https://www.reuters.com/technology/openai-hits-500-billion-valuation-after-share-sale-source-says-2025-10-02/?utm_source=chatgpt.com "OpenAI hits $500 billion valuation after share sale to SoftBank, others, source says"
+[1]: https://www.prnewswire.com/news-releases/paid-raises-21-million-seed-to-build-infrastructure-for-the-ai-agent-economy-302569185.html "Paid Raises $21 Million Seed to Build Infrastructure for the ..."
+[2]: https://www.reuters.com/business/ai-coding-startup-vercel-raises-300-million-valued-93-billion-2025-09-30/ "AI coding startup Vercel raises $300 million, valued at $9.3 billion"
+[3]: https://www.reuters.com/business/ai-chip-firm-cerebras-raises-11-billion-adds-trump-linked-1789-capital-investor-2025-09-30/ "AI chip firm Cerebras raises $1.1 billion, adds Trump-linked 1789 Capital as investor"
+[4]: https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/ "A new a16z report looks at which AI companies startups are actually paying for"
+[5]: https://www.techstars.com/blog/innovation-in-action/techstars-update-september-2025 "Techstars Update: September 2025"
+[6]: https://www.reuters.com/technology/openai-hits-500-billion-valuation-after-share-sale-source-says-2025-10-02/ "OpenAI hits $500 billion valuation after share sale to SoftBank, others, source says"

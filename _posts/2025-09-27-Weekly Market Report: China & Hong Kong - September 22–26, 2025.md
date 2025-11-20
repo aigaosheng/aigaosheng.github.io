@@ -83,5 +83,5 @@ Investor sentiment this week was mixed. While some expressed concern over valuat
 
 ---
 
-[1]: https://www.scmp.com/business/china-business/article/3326919/hong-kong-stocks-set-notch-first-weekly-loss-september-valuation-tariff-jitters?utm_source=chatgpt.com "Hong Kong stocks notch first weekly loss in September on ..."
-[2]: https://www.scmp.com/business/china-business/article/3322736/hong-kong-stocks-set-third-weekly-gain-investors-await-fed-meeting-outcome?utm_source=chatgpt.com "Mainland Chinese and Hong Kong stocks end the week on ..."
+[1]: https://www.scmp.com/business/china-business/article/3326919/hong-kong-stocks-set-notch-first-weekly-loss-september-valuation-tariff-jitters "Hong Kong stocks notch first weekly loss in September on ..."
+[2]: https://www.scmp.com/business/china-business/article/3322736/hong-kong-stocks-set-third-weekly-gain-investors-await-fed-meeting-outcome "Mainland Chinese and Hong Kong stocks end the week on ..."

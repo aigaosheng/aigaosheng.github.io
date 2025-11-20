@@ -85,11 +85,11 @@ The headline of TechCrunch’s piece—“The glaring security risks with AI bro
 
 Source: [https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
 
-[1]: https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/?utm_source=chatgpt.com "The glaring security risks with AI browser agents"
-[2]: https://stacker.news/items/1265298?utm_source=chatgpt.com "The glaring security risks with AI browser agents"
-[3]: https://tech.yahoo.com/cybersecurity/articles/glaring-security-risks-ai-browser-120000991.html?utm_source=chatgpt.com "The glaring security risks with AI browser agents"
-[4]: https://arxiv.org/abs/2506.07153?utm_source=chatgpt.com "Mind the Web: The Security of Web Use Agents"
-[5]: https://en.wikipedia.org/wiki/Prompt_injection?utm_source=chatgpt.com "Prompt injection"
+[1]: https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/ "The glaring security risks with AI browser agents"
+[2]: https://stacker.news/items/1265298 "The glaring security risks with AI browser agents"
+[3]: https://tech.yahoo.com/cybersecurity/articles/glaring-security-risks-ai-browser-120000991.html "The glaring security risks with AI browser agents"
+[4]: https://arxiv.org/abs/2506.07153 "Mind the Web: The Security of Web Use Agents"
+[5]: https://en.wikipedia.org/wiki/Prompt_injection "Prompt injection"
 
 ## You may enjoy
 

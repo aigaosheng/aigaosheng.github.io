@@ -71,6 +71,6 @@ For ML practitioners, research leads and deployment engineers alike, the takeawa
 The current wave of updates on the Hugging Face Hub signals a clear maturation of the open-AI ecosystem: embedding and retrieval systems are stepping into the limelight, governance and metadata hygiene are being treated seriously, and infrastructure beyond mere model weights is becoming strategic. For practitioners, this means revisiting evaluation practices, retrieval pipelines and governance processes rather than simply upgrading to the latest model release.
 
 
-[1]: https://huggingface.co/blog?utm_source=chatgpt.com "Hugging Face – Blog"
-[2]: https://arxiv.org/abs/2508.06811?utm_source=chatgpt.com "Anatomy of a Machine Learning Ecosystem: 2 Million Models on Hugging Face"
-[3]: https://arxiv.org/abs/2503.15222?utm_source=chatgpt.com "Model Hubs and Beyond: Analyzing Model Popularity, Performance, and Documentation"
+[1]: https://huggingface.co/blog "Hugging Face – Blog"
+[2]: https://arxiv.org/abs/2508.06811 "Anatomy of a Machine Learning Ecosystem: 2 Million Models on Hugging Face"
+[3]: https://arxiv.org/abs/2503.15222 "Model Hubs and Beyond: Analyzing Model Popularity, Performance, and Documentation"

@@ -112,8 +112,8 @@ Google announced new extensions for the open‑source **Gemini CLI**, making it 
 
 ---
 
-[1]: https://blog.google/products/search/new-google-finance-ai-deep-search/?utm_source=chatgpt.com "Google Finance adds AI features for research, earnings ..."
-[2]: https://blog.google/intl/en-au/products/devices-services/november-pixel-drop-wicked-theme-packs-remix-in-google-messages-and-more/?utm_source=chatgpt.com "November Pixel Drop: 'Wicked' theme packs, Remix in Google Messages and more"
-[3]: https://blog.google/products/pixel/november-2025-pixel-drop/?utm_source=chatgpt.com "New features and upgrades for Pixel"
-[4]: https://blog.google/technology/developers/gemini-cli-extensions/?utm_source=chatgpt.com "Now open for building: Introducing Gemini CLI extensions"
-[5]: https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/?utm_source=chatgpt.com "Gemini CLI: your open-source AI agent"
+[1]: https://blog.google/products/search/new-google-finance-ai-deep-search/ "Google Finance adds AI features for research, earnings ..."
+[2]: https://blog.google/intl/en-au/products/devices-services/november-pixel-drop-wicked-theme-packs-remix-in-google-messages-and-more/ "November Pixel Drop: 'Wicked' theme packs, Remix in Google Messages and more"
+[3]: https://blog.google/products/pixel/november-2025-pixel-drop/ "New features and upgrades for Pixel"
+[4]: https://blog.google/technology/developers/gemini-cli-extensions/ "Now open for building: Introducing Gemini CLI extensions"
+[5]: https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/ "Gemini CLI: your open-source AI agent"

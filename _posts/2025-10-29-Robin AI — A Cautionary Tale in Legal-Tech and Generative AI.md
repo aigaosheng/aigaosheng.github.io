@@ -115,10 +115,10 @@ The Robin AI case underscores several takeaways relevant to AI product leaders a
 
 ### Sources
 
-* [Artificial Lawyer](https://www.artificiallawyer.com/2025/10/27/robin-ai-lays-off-staff-as-growth-disappoints/?utm_source=chatgpt.com)
-* [Sifted](https://sifted.eu/articles/robin-ai-cuts-a-third-of-staff?utm_source=chatgpt.com)
-* [Fortune](https://fortune.com/2024/11/12/legal-tech-robin-ai-raises-25-million-series-b-plus-llm/?utm_source=chatgpt.com)
-* [Nonbillable](https://www.nonbillable.co.uk/news/robin-ai-looks-for-buyer-after-funding-plans-collapse?utm_source=chatgpt.com)
-* [Law News and Jobs](https://www.lawfuel.com/robin-ais-big-bet-on-legal-tech-meets-market-reality/?utm_source=chatgpt.com)
+* [Artificial Lawyer](https://www.artificiallawyer.com/2025/10/27/robin-ai-lays-off-staff-as-growth-disappoints/)
+* [Sifted](https://sifted.eu/articles/robin-ai-cuts-a-third-of-staff)
+* [Fortune](https://fortune.com/2024/11/12/legal-tech-robin-ai-raises-25-million-series-b-plus-llm/)
+* [Nonbillable](https://www.nonbillable.co.uk/news/robin-ai-looks-for-buyer-after-funding-plans-collapse)
+* [Law News and Jobs](https://www.lawfuel.com/robin-ais-big-bet-on-legal-tech-meets-market-reality/)
 
 ---

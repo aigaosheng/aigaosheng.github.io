@@ -66,7 +66,7 @@ If approved, the timeline and developer partners have not been fully disclosed. 
 
 **Source:** [Bloomberg – “The AI Build-out Is So Big Even a Haunted House Owner Wants In”](https://www.bloomberg.com/news/features/2025-10-31/pennhurst-halloween-asylum-owner-explores-ai-data-center-conversion?srnd=phx-ai)
 
-[1]: https://www.aterio.io/blog/massive-data-center-project-planned-at-former-pennhurst-state-hospital?utm_source=chatgpt.com "Massive Data Center Project Planned at Former Pennhurst ..."
-[2]: https://www.bloomberg.com/news/features/2025-10-31/pennhurst-halloween-asylum-owner-explores-ai-data-center-conversion?utm_source=chatgpt.com "The AI Buildout Is So Big Even a Haunted House Owner ..."
-[3]: https://delco.today/2025/09/former-pennhurst-state-hospital-data-center/?utm_source=chatgpt.com "Former Pennhurst Site in East Vincent Considered for Data ..."
-[4]: https://en.wikipedia.org/wiki/Pennhurst_State_School_and_Hospital?utm_source=chatgpt.com "Pennhurst State School and Hospital"
+[1]: https://www.aterio.io/blog/massive-data-center-project-planned-at-former-pennhurst-state-hospital "Massive Data Center Project Planned at Former Pennhurst ..."
+[2]: https://www.bloomberg.com/news/features/2025-10-31/pennhurst-halloween-asylum-owner-explores-ai-data-center-conversion "The AI Buildout Is So Big Even a Haunted House Owner ..."
+[3]: https://delco.today/2025/09/former-pennhurst-state-hospital-data-center/ "Former Pennhurst Site in East Vincent Considered for Data ..."
+[4]: https://en.wikipedia.org/wiki/Pennhurst_State_School_and_Hospital "Pennhurst State School and Hospital"

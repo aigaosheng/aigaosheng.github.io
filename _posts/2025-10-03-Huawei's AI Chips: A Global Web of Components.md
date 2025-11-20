@@ -12,7 +12,7 @@ tags:
 - Geopolitical tech tensions
 ---
 ---
-[![Huawei Used TSMC, Samsung, SK Hynix Components in Top AI Chips - Bloomberg](https://images.openai.com/thumbnails/9a0987feabd549e5e8302c93f87ba64f.jpeg)](https://www.bloomberg.com/news/articles/2025-10-03/huawei-used-tsmc-samsung-sk-hynix-components-in-top-ai-chips?utm_source=chatgpt.com)
+[![Huawei Used TSMC, Samsung, SK Hynix Components in Top AI Chips - Bloomberg](https://images.openai.com/thumbnails/9a0987feabd549e5e8302c93f87ba64f.jpeg)](https://www.bloomberg.com/news/articles/2025-10-03/huawei-used-tsmc-samsung-sk-hynix-components-in-top-ai-chips)
 
 ---
 

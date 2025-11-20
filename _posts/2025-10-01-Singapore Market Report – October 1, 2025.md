@@ -61,7 +61,7 @@ The Singapore market shows a positive trend, with the STI continuing its upward 
 
 *Note: All information is based on the latest available data as of October 1, 2025.*
 
-[1]: https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/singapore-stock-rally-continues-sti-0-7?utm_source=chatgpt.com "Singapore stock rally continues; STI up 0.7%"
-[2]: https://www.straitstimes.com/business/companies-markets/singapore-overtakes-london-in-ranking-of-top-20-ipo-markets?utm_source=chatgpt.com "Singapore overtakes London in ranking of top 20 IPO ..."
-[3]: https://www.bloomberg.com/news/articles/2025-10-01/singapore-home-prices-surge-again-after-new-buying-wave?utm_source=chatgpt.com "Singapore Home Prices Accelerate Again After New Buying Wave"
-[4]: https://www.reddit.com/r/askSingapore/comments/1cvdvmf/why_is_the_job_market_so_bad/?utm_source=chatgpt.com "*Why* is the job market so bad? : r/askSingapore"
+[1]: https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/singapore-stock-rally-continues-sti-0-7 "Singapore stock rally continues; STI up 0.7%"
+[2]: https://www.straitstimes.com/business/companies-markets/singapore-overtakes-london-in-ranking-of-top-20-ipo-markets "Singapore overtakes London in ranking of top 20 IPO ..."
+[3]: https://www.bloomberg.com/news/articles/2025-10-01/singapore-home-prices-surge-again-after-new-buying-wave "Singapore Home Prices Accelerate Again After New Buying Wave"
+[4]: https://www.reddit.com/r/askSingapore/comments/1cvdvmf/why_is_the_job_market_so_bad/ "*Why* is the job market so bad? : r/askSingapore"

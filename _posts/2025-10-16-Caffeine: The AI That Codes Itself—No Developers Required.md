@@ -12,7 +12,7 @@ tags:
 - Natural Language Processing
 keywords: [AI app development, decentralized applications, Internet Computer Protocol]
 ---
-[![Dfinity launches Caffeine, an AI platform that builds production apps from  natural language prompts | VentureBeat](https://images.openai.com/static-rsc-1/_B6KGbZefKJaBakHCnc8LeTbdnIonPZFhBNEtXCWLT2UrVLwk063FoMOW6IvWz5x7K750DcnBv4Y4JfONqDeqp3rtgqs8tbScSaP5-qdlCqhMdL-TTVsIzIF4MAns93rqV-MFYvorAGcWV6Q87d-FQ)](https://venturebeat.com/ai/dfinity-launches-caffeine-an-ai-platform-that-builds-production-apps-from?utm_source=chatgpt.com)
+[![Dfinity launches Caffeine, an AI platform that builds production apps from  natural language prompts | VentureBeat](https://images.openai.com/static-rsc-1/_B6KGbZefKJaBakHCnc8LeTbdnIonPZFhBNEtXCWLT2UrVLwk063FoMOW6IvWz5x7K750DcnBv4Y4JfONqDeqp3rtgqs8tbScSaP5-qdlCqhMdL-TTVsIzIF4MAns93rqV-MFYvorAGcWV6Q87d-FQ)](https://venturebeat.com/ai/dfinity-launches-caffeine-an-ai-platform-that-builds-production-apps-from)
 
 **Caffeine: The AI That Codes Itself—No Developers Required**
 
@@ -74,4 +74,4 @@ For more details, read the full article on VentureBeat: [Dfinity launches Caffei
 
 ---
 
-[1]: https://venturebeat.com/ai/dfinity-launches-caffeine-an-ai-platform-that-builds-production-apps-from?utm_source=chatgpt.com "Dfinity launches Caffeine, an AI platform that builds ..."
+[1]: https://venturebeat.com/ai/dfinity-launches-caffeine-an-ai-platform-that-builds-production-apps-from "Dfinity launches Caffeine, an AI platform that builds ..."

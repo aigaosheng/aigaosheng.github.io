@@ -69,7 +69,7 @@ Given the disclosure so far, Pytho AI is positioning at a juncture where softwar
 **Source:** TechCrunch article: “Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025”
 Link: [https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/](https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/)
 
-[1]: https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/?utm_source=chatgpt.com "Defense startup Pytho AI wants to turbocharge military ..."
-[2]: https://www.linkedin.com/posts/techcrunch_defense-startup-pytho-ai-wants-to-turbocharge-activity-7388693009640382464-rwSM?utm_source=chatgpt.com "TechCrunch's Post"
-[3]: https://tech.yahoo.com/ai/deals/articles/defense-startup-pytho-ai-wants-214500851.html?utm_source=chatgpt.com "Defense startup Pytho AI wants to turbocharge military ..."
-[4]: https://www.businessinsider.com/ai-agents-coming-military-new-scaleai-contract-2025-3?utm_source=chatgpt.com "AI agents are coming to the military. VCs love it, but researchers are a bit wary."
+[1]: https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/ "Defense startup Pytho AI wants to turbocharge military ..."
+[2]: https://www.linkedin.com/posts/techcrunch_defense-startup-pytho-ai-wants-to-turbocharge-activity-7388693009640382464-rwSM "TechCrunch's Post"
+[3]: https://tech.yahoo.com/ai/deals/articles/defense-startup-pytho-ai-wants-214500851.html "Defense startup Pytho AI wants to turbocharge military ..."
+[4]: https://www.businessinsider.com/ai-agents-coming-military-new-scaleai-contract-2025-3 "AI agents are coming to the military. VCs love it, but researchers are a bit wary."

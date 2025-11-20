@@ -66,6 +66,6 @@ As someone working deeply in AI, your vantage is powerful: you’re not just a s
 
 **Source:** [https://www.afr.com/world/north-america/ex-mckinsey-consultants-training-ai-models-to-replace-them-20251031-p5n6p1](https://www.afr.com/world/north-america/ex-mckinsey-consultants-training-ai-models-to-replace-them-20251031-p5n6p1)
 
-[1]: https://www.linkedin.com/news/story/ex-consultants-train-ai-models-that-could-disrupt-industry-6735372/?utm_source=chatgpt.com "Ex-consultants train AI models that could disrupt industry"
-[2]: https://x.com/business/status/1983879771772572085?utm_source=chatgpt.com "Bloomberg on X"
-[3]: https://www.afr.com/technology/ai-investment-bankers-show-the-threat-to-your-business-model-20251030-p5n6o4?utm_source=chatgpt.com "AI investment bankers show the threat to your business ..."
+[1]: https://www.linkedin.com/news/story/ex-consultants-train-ai-models-that-could-disrupt-industry-6735372/ "Ex-consultants train AI models that could disrupt industry"
+[2]: https://x.com/business/status/1983879771772572085 "Bloomberg on X"
+[3]: https://www.afr.com/technology/ai-investment-bankers-show-the-threat-to-your-business-model-20251030-p5n6o4 "AI investment bankers show the threat to your business ..."

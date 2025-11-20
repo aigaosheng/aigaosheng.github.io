@@ -75,6 +75,6 @@ In short — better search isn’t just a feature; it may become the *core exper
 
 *Source*: [https://cacm.acm.org/news/in-search-of-better-search/](https://cacm.acm.org/news/in-search-of-better-search/) ([Communications of the ACM][2])
 
-[1]: https://dl.acm.org/doi/10.1145/3760247?utm_source=chatgpt.com "In Search of Better Search | Communications of the ACM"
-[2]: https://cacm.acm.org/news/in-search-of-better-search/?utm_source=chatgpt.com "In Search of Better Search"
-[3]: https://eprints.soton.ac.uk/263649/1/exploratorySearchSpecialIssueIntro.html?utm_source=chatgpt.com "Supporting Exploratory Search: Special Issue CACM ..."
+[1]: https://dl.acm.org/doi/10.1145/3760247 "In Search of Better Search | Communications of the ACM"
+[2]: https://cacm.acm.org/news/in-search-of-better-search/ "In Search of Better Search"
+[3]: https://eprints.soton.ac.uk/263649/1/exploratorySearchSpecialIssueIntro.html "Supporting Exploratory Search: Special Issue CACM ..."

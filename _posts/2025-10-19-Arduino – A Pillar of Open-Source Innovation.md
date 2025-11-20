@@ -13,7 +13,7 @@ tags:
 keywords: [Arduino board features, Arduino projects for beginners, Qualcomm Arduino acquisition 2025]
 permalink: /Arduino – A Pillar of Open-Source Innovation/
 ---
-[![Arduino Uno Rev3](https://images.openai.com/static-rsc-1/at4A-OJO9O0AabVyplrHZ4hEgNHNMsKqOCTFiNianPe0JVZoJK2BZp9JNLpi_RTd6rhHqLReWXWea3t0xLEvrpAFoC3ckuCR58hveNKL6qyn3BdYSX2KmGGeTobBelHhWmGsQjdFeOu50q_ufaFYPA)](https://www.pishop.us/product/arduino-uno-rev3/?srsltid=AfmBOoppJ1IUxIUJ4HmMfJ-SZqE98rpC7JQwQ3MWf0Tj8uowfUH2Vqwp&utm_source=chatgpt.com)
+[![Arduino Uno Rev3](https://images.openai.com/static-rsc-1/at4A-OJO9O0AabVyplrHZ4hEgNHNMsKqOCTFiNianPe0JVZoJK2BZp9JNLpi_RTd6rhHqLReWXWea3t0xLEvrpAFoC3ckuCR58hveNKL6qyn3BdYSX2KmGGeTobBelHhWmGsQjdFeOu50q_ufaFYPA)](https://www.pishop.us/product/arduino-uno-rev3/?srsltid=AfmBOoppJ1IUxIUJ4HmMfJ-SZqE98rpC7JQwQ3MWf0Tj8uowfUH2Vqwp)
 
 # Arduino – A Pillar of Open-Source Innovation
 
@@ -95,8 +95,8 @@ Arduino's journey from a university project to a global platform underscores the
 
 ## 📰 Recent News
 
-* [Reuters](https://www.reuters.com/world/asia-pacific/qualcomm-buys-open-source-electronics-firm-arduino-2025-10-07/?utm_source=chatgpt.com)
+* [Reuters](https://www.reuters.com/world/asia-pacific/qualcomm-buys-open-source-electronics-firm-arduino-2025-10-07/)
 
 ---
 
-[1]: https://en.wikipedia.org/wiki/Arduino?utm_source=chatgpt.com "Arduino"
+[1]: https://en.wikipedia.org/wiki/Arduino "Arduino"

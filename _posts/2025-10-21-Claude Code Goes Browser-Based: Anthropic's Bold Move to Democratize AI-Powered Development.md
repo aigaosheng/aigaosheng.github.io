@@ -13,7 +13,7 @@ tags:
 keywords: [AI coding assistant, Developer tools, Cloud-based development]
 permalink: /Claude Code Goes Browser-Based - Anthropic's Bold Move to Democratize AI-Powered Development/
 ---
-[![Claude AI: How to Use It to Teach | Tech & Learning](https://images.openai.com/thumbnails/url/GpmrZ3icu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw42yvKNLEgtcovMDi71Kykp981JrSyrsjBPTc4vtozwSYwK0DUOcstI8zFLVyu2NTQAACujJbQ)](https://www.techlearning.com/how-to/claude-ai-how-to-use-it-to-teach?utm_source=chatgpt.com)
+[![Claude AI: How to Use It to Teach | Tech & Learning](https://images.openai.com/thumbnails/url/GpmrZ3icu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw42yvKNLEgtcovMDi71Kykp981JrSyrsjBPTc4vtozwSYwK0DUOcstI8zFLVyu2NTQAACujJbQ)](https://www.techlearning.com/how-to/claude-ai-how-to-use-it-to-teach)
 
 **Claude Code Goes Browser-Based: Anthropic's Bold Move to Democratize AI-Powered Development**
 
@@ -60,5 +60,5 @@ Claude Code's evolution is part of a broader trend toward AI-assisted developmen
 
 ---
 
-[1]: https://www.anthropic.com/news/claude-code-on-the-web?utm_source=chatgpt.com "Claude Code on the web"
-[2]: https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/?utm_source=chatgpt.com "Anthropic brings Claude Code to the web"
+[1]: https://www.anthropic.com/news/claude-code-on-the-web "Claude Code on the web"
+[2]: https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/ "Anthropic brings Claude Code to the web"

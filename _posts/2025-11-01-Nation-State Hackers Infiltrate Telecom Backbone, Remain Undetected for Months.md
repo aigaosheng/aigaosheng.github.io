@@ -76,7 +76,7 @@ The breach at Ribbon Communications is a wake-up call: when a vendor deeply embe
 
 Source: [https://techcrunch.com/2025/10/31/government-hackers-breached-telecom-giant-ribbon-for-months-before-getting-caught/](https://techcrunch.com/2025/10/31/government-hackers-breached-telecom-giant-ribbon-for-months-before-getting-caught/)
 
-[1]: https://www.reuters.com/business/media-telecom/us-company-with-access-biggest-telecom-firms-uncovers-breach-by-nation-state-2025-10-29/?utm_source=chatgpt.com "US company with access to biggest telecom firms uncovers breach by nation-state hackers"
-[2]: https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack?utm_source=chatgpt.com "Ribbon Communications Breach Marks Latest Telecom Hack"
-[3]: https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/?utm_source=chatgpt.com "Major telecom services provider Ribbon breached by state ..."
-[4]: https://www.techradar.com/pro/security/telco-provider-used-by-us-government-and-others-hit-by-nation-state-hackers?utm_source=chatgpt.com "Telco provider used by US government and others hit by nation-state hackers"
+[1]: https://www.reuters.com/business/media-telecom/us-company-with-access-biggest-telecom-firms-uncovers-breach-by-nation-state-2025-10-29/ "US company with access to biggest telecom firms uncovers breach by nation-state hackers"
+[2]: https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack "Ribbon Communications Breach Marks Latest Telecom Hack"
+[3]: https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/ "Major telecom services provider Ribbon breached by state ..."
+[4]: https://www.techradar.com/pro/security/telco-provider-used-by-us-government-and-others-hit-by-nation-state-hackers "Telco provider used by US government and others hit by nation-state hackers"

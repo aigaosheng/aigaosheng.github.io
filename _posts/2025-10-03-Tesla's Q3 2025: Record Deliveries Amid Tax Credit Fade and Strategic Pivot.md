@@ -43,7 +43,7 @@ Tesla's record Q3 deliveries underscore its strong position in the EV market, bu
 * ([Investing.com][1])
 
 
-[1]: https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-q2-2025-sees-steady-eps-revenue-beat-93CH-4149504?utm_source=chatgpt.com "Earnings call transcript: Tesla Q2 2025 sees steady EPS ..."
-[2]: https://www.wsj.com/business/autos/tesla-sales-q3-2025-844e1394?utm_source=chatgpt.com "Tesla Sets New Sales Record as EV Subsidy Ends"
-[3]: https://www.reuters.com/business/autos-transportation/teslas-quarterly-deliveries-beat-analysts-estimates-2025-10-02/?utm_source=chatgpt.com "Tesla beats delivery estimates on sales boost before EV tax credit expiry"
-[4]: https://www.barrons.com/articles/tesla-ev-deliveries-stock-price-bbebb4fb?utm_source=chatgpt.com "Tesla Stock Drops Despite Record Quarterly Deliveries. What Drove the Big Beat."
+[1]: https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-q2-2025-sees-steady-eps-revenue-beat-93CH-4149504 "Earnings call transcript: Tesla Q2 2025 sees steady EPS ..."
+[2]: https://www.wsj.com/business/autos/tesla-sales-q3-2025-844e1394 "Tesla Sets New Sales Record as EV Subsidy Ends"
+[3]: https://www.reuters.com/business/autos-transportation/teslas-quarterly-deliveries-beat-analysts-estimates-2025-10-02/ "Tesla beats delivery estimates on sales boost before EV tax credit expiry"
+[4]: https://www.barrons.com/articles/tesla-ev-deliveries-stock-price-bbebb4fb "Tesla Stock Drops Despite Record Quarterly Deliveries. What Drove the Big Beat."

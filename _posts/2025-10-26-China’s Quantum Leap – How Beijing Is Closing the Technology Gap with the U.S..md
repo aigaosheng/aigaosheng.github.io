@@ -84,8 +84,8 @@ China’s rise in quantum tech does come with caveats:
 As China presses ahead in quantum technology, what once seemed a decades-away contest is accelerating. For firms, governments and researchers, the question is no longer *if* quantum matters—it’s **who** will lead it, and **when**.
 Source: [https://www.bloomberg.com/opinion/articles/2025-10-23/china-is-closing-the-quantum-technology-gap?srnd=homepage-asia](https://www.bloomberg.com/opinion/articles/2025-10-23/china-is-closing-the-quantum-technology-gap?srnd=homepage-asia)
 
-[1]: https://www.bloomberg.com/opinion/articles/2025-10-23/china-is-closing-the-quantum-technology-gap?utm_source=chatgpt.com "China Is Closing the Quantum Technology Gap"
-[2]: https://www.channelnewsasia.com/commentary/us-china-tech-war-quantum-technology-ai-stem-5422646?utm_source=chatgpt.com "Commentary: China is closing the quantum technology gap"
-[3]: https://www.uscc.gov/sites/default/files/2024-11/Chapter_3--U.S.-China_Competition_in_Emerging_Technologies.pdf?utm_source=chatgpt.com "U.S.-China Competition in Emerging Technologies"
-[4]: https://merics.org/en/report/chinas-long-view-quantum-tech-has-us-and-eu-playing-catch?utm_source=chatgpt.com "China's long view on quantum tech has the US and EU ..."
-[5]: https://www.rand.org/pubs/perspectives/PEA4012-1.html?utm_source=chatgpt.com "Full Stack: China's Evolving Industrial Policy for AI"
+[1]: https://www.bloomberg.com/opinion/articles/2025-10-23/china-is-closing-the-quantum-technology-gap "China Is Closing the Quantum Technology Gap"
+[2]: https://www.channelnewsasia.com/commentary/us-china-tech-war-quantum-technology-ai-stem-5422646 "Commentary: China is closing the quantum technology gap"
+[3]: https://www.uscc.gov/sites/default/files/2024-11/Chapter_3--U.S.-China_Competition_in_Emerging_Technologies.pdf "U.S.-China Competition in Emerging Technologies"
+[4]: https://merics.org/en/report/chinas-long-view-quantum-tech-has-us-and-eu-playing-catch "China's long view on quantum tech has the US and EU ..."
+[5]: https://www.rand.org/pubs/perspectives/PEA4012-1.html "Full Stack: China's Evolving Industrial Policy for AI"

@@ -60,4 +60,4 @@ The announcement has been well-received in the market, with Arm's shares rising 
 
 ---
 
-[1]: https://www.reuters.com/business/arm-expands-ai-licensing-program-boost-on-device-ai-market-share-2025-10-20/?utm_source=chatgpt.com "Arm expands AI licensing program to boost on-device AI market share"
+[1]: https://www.reuters.com/business/arm-expands-ai-licensing-program-boost-on-device-ai-market-share-2025-10-20/ "Arm expands AI licensing program to boost on-device AI market share"

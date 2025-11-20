@@ -14,7 +14,7 @@ tags:
 - Open-source AI
 ---
 ---
-[![Hugging Face releases a free Operator-like agentic AI tool | TechCrunch](https://images.openai.com/thumbnails/url/VKd7YHicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6JNM11NPcyMTFITq_M8AxPTDZPdTL3SXLOyg6PcC4scs70zChKj_J10g0OVCu2NTQAAPhRJHo)](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/?utm_source=chatgpt.com)
+[![Hugging Face releases a free Operator-like agentic AI tool | TechCrunch](https://images.openai.com/thumbnails/url/VKd7YHicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6JNM11NPcyMTFITq_M8AxPTDZPdTL3SXLOyg6PcC4scs70zChKj_J10g0OVCu2NTQAAPhRJHo)](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/)
 
 **Hugging Face Daily Digest: Key Model Releases, Platform Enhancements, and Research Initiatives (October 8, 2025)**
 
@@ -86,8 +86,8 @@ For more detailed information on the latest models and research, visit the [Hugg
 
 ---
 
-[1]: https://huggingface.co/ibm-granite/granite-4.0-h-micro?utm_source=chatgpt.com "ibm-granite/granite-4.0-h-micro"
-[2]: https://huggingface.co/?utm_source=chatgpt.com "Hugging Face – The AI community building the future."
-[3]: https://huggingface.co/do9/collage_lora_qwenedit?utm_source=chatgpt.com "do9/collage_lora_qwenedit"
-[4]: https://huggingface.co/papers?q=code+generation&utm_source=chatgpt.com "Daily Papers"
-[5]: https://huggingface.co/blog/welcome-openai-gpt-oss?utm_source=chatgpt.com "GPT OSS, the new open-source model family from OpenAI!"
+[1]: https://huggingface.co/ibm-granite/granite-4.0-h-micro "ibm-granite/granite-4.0-h-micro"
+[2]: https://huggingface.co/ "Hugging Face – The AI community building the future."
+[3]: https://huggingface.co/do9/collage_lora_qwenedit "do9/collage_lora_qwenedit"
+[4]: https://huggingface.co/papers?q=code+generation "Daily Papers"
+[5]: https://huggingface.co/blog/welcome-openai-gpt-oss "GPT OSS, the new open-source model family from OpenAI!"

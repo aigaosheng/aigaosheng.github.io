@@ -116,7 +116,7 @@ Databricks’ November 2025 release notes list new platform improvements, notabl
 ---
 ## Sources
 
-[1]: https://www.databricks.com/blog/databricks-launches-first-multi-ai-indemnity-protect-enterprise-ai-innovation?utm_source=chatgpt.com "Databricks Launches First Multi-AI Indemnity to Protect ..."
-[2]: https://www.databricks.com/blog/building-trusted-ai-agents-new-capabilities-choose-govern-and-scale-confidence?utm_source=chatgpt.com "Building Trusted AI Agents: New Capabilities to Choose, ..."
-[3]: https://www.databricks.com/blog/databricks-free-edition-hackathon-show-world-whats-possible-data-and-ai?utm_source=chatgpt.com "show the world what's possible in data and AI"
-[4]: https://docs.databricks.com/aws/en/release-notes/product/2025/november?utm_source=chatgpt.com "November 2025 | Databricks on AWS"
+[1]: https://www.databricks.com/blog/databricks-launches-first-multi-ai-indemnity-protect-enterprise-ai-innovation "Databricks Launches First Multi-AI Indemnity to Protect ..."
+[2]: https://www.databricks.com/blog/building-trusted-ai-agents-new-capabilities-choose-govern-and-scale-confidence "Building Trusted AI Agents: New Capabilities to Choose, ..."
+[3]: https://www.databricks.com/blog/databricks-free-edition-hackathon-show-world-whats-possible-data-and-ai "show the world what's possible in data and AI"
+[4]: https://docs.databricks.com/aws/en/release-notes/product/2025/november "November 2025 | Databricks on AWS"

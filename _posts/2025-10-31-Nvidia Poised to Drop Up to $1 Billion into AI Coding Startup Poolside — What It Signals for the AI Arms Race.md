@@ -66,7 +66,7 @@ With this investment, Nvidia is doubling down on software and tooling (through P
 
 Source link: [https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/](https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/)
 
-[1]: https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/?utm_source=chatgpt.com "Nvidia is reportedly investing up to $1B in Poolside"
-[2]: https://www.digitimes.com/news/a20251031PD243/nvidia-ai-startup-investment-funding.html?utm_source=chatgpt.com "Nvidia reportedly considers up to US$1 billion investment in AI startup Poolside"
-[3]: https://www.investing.com/news/stock-market-news/nvidia-to-invest-up-to-1-billion-in-ai-startup-poolside--bloomberg-93CH-4321428?utm_source=chatgpt.com "Nvidia to invest up to $1 billion in AI startup Poolside"
-[4]: https://finance.yahoo.com/news/nvidia-reportedly-investing-1-billion-211017921.html?utm_source=chatgpt.com "Nvidia is reportedly investing up to $1B in Poolside"
+[1]: https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/ "Nvidia is reportedly investing up to $1B in Poolside"
+[2]: https://www.digitimes.com/news/a20251031PD243/nvidia-ai-startup-investment-funding.html "Nvidia reportedly considers up to US$1 billion investment in AI startup Poolside"
+[3]: https://www.investing.com/news/stock-market-news/nvidia-to-invest-up-to-1-billion-in-ai-startup-poolside--bloomberg-93CH-4321428 "Nvidia to invest up to $1 billion in AI startup Poolside"
+[4]: https://finance.yahoo.com/news/nvidia-reportedly-investing-1-billion-211017921.html "Nvidia is reportedly investing up to $1B in Poolside"

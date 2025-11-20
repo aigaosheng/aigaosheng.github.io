@@ -63,8 +63,8 @@ With AI-generated content rapidly becoming part of everyday design workflows, th
 
 Source link: [https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/](https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/)
 
-[1]: https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/?utm_source=chatgpt.com "Figma acquires AI-powered media generation company ..."
-[2]: https://www.techradar.com/pro/software-services/figma-boosts-its-ai-editing-tools-as-it-combines-forces-with-popular-ai-platform-weavy?utm_source=chatgpt.com "Figma boosts its AI editing tools as it combines forces with popular AI platform Weavy"
-[3]: https://help.figma.com/hc/en-us/articles/35965787376919-Figma-Weave-Weavy-FAQ?utm_source=chatgpt.com "Figma Weave/Weavy FAQ"
-[4]: https://www.fastcompany.com/91431691/figma-weave-weavy-acquisition?utm_source=chatgpt.com "Figma acquires Weavy, a workflow tool with 'artistic ..."
-[5]: https://www.justthink.ai/blog/figma-acquires-ai-powered-weavy-what-it-means-for-design?utm_source=chatgpt.com "Figma Acquires AI-Powered Weavy: What It Means for ..."
+[1]: https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/ "Figma acquires AI-powered media generation company ..."
+[2]: https://www.techradar.com/pro/software-services/figma-boosts-its-ai-editing-tools-as-it-combines-forces-with-popular-ai-platform-weavy "Figma boosts its AI editing tools as it combines forces with popular AI platform Weavy"
+[3]: https://help.figma.com/hc/en-us/articles/35965787376919-Figma-Weave-Weavy-FAQ "Figma Weave/Weavy FAQ"
+[4]: https://www.fastcompany.com/91431691/figma-weave-weavy-acquisition "Figma acquires Weavy, a workflow tool with 'artistic ..."
+[5]: https://www.justthink.ai/blog/figma-acquires-ai-powered-weavy-what-it-means-for-design "Figma Acquires AI-Powered Weavy: What It Means for ..."

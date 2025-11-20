@@ -76,7 +76,7 @@ And for policy and industry leaders, the message is urgent: securing sovereignty
 
 **Source**: *The World’s Chip Supply Chain Is Bracing for Fallout From China’s Rare-Earth Curbs* — Bloomberg ([Bloomberg][4])
 
-[1]: https://www.reuters.com/world/china/china-tightens-rare-earth-export-controls-2025-10-09/?utm_source=chatgpt.com "China tightens rare earth export controls, targets defence, semiconductor users"
-[2]: https://www.mining.com/web/the-worlds-chip-supply-chain-is-bracing-for-fallout-from-chinas-rare-earth-curbs/?utm_source=chatgpt.com "The world’s chip supply chain is bracing for fallout from China’s rare earth curbs"
-[3]: https://news.bloombergtax.com/international-trade/worlds-chip-supply-chain-braces-for-chinas-rare-earth-curbs?utm_source=chatgpt.com "World’s Chip Supply Chain Braces for China’s Rare-Earth Curbs"
-[4]: https://www.bloomberg.com/news/articles/2025-10-10/asml-other-semiconductor-firms-brace-for-fallout-from-china-s-rare-earths-curbs?utm_source=chatgpt.com "ASML, Other Semiconductor Firms Brace for Fallout From ..."
+[1]: https://www.reuters.com/world/china/china-tightens-rare-earth-export-controls-2025-10-09/ "China tightens rare earth export controls, targets defence, semiconductor users"
+[2]: https://www.mining.com/web/the-worlds-chip-supply-chain-is-bracing-for-fallout-from-chinas-rare-earth-curbs/ "The world’s chip supply chain is bracing for fallout from China’s rare earth curbs"
+[3]: https://news.bloombergtax.com/international-trade/worlds-chip-supply-chain-braces-for-chinas-rare-earth-curbs "World’s Chip Supply Chain Braces for China’s Rare-Earth Curbs"
+[4]: https://www.bloomberg.com/news/articles/2025-10-10/asml-other-semiconductor-firms-brace-for-fallout-from-china-s-rare-earths-curbs "ASML, Other Semiconductor Firms Brace for Fallout From ..."

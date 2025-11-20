@@ -26,23 +26,23 @@ tags:
    * **Type:** Multimodal reasoning
    * **Parameters:** 15B
    * **Highlights:** Enhanced textual reasoning; added image reasoning support; trained on diverse multilingual corpora.
-   * **Source:** [huggingface.co](https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker?utm_source=chatgpt.com)
+   * **Source:** [huggingface.co](https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker)
 
 2. **IBM Granite Series**
 
    * **Type:** Text generation
    * **Parameters:** Versions with 32B and 3B parameters
    * **Highlights:** Improved text generation capabilities; part of IBM's ongoing Granite model updates.
-   * **Source:** [huggingface.co](https://huggingface.co/ibm-granite/granite-4.0-h-small?utm_source=chatgpt.com)
+   * **Source:** [huggingface.co](https://huggingface.co/ibm-granite/granite-4.0-h-small)
 
 3. **Qwen3-VL-30B-A3B-Instruct**
 
    * **Type:** Multimodal instruction-following
    * **Parameters:** 31B
    * **Highlights:** Superior text understanding, visual perception, extended context, enhanced spatial/video reasoning.
-   * **Source:** [huggingface.co](https://huggingface.co/QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQ?utm_source=chatgpt.com)
+   * **Source:** [huggingface.co](https://huggingface.co/QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQ)
 
-> ❌ **Note:** “DeepSeek-V3.2-Exp” was previously mentioned but is not a top-trending release in the last 24 hours. ([huggingface.co](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp?utm_source=chatgpt.com))
+> ❌ **Note:** “DeepSeek-V3.2-Exp” was previously mentioned but is not a top-trending release in the last 24 hours. ([huggingface.co](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp))
 
 ---
 
@@ -51,12 +51,12 @@ tags:
 * **Interactive Model Exploration:**
   Users can explore dependencies and relationships among 400+ transformer models, enhancing understanding of model architecture.
 
-  * Source: [huggingface.co](https://huggingface.co/spaces/transformers-community/Transformers-tenets?utm_source=chatgpt.com)
+  * Source: [huggingface.co](https://huggingface.co/spaces/transformers-community/Transformers-tenets)
 
 * **UGI Leaderboard:**
   A new leaderboard highlights top-performing models for specific tasks, helping researchers benchmark performance.
 
-  * Source: [huggingface.co](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard?utm_source=chatgpt.com)
+  * Source: [huggingface.co](https://huggingface.co/spaces/DontPlanToEnd/UGI-Leaderboard)
 
 ---
 
@@ -64,15 +64,15 @@ tags:
 
 * **Zero-shot Neural Architecture Search:** Exploring zero-cost proxies to optimize architectures without extensive retraining.
 
-  * Source: [huggingface.co](https://huggingface.co/papers?q=Kendall%27s+Tau+coefficient&utm_source=chatgpt.com)
+  * Source: [huggingface.co](https://huggingface.co/papers?q=Kendall%27s+Tau+coefficient)
 
 * **Human Evaluation Criteria:** Standardizing human evaluation for automatic story generation.
 
-  * Source: [huggingface.co](https://huggingface.co/papers?q=human+evaluation+criteria&utm_source=chatgpt.com)
+  * Source: [huggingface.co](https://huggingface.co/papers?q=human+evaluation+criteria)
 
 * **Latent Compression Learning:** Methods to compress vision model pre-training leveraging large-scale web-crawled image-text data.
 
-  * Source: [huggingface.co](https://huggingface.co/papers?q=latent+compression+learning&utm_source=chatgpt.com)
+  * Source: [huggingface.co](https://huggingface.co/papers?q=latent+compression+learning)
 
 ---
 

@@ -70,12 +70,12 @@ tags:
 
 ---
 
-[1]: https://www.reuters.com/business/database-startup-supabase-notches-5-billion-valuation-funding-round-2025-10-03/?utm_source=chatgpt.com "Database startup Supabase valued at $5 billion in funding ..."
-[2]: https://www.dash0.com/blog/dash0-raises-usd35-million-series-a?utm_source=chatgpt.com "Dash0 Raises $35 Million Series A to Build the First AI- ..."
-[3]: https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/?utm_source=chatgpt.com "Sources: Naveen Rao's new AI hardware startup targets $5 ..."
-[4]: https://www.reuters.com/technology/company-valued-415-million-2025-10-02/?utm_source=chatgpt.com "AI startup DualEntry raises $90 million to deepen ERP ..."
-[5]: https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/?utm_source=chatgpt.com "Oneleet raises $33M to shake up the world of security ..."
-[6]: https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/?utm_source=chatgpt.com "Perplexity acquires the team behind Sequoia-backed AI ..."
-[7]: https://www.reuters.com/technology/openai-hits-500-billion-valuation-after-share-sale-source-says-2025-10-02/?utm_source=chatgpt.com "OpenAI hits $500 billion valuation after share sale to SoftBank, others, source says"
-[8]: https://www.techstars.com/blog/innovation-in-action/techstars-update-september-2025?utm_source=chatgpt.com "Techstars Update: September 2025"
-[9]: https://500.co/founders/africa/seed-accelerator-nairobi?utm_source=chatgpt.com "Sustainable Innovation Seed Accelerator"
+[1]: https://www.reuters.com/business/database-startup-supabase-notches-5-billion-valuation-funding-round-2025-10-03/ "Database startup Supabase valued at $5 billion in funding ..."
+[2]: https://www.dash0.com/blog/dash0-raises-usd35-million-series-a "Dash0 Raises $35 Million Series A to Build the First AI- ..."
+[3]: https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/ "Sources: Naveen Rao's new AI hardware startup targets $5 ..."
+[4]: https://www.reuters.com/technology/company-valued-415-million-2025-10-02/ "AI startup DualEntry raises $90 million to deepen ERP ..."
+[5]: https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/ "Oneleet raises $33M to shake up the world of security ..."
+[6]: https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/ "Perplexity acquires the team behind Sequoia-backed AI ..."
+[7]: https://www.reuters.com/technology/openai-hits-500-billion-valuation-after-share-sale-source-says-2025-10-02/ "OpenAI hits $500 billion valuation after share sale to SoftBank, others, source says"
+[8]: https://www.techstars.com/blog/innovation-in-action/techstars-update-september-2025 "Techstars Update: September 2025"
+[9]: https://500.co/founders/africa/seed-accelerator-nairobi "Sustainable Innovation Seed Accelerator"

@@ -92,24 +92,24 @@ tags:
 
 ---
 
-* [The Economic Times](https://m.economictimes.com/tech/funding/touring-capital-closes-inaugural-330-million-fund-to-back-ai-driven-software-startups/articleshow/124163081.cms?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/business/media-telecom/softbank-ark-talks-join-tether-major-funding-round-bloomberg-news-reports-2025-09-26/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/business/media-telecom/openai-oracle-softbank-plan-five-new-ai-data-centers-500-billion-stargate-2025-09-23/?utm_source=chatgpt.com)
+* [The Economic Times](https://m.economictimes.com/tech/funding/touring-capital-closes-inaugural-330-million-fund-to-back-ai-driven-software-startups/articleshow/124163081.cms)
+* [Reuters](https://www.reuters.com/business/media-telecom/softbank-ark-talks-join-tether-major-funding-round-bloomberg-news-reports-2025-09-26/)
+* [Reuters](https://www.reuters.com/business/media-telecom/openai-oracle-softbank-plan-five-new-ai-data-centers-500-billion-stargate-2025-09-23/)
 
 ---
 
-[1]: https://tracxn.com/d/venture-capital/sequoia-capital/__C16oDw9zCP_DohQqpFHBpyGTKnJWP9YQZ60yJxhPs3U?utm_source=chatgpt.com "Sequoia Capital - Investor Profile and Portfolio"
-[2]: https://www.sequoiacap.com/our-companies/?utm_source=chatgpt.com "Our Companies"
-[3]: https://www.cdp.center/post/vc-digest-andreessen-horowitz-a16z-major-deals-and-trends-september-2025?utm_source=chatgpt.com "VC digest: Andreessen Horowitz (a16z): major deals and ..."
-[4]: https://www.newcomer.co/p/andreessen-horowitz-has-returned?utm_source=chatgpt.com "Andreessen Horowitz Has Returned at Least $25 Billion ..."
-[5]: https://tracxn.com/d/venture-capital/accel/__DOx04ZeK_m5ARGAaVgjbEzz_Ub3J4QM_vNkOmkQOi90?utm_source=chatgpt.com "Accel - 2025 Investor Profile, Portfolio, Team & Investment ..."
-[6]: https://www.accel.com/news?utm_source=chatgpt.com "Accel - News"
-[7]: https://seekingalpha.com/article/4819809-tracking-chase-colemans-tiger-global-portfolio-q2-2025-update?utm_source=chatgpt.com "Tracking Chase Coleman's Tiger Global Portfolio—Q2 ..."
-[8]: https://lsvp.com/?utm_source=chatgpt.com "Lightspeed Venture Partners"
-[9]: https://www.reuters.com/business/media-telecom/softbank-ark-talks-join-tether-major-funding-round-bloomberg-news-reports-2025-09-26/?utm_source=chatgpt.com "SoftBank, Ark in talks to join Tether major funding round, Bloomberg News reports"
-[10]: https://www.reuters.com/business/media-telecom/openai-oracle-softbank-plan-five-new-ai-data-centers-500-billion-stargate-2025-09-23/?utm_source=chatgpt.com "OpenAI, Oracle, SoftBank plan five new AI data centers for $500 billion Stargate project"
-[11]: https://news.crunchbase.com/fintech/startups-global-investment-2025-pe-y-combinator/?utm_source=chatgpt.com "Y Combinator Amps Up Investing In Fintech Startups ..."
-[12]: https://topstartups.io/?investors=Y+Combinator&utm_source=chatgpt.com "Y Combinator Portfolio 2025 — Newly Funded & Hiring"
-[13]: https://www.techstars.com/blog/innovation-in-action/techstars-update-july-2025?utm_source=chatgpt.com "Techstars Update: July 2025"
-[14]: https://www.techstars.com/newsroom/investment-terms?utm_source=chatgpt.com "Techstars Investment Terms Update"
-[15]: https://a16z.com/portfolio/?utm_source=chatgpt.com "a16z Portfolio: Active Investments & Exits"
+[1]: https://tracxn.com/d/venture-capital/sequoia-capital/__C16oDw9zCP_DohQqpFHBpyGTKnJWP9YQZ60yJxhPs3U "Sequoia Capital - Investor Profile and Portfolio"
+[2]: https://www.sequoiacap.com/our-companies/ "Our Companies"
+[3]: https://www.cdp.center/post/vc-digest-andreessen-horowitz-a16z-major-deals-and-trends-september-2025 "VC digest: Andreessen Horowitz (a16z): major deals and ..."
+[4]: https://www.newcomer.co/p/andreessen-horowitz-has-returned "Andreessen Horowitz Has Returned at Least $25 Billion ..."
+[5]: https://tracxn.com/d/venture-capital/accel/__DOx04ZeK_m5ARGAaVgjbEzz_Ub3J4QM_vNkOmkQOi90 "Accel - 2025 Investor Profile, Portfolio, Team & Investment ..."
+[6]: https://www.accel.com/news "Accel - News"
+[7]: https://seekingalpha.com/article/4819809-tracking-chase-colemans-tiger-global-portfolio-q2-2025-update "Tracking Chase Coleman's Tiger Global Portfolio—Q2 ..."
+[8]: https://lsvp.com/ "Lightspeed Venture Partners"
+[9]: https://www.reuters.com/business/media-telecom/softbank-ark-talks-join-tether-major-funding-round-bloomberg-news-reports-2025-09-26/ "SoftBank, Ark in talks to join Tether major funding round, Bloomberg News reports"
+[10]: https://www.reuters.com/business/media-telecom/openai-oracle-softbank-plan-five-new-ai-data-centers-500-billion-stargate-2025-09-23/ "OpenAI, Oracle, SoftBank plan five new AI data centers for $500 billion Stargate project"
+[11]: https://news.crunchbase.com/fintech/startups-global-investment-2025-pe-y-combinator/ "Y Combinator Amps Up Investing In Fintech Startups ..."
+[12]: https://topstartups.io/?investors=Y+Combinator "Y Combinator Portfolio 2025 — Newly Funded & Hiring"
+[13]: https://www.techstars.com/blog/innovation-in-action/techstars-update-july-2025 "Techstars Update: July 2025"
+[14]: https://www.techstars.com/newsroom/investment-terms "Techstars Investment Terms Update"
+[15]: https://a16z.com/portfolio/ "a16z Portfolio: Active Investments & Exits"

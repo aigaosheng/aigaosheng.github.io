@@ -88,6 +88,6 @@ The CAN framework can be applied to improve the interpretability and reliability
 
 ---
 
-[1]: https://arxiv.org/abs/2509.25179?utm_source=chatgpt.com "NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality Estimation"
-[2]: https://arxiv.org/abs/2509.25229?utm_source=chatgpt.com "Blueprint-Bench: Comparing spatial intelligence of LLMs, agents and image models"
-[3]: https://arxiv.org/abs/2509.25236?utm_source=chatgpt.com "The Causal Abstraction Network: Theory and Learning"
+[1]: https://arxiv.org/abs/2509.25179 "NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality Estimation"
+[2]: https://arxiv.org/abs/2509.25229 "Blueprint-Bench: Comparing spatial intelligence of LLMs, agents and image models"
+[3]: https://arxiv.org/abs/2509.25236 "The Causal Abstraction Network: Theory and Learning"

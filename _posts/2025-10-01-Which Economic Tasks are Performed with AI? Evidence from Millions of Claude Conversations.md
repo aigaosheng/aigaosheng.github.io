@@ -102,7 +102,7 @@ Based on the findings, here are several implications and possible applications:
 
 ---
 
-[1]: https://arxiv.org/abs/2503.04761?utm_source=chatgpt.com "Which Economic Tasks are Performed with AI? Evidence ... - arXiv"
-[2]: https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7?utm_source=chatgpt.com "Anthropic Economic Index: Insights from Claude 3.7 Sonnet"
-[3]: https://huggingface.co/datasets/Anthropic/EconomicIndex/blame/218b35116baa43c55beffe61f243bd81f5f84cf8/README.md?utm_source=chatgpt.com "README.md · Anthropic/EconomicIndex at ... - Hugging Face"
-[4]: https://www.axios.com/2025/09/15/anthropic-economic-index-2025?utm_source=chatgpt.com "Anthropic data shows uneven AI adoption"
+[1]: https://arxiv.org/abs/2503.04761 "Which Economic Tasks are Performed with AI? Evidence ... - arXiv"
+[2]: https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7 "Anthropic Economic Index: Insights from Claude 3.7 Sonnet"
+[3]: https://huggingface.co/datasets/Anthropic/EconomicIndex/blame/218b35116baa43c55beffe61f243bd81f5f84cf8/README.md "README.md · Anthropic/EconomicIndex at ... - Hugging Face"
+[4]: https://www.axios.com/2025/09/15/anthropic-economic-index-2025 "Anthropic data shows uneven AI adoption"

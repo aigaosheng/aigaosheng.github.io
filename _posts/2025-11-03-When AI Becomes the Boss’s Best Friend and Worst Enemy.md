@@ -81,6 +81,6 @@ The window for shaping this is now. If companies just replicate yesterday’s st
 
 Source: [https://www.bloomberg.com/opinion/articles/2025-10-31/ai‑will‑reinforce‑the‑worst‑trends‑in‑management?srnd=phx‑opinion‑technology‑and‑ideas](https://www.bloomberg.com/opinion/articles/2025-10-31/ai‑will‑reinforce‑the‑worst‑trends‑in‑management?srnd=phx‑opinion‑technology‑and‑ideas)
 
-[1]: https://www.bloomberg.com/opinion/articles/2025-10-31/ai-will-reinforce-the-worst-trends-in-management?srnd=phx-opinion&utm_source=chatgpt.com "AI Will Reinforce the Worst Trends in Management"
-[2]: https://www.bloomberg.com/opinion/articles/2025-10-31/ai-will-reinforce-the-worst-trends-in-management?utm_source=chatgpt.com "How AI Will Indulge Bosses' Most Toxic Instincts"
-[3]: https://www.facebook.com/bloombergopinion/posts/ai-is-likely-to-turbocharge-the-worst-trends-in-management/1189860056332071/?utm_source=chatgpt.com "AI is likely to turbocharge the worst trends in management"
+[1]: https://www.bloomberg.com/opinion/articles/2025-10-31/ai-will-reinforce-the-worst-trends-in-management?srnd=phx-opinion "AI Will Reinforce the Worst Trends in Management"
+[2]: https://www.bloomberg.com/opinion/articles/2025-10-31/ai-will-reinforce-the-worst-trends-in-management "How AI Will Indulge Bosses' Most Toxic Instincts"
+[3]: https://www.facebook.com/bloombergopinion/posts/ai-is-likely-to-turbocharge-the-worst-trends-in-management/1189860056332071/ "AI is likely to turbocharge the worst trends in management"

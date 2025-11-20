@@ -12,7 +12,7 @@ tags:
 - Agentic AI
 ---
 ---
-[![Moody's cut credit memo prep from 40 hours to 2 minutes with modular AI agents: Here's its agentic AI blueprint](https://images.openai.com/thumbnails/url/3Qazc3icu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7Mz_VPirCocEv2TvQzSPcI9olyrgotzXAL9IrULTAP1HUP9yop8UmtqvItjHf298tw9XY2Sk12qsxQKwYAxvopNQ)](https://venturebeat.com/ai/moodys-cut-credit-memo-prep-from-40-hours-to-2-minutes-with-modular-ai?utm_source=chatgpt.com)
+[![Moody's cut credit memo prep from 40 hours to 2 minutes with modular AI agents: Here's its agentic AI blueprint](https://images.openai.com/thumbnails/url/3Qazc3icu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7Mz_VPirCocEv2TvQzSPcI9olyrgotzXAL9IrULTAP1HUP9yop8UmtqvItjHf298tw9XY2Sk12qsxQKwYAxvopNQ)](https://venturebeat.com/ai/moodys-cut-credit-memo-prep-from-40-hours-to-2-minutes-with-modular-ai)
 
 **Revolutionizing Financial Workflows: Moody’s Modular AI Cuts Credit Memo Prep from 40 Hours to 2 Minutes**
 
@@ -66,4 +66,4 @@ Moody’s innovative approach to AI showcases the transformative potential of mo
 
 *For more detailed information, read the full article on VentureBeat: [Moody’s cuts credit memo prep from 40 hours to 2 minutes with modular AI agents](https://venturebeat.com/ai/moodys-cut-credit-memo-prep-from-40-hours-to-2-minutes-with-modular-ai).*
 
-[1]: https://venturebeat.com/ai/moodys-cut-credit-memo-prep-from-40-hours-to-2-minutes-with-modular-ai?utm_source=chatgpt.com "Moody's cut credit memo prep from 40 hours to 2 minutes ..."
+[1]: https://venturebeat.com/ai/moodys-cut-credit-memo-prep-from-40-hours-to-2-minutes-with-modular-ai "Moody's cut credit memo prep from 40 hours to 2 minutes ..."

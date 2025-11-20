@@ -53,7 +53,7 @@ Source: [https://www.bloomberg.com/news/articles/2025-10-23/nokia-profit-surges-
 
 ---
 
-[1]: https://www.reuters.com/business/nokia-beats-estimates-it-scales-down-venture-fund-investments-2025-10-23/?utm_source=chatgpt.com "Nokia posts profit beat as AI, cloud demand boost optical sales"
-[2]: https://www.investing.com/news/company-news/nokia-q3-2025-presentation-9-sales-growth-driven-by-network-infrastructure-93CH-4304010?utm_source=chatgpt.com "Nokia Q3 2025 presentation: 9% sales growth driven by ..."
-[3]: https://www.businesstimes.com.sg/companies-markets/transport-logistics/nokia-profit-surges-past-estimates-network-growth?utm_source=chatgpt.com "Nokia profit surges past estimates on network growth"
-[4]: https://www.nokia.com/newsroom/nokia-to-publish-third-quarter-and-january-september-2025-interim-report-on-23-october-2025/?utm_source=chatgpt.com "Nokia to publish third-quarter and January-September ..."
+[1]: https://www.reuters.com/business/nokia-beats-estimates-it-scales-down-venture-fund-investments-2025-10-23/ "Nokia posts profit beat as AI, cloud demand boost optical sales"
+[2]: https://www.investing.com/news/company-news/nokia-q3-2025-presentation-9-sales-growth-driven-by-network-infrastructure-93CH-4304010 "Nokia Q3 2025 presentation: 9% sales growth driven by ..."
+[3]: https://www.businesstimes.com.sg/companies-markets/transport-logistics/nokia-profit-surges-past-estimates-network-growth "Nokia profit surges past estimates on network growth"
+[4]: https://www.nokia.com/newsroom/nokia-to-publish-third-quarter-and-january-september-2025-interim-report-on-23-october-2025/ "Nokia to publish third-quarter and January-September ..."

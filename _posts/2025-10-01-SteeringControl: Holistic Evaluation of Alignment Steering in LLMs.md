@@ -13,7 +13,7 @@ tags:
 ---
 ---
 
-[![SteeringControl: Holistic Evaluation of Alignment Steering in LLMs](https://images.openai.com/thumbnails/url/l2YKqHicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw409Q0LS3dMK_ZPCzJJq8iMDPMPCioJStL1cg9MT_ZwMbQ0LknLCfeNCvMPKDJNzXEsy7L0LPZxr3RUKwYAvbco8Q)](https://chatpaper.com/paper/189168?utm_source=chatgpt.com)
+[![SteeringControl: Holistic Evaluation of Alignment Steering in LLMs](https://images.openai.com/thumbnails/url/l2YKqHicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw409Q0LS3dMK_ZPCzJJq8iMDPMPCioJStL1cg9MT_ZwMbQ0LknLCfeNCvMPKDJNzXEsy7L0LPZxr3RUKwYAvbco8Q)](https://chatpaper.com/paper/189168)
 
 ---
 

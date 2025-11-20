@@ -72,5 +72,5 @@ For your context—if you ever consider integrating “embodied” agents (even 
 
 Source link: [AI researchers ’embodied’ an LLM into a robot – and it started channeling Robin Williams](https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/)
 
-[1]: https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/?utm_source=chatgpt.com "AI researchers 'embodied' an LLM into a robot"
-[2]: https://www.bitget.com/news/detail/12560605042945?utm_source=chatgpt.com "AI scientists integrated a large language model into a robot"
+[1]: https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/ "AI researchers 'embodied' an LLM into a robot"
+[2]: https://www.bitget.com/news/detail/12560605042945 "AI scientists integrated a large language model into a robot"

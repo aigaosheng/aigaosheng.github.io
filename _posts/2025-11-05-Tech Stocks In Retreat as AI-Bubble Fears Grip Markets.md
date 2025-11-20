@@ -78,5 +78,5 @@ Tech stocks are cooling off amid concern that the AI boom may be ahead of its ac
 
 Source: [https://www.bbc.com/news/articles/c867vyn2evlo](https://www.bbc.com/news/articles/c867vyn2evlo)
 
-[1]: https://www.donanimhaber.com/yapay-zeka-balonu-endisesi-teknoloji-hisselerini-vurdu--198180?utm_source=chatgpt.com "Yapay zeka balonu endişesi teknoloji hisselerini vurdu"
-[2]: https://www.lse.co.uk/ShareChat.html?ShareTicker=SCGL&share=Sealand-Cap&thread=95AED300-61A6-409E-BC87-38409034FDAC&utm_source=chatgpt.com "Sealand Cap Share Chat. Chat About SCGL Shares"
+[1]: https://www.donanimhaber.com/yapay-zeka-balonu-endisesi-teknoloji-hisselerini-vurdu--198180 "Yapay zeka balonu endişesi teknoloji hisselerini vurdu"
+[2]: https://www.lse.co.uk/ShareChat.html?ShareTicker=SCGL&share=Sealand-Cap&thread=95AED300-61A6-409E-BC87-38409034FDAC "Sealand Cap Share Chat. Chat About SCGL Shares"

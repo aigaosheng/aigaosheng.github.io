@@ -54,4 +54,4 @@ As we continue to navigate the complexities of the digital age, the concept of i
 
 For a deeper exploration of these themes, read the full article here: ([Communications of the ACM][1])
 
-[1]: https://cacm.acm.org/research/information-power/?utm_source=chatgpt.com "Information Power!"
+[1]: https://cacm.acm.org/research/information-power/ "Information Power!"

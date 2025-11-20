@@ -80,13 +80,13 @@ tags:
 
 ---
 
-[1]: https://www.straitstimes.com/business/companies-markets/singapore-shares-continue-to-climb-sti-up-0-4?utm_source=chatgpt.com "Singapore shares continue to climb; STI up 0.4%"
-[2]: https://www.bloomberg.com/news/articles/2025-10-03/global-investment-firm-arena-investors-to-shut-singapore-office?utm_source=chatgpt.com "Global Investment Firm Arena Investors to Shut Singapore ..."
-[3]: https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/singapore-shares-continue-climb-sti-0-4?utm_source=chatgpt.com "Singapore shares continue to climb; STI up 0.4%"
-[4]: https://x.com/stbusinessdesk/status/1973359604093395040?utm_source=chatgpt.com "Singapore shares rise amid mixed regional showing"
-[5]: https://www.reddit.com/r/singaporefi/comments/1nvxlc4/sti_crosses_4400_points_hits_new_high/?utm_source=chatgpt.com "STI crosses 4400 points, hits new high : r/singaporefi"
-[6]: https://www.linkedin.com/posts/the-business-times_singapore-equities-market-rebound-fuels-demand-activity-7378700188451995648-5uoz?utm_source=chatgpt.com "Singapore equities market rebound fuels demand for ..."
-[7]: https://www.reuters.com/world/china/global-markets-wrapup-1-2025-10-03/?utm_source=chatgpt.com "No payrolls, no problem as Wall Street extends run of highs"
-[8]: https://www.reuters.com/world/asia-pacific/singapore-central-bank-place-s11-billion-with-asset-managers-boost-stock-market-2025-07-21/?utm_source=chatgpt.com "Singapore central bank to place S$1.1 billion with asset managers to boost stock market"
-[9]: https://tradingeconomics.com/singapore/stock-market?utm_source=chatgpt.com "Singapore Stock Market (STI) - Quote - Chart - Historical Data"
-[10]: https://www.businesstimes.com.sg/companies-markets/banking-finance/global-investment-firm-arena-investors-shut-singapore-office?utm_source=chatgpt.com "Global investment firm Arena Investors to shut Singapore ..."
+[1]: https://www.straitstimes.com/business/companies-markets/singapore-shares-continue-to-climb-sti-up-0-4 "Singapore shares continue to climb; STI up 0.4%"
+[2]: https://www.bloomberg.com/news/articles/2025-10-03/global-investment-firm-arena-investors-to-shut-singapore-office "Global Investment Firm Arena Investors to Shut Singapore ..."
+[3]: https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/singapore-shares-continue-climb-sti-0-4 "Singapore shares continue to climb; STI up 0.4%"
+[4]: https://x.com/stbusinessdesk/status/1973359604093395040 "Singapore shares rise amid mixed regional showing"
+[5]: https://www.reddit.com/r/singaporefi/comments/1nvxlc4/sti_crosses_4400_points_hits_new_high/ "STI crosses 4400 points, hits new high : r/singaporefi"
+[6]: https://www.linkedin.com/posts/the-business-times_singapore-equities-market-rebound-fuels-demand-activity-7378700188451995648-5uoz "Singapore equities market rebound fuels demand for ..."
+[7]: https://www.reuters.com/world/china/global-markets-wrapup-1-2025-10-03/ "No payrolls, no problem as Wall Street extends run of highs"
+[8]: https://www.reuters.com/world/asia-pacific/singapore-central-bank-place-s11-billion-with-asset-managers-boost-stock-market-2025-07-21/ "Singapore central bank to place S$1.1 billion with asset managers to boost stock market"
+[9]: https://tradingeconomics.com/singapore/stock-market "Singapore Stock Market (STI) - Quote - Chart - Historical Data"
+[10]: https://www.businesstimes.com.sg/companies-markets/banking-finance/global-investment-firm-arena-investors-shut-singapore-office "Global investment firm Arena Investors to shut Singapore ..."

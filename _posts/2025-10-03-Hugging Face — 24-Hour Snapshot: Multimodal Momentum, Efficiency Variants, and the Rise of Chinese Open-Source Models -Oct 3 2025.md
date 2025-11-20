@@ -110,8 +110,8 @@ Evidence: multiple Chinese org models (Tencent Hunyuan, DeepSeek, Zai-org, commu
 
 ---
 
-[1]: https://huggingface.co/models?utm_source=chatgpt.com "Models"
-[2]: https://www.reuters.com/technology/deepseek-releases-model-it-calls-intermediate-step-towards-next-generation-2025-09-29/?utm_source=chatgpt.com "China's DeepSeek releases 'intermediate' AI model on route to next generation"
-[3]: https://huggingface.co/blog/Tomedes/best-ai-assitants-and-agents?utm_source=chatgpt.com "Best AI Assistants and Agents for Work (2025): A Task- ..."
-[4]: https://huggingface.co/collections/zh-ai-community/image-models-66b0c329ddeea53c140fd84c?utm_source=chatgpt.com "🎨 Image models - a zh-ai-community Collection"
-[5]: https://huggingface.co/papers/date/2025-10-01?utm_source=chatgpt.com "Daily Papers - Hugging Face"
+[1]: https://huggingface.co/models "Models"
+[2]: https://www.reuters.com/technology/deepseek-releases-model-it-calls-intermediate-step-towards-next-generation-2025-09-29/ "China's DeepSeek releases 'intermediate' AI model on route to next generation"
+[3]: https://huggingface.co/blog/Tomedes/best-ai-assitants-and-agents "Best AI Assistants and Agents for Work (2025): A Task- ..."
+[4]: https://huggingface.co/collections/zh-ai-community/image-models-66b0c329ddeea53c140fd84c "🎨 Image models - a zh-ai-community Collection"
+[5]: https://huggingface.co/papers/date/2025-10-01 "Daily Papers - Hugging Face"

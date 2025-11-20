@@ -12,7 +12,7 @@ tags:
 - Carbon neutrality]
 keywords: [Apple renewable energy, carbon neutrality, Power Purchase Agreement]
 ---
-[![Apple expands green energy investments in Europe and China - 9to5Mac](https://images.openai.com/static-rsc-1/ilxAB828jrjjbd-SLYsXMRcx2KguNRceq4SCA28qN9RaD5ZFei6IldXd8lGDjPCVD4UB0k2i0B_ZiXRCYnCLxk-AILxprMWfpasSz1s4QM95RuBaoij5VtfUuqPbmFKdHj6ZQYDmHH3dXLQ0TRp2LQ)](https://9to5mac.com/2025/10/14/apple-doubles-down-on-green-energy-investments-in-europe-and-china/?utm_source=chatgpt.com)
+[![Apple expands green energy investments in Europe and China - 9to5Mac](https://images.openai.com/static-rsc-1/ilxAB828jrjjbd-SLYsXMRcx2KguNRceq4SCA28qN9RaD5ZFei6IldXd8lGDjPCVD4UB0k2i0B_ZiXRCYnCLxk-AILxprMWfpasSz1s4QM95RuBaoij5VtfUuqPbmFKdHj6ZQYDmHH3dXLQ0TRp2LQ)](https://9to5mac.com/2025/10/14/apple-doubles-down-on-green-energy-investments-in-europe-and-china/)
 
 **Apple Powers Up: 650 MW of Renewables in Europe and a $150M Green Push in China**
 

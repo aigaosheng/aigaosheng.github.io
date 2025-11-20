@@ -109,10 +109,10 @@ Evidence: multiple community blog posts, forum threads about practical problems,
 
 ---
 
-[1]: https://huggingface.co/blog/driaforall/mem-agent-blog?utm_source=chatgpt.com "mem-agent: Equipping LLM Agents with Memory Using RL"
-[2]: https://huggingface.co/blog/mrmanna/ai-coder-agent-in-hours-with-acm?utm_source=chatgpt.com "Build Your Own AI Coder Agent in Hours — with ACM ..."
-[3]: https://huggingface.co/blog/dhruv3006/moon-dream-vs-gta1?utm_source=chatgpt.com "Moondream3 and Salesforce GTA-1 for UI grounding in ..."
-[4]: https://huggingface.co/blog/RichardBian/ring-flash-linear-2-moe-release?utm_source=chatgpt.com "Ring-flash-linear-2.0: A Highly Efficient Hybrid Architecture ..."
-[5]: https://huggingface.co/blog/sasha/ethics-sustainability?utm_source=chatgpt.com "Ethics + Sustainability = Responsible AI"
-[6]: https://huggingface.co/papers/trending?utm_source=chatgpt.com "Trending Papers"
-[7]: https://huggingface.co/docs/hub/en/spaces-changelog?utm_source=chatgpt.com "Spaces Changelog"
+[1]: https://huggingface.co/blog/driaforall/mem-agent-blog "mem-agent: Equipping LLM Agents with Memory Using RL"
+[2]: https://huggingface.co/blog/mrmanna/ai-coder-agent-in-hours-with-acm "Build Your Own AI Coder Agent in Hours — with ACM ..."
+[3]: https://huggingface.co/blog/dhruv3006/moon-dream-vs-gta1 "Moondream3 and Salesforce GTA-1 for UI grounding in ..."
+[4]: https://huggingface.co/blog/RichardBian/ring-flash-linear-2-moe-release "Ring-flash-linear-2.0: A Highly Efficient Hybrid Architecture ..."
+[5]: https://huggingface.co/blog/sasha/ethics-sustainability "Ethics + Sustainability = Responsible AI"
+[6]: https://huggingface.co/papers/trending "Trending Papers"
+[7]: https://huggingface.co/docs/hub/en/spaces-changelog "Spaces Changelog"

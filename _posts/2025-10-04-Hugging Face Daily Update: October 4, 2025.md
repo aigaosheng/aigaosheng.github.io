@@ -14,7 +14,7 @@ tags:
 - AI Research
 ---
 ---
-[![Hugging Face Open-Sourced FineVision: A New Multimodal Dataset with 24 Million Samples for Training Vision-Language Models (VLMs) - MarkTechPost](https://images.openai.com/thumbnails/url/DpJNZ3icu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6q8vQJ8PUuq0wtzwlxz_MPKclKDjJ1NDDLz023TPYPjSyKd4wsSvPTzc12VCu2NTQAAB7iJXA)](https://www.marktechpost.com/2025/09/06/hugging-face-open-sourced-finevision-a-new-multimodal-dataset-with-24-million-samples-for-training-vision-language-models-vlms/?amp=&utm_source=chatgpt.com)
+[![Hugging Face Open-Sourced FineVision: A New Multimodal Dataset with 24 Million Samples for Training Vision-Language Models (VLMs) - MarkTechPost](https://images.openai.com/thumbnails/url/DpJNZ3icu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6q8vQJ8PUuq0wtzwlxz_MPKclKDjJ1NDDLz023TPYPjSyKd4wsSvPTzc12VCu2NTQAAB7iJXA)](https://www.marktechpost.com/2025/09/06/hugging-face-open-sourced-finevision-a-new-multimodal-dataset-with-24-million-samples-for-training-vision-language-models-vlms/?amp=)
 
 **Hugging Face Daily Update: October 4, 2025**
 
@@ -66,8 +66,8 @@ These developments underscore a shift towards more efficient, versatile, and glo
 
 ---
 
-[1]: https://huggingface.co/models?utm_source=chatgpt.com "Models – Hugging Face"
-[2]: https://huggingface.co/docs/transformers/v4.57.0/en/quantization/compressed_tensors?utm_source=chatgpt.com "compressed-tensors"
-[3]: https://huggingface.co/docs/transformers/v4.57.0/en/quantization/torchao?utm_source=chatgpt.com "torchao"
-[4]: https://huggingface.co/papers?q=spatial+transcriptomics&utm_source=chatgpt.com "Daily Papers"
-[5]: https://huggingface.co/papers?q=stocks&utm_source=chatgpt.com "Daily Papers"
+[1]: https://huggingface.co/models "Models – Hugging Face"
+[2]: https://huggingface.co/docs/transformers/v4.57.0/en/quantization/compressed_tensors "compressed-tensors"
+[3]: https://huggingface.co/docs/transformers/v4.57.0/en/quantization/torchao "torchao"
+[4]: https://huggingface.co/papers?q=spatial+transcriptomics "Daily Papers"
+[5]: https://huggingface.co/papers?q=stocks "Daily Papers"

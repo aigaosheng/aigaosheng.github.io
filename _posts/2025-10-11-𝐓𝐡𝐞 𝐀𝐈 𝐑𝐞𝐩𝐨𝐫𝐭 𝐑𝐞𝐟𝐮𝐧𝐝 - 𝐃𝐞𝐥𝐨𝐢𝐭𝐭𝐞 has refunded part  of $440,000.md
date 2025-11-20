@@ -13,7 +13,7 @@ tags:
 keywords: ["Deloitte AI","AI in professional services","Anthropic Claude","AI-generated errors","Deloitte refund AI"]
 ---
 ---
-[![𝐓𝐡𝐞 𝐀𝐈 𝐑𝐞𝐩𝐨𝐫𝐭 𝐑𝐞𝐟𝐮𝐧𝐝 - 𝐃𝐞𝐥𝐨𝐢𝐭𝐭𝐞 has refunded part  of $440,000](https://images.openai.com/static-rsc-1/j51W7PVbnpjHTY_oTdiUTyJ1MbguWBAqPZUVIeeINsIgAxg0Hr8I8Hr82qkdsLZWLuVhtXX-kRlwXokFtqqFyy7ZbUDrFSHvl-coLF3B_O1FBQj9pcfXln2aRFBtDt0LtD-ZTifpEWBRESHVunoDdg)](https://www.youtube.com/watch?v=InRkteAiJE4&utm_source=chatgpt.com)
+[![𝐓𝐡𝐞 𝐀𝐈 𝐑𝐞𝐩𝐨𝐫𝐭 𝐑𝐞𝐟𝐮𝐧𝐝 - 𝐃𝐞𝐥𝐨𝐢𝐭𝐭𝐞 has refunded part  of $440,000](https://images.openai.com/static-rsc-1/j51W7PVbnpjHTY_oTdiUTyJ1MbguWBAqPZUVIeeINsIgAxg0Hr8I8Hr82qkdsLZWLuVhtXX-kRlwXokFtqqFyy7ZbUDrFSHvl-coLF3B_O1FBQj9pcfXln2aRFBtDt0LtD-ZTifpEWBRESHVunoDdg)](https://www.youtube.com/watch?v=InRkteAiJE4)
 
 **Deloitte's AI Gamble: Betting Big Despite a $10M Refund**
 

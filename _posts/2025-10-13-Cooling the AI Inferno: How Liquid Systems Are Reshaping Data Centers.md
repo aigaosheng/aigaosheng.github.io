@@ -14,7 +14,7 @@ keywords: ["data center cooling", "AI infrastructure", "liquid cooling systems"]
 ---
 ---
 
-[![AWS rolls out liquid cooling in data centers](https://images.openai.com/static-rsc-1/6IzecCC3dQKqd-qrKNzrwIsLACdmcAsWXcNqTseI-bmFyehJNpZRJYVy5uFSSVSeNecxeIyVzExdtotWTep_FjDWQO2xtxbXbrhLw_BjUXrhGKaS8WU_hoBObMKtEcf0D6qfrYWWtqA_jmI1tsmJJw)](https://www.aboutamazon.com/news/aws/aws-liquid-cooling-data-centers?utm_source=chatgpt.com)
+[![AWS rolls out liquid cooling in data centers](https://images.openai.com/static-rsc-1/6IzecCC3dQKqd-qrKNzrwIsLACdmcAsWXcNqTseI-bmFyehJNpZRJYVy5uFSSVSeNecxeIyVzExdtotWTep_FjDWQO2xtxbXbrhLw_BjUXrhGKaS8WU_hoBObMKtEcf0D6qfrYWWtqA_jmI1tsmJJw)](https://www.aboutamazon.com/news/aws/aws-liquid-cooling-data-centers)
 
 **Cooling the AI Inferno: How Liquid Systems Are Reshaping Data Centers**
 

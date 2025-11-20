@@ -60,7 +60,7 @@ I validated each headline/fact against publicly available reporting from the fir
 
 ---
 
-[1]: https://www.ft.com/content/92262343-b4e0-406e-8a01-2199d45d719e?utm_source=chatgpt.com "Andreessen Horowitz lines up $10bn for next wave of tech bets"
-[2]: https://www.forbes.com/sites/christerholloman/2025/10/22/sequoia-capital-free-speech-threatens-free-cash-flow-as-coo-quits/?utm_source=chatgpt.com "Sequoia Capital: Free Speech Threatens Free Cash Flow ..."
-[3]: https://www.accel.com/news?utm_source=chatgpt.com "Accel - News"
-[4]: https://www.theinformation.com/articles/softbank-hunts-humanoid-robot-startups?utm_source=chatgpt.com "SoftBank Hunts for Humanoid Robot Startups"
+[1]: https://www.ft.com/content/92262343-b4e0-406e-8a01-2199d45d719e "Andreessen Horowitz lines up $10bn for next wave of tech bets"
+[2]: https://www.forbes.com/sites/christerholloman/2025/10/22/sequoia-capital-free-speech-threatens-free-cash-flow-as-coo-quits/ "Sequoia Capital: Free Speech Threatens Free Cash Flow ..."
+[3]: https://www.accel.com/news "Accel - News"
+[4]: https://www.theinformation.com/articles/softbank-hunts-humanoid-robot-startups "SoftBank Hunts for Humanoid Robot Startups"

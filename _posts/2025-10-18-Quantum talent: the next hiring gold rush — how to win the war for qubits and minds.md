@@ -73,13 +73,13 @@ Quantum talent is strategic infrastructure. Regions that build talent pipelines 
 
 ---
 
-[1]: https://www.thetimes.com/business-money/technology/article/quantum-computing-careers-recruitment-63jzr00rr?utm_source=chatgpt.com "Quantum careers will shape future of industry"
-[2]: https://www.quantumjobs.us/post/are-quantum-computing-jobs-in-high-demand?utm_source=chatgpt.com "Are Quantum Computing Jobs in High Demand?"
-[3]: https://www.techtarget.com/searchcio/feature/The-top-quantum-computing-jobs?utm_source=chatgpt.com "The top quantum computing jobs in 2025"
-[4]: https://www.deloitte.com/us/en/insights/topics/emerging-technologies/quantum-computing-futures.html?utm_source=chatgpt.com "Quantum computing futures | Deloitte Insights"
-[5]: https://pubs.aip.org/physicstoday/article/78/4/17/3340763/Not-all-quantum-jobs-require-quantum-skillsTo-go?utm_source=chatgpt.com "Not all quantum jobs require quantum skills | Physics Today"
-[6]: https://mitsloan.mit.edu/ideas-made-to-matter/building-a-quantum-workforce?utm_source=chatgpt.com "Building a quantum workforce"
-[7]: https://www.tmi.org/blogs/quantum-computing-and-workforce-strategy-how-hr-can-build-quantum-ready-teams?utm_source=chatgpt.com "Quantum Computing and Workforce Strategy: How HR Can ..."
-[8]: https://professional.uchicago.edu/stories/quantum-science-networking-and-communications/high-paying-quantum-tech-jobs-growing-fast?language_content_entity=en&utm_source=chatgpt.com "High-Paying Quantum Tech Jobs Growing Fast—Grad Degree ..."
-[9]: https://thequantuminsider.com/2022/06/29/how-to-start-a-career-get-a-job-in-quantum-computing/?utm_source=chatgpt.com "Top 8 Quantum Computing Jobs & Careers in 2025"
-[10]: https://www.reddit.com/r/QuantumComputing/comments/14vpzyi/why_you_shouldnt_be_looking_for_a_job_in_quantum/?utm_source=chatgpt.com "Why you shouldn't be looking for a job in quantum computing"
+[1]: https://www.thetimes.com/business-money/technology/article/quantum-computing-careers-recruitment-63jzr00rr "Quantum careers will shape future of industry"
+[2]: https://www.quantumjobs.us/post/are-quantum-computing-jobs-in-high-demand "Are Quantum Computing Jobs in High Demand?"
+[3]: https://www.techtarget.com/searchcio/feature/The-top-quantum-computing-jobs "The top quantum computing jobs in 2025"
+[4]: https://www.deloitte.com/us/en/insights/topics/emerging-technologies/quantum-computing-futures.html "Quantum computing futures | Deloitte Insights"
+[5]: https://pubs.aip.org/physicstoday/article/78/4/17/3340763/Not-all-quantum-jobs-require-quantum-skillsTo-go "Not all quantum jobs require quantum skills | Physics Today"
+[6]: https://mitsloan.mit.edu/ideas-made-to-matter/building-a-quantum-workforce "Building a quantum workforce"
+[7]: https://www.tmi.org/blogs/quantum-computing-and-workforce-strategy-how-hr-can-build-quantum-ready-teams "Quantum Computing and Workforce Strategy: How HR Can ..."
+[8]: https://professional.uchicago.edu/stories/quantum-science-networking-and-communications/high-paying-quantum-tech-jobs-growing-fast?language_content_entity=en "High-Paying Quantum Tech Jobs Growing Fast—Grad Degree ..."
+[9]: https://thequantuminsider.com/2022/06/29/how-to-start-a-career-get-a-job-in-quantum-computing/ "Top 8 Quantum Computing Jobs & Careers in 2025"
+[10]: https://www.reddit.com/r/QuantumComputing/comments/14vpzyi/why_you_shouldnt_be_looking_for_a_job_in_quantum/ "Why you shouldn't be looking for a job in quantum computing"

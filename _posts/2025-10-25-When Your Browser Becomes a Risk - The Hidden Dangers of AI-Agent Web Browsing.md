@@ -74,7 +74,7 @@ The rise of AI in our browsers isn’t just another convenience upgrade; it’s 
 
 Source: [https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/](https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/)
 
-[1]: https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/?utm_source=chatgpt.com "The glaring security risks with AI browser agents"
-[2]: https://tech.yahoo.com/cybersecurity/articles/glaring-security-risks-ai-browser-120000991.html?utm_source=chatgpt.com "The glaring security risks with AI browser agents"
-[3]: https://en.wikipedia.org/wiki/Prompt_injection?utm_source=chatgpt.com "Prompt injection"
-[4]: https://en.wikipedia.org/wiki/Agentic_AI?utm_source=chatgpt.com "Agentic AI"
+[1]: https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/ "The glaring security risks with AI browser agents"
+[2]: https://tech.yahoo.com/cybersecurity/articles/glaring-security-risks-ai-browser-120000991.html "The glaring security risks with AI browser agents"
+[3]: https://en.wikipedia.org/wiki/Prompt_injection "Prompt injection"
+[4]: https://en.wikipedia.org/wiki/Agentic_AI "Agentic AI"

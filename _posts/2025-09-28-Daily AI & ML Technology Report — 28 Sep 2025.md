@@ -123,7 +123,7 @@ tags:
 
 ---
 
-[1]: https://arxiv.org/list/cs.AI/recent?utm_source=chatgpt.com "Artificial Intelligence"
-[2]: https://arxiv.org/list/cs.CV/recent?utm_source=chatgpt.com "Computer Vision and Pattern Recognition"
-[3]: https://arxiv.org/list/cs.CV/pastweek?utm_source=chatgpt.com "Computer Vision and Pattern Recognition - cs.CV"
-[4]: https://arxiv.org/list/stat.ML/new?utm_source=chatgpt.com "Machine Learning"
+[1]: https://arxiv.org/list/cs.AI/recent "Artificial Intelligence"
+[2]: https://arxiv.org/list/cs.CV/recent "Computer Vision and Pattern Recognition"
+[3]: https://arxiv.org/list/cs.CV/pastweek "Computer Vision and Pattern Recognition - cs.CV"
+[4]: https://arxiv.org/list/stat.ML/new "Machine Learning"

@@ -82,16 +82,16 @@ For the young generation navigating a world built for 24/7 attention, the questi
 
 ---
 
-* [The Guardian](https://www.theguardian.com/society/2025/jun/18/teenagers-social-media-mobile-phones-video-games-mental-health?utm_source=chatgpt.com)
-* [New York Post](https://nypost.com/2025/04/08/lifestyle/meta-adds-new-age-based-restrictions-to-facebook-messenger-to-curb-inappropriate-content/?utm_source=chatgpt.com)
-* [apnews.com](https://apnews.com/article/02defc5b53dc4216da1efa63c82a30af?utm_source=chatgpt.com)
+* [The Guardian](https://www.theguardian.com/society/2025/jun/18/teenagers-social-media-mobile-phones-video-games-mental-health)
+* [New York Post](https://nypost.com/2025/04/08/lifestyle/meta-adds-new-age-based-restrictions-to-facebook-messenger-to-curb-inappropriate-content/)
+* [apnews.com](https://apnews.com/article/02defc5b53dc4216da1efa63c82a30af)
 
-[1]: https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/?utm_source=chatgpt.com "Teens, Social Media and Technology 2024 | Pew Research Center"
-[2]: https://www.demandsage.com/average-time-spent-on-social-media/?utm_source=chatgpt.com "Average Time Spent On Social Media Per Day (2025 Statistics)"
-[3]: https://evoca.tv/average-screen-time-for-teens/?utm_source=chatgpt.com "Average Screen Time For Teens (2025 Usage Statistics) - Evoca TV"
-[4]: https://www.cdc.gov/pcd/issues/2025/24_0537.htm?utm_source=chatgpt.com "Associations Between Screen Time Use and Health Outcomes ..."
-[5]: https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/?utm_source=chatgpt.com "Teens, Social Media and Mental Health - Pew Research Center"
-[6]: https://www.congress.gov/bill/118th-congress/senate-bill/4213/text?utm_source=chatgpt.com "S.4213 - Kids Off Social Media Act 118th Congress (2023- ..."
-[7]: https://wjla.com/news/local/virginia-law-limit-how-much-time-teens-spend-social-media-under-16-restricted-one-hour-per-day-parents-verifiable-consent-governor-glenn-youngkin-amendment-consumer-data-protection-act-companies-age-verification-school-support-youth-mental-health-ki?utm_source=chatgpt.com "New Virginia law limits teens' social media to 1 hour daily"
-[8]: https://nypost.com/2025/04/08/lifestyle/meta-adds-new-age-based-restrictions-to-facebook-messenger-to-curb-inappropriate-content/?utm_source=chatgpt.com "Meta adds new age-based restrictions to Facebook, Messenger to curb inappropriate content"
-[9]: https://www.theguardian.com/society/2025/jun/18/teenagers-social-media-mobile-phones-video-games-mental-health?utm_source=chatgpt.com "Teenagers who report addictive use of screens at greater risk of suicidal behaviour, study shows"
+[1]: https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/ "Teens, Social Media and Technology 2024 | Pew Research Center"
+[2]: https://www.demandsage.com/average-time-spent-on-social-media/ "Average Time Spent On Social Media Per Day (2025 Statistics)"
+[3]: https://evoca.tv/average-screen-time-for-teens/ "Average Screen Time For Teens (2025 Usage Statistics) - Evoca TV"
+[4]: https://www.cdc.gov/pcd/issues/2025/24_0537.htm "Associations Between Screen Time Use and Health Outcomes ..."
+[5]: https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/ "Teens, Social Media and Mental Health - Pew Research Center"
+[6]: https://www.congress.gov/bill/118th-congress/senate-bill/4213/text "S.4213 - Kids Off Social Media Act 118th Congress (2023- ..."
+[7]: https://wjla.com/news/local/virginia-law-limit-how-much-time-teens-spend-social-media-under-16-restricted-one-hour-per-day-parents-verifiable-consent-governor-glenn-youngkin-amendment-consumer-data-protection-act-companies-age-verification-school-support-youth-mental-health-ki "New Virginia law limits teens' social media to 1 hour daily"
+[8]: https://nypost.com/2025/04/08/lifestyle/meta-adds-new-age-based-restrictions-to-facebook-messenger-to-curb-inappropriate-content/ "Meta adds new age-based restrictions to Facebook, Messenger to curb inappropriate content"
+[9]: https://www.theguardian.com/society/2025/jun/18/teenagers-social-media-mobile-phones-video-games-mental-health "Teenagers who report addictive use of screens at greater risk of suicidal behaviour, study shows"

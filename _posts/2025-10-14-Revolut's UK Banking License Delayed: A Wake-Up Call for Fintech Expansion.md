@@ -13,7 +13,7 @@ tags:
 keywords: [Risk management in fintech, UK fintech regulations, Revolut banking license]
 ---
 ---
-[![Revolut's UK banking licence held up on concerns over global risk controls,  FT reports | Reuters](https://images.openai.com/static-rsc-1/Pyst1eap93gWcVQ7-fGZm8Bq_6ODlKkGIMe7xoqL3Q3SR2nFbOlnc3U57FHR98RcSw3uGB_Umy_MicatZyb341bUZuDy9j-V23hnd9jIp4kFc6ua6ApAnkHZertImzckLbqWx9-icmtz1xljcslWQQ)](https://www.reuters.com/business/finance/revoluts-full-uk-banking-licence-held-up-by-concerns-over-global-risk-controls-2025-10-14/?utm_source=chatgpt.com)
+[![Revolut's UK banking licence held up on concerns over global risk controls,  FT reports | Reuters](https://images.openai.com/static-rsc-1/Pyst1eap93gWcVQ7-fGZm8Bq_6ODlKkGIMe7xoqL3Q3SR2nFbOlnc3U57FHR98RcSw3uGB_Umy_MicatZyb341bUZuDy9j-V23hnd9jIp4kFc6ua6ApAnkHZertImzckLbqWx9-icmtz1xljcslWQQ)](https://www.reuters.com/business/finance/revoluts-full-uk-banking-licence-held-up-by-concerns-over-global-risk-controls-2025-10-14/)
 
 **Revolut's UK Banking License Delayed: A Wake-Up Call for Fintech Expansion**
 

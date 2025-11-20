@@ -71,7 +71,7 @@ The newly unveiled indictment shows how cheap it can be — conceptually and tec
 
 Source: [https://www.bloomberg.com/news/articles/2025-10-24/poker-indictment-puts-spotlight-on-10-000-card-shufflers?srnd=phx-technology](https://www.bloomberg.com/news/articles/2025-10-24/poker-indictment-puts-spotlight-on-10-000-card-shufflers?srnd=phx-technology)
 
-[1]: https://ground.news/article/x-ray-tables-hidden-cameras-the-tech-in-rigged-poker-games-linked-to-the-mob-and-the-nba_fd3964?utm_source=chatgpt.com "X-ray tables, hidden cameras: The tech in rigged poker ..."
-[2]: https://www.bloomberg.com/news/articles/2025-10-24/poker-indictment-puts-spotlight-on-10-000-card-shufflers?utm_source=chatgpt.com "Poker Indictment Puts Spotlight on $10000 Card Shufflers"
-[3]: https://www.business-standard.com/world-news/how-nba-players-and-ny-mafia-families-allegedly-ran-a-gambling-scheme-125102400082_1.html?utm_source=chatgpt.com "How NBA players and NY mafia families allegedly ran a gambling scheme"
-[4]: https://www.poker.org/latest-news/run-for-the-hills-doug-polk-issues-warning-over-poker-shuffler-aH8fM5r8lISJ/?utm_source=chatgpt.com "'Run for the hills' – Doug Polk issues warning over ..."
+[1]: https://ground.news/article/x-ray-tables-hidden-cameras-the-tech-in-rigged-poker-games-linked-to-the-mob-and-the-nba_fd3964 "X-ray tables, hidden cameras: The tech in rigged poker ..."
+[2]: https://www.bloomberg.com/news/articles/2025-10-24/poker-indictment-puts-spotlight-on-10-000-card-shufflers "Poker Indictment Puts Spotlight on $10000 Card Shufflers"
+[3]: https://www.business-standard.com/world-news/how-nba-players-and-ny-mafia-families-allegedly-ran-a-gambling-scheme-125102400082_1.html "How NBA players and NY mafia families allegedly ran a gambling scheme"
+[4]: https://www.poker.org/latest-news/run-for-the-hills-doug-polk-issues-warning-over-poker-shuffler-aH8fM5r8lISJ/ "'Run for the hills' – Doug Polk issues warning over ..."

@@ -65,7 +65,7 @@ For investors and observers alike, PicPay’s journey will be a litmus test: can
 
 **Source**: Bloomberg, “Brazilian Fintech PicPay Is Said to Seek $500 Million in U.S. IPO” ([Bloomberg][1])
 
-[1]: https://www.bloomberg.com/news/articles/2025-10-10/brazilian-fintech-picpay-is-said-to-seek-500-million-in-us-ipo?utm_source=chatgpt.com "Brazilian Fintech PicPay Is Said to Seek $500 Million in US ..."
-[2]: https://www.bloomberg.com/news/articles/2025-10-10/brazilian-fintech-picpay-is-said-to-seek-500-million-in-us-ipo?srnd=homepage-americas&utm_source=chatgpt.com "Brazilian Fintech PicPay Is Said to Seek $500 Million in US ..."
-[3]: https://www.reuters.com/markets/deals/brazilian-digital-bank-picpay-eyes-nasdaq-ipo-2025-2024-10-02/?utm_source=chatgpt.com "Brazilian digital bank PicPay eyes Nasdaq IPO in 2025"
-[4]: https://www.ainvest.com/news/brazilian-fintechs-pioneering-market-ipos-cross-border-innovation-2510/?utm_source=chatgpt.com "Brazilian Fintechs: Pioneering the U.S. Market Through ..."
+[1]: https://www.bloomberg.com/news/articles/2025-10-10/brazilian-fintech-picpay-is-said-to-seek-500-million-in-us-ipo "Brazilian Fintech PicPay Is Said to Seek $500 Million in US ..."
+[2]: https://www.bloomberg.com/news/articles/2025-10-10/brazilian-fintech-picpay-is-said-to-seek-500-million-in-us-ipo?srnd=homepage-americas "Brazilian Fintech PicPay Is Said to Seek $500 Million in US ..."
+[3]: https://www.reuters.com/markets/deals/brazilian-digital-bank-picpay-eyes-nasdaq-ipo-2025-2024-10-02/ "Brazilian digital bank PicPay eyes Nasdaq IPO in 2025"
+[4]: https://www.ainvest.com/news/brazilian-fintechs-pioneering-market-ipos-cross-border-innovation-2510/ "Brazilian Fintechs: Pioneering the U.S. Market Through ..."

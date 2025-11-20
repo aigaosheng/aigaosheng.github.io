@@ -81,6 +81,6 @@ With a A$30 million bet on a Melbourne-based AI factory, Ed Craven and Maincode 
 
 Source: [https://www.afr.com/technology/billionaire-ed-craven-pours-30m-into-ai-factory-plan-20251024-p5n55g](https://www.afr.com/technology/billionaire-ed-craven-pours-30m-into-ai-factory-plan-20251024-p5n55g)
 
-[1]: https://www.afr.com/technology/billionaire-ed-craven-pours-30m-into-ai-factory-plan-20251024-p5n55g?utm_source=chatgpt.com "Billionaire Ed Craven pours $30m into AI factory plan - AFR"
-[2]: https://www.forbes.com.au/news/innovation/the-sovereign-ai-race-is-on-and-australia-cant-afford-to-sit-it-out/?utm_source=chatgpt.com "The sovereign AI race is on"
-[3]: https://7news.com.au/news/maincode-ceo-dave-lemphers-on-why-australia-needs-a-homemade-ai-as-tech-race-continues-c-19855964?utm_source=chatgpt.com "Maincode CEO Dave Lemphers on why Australia needs a ..."
+[1]: https://www.afr.com/technology/billionaire-ed-craven-pours-30m-into-ai-factory-plan-20251024-p5n55g "Billionaire Ed Craven pours $30m into AI factory plan - AFR"
+[2]: https://www.forbes.com.au/news/innovation/the-sovereign-ai-race-is-on-and-australia-cant-afford-to-sit-it-out/ "The sovereign AI race is on"
+[3]: https://7news.com.au/news/maincode-ceo-dave-lemphers-on-why-australia-needs-a-homemade-ai-as-tech-race-continues-c-19855964 "Maincode CEO Dave Lemphers on why Australia needs a ..."

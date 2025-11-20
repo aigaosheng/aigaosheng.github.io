@@ -77,7 +77,7 @@ Hugging Face’s ecosystem is showing concentrated activity on model forks and t
 
 ---
 
-[1]: https://huggingface.co/models?p=68&search=Qwen+2.5+vl&sort=trending&utm_source=chatgpt.com "Models"
-[2]: https://huggingface.co/papers/date/2025-10-24?utm_source=chatgpt.com "Daily Papers - Hugging Face"
-[3]: https://huggingface.co/blog/openenv?utm_source=chatgpt.com "Building the Open Agent Ecosystem Together"
-[4]: https://huggingface.co/models?search=llama+3&sort=modified&utm_source=chatgpt.com "Models"
+[1]: https://huggingface.co/models?p=68&search=Qwen+2.5+vl&sort=trending "Models"
+[2]: https://huggingface.co/papers/date/2025-10-24 "Daily Papers - Hugging Face"
+[3]: https://huggingface.co/blog/openenv "Building the Open Agent Ecosystem Together"
+[4]: https://huggingface.co/models?search=llama+3&sort=modified "Models"

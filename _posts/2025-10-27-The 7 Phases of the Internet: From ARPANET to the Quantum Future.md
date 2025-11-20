@@ -14,7 +14,7 @@ keywords: [Internet history, IoT, Quantum computing]
 permalink: /The 7 Phases of the Internet - From ARPANET to the Quantum Future/
 ---
 
-[![The History of the Internet: A Timeline](https://images.openai.com/static-rsc-1/wEZhkE9qv46Zsc_Vpb3iGrkw0PyhIr6g8wEG-HkOmfA71FDAUFM3pldNaX7o5ckWDPMNb2MKX9yI0fn5QO8v9iVNI2eBdG5cQkaztm2hDT2JbGOIaE4Sp8ZV2lIvL6q79EjhlnzYJJsWWv40MC8K8g)](https://www.youtube.com/watch?v=M-01ii4zX_k&utm_source=chatgpt.com)
+[![The History of the Internet: A Timeline](https://images.openai.com/static-rsc-1/wEZhkE9qv46Zsc_Vpb3iGrkw0PyhIr6g8wEG-HkOmfA71FDAUFM3pldNaX7o5ckWDPMNb2MKX9yI0fn5QO8v9iVNI2eBdG5cQkaztm2hDT2JbGOIaE4Sp8ZV2lIvL6q79EjhlnzYJJsWWv40MC8K8g)](https://www.youtube.com/watch?v=M-01ii4zX_k)
 
 **The 7 Phases of the Internet: From ARPANET to the Quantum Future**
 

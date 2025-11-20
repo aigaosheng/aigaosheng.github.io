@@ -105,9 +105,9 @@ On Nov 5, 2025, OpenAI announced that over **1 million paying business customers
 
 ---
 
-[1]: https://openai.com/index/prompt-injections/?utm_source=chatgpt.com "Understanding prompt injections: a frontier security challenge"
-[2]: https://openai.com/index/ai-progress-and-recommendations/?utm_source=chatgpt.com "AI progress and recommendations"
-[3]: https://yourstory.com/ai-story/openai-lists-5-recommendations-for-advancing-ai-progress?utm_source=chatgpt.com "OpenAI lists 5 recommendations for advancing AI progress"
-[4]: https://www.livemint.com/technology/tech-news/openai-warns-of-catastrophic-risk-amid-exponential-ai-development-heres-why-11762650700012.html?utm_source=chatgpt.com "OpenAI warns of catastrophic risk amid exponential AI ... - Mint"
-[5]: https://openai.com/news/?utm_source=chatgpt.com "OpenAI News"
-[6]: https://openai.com/index/1-million-businesses-putting-ai-to-work/?utm_source=chatgpt.com "1 million business customers: the fastest-growing ..."
+[1]: https://openai.com/index/prompt-injections/ "Understanding prompt injections: a frontier security challenge"
+[2]: https://openai.com/index/ai-progress-and-recommendations/ "AI progress and recommendations"
+[3]: https://yourstory.com/ai-story/openai-lists-5-recommendations-for-advancing-ai-progress "OpenAI lists 5 recommendations for advancing AI progress"
+[4]: https://www.livemint.com/technology/tech-news/openai-warns-of-catastrophic-risk-amid-exponential-ai-development-heres-why-11762650700012.html "OpenAI warns of catastrophic risk amid exponential AI ... - Mint"
+[5]: https://openai.com/news/ "OpenAI News"
+[6]: https://openai.com/index/1-million-businesses-putting-ai-to-work/ "1 million business customers: the fastest-growing ..."

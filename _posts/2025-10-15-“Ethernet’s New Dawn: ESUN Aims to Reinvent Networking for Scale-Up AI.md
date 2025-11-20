@@ -107,9 +107,9 @@ Ethernet’s next frontier may be the very medium that powered the Internet for 
 
 Source: [https://www.opencompute.org/blog/introducing-esun-advancing-ethernet-for-scale-up-ai-infrastructure-at-ocp](https://www.opencompute.org/blog/introducing-esun-advancing-ethernet-for-scale-up-ai-infrastructure-at-ocp)
 
-[1]: https://www.opencompute.org/blog/introducing-esun-advancing-ethernet-for-scale-up-ai-infrastructure-at-ocp?utm_source=chatgpt.com "Introducing ESUN: Advancing Ethernet for Scale-Up AI Infrastructure ..."
-[2]: https://www.networkworld.com/article/4072308/major-network-vendors-team-to-advance-ethernet-for-scale-up-ai-networking.html?utm_source=chatgpt.com "Major network vendors team to advance Ethernet for scale-up AI networking"
-[3]: https://blogs.cisco.com/news/cisco-joins-forces-with-ocp-in-the-ethernet-for-scale-up-networking-esun-collaboration?utm_source=chatgpt.com "Cisco Joins Forces with OCP in the Ethernet for Scale-Up ..."
-[4]: https://engineering.fb.com/2025/10/13/data-infrastructure/ocp-summit-2025-the-open-future-of-networking-hardware-for-ai/?utm_source=chatgpt.com "OCP Summit 2025: The Open Future of Networking Hardware for AI"
-[5]: https://blogs.arista.com/blog/the-sun-rises-on-scale-up-ethernet?utm_source=chatgpt.com "The Sun Rises on Scale-Up Ethernet - Arista Networks Blog"
-[6]: https://www.opencompute.org/wiki/Networking/ESUN?utm_source=chatgpt.com "Networking/ESUN - OpenCompute"
+[1]: https://www.opencompute.org/blog/introducing-esun-advancing-ethernet-for-scale-up-ai-infrastructure-at-ocp "Introducing ESUN: Advancing Ethernet for Scale-Up AI Infrastructure ..."
+[2]: https://www.networkworld.com/article/4072308/major-network-vendors-team-to-advance-ethernet-for-scale-up-ai-networking.html "Major network vendors team to advance Ethernet for scale-up AI networking"
+[3]: https://blogs.cisco.com/news/cisco-joins-forces-with-ocp-in-the-ethernet-for-scale-up-networking-esun-collaboration "Cisco Joins Forces with OCP in the Ethernet for Scale-Up ..."
+[4]: https://engineering.fb.com/2025/10/13/data-infrastructure/ocp-summit-2025-the-open-future-of-networking-hardware-for-ai/ "OCP Summit 2025: The Open Future of Networking Hardware for AI"
+[5]: https://blogs.arista.com/blog/the-sun-rises-on-scale-up-ethernet "The Sun Rises on Scale-Up Ethernet - Arista Networks Blog"
+[6]: https://www.opencompute.org/wiki/Networking/ESUN "Networking/ESUN - OpenCompute"

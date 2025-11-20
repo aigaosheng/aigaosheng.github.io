@@ -13,7 +13,7 @@ tags:
 ---
 ---
 
-[![OpenAI unveils AgentKit that lets developers drag and drop to build AI agents | VentureBeat](https://images.openai.com/thumbnails/url/IOLYbnicu5mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw42ic8vSanKdLVMLIkPLjfLSjEpCzeOT4nMiHJOT44sqiy2yDAsCHBPMTFKVysGALLGJPA)](https://venturebeat.com/ai/openai-unveils-agentkit-that-lets-developers-drag-and-drop-to-build-ai?utm_source=chatgpt.com)
+[![OpenAI unveils AgentKit that lets developers drag and drop to build AI agents | VentureBeat](https://images.openai.com/thumbnails/url/IOLYbnicu5mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw42ic8vSanKdLVMLIkPLjfLSjEpCzeOT4nMiHJOT44sqiy2yDAsCHBPMTFKVysGALLGJPA)](https://venturebeat.com/ai/openai-unveils-agentkit-that-lets-developers-drag-and-drop-to-build-ai)
 
 **Build AI Agents Without Writing a Line of Code: OpenAI’s AgentKit Is Here**
 

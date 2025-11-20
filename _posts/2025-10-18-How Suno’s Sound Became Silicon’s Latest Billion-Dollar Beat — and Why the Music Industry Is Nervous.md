@@ -64,8 +64,8 @@ Source: [https://www.bloomberg.com/news/articles/2025-10-17/ai-music-generator-s
 
 If you’d like, I can: (a) produce a shorter, tweet-ready summary; (b) draft a LinkedIn post aimed at VCs; or (c) create a sidebar with comparable valuations in the generative-AI space. Which would be most useful?
 
-[1]: https://www.bloomberg.com/news/articles/2025-10-17/ai-music-generator-suno-in-funding-talks-at-2-billion-valuation?utm_source=chatgpt.com "AI Music Generator Suno in Funding Talks at $2 Billion ..."
-[2]: https://www.techmeme.com/251017/p33?utm_source=chatgpt.com "Techmeme"
-[3]: https://news.bloomberglaw.com/business-and-practice/ai-music-generator-suno-in-funding-talks-at-2-billion-valuation?utm_source=chatgpt.com "AI Music Generator Suno in Funding Talks at $2 Billion ..."
-[4]: https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube?utm_source=chatgpt.com "Record labels claim AI generator Suno illegally ripped their songs from YouTube"
-[5]: https://www.wsj.com/business/media/ai-music-licensing-universal-warner-sony-92bcbc0d?utm_source=chatgpt.com "Universal, Warner and Sony Are Negotiating AI Licensing Rights for Music"
+[1]: https://www.bloomberg.com/news/articles/2025-10-17/ai-music-generator-suno-in-funding-talks-at-2-billion-valuation "AI Music Generator Suno in Funding Talks at $2 Billion ..."
+[2]: https://www.techmeme.com/251017/p33 "Techmeme"
+[3]: https://news.bloomberglaw.com/business-and-practice/ai-music-generator-suno-in-funding-talks-at-2-billion-valuation "AI Music Generator Suno in Funding Talks at $2 Billion ..."
+[4]: https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube "Record labels claim AI generator Suno illegally ripped their songs from YouTube"
+[5]: https://www.wsj.com/business/media/ai-music-licensing-universal-warner-sony-92bcbc0d "Universal, Warner and Sony Are Negotiating AI Licensing Rights for Music"

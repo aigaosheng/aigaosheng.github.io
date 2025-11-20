@@ -124,10 +124,10 @@ All cited items are direct arXiv pages (primary source) or arXiv recent lists â€
 
 ---
 
-[1]: https://arxiv.org/abs/2510.00446?utm_source=chatgpt.com "[2510.00446] LongCodeZip: Compress Long Context for Code Language Models"
-[2]: https://arxiv.org/html/2510.01070v1?utm_source=chatgpt.com "Eliciting Secret Knowledge from Language Models"
-[3]: https://arxiv.org/abs/2510.00319?utm_source=chatgpt.com "Inducing Deceptive Reasoning in Large Language Models"
-[4]: https://arxiv.org/abs/2510.00373?utm_source=chatgpt.com "Combining Large Language Models and Gradient-Free Optimization for Automatic Control Policy Synthesis"
-[5]: https://www.arxiv.org/abs/2509.25180?utm_source=chatgpt.com "[2509.25180] DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space"
-[6]: https://www.arxiv.org/list/cs.LG/2025-10?show=500&skip=75&utm_source=chatgpt.com "Machine Learning Oct 2025"
-[7]: https://arxiv.org/html/2510.00379v1?utm_source=chatgpt.com "A Search Framework for Hybrid Neural Architecture Design"
+[1]: https://arxiv.org/abs/2510.00446 "[2510.00446] LongCodeZip: Compress Long Context for Code Language Models"
+[2]: https://arxiv.org/html/2510.01070v1 "Eliciting Secret Knowledge from Language Models"
+[3]: https://arxiv.org/abs/2510.00319 "Inducing Deceptive Reasoning in Large Language Models"
+[4]: https://arxiv.org/abs/2510.00373 "Combining Large Language Models and Gradient-Free Optimization for Automatic Control Policy Synthesis"
+[5]: https://www.arxiv.org/abs/2509.25180 "[2509.25180] DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space"
+[6]: https://www.arxiv.org/list/cs.LG/2025-10?show=500&skip=75 "Machine Learning Oct 2025"
+[7]: https://arxiv.org/html/2510.00379v1 "A Search Framework for Hybrid Neural Architecture Design"

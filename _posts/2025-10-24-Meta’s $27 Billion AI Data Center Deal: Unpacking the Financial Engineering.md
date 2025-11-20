@@ -66,4 +66,4 @@ Meta's $27 billion joint venture with Blue Owl Capital represents a sophisticate
 
 ---
 
-[1]: https://www.marketwatch.com/story/meta-blue-owl-and-ai-here-are-the-details-of-wall-streets-biggest-private-capital-deal-ever-bf3ad4f7?utm_source=chatgpt.com "Meta, Blue Owl and AI: Here are the details of Wall Street's biggest private-credit deal ever"
+[1]: https://www.marketwatch.com/story/meta-blue-owl-and-ai-here-are-the-details-of-wall-streets-biggest-private-capital-deal-ever-bf3ad4f7 "Meta, Blue Owl and AI: Here are the details of Wall Street's biggest private-credit deal ever"

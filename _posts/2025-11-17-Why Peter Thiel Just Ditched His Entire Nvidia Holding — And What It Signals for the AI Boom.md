@@ -71,6 +71,6 @@ While the business outlook for Nvidia remains robust in many analysts’ views, 
 
 Source: [Bloomberg article](https://www.bloomberg.com/news/articles/2025-11-17/peter-thiel-s-fund-sold-off-entire-nvidia-stake-in-third-quarter?srnd=phx-technology)
 
-[1]: https://www.bloomberg.com/news/articles/2025-11-17/peter-thiel-s-fund-sold-off-entire-nvidia-stake-in-third-quarter?utm_source=chatgpt.com "Peter Thiel's Fund Sold Off Entire Nvidia Stake in Third ..."
-[2]: https://finance.yahoo.com/news/peter-thiel-dumps-top-ai-143300737.html?utm_source=chatgpt.com "Peter Thiel dumps top AI stock, stirring bubble fears"
-[3]: https://seekingalpha.com/news/4522814-peter-thiels-fund-offloads-entire-nvidia-stake-in-third-quarter?utm_source=chatgpt.com "Peter Thiel’s fund offloads entire Nvidia stake in third quarter (NVDA:NASDAQ)"
+[1]: https://www.bloomberg.com/news/articles/2025-11-17/peter-thiel-s-fund-sold-off-entire-nvidia-stake-in-third-quarter "Peter Thiel's Fund Sold Off Entire Nvidia Stake in Third ..."
+[2]: https://finance.yahoo.com/news/peter-thiel-dumps-top-ai-143300737.html "Peter Thiel dumps top AI stock, stirring bubble fears"
+[3]: https://seekingalpha.com/news/4522814-peter-thiels-fund-offloads-entire-nvidia-stake-in-third-quarter "Peter Thiel’s fund offloads entire Nvidia stake in third quarter (NVDA:NASDAQ)"

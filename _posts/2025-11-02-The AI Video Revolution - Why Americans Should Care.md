@@ -79,8 +79,8 @@ AI video generators are more than a tech trend — they’re a cultural shift. F
 
 **Sources & Further Reading:**
 
-* [Fake AI videos flood social media during Hurricane Melissa](https://apnews.com/article/682d8acff33af4509d615e742698d99a?utm_source=chatgpt.com)
-* [Sora’s Biases: Sexist, Racist, and Ableist Content](https://www.wired.com/story/openai-sora-video-generator-bias?utm_source=chatgpt.com)
-* [“AI Slop”: The Surreal Video Business Taking Over the Web](https://www.washingtonpost.com/technology/2025/08/17/ai-video-slop-creators/?utm_source=chatgpt.com)
+* [Fake AI videos flood social media during Hurricane Melissa](https://apnews.com/article/682d8acff33af4509d615e742698d99a)
+* [Sora’s Biases: Sexist, Racist, and Ableist Content](https://www.wired.com/story/openai-sora-video-generator-bias)
+* [“AI Slop”: The Surreal Video Business Taking Over the Web](https://www.washingtonpost.com/technology/2025/08/17/ai-video-slop-creators/)
 
 ---

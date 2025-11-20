@@ -128,10 +128,10 @@ keywords: [AI infrastructure market 2025, enterprise AI adoption trends, custom 
 
 ---
 
-[1]: https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration/?utm_source=chatgpt.com "OpenAI and Broadcom announce strategic collaboration to ..."
-[2]: https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership?utm_source=chatgpt.com "Anthropic and Salesforce expand partnership to bring Claude to regulated industries"
-[3]: https://www.salesforce.com/ap/news/press-releases/2025/10/14/welcome-to-the-agentic-enterprise-with-agentforce-360-salesforce-elevates-human-potential-in-the-age-of-ai-2/?utm_source=chatgpt.com "Welcome to the Agentic Enterprise: With Agentforce 360 ..."
-[4]: https://investor.salesforce.com/news/news-details/2025/Anthropic-and-Salesforce-Expand-Strategic-Partnership-to-Deliver-Trusted-AI-for-Regulated-Industries/default.aspx?utm_source=chatgpt.com "Anthropic and Salesforce Expand Strategic Partnership to ..."
-[5]: https://news.microsoft.com/source/emea/2025/10/microsoft-announces-in-country-data-processing-for-microsoft-365-copilot-in-the-uae-to-accelerate-ai-adoption/?utm_source=chatgpt.com "Microsoft Announces In-Country Data Processing for ..."
-[6]: https://nvidianews.nvidia.com/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers?utm_source=chatgpt.com "NVIDIA DGX Spark Arrives for World's AI Developers"
-[7]: https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/?utm_source=chatgpt.com "Oracle, NVIDIA Accelerate Sovereign AI, Enabling Abu ..."
+[1]: https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration/ "OpenAI and Broadcom announce strategic collaboration to ..."
+[2]: https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership "Anthropic and Salesforce expand partnership to bring Claude to regulated industries"
+[3]: https://www.salesforce.com/ap/news/press-releases/2025/10/14/welcome-to-the-agentic-enterprise-with-agentforce-360-salesforce-elevates-human-potential-in-the-age-of-ai-2/ "Welcome to the Agentic Enterprise: With Agentforce 360 ..."
+[4]: https://investor.salesforce.com/news/news-details/2025/Anthropic-and-Salesforce-Expand-Strategic-Partnership-to-Deliver-Trusted-AI-for-Regulated-Industries/default.aspx "Anthropic and Salesforce Expand Strategic Partnership to ..."
+[5]: https://news.microsoft.com/source/emea/2025/10/microsoft-announces-in-country-data-processing-for-microsoft-365-copilot-in-the-uae-to-accelerate-ai-adoption/ "Microsoft Announces In-Country Data Processing for ..."
+[6]: https://nvidianews.nvidia.com/news/nvidia-dgx-spark-arrives-for-worlds-ai-developers "NVIDIA DGX Spark Arrives for World's AI Developers"
+[7]: https://blogs.nvidia.com/blog/oracle-nvidia-accelerate-sovereign-ai-abu-dhabi/ "Oracle, NVIDIA Accelerate Sovereign AI, Enabling Abu ..."

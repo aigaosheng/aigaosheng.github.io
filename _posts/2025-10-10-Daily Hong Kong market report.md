@@ -96,13 +96,13 @@ Overall, the social tone is **cautiously optimistic**, with a notable interest s
 
 ---
 
-* [Reuters](https://www.reuters.com/business/finance/hsbc-proposes-privatise-hang-seng-bank-3736-billion-2025-10-09/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/world/asia-pacific/what-is-hang-seng-bank-what-does-hsbcs-proposed-privatisation-entail-2025-10-09/?utm_source=chatgpt.com)
-* [MarketWatch](https://www.marketwatch.com/story/hsbc-stock-slumps-after-14-billion-bet-on-hong-kong-at-a-hefty-premium-17230c13?utm_source=chatgpt.com)
+* [Reuters](https://www.reuters.com/business/finance/hsbc-proposes-privatise-hang-seng-bank-3736-billion-2025-10-09/)
+* [Reuters](https://www.reuters.com/world/asia-pacific/what-is-hang-seng-bank-what-does-hsbcs-proposed-privatisation-entail-2025-10-09/)
+* [MarketWatch](https://www.marketwatch.com/story/hsbc-stock-slumps-after-14-billion-bet-on-hong-kong-at-a-hefty-premium-17230c13)
 
-[1]: https://www.reuters.com/business/finance/hsbc-proposes-privatise-hang-seng-bank-3736-billion-2025-10-09/?utm_source=chatgpt.com "HSBC offers $13.6 billion to buy out Hong Kong's Hang Seng Bank"
-[2]: https://www.marketwatch.com/story/hsbc-stock-slumps-after-14-billion-bet-on-hong-kong-at-a-hefty-premium-17230c13?utm_source=chatgpt.com "HSBC stock slumps after $14 billion bet on Hong Kong - at a hefty premium"
-[3]: https://www.reuters.com/world/asia-pacific/what-is-hang-seng-bank-what-does-hsbcs-proposed-privatisation-entail-2025-10-09/?utm_source=chatgpt.com "What is Hang Seng Bank and what does HSBC's proposed privatisation entail?"
-[4]: https://www.bloomberg.com/news/articles/2025-05-27/hong-kong-bourse-plans-to-start-zero-day-options-trading-in-2026?utm_source=chatgpt.com "Hong Kong Bourse Plans to Start Zero-Day Options in 2026"
-[5]: https://www.tradingview.com/symbols/HKEX-9898/?utm_source=chatgpt.com "9898 Stock Price and Chart - Weibo Corp Class A"
-[6]: https://www.bloomberg.com/quote/27%3AHK?utm_source=chatgpt.com "27: Galaxy Entertainment Group Ltd Stock Price Quote - Hong Kong"
+[1]: https://www.reuters.com/business/finance/hsbc-proposes-privatise-hang-seng-bank-3736-billion-2025-10-09/ "HSBC offers $13.6 billion to buy out Hong Kong's Hang Seng Bank"
+[2]: https://www.marketwatch.com/story/hsbc-stock-slumps-after-14-billion-bet-on-hong-kong-at-a-hefty-premium-17230c13 "HSBC stock slumps after $14 billion bet on Hong Kong - at a hefty premium"
+[3]: https://www.reuters.com/world/asia-pacific/what-is-hang-seng-bank-what-does-hsbcs-proposed-privatisation-entail-2025-10-09/ "What is Hang Seng Bank and what does HSBC's proposed privatisation entail?"
+[4]: https://www.bloomberg.com/news/articles/2025-05-27/hong-kong-bourse-plans-to-start-zero-day-options-trading-in-2026 "Hong Kong Bourse Plans to Start Zero-Day Options in 2026"
+[5]: https://www.tradingview.com/symbols/HKEX-9898/ "9898 Stock Price and Chart - Weibo Corp Class A"
+[6]: https://www.bloomberg.com/quote/27%3AHK "27: Galaxy Entertainment Group Ltd Stock Price Quote - Hong Kong"

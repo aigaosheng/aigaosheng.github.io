@@ -13,7 +13,7 @@ tags:
 keywords: ["Artificial Neuron", "bioelectronics", "protein nanowires"]
 ---
 ---
-[![Scientists Create Artificial Neuron That “Speaks” the Language of the Brain](https://images.openai.com/static-rsc-1/k6NYtcrUY4aqMntP38uz3USTHXxqgNYYTxZuqXK60qlGQiRMjmtE3AUXOfe_92IdWGBCAWk-NiIpRaOOLJqCXQLcOtyOrZwdnjDXEcZJIw5YuePrER8dTUngko57Ahud5_rtEt8875OIRreI10O8OA)](https://scitechdaily.com/scientists-create-artificial-neuron-that-speaks-the-language-of-the-brain/?utm_source=chatgpt.com)
+[![Scientists Create Artificial Neuron That “Speaks” the Language of the Brain](https://images.openai.com/static-rsc-1/k6NYtcrUY4aqMntP38uz3USTHXxqgNYYTxZuqXK60qlGQiRMjmtE3AUXOfe_92IdWGBCAWk-NiIpRaOOLJqCXQLcOtyOrZwdnjDXEcZJIw5YuePrER8dTUngko57Ahud5_rtEt8875OIRreI10O8OA)](https://scitechdaily.com/scientists-create-artificial-neuron-that-speaks-the-language-of-the-brain/)
 
 **Breaking the Bio-Tech Barrier: Artificial Neurons That Converse with Living Cells**
 

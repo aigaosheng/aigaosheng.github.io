@@ -40,4 +40,4 @@ Mercor's emergence as a key player in the AI data sector underscores the dynamic
 
 ---
 
-[Source](https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/?utm_source=chatgpt.com)
+[Source](https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/)

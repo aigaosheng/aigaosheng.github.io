@@ -67,8 +67,8 @@ APRA’s warning is a timely red-flag for banks, fintechs and the broader financ
 
 **Source link**: [https://www.afr.com/companies/financial-services/apra-warns-of-concentration-risk-as-banks-move-to-us-cloud-providers-20251027-p5n5g6](https://www.afr.com/companies/financial-services/apra-warns-of-concentration-risk-as-banks-move-to-us-cloud-providers-20251027-p5n5g6)
 
-[1]: https://www.afr.com/companies/financial-services/apra-warns-of-concentration-risk-as-banks-move-to-us-cloud-providers-20251027-p5n5g6?utm_source=chatgpt.com "APRA warns of concentration risk as banks move to US ..."
-[2]: https://www.afr.com/by/james-eyers-j7gbd?utm_source=chatgpt.com "James Eyers"
-[3]: https://www.vixio.com/insights/pc-under-cloud-us-warns-third-party-it-concentration-risk?utm_source=chatgpt.com "US Warns Of Third-Party IT Concentration Risk"
-[4]: https://www.mckinsey.com/industries/financial-services/our-insights/fast-forward-how-cloud-computing-could-transform-risk-management?utm_source=chatgpt.com "How cloud computing could transform risk management"
-[5]: https://www.pifsinternational.org/cloud-adoption-in-the-financial-sector-and-concentration-risk/?utm_source=chatgpt.com "Cloud Adoption in the Financial Sector and Concentration ..."
+[1]: https://www.afr.com/companies/financial-services/apra-warns-of-concentration-risk-as-banks-move-to-us-cloud-providers-20251027-p5n5g6 "APRA warns of concentration risk as banks move to US ..."
+[2]: https://www.afr.com/by/james-eyers-j7gbd "James Eyers"
+[3]: https://www.vixio.com/insights/pc-under-cloud-us-warns-third-party-it-concentration-risk "US Warns Of Third-Party IT Concentration Risk"
+[4]: https://www.mckinsey.com/industries/financial-services/our-insights/fast-forward-how-cloud-computing-could-transform-risk-management "How cloud computing could transform risk management"
+[5]: https://www.pifsinternational.org/cloud-adoption-in-the-financial-sector-and-concentration-risk/ "Cloud Adoption in the Financial Sector and Concentration ..."

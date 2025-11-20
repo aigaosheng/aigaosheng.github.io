@@ -21,7 +21,7 @@ In September 2025, U.S. consumer confidence hit a **five-month low**, sparking r
 
 ### 🧠 Consumer Confidence: A Five-Month Low
 
-According to Bloomberg ([link](https://www.bloomberg.com/news/articles/2025-09-30/us-consumer-confidence-falls-to-five-month-low-on-job-market?utm_source=chatgpt.com)), the Conference Board's Consumer Confidence Index fell to **97.2** in September, down from 103.4 in August. Key drivers include:
+According to Bloomberg ([link](https://www.bloomberg.com/news/articles/2025-09-30/us-consumer-confidence-falls-to-five-month-low-on-job-market)), the Conference Board's Consumer Confidence Index fell to **97.2** in September, down from 103.4 in August. Key drivers include:
 
 * **Labor Market Concerns**: The percentage of consumers who believe jobs are plentiful dropped from 31.1% in August to 29.2% in September.
 * **Economic Outlook**: Expectations for the next six months weakened, signaling caution in future spending.
@@ -32,7 +32,7 @@ Lower consumer confidence often translates to **reduced discretionary spending**
 
 ### 📊 Job Openings: Stability Amidst Uncertainty
 
-The labor market shows signs of steadiness. Bloomberg ([link](https://www.bloomberg.com/news/articles/2025-09-30/us-job-openings-barely-increase-in-sign-of-stable-labor-demand?utm_source=chatgpt.com)) reports **7.23 million job openings** in August, up slightly from 7.21 million in July. Insights include:
+The labor market shows signs of steadiness. Bloomberg ([link](https://www.bloomberg.com/news/articles/2025-09-30/us-job-openings-barely-increase-in-sign-of-stable-labor-demand)) reports **7.23 million job openings** in August, up slightly from 7.21 million in July. Insights include:
 
 * **Hiring Slowdown**: Hires remain flat, indicating careful employer recruitment.
 * **Quits Rate Steady**: Employee confidence in leaving jobs remains around 2%.

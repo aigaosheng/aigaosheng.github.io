@@ -142,7 +142,7 @@ In its November 2025 Partner Center update, Microsoft detailed changes impacting
 
 ---
 
-[1]: https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/?msockid=1f133457e3a26b85244822f4e2456aef&utm_source=chatgpt.com "Latest progress update on Microsoft’s Secure Future Initiative | Microsoft Security Blog"
-[2]: https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-in-microsoft-sentinel-november-2025/4466061?utm_source=chatgpt.com "What’s New in Microsoft Sentinel: November 2025 | Microsoft Community Hub"
-[3]: https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/?utm_source=chatgpt.com "What's new in Copilot Studio: October 2025 | Microsoft Copilot Blog"
-[4]: https://learn.microsoft.com/en-us/partner-center/announcements/2025-november?utm_source=chatgpt.com "November 2025 announcements - Partner Center announcements | Microsoft Learn"
+[1]: https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/?msockid=1f133457e3a26b85244822f4e2456aef "Latest progress update on Microsoft’s Secure Future Initiative | Microsoft Security Blog"
+[2]: https://techcommunity.microsoft.com/blog/microsoftsentinelblog/what%E2%80%99s-new-in-microsoft-sentinel-november-2025/4466061 "What’s New in Microsoft Sentinel: November 2025 | Microsoft Community Hub"
+[3]: https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/whats-new-in-copilot-studio-october-2025/ "What's new in Copilot Studio: October 2025 | Microsoft Copilot Blog"
+[4]: https://learn.microsoft.com/en-us/partner-center/announcements/2025-november "November 2025 announcements - Partner Center announcements | Microsoft Learn"

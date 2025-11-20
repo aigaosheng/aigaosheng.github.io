@@ -103,5 +103,5 @@ In the past 24 hours OpenAI released developer- and customer-focused content hig
 * "How Codex ran OpenAI DevDay 2025" — OpenAI Developers blog. ([OpenAI Developers][1])
 * "HYGH accelerates development and campaign delivery with ChatGPT Business" — OpenAI customer story. ([OpenAI][2])
 
-[1]: https://developers.openai.com/blog/codex-at-devday/?utm_source=chatgpt.com "How Codex ran OpenAI DevDay 2025"
-[2]: https://openai.com/index/hygh/?utm_source=chatgpt.com "HYGH accelerates development and campaign delivery with ChatGPT Business"
+[1]: https://developers.openai.com/blog/codex-at-devday/ "How Codex ran OpenAI DevDay 2025"
+[2]: https://openai.com/index/hygh/ "HYGH accelerates development and campaign delivery with ChatGPT Business"

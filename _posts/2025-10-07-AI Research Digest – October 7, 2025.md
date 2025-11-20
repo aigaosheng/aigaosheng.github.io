@@ -14,7 +14,7 @@ tags:
 - Fermion Simulation Optimization
 ---
 ---
-[![Volume 646 Issue 8083, 2 October 2025](https://images.openai.com/thumbnails/url/EtOLJ3icu1mRUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4Jdin2KMp1dKwoqizy8013TgoszyyMyPaqDElxMfO2TDevCnENq3DxSE_xdcxM1I0scUlXK1ZLTbY1NzYwNTYxMwYA4lQqkw)](https://www.nature.com/nature/volumes/646/issues/8083?utm_source=chatgpt.com)
+[![Volume 646 Issue 8083, 2 October 2025](https://images.openai.com/thumbnails/url/EtOLJ3icu1mRUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4Jdin2KMp1dKwoqizy8013TgoszyyMyPaqDElxMfO2TDevCnENq3DxSE_xdcxM1I0scUlXK1ZLTbY1NzYwNTYxMwYA4lQqkw)](https://www.nature.com/nature/volumes/646/issues/8083)
 
 ## 🧠 AI Research Digest – October 7, 2025
 

@@ -46,4 +46,4 @@ Despite these concerns, the feature is seen as a significant advancement, offeri
 
 ---
 
-[Source](https://www.anthropic.com/news/create-files?utm_source=chatgpt.com)
+[Source](https://www.anthropic.com/news/create-files)

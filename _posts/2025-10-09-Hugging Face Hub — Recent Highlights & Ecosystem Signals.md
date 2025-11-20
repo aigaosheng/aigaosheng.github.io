@@ -72,10 +72,10 @@ tags:
 
 ---
 
-[1]: https://www.businesswire.com/news/home/20251009619654/en/Elastic-Completes-Acquisition-of-Jina-AI-a-Leader-in-Frontier-Models-for-Multimodal-and-Multilingual-Search?utm_source=chatgpt.com "Elastic Completes Acquisition of Jina AI, a Leader in ..."
-[2]: https://protectai.com/blog/hugging-face-protect-ai-six-months-in?utm_source=chatgpt.com "4M Models Scanned: Hugging Face + Protect ..."
-[3]: https://huggingface.co/docs/hub/en/security-protectai?utm_source=chatgpt.com "Third-party scanner: Protect AI"
-[4]: https://huggingface.co/blog/protectai?utm_source=chatgpt.com "Hugging Face Teams Up with Protect AI: Enhancing Model ..."
-[5]: https://www.reversinglabs.com/blog/rl-identifies-malware-ml-model-hosted-on-hugging-face?utm_source=chatgpt.com "Malicious ML models discovered on Hugging Face platform"
-[6]: https://arxiv.org/abs/2505.01067?utm_source=chatgpt.com "A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories"
-[7]: https://jfrog.com/blog/jfrog-and-hugging-face-join-forces/?utm_source=chatgpt.com "JFrog and Hugging Face Join Forces to Expose Malicious ..."
+[1]: https://www.businesswire.com/news/home/20251009619654/en/Elastic-Completes-Acquisition-of-Jina-AI-a-Leader-in-Frontier-Models-for-Multimodal-and-Multilingual-Search "Elastic Completes Acquisition of Jina AI, a Leader in ..."
+[2]: https://protectai.com/blog/hugging-face-protect-ai-six-months-in "4M Models Scanned: Hugging Face + Protect ..."
+[3]: https://huggingface.co/docs/hub/en/security-protectai "Third-party scanner: Protect AI"
+[4]: https://huggingface.co/blog/protectai "Hugging Face Teams Up with Protect AI: Enhancing Model ..."
+[5]: https://www.reversinglabs.com/blog/rl-identifies-malware-ml-model-hosted-on-hugging-face "Malicious ML models discovered on Hugging Face platform"
+[6]: https://arxiv.org/abs/2505.01067 "A Rusty Link in the AI Supply Chain: Detecting Evil Configurations in Model Repositories"
+[7]: https://jfrog.com/blog/jfrog-and-hugging-face-join-forces/ "JFrog and Hugging Face Join Forces to Expose Malicious ..."

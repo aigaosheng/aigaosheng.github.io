@@ -87,9 +87,9 @@ With Ironwood, Google isn’t just upgrading its hardware — it’s signalling 
 
 Source: [https://www.cnbc.com/2025/11/06/google-unveils-ironwood-seventh-generation-tpu-competing-with-nvidia.html](https://www.cnbc.com/2025/11/06/google-unveils-ironwood-seventh-generation-tpu-competing-with-nvidia.html)
 
-[1]: https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/?utm_source=chatgpt.com "Ironwood: The first Google TPU for the age of inference"
-[2]: https://www.techzine.eu/news/devices/136139/google-launches-long-awaited-ironwood-tpu-for-ai-inferencing/?utm_source=chatgpt.com "Google launches long-awaited Ironwood TPU for AI inferencing"
-[3]: https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deploys-new-axion-cpus-and-seventh-gen-ironwood-tpu-training-and-inferencing-pods-beat-nvidia-gb300-and-shape-ai-hypercomputer-model?utm_source=chatgpt.com "Google deploys new Axion CPUs and seventh-gen Ironwood TPU — training and inferencing pods beat Nvidia GB300 and shape 'AI Hypercomputer' model"
-[4]: https://www.marketwatch.com/story/google-may-be-sitting-on-a-900-billion-gem-that-could-disrupt-nvidias-dominance-20662ec6?utm_source=chatgpt.com "Google may be sitting on a $900 billion gem that could disrupt Nvidia's dominance"
-[5]: https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads?utm_source=chatgpt.com "Ironwood TPUs and new Axion-based VMs for your AI ..."
-[6]: https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal?utm_source=chatgpt.com "Google debuts AI chips with 4X performance boost ..."
+[1]: https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/ "Ironwood: The first Google TPU for the age of inference"
+[2]: https://www.techzine.eu/news/devices/136139/google-launches-long-awaited-ironwood-tpu-for-ai-inferencing/ "Google launches long-awaited Ironwood TPU for AI inferencing"
+[3]: https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deploys-new-axion-cpus-and-seventh-gen-ironwood-tpu-training-and-inferencing-pods-beat-nvidia-gb300-and-shape-ai-hypercomputer-model "Google deploys new Axion CPUs and seventh-gen Ironwood TPU — training and inferencing pods beat Nvidia GB300 and shape 'AI Hypercomputer' model"
+[4]: https://www.marketwatch.com/story/google-may-be-sitting-on-a-900-billion-gem-that-could-disrupt-nvidias-dominance-20662ec6 "Google may be sitting on a $900 billion gem that could disrupt Nvidia's dominance"
+[5]: https://cloud.google.com/blog/products/compute/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads "Ironwood TPUs and new Axion-based VMs for your AI ..."
+[6]: https://venturebeat.com/ai/google-debuts-ai-chips-with-4x-performance-boost-secures-anthropic-megadeal "Google debuts AI chips with 4X performance boost ..."

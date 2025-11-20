@@ -64,5 +64,5 @@ Sweet Security’s $75 million raise is a clear signal: cloud security — esp
 
 Source link: 
 
-[1]: https://www.calcalistech.com/ctechnews/article/b19tmlmgze?utm_source=chatgpt.com "Sweet Security, led by ex-IDF cyber chiefs, secures $75M ..."
-[2]: https://www.securityweek.com/sweet-security-emerges-from-stealth-with-12-million-seed-funding-and-a-cloud-runtime-solution/?utm_source=chatgpt.com "Sweet Security Emerges From Stealth With $12 Million ..."
+[1]: https://www.calcalistech.com/ctechnews/article/b19tmlmgze "Sweet Security, led by ex-IDF cyber chiefs, secures $75M ..."
+[2]: https://www.securityweek.com/sweet-security-emerges-from-stealth-with-12-million-seed-funding-and-a-cloud-runtime-solution/ "Sweet Security Emerges From Stealth With $12 Million ..."

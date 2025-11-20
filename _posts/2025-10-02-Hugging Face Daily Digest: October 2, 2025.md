@@ -14,7 +14,7 @@ tags:
 - Chinese AI Systems
 ---
 ---
-[![Hugging Face claims its new AI models are the smallest of their kind | TechCrunch](https://images.openai.com/thumbnails/url/udiEKHicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw708zPxCIhKLg0wsMhMtnApdAqNKCgtyUuPKgkzDnKsCi-M94zyD3cOjdKNCg8vTC41iyiL9DZMcvQvT1crBgAWfSn3)](https://techcrunch.com/2025/01/23/hugging-face-claims-its-new-ai-models-are-the-smallest-of-their-kind/?utm_source=chatgpt.com)
+[![Hugging Face claims its new AI models are the smallest of their kind | TechCrunch](https://images.openai.com/thumbnails/url/udiEKHicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw708zPxCIhKLg0wsMhMtnApdAqNKCgtyUuPKgkzDnKsCi-M94zyD3cOjdKNCg8vTC41iyiL9DZMcvQvT1crBgAWfSn3)](https://techcrunch.com/2025/01/23/hugging-face-claims-its-new-ai-models-are-the-smallest-of-their-kind/)
 
 **Hugging Face Daily Digest: October 2, 2025**
 
@@ -68,14 +68,14 @@ The developments over the past 24 hours indicate a continued emphasis on special
 
 ---
 
-* [Apriel-1.5-15b-Thinker](https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker?utm_source=chatgpt.com)
-* [Hugging Face](https://huggingface.co/papers?q=API+leaks&utm_source=chatgpt.com)
-* [A Cartography of Open Collaboration in Open Source AI](https://huggingface.co/papers/2509.25397?utm_source=chatgpt.com)
+* [Apriel-1.5-15b-Thinker](https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker)
+* [Hugging Face](https://huggingface.co/papers?q=API+leaks)
+* [A Cartography of Open Collaboration in Open Source AI](https://huggingface.co/papers/2509.25397)
 
 ---
 
-[1]: https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker?utm_source=chatgpt.com "ServiceNow-AI/Apriel-1.5-15b-Thinker"
-[2]: https://huggingface.co/?utm_source=chatgpt.com "Hugging Face – The AI community building the future."
-[3]: https://huggingface.co/papers?q=API+leaks&utm_source=chatgpt.com "Daily Papers"
-[4]: https://huggingface.co/papers?q=EditReward-Bench&utm_source=chatgpt.com "Daily Papers"
-[5]: https://huggingface.co/papers/2509.25397?utm_source=chatgpt.com "Paper page - A Cartography of Open Collaboration in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects"
+[1]: https://huggingface.co/ServiceNow-AI/Apriel-1.5-15b-Thinker "ServiceNow-AI/Apriel-1.5-15b-Thinker"
+[2]: https://huggingface.co/ "Hugging Face – The AI community building the future."
+[3]: https://huggingface.co/papers?q=API+leaks "Daily Papers"
+[4]: https://huggingface.co/papers?q=EditReward-Bench "Daily Papers"
+[5]: https://huggingface.co/papers/2509.25397 "Paper page - A Cartography of Open Collaboration in Open Source AI: Mapping Practices, Motivations, and Governance in 14 Open Large Language Model Projects"

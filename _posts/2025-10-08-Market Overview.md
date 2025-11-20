@@ -65,11 +65,11 @@ The market's recent pullback reflects investor caution amid geopolitical uncerta
 
 ---
 
-* [Yahoo Finance](https://ca.finance.yahoo.com/news/stock-market-today-dow-slides-sp-500-and-nasdaq-snap-winning-streaks-as-oracle-leads-tech-stocks-lower-161751130.html?utm_source=chatgpt.com)
-* [Bloomberg](https://www.bloomberg.com/news/articles/2025-10-06/stock-market-today-dow-s-p-live-updates?utm_source=chatgpt.com)
-* [AP News](https://apnews.com/article/c41a2f8bd1e07fa8c0b61797aa1cf24c?utm_source=chatgpt.com)
+* [Yahoo Finance](https://ca.finance.yahoo.com/news/stock-market-today-dow-slides-sp-500-and-nasdaq-snap-winning-streaks-as-oracle-leads-tech-stocks-lower-161751130.html)
+* [Bloomberg](https://www.bloomberg.com/news/articles/2025-10-06/stock-market-today-dow-s-p-live-updates)
+* [AP News](https://apnews.com/article/c41a2f8bd1e07fa8c0b61797aa1cf24c)
 
 ---
 
-[1]: https://apnews.com/article/c41a2f8bd1e07fa8c0b61797aa1cf24c?utm_source=chatgpt.com "US stocks snap a 7-day winning streak as gold's price tops $4,000 per ounce"
-[2]: https://www.reddit.com/r/ValueInvesting/comments/1m3bjtx/everyone_should_take_note_of_the_sentiment_around/?utm_source=chatgpt.com "Everyone should take note of the sentiment around them at ..."
+[1]: https://apnews.com/article/c41a2f8bd1e07fa8c0b61797aa1cf24c "US stocks snap a 7-day winning streak as gold's price tops $4,000 per ounce"
+[2]: https://www.reddit.com/r/ValueInvesting/comments/1m3bjtx/everyone_should_take_note_of_the_sentiment_around/ "Everyone should take note of the sentiment around them at ..."

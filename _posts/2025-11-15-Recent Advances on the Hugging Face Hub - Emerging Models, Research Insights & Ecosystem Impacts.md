@@ -69,13 +69,13 @@ The Hugging Face Hub continues to drive innovation across AI, spanning text, ima
 
 | Model / Paper                        | Focus / Modality                   | Key Insights                                                                                                                                                           |
 | ------------------------------------ | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **moonshotai/Kimi-K2-Thinking**      | Text generation / reasoning        | 256K context window, INT4 quantization, MoE architecture, instruction-tuned reasoning. ([Link](https://huggingface.co/models?utm_source=chatgpt.com))                  |
-| **Ovi 1.1 (chetwinlow1)**            | Video + audio                      | Temporally consistent video + audio generation, 960×960 resolution, multi-modal fusion. ([Link](https://huggingface.co/chetwinlow1/Ovi?utm_source=chatgpt.com))        |
-| **PRX (Photoroom)**                  | Text-to-image                      | Open-source, full training workflow in Diffusers, Apache 2.0 license. ([Link](https://huggingface.co/blog/Photoroom/prx-open-source-t2i-model?utm_source=chatgpt.com)) |
-| **SDLM-3B-D8**                       | Text generation / latent diffusion | Adaptive block-wise decoding, throughput optimization, KV-cache compatible. ([Link](https://huggingface.co/OpenGVLab/SDLM-3B-D8?utm_source=chatgpt.com))               |
-| **Real-Time Reasoning Agents**       | Research / agentic AI              | Dynamic environment reasoning, AgileThinker framework. ([Link](https://huggingface.co/papers/2511.04898?utm_source=chatgpt.com))                                       |
-| **Black-Box On-Policy Distillation** | Research / model compression       | Distills knowledge from closed-box LLMs into student models using GAD. ([Link](https://huggingface.co/papers/2511.10643?utm_source=chatgpt.com))                       |
-| **Thinking with Video**              | Research / multimodal reasoning    | Video generation as reasoning medium; introduces VideoThinkBench benchmark. ([Link](https://huggingface.co/papers/2511.04570?utm_source=chatgpt.com))                  |
+| **moonshotai/Kimi-K2-Thinking**      | Text generation / reasoning        | 256K context window, INT4 quantization, MoE architecture, instruction-tuned reasoning. ([Link](https://huggingface.co/models))                  |
+| **Ovi 1.1 (chetwinlow1)**            | Video + audio                      | Temporally consistent video + audio generation, 960×960 resolution, multi-modal fusion. ([Link](https://huggingface.co/chetwinlow1/Ovi))        |
+| **PRX (Photoroom)**                  | Text-to-image                      | Open-source, full training workflow in Diffusers, Apache 2.0 license. ([Link](https://huggingface.co/blog/Photoroom/prx-open-source-t2i-model)) |
+| **SDLM-3B-D8**                       | Text generation / latent diffusion | Adaptive block-wise decoding, throughput optimization, KV-cache compatible. ([Link](https://huggingface.co/OpenGVLab/SDLM-3B-D8))               |
+| **Real-Time Reasoning Agents**       | Research / agentic AI              | Dynamic environment reasoning, AgileThinker framework. ([Link](https://huggingface.co/papers/2511.04898))                                       |
+| **Black-Box On-Policy Distillation** | Research / model compression       | Distills knowledge from closed-box LLMs into student models using GAD. ([Link](https://huggingface.co/papers/2511.10643))                       |
+| **Thinking with Video**              | Research / multimodal reasoning    | Video generation as reasoning medium; introduces VideoThinkBench benchmark. ([Link](https://huggingface.co/papers/2511.04570))                  |
 
 ---
 
@@ -87,9 +87,9 @@ The Hugging Face Hub remains a nexus of AI innovation. Multimodal models are mat
 
 ## **References**
 
-1. [Hugging Face Hub Models](https://huggingface.co/models?utm_source=chatgpt.com)
-2. [Hugging Face Blog](https://huggingface.co/blog?utm_source=chatgpt.com)
-3. [Hugging Face Papers](https://huggingface.co/papers?utm_source=chatgpt.com)
+1. [Hugging Face Hub Models](https://huggingface.co/models)
+2. [Hugging Face Blog](https://huggingface.co/blog)
+3. [Hugging Face Papers](https://huggingface.co/papers)
 4. Model Cards: moonshotai/Kimi-K2-Thinking, chetwinlow1/Ovi, OpenGVLab/SDLM-3B-D8, Photoroom/PRX
 
 ---

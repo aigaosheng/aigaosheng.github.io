@@ -74,7 +74,7 @@ With its latest AI-driven launch, Canva is boldly repositioning itself from “o
 
 Source: [https://www.afr.com/technology/why-canva-s-new-ai-announcements-should-make-rivals-nervous-20251031-p5n6pc](https://www.afr.com/technology/why-canva-s-new-ai-announcements-should-make-rivals-nervous-20251031-p5n6pc)
 
-[1]: https://www.canva.com/newsroom/news/canva-create-2025/?utm_source=chatgpt.com "Introducing Visual Suite 2.0: Productivity, meet creativity"
-[2]: https://www.contentgrip.com/canva-new-ai-tools-code-sheets/?utm_source=chatgpt.com "Canva adds new AI tools for coding and spreadsheets"
-[3]: https://www.businesswire.com/news/home/20250410082173/en/Canvas-Biggest-Launch-Yet-Introduces-Visual-Suite-2.0-to-Redefine-Creativity-and-Productivity?utm_source=chatgpt.com "Canva's Biggest Launch Yet Introduces Visual Suite 2.0 to ..."
-[4]: https://www.canva.com/newsroom/news/creative-operating-system/?utm_source=chatgpt.com "Introducing Canva's Creative Operating System"
+[1]: https://www.canva.com/newsroom/news/canva-create-2025/ "Introducing Visual Suite 2.0: Productivity, meet creativity"
+[2]: https://www.contentgrip.com/canva-new-ai-tools-code-sheets/ "Canva adds new AI tools for coding and spreadsheets"
+[3]: https://www.businesswire.com/news/home/20250410082173/en/Canvas-Biggest-Launch-Yet-Introduces-Visual-Suite-2.0-to-Redefine-Creativity-and-Productivity "Canva's Biggest Launch Yet Introduces Visual Suite 2.0 to ..."
+[4]: https://www.canva.com/newsroom/news/creative-operating-system/ "Introducing Canva's Creative Operating System"

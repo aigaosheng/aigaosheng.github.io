@@ -61,9 +61,9 @@ Bending Spoons has found a repeatable formula: acquire known products, tighten o
 Source: TechCrunch — *What is Bending Spoons? Everything to know about AOL’s acquirer.* ([TechCrunch][1])
 (TechCrunch link: [https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/](https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/))
 
-[1]: https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/?utm_source=chatgpt.com "What is Bending Spoons? Everything to know about AOL's ..."
-[2]: https://www.wsj.com/business/media/internet-pioneer-aol-to-be-acquired-by-tech-company-bending-spoons-8b0200ba?utm_source=chatgpt.com "Internet Pioneer AOL to Be Acquired by Tech Company Bending Spoons"
-[3]: https://www.axios.com/2025/10/29/aol-bending-spoons-deal?utm_source=chatgpt.com "AOL to be sold to Bending Spoons for roughly $1.5B"
-[4]: https://www.forbes.com/sites/iainmartin/2025/10/29/aol-has-a-new-italian-owner-unicorn-startup-bending-spoons/?utm_source=chatgpt.com "Italy's Bending Spoons Acquires AOL From Apollo"
-[5]: https://en.wikipedia.org/wiki/Bending_Spoons?utm_source=chatgpt.com "Bending Spoons"
-[6]: https://www.reuters.com/business/finance/italys-bending-spoons-acquire-aol-secures-28-bln-debt-financing-2025-10-29/?utm_source=chatgpt.com "Italy's Bending Spoons to acquire AOL, secures $2.8 bln in ..."
+[1]: https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/ "What is Bending Spoons? Everything to know about AOL's ..."
+[2]: https://www.wsj.com/business/media/internet-pioneer-aol-to-be-acquired-by-tech-company-bending-spoons-8b0200ba "Internet Pioneer AOL to Be Acquired by Tech Company Bending Spoons"
+[3]: https://www.axios.com/2025/10/29/aol-bending-spoons-deal "AOL to be sold to Bending Spoons for roughly $1.5B"
+[4]: https://www.forbes.com/sites/iainmartin/2025/10/29/aol-has-a-new-italian-owner-unicorn-startup-bending-spoons/ "Italy's Bending Spoons Acquires AOL From Apollo"
+[5]: https://en.wikipedia.org/wiki/Bending_Spoons "Bending Spoons"
+[6]: https://www.reuters.com/business/finance/italys-bending-spoons-acquire-aol-secures-28-bln-debt-financing-2025-10-29/ "Italy's Bending Spoons to acquire AOL, secures $2.8 bln in ..."

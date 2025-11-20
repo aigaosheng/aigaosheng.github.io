@@ -89,5 +89,5 @@ In short: if you’re scanning the next wave of AI start‑ups, pay attention to
 
 Source link: [CNBC article](https://www.cnbc.com/2025/11/01/vc-who-backed-billion-dollar-ai-firm-shares-two-red-flags-in-founders-.html)
 
-[1]: https://intellectia.ai/news/stock/vc-who-bet-on-billiondollar-ai-firm-shares-two-red-flags-that-stop-him-investing-in-a-founder-?utm_source=chatgpt.com "VC Cautions Against Investing in Founders Due to Two ..."
-[2]: https://www.linkedin.com/posts/cnbc_vc-who-bet-on-billion-dollar-ai-firm-shares-activity-7390310417950101504-zbLD?utm_source=chatgpt.com "VC who bet on billion-dollar AI firm shares two red flags ..."
+[1]: https://intellectia.ai/news/stock/vc-who-bet-on-billiondollar-ai-firm-shares-two-red-flags-that-stop-him-investing-in-a-founder- "VC Cautions Against Investing in Founders Due to Two ..."
+[2]: https://www.linkedin.com/posts/cnbc_vc-who-bet-on-billion-dollar-ai-firm-shares-activity-7390310417950101504-zbLD "VC who bet on billion-dollar AI firm shares two red flags ..."

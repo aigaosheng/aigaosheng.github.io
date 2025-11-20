@@ -72,9 +72,9 @@ Over the last 24 hours on the Hugging Face ecosystem there were **new model/rese
 
 ---
 
-[1]: https://huggingface.co/papers?utm_source=chatgpt.com "Daily Papers"
-[2]: https://discuss.huggingface.co/?utm_source=chatgpt.com "Hugging Face Forums - Hugging Face Community Discussion"
-[3]: https://status.huggingface.co/incidents?utm_source=chatgpt.com "Previous incidents"
-[4]: https://www.artificialintelligence-news.com/news/hugging-face-partners-groq-ultra-fast-ai-model-inference/?utm_source=chatgpt.com "Hugging Face partners with Groq for ultra-fast AI model ..."
-[5]: https://www.marktechpost.com/2025/09/26/hugging-face-releases-smol2operator-a-fully-open-source-pipeline-to-train-a-2-2b-vlm-into-an-agentic-gui-coder/?utm_source=chatgpt.com "Hugging Face Releases Smol2Operator: A Fully Open- ..."
-[6]: https://huggingface.co/blog?utm_source=chatgpt.com "Hugging Face – Blog"
+[1]: https://huggingface.co/papers "Daily Papers"
+[2]: https://discuss.huggingface.co/ "Hugging Face Forums - Hugging Face Community Discussion"
+[3]: https://status.huggingface.co/incidents "Previous incidents"
+[4]: https://www.artificialintelligence-news.com/news/hugging-face-partners-groq-ultra-fast-ai-model-inference/ "Hugging Face partners with Groq for ultra-fast AI model ..."
+[5]: https://www.marktechpost.com/2025/09/26/hugging-face-releases-smol2operator-a-fully-open-source-pipeline-to-train-a-2-2b-vlm-into-an-agentic-gui-coder/ "Hugging Face Releases Smol2Operator: A Fully Open- ..."
+[6]: https://huggingface.co/blog "Hugging Face – Blog"

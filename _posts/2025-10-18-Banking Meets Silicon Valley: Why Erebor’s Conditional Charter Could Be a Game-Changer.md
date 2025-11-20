@@ -91,13 +91,13 @@ This story bridges tech, banking, regulation and the shifting landscape of innov
 Source: [https://www.thetimes.com/us/business/article/tech-focused-erebor-bank-wins-conditional-approval-in-us-dzr3hv9j9](https://www.thetimes.com/us/business/article/tech-focused-erebor-bank-wins-conditional-approval-in-us-dzr3hv9j9)
 
 
-* [Business Insider](https://www.businessinsider.com/palmer-luckey-erebor-crypto-bank-preliminary-regulatory-approval-2025-10?utm_source=chatgpt.com)
-* [axios.com](https://www.axios.com/2025/10/15/bank-trump-luckey-crypto?utm_source=chatgpt.com)
-* [ft.com](https://www.ft.com/content/202d68bd-629e-42da-a938-c612bc839bdf?utm_source=chatgpt.com)
+* [Business Insider](https://www.businessinsider.com/palmer-luckey-erebor-crypto-bank-preliminary-regulatory-approval-2025-10)
+* [axios.com](https://www.axios.com/2025/10/15/bank-trump-luckey-crypto)
+* [ft.com](https://www.ft.com/content/202d68bd-629e-42da-a938-c612bc839bdf)
 
-[1]: https://occ.gov/news-issuances/news-releases/2025/nr-occ-2025-101.html?utm_source=chatgpt.com "OCC Announces Conditional Approval for Chartering Erebor ..."
-[2]: https://www.bankingdive.com/news/tech-focused-erebor-bank-gets-conditional-occ-approval/802895/?utm_source=chatgpt.com "Tech-focused Erebor Bank gets conditional OCC approval"
-[3]: https://www.coindesk.com/policy/2025/10/15/crypto-bank-erebor-approved-for-conditional-federal-bank-charter-by-occ?utm_source=chatgpt.com "Crypto Bank Erebor Approved for Conditional Federal ..."
-[4]: https://www.fintechfutures.com/regulatory-actions/occ-conditionally-approves-erebor-bank-national-charter?utm_source=chatgpt.com "OCC conditionally approves Peter Thiel-backed Erebor Bank for national charter"
-[5]: https://www.businessinsider.com/palmer-luckey-erebor-bank-political-network-occ-jonathan-gould-2025-8?utm_source=chatgpt.com "A fundraising memo for Palmer Luckey's new crypto bank says the quiet part out loud"
-[6]: https://www.occ.treas.gov/news-issuances/news-releases/2025/nr-occ-2025-101.html?utm_source=chatgpt.com "OCC Announces Conditional Approval for Chartering ..."
+[1]: https://occ.gov/news-issuances/news-releases/2025/nr-occ-2025-101.html "OCC Announces Conditional Approval for Chartering Erebor ..."
+[2]: https://www.bankingdive.com/news/tech-focused-erebor-bank-gets-conditional-occ-approval/802895/ "Tech-focused Erebor Bank gets conditional OCC approval"
+[3]: https://www.coindesk.com/policy/2025/10/15/crypto-bank-erebor-approved-for-conditional-federal-bank-charter-by-occ "Crypto Bank Erebor Approved for Conditional Federal ..."
+[4]: https://www.fintechfutures.com/regulatory-actions/occ-conditionally-approves-erebor-bank-national-charter "OCC conditionally approves Peter Thiel-backed Erebor Bank for national charter"
+[5]: https://www.businessinsider.com/palmer-luckey-erebor-bank-political-network-occ-jonathan-gould-2025-8 "A fundraising memo for Palmer Luckey's new crypto bank says the quiet part out loud"
+[6]: https://www.occ.treas.gov/news-issuances/news-releases/2025/nr-occ-2025-101.html "OCC Announces Conditional Approval for Chartering ..."

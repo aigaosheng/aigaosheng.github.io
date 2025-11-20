@@ -13,7 +13,7 @@ tags:
 keywords: [AI Security, Autonomous Systems, Data Protection]
 permalink: /Agentic AI Security Breaches Are Coming - 7 Ways to Make Sure It's Not Your Firm/
 ---
-[![The Agentic AI Revolution: 5 Unexpected Security Challenges](https://images.openai.com/thumbnails/url/i_Vuh3icu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7xcwnKcvHzNM1zi0y0DPF08y4MywyqDI0PLSzNy07WDcvzTjaKjDD0N69MVyu2NTQAAAXaJOg)](https://www.cyberark.com/resources/blog/the-agentic-ai-revolution-5-unexpected-security-challenges?utm_source=chatgpt.com)
+[![The Agentic AI Revolution: 5 Unexpected Security Challenges](https://images.openai.com/thumbnails/url/i_Vuh3icu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7xcwnKcvHzNM1zi0y0DPF08y4MywyqDI0PLSzNy07WDcvzTjaKjDD0N69MVyu2NTQAAAXaJOg)](https://www.cyberark.com/resources/blog/the-agentic-ai-revolution-5-unexpected-security-challenges)
 
 **Agentic AI Security Breaches Are Coming: 7 Ways to Make Sure It's Not Your Firm**
 
@@ -68,4 +68,4 @@ For a more in-depth exploration of this topic, visit the full article on [Ventur
 
 ---
 
-[1]: https://venturebeat.com/security/agentic-ai-security-breaches-are-coming-7-ways-to-make-sure-its-not-your?utm_source=chatgpt.com "Agentic AI security breaches are coming: 7 ways to make ..."
+[1]: https://venturebeat.com/security/agentic-ai-security-breaches-are-coming-7-ways-to-make-sure-its-not-your "Agentic AI security breaches are coming: 7 ways to make ..."

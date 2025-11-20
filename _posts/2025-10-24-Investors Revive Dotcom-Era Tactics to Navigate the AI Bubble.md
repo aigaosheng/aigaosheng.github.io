@@ -13,7 +13,7 @@ tags:
 keywords: [AI stocks, hedge funds, market strategy]
 permalink: /Investors Revive Dotcom-Era Tactics to Navigate the AI Bubble/
 ---
-[![Prediction: The Artificial Intelligence (AI) Bubble Will Burst in 2025. Here's Why. | Nasdaq](https://images.openai.com/thumbnails/url/DxwMbnicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5KSQ6wCCoMzS72KwhxzzYJNfJ28YgqLvXIKirOsjAKDdAtTswxrNQ1MPFMVyu2NTQAAA7dJLk)](https://www.nasdaq.com/articles/prediction-artificial-intelligence-ai-bubble-will-burst-2025-heres-why?utm_source=chatgpt.com)
+[![Prediction: The Artificial Intelligence (AI) Bubble Will Burst in 2025. Here's Why. | Nasdaq](https://images.openai.com/thumbnails/url/DxwMbnicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5KSQ6wCCoMzS72KwhxzzYJNfJ28YgqLvXIKirOsjAKDdAtTswxrNQ1MPFMVyu2NTQAAA7dJLk)](https://www.nasdaq.com/articles/prediction-artificial-intelligence-ai-bubble-will-burst-2025-heres-why)
 
 **Investors Revive Dotcom-Era Tactics to Navigate the AI Bubble**
 

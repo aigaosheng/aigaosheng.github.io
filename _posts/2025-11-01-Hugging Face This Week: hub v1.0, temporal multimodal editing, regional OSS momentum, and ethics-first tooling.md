@@ -70,7 +70,7 @@ Hugging Face’s platform and community continue to shift from rapid iteration t
 
 If you’d like, I can convert these insights into a concise slide deck for stakeholders, produce a migration checklist for huggingface_hub v1.0, or generate a short playbook of CI tests and deployment guardrails tailored to multimodal inference.
 
-[1]: https://huggingface.co/blog/huggingface-hub-v1?utm_source=chatgpt.com "huggingface_hub v1.0: Five Years of Building the ..."
-[2]: https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers?utm_source=chatgpt.com "nvidia/ChronoEdit-14B-Diffusers"
-[3]: https://huggingface.co/collections/zh-ai-community/october-2025-china-open-source-highlights?utm_source=chatgpt.com "🎆 October 2025 - China Open Source Highlights"
-[4]: https://huggingface.co/blog?utm_source=chatgpt.com "Hugging Face – Blog"
+[1]: https://huggingface.co/blog/huggingface-hub-v1 "huggingface_hub v1.0: Five Years of Building the ..."
+[2]: https://huggingface.co/nvidia/ChronoEdit-14B-Diffusers "nvidia/ChronoEdit-14B-Diffusers"
+[3]: https://huggingface.co/collections/zh-ai-community/october-2025-china-open-source-highlights "🎆 October 2025 - China Open Source Highlights"
+[4]: https://huggingface.co/blog "Hugging Face – Blog"

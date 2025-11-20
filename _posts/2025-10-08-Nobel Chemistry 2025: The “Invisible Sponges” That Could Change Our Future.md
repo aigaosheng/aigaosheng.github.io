@@ -26,7 +26,7 @@ On October 8, the Royal Swedish Academy of Sciences awarded the prize to **Susum
 
 MOFs are crystalline structures made by combining metal ions with organic “linkers.” Together, they form cages and channels with enormous internal surface areas. This porosity makes them act like **molecular sponges**, able to trap, separate, and even store molecules.
 
-The Nobel committee praised them as a *“new form of molecular architecture”* that brings *“unforeseen opportunities for tailor-made materials with new functions.”* ([nobelprize.org](https://www.nobelprize.org/prizes/chemistry/2025/press-release/?utm_source=chatgpt.com))
+The Nobel committee praised them as a *“new form of molecular architecture”* that brings *“unforeseen opportunities for tailor-made materials with new functions.”* ([nobelprize.org](https://www.nobelprize.org/prizes/chemistry/2025/press-release/))
 
 ---
 
@@ -69,7 +69,7 @@ The Nobel committee praised them as a *“new form of molecular architecture”*
 * **Atmospheric water harvesting**: Some MOFs can pull water from desert air.
 * **Hydrogen & energy storage**: MOFs show promise for clean energy storage.
 
-As the Washington Post notes, these are *potential game-changers* but still require breakthroughs in **scalability, stability, and cost** before everyday use. ([washingtonpost.com](https://www.washingtonpost.com/science/2025/10/08/nobel-prize-chemistry-2025-metal-organic-frameworks/?utm_source=chatgpt.com))
+As the Washington Post notes, these are *potential game-changers* but still require breakthroughs in **scalability, stability, and cost** before everyday use. ([washingtonpost.com](https://www.washingtonpost.com/science/2025/10/08/nobel-prize-chemistry-2025-metal-organic-frameworks/))
 
 ---
 
@@ -98,13 +98,13 @@ Still, the recognition is a signal: MOFs aren’t just academic curiosities—th
 
 ---
 
-**Source:** [Scientific American – *2025 Chemistry Nobel Goes to Molecular Sponges That Purify Water, Store Energy, and Clean Up the Environment*](https://www.scientificamerican.com/article/2025-chemistry-nobel-goes-to-molecular-sponges-that-purify-water-store/?utm_source=chatgpt.com)
+**Source:** [Scientific American – *2025 Chemistry Nobel Goes to Molecular Sponges That Purify Water, Store Energy, and Clean Up the Environment*](https://www.scientificamerican.com/article/2025-chemistry-nobel-goes-to-molecular-sponges-that-purify-water-store/)
 
 Other references:
 
-* [Nobel Prize official press release](https://www.nobelprize.org/prizes/chemistry/2025/press-release/?utm_source=chatgpt.com)
-* [Reuters coverage](https://www.reuters.com/science/kitagawa-robson-yaghi-win-2025-nobel-prize-chemistry-2025-10-08/?utm_source=chatgpt.com)
-* [The Guardian](https://www.theguardian.com/science/2025/oct/08/nobel-prize-in-chemistry-awarded-to-scientists-for-work-on-porous-materials?utm_source=chatgpt.com)
-* [AP News](https://apnews.com/article/87dcb74eb01e3d5ba8efc32832e51ef6?utm_source=chatgpt.com)
+* [Nobel Prize official press release](https://www.nobelprize.org/prizes/chemistry/2025/press-release/)
+* [Reuters coverage](https://www.reuters.com/science/kitagawa-robson-yaghi-win-2025-nobel-prize-chemistry-2025-10-08/)
+* [The Guardian](https://www.theguardian.com/science/2025/oct/08/nobel-prize-in-chemistry-awarded-to-scientists-for-work-on-porous-materials)
+* [AP News](https://apnews.com/article/87dcb74eb01e3d5ba8efc32832e51ef6)
 
 ---

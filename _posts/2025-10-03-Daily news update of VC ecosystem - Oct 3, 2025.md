@@ -60,11 +60,11 @@ tags:
 
 ---
 
-[1]: https://www.prnewswire.com/news-releases/supabase-raises-100m-at-5b-valuation-co-led-by-accel-and-peak-xv-302573153.html?utm_source=chatgpt.com "Supabase Raises $100M at $5B Valuation, Co-Led by ..."
-[2]: https://www.wsj.com/articles/healthcare-investors-vijay-pande-zack-werner-team-up-to-form-vzvc-eff3ed1f?utm_source=chatgpt.com "Healthcare Investors Vijay Pande, Zack Werner Team Up to Form VZVC"
-[3]: https://ca.finance.yahoo.com/news/lightspeed-commerce-tsx-lspd-board-124706876.html?utm_source=chatgpt.com "What Lightspeed Commerce (TSX:LSPD)'s Board Appointments ..."
-[4]: https://www.sequoia.com/news/press-center/?utm_source=chatgpt.com "Press Center - Sequoia"
-[5]: https://a16z.com/announcement/investing-in-periodic-labs/?utm_source=chatgpt.com "Investing in Periodic Labs"
-[6]: https://www.reuters.com/company/tiger-global-management-llc/?utm_source=chatgpt.com "Tiger Global Management LLC"
-[7]: https://group.softbank/en/news/press?utm_source=chatgpt.com "Press Releases | SoftBank Group Corp."
-[8]: https://www.ycombinator.com/launches?utm_source=chatgpt.com "Launch YC"
+[1]: https://www.prnewswire.com/news-releases/supabase-raises-100m-at-5b-valuation-co-led-by-accel-and-peak-xv-302573153.html "Supabase Raises $100M at $5B Valuation, Co-Led by ..."
+[2]: https://www.wsj.com/articles/healthcare-investors-vijay-pande-zack-werner-team-up-to-form-vzvc-eff3ed1f "Healthcare Investors Vijay Pande, Zack Werner Team Up to Form VZVC"
+[3]: https://ca.finance.yahoo.com/news/lightspeed-commerce-tsx-lspd-board-124706876.html "What Lightspeed Commerce (TSX:LSPD)'s Board Appointments ..."
+[4]: https://www.sequoia.com/news/press-center/ "Press Center - Sequoia"
+[5]: https://a16z.com/announcement/investing-in-periodic-labs/ "Investing in Periodic Labs"
+[6]: https://www.reuters.com/company/tiger-global-management-llc/ "Tiger Global Management LLC"
+[7]: https://group.softbank/en/news/press "Press Releases | SoftBank Group Corp."
+[8]: https://www.ycombinator.com/launches "Launch YC"

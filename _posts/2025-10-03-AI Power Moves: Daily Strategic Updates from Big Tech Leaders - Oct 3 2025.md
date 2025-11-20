@@ -157,11 +157,11 @@ tags:
 
 ---
 
-[1]: https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency/?utm_source=chatgpt.com "OpenAI announces strategic collaboration with Japan's Digital Agency"
-[2]: https://www.perplexity.ai/hub/blog/comet-is-now-available-to-everyone-worldwide?utm_source=chatgpt.com "The Internet is Better on Comet"
-[3]: https://developers.googleblog.com/en/gemini-2-5-flash-image-now-ready-for-production-with-new-aspect-ratios/?utm_source=chatgpt.com "Gemini 2.5 Flash Image now ready for production with new aspect ..."
-[4]: https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/?utm_source=chatgpt.com "Accelerate development with the Amazon Bedrock AgentCore ..."
-[5]: https://www.tradingview.com/news/reuters.com%2C2025-10-03%3Anewsml_JCN102922a%3A0-fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure/?utm_source=chatgpt.com "Fujitsu expands strategic collaboration with NVIDIA to ..."
-[6]: https://www.reuters.com/business/autos-transportation/tesla-begins-selling-cybertrucks-qatar-company-says-2025-10-03/?utm_source=chatgpt.com "Tesla begins selling Cybertrucks in Qatar"
-[7]: https://newsroom.ibm.com/?utm_source=chatgpt.com "IBM Newsroom"
-[8]: https://www.anthropic.com/news?utm_source=chatgpt.com "Anthropic News"
+[1]: https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency/ "OpenAI announces strategic collaboration with Japan's Digital Agency"
+[2]: https://www.perplexity.ai/hub/blog/comet-is-now-available-to-everyone-worldwide "The Internet is Better on Comet"
+[3]: https://developers.googleblog.com/en/gemini-2-5-flash-image-now-ready-for-production-with-new-aspect-ratios/ "Gemini 2.5 Flash Image now ready for production with new aspect ..."
+[4]: https://aws.amazon.com/blogs/machine-learning/accelerate-development-with-the-amazon-bedrock-agentcore-mcpserver/ "Accelerate development with the Amazon Bedrock AgentCore ..."
+[5]: https://www.tradingview.com/news/reuters.com%2C2025-10-03%3Anewsml_JCN102922a%3A0-fujitsu-expands-strategic-collaboration-with-nvidia-to-deliver-full-stack-ai-infrastructure/ "Fujitsu expands strategic collaboration with NVIDIA to ..."
+[6]: https://www.reuters.com/business/autos-transportation/tesla-begins-selling-cybertrucks-qatar-company-says-2025-10-03/ "Tesla begins selling Cybertrucks in Qatar"
+[7]: https://newsroom.ibm.com/ "IBM Newsroom"
+[8]: https://www.anthropic.com/news "Anthropic News"

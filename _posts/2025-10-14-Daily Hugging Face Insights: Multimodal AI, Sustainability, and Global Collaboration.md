@@ -66,11 +66,11 @@ These developments underscore a shift towards more efficient, inclusive, and col
 
 ---
 
-[1]: https://huggingface.co/inclusionAI/Ling-1T?utm_source=chatgpt.com "inclusionAI/Ling-1T"
-[2]: https://huggingface.co/inclusionAI/Ring-1T?utm_source=chatgpt.com "inclusionAI/Ring-1T"
-[3]: https://huggingface.co/models?utm_source=chatgpt.com "Models – Hugging Face"
-[4]: https://huggingface.co/datasets/nvidia/Nemotron-Personas-India?utm_source=chatgpt.com "nvidia/Nemotron-Personas-India"
-[5]: https://huggingface.co/?utm_source=chatgpt.com "Hugging Face – The AI community building the future."
-[6]: https://huggingface.co/papers?q=SpaceVista-Bench&utm_source=chatgpt.com "Daily Papers"
-[7]: https://huggingface.co/papers?q=unpaired+multimodal+data&utm_source=chatgpt.com "Daily Papers"
-[8]: https://huggingface.co/papers?q=linguistic+bias+benchmarks&utm_source=chatgpt.com "Daily Papers"
+[1]: https://huggingface.co/inclusionAI/Ling-1T "inclusionAI/Ling-1T"
+[2]: https://huggingface.co/inclusionAI/Ring-1T "inclusionAI/Ring-1T"
+[3]: https://huggingface.co/models "Models – Hugging Face"
+[4]: https://huggingface.co/datasets/nvidia/Nemotron-Personas-India "nvidia/Nemotron-Personas-India"
+[5]: https://huggingface.co/ "Hugging Face – The AI community building the future."
+[6]: https://huggingface.co/papers?q=SpaceVista-Bench "Daily Papers"
+[7]: https://huggingface.co/papers?q=unpaired+multimodal+data "Daily Papers"
+[8]: https://huggingface.co/papers?q=linguistic+bias+benchmarks "Daily Papers"

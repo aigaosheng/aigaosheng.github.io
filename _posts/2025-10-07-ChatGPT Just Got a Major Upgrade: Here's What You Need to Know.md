@@ -178,4 +178,4 @@ OpenAI is raising the **bar for application layers**, turning ChatGPT into a **o
 
 ---
 
-[1]: https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/?utm_source=chatgpt.com "OpenAI launches apps inside of ChatGPT"
+[1]: https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/ "OpenAI launches apps inside of ChatGPT"

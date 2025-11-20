@@ -93,4 +93,4 @@ For more information and to try the live demo, visit the original article on Ven
 
 ---
 
-[1]: https://venturebeat.com/ai/developers-can-now-add-live-google-maps-data-to-gemini-powered-ai-app?utm_source=chatgpt.com "Developers can now add live Google Maps data to Gemini- ..."
+[1]: https://venturebeat.com/ai/developers-can-now-add-live-google-maps-data-to-gemini-powered-ai-app "Developers can now add live Google Maps data to Gemini- ..."

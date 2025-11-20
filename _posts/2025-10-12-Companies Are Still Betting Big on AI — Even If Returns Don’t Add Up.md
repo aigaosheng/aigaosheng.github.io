@@ -68,9 +68,9 @@ Source: *Companies Overpaying for AI Add to Bubble Risks, Markets Pulse* — Blo
 
 If you want, I can tighten this into a shorter social post, craft a newsletter blurb, or produce a version that’s explicitly tailored for CFOs or retail investors. Which would you prefer?
 
-[1]: https://www.bloomberg.com/news/articles/2025-10-10/companies-overpaying-for-ai-add-to-bubble-risks-markets-pulse?utm_source=chatgpt.com "Companies Overpaying for AI Add to Bubble Risks, Survey ..."
-[2]: https://oodaloop.com/briefs/technology/companies-overpaying-for-ai-add-to-bubble-risks-survey-shows/?utm_source=chatgpt.com "Companies Overpaying for AI Add to Bubble Risks, Survey Shows"
-[3]: https://www.bloomberg.com/news/videos/2025-10-08/weighing-the-risk-of-circular-ai-investment-video?utm_source=chatgpt.com "Weighing the Risk of Circular AI Investment"
-[4]: https://www.theguardian.com/business/live/2025/oct/08/spot-gold-rises-above-4000-first-time-vertu-motors-warns-profit-hit-jlr-disruption-federal-reserve-imf-business-live?utm_source=chatgpt.com "Bank of England warns of risk of AI market correction; gold hits new $4,000 an ounce record - as it happened"
-[5]: https://www.computerspeak.co/p/the-2025-state-of-ai-report-shows?utm_source=chatgpt.com "The 2025 State of AI Report shows an industry maturing"
-[6]: https://www.reuters.com/commentary/breakingviews/theres-no-such-thing-good-bubble-2025-10-09/?utm_source=chatgpt.com "There's no such thing as a 'good' bubble"
+[1]: https://www.bloomberg.com/news/articles/2025-10-10/companies-overpaying-for-ai-add-to-bubble-risks-markets-pulse "Companies Overpaying for AI Add to Bubble Risks, Survey ..."
+[2]: https://oodaloop.com/briefs/technology/companies-overpaying-for-ai-add-to-bubble-risks-survey-shows/ "Companies Overpaying for AI Add to Bubble Risks, Survey Shows"
+[3]: https://www.bloomberg.com/news/videos/2025-10-08/weighing-the-risk-of-circular-ai-investment-video "Weighing the Risk of Circular AI Investment"
+[4]: https://www.theguardian.com/business/live/2025/oct/08/spot-gold-rises-above-4000-first-time-vertu-motors-warns-profit-hit-jlr-disruption-federal-reserve-imf-business-live "Bank of England warns of risk of AI market correction; gold hits new $4,000 an ounce record - as it happened"
+[5]: https://www.computerspeak.co/p/the-2025-state-of-ai-report-shows "The 2025 State of AI Report shows an industry maturing"
+[6]: https://www.reuters.com/commentary/breakingviews/theres-no-such-thing-good-bubble-2025-10-09/ "There's no such thing as a 'good' bubble"

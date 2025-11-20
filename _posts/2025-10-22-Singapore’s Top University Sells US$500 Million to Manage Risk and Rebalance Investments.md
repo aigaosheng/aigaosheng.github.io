@@ -62,4 +62,4 @@ NUS’s decision to sell over US $500 million in private-equity and real-estate 
 
 Source: [Bloomberg article, Oct 22, 2025](https://www.bloomberg.com/news/articles/2025-10-22/national-university-of-singapore-to-sell-500-million-in-funds?embedded-checkout=true)
 
-[1]: https://www.businesstimes.com.sg/companies-markets/nus-selling-us500-million-pe-property-funds-manage-liquidity-china-exposure?utm_source=chatgpt.com "NUS selling US$500 million of PE, property funds to manage ..."
+[1]: https://www.businesstimes.com.sg/companies-markets/nus-selling-us500-million-pe-property-funds-manage-liquidity-china-exposure "NUS selling US$500 million of PE, property funds to manage ..."

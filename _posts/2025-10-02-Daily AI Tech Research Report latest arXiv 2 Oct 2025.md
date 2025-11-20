@@ -98,11 +98,11 @@ tags:
 
 ---
 
-[1]: https://arxiv.org/abs/2509.26351?utm_source=chatgpt.com "[2509.26351] LLM-Assisted Emergency Triage Benchmark"
-[2]: https://arxiv.org/abs/2509.26601?utm_source=chatgpt.com "Evaluating and Modeling Native-like Quality Across 47 ..."
-[3]: https://www.arxiv.org/abs/2509.25729?utm_source=chatgpt.com "[2509.25729] Controlled Generation for Private Synthetic Text"
-[4]: https://arxiv.org/abs/2509.26546?utm_source=chatgpt.com "[2509.26546] Towards Verified Code Reasoning by LLMs"
-[5]: https://arxiv.org/abs/2509.26433?utm_source=chatgpt.com "[2509.26433] ACT: Agentic Classification Tree"
-[6]: https://arxiv.org/abs/2509.25876?utm_source=chatgpt.com "Efficient On-Policy Reinforcement Learning via Exploration ..."
-[7]: https://www.arxiv.org/abs/2509.26041?utm_source=chatgpt.com "Accuracy Without Acknowledgement in LLM Reasoning"
-[8]: https://arxiv.org/abs/2509.26464?utm_source=chatgpt.com "[2509.26464] Extreme Self-Preference in Language Models"
+[1]: https://arxiv.org/abs/2509.26351 "[2509.26351] LLM-Assisted Emergency Triage Benchmark"
+[2]: https://arxiv.org/abs/2509.26601 "Evaluating and Modeling Native-like Quality Across 47 ..."
+[3]: https://www.arxiv.org/abs/2509.25729 "[2509.25729] Controlled Generation for Private Synthetic Text"
+[4]: https://arxiv.org/abs/2509.26546 "[2509.26546] Towards Verified Code Reasoning by LLMs"
+[5]: https://arxiv.org/abs/2509.26433 "[2509.26433] ACT: Agentic Classification Tree"
+[6]: https://arxiv.org/abs/2509.25876 "Efficient On-Policy Reinforcement Learning via Exploration ..."
+[7]: https://www.arxiv.org/abs/2509.26041 "Accuracy Without Acknowledgement in LLM Reasoning"
+[8]: https://arxiv.org/abs/2509.26464 "[2509.26464] Extreme Self-Preference in Language Models"

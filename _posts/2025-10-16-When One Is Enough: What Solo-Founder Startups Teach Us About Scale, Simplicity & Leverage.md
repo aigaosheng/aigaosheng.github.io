@@ -78,12 +78,12 @@ Below is a summary table. Because many numbers are founder-reported, treat them 
 
 ---
 
-[1]: https://blog.hubspot.com/sales/how-dylan-jacob-scaled-br%C3%BCmate-to-100m-in-5-years?utm_source=chatgpt.com "How Dylan Jacob Scaled BrüMate to $100m+ in 5 Years"
-[2]: https://www.builtincolorado.com/articles/brumate-raises-20m?utm_source=chatgpt.com "Drinkware Startup BrüMate Raises $20M to Grow Its Team"
-[3]: https://www.wearefounders.uk/how-brumate-built-a-1-1m-month-drinkware-brand-at-23/?utm_source=chatgpt.com "Case Study: How BrüMate Built a $1.1M/Month Drinkware ..."
-[4]: https://www.failory.com/interview/photopea?utm_source=chatgpt.com "Building a Photo Editor and Making $100k/mo as a Solo ..."
-[5]: https://www.wearefounders.uk/photopea-the-free-photoshop-alternative-earning-3m-a-year/?utm_source=chatgpt.com "Photopea: The Free Photoshop Alternative Earning $3M a Year"
-[6]: https://news.ycombinator.com/item?id=26769141&utm_source=chatgpt.com "Hi guys, I am Ivan, the creator of Photopea"
-[7]: https://openviewpartners.com/blog/aj-carrd/?utm_source=chatgpt.com "The SaaS Company That Accidentally Grew to 800000 Users"
-[8]: https://www.reddit.com/r/SaaS/comments/pnfzgw/hi_i_accidentally_bootstrapped_carrd_to_1m_arr_3/?utm_source=chatgpt.com "Hi, I accidentally bootstrapped Carrd to $1M ARR, 3 million ..."
-[9]: https://saasclub.io/podcast/carrd-aj-306/?utm_source=chatgpt.com "Carrd: Bootstrapping a SaaS Side-Project to $1M+ ARR"
+[1]: https://blog.hubspot.com/sales/how-dylan-jacob-scaled-br%C3%BCmate-to-100m-in-5-years "How Dylan Jacob Scaled BrüMate to $100m+ in 5 Years"
+[2]: https://www.builtincolorado.com/articles/brumate-raises-20m "Drinkware Startup BrüMate Raises $20M to Grow Its Team"
+[3]: https://www.wearefounders.uk/how-brumate-built-a-1-1m-month-drinkware-brand-at-23/ "Case Study: How BrüMate Built a $1.1M/Month Drinkware ..."
+[4]: https://www.failory.com/interview/photopea "Building a Photo Editor and Making $100k/mo as a Solo ..."
+[5]: https://www.wearefounders.uk/photopea-the-free-photoshop-alternative-earning-3m-a-year/ "Photopea: The Free Photoshop Alternative Earning $3M a Year"
+[6]: https://news.ycombinator.com/item?id=26769141 "Hi guys, I am Ivan, the creator of Photopea"
+[7]: https://openviewpartners.com/blog/aj-carrd/ "The SaaS Company That Accidentally Grew to 800000 Users"
+[8]: https://www.reddit.com/r/SaaS/comments/pnfzgw/hi_i_accidentally_bootstrapped_carrd_to_1m_arr_3/ "Hi, I accidentally bootstrapped Carrd to $1M ARR, 3 million ..."
+[9]: https://saasclub.io/podcast/carrd-aj-306/ "Carrd: Bootstrapping a SaaS Side-Project to $1M+ ARR"

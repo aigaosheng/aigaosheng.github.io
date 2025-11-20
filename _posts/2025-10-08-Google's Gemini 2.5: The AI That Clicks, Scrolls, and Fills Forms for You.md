@@ -12,7 +12,7 @@ tags:
 - Browser automation
 ---
 ---
-[![Google reportedly developing new AI that can automate web browsing tasks in Chrome - SiliconANGLE](https://images.openai.com/thumbnails/url/EtJVLnicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4MdKnyLw82CjUKDcnxT8oNjiyxMC2o8LUoqAxPLw4MLPBL9jByyQgqzPYoVyu2NTQAABQlJXE)](https://siliconangle.com/2024/10/27/google-reportedly-developing-new-ai-can-automate-web-browsing-tasks-chrome/?utm_source=chatgpt.com)
+[![Google reportedly developing new AI that can automate web browsing tasks in Chrome - SiliconANGLE](https://images.openai.com/thumbnails/url/EtJVLnicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4MdKnyLw82CjUKDcnxT8oNjiyxMC2o8LUoqAxPLw4MLPBL9jByyQgqzPYoVyu2NTQAABQlJXE)](https://siliconangle.com/2024/10/27/google-reportedly-developing-new-ai-can-automate-web-browsing-tasks-chrome/)
 
 **Google's Gemini 2.5: The AI That Clicks, Scrolls, and Fills Forms for You**
 
@@ -59,4 +59,4 @@ For a deeper dive into Gemini 2.5 Computer Use, visit the original article on Ve
 
 ---
 
-[1]: https://venturebeat.com/ai/googles-ai-can-now-surf-the-web-for-you-click-on-buttons-and-fill-out-forms?utm_source=chatgpt.com "Google's AI can now surf the web for you, click on buttons, ..."
+[1]: https://venturebeat.com/ai/googles-ai-can-now-surf-the-web-for-you-click-on-buttons-and-fill-out-forms "Google's AI can now surf the web for you, click on buttons, ..."

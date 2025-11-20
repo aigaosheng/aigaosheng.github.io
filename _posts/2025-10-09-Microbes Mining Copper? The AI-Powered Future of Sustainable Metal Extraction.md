@@ -64,4 +64,4 @@ For a deeper dive into microbial mining and its potential to reshape the copper 
 
 ---
 
-[1]: https://spectrum.ieee.org/ai-copper?utm_source=chatgpt.com "As AI Spurs Copper Demand, Microbes Offer a Solution"
+[1]: https://spectrum.ieee.org/ai-copper "As AI Spurs Copper Demand, Microbes Offer a Solution"

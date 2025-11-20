@@ -173,12 +173,12 @@ Thinking Machines (co-founded by former OpenAI leaders, incl. Mira Murati) launc
 
 ---
 
-[1]: https://venturebeat.com/ai/thinking-machines-first-official-product-is-here-meet-tinker-an-api-for?utm_source=chatgpt.com "Thinking Machines' first official product is here: meet Tinker ..."
-[2]: https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune?utm_source=chatgpt.com "Mira Murati's Stealth AI Lab Launches Its First Product"
-[3]: https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/?utm_source=chatgpt.com "Thinking Machines Lab Raises a Record $2 Billion ..."
-[4]: https://theheadandtale.com/ai-emerging-tech/thinking-machines-lab-unveils-first-product-tinker/?utm_source=chatgpt.com "Thinking Machines Lab unveils first product Tinker"
-[5]: https://www.marketsandmarkets.com/Market-Reports/large-language-model-llm-market-102137956.html?utm_source=chatgpt.com "Large Language Model (LLM) Market"
-[6]: https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-ai-platform-market-113162926.html?utm_source=chatgpt.com "AI Platform Market Size, Share and Global Forecast to 2030"
-[7]: https://huggingface.co/docs/transformers/en/training?utm_source=chatgpt.com "Fine-tuning"
-[8]: https://thinkingmachines.ai/?utm_source=chatgpt.com "Thinking Machines Lab"
-[9]: https://docs.mosaicml.com/projects/mcli/en/latest/finetuning/finetuning.html?utm_source=chatgpt.com "Finetuning - Databricks Mosaic AI Training"
+[1]: https://venturebeat.com/ai/thinking-machines-first-official-product-is-here-meet-tinker-an-api-for "Thinking Machines' first official product is here: meet Tinker ..."
+[2]: https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune "Mira Murati's Stealth AI Lab Launches Its First Product"
+[3]: https://www.wired.com/story/thinking-machines-lab-mira-murati-funding/ "Thinking Machines Lab Raises a Record $2 Billion ..."
+[4]: https://theheadandtale.com/ai-emerging-tech/thinking-machines-lab-unveils-first-product-tinker/ "Thinking Machines Lab unveils first product Tinker"
+[5]: https://www.marketsandmarkets.com/Market-Reports/large-language-model-llm-market-102137956.html "Large Language Model (LLM) Market"
+[6]: https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-ai-platform-market-113162926.html "AI Platform Market Size, Share and Global Forecast to 2030"
+[7]: https://huggingface.co/docs/transformers/en/training "Fine-tuning"
+[8]: https://thinkingmachines.ai/ "Thinking Machines Lab"
+[9]: https://docs.mosaicml.com/projects/mcli/en/latest/finetuning/finetuning.html "Finetuning - Databricks Mosaic AI Training"

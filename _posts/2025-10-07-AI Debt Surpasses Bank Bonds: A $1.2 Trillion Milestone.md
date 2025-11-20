@@ -12,7 +12,7 @@ tags:
 - Financial Stability
 ---
 ---
-[![JPMorgan Says $1.2 Trillion Debt Tied to AI Tops Bank High Grade ...](https://images.openai.com/thumbnails/url/eyGzaXicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4M93YuzLDUTXIMjgxNCTOtMPHIjDT3dC5NNA1IL3d0DjQtc3aPd4nMM85OVyu2NTQAAPenJFU)](https://www.bloomberg.com/news/articles/2025-10-07/jpmorgan-says-1-2-trillion-debt-tied-to-ai-tops-bank-high-grade?utm_source=chatgpt.com)
+[![JPMorgan Says $1.2 Trillion Debt Tied to AI Tops Bank High Grade ...](https://images.openai.com/thumbnails/url/eyGzaXicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4M93YuzLDUTXIMjgxNCTOtMPHIjDT3dC5NNA1IL3d0DjQtc3aPd4nMM85OVyu2NTQAAPenJFU)](https://www.bloomberg.com/news/articles/2025-10-07/jpmorgan-says-1-2-trillion-debt-tied-to-ai-tops-bank-high-grade)
 
 **AI Debt Surpasses Bank Bonds: A $1.2 Trillion Milestone**
 

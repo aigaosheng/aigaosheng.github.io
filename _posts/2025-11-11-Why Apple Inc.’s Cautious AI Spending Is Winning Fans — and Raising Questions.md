@@ -54,6 +54,6 @@ Rather than chasing headlines with massive AI deals, Apple appears to be stickin
 
 Source link: [https://www.bloomberg.com/news/articles/2025-11-11/apple-s-restraint-finds-fans-as-ai-spending-faces-scrutiny?srnd=phx-technology&embedded-checkout=true](https://www.bloomberg.com/news/articles/2025-11-11/apple-s-restraint-finds-fans-as-ai-spending-faces-scrutiny?srnd=phx-technology&embedded-checkout=true)
 
-[1]: https://www.bloomberg.com/news/articles/2025-11-11/apple-s-restraint-finds-fans-as-ai-spending-faces-scrutiny?utm_source=chatgpt.com "Apple's Restraint Finds Fans as AI Spending Faces Scrutiny"
-[2]: https://www.investors.com/news/technology/apple-stock-problem-apple-ai/?utm_source=chatgpt.com "Apple's 'Invisible' AI Strategy Weighs On Its Stock. What Worries Wall Street."
-[3]: https://www.marketwatch.com/story/apple-now-faces-a-problem-far-bigger-than-tariffs-or-weak-iphone-sales-6c58c8e1?utm_source=chatgpt.com "Apple now faces a problem far bigger than tariffs or weak iPhone sales"
+[1]: https://www.bloomberg.com/news/articles/2025-11-11/apple-s-restraint-finds-fans-as-ai-spending-faces-scrutiny "Apple's Restraint Finds Fans as AI Spending Faces Scrutiny"
+[2]: https://www.investors.com/news/technology/apple-stock-problem-apple-ai/ "Apple's 'Invisible' AI Strategy Weighs On Its Stock. What Worries Wall Street."
+[3]: https://www.marketwatch.com/story/apple-now-faces-a-problem-far-bigger-than-tariffs-or-weak-iphone-sales-6c58c8e1 "Apple now faces a problem far bigger than tariffs or weak iPhone sales"

@@ -73,11 +73,11 @@ The recent market downturn in Hong Kong reflects global apprehensions about the 
 
 ---
 
-* [South China Morning Post](https://www.scmp.com/business/china-business/article/3328178/hong-kong-stocks-drop-most-2-weeks-amid-ai-bubble-fears-track-wall-street?utm_source=chatgpt.com)
-* [South China Morning Post](https://www.scmp.com/economy/china-economy/article/3328200/chinas-central-bank-aids-golds-record-setting-run-11-month-buying-streak?utm_source=chatgpt.com)
-* [South China Morning Post](https://www.scmp.com/news/china/article/3328168/us-lawmakers-push-expanded-chip-export-curbs-china?utm_source=chatgpt.com)
+* [South China Morning Post](https://www.scmp.com/business/china-business/article/3328178/hong-kong-stocks-drop-most-2-weeks-amid-ai-bubble-fears-track-wall-street)
+* [South China Morning Post](https://www.scmp.com/economy/china-economy/article/3328200/chinas-central-bank-aids-golds-record-setting-run-11-month-buying-streak)
+* [South China Morning Post](https://www.scmp.com/news/china/article/3328168/us-lawmakers-push-expanded-chip-export-curbs-china)
 
-[1]: https://www.bloomberg.com/quote/HSI%3AIND?utm_source=chatgpt.com "HSI Quote - Hang Seng Index"
-[2]: https://www.scmp.com/business/china-business/article/3328178/hong-kong-stocks-drop-most-2-weeks-amid-ai-bubble-fears-track-wall-street?utm_source=chatgpt.com "Hong Kong stocks fall as AI bubble fears grow amid Wall ..."
-[3]: https://www.scmp.com/economy/china-economy/article/3328200/chinas-central-bank-aids-golds-record-setting-run-11-month-buying-streak?utm_source=chatgpt.com "China’s central bank aids gold’s record-setting run with 11-month buying streak"
-[4]: https://www.scmp.com/news/china/article/3328168/us-lawmakers-push-expanded-chip-export-curbs-china?utm_source=chatgpt.com "US lawmakers push expanded chip export curbs on China"
+[1]: https://www.bloomberg.com/quote/HSI%3AIND "HSI Quote - Hang Seng Index"
+[2]: https://www.scmp.com/business/china-business/article/3328178/hong-kong-stocks-drop-most-2-weeks-amid-ai-bubble-fears-track-wall-street "Hong Kong stocks fall as AI bubble fears grow amid Wall ..."
+[3]: https://www.scmp.com/economy/china-economy/article/3328200/chinas-central-bank-aids-golds-record-setting-run-11-month-buying-streak "China’s central bank aids gold’s record-setting run with 11-month buying streak"
+[4]: https://www.scmp.com/news/china/article/3328168/us-lawmakers-push-expanded-chip-export-curbs-china "US lawmakers push expanded chip export curbs on China"

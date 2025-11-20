@@ -67,6 +67,6 @@ In short, the current AI investment surge is doing more than powering server far
 
 Source: [https://www.bloomberg.com/news/articles/2025-10-31/ai-boom-drives-us-gdp-growth-higher-stock-prices?srnd=phx-ai&embedded-checkout=true](https://www.bloomberg.com/news/articles/2025-10-31/ai-boom-drives-us-gdp-growth-higher-stock-prices?srnd=phx-ai&embedded-checkout=true)
 
-[1]: https://www.investmentnews.com/equities/ai-led-investments-are-driving-us-economic-growth/262819?utm_source=chatgpt.com "AI-led investments are driving US economic growth"
-[2]: https://www.investmentnews.com/equities/bofas-hartnett-sees-gold-china-stocks-as-best-ai-boom-hedges/262823?utm_source=chatgpt.com "BofA’s Hartnett sees gold, China stocks as best AI boom hedges"
-[3]: https://www.bloomberg.com/opinion/articles/2025-10-15/ai-effect-on-us-economy-is-exaggerated?utm_source=chatgpt.com "Three Exaggerations About the US Economy Right Now"
+[1]: https://www.investmentnews.com/equities/ai-led-investments-are-driving-us-economic-growth/262819 "AI-led investments are driving US economic growth"
+[2]: https://www.investmentnews.com/equities/bofas-hartnett-sees-gold-china-stocks-as-best-ai-boom-hedges/262823 "BofA’s Hartnett sees gold, China stocks as best AI boom hedges"
+[3]: https://www.bloomberg.com/opinion/articles/2025-10-15/ai-effect-on-us-economy-is-exaggerated "Three Exaggerations About the US Economy Right Now"

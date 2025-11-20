@@ -55,17 +55,17 @@ FundingPips presents a mixed reputation within the trading community. While some
 
 ---
 
-* [Reddit](https://www.reddit.com/r/Forex/comments/1e9nyb5/fundingpips_is_a_scam/?utm_source=chatgpt.com)
-* [Reddit](https://www.reddit.com/r/Forex/comments/1j8pxid/funding_pips_paying_to_remove_bad_reviews/?utm_source=chatgpt.com)
-* [Reddit](https://www.reddit.com/r/IslamicFinance/comments/1knf2is/concern_about_how_prop_firm_funding_pips_uses_our/?utm_source=chatgpt.com)
+* [Reddit](https://www.reddit.com/r/Forex/comments/1e9nyb5/fundingpips_is_a_scam/)
+* [Reddit](https://www.reddit.com/r/Forex/comments/1j8pxid/funding_pips_paying_to_remove_bad_reviews/)
+* [Reddit](https://www.reddit.com/r/IslamicFinance/comments/1knf2is/concern_about_how_prop_firm_funding_pips_uses_our/)
 
-[1]: https://www.dailyforex.com/forex-brokers/fundingpips-review?utm_source=chatgpt.com "FundingPips Prop Firm Review - All You Need to Know, Updated 2025"
-[2]: https://www.reddit.com/r/Forex/comments/1e9nyb5/fundingpips_is_a_scam/?utm_source=chatgpt.com "FUNDINGPIPS IS A SCAM : r/Forex - Reddit"
-[3]: https://www.reddit.com/r/Forex/comments/1erxiid/funding_pips_scam/?utm_source=chatgpt.com "r/Forex - Funding pips scam"
-[4]: https://www.reddit.com/r/Forex/comments/1j8pxid/funding_pips_paying_to_remove_bad_reviews/?utm_source=chatgpt.com "Funding pips paying to remove bad reviews : r/Forex"
-[5]: https://www.reddit.com/r/IslamicFinance/comments/1knf2is/concern_about_how_prop_firm_funding_pips_uses_our/?utm_source=chatgpt.com "Concern About How Prop Firm Funding Pips Uses Our ..."
-[6]: https://ca.trustpilot.com/review/fundingpips.com?utm_source=chatgpt.com "Read Customer Service Reviews of fundingpips.com - Trustpilot"
-[7]: https://propfirmmatch.com/prop-firms/fundingpips/reviews?utm_source=chatgpt.com "FundingPips Prop Firm Reviews"
-[8]: https://propfirmmatch.com/prop-firms/funding-pips/reviews?page=14&tab=reviews&utm_source=chatgpt.com "FundingPips Prop Firm Reviews | Prop Firm Match"
-[9]: https://www.wikifx.com/en/dealer/3093812795.html?utm_source=chatgpt.com "Funding Pips Review, Forex Broker&Trading Markets, Legit ... - WikiFX"
-[10]: https://forex.wikibit.com/en/brokers/safe/funding-pips-3093812795.html?utm_source=chatgpt.com "Is Funding Pips Broker Safe, Legal or Scam 2025 - Forex Broker"
+[1]: https://www.dailyforex.com/forex-brokers/fundingpips-review "FundingPips Prop Firm Review - All You Need to Know, Updated 2025"
+[2]: https://www.reddit.com/r/Forex/comments/1e9nyb5/fundingpips_is_a_scam/ "FUNDINGPIPS IS A SCAM : r/Forex - Reddit"
+[3]: https://www.reddit.com/r/Forex/comments/1erxiid/funding_pips_scam/ "r/Forex - Funding pips scam"
+[4]: https://www.reddit.com/r/Forex/comments/1j8pxid/funding_pips_paying_to_remove_bad_reviews/ "Funding pips paying to remove bad reviews : r/Forex"
+[5]: https://www.reddit.com/r/IslamicFinance/comments/1knf2is/concern_about_how_prop_firm_funding_pips_uses_our/ "Concern About How Prop Firm Funding Pips Uses Our ..."
+[6]: https://ca.trustpilot.com/review/fundingpips.com "Read Customer Service Reviews of fundingpips.com - Trustpilot"
+[7]: https://propfirmmatch.com/prop-firms/fundingpips/reviews "FundingPips Prop Firm Reviews"
+[8]: https://propfirmmatch.com/prop-firms/funding-pips/reviews?page=14&tab=reviews "FundingPips Prop Firm Reviews | Prop Firm Match"
+[9]: https://www.wikifx.com/en/dealer/3093812795.html "Funding Pips Review, Forex Broker&Trading Markets, Legit ... - WikiFX"
+[10]: https://forex.wikibit.com/en/brokers/safe/funding-pips-3093812795.html "Is Funding Pips Broker Safe, Legal or Scam 2025 - Forex Broker"

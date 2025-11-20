@@ -38,5 +38,5 @@ Nintendo's ambitious production plan for the Switch 2 underscores its commitment
 
 For more details, read the full article here: [Bloomberg Article](https://www.bloomberg.com/news/articles/2025-10-17/nintendo-switch-2-production-plan-25-million-units-by-march-2026)
 
-[1]: https://www.bloomberg.com/news/articles/2025-10-17/nintendo-switch-2-production-plan-25-million-units-by-march-2026?utm_source=chatgpt.com "Nintendo Switch 2 Production Plan: 25 Million Units by ..."
-[2]: https://www.bloomberg.com/news/newsletters/2025-10-17/solaris-ties-its-future-to-xai-s-success-in-the-ai-boom?utm_source=chatgpt.com "Solaris Ties Its Future to xAI's Success in the AI Boom"
+[1]: https://www.bloomberg.com/news/articles/2025-10-17/nintendo-switch-2-production-plan-25-million-units-by-march-2026 "Nintendo Switch 2 Production Plan: 25 Million Units by ..."
+[2]: https://www.bloomberg.com/news/newsletters/2025-10-17/solaris-ties-its-future-to-xai-s-success-in-the-ai-boom "Solaris Ties Its Future to xAI's Success in the AI Boom"

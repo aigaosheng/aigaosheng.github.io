@@ -76,8 +76,8 @@ permalink: /Weekly AI & Machine Learning Research Update - Breakthroughs in Long
 
 ---
 
-[1]: https://arxiv.org/pdf/2510.23649?utm_source=chatgpt.com "Efficient Low Rank Attention for Long-Context Inference in ..."
-[2]: https://arxiv.org/pdf/2510.22510?utm_source=chatgpt.com "CANDI: Hybrid Discrete-Continuous Diffusion Models"
-[3]: https://arxiv.org/pdf/2510.22512?utm_source=chatgpt.com "Transitive RL: Value Learning via Divide and Conquer"
-[4]: https://arxiv.org/pdf/2510.22363?utm_source=chatgpt.com "Bias Begins with Data: The FairGround Corpus for Robust ..."
-[5]: https://arxiv.org/pdf/2510.22852?utm_source=chatgpt.com "Encoder-Decoder Diffusion Language Models for Efficient ..."
+[1]: https://arxiv.org/pdf/2510.23649 "Efficient Low Rank Attention for Long-Context Inference in ..."
+[2]: https://arxiv.org/pdf/2510.22510 "CANDI: Hybrid Discrete-Continuous Diffusion Models"
+[3]: https://arxiv.org/pdf/2510.22512 "Transitive RL: Value Learning via Divide and Conquer"
+[4]: https://arxiv.org/pdf/2510.22363 "Bias Begins with Data: The FairGround Corpus for Robust ..."
+[5]: https://arxiv.org/pdf/2510.22852 "Encoder-Decoder Diffusion Language Models for Efficient ..."

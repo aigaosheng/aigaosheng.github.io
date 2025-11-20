@@ -92,9 +92,9 @@ AI headlines are the market’s current engine — they can fuel multi-day ralli
 
 ---
 
-[1]: https://www.barrons.com/articles/alibaba-stock-china-ai-boom-48f91d38?utm_source=chatgpt.com "Alibaba Stock Is on a Tear. Why China AI Excitement Is Building."
-[2]: https://www.bloomberg.com/news/newsletters/2025-09-04/china-s-1-2-trillion-stock-market-rally-has-beijing-nervous?utm_source=chatgpt.com "China's $1.2 Trillion Stock Market Rally Has Beijing Nervous"
-[3]: https://news.sina.com.cn/zx/ds/2025-10-04/doc-infstpfh4083841.shtml?utm_source=chatgpt.com "财经晚报AI速递：今日财经热点一览丨2025年10月4日"
-[4]: https://www.caixinglobal.com/?utm_source=chatgpt.com "Caixin Global - Latest Business and Financial News on China ..."
-[5]: https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&featurecode=baiduhot9&isnewpage=1&lfid=1008082d190ea3f97eb5d79c36a6b8184bd09c&luicode=10000011&utm_source=chatgpt.com "#阿里巴巴#"
-[6]: https://www.zhihu.com/question/1955723194485938088/answer/1955745080414560344?utm_source=chatgpt.com "中国股市：2025年10月-12月，什么股票逻辑最硬、势头最猛?"
+[1]: https://www.barrons.com/articles/alibaba-stock-china-ai-boom-48f91d38 "Alibaba Stock Is on a Tear. Why China AI Excitement Is Building."
+[2]: https://www.bloomberg.com/news/newsletters/2025-09-04/china-s-1-2-trillion-stock-market-rally-has-beijing-nervous "China's $1.2 Trillion Stock Market Rally Has Beijing Nervous"
+[3]: https://news.sina.com.cn/zx/ds/2025-10-04/doc-infstpfh4083841.shtml "财经晚报AI速递：今日财经热点一览丨2025年10月4日"
+[4]: https://www.caixinglobal.com/ "Caixin Global - Latest Business and Financial News on China ..."
+[5]: https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&featurecode=baiduhot9&isnewpage=1&lfid=1008082d190ea3f97eb5d79c36a6b8184bd09c&luicode=10000011 "#阿里巴巴#"
+[6]: https://www.zhihu.com/question/1955723194485938088/answer/1955745080414560344 "中国股市：2025年10月-12月，什么股票逻辑最硬、势头最猛?"

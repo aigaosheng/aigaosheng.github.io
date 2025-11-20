@@ -75,12 +75,12 @@ In short, Brookfield is positioning itself as a **strategic infrastructure partn
 
 **Source:** Reuters / *Tech in Asia* ([Investing.com][1])
 
-* [reuters.com](https://www.reuters.com/business/brookfield-seeks-10-billion-new-ai-infrastructure-fund-wsj-reports-2025-11-19/?utm_source=chatgpt.com)
-* [ft.com](https://www.ft.com/content/b5381dac-15dd-46d5-a560-0f62386a961e?utm_source=chatgpt.com)
-* [reuters.com](https://www.reuters.com/technology/brookfield-asset-management-plans-10-bln-data-centre-ai-sweden-2025-06-04/?utm_source=chatgpt.com)
+* [reuters.com](https://www.reuters.com/business/brookfield-seeks-10-billion-new-ai-infrastructure-fund-wsj-reports-2025-11-19/)
+* [ft.com](https://www.ft.com/content/b5381dac-15dd-46d5-a560-0f62386a961e)
+* [reuters.com](https://www.reuters.com/technology/brookfield-asset-management-plans-10-bln-data-centre-ai-sweden-2025-06-04/)
 
-[1]: https://www.investing.com/news/stock-market-news/brookfield-seeks-10-billion-for-new-ai-infrastructure-fund-wsj-reports-4366708?utm_source=chatgpt.com "Brookfield seeks $10 billion for new AI infrastructure fund, WSJ reports By Reuters"
-[2]: https://m.au.investing.com/news/stock-market-news/brookfield-launches-10-billion-ai-infrastructure-fund-with-nvidia-backing--report-93CH-4133803?ampMode=1&utm_source=chatgpt.com "Brookfield launches $10 billion AI infrastructure fund with Nvidia backing - report By Investing.com"
-[3]: https://coincentral.com/brookfield-asset-management-ltd-bam-stock-new-10-billion-ai-infrastructure-fund-targets-massive-buildout/?utm_source=chatgpt.com "Brookfield Asset Management Ltd. (BAM) Stock: New $10 Billion AI Infrastructure Fund Targets Massive Buildout"
-[4]: https://www.tipranks.com/news/brookfield-asset-management-bam-seeks-10b-for-ai-infrastructure-fund-gains-support-from-nvidia-kia?utm_source=chatgpt.com "Brookfield Asset Management (BAM) Seeks $10B for AI Infrastructure Fund, Gains Support from Nvidia, KIA - TipRanks.com"
-[5]: https://www.brookfield.com/sites/default/files/2025-08/Brookfield_Building_the_Backbone_of_AI.pdf?utm_source=chatgpt.com "Building the"
+[1]: https://www.investing.com/news/stock-market-news/brookfield-seeks-10-billion-for-new-ai-infrastructure-fund-wsj-reports-4366708 "Brookfield seeks $10 billion for new AI infrastructure fund, WSJ reports By Reuters"
+[2]: https://m.au.investing.com/news/stock-market-news/brookfield-launches-10-billion-ai-infrastructure-fund-with-nvidia-backing--report-93CH-4133803?ampMode=1 "Brookfield launches $10 billion AI infrastructure fund with Nvidia backing - report By Investing.com"
+[3]: https://coincentral.com/brookfield-asset-management-ltd-bam-stock-new-10-billion-ai-infrastructure-fund-targets-massive-buildout/ "Brookfield Asset Management Ltd. (BAM) Stock: New $10 Billion AI Infrastructure Fund Targets Massive Buildout"
+[4]: https://www.tipranks.com/news/brookfield-asset-management-bam-seeks-10b-for-ai-infrastructure-fund-gains-support-from-nvidia-kia "Brookfield Asset Management (BAM) Seeks $10B for AI Infrastructure Fund, Gains Support from Nvidia, KIA - TipRanks.com"
+[5]: https://www.brookfield.com/sites/default/files/2025-08/Brookfield_Building_the_Backbone_of_AI.pdf "Building the"

@@ -79,20 +79,20 @@ This aggressive model cadence also positions Alibaba as a more open-innovation l
 
 ---
 
-* [Reuters](https://www.reuters.com/world/china/alibaba-launches-qwen3-max-ai-model-with-more-than-trillion-parameters-2025-09-24/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/technology/artificial-intelligence/chinas-manus-ai-announces-partnership-with-alibabas-qwen-team-2025-03-11/?utm_source=chatgpt.com)
-* [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/alibaba-takes-on-meta-xiaomi-with-quark-ai-smartglasses/articleshow/122957356.cms?utm_source=chatgpt.com)
+* [Reuters](https://www.reuters.com/world/china/alibaba-launches-qwen3-max-ai-model-with-more-than-trillion-parameters-2025-09-24/)
+* [Reuters](https://www.reuters.com/technology/artificial-intelligence/chinas-manus-ai-announces-partnership-with-alibabas-qwen-team-2025-03-11/)
+* [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/alibaba-takes-on-meta-xiaomi-with-quark-ai-smartglasses/articleshow/122957356.cms)
 
-[1]: https://www.reuters.com/world/china/alibaba-launches-qwen3-max-ai-model-with-more-than-trillion-parameters-2025-09-24/?utm_source=chatgpt.com "Alibaba launches Qwen3-Max AI model with more than 1 trillion parameters"
-[2]: https://www.scmp.com/tech/big-tech/article/3319101/alibaba-upgrades-flagship-qwen3-model-outperform-openai-deepseek-maths-coding?module=china_future_tech&pgtype=homepage&utm_source=chatgpt.com "Alibaba upgrades flagship Qwen3 model to outperform OpenAI, DeepSeek in maths, coding | South China Morning Post"
-[3]: https://arxiv.org/abs/2506.05176?utm_source=chatgpt.com "Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models"
-[4]: https://arxiv.org/abs/2509.17765?utm_source=chatgpt.com "Qwen3-Omni Technical Report"
-[5]: https://www.alibabacloud.com/en/press-room/alibabacloudunveilsstrategicroadmaps?utm_source=chatgpt.com "Alibaba Cloud Unveils Strategic Roadmaps for the Next Generation AI Innovations"
-[6]: https://www.marktechpost.com/2025/04/28/alibaba-qwen-team-just-released-qwen3-the-latest-generation-of-large-language-models-in-qwen-series-offering-a-comprehensive-suite-of-dense-and-mixture-of-experts-moe-models/?utm_source=chatgpt.com "Alibaba Qwen Team Just Released Qwen3: The Latest Generation of Large Language Models in Qwen Series, Offering a Comprehensive Suite of Dense and Mixture-of-Experts (MoE) Models - MarkTechPost"
-[7]: https://techcrunch.com/2025/04/28/alibaba-unveils-qwen-3-a-family-of-hybrid-ai-reasoning-models/?utm_source=chatgpt.com "Alibaba unveils Qwen3, a family of 'hybrid' AI reasoning models | TechCrunch"
-[8]: https://arxiv.org/abs/2505.23558?utm_source=chatgpt.com "Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information"
-[9]: https://www.reddit.com//r/gpt5/comments/1nnif8f?utm_source=chatgpt.com "Alibaba Qwen Team Releases FP8 Builds for AI Model Efficiency"
-[10]: https://medium.com/%40leucopsis/qwen-3-max-preview-alibabas-trillion-parameter-llm-e9cb6f982042?utm_source=chatgpt.com "Qwen-3-Max-Preview: Alibaba’s Trillion-Parameter LLM | by Barnacle Goose | Sep, 2025 | Medium"
-[11]: https://www.reddit.com//r/LocalLLaMA/comments/1m5owi8?utm_source=chatgpt.com "Qwen3-235B-A22B-2507 Released!"
-[12]: https://www.reddit.com/r/machinelearningnews/comments/1l4jq26?utm_source=chatgpt.com "🆕 Alibaba Qwen Team Releases Qwen3-Embedding and Qwen3-Reranker Series – Redefining Multilingual Embedding and Ranking Standards"
-[13]: https://ts2.tech/en/alibaba-baba-stock-on-13-november-2025-qwen-ai-app-revamp-singles-day-signals-and-big-money-flows/?utm_source=chatgpt.com "Alibaba (BABA) Stock on 13 November 2025: Qwen AI App Revamp, Singles’ Day Signals and Big-Money Flows"
+[1]: https://www.reuters.com/world/china/alibaba-launches-qwen3-max-ai-model-with-more-than-trillion-parameters-2025-09-24/ "Alibaba launches Qwen3-Max AI model with more than 1 trillion parameters"
+[2]: https://www.scmp.com/tech/big-tech/article/3319101/alibaba-upgrades-flagship-qwen3-model-outperform-openai-deepseek-maths-coding?module=china_future_tech&pgtype=homepage "Alibaba upgrades flagship Qwen3 model to outperform OpenAI, DeepSeek in maths, coding | South China Morning Post"
+[3]: https://arxiv.org/abs/2506.05176 "Qwen3 Embedding: Advancing Text Embedding and Reranking Through Foundation Models"
+[4]: https://arxiv.org/abs/2509.17765 "Qwen3-Omni Technical Report"
+[5]: https://www.alibabacloud.com/en/press-room/alibabacloudunveilsstrategicroadmaps "Alibaba Cloud Unveils Strategic Roadmaps for the Next Generation AI Innovations"
+[6]: https://www.marktechpost.com/2025/04/28/alibaba-qwen-team-just-released-qwen3-the-latest-generation-of-large-language-models-in-qwen-series-offering-a-comprehensive-suite-of-dense-and-mixture-of-experts-moe-models/ "Alibaba Qwen Team Just Released Qwen3: The Latest Generation of Large Language Models in Qwen Series, Offering a Comprehensive Suite of Dense and Mixture-of-Experts (MoE) Models - MarkTechPost"
+[7]: https://techcrunch.com/2025/04/28/alibaba-unveils-qwen-3-a-family-of-hybrid-ai-reasoning-models/ "Alibaba unveils Qwen3, a family of 'hybrid' AI reasoning models | TechCrunch"
+[8]: https://arxiv.org/abs/2505.23558 "Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information"
+[9]: https://www.reddit.com//r/gpt5/comments/1nnif8f "Alibaba Qwen Team Releases FP8 Builds for AI Model Efficiency"
+[10]: https://medium.com/%40leucopsis/qwen-3-max-preview-alibabas-trillion-parameter-llm-e9cb6f982042 "Qwen-3-Max-Preview: Alibaba’s Trillion-Parameter LLM | by Barnacle Goose | Sep, 2025 | Medium"
+[11]: https://www.reddit.com//r/LocalLLaMA/comments/1m5owi8 "Qwen3-235B-A22B-2507 Released!"
+[12]: https://www.reddit.com/r/machinelearningnews/comments/1l4jq26 "🆕 Alibaba Qwen Team Releases Qwen3-Embedding and Qwen3-Reranker Series – Redefining Multilingual Embedding and Ranking Standards"
+[13]: https://ts2.tech/en/alibaba-baba-stock-on-13-november-2025-qwen-ai-app-revamp-singles-day-signals-and-big-money-flows/ "Alibaba (BABA) Stock on 13 November 2025: Qwen AI App Revamp, Singles’ Day Signals and Big-Money Flows"

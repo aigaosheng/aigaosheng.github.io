@@ -75,9 +75,9 @@ Aurora’s ambitions for driverless freight trucking hold undeniable promise—b
 
 *Source:* [Bloomberg Opinion: *Driverless Freight Trucks Are Off to a Bumpy Start for Aurora*](https://www.bloomberg.com/opinion/articles/2025-11-03/driverless-freight-trucks-are-off-to-a-bumpy-start-for-aurora?srnd=phx-opinion&embedded-checkout=true)
 
-[1]: https://www.bloomberg.com/opinion/articles/2025-11-03/driverless-freight-trucks-are-off-to-a-bumpy-start-for-aurora?utm_source=chatgpt.com "Driverless Freight Trucks Are Off to a Bumpy Start for Aurora"
-[2]: https://www.axios.com/2025/05/21/aurora-s-driverless-speed-bump-future-of-mobility?utm_source=chatgpt.com "Aurora's driverless speed bump"
-[3]: https://talkinglogistics.com/2025/01/13/the-long-bumpy-road-to-deploying-driverless-trucks-at-scale/?utm_source=chatgpt.com "The Long, Bumpy Road to Deploying Driverless Trucks at ..."
-[4]: https://x.com/opinion/status/1985312279160652066?utm_source=chatgpt.com "Bloomberg Opinion on X"
-[5]: https://en.wikipedia.org/wiki/Self-driving_truck?utm_source=chatgpt.com "Self-driving truck"
-[6]: https://www.axios.com/newsletters/axios-future-of-mobility-7bbd94b0-1c87-11f0-8fe4-b5384e1e6ff3?utm_source=chatgpt.com "🤖 Robot truck drivers"
+[1]: https://www.bloomberg.com/opinion/articles/2025-11-03/driverless-freight-trucks-are-off-to-a-bumpy-start-for-aurora "Driverless Freight Trucks Are Off to a Bumpy Start for Aurora"
+[2]: https://www.axios.com/2025/05/21/aurora-s-driverless-speed-bump-future-of-mobility "Aurora's driverless speed bump"
+[3]: https://talkinglogistics.com/2025/01/13/the-long-bumpy-road-to-deploying-driverless-trucks-at-scale/ "The Long, Bumpy Road to Deploying Driverless Trucks at ..."
+[4]: https://x.com/opinion/status/1985312279160652066 "Bloomberg Opinion on X"
+[5]: https://en.wikipedia.org/wiki/Self-driving_truck "Self-driving truck"
+[6]: https://www.axios.com/newsletters/axios-future-of-mobility-7bbd94b0-1c87-11f0-8fe4-b5384e1e6ff3 "🤖 Robot truck drivers"

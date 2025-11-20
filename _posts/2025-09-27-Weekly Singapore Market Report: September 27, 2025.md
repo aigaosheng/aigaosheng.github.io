@@ -81,5 +81,5 @@ Discussions on platforms like Reddit and investment forums indicate a cautious o
 
 ---
 
-[1]: https://www.straitstimes.com/business/companies-markets/singapore-shares-fall-along-with-regional-declines-sti-slips-0-2?utm_source=chatgpt.com "Singapore shares fall along with regional declines; STI ..."
-[2]: https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asias-record-stock-rally-may-unravel-tariffs-bite-funds-say?utm_source=chatgpt.com "Asia's record stock rally may unravel as tariffs bite, funds say"
+[1]: https://www.straitstimes.com/business/companies-markets/singapore-shares-fall-along-with-regional-declines-sti-slips-0-2 "Singapore shares fall along with regional declines; STI ..."
+[2]: https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asias-record-stock-rally-may-unravel-tariffs-bite-funds-say "Asia's record stock rally may unravel as tariffs bite, funds say"

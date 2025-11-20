@@ -57,8 +57,8 @@ Source link: [https://www.thetimes.com/business-money/companies/article/ai-is-no
 
 (Cited sources used: Reuters coverage and Pearson/PR releases summarizing the company’s Q3 performance and AI training expansion, plus the Times article referenced above.) ([Reuters][1])
 
-[1]: https://www.reuters.com/world/uk/pearsons-underlying-sales-growth-accelerates-4-q3-2025-10-17/?utm_source=chatgpt.com "Pearson's underlying sales growth accelerates to 4% in Q3"
-[2]: https://www.thetimes.com/business-money/companies/article/ai-is-no-threat-says-pearson-boss-as-training-sales-rise-gp7kx89n8?utm_source=chatgpt.com "AI is no threat, says Pearson boss, as training sales rise"
-[3]: https://www.prnewswire.com/news-releases/race-against-the-machine-pearson-expands-ai-content-to-equip-learners-for-future-of-work-302493596.html?utm_source=chatgpt.com "Race Against the Machine: Pearson Expands AI Content to ..."
-[4]: https://www.reuters.com/world/uk/pearson-sees-pick-up-growth-driven-by-ai-powered-learning-2025-08-01/?utm_source=chatgpt.com "Pearson sees pick-up in growth driven by AI-powered ..."
-[5]: https://www.ainvest.com/news/pearson-ai-pivot-bridging-education-readiness-gaps-age-automation-2506/?utm_source=chatgpt.com "Pearson's AI Pivot: Bridging Education's Readiness Gaps ..."
+[1]: https://www.reuters.com/world/uk/pearsons-underlying-sales-growth-accelerates-4-q3-2025-10-17/ "Pearson's underlying sales growth accelerates to 4% in Q3"
+[2]: https://www.thetimes.com/business-money/companies/article/ai-is-no-threat-says-pearson-boss-as-training-sales-rise-gp7kx89n8 "AI is no threat, says Pearson boss, as training sales rise"
+[3]: https://www.prnewswire.com/news-releases/race-against-the-machine-pearson-expands-ai-content-to-equip-learners-for-future-of-work-302493596.html "Race Against the Machine: Pearson Expands AI Content to ..."
+[4]: https://www.reuters.com/world/uk/pearson-sees-pick-up-growth-driven-by-ai-powered-learning-2025-08-01/ "Pearson sees pick-up in growth driven by AI-powered ..."
+[5]: https://www.ainvest.com/news/pearson-ai-pivot-bridging-education-readiness-gaps-age-automation-2506/ "Pearson's AI Pivot: Bridging Education's Readiness Gaps ..."

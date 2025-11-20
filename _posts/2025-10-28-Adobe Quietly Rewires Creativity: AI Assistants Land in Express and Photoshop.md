@@ -70,5 +70,5 @@ Adobe’s latest AI assistants mark a meaningful shift: design tools are no long
 
 Source: [TechCrunch – Adobe launches AI assistants for Express and Photoshop](https://techcrunch.com/2025/10/28/adobe-launches-ai-assistants-for-express-and-photoshop/)
 
-[1]: https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025?utm_source=chatgpt.com "You can tell Adobe Express's new AI assistant to edit your designs for you"
-[2]: https://www.reuters.com/business/media-telecom/adobe-reworks-its-apps-ai-assistants-pursues-chatgpt-integration-2025-10-28/?utm_source=chatgpt.com "Adobe reworks its apps for AI assistants, pursues ChatGPT integration"
+[1]: https://www.theverge.com/news/807802/adobe-express-ai-assistant-prompt-editing-beta-max-2025 "You can tell Adobe Express's new AI assistant to edit your designs for you"
+[2]: https://www.reuters.com/business/media-telecom/adobe-reworks-its-apps-ai-assistants-pursues-chatgpt-integration-2025-10-28/ "Adobe reworks its apps for AI assistants, pursues ChatGPT integration"

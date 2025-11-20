@@ -68,13 +68,13 @@ tags:
 
 ---
 
-[1]: https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/?utm_source=chatgpt.com "The startup behind open source tool Polars raises $21M ..."
-[2]: https://www.gic.com.sg/newsroom/all/vercel-closes-series-f-at-9-3b-valuation-to-scale-the-ai-cloud/?utm_source=chatgpt.com "Vercel Closes Series F at $9.3B Valuation to Scale the AI ..."
-[3]: https://www.reuters.com/business/ai-chip-firm-cerebras-raises-11-billion-adds-trump-linked-1789-capital-investor-2025-09-30/?utm_source=chatgpt.com "AI chip firm Cerebras raises $1.1 billion, adds Trump-linked 1789 Capital as investor"
-[4]: https://www.reuters.com/world/india/indias-inframarket-files-ipo-under-confidential-route-2025-09-30/?utm_source=chatgpt.com "India's Infra.Market files for IPO under confidential route"
-[5]: https://m.economictimes.com/tech/funding/emergent-ai-raises-23-million-from-lightspeed-together-fund-others/articleshow/124092379.cms?utm_source=chatgpt.com "Emergent AI raises $23 million from Lightspeed, Together Fund, others"
-[6]: https://lsvp.com/stories/the-ai-agent-economy-has-a-19-trillion-problem-our-investment-in-paid/?utm_source=chatgpt.com "The AI Agent Economy Has a $19 Trillion Problem"
-[7]: https://lsvp.com/stories/doubling-down-on-lightspeeds-investment-in-descope-the-next-gen-iam-platform-for-customers-partners-and-ai-agents/?utm_source=chatgpt.com "Doubling Down on Lightspeed's Investment in Descope"
-[8]: https://lsvp.com/stories/investing-in-assort-building-the-agentic-ai-operating-system-for-patient-engagement/?utm_source=chatgpt.com "Investing in Assort: Building the Agentic AI Operating ..."
-[9]: https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/?utm_source=chatgpt.com "AI recruiter Alex raises $17M to automate initial job interviews"
-[10]: https://yourstory.com/2025/09/peak-xv-leads-yc-backed-posthogs-75m-series-e-round-unicorn?utm_source=chatgpt.com "Peak XV leads YC-backed PostHog's $75M Series E round ..."
+[1]: https://techcrunch.com/2025/09/29/the-startup-behind-open-source-tool-polars-raises-21m-from-accel/ "The startup behind open source tool Polars raises $21M ..."
+[2]: https://www.gic.com.sg/newsroom/all/vercel-closes-series-f-at-9-3b-valuation-to-scale-the-ai-cloud/ "Vercel Closes Series F at $9.3B Valuation to Scale the AI ..."
+[3]: https://www.reuters.com/business/ai-chip-firm-cerebras-raises-11-billion-adds-trump-linked-1789-capital-investor-2025-09-30/ "AI chip firm Cerebras raises $1.1 billion, adds Trump-linked 1789 Capital as investor"
+[4]: https://www.reuters.com/world/india/indias-inframarket-files-ipo-under-confidential-route-2025-09-30/ "India's Infra.Market files for IPO under confidential route"
+[5]: https://m.economictimes.com/tech/funding/emergent-ai-raises-23-million-from-lightspeed-together-fund-others/articleshow/124092379.cms "Emergent AI raises $23 million from Lightspeed, Together Fund, others"
+[6]: https://lsvp.com/stories/the-ai-agent-economy-has-a-19-trillion-problem-our-investment-in-paid/ "The AI Agent Economy Has a $19 Trillion Problem"
+[7]: https://lsvp.com/stories/doubling-down-on-lightspeeds-investment-in-descope-the-next-gen-iam-platform-for-customers-partners-and-ai-agents/ "Doubling Down on Lightspeed's Investment in Descope"
+[8]: https://lsvp.com/stories/investing-in-assort-building-the-agentic-ai-operating-system-for-patient-engagement/ "Investing in Assort: Building the Agentic AI Operating ..."
+[9]: https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/ "AI recruiter Alex raises $17M to automate initial job interviews"
+[10]: https://yourstory.com/2025/09/peak-xv-leads-yc-backed-posthogs-75m-series-e-round-unicorn "Peak XV leads YC-backed PostHog's $75M Series E round ..."

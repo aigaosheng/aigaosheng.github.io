@@ -178,19 +178,19 @@ This pattern reduces risk by design: separation, explicit instructions, sanitiza
 
 ---
 
-[1]: https://genai.owasp.org/llmrisk/llm01-prompt-injection/?utm_source=chatgpt.com "LLM01:2025 Prompt Injection - OWASP Gen AI Security Project"
-[2]: https://www.microsoft.com/en-us/msrc/blog/2025/07/how-microsoft-defends-against-indirect-prompt-injection-attacks?utm_source=chatgpt.com "How Microsoft defends against indirect prompt injection ..."
-[3]: https://arxiv.org/abs/2507.14799?utm_source=chatgpt.com "Manipulating LLM Web Agents with Indirect Prompt ..."
-[4]: https://arxiv.org/html/2509.05883v1?utm_source=chatgpt.com "Multimodal Prompt Injection Attacks: Risks and Defenses ..."
-[5]: https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt?utm_source=chatgpt.com "A Single Poisoned Document Could Leak 'Secret' Data Via ChatGPT"
-[6]: https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks?utm_source=chatgpt.com "DeepSeek's Safety Guardrails Failed Every Test Researchers Threw at Its AI Chatbot"
-[7]: https://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html?utm_source=chatgpt.com "Mitigating prompt injection attacks with a layered defense ..."
-[8]: https://blog.lastpass.com/posts/prompt-injection?utm_source=chatgpt.com "Prompt Injection Attacks in 2025: When Your Favorite AI ..."
-[9]: https://arxiv.org/html/2508.04281v1?utm_source=chatgpt.com "Prompt Injection Vulnerability of Consensus Generating ..."
-[10]: https://aclanthology.org/2025.findings-naacl.123.pdf?utm_source=chatgpt.com "Attention Tracker: Detecting Prompt Injection Attacks in LLMs"
-[11]: https://neptune.ai/blog/understanding-prompt-injection?utm_source=chatgpt.com "Understanding Prompt Injection: Risks, Methods, and ..."
-[12]: https://simonwillison.net/2025/Aug/25/agentic-browser-security/?utm_source=chatgpt.com "Indirect Prompt Injection in Perplexity Comet"
-[13]: https://brave.com/blog/unseeable-prompt-injections/?utm_source=chatgpt.com "more vulnerabilities in Comet and other AI browsers"
+[1]: https://genai.owasp.org/llmrisk/llm01-prompt-injection/ "LLM01:2025 Prompt Injection - OWASP Gen AI Security Project"
+[2]: https://www.microsoft.com/en-us/msrc/blog/2025/07/how-microsoft-defends-against-indirect-prompt-injection-attacks "How Microsoft defends against indirect prompt injection ..."
+[3]: https://arxiv.org/abs/2507.14799 "Manipulating LLM Web Agents with Indirect Prompt ..."
+[4]: https://arxiv.org/html/2509.05883v1 "Multimodal Prompt Injection Attacks: Risks and Defenses ..."
+[5]: https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt "A Single Poisoned Document Could Leak 'Secret' Data Via ChatGPT"
+[6]: https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks "DeepSeek's Safety Guardrails Failed Every Test Researchers Threw at Its AI Chatbot"
+[7]: https://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html "Mitigating prompt injection attacks with a layered defense ..."
+[8]: https://blog.lastpass.com/posts/prompt-injection "Prompt Injection Attacks in 2025: When Your Favorite AI ..."
+[9]: https://arxiv.org/html/2508.04281v1 "Prompt Injection Vulnerability of Consensus Generating ..."
+[10]: https://aclanthology.org/2025.findings-naacl.123.pdf "Attention Tracker: Detecting Prompt Injection Attacks in LLMs"
+[11]: https://neptune.ai/blog/understanding-prompt-injection "Understanding Prompt Injection: Risks, Methods, and ..."
+[12]: https://simonwillison.net/2025/Aug/25/agentic-browser-security/ "Indirect Prompt Injection in Perplexity Comet"
+[13]: https://brave.com/blog/unseeable-prompt-injections/ "more vulnerabilities in Comet and other AI browsers"
 
 
 ### You may enjoy

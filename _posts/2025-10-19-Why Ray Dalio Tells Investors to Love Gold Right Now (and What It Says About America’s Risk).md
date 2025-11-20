@@ -50,7 +50,7 @@ Also worth noting: Dalio’s public pedagogical style (open Q&As on social platf
 
 ---
 
-[1]: https://x.com/RayDalio/status/1979221211188998472?utm_source=chatgpt.com "Ray Dalio on X: \"My Answers to Your Questions about Gold ..."
-[2]: https://qz.com/ray-dalio-us-debt-threatens-monetary-order?utm_source=chatgpt.com "Ray Dalio says invest in gold as U.S. debt mounts - Quartz"
-[3]: https://www.ft.com/content/b86bd33b-b3e7-4485-8b1c-6f01e639dd04?utm_source=chatgpt.com "US sliding towards 1930s-style autocracy, warns Ray Dalio"
-[4]: https://www.businessinsider.com/ray-dalio-investing-advice-ai-clone-gold-bitcoin-economy-2025-10?utm_source=chatgpt.com "Ray Dalio wants investors to ask him their most burning questions about markets so he can train his AI clone"
+[1]: https://x.com/RayDalio/status/1979221211188998472 "Ray Dalio on X: \"My Answers to Your Questions about Gold ..."
+[2]: https://qz.com/ray-dalio-us-debt-threatens-monetary-order "Ray Dalio says invest in gold as U.S. debt mounts - Quartz"
+[3]: https://www.ft.com/content/b86bd33b-b3e7-4485-8b1c-6f01e639dd04 "US sliding towards 1930s-style autocracy, warns Ray Dalio"
+[4]: https://www.businessinsider.com/ray-dalio-investing-advice-ai-clone-gold-bitcoin-economy-2025-10 "Ray Dalio wants investors to ask him their most burning questions about markets so he can train his AI clone"

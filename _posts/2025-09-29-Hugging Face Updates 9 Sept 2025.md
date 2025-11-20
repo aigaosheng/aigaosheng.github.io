@@ -81,13 +81,13 @@ Chinese AI models such as MiniCPM4.1 and HunyuanImage-3.0 are gaining traction o
 
 ---
 
-[1]: https://huggingface.co/tencent/HunyuanImage-3.0?utm_source=chatgpt.com "tencent/HunyuanImage-3.0"
-[2]: https://huggingface.co/ibm-granite/granite-docling-258M?utm_source=chatgpt.com "ibm-granite/granite-docling-258M"
-[3]: https://huggingface.co/openbmb/MiniCPM4.1-8B-GGUF?utm_source=chatgpt.com "openbmb/MiniCPM4.1-8B-GGUF"
-[4]: https://huggingface.co/blog/embeddinggemma?utm_source=chatgpt.com "EmbeddingGemma, Google's new efficient embedding model"
-[5]: https://huggingface.co/blog/minibase-ai/de-id-small?utm_source=chatgpt.com "A tiny AI model for text de-identification"
-[6]: https://huggingface.co/collections/Presidentlin/ai-release-week-thread-1-september-2025-68be5dea8eb3fbaa7c2e8e6e?utm_source=chatgpt.com "AI Release Week Thread (1 September 2025)"
-[7]: https://huggingface.co/blog/riskrubric?utm_source=chatgpt.com "Democratizing AI Safety with RiskRubric.ai"
-[8]: https://huggingface.co/blog/lematerial?utm_source=chatgpt.com "LeMaterial: an open source initiative to accelerate ..."
-[9]: https://huggingface.co/blog/chinese-ai-expansion?utm_source=chatgpt.com "A Short Summary of Chinese AI Global Expansion"
+[1]: https://huggingface.co/tencent/HunyuanImage-3.0 "tencent/HunyuanImage-3.0"
+[2]: https://huggingface.co/ibm-granite/granite-docling-258M "ibm-granite/granite-docling-258M"
+[3]: https://huggingface.co/openbmb/MiniCPM4.1-8B-GGUF "openbmb/MiniCPM4.1-8B-GGUF"
+[4]: https://huggingface.co/blog/embeddinggemma "EmbeddingGemma, Google's new efficient embedding model"
+[5]: https://huggingface.co/blog/minibase-ai/de-id-small "A tiny AI model for text de-identification"
+[6]: https://huggingface.co/collections/Presidentlin/ai-release-week-thread-1-september-2025-68be5dea8eb3fbaa7c2e8e6e "AI Release Week Thread (1 September 2025)"
+[7]: https://huggingface.co/blog/riskrubric "Democratizing AI Safety with RiskRubric.ai"
+[8]: https://huggingface.co/blog/lematerial "LeMaterial: an open source initiative to accelerate ..."
+[9]: https://huggingface.co/blog/chinese-ai-expansion "A Short Summary of Chinese AI Global Expansion"
 [10]: https://huggingface.co/docs/transformers/main/en/model_doc/idefics2 "Introducing Idefics2: A Powerful 8B Vision-Language Model for the community"

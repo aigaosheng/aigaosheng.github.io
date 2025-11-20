@@ -62,6 +62,6 @@ Apple's deliberate pace in adopting AI technologies reflects a strategic decisio
 
 ---
 
-[1]: https://medium.com/%40doucmu/apples-ai-strategy-2025-a-comprehensive-deep-dive-37216938d77e?utm_source=chatgpt.com "Apple's AI Strategy 2025: A Comprehensive Deep Dive"
-[2]: https://www.apple.com/newsroom/2025/06/apple-intelligence-gets-even-more-powerful-with-new-capabilities-across-apple-devices/?utm_source=chatgpt.com "Apple Intelligence gets even more powerful with new ..."
-[3]: https://www.marketwatch.com/story/why-apple-and-other-slow-ai-adopters-may-be-right-f5faa1c9?utm_source=chatgpt.com "Why Apple and other slow AI adopters may be right"
+[1]: https://medium.com/%40doucmu/apples-ai-strategy-2025-a-comprehensive-deep-dive-37216938d77e "Apple's AI Strategy 2025: A Comprehensive Deep Dive"
+[2]: https://www.apple.com/newsroom/2025/06/apple-intelligence-gets-even-more-powerful-with-new-capabilities-across-apple-devices/ "Apple Intelligence gets even more powerful with new ..."
+[3]: https://www.marketwatch.com/story/why-apple-and-other-slow-ai-adopters-may-be-right-f5faa1c9 "Why Apple and other slow AI adopters may be right"

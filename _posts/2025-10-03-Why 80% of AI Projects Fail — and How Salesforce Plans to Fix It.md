@@ -12,7 +12,7 @@ tags:
 - Salesforce Einstein
 ---
 ---
-[![Explaining the Einstein Trust Layer - Salesforce](https://images.openai.com/thumbnails/e2a43faca961f836d1c02b6f0d65f163.jpeg)](https://www.salesforce.com/news/stories/video/explaining-the-einstein-gpt-trust-layer/?utm_source=chatgpt.com)
+[![Explaining the Einstein Trust Layer - Salesforce](https://images.openai.com/thumbnails/e2a43faca961f836d1c02b6f0d65f163.jpeg)](https://www.salesforce.com/news/stories/video/explaining-the-einstein-gpt-trust-layer/)
 
 **Why 80% of AI Projects Fail — and How Salesforce Plans to Fix It**
 
@@ -70,4 +70,4 @@ For more details, read the full article on [VentureBeat](https://venturebeat.com
 
 ---
 
-[1]: https://venturebeat.com/ai/salesforce-launches-ai-trust-layer-to-tackle-enterprise-deployment-failures?utm_source=chatgpt.com "Salesforce launches AI 'trust layer' to tackle enterprise ..."
+[1]: https://venturebeat.com/ai/salesforce-launches-ai-trust-layer-to-tackle-enterprise-deployment-failures "Salesforce launches AI 'trust layer' to tackle enterprise ..."

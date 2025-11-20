@@ -98,9 +98,9 @@ Tesla Q2 2025 Update / SEC filings ([Tesla][3])
 Tesla Investor Relations press releases ([Tesla Investor Relations][1])
 News coverage on shorts, regulation, China sales ([Reuters][6])
 
-[1]: https://ir.tesla.com/press?utm_source=chatgpt.com "Press Releases | Tesla Investor Relations"
-[2]: https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630.htm?utm_source=chatgpt.com "tsla-20250630"
-[3]: https://www.tesla.com/sites/default/files/downloads/TSLA-Q2-2025-Update.pdf?utm_source=chatgpt.com "Q2 2025 Update"
-[4]: https://www.investors.com/news/tesla-stock-nhtsa-fsd-probe-elon-musk-autonomous-driving-2025/?utm_source=chatgpt.com "NHTSA Probes Tesla FSD Days After Elon Musk Claims Autonomy Is Coming In 2025"
-[5]: https://www.investors.com/news/tesla-stock-ev-giant-china-q3-strong-global-deliveries/?utm_source=chatgpt.com "Tesla China Finishes Q3 Strong But Global Deliveries Are All About This"
-[6]: https://www.reuters.com/business/autos-transportation/tesla-shorts-up-115-billion-year-with-positioning-bearish-2025-04-22/?utm_source=chatgpt.com "Tesla shorts up $11.5 billion for the year with positioning bearish"
+[1]: https://ir.tesla.com/press "Press Releases | Tesla Investor Relations"
+[2]: https://www.sec.gov/Archives/edgar/data/1318605/000162828025035806/tsla-20250630.htm "tsla-20250630"
+[3]: https://www.tesla.com/sites/default/files/downloads/TSLA-Q2-2025-Update.pdf "Q2 2025 Update"
+[4]: https://www.investors.com/news/tesla-stock-nhtsa-fsd-probe-elon-musk-autonomous-driving-2025/ "NHTSA Probes Tesla FSD Days After Elon Musk Claims Autonomy Is Coming In 2025"
+[5]: https://www.investors.com/news/tesla-stock-ev-giant-china-q3-strong-global-deliveries/ "Tesla China Finishes Q3 Strong But Global Deliveries Are All About This"
+[6]: https://www.reuters.com/business/autos-transportation/tesla-shorts-up-115-billion-year-with-positioning-bearish-2025-04-22/ "Tesla shorts up $11.5 billion for the year with positioning bearish"

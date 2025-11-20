@@ -12,7 +12,7 @@ tags:
 - Credit Card Debt Management
 ---
 ---
-[![AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs | OpenAI](https://images.openai.com/thumbnails/url/5mS94nicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5K9EgzjEwOcc0qTHUJCa3MNizyi7QwMzB3cskvz9YtTawKKM4LMHIM8LUsVyu2NTQAAAkNJM4)](https://openai.com/index/openai-amd-strategic-partnership/?utm_source=chatgpt.com)
+[![AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs | OpenAI](https://images.openai.com/thumbnails/url/5mS94nicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5K9EgzjEwOcc0qTHUJCa3MNizyi7QwMzB3cskvz9YtTawKKM4LMHIM8LUsVyu2NTQAAAkNJM4)](https://openai.com/index/openai-amd-strategic-partnership/)
 
 **AI & Tech Daily Brief: OpenAI GPU Expansion, Enterprise AI Adoption, and Emerging Innovation – October 7, 2025**
 
@@ -195,11 +195,11 @@ Tesla has hinted at a major event on October 7, focusing on unveiling an afforda
 
 **Sources**
 
-[1]: https://openai.com/index/openai-amd-strategic-partnership/?utm_source=chatgpt.com "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs"
-[2]: https://www.anthropic.com/news/deloitte-anthropic-partnership?utm_source=chatgpt.com "Anthropic Deloitte Partnership"
-[3]: https://indianexpress.com/article/technology/artificial-intelligence/perplexity-comet-ai-browser-free-windows-mac-features-10285011/?utm_source=chatgpt.com "Perplexity Comet AI browser is now free for all: Here’s how it differs from Chrome and Firefox"
-[4]: https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/?utm_source=chatgpt.com "Introducing CodeMender: an AI agent for code security"
-[5]: https://blog.google/outreach-initiatives/education/ai-education-efforts/?utm_source=chatgpt.com "Google highlights efforts to support AI education in the U.S."
-[6]: https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26220-6772-dev-channel/?utm_source=chatgpt.com "Announcing Windows 11 Insider Preview Build 26220.6772 (Dev Channel)"
-[7]: https://aws.amazon.com/blogs/devops/moeve-controlling-resource-deployment-at-scale-with-aws-cloudformation-guard-hooks/?utm_source=chatgpt.com "Moeve: Controlling resource deployment at scale with AWS CloudFormation Guard Hooks"
-[8]: https://www.reuters.com/business/autos-transportation/tesla-teases-tuesday-event-focus-shifts-affordable-evs-2025-10-06/?utm_source=chatgpt.com "Tesla teases Tuesday event as focus shifts to affordable EVs"
+[1]: https://openai.com/index/openai-amd-strategic-partnership/ "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs"
+[2]: https://www.anthropic.com/news/deloitte-anthropic-partnership "Anthropic Deloitte Partnership"
+[3]: https://indianexpress.com/article/technology/artificial-intelligence/perplexity-comet-ai-browser-free-windows-mac-features-10285011/ "Perplexity Comet AI browser is now free for all: Here’s how it differs from Chrome and Firefox"
+[4]: https://deepmind.google/discover/blog/introducing-codemender-an-ai-agent-for-code-security/ "Introducing CodeMender: an AI agent for code security"
+[5]: https://blog.google/outreach-initiatives/education/ai-education-efforts/ "Google highlights efforts to support AI education in the U.S."
+[6]: https://blogs.windows.com/windows-insider/2025/10/06/announcing-windows-11-insider-preview-build-26220-6772-dev-channel/ "Announcing Windows 11 Insider Preview Build 26220.6772 (Dev Channel)"
+[7]: https://aws.amazon.com/blogs/devops/moeve-controlling-resource-deployment-at-scale-with-aws-cloudformation-guard-hooks/ "Moeve: Controlling resource deployment at scale with AWS CloudFormation Guard Hooks"
+[8]: https://www.reuters.com/business/autos-transportation/tesla-teases-tuesday-event-focus-shifts-affordable-evs-2025-10-06/ "Tesla teases Tuesday event as focus shifts to affordable EVs"

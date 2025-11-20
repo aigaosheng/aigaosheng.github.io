@@ -12,7 +12,7 @@ tags:
 - Generative Models
 ---
 ---
-[![Tencent Introduces Hunyuan Turbo S; Outpaces DeepSeek-R1](https://images.openai.com/thumbnails/url/snXhV3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7JTtFNcktzrkwvMU1yd3YsSCotTnXXNc9IL_S2TDIqDDUMDo4Icy5MtkgxDY4MMimM8PUJ8cwvDHUsLVcrBgAZQynQ)](https://www.timesofai.com/news/tencent-hunyuan-turbo-s-outpaces-deepdeek-r1/?utm_source=chatgpt.com)
+[![Tencent Introduces Hunyuan Turbo S; Outpaces DeepSeek-R1](https://images.openai.com/thumbnails/url/snXhV3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7JTtFNcktzrkwvMU1yd3YsSCotTnXXNc9IL_S2TDIqDDUMDo4Icy5MtkgxDY4MMimM8PUJ8cwvDHUsLVcrBgAZQynQ)](https://www.timesofai.com/news/tencent-hunyuan-turbo-s-outpaces-deepdeek-r1/)
 
 **Tencent Unveils Hunyuan3D 3.0: A Leap Forward in 3D AI Generation**
 
@@ -32,8 +32,8 @@ Hunyuan3D 3.0 is part of Tencent's broader strategy to expand its AI capabilitie
 
 **News References:**
 
-* [Reuters](https://www.reuters.com/technology/artificial-intelligence/tencent-releases-new-ai-model-says-replies-faster-than-deepseek-r1-2025-02-27/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/technology/artificial-intelligence/tencent-expands-ai-push-with-open-source-3d-generation-tools-2025-03-18/?utm_source=chatgpt.com)
+* [Reuters](https://www.reuters.com/technology/artificial-intelligence/tencent-releases-new-ai-model-says-replies-faster-than-deepseek-r1-2025-02-27/)
+* [Reuters](https://www.reuters.com/technology/artificial-intelligence/tencent-expands-ai-push-with-open-source-3d-generation-tools-2025-03-18/)
 
-[1]: https://www.stdaily.com/web/gdxw/2025-09/25/content_407381.html?utm_source=chatgpt.com "腾讯推出专业级AI 3D工作台混元3D Studio"
-[2]: https://m.mp.oeeee.com/a/BAAFRD0000202509171124282.html?utm_source=chatgpt.com "助力“好用的AI”落地！腾讯宣布：AI能力全面开放"
+[1]: https://www.stdaily.com/web/gdxw/2025-09/25/content_407381.html "腾讯推出专业级AI 3D工作台混元3D Studio"
+[2]: https://m.mp.oeeee.com/a/BAAFRD0000202509171124282.html "助力“好用的AI”落地！腾讯宣布：AI能力全面开放"

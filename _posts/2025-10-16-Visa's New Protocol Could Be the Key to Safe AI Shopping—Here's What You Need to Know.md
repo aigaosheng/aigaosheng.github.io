@@ -12,7 +12,7 @@ tags:
 - Agentic commerce
 keywords: [AI shopping security, Trusted Agent Protocol, agentic commerce]
 ---
-[![Visa just launched a protocol to secure the AI shopping boom — here's what  it means for merchants | VentureBeat](https://images.openai.com/static-rsc-1/AKUP0vTQlM6wFYRzYetL13j8Y-uZzwdjBrKViZTFqXpl-OGkGF6_9OS5Og0Ngg4Gbo5Bs7XURfHLeVrI6k_v564D_wgT3sqTyLvYshAlvDt4dHgepgp9oFUuN6-xOTZuujloz-w-HWHJftEVhH7OKw)](https://venturebeat.com/ai/visa-just-launched-a-protocol-to-secure-the-ai-shopping-boom-heres-what-it?utm_source=chatgpt.com)
+[![Visa just launched a protocol to secure the AI shopping boom — here's what  it means for merchants | VentureBeat](https://images.openai.com/static-rsc-1/AKUP0vTQlM6wFYRzYetL13j8Y-uZzwdjBrKViZTFqXpl-OGkGF6_9OS5Og0Ngg4Gbo5Bs7XURfHLeVrI6k_v564D_wgT3sqTyLvYshAlvDt4dHgepgp9oFUuN6-xOTZuujloz-w-HWHJftEVhH7OKw)](https://venturebeat.com/ai/visa-just-launched-a-protocol-to-secure-the-ai-shopping-boom-heres-what-it)
 
 **🛡️ Visa's New Protocol Could Be the Key to Safe AI Shopping—Here's What You Need to Know**
 

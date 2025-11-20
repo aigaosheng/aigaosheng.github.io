@@ -33,4 +33,4 @@ The consistent increase in consumer spending suggests that households continue t
 For more detailed information, refer to the full article on Bloomberg: [US Consumer Spending Beats Estimates With Core Inflation Steady](https://www.bloomberg.com/news/articles/2025-09-26/us-consumer-spending-beats-estimates-with-core-inflation-steady)
 
 
-[1]: https://www.bloomberg.com/news/articles/2025-09-26/us-consumer-spending-beats-estimates-with-core-inflation-steady?utm_source=chatgpt.com "US Consumer Spending Powers On Even as Inflation ..."
+[1]: https://www.bloomberg.com/news/articles/2025-09-26/us-consumer-spending-beats-estimates-with-core-inflation-steady "US Consumer Spending Powers On Even as Inflation ..."

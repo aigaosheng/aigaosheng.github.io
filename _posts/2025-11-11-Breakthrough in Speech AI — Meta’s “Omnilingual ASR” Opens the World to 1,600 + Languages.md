@@ -82,6 +82,6 @@ Source link:
 1. [https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/](https://ai.meta.com/blog/omnilingual-asr-advancing-automatic-speech-recognition/)
 2. [https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can](https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can)
 
-[1]: https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can?utm_source=chatgpt.com "Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively"
-[2]: https://www.indiatoday.in/technology/news/story/meta-claims-its-new-open-source-ai-can-understand-more-than-1600-languages-is-superintelligence-next-2817258-2025-11-11?utm_source=chatgpt.com "Meta claims its new AI can understand more than 1600 languages, is superintelligence next?"
-[3]: https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingual-speech-recognition-for-1600-languages/?utm_source=chatgpt.com "Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages"
+[1]: https://venturebeat.com/ai/meta-returns-to-open-source-ai-with-omnilingual-asr-models-that-can "Meta returns to open source AI with Omnilingual ASR models that can transcribe 1,600+ languages natively"
+[2]: https://www.indiatoday.in/technology/news/story/meta-claims-its-new-open-source-ai-can-understand-more-than-1600-languages-is-superintelligence-next-2817258-2025-11-11 "Meta claims its new AI can understand more than 1600 languages, is superintelligence next?"
+[3]: https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingual-speech-recognition-for-1600-languages/ "Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages"

@@ -66,5 +66,5 @@ The recent success of GUARDIAN marks a **paradigm shift** in tsunami‑monitorin
 
 Source: [https://www.bbc.com/future/article/20251111-how-nasa-spotted-a-tsunami-in-real-time](https://www.bbc.com/future/article/20251111-how-nasa-spotted-a-tsunami-in-real-time)
 
-[1]: https://www.nasa.gov/earth/natural-disasters/tsunamis/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/?utm_source=chatgpt.com "NASA's GUARDIAN Tsunami Detection Tech Catches ..."
-[2]: https://en.wikipedia.org/wiki/Tsunami?utm_source=chatgpt.com "Tsunami"
+[1]: https://www.nasa.gov/earth/natural-disasters/tsunamis/nasas-guardian-tsunami-detection-tech-catches-wave-in-real-time/ "NASA's GUARDIAN Tsunami Detection Tech Catches ..."
+[2]: https://en.wikipedia.org/wiki/Tsunami "Tsunami"

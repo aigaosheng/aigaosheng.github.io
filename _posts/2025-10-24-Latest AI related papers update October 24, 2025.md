@@ -105,10 +105,10 @@ permalink: /Latest AI related papers update October 24, 2025/
 
 ---
 
-[1]: https://arxiv.org/html/2510.18795v2?utm_source=chatgpt.com "ProCLIP: Progressive Vision-Language Alignment via LLM ..."
-[2]: https://huggingface.co/papers/2510.18795?utm_source=chatgpt.com "ProCLIP: Progressive Vision-Language Alignment via LLM ..."
-[3]: https://arxiv.org/abs/2510.18795?utm_source=chatgpt.com "ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder"
-[4]: https://www.arxiv.org/pdf/2510.16175?utm_source=chatgpt.com "The Formalism-Implementation Gap in Reinforcement ..."
-[5]: https://arxiv.org/list/cs.LG/recent?utm_source=chatgpt.com "Machine Learning"
-[6]: https://arxiv.org/list/stat.ML/recent?utm_source=chatgpt.com "Machine Learning"
-[7]: https://arxiv.org/pdf/2510.09776?utm_source=chatgpt.com "Why Do Transformers Fail to Forecast Time Series In- ..."
+[1]: https://arxiv.org/html/2510.18795v2 "ProCLIP: Progressive Vision-Language Alignment via LLM ..."
+[2]: https://huggingface.co/papers/2510.18795 "ProCLIP: Progressive Vision-Language Alignment via LLM ..."
+[3]: https://arxiv.org/abs/2510.18795 "ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder"
+[4]: https://www.arxiv.org/pdf/2510.16175 "The Formalism-Implementation Gap in Reinforcement ..."
+[5]: https://arxiv.org/list/cs.LG/recent "Machine Learning"
+[6]: https://arxiv.org/list/stat.ML/recent "Machine Learning"
+[7]: https://arxiv.org/pdf/2510.09776 "Why Do Transformers Fail to Forecast Time Series In- ..."

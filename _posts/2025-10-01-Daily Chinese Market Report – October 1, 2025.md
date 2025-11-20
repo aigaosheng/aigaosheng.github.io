@@ -90,8 +90,8 @@ For more detailed information, visit the original sources:
 
 ---
 
-[1]: https://www.caixinglobal.com/2025-10-01/chinas-external-financial-assets-top-11-trillion-for-first-time-102368290.html?utm_source=chatgpt.com "China's External Financial Assets Top $11 Trillion for First ..."
-[2]: https://www.caixinglobal.com/2025-10-01/hong-kong-accelerates-push-to-become-gold-trading-hub-102368287.html?utm_source=chatgpt.com "Hong Kong Accelerates Push to Become Gold Trading Hub"
-[3]: https://www.caixinglobal.com/2025-10-01/tianan-property-insurance-defaults-on-730-million-bond-in-first-for-chinas-insurance-sector-102368109.html?utm_source=chatgpt.com "Tianan Property Insurance Defaults on $730 Million Bond ..."
-[4]: https://www.caixinglobal.com/2025-09-30/chinas-manufacturing-nears-expansion-but-services-growth-slows-102367885.html?utm_source=chatgpt.com "China's Manufacturing Nears Expansion, but Services ..."
-[5]: https://www.caixinglobal.com/2025-09-30/jiangsu-taps-post-70s-official-liu-xiaotao-for-top-government-post-102368015.html?utm_source=chatgpt.com "Fast-Rising Official Poised to Lead Chinese Economic ..."
+[1]: https://www.caixinglobal.com/2025-10-01/chinas-external-financial-assets-top-11-trillion-for-first-time-102368290.html "China's External Financial Assets Top $11 Trillion for First ..."
+[2]: https://www.caixinglobal.com/2025-10-01/hong-kong-accelerates-push-to-become-gold-trading-hub-102368287.html "Hong Kong Accelerates Push to Become Gold Trading Hub"
+[3]: https://www.caixinglobal.com/2025-10-01/tianan-property-insurance-defaults-on-730-million-bond-in-first-for-chinas-insurance-sector-102368109.html "Tianan Property Insurance Defaults on $730 Million Bond ..."
+[4]: https://www.caixinglobal.com/2025-09-30/chinas-manufacturing-nears-expansion-but-services-growth-slows-102367885.html "China's Manufacturing Nears Expansion, but Services ..."
+[5]: https://www.caixinglobal.com/2025-09-30/jiangsu-taps-post-70s-official-liu-xiaotao-for-top-government-post-102368015.html "Fast-Rising Official Poised to Lead Chinese Economic ..."

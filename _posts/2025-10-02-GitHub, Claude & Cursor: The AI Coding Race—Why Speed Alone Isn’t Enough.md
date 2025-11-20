@@ -12,7 +12,7 @@ tags:
 - GitHub Copilot
 ---
 ---
-[![GitHub Copilot Enterprise is now generally available - The GitHub Blog](https://images.openai.com/thumbnails/url/DEVMOHicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5JT6wI9A80zcowzDDJi8xx8nRzMguINzLNTwsvLi0yzQt3Ds02KKqwNLQwSilxNg9JtSwPMDBJcXcqLVcrBgALsCk1)](https://github.blog/news-insights/product-news/github-copilot-enterprise-is-now-generally-available/?utm_source=chatgpt.com)
+[![GitHub Copilot Enterprise is now generally available - The GitHub Blog](https://images.openai.com/thumbnails/url/DEVMOHicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5JT6wI9A80zcowzDDJi8xx8nRzMguINzLNTwsvLi0yzQt3Ds02KKqwNLQwSilxNg9JtSwPMDBJcXcqLVcrBgALsCk1)](https://github.blog/news-insights/product-news/github-copilot-enterprise-is-now-generally-available/)
 
 # 🚀 GitHub, Claude & Cursor: The AI Coding Race—Why Speed Alone Isn’t Enough
 

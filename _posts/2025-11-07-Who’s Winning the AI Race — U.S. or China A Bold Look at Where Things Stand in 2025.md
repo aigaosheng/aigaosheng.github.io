@@ -78,6 +78,6 @@ If I had to give a short answer: China is the challenger closing fast; the U.S. 
 
 Source link: [The AI Showdown: How the U.S. and China Stack Up (Bloomberg – Nov 7, 2025)](https://www.bloomberg.com/news/articles/2025-11-07/us-vs-china-who-s-winning-the-ai-race)
 
-[1]: https://www.bloomberg.com/news/articles/2025-11-07/us-vs-china-who-s-winning-the-ai-race?utm_source=chatgpt.com "The AI Showdown: How the US and China Stack Up"
-[2]: https://www.theedgesingapore.com/news/tech/nvidia-ceo-says-no-plans-ship-blackwell-ai-chips-china?utm_source=chatgpt.com "Nvidia CEO says no plans to ship Blackwell AI chips to China"
-[3]: https://www.afr.com/technology/why-china-is-beating-trump-in-the-race-to-deploy-real-world-ai-20251104-p5n7l8?utm_source=chatgpt.com "Why China is beating Trump in the race to deploy real- ..."
+[1]: https://www.bloomberg.com/news/articles/2025-11-07/us-vs-china-who-s-winning-the-ai-race "The AI Showdown: How the US and China Stack Up"
+[2]: https://www.theedgesingapore.com/news/tech/nvidia-ceo-says-no-plans-ship-blackwell-ai-chips-china "Nvidia CEO says no plans to ship Blackwell AI chips to China"
+[3]: https://www.afr.com/technology/why-china-is-beating-trump-in-the-race-to-deploy-real-world-ai-20251104-p5n7l8 "Why China is beating Trump in the race to deploy real- ..."

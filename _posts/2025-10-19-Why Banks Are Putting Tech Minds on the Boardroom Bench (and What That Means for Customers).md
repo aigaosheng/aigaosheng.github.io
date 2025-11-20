@@ -53,9 +53,9 @@ This trend is an overdue alignment of incentives: banks are putting the skills i
 
 Source link: [https://www.thetimes.com/business-money/companies/article/banks-hire-directors-with-technology-experience-cyberattacks-bx39pzzd9](https://www.thetimes.com/business-money/companies/article/banks-hire-directors-with-technology-experience-cyberattacks-bx39pzzd9)
 
-[1]: https://www.webpronews.com/uk-finance-firms-ramp-up-ai-and-cyber-expertise-in-board-hires/?utm_source=chatgpt.com "UK Finance Firms Ramp Up AI and Cyber Expertise in ..."
-[2]: https://www.bankdirector.com/article/2025-risk-survey-cybersecurity-fraud-at-the-forefront/?utm_source=chatgpt.com "2025 Risk Survey: Cybersecurity, Fraud at the Forefront"
-[3]: https://www.fnlondon.com/articles/ubs-taps-jpmorgans-magazzeni-to-lead-ai-strategy-1f1e52da?utm_source=chatgpt.com "UBS taps JPMorgan's Magazzeni to lead AI strategy"
-[4]: https://www.aon.com/en/insights/articles/banks-are-turning-to-their-talent-to-boost-their-cyber-resilience?utm_source=chatgpt.com "Banks are Turning to Their Talent to Boost Their Cyber ... - Aon"
-[5]: https://www.bakertilly.com/insights/cybersecurity-in-banking-trends-and-tactics?utm_source=chatgpt.com "Cybersecurity in banking: Trends and tactics for 2025"
-[6]: https://www.ciodive.com/news/banking-AI-skills-talent-recruitment-evident-insights/802264/?utm_source=chatgpt.com "Big banks broaden tech talent pool to scale AI"
+[1]: https://www.webpronews.com/uk-finance-firms-ramp-up-ai-and-cyber-expertise-in-board-hires/ "UK Finance Firms Ramp Up AI and Cyber Expertise in ..."
+[2]: https://www.bankdirector.com/article/2025-risk-survey-cybersecurity-fraud-at-the-forefront/ "2025 Risk Survey: Cybersecurity, Fraud at the Forefront"
+[3]: https://www.fnlondon.com/articles/ubs-taps-jpmorgans-magazzeni-to-lead-ai-strategy-1f1e52da "UBS taps JPMorgan's Magazzeni to lead AI strategy"
+[4]: https://www.aon.com/en/insights/articles/banks-are-turning-to-their-talent-to-boost-their-cyber-resilience "Banks are Turning to Their Talent to Boost Their Cyber ... - Aon"
+[5]: https://www.bakertilly.com/insights/cybersecurity-in-banking-trends-and-tactics "Cybersecurity in banking: Trends and tactics for 2025"
+[6]: https://www.ciodive.com/news/banking-AI-skills-talent-recruitment-evident-insights/802264/ "Big banks broaden tech talent pool to scale AI"

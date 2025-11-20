@@ -73,6 +73,6 @@ The Turing Test was a landmark idea for its time—but the conversation around m
 
 Source: [https://cacm.acm.org/news/why-its-time-to-sunset-the-turing-test/](https://cacm.acm.org/news/why-its-time-to-sunset-the-turing-test/)
 
-[1]: https://cacm.acm.org/news/why-its-time-to-sunset-the-turing-test/?utm_source=chatgpt.com "Why It's Time to Sunset the Turing Test"
-[2]: https://cacm.acm.org/?utm_source=chatgpt.com "Communications of the ACM"
-[3]: https://en.wikipedia.org/wiki/Turing_test?utm_source=chatgpt.com "Turing test"
+[1]: https://cacm.acm.org/news/why-its-time-to-sunset-the-turing-test/ "Why It's Time to Sunset the Turing Test"
+[2]: https://cacm.acm.org/ "Communications of the ACM"
+[3]: https://en.wikipedia.org/wiki/Turing_test "Turing test"

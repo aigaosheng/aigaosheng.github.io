@@ -69,5 +69,5 @@ MIT's SEAL framework represents a significant step toward creating AI systems th
 
 ---
 
-[1]: https://venturebeat.com/ai/self-improving-language-models-are-becoming-reality-with-mits-updated-seal?utm_source=chatgpt.com "Self-improving language models are becoming reality with ..."
-[2]: https://venturebeat.com/ai/beyond-static-ai-mits-new-framework-lets-models-teach-themselves?utm_source=chatgpt.com "Beyond static AI: MIT's new framework lets models teach ..."
+[1]: https://venturebeat.com/ai/self-improving-language-models-are-becoming-reality-with-mits-updated-seal "Self-improving language models are becoming reality with ..."
+[2]: https://venturebeat.com/ai/beyond-static-ai-mits-new-framework-lets-models-teach-themselves "Beyond static AI: MIT's new framework lets models teach ..."

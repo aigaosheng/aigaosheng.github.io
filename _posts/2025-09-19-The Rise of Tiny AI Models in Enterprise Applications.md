@@ -101,13 +101,13 @@ The emergence of Tiny AI models marks a significant shift in the AI landscape, e
 
 ## 8. Related News
 
-* [The Verge](https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/business/frances-mistral-launches-europes-first-ai-reasoning-model-2025-06-10/?utm_source=chatgpt.com)
-* [The Guardian](https://www.theguardian.com/technology/2025/aug/05/openai-meta-launching-free-customisable-ai-models?utm_source=chatgpt.com)
+* [The Verge](https://www.theverge.com/news/644171/llama-4-released-ai-model-whatsapp-messenger-instagram-direct)
+* [Reuters](https://www.reuters.com/business/frances-mistral-launches-europes-first-ai-reasoning-model-2025-06-10/)
+* [The Guardian](https://www.theguardian.com/technology/2025/aug/05/openai-meta-launching-free-customisable-ai-models)
 
 ---
 
-[1]: https://www.marktechpost.com/2025/09/14/meta-ai-released-mobilellm-r1-a-edge-reasoning-model-with-less-than-1b-parameters-and-achieves-2x-5x-performance-boost-over-other-fully-open-source-ai-models/?utm_source=chatgpt.com "Meta AI Released MobileLLM-R1: A Edge Reasoning ..."
-[2]: https://venturebeat.com/ai/metas-new-small-reasoning-model-shows-industry-shift-toward-tiny-ai-for?utm_source=chatgpt.com "Meta's new small reasoning model shows industry shift ..."
-[3]: https://medium.com/data-science-in-your-pocket/meta-mobilellm-r1-best-small-reasoning-llms-ea67cbdff86c?utm_source=chatgpt.com "Meta MobileLLM-R1 : Best Small Reasoning LLMs"
-[4]: https://www.wired.com/story/uae-releases-a-tiny-but-powerful-reasoning-model/?utm_source=chatgpt.com "The United Arab Emirates Releases a Tiny But Powerful AI ..."
+[1]: https://www.marktechpost.com/2025/09/14/meta-ai-released-mobilellm-r1-a-edge-reasoning-model-with-less-than-1b-parameters-and-achieves-2x-5x-performance-boost-over-other-fully-open-source-ai-models/ "Meta AI Released MobileLLM-R1: A Edge Reasoning ..."
+[2]: https://venturebeat.com/ai/metas-new-small-reasoning-model-shows-industry-shift-toward-tiny-ai-for "Meta's new small reasoning model shows industry shift ..."
+[3]: https://medium.com/data-science-in-your-pocket/meta-mobilellm-r1-best-small-reasoning-llms-ea67cbdff86c "Meta MobileLLM-R1 : Best Small Reasoning LLMs"
+[4]: https://www.wired.com/story/uae-releases-a-tiny-but-powerful-reasoning-model/ "The United Arab Emirates Releases a Tiny But Powerful AI ..."
