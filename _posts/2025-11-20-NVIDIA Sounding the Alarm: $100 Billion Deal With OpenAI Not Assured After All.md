@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NVIDIA Sounding the Alarm: $100 Billion Deal With OpenAI Not Assured After All"
+title: "NVIDIA Sounding the Alarm - $100 Billion Deal With OpenAI Not Assured After All"
 date: 2025-11-20 21:35:00 +0800
 type: post
 published: true
@@ -11,7 +11,7 @@ tags:
 - NVIDIA OpenAI
 - AI infrastructure
 keywords: [NVIDIA, OpenAI, AI chips]
-permalink: /NVIDIA Sounding the Alarm: $100 Billion Deal With OpenAI Not Assured After All/
+permalink: /NVIDIA Sounding the Alarm - $100 Billion Deal With OpenAI Not Assured After All/
 ---
 
 **NVIDIA Sounding the Alarm: $100 Billion Deal With OpenAI Not Assured After All**
