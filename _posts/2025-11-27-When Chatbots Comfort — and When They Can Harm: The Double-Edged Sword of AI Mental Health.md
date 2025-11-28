@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Chatbots Comfort and When They Can Harm, The Double-Edged Sword of AI Mental Health"
+title: "When Chatbots Comfort and When They Can Harm The Double-Edged Sword of AI Mental Health"
 date: 2025-11-27 20:18:00 +0800
 type: post
 published: true
