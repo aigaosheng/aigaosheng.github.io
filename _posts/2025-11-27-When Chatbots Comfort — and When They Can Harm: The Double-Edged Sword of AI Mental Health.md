@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When Chatbots Comfort — and When They Can Harm: The Double-Edged Sword of AI Mental Health"
+title: "When Chatbots Comfort and When They Can Harm, The Double-Edged Sword of AI Mental Health"
 date: 2025-11-27 20:18:00 +0800
 type: post
 published: true
@@ -11,8 +11,9 @@ tags:
 - therapy chatbot
 - chatbot risks
 keywords: [AI, mental health, chatbot]
-permalink: /When Chatbots Comfort — and When They Can Harm: The Double-Edged Sword of AI Mental Health/
+permalink: /When Chatbots Comfort and When They Can Harm The Double-Edged Sword of AI Mental Health/
 ---
+
 ## When Chatbots Comfort — and When They Can Harm: The Double-Edged Sword of AI Mental Health
 
 In our fast-paced digital age, artificial intelligence is increasingly being hailed as a lifeline for mental health. But as a recent article from Communications of the ACM warns, the same tools that bring solace may sometimes deepen distress. ([Communications of the ACM][1])
