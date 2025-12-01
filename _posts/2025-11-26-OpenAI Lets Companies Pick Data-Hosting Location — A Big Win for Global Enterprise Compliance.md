@@ -92,9 +92,9 @@ OpenAI’s new data-residency options mark a pivotal step toward enterprise-grad
 
 Source: [https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data](https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data)
 
-* [Venturebeat](https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data?utm_source=chatgpt.com)
-* [Venturebeat](https://venturebeat.com/ai/openai-launches-company-knowledge-in-chatgpt-letting-you-access-your-firms?utm_source=chatgpt.com)
-* [Venturebeat](https://venturebeat.com/ai/openai-unveils-agentkit-that-lets-developers-drag-and-drop-to-build-ai?utm_source=chatgpt.com)
+* [Venturebeat](https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data)
+* [Venturebeat](https://venturebeat.com/ai/openai-launches-company-knowledge-in-chatgpt-letting-you-access-your-firms)
+* [Venturebeat](https://venturebeat.com/ai/openai-unveils-agentkit-that-lets-developers-drag-and-drop-to-build-ai)
 
 [1]: https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data "OpenAI now lets enterprises choose where to host their data | VentureBeat"
 [2]: https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data "OpenAI now lets enterprises choose where to host their data | VentureBeat"

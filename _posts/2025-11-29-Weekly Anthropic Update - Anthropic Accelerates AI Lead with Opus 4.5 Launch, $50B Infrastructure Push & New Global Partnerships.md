@@ -102,12 +102,12 @@ This week marks one of the most consequential chapters in Anthropic’s growth t
 
 ---
 
-* [Anthropic](https://www.anthropic.com/news/claude-opus-4-5?utm_source=chatgpt.com)
-* [Anthropic](https://www.anthropic.com/news/disrupting-AI-espionage?utm_source=chatgpt.com)
+* [Anthropic](https://www.anthropic.com/news/claude-opus-4-5)
+* [Anthropic](https://www.anthropic.com/news/disrupting-AI-espionage)
 * [The Official Microsoft Blog](https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships)
 * [techcrunch.com](https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations)
 
-[1]: https://www.anthropic.com/news/claude-opus-4-5?utm_source=chatgpt.com "Introducing Claude Opus 4.5"
-[2]: https://www.anthropic.com/news/disrupting-AI-espionage?utm_source=chatgpt.com "Disrupting the first reported AI-orchestrated cyber espionage campaign \ Anthropic"
-[3]: https://www.theguardian.com/technology/2025/nov/12/anthropic-50bn-datacenter-construction?utm_source=chatgpt.com "Anthropic announces $50bn plan for datacenter construction in US | Artificial intelligence (AI) | The Guardian"
+[1]: https://www.anthropic.com/news/claude-opus-4-5 "Introducing Claude Opus 4.5"
+[2]: https://www.anthropic.com/news/disrupting-AI-espionage "Disrupting the first reported AI-orchestrated cyber espionage campaign \ Anthropic"
+[3]: https://www.theguardian.com/technology/2025/nov/12/anthropic-50bn-datacenter-construction "Anthropic announces $50bn plan for datacenter construction in US | Artificial intelligence (AI) | The Guardian"
 [4]: https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships "Microsoft, NVIDIA and Anthropic announce strategic partnerships"

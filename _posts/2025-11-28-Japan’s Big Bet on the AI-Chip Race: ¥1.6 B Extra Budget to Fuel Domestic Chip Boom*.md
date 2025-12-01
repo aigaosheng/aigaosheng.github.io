@@ -73,6 +73,6 @@ This move — small in isolation, but significant in context — shows Japan dou
 Source: [https://www.techinasia.com/news/japan-plans-1-6b-extra-budget-to-support-ai-chip-industries](https://www.techinasia.com/news/japan-plans-1-6b-extra-budget-to-support-ai-chip-industries)
 
 [1]: https://gigazine.net/gsc_news/en/20241202-japan-9-9-billion-chips-ai "The Japanese government has allocated about 1.5 trillion yen in supplementary budget to strengthen the chip, quantum computing and AI industries, with part of the money going to chip startup Rapidus - GIGAZINE"
-[2]: https://www.bloomberg.com/news/articles/2025-11-06/japan-s-ruling-party-eyes-6-5-billion-per-year-for-chips-ai?utm_source=chatgpt.com "Japan’s Ruling Party Eyes $6.5 Billion a Year for Chips, AI - Bloomberg"
-[3]: https://sandbox.asia.nikkei.com/business/tech/semiconductors/japan-to-roll-out-65bn-in-support-for-chips-ai?utm_source=chatgpt.com "Japan to roll out $65bn in support for chips, AI - Nikkei Asia"
+[2]: https://www.bloomberg.com/news/articles/2025-11-06/japan-s-ruling-party-eyes-6-5-billion-per-year-for-chips-ai "Japan’s Ruling Party Eyes $6.5 Billion a Year for Chips, AI - Bloomberg"
+[3]: https://sandbox.asia.nikkei.com/business/tech/semiconductors/japan-to-roll-out-65bn-in-support-for-chips-ai "Japan to roll out $65bn in support for chips, AI - Nikkei Asia"
 [4]: https://www.japantimes.co.jp/2024/12/11/special-supplements/labor-short-chip-ecosystem-key-engaging-ai "With labor short, chip ecosystem key to engaging AI | The Japan Times"

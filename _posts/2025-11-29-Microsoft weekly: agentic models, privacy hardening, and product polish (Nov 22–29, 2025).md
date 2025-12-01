@@ -111,4 +111,4 @@ Microsoft’s Tech Community posted November updates to Excel (Insiders): visual
 [2]: https://www.microsoft.com/en-us/research/publication/fara-7b-an-efficient-agentic-model-for-computer-use "Fara-7B: An Efficient Agentic Model for Computer Use"
 [3]: https://www.microsoft.com/en-us/research/blog "Microsoft Research Blog"
 [4]: https://news.microsoft.com/signal/home "Microsoft Signal Blog"
-[5]: https://techcommunity.microsoft.com/blog/excelblog/whats-new-in-excel-november-2025/4448370?utm_source=chatgpt.com "What's New in Excel (November 2025)"
+[5]: https://techcommunity.microsoft.com/blog/excelblog/whats-new-in-excel-november-2025/4448370 "What's New in Excel (November 2025)"

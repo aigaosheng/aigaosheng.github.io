@@ -86,13 +86,13 @@ The deprecation of insertion-order/campaign-level targeting in Display & Video
 
 * [blog.google](https://blog.google/products/gemini/gemini-3)
 * [blog.google](https://blog.google/technology/ai/nano-banana-pro)
-* [Google Cloud Press Corner](https://www.googlecloudpresscorner.com/2025-11-24-NATO-and-Google-Cloud-Sign-Multi-Million-Dollar-Deal-for-AI-Enabled-Sovereign-Cloud?utm_source=chatgpt.com)
+* [Google Cloud Press Corner](https://www.googlecloudpresscorner.com/2025-11-24-NATO-and-Google-Cloud-Sign-Multi-Million-Dollar-Deal-for-AI-Enabled-Sovereign-Cloud)
 * [research.google](https://research.google/blog/generative-ui-a-rich-custom-visual-interactive-user-experience-for-any-prompt)
 * [developers.googleblog.com](https://developers.googleblog.com/en/google-colab-is-coming-to-vs-code)
 
 [1]: https://blog.google/products/gemini/gemini-3 "A new era of intelligence with Gemini 3"
 [2]: https://blog.google/technology/ai/nano-banana-pro "Introducing Nano Banana Pro"
-[3]: https://www.googlecloudpresscorner.com/2025-11-24-NATO-and-Google-Cloud-Sign-Multi-Million-Dollar-Deal-for-AI-Enabled-Sovereign-Cloud?utm_source=chatgpt.com "NATO and Google Cloud Sign Multi-Million Dollar Deal for AI-Enabled Sovereign Cloud"
-[4]: https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud?utm_source=chatgpt.com "What’s new with Google Data Cloud | Google Cloud Blog"
+[3]: https://www.googlecloudpresscorner.com/2025-11-24-NATO-and-Google-Cloud-Sign-Multi-Million-Dollar-Deal-for-AI-Enabled-Sovereign-Cloud "NATO and Google Cloud Sign Multi-Million Dollar Deal for AI-Enabled Sovereign Cloud"
+[4]: https://cloud.google.com/blog/products/data-analytics/whats-new-with-google-data-cloud "What’s new with Google Data Cloud | Google Cloud Blog"
 [5]: https://ads-developers.googleblog.com/2025/11 "Google Ads Developer Blog: November 2025"
 [6]: https://opensource.googleblog.com/2025/11 "Google Open Source Blog: November 2025"

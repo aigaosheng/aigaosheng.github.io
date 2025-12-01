@@ -88,8 +88,8 @@ Nvidia will present at the **UBS Global Technology & AI Conference** on **Decemb
 
 ---
 
-[1]: https://investor.nvidia.com/news/press-release-details/2025/Worlds-Leading-Scientific-Supercomputing-Centers-Adopt-NVIDIA-NVQLink-to-Integrate-Grace-Blackwell-Platform-With-Quantum-Processors/default.aspx?utm_source=chatgpt.com "NVIDIA Corporation - World’s Leading Scientific Supercomputing Centers Adopt NVIDIA NVQLink to Integrate Grace Blackwell Platform With Quantum Processors"
-[2]: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026?utm_source=chatgpt.com "NVIDIA Announces Financial Results for Third Quarter Fiscal 2026 | NVIDIA Newsroom"
-[3]: https://www.globenewswire.com/news-release/2025/11/19/3191444/0/en/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2026.html?utm_source=chatgpt.com "NVIDIA Announces Financial Results for Third Quarter Fiscal"
-[4]: https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2026/default.aspx?utm_source=chatgpt.com "NVIDIA Corporation - NVIDIA Announces Financial Results for Third Quarter Fiscal 2026"
-[5]: https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6914936?utm_source=chatgpt.com "NVIDIA Announces Upcoming Event for Financial Community | NVIDIA Newsroom"
+[1]: https://investor.nvidia.com/news/press-release-details/2025/Worlds-Leading-Scientific-Supercomputing-Centers-Adopt-NVIDIA-NVQLink-to-Integrate-Grace-Blackwell-Platform-With-Quantum-Processors/default.aspx "NVIDIA Corporation - World’s Leading Scientific Supercomputing Centers Adopt NVIDIA NVQLink to Integrate Grace Blackwell Platform With Quantum Processors"
+[2]: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2026 "NVIDIA Announces Financial Results for Third Quarter Fiscal 2026 | NVIDIA Newsroom"
+[3]: https://www.globenewswire.com/news-release/2025/11/19/3191444/0/en/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2026.html "NVIDIA Announces Financial Results for Third Quarter Fiscal"
+[4]: https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2026/default.aspx "NVIDIA Corporation - NVIDIA Announces Financial Results for Third Quarter Fiscal 2026"
+[5]: https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6914936 "NVIDIA Announces Upcoming Event for Financial Community | NVIDIA Newsroom"

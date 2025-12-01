@@ -44,7 +44,7 @@ permalink: /VC & Accelerator Weekly Pulse — Nov 15–22, 2025/
 
 ---
 
-[1]: https://techcrunch.com/2025/11/19/function-health-closes-298m-series-b-at-a-2-5b-valuation-launches-medical-intelligence/?utm_source=chatgpt.com "Function Health raises $298M Series B at $2.5B valuation | TechCrunch"
-[2]: https://finance.yahoo.com/news/softbank-invest-3-billion-ohio-154256051.html/?utm_source=chatgpt.com "SoftBank to invest $3 billion in Ohio factory for OpenAI data center, The Information reports"
-[3]: https://a16z.com/announcement/function-health-series-b/?utm_source=chatgpt.com "Function Health Series B: Launching the Medical Intelligence Era | Andreessen Horowitz"
-[4]: https://www.functionhealth.com/article/function-announcement?utm_source=chatgpt.com "Function Function Announcement | Function"
+[1]: https://techcrunch.com/2025/11/19/function-health-closes-298m-series-b-at-a-2-5b-valuation-launches-medical-intelligence/ "Function Health raises $298M Series B at $2.5B valuation | TechCrunch"
+[2]: https://finance.yahoo.com/news/softbank-invest-3-billion-ohio-154256051.html/ "SoftBank to invest $3 billion in Ohio factory for OpenAI data center, The Information reports"
+[3]: https://a16z.com/announcement/function-health-series-b/ "Function Health Series B: Launching the Medical Intelligence Era | Andreessen Horowitz"
+[4]: https://www.functionhealth.com/article/function-announcement "Function Function Announcement | Function"

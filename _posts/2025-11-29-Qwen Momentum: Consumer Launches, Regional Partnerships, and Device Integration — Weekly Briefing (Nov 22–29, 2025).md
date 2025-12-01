@@ -127,8 +127,8 @@ Reuters, China Daily, Alibaba product pages / Alizila coverage. ([Reuters][4])
 
 [1]: https://www.alizila.com/alibaba-launches-qwen-app-to-boost-its-consumer-ai-efforts "Alibaba' Qwen App Surpasses 10 Million Downloads within ..."
 [2]: https://www.reuters.com/world/asia-pacific/alibaba-unveils-major-consumer-ai-upgrade-with-new-qwen-chatbot-2025-11-18 "Alibaba unveils major consumer AI upgrade with new ..."
-[3]: https://www.alibabacloud.com/blog/alibaba%E2%80%99s-qwen-powers-ai-singapore%E2%80%99s-latest-llm-to-strengthen-multilingual-performance-in-southeast-asia_602692?utm_source=chatgpt.com "Alibaba's Qwen Powers AI Singapore's latest LLM to ..."
+[3]: https://www.alibabacloud.com/blog/alibaba%E2%80%99s-qwen-powers-ai-singapore%E2%80%99s-latest-llm-to-strengthen-multilingual-performance-in-southeast-asia_602692 "Alibaba's Qwen Powers AI Singapore's latest LLM to ..."
 [4]: https://www.reuters.com/world/china/alibaba-starts-selling-quark-ai-glasses-china-enters-global-wearables-race-2025-11-27 "Alibaba starts selling Quark AI glasses in China, enters global wearables race"
-[5]: https://eu.36kr.com/en/p/3571950608006020?utm_source=chatgpt.com "Alibaba Enters the \"Frame\": Quark Knocks on the Door"
+[5]: https://eu.36kr.com/en/p/3571950608006020 "Alibaba Enters the \"Frame\": Quark Knocks on the Door"
 [6]: https://technode.global/2025/11/28/alibabas-qwen-powers-ai-singapores-latest-llm-to-strengthen-multilingual-performance-in-southeast-asia "Alibaba's Qwen powers AI Singapore's latest LLM to ..."
-[7]: https://qwen.ai/research?utm_source=chatgpt.com "Qwen3"
+[7]: https://qwen.ai/research "Qwen3"

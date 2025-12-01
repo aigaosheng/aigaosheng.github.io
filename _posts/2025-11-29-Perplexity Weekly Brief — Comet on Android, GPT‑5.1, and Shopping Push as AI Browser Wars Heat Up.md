@@ -107,12 +107,12 @@ If adoption gains traction, Perplexity may disrupt the conventional separation b
 Given your background in AI, quant workflows, and building software platforms — Sheng — these moves may also offer interesting inspiration: the trend toward unified AI-driven workflows (search → browse → act → transact) could influence future systems you design (e.g., in enterprise or trading tools).
 
 * [TechCrunch](https://techcrunch.com/2025/11/20/perplexity-brings-its-ai-browser-comet-to-android)
-* [The Verge](https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal?utm_source=chatgpt.com)
+* [The Verge](https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal)
 * [testingcatalog.com](https://www.testingcatalog.com/perplexity-launches-ai-shopping-assistant-for-us-users-with-paypal)
 * [webpronews.com](https://www.webpronews.com/perplexitys-comet-ignites-mobile-ai-browser-wars-on-android)
-* [Tom's Guide](https://www.tomsguide.com/ai/perplexity-now-includes-in-app-shopping-through-paypal-and-you-can-save-50-percent-on-your-first-purchase?utm_source=chatgpt.com)
+* [Tom's Guide](https://www.tomsguide.com/ai/perplexity-now-includes-in-app-shopping-through-paypal-and-you-can-save-50-percent-on-your-first-purchase)
 
 [1]: https://techcrunch.com/2025/11/20/perplexity-brings-its-ai-browser-comet-to-android "Perplexity brings its AI browser Comet to Android"
 [2]: https://www.financialexpress.com/life/technology-openai-gpt-5-1-now-on-perplexity-confirms-ceo-aravind-srinivas-here-are-all-the-new-features-4044363 "OpenAI GPT 5.1 now on Perplexity, confirms CEO Aravind Srinivas: Here are all the new features - Technology News | The Financial Express"
 [3]: https://www.macrumors.com/2025/11/26/perplexity-ai-shopping-feature "Perplexity Adds AI-Powered Shopping Feature With PayPal Checkout - MacRumors"
-[4]: https://releasebot.io/updates/perplexity-ai?utm_source=chatgpt.com "Perplexity Release Notes - November 2025 Latest Updates - Releasebot"
+[4]: https://releasebot.io/updates/perplexity-ai "Perplexity Release Notes - November 2025 Latest Updates - Releasebot"

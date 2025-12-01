@@ -76,9 +76,9 @@ This week on Hugging Face the community sharpened two practical fronts — model
 
 ---
 
-[1]: https://huggingface.co/blog?utm_source=chatgpt.com "Hugging Face – Blog"
+[1]: https://huggingface.co/blog "Hugging Face – Blog"
 [2]: https://huggingface.co/models?other=LLM&utm_source=chatgpt.com "Models – Hugging Face"
-[3]: https://huggingface.co/papers/trending?utm_source=chatgpt.com "Trending Papers"
+[3]: https://huggingface.co/papers/trending "Trending Papers"
 [4]: https://huggingface.co/models?library=transformers&p=1&pipeline_tag=image-classification&sort=trending&utm_source=chatgpt.com "Models"
-[5]: https://huggingface.co/papers?utm_source=chatgpt.com "Daily Papers"
+[5]: https://huggingface.co/papers "Daily Papers"
 [6]: https://huggingface-paper-explorer.vercel.app "HuggingFace Papers - Top Last 3 Days"
