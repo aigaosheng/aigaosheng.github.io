@@ -79,4 +79,4 @@ Source: Reuters article “AI frenzy is driving a memory chip supply crisis” (
 * [Reuters](https://www.reuters.com/world/china/global-markets-trading-day-graphic-2025-12-02/?utm_source=chatgpt.com)
 
 [1]: https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/ "The AI frenzy is driving a memory chip supply crisis | Reuters"
-[2]: https://en.wikipedia.org/wiki/2020%E2%80%932023_global_chip_shortage?utm_source=chatgpt.com "2020–2023 global chip shortage"
+[2]: https://en.wikipedia.org/wiki/2020%E2%80%932023_global_chip_shortage"2020–2023 global chip shortage"
