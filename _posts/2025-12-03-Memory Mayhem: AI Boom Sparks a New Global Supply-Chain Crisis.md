@@ -74,9 +74,9 @@ As the AI boom accelerates, pressure on memory-chip supply chains is only likely
 
 Source: Reuters article “AI frenzy is driving a memory chip supply crisis” ([Reuters][1])
 
-* [Reuters](https://www.reuters.com/commentary/breakingviews/chinas-chip-champions-miss-their-cue-2025-12-02/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/business/autos-transportation/china-export-controls-push-european-firms-move-supply-chains-2025-12-01/?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/world/china/global-markets-trading-day-graphic-2025-12-02/?utm_source=chatgpt.com)
+* [Reuters](https://www.reuters.com/commentary/breakingviews/chinas-chip-champions-miss-their-cue-2025-12-02/)
+* [Reuters](https://www.reuters.com/business/autos-transportation/china-export-controls-push-european-firms-move-supply-chains-2025-12-01/)
+* [Reuters](https://www.reuters.com/world/china/global-markets-trading-day-graphic-2025-12-02/)
 
 [1]: https://www.reuters.com/world/china/ai-frenzy-is-driving-new-global-supply-chain-crisis-2025-12-03/ "The AI frenzy is driving a memory chip supply crisis | Reuters"
 [2]: https://en.wikipedia.org/wiki/2020%E2%80%932023_global_chip_shortage"2020–2023 global chip shortage"
