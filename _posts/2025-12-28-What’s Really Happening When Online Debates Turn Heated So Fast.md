@@ -15,8 +15,6 @@ permalink: /What’s Really Happening When Online Debates Turn Heated So Fast/
 ---
 ## What’s Really Happening When Online Debates Turn Heated So Fast
 
-### Lede
-
 A seemingly harmless post goes up. Within hours—sometimes minutes—it’s no longer a discussion but a battleground. On Reddit threads and X timelines alike, neutral questions are quickly swallowed by sarcasm, pile-ons, and hard-line positions. This pattern isn’t accidental. It’s structural.
 
 ---
