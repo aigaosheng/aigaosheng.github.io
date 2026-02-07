@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Recruitment Fraud Turned Cloud IAM Into a $2 Billion Cyber Risk"
+title: "How Recruitment Fraud Turned Cloud IAM Into a $2 Billion Cybeçr Risk"
 date: 2026-02-06 20:47:00 +0800
 type: post
 published: true
