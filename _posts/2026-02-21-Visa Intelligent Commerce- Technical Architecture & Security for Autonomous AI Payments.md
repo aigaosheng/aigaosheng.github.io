@@ -20,7 +20,7 @@ permalink: /Visa Intelligent Commerce- Technical Architecture and Security for A
 
 --- 
 
-<img src="/image/visa-intelligence-commerce.png" width="0" height="0" />
+![Visa Intelligent Commerce](/image/visa-intelligence-commerce.png)
 
 ---
 
