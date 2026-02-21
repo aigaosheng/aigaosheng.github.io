@@ -9,7 +9,7 @@ categories: []
 tags:
 - Asset Tokenizatio
 - Tokenized Assets
--Blockchain Finance
+- Blockchain Finance
 keywords: [Asset Tokenizatio,Tokenized Assets,Blockchain Finance]
 permalink: /Asset Tokenization in Fintech/
 ---
