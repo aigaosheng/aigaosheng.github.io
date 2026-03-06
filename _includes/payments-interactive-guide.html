@@ -1,0 +1,1793 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Payment Systems — Interactive Learning Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500;600&family=DM+Sans:wght@300;400;500;600;700&family=Bebas+Neue&display=swap" rel="stylesheet">
+<style>
+  /* ── DARK THEME (default) ── */
+  :root {
+    --bg:        #0a0c10;
+    --surface:   #111420;
+    --panel:     #161a27;
+    --border:    #1e2436;
+    --border2:   #252d42;
+    --amber:     #f5a623;
+    --amber-dim: #b87a18;
+    --gold:      #ffd166;
+    --green:     #06d6a0;
+    --red:       #ef233c;
+    --blue:      #4895ef;
+    --purple:    #7b5ea7;
+    --cyan:      #4cc9f0;
+    --text:      #e8ecf4;
+    --text-dim:  #7a8499;
+    --text-muted:#4a526a;
+    --shadow:    rgba(0,0,0,0.4);
+    --grid-op:   0.35;
+    --header-bg: linear-gradient(180deg,rgba(10,12,16,.98) 0%,rgba(10,12,16,.7) 100%);
+    --nav-bg:    rgba(10,12,16,0.8);
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'DM Sans', sans-serif;
+    --display: 'Bebas Neue', sans-serif;
+  }
+
+  /* ── LIGHT THEME ── */
+  :root.light {
+    --bg:        #eef0f6;
+    --surface:   #ffffff;
+    --panel:     #f4f5fb;
+    --border:    #d8dcea;
+    --border2:   #bfc7de;
+    --amber:     #b06a00;
+    --amber-dim: #8a5200;
+    --gold:      #9a5c00;
+    --green:     #0a7a5c;
+    --red:       #b80e28;
+    --blue:      #1460b0;
+    --purple:    #5535a0;
+    --cyan:      #0878a0;
+    --text:      #0c1020;
+    --text-dim:  #374060;
+    --text-muted:#6a78a0;
+    --shadow:    rgba(0,0,0,0.1);
+    --grid-op:   0.15;
+    --header-bg: linear-gradient(180deg,rgba(238,240,246,.98) 0%,rgba(238,240,246,.85) 100%);
+    --nav-bg:    rgba(238,240,246,0.95);
+  }
+
+  /* smooth theme swap — exclude layout/anim-sensitive elements */
+  body, header, .nav-tabs, .card, .stat-box, .lifecycle-wrap,
+  .table-wrap, .data-table th, .data-table td, .tl-dot, .code-item,
+  .flow-step, .step-detail, .modal, .modal-header, .modal-body,
+  .participant-detail, .fraud-card, .fraud-card-header, .fraud-card-body,
+  .fraud-expanded, .rail-bar-track, .badge {
+    transition: background-color 0.28s ease, border-color 0.28s ease,
+                color 0.22s ease, box-shadow 0.22s ease !important;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* ── BACKGROUND GRID ── */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(var(--border) 1px, transparent 1px),
+      linear-gradient(90deg, var(--border) 1px, transparent 1px);
+    background-size: 40px 40px;
+    opacity: var(--grid-op);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* ── HEADER ── */
+  header {
+    position: relative;
+    z-index: 10;
+    padding: 28px 40px 20px;
+    border-bottom: 1px solid var(--border2);
+    background: var(--header-bg);
+    backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    justify-content: space-between;
+  }
+  .header-left { display: flex; align-items: baseline; gap: 16px; }
+  .logo-tag {
+    font-family: var(--mono);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    color: var(--amber);
+    background: rgba(245,166,35,0.1);
+    border: 1px solid rgba(245,166,35,0.3);
+    padding: 3px 8px;
+    border-radius: 2px;
+  }
+  h1 {
+    font-family: var(--display);
+    font-size: 32px;
+    letter-spacing: 0.04em;
+    color: var(--text);
+    line-height: 1;
+  }
+  .header-meta {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+  }
+  .live-dot {
+    display: inline-block;
+    width: 6px; height: 6px;
+    background: var(--green);
+    border-radius: 50%;
+    margin-right: 6px;
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:0.3;} }
+
+  /* ── NAV TABS ── */
+  .nav-tabs {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    gap: 0;
+    padding: 0 40px;
+    border-bottom: 1px solid var(--border2);
+    background: var(--nav-bg);
+    backdrop-filter: blur(6px);
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .nav-tabs::-webkit-scrollbar { display: none; }
+  .tab {
+    position: relative;
+    padding: 14px 22px;
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    user-select: none;
+  }
+  .tab:hover { color: var(--text); }
+  .tab.active {
+    color: var(--amber);
+    border-bottom-color: var(--amber);
+  }
+  .tab-icon { font-size: 14px; }
+  .tab-num {
+    font-size: 9px;
+    color: var(--text-muted);
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    padding: 1px 5px;
+    border-radius: 2px;
+  }
+
+  /* ── MAIN CONTENT ── */
+  main {
+    position: relative;
+    z-index: 5;
+    padding: 32px 40px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  .view { display: none; }
+  .view.active { display: block; }
+
+  /* ── SECTION HEADERS ── */
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 28px;
+  }
+  .section-num {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--amber);
+    letter-spacing: 0.1em;
+  }
+  .section-title {
+    font-family: var(--display);
+    font-size: 26px;
+    letter-spacing: 0.06em;
+    color: var(--text);
+  }
+  .section-desc {
+    font-size: 13px;
+    color: var(--text-dim);
+    line-height: 1.6;
+    max-width: 680px;
+    margin-bottom: 24px;
+    font-family: var(--mono);
+  }
+
+  /* ── LIFECYCLE FLOW ── */
+  .lifecycle-wrap {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 24px;
+  }
+  .lifecycle-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 20px;
+    border-bottom: 1px solid var(--border);
+    background: var(--panel);
+  }
+  .lc-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text-muted);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-right: auto;
+  }
+  .btn {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    padding: 6px 14px;
+    border-radius: 3px;
+    border: 1px solid var(--border2);
+    background: transparent;
+    color: var(--text-dim);
+    cursor: pointer;
+    transition: all 0.2s;
+    text-transform: uppercase;
+  }
+  .btn:hover { border-color: var(--amber); color: var(--amber); }
+  .btn.primary { background: var(--amber); color: #000; border-color: var(--amber); font-weight: 600; }
+  .btn.primary:hover { background: var(--gold); }
+
+  /* Flow steps */
+  .flow-steps {
+    display: flex;
+    align-items: stretch;
+    padding: 24px 20px;
+    gap: 0;
+    overflow-x: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--border2) transparent;
+  }
+  .flow-step {
+    flex: 0 0 auto;
+    width: 160px;
+    background: var(--panel);
+    border: 1px solid var(--border2);
+    border-radius: 6px;
+    padding: 16px 14px;
+    cursor: pointer;
+    transition: all 0.25s;
+    position: relative;
+    margin-right: 32px;
+  }
+  .flow-step:last-child { margin-right: 0; }
+  .flow-step::after {
+    content: '→';
+    position: absolute;
+    right: -24px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--border2);
+    font-size: 18px;
+    font-family: var(--mono);
+    transition: color 0.2s;
+  }
+  .flow-step:last-child::after { display: none; }
+  .flow-step:hover { border-color: var(--amber); transform: translateY(-2px); }
+  .flow-step:hover::after { color: var(--amber-dim); }
+  .flow-step.active {
+    border-color: var(--amber);
+    background: rgba(245,166,35,0.07);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(245,166,35,0.15);
+  }
+  .flow-step.active::after { color: var(--amber); }
+  .flow-step.done { border-color: var(--green); background: rgba(6,214,160,0.04); }
+  .flow-step.done::after { color: var(--green); }
+  .step-num {
+    font-family: var(--mono);
+    font-size: 9px;
+    color: var(--text-muted);
+    letter-spacing: 0.1em;
+    margin-bottom: 8px;
+  }
+  .step-icon { font-size: 22px; margin-bottom: 8px; }
+  .step-name {
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.3;
+    margin-bottom: 4px;
+  }
+  .step-time {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--amber);
+  }
+  .flow-step.active .step-num { color: var(--amber); }
+  .flow-step.done .step-name { color: var(--green); }
+
+  /* Step detail panel */
+  .step-detail {
+    border-top: 1px solid var(--border2);
+    padding: 24px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    animation: slideIn 0.25s ease;
+  }
+  @keyframes slideIn { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
+  .detail-block { display: flex; flex-direction: column; gap: 8px; }
+  .detail-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text-muted);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  .detail-title {
+    font-family: var(--display);
+    font-size: 20px;
+    letter-spacing: 0.05em;
+    color: var(--amber);
+  }
+  .detail-body {
+    font-size: 13px;
+    color: var(--text-dim);
+    line-height: 1.7;
+  }
+  .detail-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px; }
+  .chip {
+    font-family: var(--mono);
+    font-size: 10px;
+    padding: 3px 8px;
+    border-radius: 2px;
+    border: 1px solid var(--border2);
+    background: var(--panel);
+    color: var(--text-dim);
+  }
+  .chip.amber { border-color: rgba(245,166,35,0.4); color: var(--amber); background: rgba(245,166,35,0.07); }
+  .chip.green { border-color: rgba(6,214,160,0.4); color: var(--green); background: rgba(6,214,160,0.07); }
+  .chip.red { border-color: rgba(239,35,60,0.4); color: var(--red); background: rgba(239,35,60,0.07); }
+  .chip.blue { border-color: rgba(72,149,239,0.4); color: var(--blue); background: rgba(72,149,239,0.07); }
+
+  /* ── GRID LAYOUTS ── */
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .three-col { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .four-col { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+
+  /* ── CARDS ── */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 6px;
+    padding: 20px;
+    transition: border-color 0.2s, transform 0.2s;
+  }
+  .card:hover { border-color: var(--border2); }
+  .card.clickable { cursor: pointer; }
+  .card.clickable:hover { border-color: var(--amber); transform: translateY(-1px); }
+  .card-tag {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .tag-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--amber); flex-shrink: 0; }
+  .tag-dot.green { background: var(--green); }
+  .tag-dot.red { background: var(--red); }
+  .tag-dot.blue { background: var(--blue); }
+  .tag-dot.purple { background: var(--purple); }
+  .card-title { font-size: 14px; font-weight: 600; color: var(--text); margin-bottom: 10px; }
+  .card-body { font-size: 12px; color: var(--text-dim); line-height: 1.65; }
+
+  /* ── DATA TABLE ── */
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: var(--mono);
+    font-size: 11px;
+  }
+  .data-table thead th {
+    background: var(--panel);
+    color: var(--amber);
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-align: left;
+    padding: 10px 14px;
+    border-bottom: 1px solid var(--border2);
+    white-space: nowrap;
+  }
+  .data-table tbody tr {
+    border-bottom: 1px solid var(--border);
+    transition: background 0.15s;
+  }
+  .data-table tbody tr:hover { background: rgba(var(--amber-rgb, 180,100,0), 0.04); }
+  .data-table tbody td {
+    padding: 10px 14px;
+    color: var(--text-dim);
+    vertical-align: top;
+    line-height: 1.5;
+  }
+  .data-table tbody td:first-child { color: var(--text); font-weight: 500; }
+  .table-wrap {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 6px;
+    overflow: hidden;
+    overflow-x: auto;
+    margin-bottom: 20px;
+  }
+
+  /* ── BADGES ── */
+  .badge {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 2px 7px;
+    border-radius: 2px;
+    line-height: 1.6;
+  }
+  .badge-green { background: rgba(6,214,160,0.15); color: var(--green); border: 1px solid rgba(6,214,160,0.3); }
+  .badge-red { background: rgba(239,35,60,0.12); color: var(--red); border: 1px solid rgba(239,35,60,0.3); }
+  .badge-amber { background: rgba(245,166,35,0.12); color: var(--amber); border: 1px solid rgba(245,166,35,0.3); }
+  .badge-blue { background: rgba(72,149,239,0.12); color: var(--blue); border: 1px solid rgba(72,149,239,0.3); }
+  .badge-purple { background: rgba(123,94,167,0.15); color: var(--purple); border: 1px solid rgba(123,94,167,0.3); }
+
+  /* ── PARTICIPANT MAP ── */
+  .participant-map {
+    position: relative;
+    height: 520px;
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .pmap-svg { width: 100%; height: 100%; }
+  .p-node {
+    cursor: pointer;
+  }
+  .p-node rect { transition: all 0.2s; }
+  .p-node:hover rect { filter: brightness(1.3); }
+  .participant-detail {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 6px;
+    padding: 20px;
+    display: none;
+    animation: slideIn 0.2s ease;
+  }
+  .participant-detail.visible { display: block; }
+
+  /* ── RAIL BARS ── */
+  .rail-bars { display: flex; flex-direction: column; gap: 12px; }
+  .rail-row {
+    display: grid;
+    grid-template-columns: 160px 1fr 80px;
+    align-items: center;
+    gap: 12px;
+  }
+  .rail-name {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text);
+    font-weight: 500;
+  }
+  .rail-bar-track {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    height: 22px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .rail-bar-fill {
+    height: 100%;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    padding-left: 8px;
+    font-family: var(--mono);
+    font-size: 10px;
+    color: #000;
+    font-weight: 600;
+    transition: width 0.8s cubic-bezier(0.34,1.56,0.64,1);
+    white-space: nowrap;
+  }
+  .rail-val {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text-muted);
+    text-align: right;
+  }
+
+  /* ── FRAUD CARDS ── */
+  .fraud-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+  .fraud-card {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 6px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.25s;
+  }
+  .fraud-card:hover { border-color: var(--red); transform: translateY(-2px); }
+  .fraud-card-header {
+    background: var(--panel);
+    border-bottom: 1px solid var(--border2);
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .fraud-icon { font-size: 20px; }
+  .fraud-name { font-size: 13px; font-weight: 600; color: var(--text); }
+  .fraud-card-body { padding: 14px 16px; }
+  .fraud-threat {
+    font-family: var(--mono);
+    font-size: 9px;
+    letter-spacing: 0.1em;
+    color: var(--red);
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+  .fraud-desc { font-size: 12px; color: var(--text-dim); line-height: 1.6; margin-bottom: 12px; }
+  .fraud-signals { display: flex; flex-direction: column; gap: 4px; }
+  .fraud-signal {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--text-muted);
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  .fraud-signal::before { content: '›'; color: var(--red); flex-shrink: 0; }
+  .fraud-expanded {
+    display: none;
+    padding: 14px 16px;
+    border-top: 1px solid var(--border);
+    background: rgba(239,35,60,0.03);
+    animation: slideIn 0.2s ease;
+  }
+  .fraud-expanded.open { display: block; }
+  .fraud-expanded p { font-size: 12px; color: var(--text-dim); line-height: 1.65; margin-bottom: 8px; }
+  .fraud-defenses { margin-top: 10px; }
+  .fraud-defense {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--green);
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+    margin-bottom: 4px;
+  }
+  .fraud-defense::before { content: '✓'; flex-shrink: 0; }
+
+  /* ── MODAL ── */
+  .modal-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(4px);
+  }
+  .modal-overlay.open { display: flex; }
+  .modal {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 8px;
+    width: 560px;
+    max-width: 95vw;
+    max-height: 85vh;
+    overflow-y: auto;
+    animation: slideIn 0.2s ease;
+  }
+  .modal-header {
+    padding: 20px 24px;
+    border-bottom: 1px solid var(--border2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background: var(--surface);
+  }
+  .modal-close {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    font-size: 20px;
+    cursor: pointer;
+    padding: 4px;
+    transition: color 0.2s;
+  }
+  .modal-close:hover { color: var(--text); }
+  .modal-body { padding: 24px; }
+  .modal-body p { font-size: 13px; color: var(--text-dim); line-height: 1.7; margin-bottom: 14px; }
+  .modal-kv { display: flex; flex-direction: column; gap: 8px; margin-top: 12px; }
+  .kv { display: flex; gap: 12px; }
+  .kv-key {
+    font-family: var(--mono);
+    font-size: 10px;
+    color: var(--amber);
+    min-width: 120px;
+    letter-spacing: 0.05em;
+    flex-shrink: 0;
+  }
+  .kv-val { font-family: var(--mono); font-size: 11px; color: var(--text-dim); line-height: 1.5; }
+
+  /* ── STAT ROW ── */
+  .stat-row { display: flex; gap: 14px; margin-bottom: 20px; }
+  .stat-box {
+    background: var(--surface);
+    border: 1px solid var(--border2);
+    border-radius: 6px;
+    padding: 16px 20px;
+    flex: 1;
+  }
+  .stat-val {
+    font-family: var(--display);
+    font-size: 28px;
+    letter-spacing: 0.04em;
+    color: var(--amber);
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .stat-label { font-family: var(--mono); font-size: 10px; color: var(--text-muted); letter-spacing: 0.1em; }
+
+  /* ── TIMELINE ── */
+  .timeline { display: flex; flex-direction: column; gap: 0; position: relative; }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 20px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--border2);
+  }
+  .tl-item { display: flex; gap: 20px; padding-bottom: 24px; position: relative; }
+  .tl-dot {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--panel);
+    border: 2px solid var(--border2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 16px;
+    z-index: 1;
+    transition: border-color 0.2s;
+  }
+  .tl-item:hover .tl-dot { border-color: var(--amber); }
+  .tl-content { flex: 1; padding-top: 8px; }
+  .tl-title { font-size: 13px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
+  .tl-body { font-size: 12px; color: var(--text-dim); line-height: 1.6; }
+
+  /* ── RESPONSE CODES ── */
+  .code-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px; }
+  .code-item {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 10px 12px;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+  }
+  .code-num {
+    font-family: var(--mono);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--amber);
+    min-width: 28px;
+    flex-shrink: 0;
+  }
+  .code-desc { font-size: 11px; color: var(--text-dim); line-height: 1.4; }
+
+  /* ── TOOLTIPS ── */
+  [data-tip] { cursor: help; border-bottom: 1px dashed var(--border2); }
+
+  /* ── PROGRESS BAR ── */
+  .progress-wrap { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .progress-label { font-family: var(--mono); font-size: 10px; color: var(--text-muted); min-width: 120px; }
+  .progress-track { flex: 1; height: 6px; background: var(--panel); border-radius: 3px; overflow: hidden; }
+  .progress-fill { height: 100%; border-radius: 3px; transition: width 1s ease; }
+  .progress-pct { font-family: var(--mono); font-size: 10px; color: var(--text-dim); min-width: 36px; text-align: right; }
+
+  /* ── THEME TOGGLE ── */
+  .theme-toggle {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--panel);
+    border: 1px solid var(--border2);
+    border-radius: 100px;
+    padding: 4px;
+    cursor: pointer;
+    user-select: none;
+    flex-shrink: 0;
+  }
+  .theme-toggle:hover { border-color: var(--amber); }
+  .theme-opt {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 12px;
+    border-radius: 100px;
+    font-family: var(--mono);
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+  .theme-opt.active {
+    background: var(--amber);
+    color: #000;
+    font-weight: 700;
+  }
+  .theme-opt .t-icon { font-size: 13px; }
+  ::-webkit-scrollbar { width: 5px; height: 5px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+
+  @media (max-width: 768px) {
+    header { padding: 16px 20px; }
+    main { padding: 20px; }
+    .nav-tabs { padding: 0 20px; }
+    .two-col, .three-col, .four-col, .fraud-grid { grid-template-columns: 1fr; }
+    .step-detail { grid-template-columns: 1fr; }
+    .rail-row { grid-template-columns: 120px 1fr; }
+    .rail-val { display: none; }
+    h1 { font-size: 22px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-left">
+    <div class="logo-tag">FINTECH EDU</div>
+    <h1>PAYMENT SYSTEMS</h1>
+  </div>
+  <div class="header-meta"><span class="live-dot"></span>INTERACTIVE LEARNING GUIDE — 6 MODULES</div>
+  <div class="theme-toggle" onclick="toggleTheme()" id="theme-toggle" title="Switch theme">
+    <div class="theme-opt active" id="theme-dark"><span class="t-icon">🌑</span> DARK</div>
+    <div class="theme-opt" id="theme-light"><span class="t-icon">☀️</span> LIGHT</div>
+  </div>
+</header>
+
+<nav class="nav-tabs">
+  <div class="tab active" data-view="transactions" onclick="switchView('transactions')">
+    <span class="tab-icon">💳</span> Card Transactions <span class="tab-num">1</span>
+  </div>
+  <div class="tab" data-view="payouts" onclick="switchView('payouts')">
+    <span class="tab-icon">📤</span> Payouts <span class="tab-num">2</span>
+  </div>
+  <div class="tab" data-view="remittances" onclick="switchView('remittances')">
+    <span class="tab-icon">🌍</span> Remittances <span class="tab-num">3</span>
+  </div>
+  <div class="tab" data-view="rails" onclick="switchView('rails')">
+    <span class="tab-icon">⚡</span> Payment Rails <span class="tab-num">4</span>
+  </div>
+  <div class="tab" data-view="participants" onclick="switchView('participants')">
+    <span class="tab-icon">🏛</span> Ecosystem <span class="tab-num">5</span>
+  </div>
+  <div class="tab" data-view="fraud" onclick="switchView('fraud')">
+    <span class="tab-icon">🔴</span> Fraud & Risk <span class="tab-num">6</span>
+  </div>
+</nav>
+
+<main>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- VIEW 1: CARD TRANSACTIONS                                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="view active" id="view-transactions">
+  <div class="section-header">
+    <span class="section-num">01 /</span>
+    <span class="section-title">CARD PAYMENT LIFECYCLE</span>
+  </div>
+  <p class="section-desc">Click any phase to explore its mechanics. A card tap at a merchant triggers 9+ distinct steps — most completing in under 300ms.</p>
+
+  <div class="stat-row">
+    <div class="stat-box"><div class="stat-val">~200ms</div><div class="stat-label">End-to-end auth time</div></div>
+    <div class="stat-box"><div class="stat-val">T+1/2</div><div class="stat-label">Settlement lag</div></div>
+    <div class="stat-box"><div class="stat-val">ISO 8583</div><div class="stat-label">Auth message format</div></div>
+    <div class="stat-box"><div class="stat-val">0.1-3%</div><div class="stat-label">Interchange range</div></div>
+    <div class="stat-box"><div class="stat-val">1%</div><div class="stat-label">Max chargeback rate (Visa)</div></div>
+  </div>
+
+  <div class="lifecycle-wrap">
+    <div class="lifecycle-controls">
+      <span class="lc-label">TRANSACTION PHASES — click to explore</span>
+      <button class="btn" onclick="resetFlow('tx')">↺ RESET</button>
+      <button class="btn primary" onclick="autoPlay('tx')">▶ AUTO-PLAY</button>
+    </div>
+    <div class="flow-steps" id="tx-flow">
+      <!-- Steps injected by JS -->
+    </div>
+    <div class="step-detail" id="tx-detail"></div>
+  </div>
+
+  <div class="two-col">
+    <div>
+      <div class="card-tag" style="color:var(--text-muted);font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;"><span class="tag-dot"></span> AUTHORIZATION RESPONSE CODES</div>
+      <div class="table-wrap">
+        <div class="code-grid" style="padding:14px;">
+          <div class="code-item"><span class="code-num">00</span><span class="code-desc">Approved</span></div>
+          <div class="code-item"><span class="code-num">05</span><span class="code-desc">Do Not Honor (generic)</span></div>
+          <div class="code-item"><span class="code-num">14</span><span class="code-desc">Invalid Card Number</span></div>
+          <div class="code-item"><span class="code-num">51</span><span class="code-desc">Insufficient Funds</span></div>
+          <div class="code-item"><span class="code-num">54</span><span class="code-desc">Expired Card</span></div>
+          <div class="code-item"><span class="code-num">57</span><span class="code-desc">Not Permitted to Cardholder</span></div>
+          <div class="code-item"><span class="code-num">61</span><span class="code-desc">Exceeds Amount Limit</span></div>
+          <div class="code-item"><span class="code-num">65</span><span class="code-desc">Exceeds Frequency Limit</span></div>
+          <div class="code-item"><span class="code-num">78</span><span class="code-desc">No Account Found</span></div>
+          <div class="code-item"><span class="code-num">91</span><span class="code-desc">Issuer Unavailable (stand-in)</span></div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="card-tag" style="color:var(--text-muted);font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;"><span class="tag-dot amber"></span> SCA / 3DS EXEMPTION THRESHOLDS</div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th>Exemption</th><th>Condition</th><th>Liability</th></tr></thead>
+          <tbody>
+            <tr><td>Low value</td><td>&lt;€30 / 5 txns or &lt;€100 cumulative</td><td>Issuer</td></tr>
+            <tr><td>TRA ≤€100</td><td>PSP fraud rate &lt;0.13%</td><td>PSP</td></tr>
+            <tr><td>TRA ≤€250</td><td>PSP fraud rate &lt;0.06%</td><td>PSP</td></tr>
+            <tr><td>TRA ≤€500</td><td>PSP fraud rate &lt;0.01%</td><td>PSP</td></tr>
+            <tr><td>Trusted beneficiary</td><td>Customer-whitelisted payee</td><td>Issuer</td></tr>
+            <tr><td>Recurring fixed</td><td>Same amount, same payee</td><td>Issuer</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="card-tag" style="color:var(--text-muted);font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;margin-top:16px;"><span class="tag-dot red"></span> CHARGEBACK REASON CODES</div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th>Code</th><th>Reason</th></tr></thead>
+          <tbody>
+            <tr><td>Visa 10.4 / MC 4853</td><td>Card Absent — fraud (CNP)</td></tr>
+            <tr><td>Visa 13.1</td><td>Merchandise Not Received</td></tr>
+            <tr><td>Visa 13.3</td><td>Not as Described / Defective</td></tr>
+            <tr><td>Visa 12.6</td><td>Duplicate Processing</td></tr>
+            <tr><td>Visa 13.6</td><td>Credit Not Processed</td></tr>
+            <tr><td>MC 4807</td><td>Warning Bulletin / Blocked Account</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- VIEW 2: PAYOUTS                                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="view" id="view-payouts">
+  <div class="section-header">
+    <span class="section-num">02 /</span>
+    <span class="section-title">PAYOUT LIFECYCLE</span>
+  </div>
+  <p class="section-desc">Push payments from platforms to payees — gig workers, sellers, insurance claimants. Rail choice determines speed and cost.</p>
+
+  <div class="stat-row">
+    <div class="stat-box"><div class="stat-val">$1M</div><div class="stat-label">RTP/Same-Day ACH limit</div></div>
+    <div class="stat-box"><div class="stat-val">&lt;30s</div><div class="stat-label">Visa Direct typical speed</div></div>
+    <div class="stat-box"><div class="stat-val">24/7</div><div class="stat-label">RTP &amp; FedNow availability</div></div>
+    <div class="stat-box"><div class="stat-val">5–10%</div><div class="stat-label">Typical chargeback reserve</div></div>
+  </div>
+
+  <div class="lifecycle-wrap">
+    <div class="lifecycle-controls">
+      <span class="lc-label">PAYOUT PHASES — click to explore</span>
+      <button class="btn" onclick="resetFlow('po')">↺ RESET</button>
+      <button class="btn primary" onclick="autoPlay('po')">▶ AUTO-PLAY</button>
+    </div>
+    <div class="flow-steps" id="po-flow"></div>
+    <div class="step-detail" id="po-detail"></div>
+  </div>
+
+  <div class="two-col">
+    <div>
+      <div class="card-tag" style="color:var(--text-muted);font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;"><span class="tag-dot blue"></span> BANK ACCOUNT VERIFICATION METHODS</div>
+      <div class="timeline">
+        <div class="tl-item">
+          <div class="tl-dot">🔬</div>
+          <div class="tl-content">
+            <div class="tl-title">Micro-Deposit Verification</div>
+            <div class="tl-body">Two small random deposits (&lt;$1) sent to the account. Payee confirms the exact amounts. Proves ownership. Adds 1-3 days friction. Used by ACH-based systems.</div>
+          </div>
+        </div>
+        <div class="tl-item">
+          <div class="tl-dot">⚡</div>
+          <div class="tl-content">
+            <div class="tl-title">Instant Account Verification (IAV)</div>
+            <div class="tl-body">Payee authenticates via OAuth with their bank. Platform gets read-only access to confirm ownership and check balance. Plaid, MX, TrueLayer.</div>
+          </div>
+        </div>
+        <div class="tl-item">
+          <div class="tl-dot">🔔</div>
+          <div class="tl-content">
+            <div class="tl-title">Prenote (ACH Pre-Notification)</div>
+            <div class="tl-body">Zero-dollar test entry. Returns NOC (Notification of Change) if account details have changed. No funds moved.</div>
+          </div>
+        </div>
+        <div class="tl-item">
+          <div class="tl-dot">💳</div>
+          <div class="tl-content">
+            <div class="tl-title">Zero-Dollar Card Auth</div>
+            <div class="tl-body">For Visa Direct / Mastercard Send. A $0 authorization validates the card number and confirms it can receive push payments.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="card-tag" style="color:var(--text-muted);font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;"><span class="tag-dot red"></span> PAYOUT FRAUD VECTORS</div>
+      <div style="display:flex;flex-direction:column;gap:10px;">
+        <div class="card">
+          <div class="card-tag"><span class="tag-dot red"></span> ACCOUNT TAKEOVER</div>
+          <div class="card-title">Bank Account Update Fraud</div>
+          <div class="card-body">Attacker compromises payee account and changes bank details to their own. <strong style="color:var(--green)">Defense:</strong> No payout within 24h of bank account change. Out-of-band confirmation.</div>
+        </div>
+        <div class="card">
+          <div class="card-tag"><span class="tag-dot red"></span> FIRST-PARTY FRAUD</div>
+          <div class="card-title">Fraudulent Earnings Claims</div>
+          <div class="card-body">Payee claims gig earnings fraudulently (e.g., fake deliveries). <strong style="color:var(--green)">Defense:</strong> Behavioral analytics, GPS verification, graph analysis of payout networks.</div>
+        </div>
+        <div class="card">
+          <div class="card-tag"><span class="tag-dot red"></span> MONEY MULE</div>
+          <div class="card-title">Unwitting Fund Transfer</div>
+          <div class="card-body">Payee's account receives and forwards fraudulent funds. <strong style="color:var(--green)">Defense:</strong> Detect "receive large credit → immediately wire out" pattern via TMS.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- VIEW 3: REMITTANCES                                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="view" id="view-remittances">
+  <div class="section-header">
+    <span class="section-num">03 /</span>
+    <span class="section-title">REMITTANCE LIFECYCLE</span>
+  </div>
+  <p class="section-desc">Cross-border consumer transfers — from a London nurse sending money home to the Philippines, to a Silicon Valley engineer supporting family in India.</p>
+
+  <div class="stat-row">
+    <div class="stat-box"><div class="stat-val">$656B</div><div class="stat-label">Global remittances 2023</div></div>
+    <div class="stat-box"><div class="stat-val">3%</div><div class="stat-label">G20 target cost</div></div>
+    <div class="stat-box"><div class="stat-val">6.2%</div><div class="stat-label">Average global cost (2024)</div></div>
+    <div class="stat-box"><div class="stat-val">&gt;50%</div><div class="stat-label">Africa via mobile money</div></div>
+  </div>
+
+  <div class="lifecycle-wrap">
+    <div class="lifecycle-controls">
+      <span class="lc-label">REMITTANCE PHASES — click to explore</span>
+      <button class="btn" onclick="resetFlow('rm')">↺ RESET</button>
+      <button class="btn primary" onclick="autoPlay('rm')">▶ AUTO-PLAY</button>
+    </div>
+    <div class="flow-steps" id="rm-flow"></div>
+    <div class="step-detail" id="rm-detail"></div>
+  </div>
+
+  <div class="two-col">
+    <div>
+      <div class="card-tag" style="color:var(--text-muted);font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;"><span class="tag-dot amber"></span> LAST-MILE DELIVERY OPTIONS</div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th>Method</th><th>Requirement</th><th>Speed</th><th>Cost</th><th>Regions</th></tr></thead>
+          <tbody>
+            <tr><td>Bank credit</td><td>Banked recipient</td><td>Minutes–D+1</td><td>Low</td><td>Global</td></tr>
+            <tr><td>Mobile money</td><td>Mobile phone + SIM</td><td>Seconds</td><td>Very Low</td><td>Africa, SEA</td></tr>
+            <tr><td>Cash pickup</td><td>ID at agent</td><td>Minutes</td><td>Medium</td><td>Global</td></tr>
+            <tr><td>Home delivery</td><td>Address access</td><td>Hours–D+1</td><td>High</td><td>Selective</td></tr>
+            <tr><td>Stablecoin off-ramp</td><td>Crypto wallet</td><td>Seconds</td><td>Very Low</td><td>Emerging</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <div>
+      <div class="card-tag" style="color:var(--text-muted);font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;"><span class="tag-dot blue"></span> FX MECHANICS</div>
+      <div style="display:flex;flex-direction:column;gap:10px;">
+        <div class="card">
+          <div class="card-title">Spread vs. Transparent Fee</div>
+          <div class="card-body">Traditional MTOs embed cost in the exchange rate spread (2-5% markup on mid-market). <span style="color:var(--amber)">Wise model:</span> publishes mid-market rate + explicit transparent fee. Disrupted industry cost expectations.</div>
+        </div>
+        <div class="card">
+          <div class="card-title">Rate Locking & Hedging</div>
+          <div class="card-body">MTOs lock the rate shown to the customer and hedge FX exposure via forward contracts with banks. For illiquid pairs (USD/XOF), pre-funded local balances required — creating balance sheet FX risk.</div>
+        </div>
+        <div class="card">
+          <div class="card-title">Herstatt Risk (FX Settlement Risk)</div>
+          <div class="card-body">When one leg of a currency exchange settles but the other does not (due to time zones or default). CLS Bank eliminates this via PVP (Payment vs. Payment) simultaneous settlement across 18 currencies.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- VIEW 4: RAILS                                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="view" id="view-rails">
+  <div class="section-header">
+    <span class="section-num">04 /</span>
+    <span class="section-title">PAYMENT RAILS COMPARISON</span>
+  </div>
+  <p class="section-desc">Rails differ across speed, cost, reversibility, limits, and geography. Click any row for details.</p>
+
+  <div style="display:flex;gap:10px;margin-bottom:18px;flex-wrap:wrap;">
+    <span style="font-family:var(--mono);font-size:11px;color:var(--text-muted);">SPEED VISUALIZATION:</span>
+    <button class="btn" onclick="setMetric('speed')" id="btn-speed" style="border-color:var(--amber);color:var(--amber)">⚡ Speed</button>
+    <button class="btn" onclick="setMetric('cost')">💰 Cost</button>
+    <button class="btn" onclick="setMetric('limit')">🔢 Limit</button>
+  </div>
+
+  <div class="lifecycle-wrap" style="margin-bottom:20px;">
+    <div class="lifecycle-controls"><span class="lc-label" id="rail-metric-label">RELATIVE SPEED — longer bar = faster rail</span></div>
+    <div style="padding:20px 24px;" id="rail-bars-container"></div>
+  </div>
+
+  <div class="table-wrap">
+    <table class="data-table" id="rails-table">
+      <thead>
+        <tr>
+          <th>Rail</th>
+          <th>Latency</th>
+          <th>Limit</th>
+          <th>Reversible</th>
+          <th>Availability</th>
+          <th>Use Cases</th>
+          <th>Scope</th>
+        </tr>
+      </thead>
+      <tbody id="rails-tbody"></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- VIEW 5: PARTICIPANTS ECOSYSTEM                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="view" id="view-participants">
+  <div class="section-header">
+    <span class="section-num">05 /</span>
+    <span class="section-title">PAYMENT ECOSYSTEM</span>
+  </div>
+  <p class="section-desc">Click any participant to explore their role, regulatory status, and relationships in the payment chain.</p>
+
+  <div class="participant-map">
+    <svg class="pmap-svg" id="ecosystem-svg" viewBox="0 0 900 500"></svg>
+  </div>
+
+  <div class="participant-detail" id="participant-detail">
+    <div style="font-family:var(--mono);font-size:10px;color:var(--text-muted);letter-spacing:.1em;margin-bottom:6px;">SELECT A PARTICIPANT ABOVE</div>
+    <div style="font-size:13px;color:var(--text-dim);">Click any node in the diagram to see role details, regulatory requirements, and key obligations.</div>
+  </div>
+
+  <div style="margin-top:20px;">
+    <div class="card-tag" style="color:var(--text-muted);font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;"><span class="tag-dot"></span> REGULATORY FRAMEWORK COMPARISON</div>
+    <div class="table-wrap">
+      <table class="data-table">
+        <thead><tr><th>Dimension</th><th>US Approach</th><th>EU Approach</th></tr></thead>
+        <tbody>
+          <tr><td>Primary Law</td><td>BSA/AML + state MTLs + CFPB</td><td>PSD2/PSD3 + AMLD6</td></tr>
+          <tr><td>Open Banking</td><td>CFPB § 1033 (market-led)</td><td>PSD2 TPP mandate (API access required)</td></tr>
+          <tr><td>SCA</td><td>Not mandated; liability rules incentivize</td><td>Mandatory RTS on SCA (2FA required)</td></tr>
+          <tr><td>Interchange</td><td>Durbin cap on debit (large issuers only)</td><td>IFR: debit 0.2%, credit 0.3%</td></tr>
+          <tr><td>Instant Payments</td><td>FedNow / RTP voluntary</td><td>EU Instant Payments Reg: mandatory at no premium</td></tr>
+          <tr><td>Data Protection</td><td>GLBA (sectoral)</td><td>GDPR (comprehensive, extraterritorial)</td></tr>
+          <tr><td>Licensing</td><td>State-by-state MTL (50 states)</td><td>Single EU PI/EMI passport</td></tr>
+          <tr><td>AML Filing</td><td>SAR to FinCEN (BSA)</td><td>STR to national FIU</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- VIEW 6: FRAUD & RISK                                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="view" id="view-fraud">
+  <div class="section-header">
+    <span class="section-num">06 /</span>
+    <span class="section-title">FRAUD TYPOLOGIES & DETECTION</span>
+  </div>
+  <p class="section-desc">Understanding how each fraud type manifests is essential to detecting and preventing it. Click any card to expand detection details.</p>
+
+  <div class="stat-row">
+    <div class="stat-box"><div class="stat-val">$485B</div><div class="stat-label">Global fraud losses 2023</div></div>
+    <div class="stat-box"><div class="stat-val">40-80%</div><div class="stat-label">Chargebacks = friendly fraud</div></div>
+    <div class="stat-box"><div class="stat-val">#1</div><div class="stat-label">Synthetic ID — fastest growing</div></div>
+    <div class="stat-box"><div class="stat-val">65%</div><div class="stat-label">Users reuse passwords (ATO risk)</div></div>
+  </div>
+
+  <div class="fraud-grid" id="fraud-grid"></div>
+
+  <div style="margin-top:24px;">
+    <div class="card-tag" style="color:var(--text-muted);font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:12px;"><span class="tag-dot red"></span> AML DETECTION SCENARIOS</div>
+    <div class="two-col">
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th>Pattern</th><th>Indicator</th><th>Rule Example</th></tr></thead>
+          <tbody>
+            <tr><td>Structuring</td><td>Multiple txns just below $10K</td><td>3+ cash txns $9,000-$9,999 in 5 days</td></tr>
+            <tr><td>Rapid movement</td><td>Deposit + withdrawal in hours</td><td>Funds exit &gt;80% within 24h</td></tr>
+            <tr><td>Layering</td><td>Multiple entity hops</td><td>Transaction chain depth &gt; 3 in 48h</td></tr>
+            <tr><td>Shell co.</td><td>No apparent business activity</td><td>No invoices + high international wires</td></tr>
+            <tr><td>Mule network</td><td>Same device / IP, many accounts</td><td>1 device linked to 5+ accounts</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="table-wrap">
+        <table class="data-table">
+          <thead><tr><th>Screening List</th><th>Operator</th><th>Jurisdiction</th></tr></thead>
+          <tbody>
+            <tr><td>OFAC SDN List</td><td>US Treasury</td><td>US persons + USD txns</td></tr>
+            <tr><td>UN Consolidated</td><td>UNSC</td><td>Global</td></tr>
+            <tr><td>EU Consolidated</td><td>EU CFSP</td><td>EU entities + EUR</td></tr>
+            <tr><td>HMT FSN</td><td>HM Treasury</td><td>UK (post-Brexit)</td></tr>
+            <tr><td>FATF Grey/Black List</td><td>FATF</td><td>Global (enhanced monitoring)</td></tr>
+            <tr><td>PEP Databases</td><td>Various vendors</td><td>Global</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+</main>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- MODAL                                                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div class="modal-overlay" id="modal" onclick="closeModal(event)">
+  <div class="modal">
+    <div class="modal-header">
+      <div>
+        <div id="modal-tag" style="font-family:var(--mono);font-size:9px;color:var(--amber);letter-spacing:.15em;margin-bottom:4px;"></div>
+        <div id="modal-title" style="font-family:var(--display);font-size:22px;letter-spacing:.05em;"></div>
+      </div>
+      <button class="modal-close" onclick="closeModal()">✕</button>
+    </div>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════════════════════════
+// DATA
+// ═══════════════════════════════════════════════════════════════
+
+const TX_STEPS = [
+  { icon:'💳', name:'Initiation', time:'t=0', color:'#4895ef',
+    title:'Initiation & Data Capture',
+    what:'The payment begins when the cardholder presents their card. In CP transactions, EMV chip generates an ARQC (Authorization Request Cryptogram) — a unique one-time code proving card presence. In CNP, the PAN, expiry, CVV2, billing address, and device fingerprint are collected.',
+    chips:[['CP: EMV Chip','amber'],['CNP: PAN + CVV2','amber'],['Contactless: NFC/EMV','amber'],['P2PE Encryption','green'],['Tokenization','green']],
+    detail:'CP = card-present (tap/insert). CNP = card-not-present (online). P2PE encrypts data at the terminal so merchant systems never hold plaintext card data, reducing PCI-DSS scope. Network tokens (Visa Token Service, Mastercard MDES) replace the PAN with a scoped token, adding transaction-level cryptograms to CNP.' },
+
+  { icon:'🔀', name:'Routing', time:'t=0–20ms', color:'#7b5ea7',
+    title:'Gateway & Network Routing',
+    what:'The merchant\'s POS terminal or payment gateway formats an ISO 8583 authorization request message (MTI 0100) and routes it to the acquirer\'s processing host. The acquirer identifies the card network from the BIN range and routes to Visa, Mastercard, Amex, or UnionPay. Where multiple networks co-exist (debit cards in EU/AU), Least-Cost Routing (LCR) may be applied.',
+    chips:[['ISO 8583 MTI 0100','amber'],['BIN Range Lookup','blue'],['LCR (Least-Cost)','blue'],['Acquirer Host','amber']],
+    detail:'BIN = Bank Identification Number — the first 6-8 digits of the PAN, identifying the issuing bank and card product. LCR allows merchants to route debit transactions over the cheaper network when Visa or Mastercard both co-badge the card (common in Australia and EU).' },
+
+  { icon:'🏦', name:'Issuer Auth', time:'t=20–150ms', color:'#f5a623',
+    title:'Issuer Authorization Decision',
+    what:'The card network routes the request to the issuing bank\'s authorization host (identified by the BIN). The issuer evaluates: account status, available balance/credit, fraud score, velocity rules, geographic rules, and standing instructions. For CNP, may invoke 3DS. Returns response code (00=approved, 05=DNH, 51=NSF, etc.).',
+    chips:[['Account Status Check','amber'],['Fraud Score','red'],['Velocity Rules','red'],['3DS for CNP','blue'],['Stand-in if Offline','amber']],
+    detail:'If the issuer is unreachable, the card network may stand-in process: approve up to floor limits set by the issuer, absorbing the risk. Stand-in protects merchant from false declines during issuer outages.' },
+
+  { icon:'🛡', name:'Fraud Screen', time:'t=50–200ms', color:'#ef233c',
+    title:'Real-Time Fraud Screening',
+    what:'Parallel to authorization, fraud models score the transaction. Rule engines apply velocity, geography, and BIN rules. ML models (gradient boosting, neural networks) score on 0–100 scale using transaction features, device fingerprint, behavioral biometrics, and graph signals. Score influences approve/decline/step-up 3DS decision.',
+    chips:[['Rules Engine','red'],['ML Scoring','red'],['Device Fingerprint','amber'],['Behavioral Biometrics','amber'],['Graph Analysis','blue']],
+    detail:'Inference latency must stay under ~50ms. Features: transaction amount, MCC, time of day, IP reputation, VPN detection, cardholder spend history, device trust score. Graph features catch fraud rings sharing devices or IPs across multiple accounts.' },
+
+  { icon:'✅', name:'Response', time:'t=100–300ms', color:'#06d6a0',
+    title:'Authorization Response',
+    what:'The issuer sends response message (MTI 0110) back through the network to the acquirer to the terminal. An approval (code 00) triggers a receipt and completes the transaction. A decline shows an error. The terminal captures the authorization code for later clearing.',
+    chips:[['ISO 8583 MTI 0110','green'],['Auth Code','green'],['Receipt','green'],['Decline Code','red']],
+    detail:'The authorization code is a 6-digit alphanumeric reference that proves the issuer approved the transaction at that amount. It\'s printed on the receipt and submitted with the clearing record.' },
+
+  { icon:'📦', name:'Clearing', time:'T+0 to T+1', color:'#4cc9f0',
+    title:'Clearing',
+    what:'After business hours, the merchant batches all completed transactions and submits clearing files to the acquirer. The acquirer sends to the card network. The network calculates net positions between each issuer-acquirer pair. Interchange fees are computed and embedded in the net settlement amounts.',
+    chips:[['Batch File Submission','blue'],['Net Settlement Calc','blue'],['Interchange Applied','amber'],['Network as CCP','blue']],
+    detail:'Interchange is paid by the acquirer to the issuer per transaction. EU consumer interchange is capped: 0.2% debit, 0.3% credit (IFR). US debit Durbin cap: 21¢ + 0.05% for large issuers. The network acts as Central Counterparty (CCP), eliminating bilateral risk.' },
+
+  { icon:'💰', name:'Settlement', time:'T+1 to T+2', color:'#ffd166',
+    title:'Settlement',
+    what:'The card network settles net positions between banks via Fedwire (US) or TARGET2 (EU). Acquirers fund merchant accounts based on contract terms — typically T+1 or T+2, minus interchange and processing fees. Merchants receive a settlement report showing gross volume, deductions, and net payment.',
+    chips:[['Net Settlement','amber'],['Fedwire / TARGET2','amber'],['T+1 or T+2','amber'],['Merchant Funding','green']],
+    detail:'Net settlement dramatically reduces interbank payment flows: instead of millions of bilateral transfers, each bank makes or receives one net payment per currency per day. Settlement finality means the funds are irrevocable once settled at the central bank level.' },
+
+  { icon:'⚠️', name:'Disputes', time:'T+30 to T+120', color:'#f5a623',
+    title:'Chargebacks & Disputes',
+    what:'If a cardholder disputes a charge, their issuer files a chargeback to the acquirer via the network. The acquirer/merchant can respond with representment evidence (delivery proof, 3DS data, prior purchase history under Visa CE3.0). If unresolved, escalates to network arbitration ($500+ per case fee).',
+    chips:[['Chargeback Filing','red'],['Representment','blue'],['Compelling Evidence','blue'],['Arbitration','red'],['Visa CE3.0','green']],
+    detail:'Visa Compelling Evidence 3.0 (effective April 2023): merchants can dispute fraud chargebacks by showing two prior undisputed transactions with the same cardholder (same device/IP), proving the cardholder was the purchaser. Shifts burden of proof.' },
+];
+
+const PO_STEPS = [
+  { icon:'⚡', name:'Trigger Event', time:'t=0', color:'#4895ef',
+    title:'Payout Trigger Event',
+    what:'A payout is initiated by a business event: gig worker completes a trip, marketplace seller receives an order payment, insurance claim is approved, payroll period closes. The system generates a payout instruction with payee ID, amount, currency, and desired delivery speed.',
+    chips:[['Gig Earnings','amber'],['Marketplace Payout','amber'],['Insurance Claim','amber'],['Payroll','blue']],
+    detail:'Real-time payouts (Visa Direct, RTP) are ideal for gig economy where workers expect instant access to earnings. Payroll typically uses same-day ACH or SEPA CT for cost efficiency at scale.' },
+
+  { icon:'🪪', name:'KYC/KYB', time:'Onboarding', color:'#7b5ea7',
+    title:'Payee Onboarding & Verification',
+    what:'Before first payout, the payee must be verified. For individuals: identity document + selfie liveness check (Tier 2 KYC). For businesses: articles of incorporation + UBO verification (25% threshold). PEP and sanctions screening at onboarding and ongoing. Adverse media check.',
+    chips:[['Document Verification','amber'],['Liveness Detection','amber'],['Sanctions Screening','red'],['PEP Check','red'],['UBO Verification','blue']],
+    detail:'UBO = Ultimate Beneficial Owner. Any natural person owning >25% of a legal entity must be identified and verified. The EU\'s AMLD5/6 and US CTA (Corporate Transparency Act) mandate UBO disclosure registers.' },
+
+  { icon:'🔗', name:'Account Verify', time:'Pre-payout', color:'#f5a623',
+    title:'Bank Account / Card Verification',
+    what:'The payee\'s destination account must be validated before funds are sent. Methods: micro-deposit (1-3 days), IAV via open banking OAuth (instant), prenote ACH (zero-dollar), or zero-dollar card auth for Visa Direct / Mastercard Send.',
+    chips:[['Micro-Deposit','amber'],['IAV / OAuth','green'],['Prenote ACH','blue'],['Zero-Dollar Auth','blue']],
+    detail:'Account verification prevents misdirected payouts — one of the highest-cost error types. Once verified, the account is flagged as trusted. Any subsequent change to account details resets the trust status and triggers reverification.' },
+
+  { icon:'🕵️', name:'Fraud Check', time:'Real-time', color:'#ef233c',
+    title:'Payout Fraud Screening',
+    what:'Each payout is scored for fraud risk: velocity (multiple payouts to new accounts), ATO indicators (recent account changes), money mule signals (receive-then-wire pattern), and sanctions screening. High-risk payouts queue for manual review or require additional authentication.',
+    chips:[['Velocity Rules','red'],['ATO Detection','red'],['Mule Signal','red'],['OFAC Screening','red'],['Manual Review Queue','amber']],
+    detail:'Key rule: no payout within 24-48 hours of a bank account number change. This breaks the most common payout fraud vector where attackers change bank details immediately before payday.' },
+
+  { icon:'⚡', name:'Rail Select', time:'< 1s', color:'#06d6a0',
+    title:'Rail Selection & Routing',
+    what:'System selects optimal rail based on: geography, desired speed, transaction amount, cost, and payee capability. Real-time (Visa Direct, RTP, FedNow, SCT Inst) for urgent payouts. ACH/SEPA CT for scheduled. SWIFT for international. Mobile money for unbanked recipients.',
+    chips:[['Visa Direct','green'],['RTP/FedNow','green'],['ACH Same-Day','blue'],['SEPA Instant','blue'],['Mobile Money','amber']],
+    detail:'Rail selection logic is often a decision tree: Is it domestic or cross-border? Is the payee banked? What\'s the amount? Is speed required? Cost-optimize within those constraints. Multi-rail architecture enables fallback if a primary rail fails.' },
+
+  { icon:'💸', name:'Disbursement', time:'Seconds–T+2', color:'#4cc9f0',
+    title:'Funds Disbursement',
+    what:'The payout instruction is transmitted via the selected rail. For Visa Direct: OCT (Original Credit Transaction) pushed to debit card — typically settles in 30 minutes to seconds. For ACH: batched and submitted to ODFI → ACH operator → RDFI → beneficiary account.',
+    chips:[['OCT (Visa Direct)','amber'],['ACH Credit','blue'],['SWIFT MT103','amber'],['RTP Credit Push','green']],
+    detail:'Unlike card payments (pull), payouts are push. There is no authorization step for the recipient — funds arrive directly. This makes payout fraud prevention critical at the pre-disbursement stage, not the disbursement stage.' },
+
+  { icon:'📋', name:'Reconciliation', time:'T+0 to T+2', color:'#ffd166',
+    title:'Reconciliation & Reporting',
+    what:'Platform reconciles payout records against bank statements. Discrepancies (undelivered payouts, returned items, incorrect amounts) are flagged and resolved. Tax reporting triggered where applicable: 1099-K for US merchant payees, DAC7 for EU platform seller reporting.',
+    chips:[['Ledger Match','amber'],['Return Handling','red'],['1099-K Filing','blue'],['DAC7 (EU)','blue']],
+    detail:'ACH returns (R01 NSF, R02 closed account) must be resolved within 2 business days. The platform must notify the payee, update the destination account, and re-initiate — adding latency to the payee\'s receipt of funds.' },
+];
+
+const RM_STEPS = [
+  { icon:'📝', name:'Onboarding', time:'Minutes–Days', color:'#4895ef',
+    title:'Sender Onboarding & KYC',
+    what:'The sender registers with the MTO (Money Transfer Operator). KYC tier depends on transfer value: occasional low-value senders may only need name + ID number (simplified DD). Recurring or high-value senders require full document verification + source of funds + EDD. CFPB Remittance Rule requires written disclosure before each transfer.',
+    chips:[['Simplified DD','amber'],['Full KYC','red'],['PEP Screening','red'],['CFPB Disclosure','blue']],
+    detail:'FinCEN Guidance FIN-2012-G002 covers MSB KYC requirements. MTOs operating in the US must register with FinCEN as MSBs and obtain state money transmitter licenses (50 states have separate licensing requirements).' },
+
+  { icon:'💱', name:'FX Lock', time:'t=0', color:'#7b5ea7',
+    title:'FX Rate Lock & Fee Disclosure',
+    what:'The sender sees the exact exchange rate, all fees (including receiving bank fees), and the precise amount the recipient will receive — before committing. CFPB Remittance Rule mandates this for US transfers. PSD2 requires it in the EU. A 30-minute cancellation right is mandatory under CFPB rules.',
+    chips:[['Pre-tx Disclosure','amber'],['30-min Cancel Right','green'],['Rate Lock','blue'],['Spread Disclosure','amber']],
+    detail:'Rate lock window: typically 15-30 minutes for consumer transfers. MTO hedges FX exposure via forward contracts. For illiquid pairs, MTO pre-funds local balances in destination currency, accepting short-term FX risk.' },
+
+  { icon:'🛡', name:'AML Screen', time:'Real-time', color:'#ef233c',
+    title:'AML & Sanctions Screening',
+    what:'Both sender and recipient are screened against OFAC SDN, UN, EU, and HMT sanctions lists. PEP screening applied. Fuzzy name matching handles transliterations and aliases. Transaction monitoring rules check for structuring patterns. High-risk corridor checks (FATF grey-list countries).',
+    chips:[['OFAC SDN','red'],['UN Consolidated','red'],['Fuzzy Name Match','amber'],['FATF Risk','red'],['Travel Rule','blue']],
+    detail:'Travel Rule: transfers ≥$3,000 (US) or €1,000 (EU) must carry originator name, account number, address, and beneficiary details throughout the chain. For crypto remittances, VASPs must comply via TRISA or OpenVASP protocols.' },
+
+  { icon:'💳', name:'Funding', time:'t=0', color:'#f5a623',
+    title:'Sender Funding',
+    what:'The sender pays for the transfer via: debit/credit card (fastest, highest cost), bank account ACH/SEPA (cheaper, 1-2 day delay), cash at agent, or source mobile wallet. Card funding uses standard card-present or CNP authorization with fraud screening.',
+    chips:[['Card (fast, costly)','amber'],['Bank ACH (cheaper)','blue'],['Cash Agent','amber'],['Mobile Wallet','green']],
+    detail:'Card funding is most popular for speed but adds 1.5-3% card acceptance cost. MTOs often show a lower fee for bank funding to incentivize cheaper rails. Same-day ACH has made bank funding competitive in speed.' },
+
+  { icon:'🌐', name:'Cross-Border', time:'Seconds–5 days', color:'#06d6a0',
+    title:'Cross-Border Transfer',
+    what:'For bank-to-bank: SWIFT MT103 (now migrating to ISO 20022 pacs.008) routes through correspondent banks. Each hop: 1 business day + $15-50 fee. SWIFT GPI adds end-to-end tracking via UETR. Large MTOs use bilateral pre-funded nostro accounts to bypass the SWIFT chain entirely.',
+    chips:[['SWIFT MT103/pacs.008','amber'],['UETR Tracking','green'],['Nostro Pre-funded','blue'],['Correspondent Chain','amber']],
+    detail:'The bilateral model: MTO holds pre-funded USD balance at US bank and pre-funded PHP balance at Philippine bank. When a US→Philippines transfer is initiated, the US balance is debited and the Philippine office credits the recipient — no SWIFT MT103 needed. Drives costs below 1%.' },
+
+  { icon:'🏧', name:'Last Mile', time:'Seconds–D+1', color:'#4cc9f0',
+    title:'Last-Mile Delivery',
+    what:'Recipient receives funds via: bank credit (if banked), mobile money (M-PESA, GCash, bKash — for unbanked), cash pickup at agent network (Western Union, local agents), or emerging stablecoin off-ramp. Mobile money accounts for >50% of Sub-Saharan Africa remittance delivery.',
+    chips:[['Bank Credit','blue'],['M-PESA / GCash','green'],['Cash Pickup','amber'],['Stablecoin Off-ramp','purple']],
+    detail:'Mobile money operators (Safaricom M-PESA, MTN MoMo, Airtel Money) are regulated as electronic money institutions in their home markets. Aggregator APIs (Flutterwave, MFS Africa) enable MTOs to reach 200+ mobile money wallets via a single integration.' },
+
+  { icon:'📊', name:'Settlement', time:'T+0 to T+2', color:'#ffd166',
+    title:'Settlement & Reconciliation',
+    what:'The MTO settles with its correspondent network, reconciles nostro accounts, and produces reporting for regulatory and tax purposes. Net positions across the payout day are calculated and settled via interbank rails. Tax reporting triggered for large transfers (IRS Form 8300 for cash >$10,000).',
+    chips:[['Nostro Reconciliation','amber'],['Form 8300','red'],['FX P&L Settle','amber'],['Partner Settlement','blue']],
+    detail:'Nostro reconciliation: daily matching of MTO\'s internal ledger against bank statements at correspondent banks. Unresolved breaks require investigation. Float (timing difference between funding receipt and payout disbursement) is carefully managed — too much float = working capital risk; too little = liquidity risk.' },
+];
+
+const RAILS = [
+  { name:'ACH Standard', latency:'1-2 bus. days', limit:'$1,000,000', rev:'Yes (2-60 days)', avail:'Batch (3-4 windows/day)', uses:'Payroll, bill pay, B2B', scope:'US domestic', speed:15, cost:98, limitVal:1000000, color:'#4895ef' },
+  { name:'ACH Same-Day', latency:'Same business day', limit:'$1,000,000', rev:'Yes (return window)', avail:'3 windows/day (biz days)', uses:'Urgent payroll, bill pay', scope:'US domestic', speed:40, cost:90, limitVal:1000000, color:'#4cc9f0' },
+  { name:'RTP (TCH)', latency:'< 30 seconds', limit:'$1,000,000', rev:'No (irrevocable)', avail:'24/7/365', uses:'Gig payouts, insurance, B2B', scope:'US domestic', speed:98, cost:70, limitVal:1000000, color:'#06d6a0' },
+  { name:'FedNow', latency:'Seconds', limit:'$500,000', rev:'No (irrevocable)', avail:'24/7/365', uses:'Instant pay, gov disbursements', scope:'US domestic', speed:97, cost:72, limitVal:500000, color:'#06d6a0' },
+  { name:'SEPA CT', latency:'D+1 business day', limit:'No limit', rev:'No (after settle)', avail:'Business days (batch)', uses:'B2B, payroll, EU transfers', scope:'36 SEPA countries (EUR)', speed:25, cost:97, limitVal:9999999, color:'#7b5ea7' },
+  { name:'SEPA Instant', latency:'< 10 seconds', limit:'€100,000', rev:'No (irrevocable)', avail:'24/7/365', uses:'E-commerce, P2P, B2B EU', scope:'36 SEPA countries (EUR)', speed:99, cost:82, limitVal:100000, color:'#7b5ea7' },
+  { name:'Faster Payments (UK)', latency:'Seconds', limit:'£1,000,000', rev:'No (irrevocable)', avail:'24/7/365', uses:'P2P, bill pay, e-commerce', scope:'UK domestic (GBP)', speed:97, cost:85, limitVal:1200000, color:'#f5a623' },
+  { name:'SWIFT Wire', latency:'1-5 business days', limit:'No limit (bank-set)', rev:'Conditional (GPI recall)', avail:'Business days (cut-offs)', uses:'Int\'l wires, corporate treasury', scope:'Global (190+ countries)', speed:8, cost:20, limitVal:99999999, color:'#ffd166' },
+  { name:'Visa Direct', latency:'30 min typical', limit:'~$10,000-50,000', rev:'No (credit push)', avail:'24/7/365', uses:'Insurance, gig, gaming, P2P', scope:'180+ countries', speed:85, cost:55, limitVal:50000, color:'#ef233c' },
+  { name:'Mastercard Send', latency:'Seconds–minutes', limit:'Varies by market', rev:'No', avail:'24/7/365', uses:'Disbursements, P2P', scope:'100+ countries', speed:88, cost:53, limitVal:25000, color:'#ef233c' },
+];
+
+const PARTICIPANTS = [
+  { id:'cardholder', label:'Cardholder', x:80, y:240, w:110, color:'#4895ef',
+    role:'Consumer / Account Holder',
+    reg:'Consumer protection laws (CFPB, FCA)',
+    desc:'Initiates payments, holds the card account. Bears some fraud liability in CNP contexts depending on jurisdiction. Can file chargebacks within dispute windows.',
+    obligations:['Authenticate transactions (PIN, biometric, 3DS)','Bear unauthorized CNP fraud liability (if no 3DS)','File chargebacks within 60-120 day window'],
+    kv:[['Type','Consumer / Individual'],['Auth','PIN, biometric, 3DS OTP'],['Liability','Unauthorized fraud (CNP, no-3DS)']] },
+
+  { id:'merchant', label:'Merchant', x:80, y:370, w:100, color:'#f5a623',
+    role:'Payment Acceptor',
+    reg:'PCI-DSS (contractual, via card networks)',
+    desc:'Accepts payment for goods/services. Must honor all Visa/Mastercard cards (Honor All Cards rule). Bears chargeback liability for CNP fraud on unauthenticated transactions. PCI-DSS compliance required.',
+    obligations:['PCI-DSS compliance (SAQ or QSA audit)','Honor All Cards scheme rule','Manage chargeback rate < 1% (Visa threshold)'],
+    kv:[['PCI Level','1-4 based on volume'],['Chargeback Threshold','1% (Visa), 1.5% (MC)'],['Fraud Liability','CNP fraud if no 3DS']] },
+
+  { id:'gateway', label:'Payment\nGateway', x:240, y:300, w:110, color:'#4cc9f0',
+    role:'Technical Routing Layer',
+    reg:'PCI-DSS Level 1 (as TPSP)',
+    desc:'Routes encrypted transaction data between merchant and acquirer. Provides tokenization, 3DS integration, and fraud scoring APIs. Must maintain 99.99%+ uptime. Classified as Third-Party Service Provider (TPSP) by card networks.',
+    obligations:['PCI-DSS Level 1 compliance','Secure data transmission (TLS)','Tokenization vault management','99.99%+ uptime SLAs'],
+    kv:[['Role','TPSP (Third-Party Service Provider)'],['Primary Standard','PCI-DSS v4.0'],['Key Function','Tokenization + routing']] },
+
+  { id:'acquirer', label:'Acquirer', x:420, y:240, w:110, color:'#f5a623',
+    role:'Merchant\'s Bank / Sponsor',
+    reg:'OCC/Fed/FDIC (US) · ECB/NCAs (EU)',
+    desc:'Sponsors merchants into card networks. Bears financial liability for merchant chargebacks and fraud. Conducts merchant underwriting (KYB). Must submit clearing files to card networks and manage settlement funding.',
+    obligations:['Merchant underwriting and monitoring','Chargeback risk management','AML program for merchant activity','Submit clearing files to network'],
+    kv:[['Liability','Merchant chargebacks','Scheme Membership','Visa/Mastercard principal member'],['AML','BSA-compliant program required']] },
+
+  { id:'network', label:'Card Network\n(Visa/MC)', x:580, y:140, w:120, color:'#ef233c',
+    role:'Rules Setter & Central Counterparty',
+    reg:'Federal Reserve / ECB oversight (systemically important)',
+    desc:'Sets operating rules binding on all participants. Routes authorization messages between acquirer and issuer. Acts as CCP in clearing, eliminating bilateral settlement risk. Operates fraud monitoring programs (VFMP, Ethoca).',
+    obligations:['Enforce scheme rules (honor-all-cards, surcharge limits)','Calculate net settlement positions','Operate authorization routing network','Manage dispute arbitration'],
+    kv:[['Settlement Role','Central Counterparty (CCP)'],['Key Programs','VFMP, Ethoca, CE3.0'],['Message Format','ISO 8583 (auth), ISO 20022 (clearing)']] },
+
+  { id:'issuer', label:'Issuer\n(Bank)', x:750, y:240, w:100, color:'#4895ef',
+    role:'Cardholder\'s Bank',
+    reg:'OCC/Fed/FDIC (US) · ECB/NCAs (EU)',
+    desc:'Issues cards to cardholders. Authorizes or declines transactions in real time. Bears credit and fraud risk for CP chip transactions. Processes chargebacks in favor of cardholders. Responsible for cardholder KYC.',
+    obligations:['Real-time authorization decisions','Fraud liability for CP chip transactions','Chargeback processing (provisional credit)','Cardholder KYC & AML monitoring'],
+    kv:[['Fraud Liability','CP chip (issuer); CNP w/ 3DS (issuer); CNP no-3DS (merchant)'],['Settlement','Receives interchange from acquirer'],['KYC','Full AML program required']] },
+
+  { id:'psp', label:'PSP', x:240, y:420, w:100, color:'#7b5ea7',
+    role:'Payment Service Provider',
+    reg:'Money Transmitter (US states) · PI/EMI (EU)',
+    desc:'Provides end-to-end payment acceptance technology and services. May combine gateway, acquirer, and risk management functions. Registered as PayFac with card networks. Must hold money transmitter licenses per state/country.',
+    obligations:['MSB/PI registration and licensing','AML program and SAR filing','KYC on merchants (sub-merchant underwriting)','Aggregate chargeback monitoring'],
+    kv:[['US License','State MTL × 50 states'],['EU License','PI or EMI (passportable)'],['Model','Often acts as PayFac']] },
+
+  { id:'fiu', label:'FIU\n(FinCEN)', x:580, y:420, w:100, color:'#ef233c',
+    role:'Financial Intelligence Unit',
+    reg:'Government agency',
+    desc:'Receives SARs/STRs from all regulated financial institutions. Analyzes patterns, shares intelligence with law enforcement. In the US, FinCEN administers the BSA and operates the SAR database. All banks and MSBs must file SARs within 30 days of detection.',
+    obligations:['Operate SAR database','Respond to law enforcement requests','Publish AML typologies and guidance','Administer BSA registration'],
+    kv:[['US FIU','FinCEN (Treasury Dept)'],['SAR Window','30 days from detection (60 if no suspect)'],['Confidentiality','Tipping-off prohibition']] },
+
+  { id:'correspondent', label:'Correspondent\nBank', x:420, y:380, w:120, color:'#ffd166',
+    role:'Interbank Cross-Border Facilitator',
+    reg:'National banking regulator',
+    desc:'Holds nostro/vostro accounts to facilitate cross-border settlement between banks without direct relationships. Charges per-transaction fees ($15-50). Subject to de-risking pressures — may exit high-risk corridors due to AML compliance cost exceeding revenue.',
+    obligations:['Nostro account management','AML pass-through for correspondent transactions','SWIFT GPI compliance','Annual KYC renewal for respondent banks'],
+    kv:[['Account Type','Nostro (our money at your bank)'],['SWIFT GPI','Same-day value + fee transparency'],['De-risking','Selective exit from high-risk corridors']] },
+];
+
+const FRAUD_TYPES = [
+  { icon:'🤖', name:'Card Testing', threat:'HIGH VOLUME · AUTOMATED',
+    desc:'Bots validate stolen card credentials at scale using tiny transactions ($0.01-$1.00) before monetizing valid cards for large purchases or dark web resale.',
+    signals:['Spike in micro-transactions or declines','Many auths from same IP/device','High decline rate on new merchant accounts','3DS bypass patterns'],
+    expand:'Stolen card data is purchased from dark web markets ($5-150 per card). Automated bots submit hundreds of authorizations per minute. Common targets: charity donation forms, gift card purchases, low-friction checkout flows. Detection: CAPTCHA, bot detection (HUMAN/PerimeterX), IP velocity rules, micro-transaction velocity caps.',
+    defenses:['CAPTCHA on payment forms','Device fingerprinting and bot scoring','Velocity limits on low-value transactions','CVV mandatory for all CNP','3DS friction for anomalous patterns'] },
+
+  { icon:'👤', name:'Account Takeover', threat:'GROWING · CREDENTIAL-BASED',
+    desc:'Attacker gains unauthorized access to a legitimate customer account via credential stuffing, phishing, SIM swap, or malware — then changes bank details or initiates fraudulent transactions.',
+    signals:['Login from new device/country','Rapid post-login account changes','Unusual transaction patterns immediately after login','Session from VPN exit node'],
+    expand:'Credential stuffing exploits reused passwords from breaches. Sophisticated real-time phishing kits relay credentials AND OTPs to real sites, bypassing SMS MFA. SIM swapping persuades carriers to port the victim\'s number to attacker\'s SIM. Defense: enforce FIDO2/WebAuthn hardware keys; alert on account changes; require re-auth before bank account updates.',
+    defenses:['MFA — prefer authenticator app or FIDO2 over SMS','Alert on new device login','24-48h hold on payouts after account changes','Session anomaly detection (new IP/device + high-value action)','HIBP credential monitoring'] },
+
+  { icon:'👻', name:'Synthetic Identity', threat:'FASTEST GROWING · HARD TO DETECT',
+    desc:'A fabricated identity combining a real SSN (from a child or deceased person) with fake name, DOB, and address. Used to build credit history over 12-24 months, then bust out with maximum credit drawn simultaneously.',
+    signals:['SSN never previously associated with any credit file','SSN issuance state ≠ stated residence','VoIP phone number (not mobile/landline)','Multiple accounts sharing same SSN or address'],
+    expand:'The "credit piggybacking" phase: synthetic identity is added as authorized user on an existing account to build credit. After 12-24 months of legitimate-looking activity, the bust-out: all credit lines maxed simultaneously. No real victim to file a police report. Detection requires identity graph analysis — SSN, device, email, address, phone linkages across all applications.',
+    defenses:['SSN issuance state validation','Phone number type check (VoIP flag)','Identity graph analysis across applications','Device consistency across application flow','Behavioral analytics on application speed'] },
+
+  { icon:'🤝', name:'Friendly Fraud', threat:'HIGH PREVALENCE · HARD TO COUNTER',
+    desc:'Cardholder makes a legitimate purchase, receives the goods, then disputes the charge claiming non-receipt or unauthorized use — obtaining a refund while keeping the merchandise.',
+    signals:['Chargeback on digital goods (immediate delivery)','Prior purchase history from same account','Cardholder disputes specific item in multi-item order','High chargeback rate on digital merchants'],
+    expand:'Estimated 40-80% of all chargebacks are friendly fraud. The dispute process is asymmetric — issuer has obligation to credit cardholder provisionally. Merchant must provide compelling evidence. Visa CE3.0 (April 2023): merchants can counter-dispute by showing 2 prior undisputed purchases from same cardholder with matching device/IP data. Shifts evidentiary burden.',
+    defenses:['Robust delivery confirmation with GPS','Visa CE3.0 compelling evidence collection','3DS authentication (liability shift to issuer)','Digital goods: usage logs as evidence','Clear merchant descriptor to prevent confusion'] },
+
+  { icon:'🏗️', name:'First-Party Fraud', threat:'MEDIUM · RELATIONSHIP-BASED',
+    desc:'The actual account holder commits fraud: inflating income on applications, falsely claiming non-delivery, or in gig economy — submitting fake job completions to earn unearned payouts.',
+    signals:['Application income significantly above average for stated occupation','Chargeback pattern inconsistent with stated merchant (e.g., luxury goods)','Gig: GPS deviation from stated route','Payouts: rapid activity immediately after onboarding'],
+    expand:'Distinct from synthetic ID: a real person provides false information. Bust-out: establish credit/relationship legitimately, then max out and default. In gig economy: fake deliveries marked complete without actual service. Detection: cross-reference income vs. bureau data, GPS route validation for gig workers, velocity rules on first-week activity.',
+    defenses:['Income verification against payroll APIs or bank statements','GPS validation for location-based services','Velocity caps for new accounts','Machine learning on application data vs. bureau'] },
+
+  { icon:'🧊', name:'Money Mule Networks', threat:'ENABLER · ORGANIZED CRIME',
+    desc:'Individuals (witting or unwitting) receive fraudulent funds in their accounts and immediately forward them to criminals, taking a commission. The critical final step in most large-scale fraud and money laundering.',
+    signals:['Receive large credit → wire out >80% within hours','Account opened recently with immediate large activity','Device or IP shared across multiple mule accounts','Recruited via romance scam or "work from home" job offer'],
+    expand:'Unwitting mules believe they have legitimate remote jobs. They receive and forward funds, not understanding they\'re laundering money. Sophisticated mule networks use dozens of accounts in parallel to move millions. Graph analysis is essential: a single device linking 5+ accounts, or shared IP ranges across accounts that all receive-then-wire, identifies mule clusters.',
+    defenses:['Graph analysis — device and IP clustering across accounts','Transaction velocity: receive + same-day large outgoing','New account high-value activity flag','Behavioral analytics: mules often work in bursts','Collaboration with other FIs via Section 314(b)'] },
+];
+
+// ═══════════════════════════════════════════════════════════════
+// RENDERING
+// ═══════════════════════════════════════════════════════════════
+
+let txActive = -1, poActive = -1, rmActive = -1;
+let autoPlayTimers = {};
+
+function switchView(id) {
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById('view-' + id).classList.add('active');
+  document.querySelector(`[data-view="${id}"]`).classList.add('active');
+}
+
+// ── LIFECYCLE FLOW RENDERER ─────────────────────────────────────
+function renderFlow(steps, containerId, detailId, prefix) {
+  const container = document.getElementById(containerId);
+  container.innerHTML = steps.map((s, i) => `
+    <div class="flow-step" id="${prefix}-step-${i}" onclick="selectStep('${prefix}', ${i})">
+      <div class="step-num">${String(i+1).padStart(2,'0')} / ${steps.length}</div>
+      <div class="step-icon">${s.icon}</div>
+      <div class="step-name">${s.name}</div>
+      <div class="step-time">${s.time}</div>
+    </div>
+  `).join('');
+  document.getElementById(detailId).style.display = 'none';
+}
+
+function selectStep(prefix, idx) {
+  const steps = prefix==='tx' ? TX_STEPS : prefix==='po' ? PO_STEPS : RM_STEPS;
+  const detailId = prefix + '-detail';
+  const s = steps[idx];
+
+  // Update step states
+  steps.forEach((_, i) => {
+    const el = document.getElementById(`${prefix}-step-${i}`);
+    el.classList.remove('active','done');
+    if (i < idx) el.classList.add('done');
+    if (i === idx) el.classList.add('active');
+  });
+
+  // Render detail
+  const detail = document.getElementById(detailId);
+  detail.style.display = 'grid';
+  detail.innerHTML = `
+    <div class="detail-block">
+      <div class="detail-label">PHASE ${String(idx+1).padStart(2,'0')} OF ${steps.length}</div>
+      <div class="detail-title">${s.title}</div>
+      <div class="detail-body">${s.what}</div>
+      <div class="detail-chips">${(s.chips||[]).map(([t,c])=>`<span class="chip ${c}">${t}</span>`).join('')}</div>
+    </div>
+    <div class="detail-block">
+      <div class="detail-label">TECHNICAL DETAIL</div>
+      <div class="detail-body">${s.detail}</div>
+    </div>
+  `;
+  detail.style.animation = 'none';
+  setTimeout(() => detail.style.animation = '', 10);
+
+  // Scroll step into view
+  document.getElementById(`${prefix}-step-${idx}`).scrollIntoView({ behavior:'smooth', block:'nearest', inline:'center' });
+
+  if (prefix==='tx') txActive=idx;
+  else if (prefix==='po') poActive=idx;
+  else rmActive=idx;
+}
+
+function resetFlow(prefix) {
+  clearTimeout(autoPlayTimers[prefix]);
+  const steps = prefix==='tx' ? TX_STEPS : prefix==='po' ? PO_STEPS : RM_STEPS;
+  steps.forEach((_, i) => {
+    const el = document.getElementById(`${prefix}-step-${i}`);
+    el.classList.remove('active','done');
+  });
+  document.getElementById(prefix+'-detail').style.display = 'none';
+  if (prefix==='tx') txActive=-1;
+  else if (prefix==='po') poActive=-1;
+  else rmActive=-1;
+}
+
+function autoPlay(prefix) {
+  clearTimeout(autoPlayTimers[prefix]);
+  const steps = prefix==='tx' ? TX_STEPS : prefix==='po' ? PO_STEPS : RM_STEPS;
+  let current = 0;
+  selectStep(prefix, 0);
+  function next() {
+    current++;
+    if (current < steps.length) {
+      autoPlayTimers[prefix] = setTimeout(() => { selectStep(prefix, current); next(); }, 1800);
+    }
+  }
+  next();
+}
+
+// ── RAILS ────────────────────────────────────────────────────────
+let currentMetric = 'speed';
+function setMetric(m) {
+  currentMetric = m;
+  document.querySelectorAll('[id^="btn-"]').forEach(b => {
+    b.style.borderColor = '';
+    b.style.color = '';
+  });
+  const btn = document.getElementById('btn-' + m);
+  if (btn) { btn.style.borderColor = 'var(--amber)'; btn.style.color = 'var(--amber)'; }
+
+  const labels = { speed:'RELATIVE SPEED — longer bar = faster rail', cost:'RELATIVE COST-EFFICIENCY — longer bar = cheaper per transaction', limit:'RELATIVE TRANSACTION LIMIT — longer bar = higher limit' };
+  document.getElementById('rail-metric-label').textContent = labels[m];
+  renderRailBars();
+}
+
+function renderRailBars() {
+  const container = document.getElementById('rail-bars-container');
+  const colors = { speed:'#06d6a0', cost:'#4895ef', limit:'#ffd166' };
+  const sorted = [...RAILS].sort((a,b) => b[currentMetric] - a[currentMetric]);
+  const max = Math.max(...sorted.map(r => r[currentMetric]));
+
+  container.innerHTML = sorted.map(r => {
+    const pct = Math.round((r[currentMetric] / max) * 100);
+    return `
+      <div class="rail-row" onclick="showRailModal('${r.name}')">
+        <div class="rail-name">${r.name}</div>
+        <div class="rail-bar-track">
+          <div class="rail-bar-fill" style="width:${pct}%;background:${colors[currentMetric]};transition:width 0.8s cubic-bezier(0.34,1.56,0.64,1);">${pct > 15 ? r.latency : ''}</div>
+        </div>
+        <div class="rail-val">${currentMetric==='limit' ? (r.limitVal >= 9999999 ? 'Unlimited' : '$'+r.limitVal.toLocaleString()) : currentMetric==='cost' ? r.cost+'%' : r.speed+'%'}</div>
+      </div>
+    `;
+  }).join('');
+}
+
+function renderRailsTable() {
+  const tbody = document.getElementById('rails-tbody');
+  tbody.innerHTML = RAILS.map(r => `
+    <tr onclick="showRailModal('${r.name}')" style="cursor:pointer;">
+      <td><span style="color:${r.color};font-weight:600;">${r.name}</span></td>
+      <td>${r.latency}</td>
+      <td>${r.limit}</td>
+      <td>${r.rev.startsWith('No') ? `<span class="badge badge-red">Irrevocable</span>` : `<span class="badge badge-amber">Reversible</span>`}</td>
+      <td>${r.avail.includes('24/7') ? `<span class="badge badge-green">24/7/365</span>` : `<span class="badge badge-blue">Batch/Business</span>`}</td>
+      <td style="font-size:10px;">${r.uses}</td>
+      <td style="font-size:10px;">${r.scope}</td>
+    </tr>
+  `).join('');
+}
+
+function showRailModal(name) {
+  const r = RAILS.find(x => x.name === name);
+  if (!r) return;
+  document.getElementById('modal-tag').textContent = 'PAYMENT RAIL · ' + r.scope;
+  document.getElementById('modal-title').textContent = r.name;
+  document.getElementById('modal-body').innerHTML = `
+    <div class="modal-kv">
+      <div class="kv"><span class="kv-key">Typical Latency</span><span class="kv-val">${r.latency}</span></div>
+      <div class="kv"><span class="kv-key">Transaction Limit</span><span class="kv-val">${r.limit}</span></div>
+      <div class="kv"><span class="kv-key">Reversibility</span><span class="kv-val">${r.rev}</span></div>
+      <div class="kv"><span class="kv-key">Availability</span><span class="kv-val">${r.avail}</span></div>
+      <div class="kv"><span class="kv-key">Primary Use Cases</span><span class="kv-val">${r.uses}</span></div>
+      <div class="kv"><span class="kv-key">Geographic Scope</span><span class="kv-val">${r.scope}</span></div>
+    </div>
+    <div style="margin-top:16px;display:flex;gap:8px;flex-wrap:wrap;">
+      <span class="badge" style="background:rgba(6,214,160,0.12);color:#06d6a0;border:1px solid rgba(6,214,160,0.3);">SPEED: ${r.speed}/100</span>
+      <span class="badge" style="background:rgba(72,149,239,0.12);color:#4895ef;border:1px solid rgba(72,149,239,0.3);">COST EFFICIENCY: ${r.cost}/100</span>
+      ${r.avail.includes('24/7') ? '<span class="badge badge-green">24/7 AVAILABLE</span>' : '<span class="badge badge-amber">BATCH WINDOWS</span>'}
+      ${r.rev.startsWith('No') ? '<span class="badge badge-red">IRREVOCABLE</span>' : '<span class="badge badge-amber">REVERSIBLE</span>'}
+    </div>
+  `;
+  document.getElementById('modal').classList.add('open');
+}
+
+// ── ECOSYSTEM SVG ────────────────────────────────────────────────
+function renderEcosystem() {
+  const svg = document.getElementById('ecosystem-svg');
+  const positions = [
+    // Positioned manually for visual clarity
+    { id:'cardholder', x:60, y:190, w:110, h:50 },
+    { id:'merchant', x:60, y:330, w:110, h:50 },
+    { id:'gateway', x:230, y:260, w:110, h:50 },
+    { id:'psp', x:230, y:380, w:110, h:50 },
+    { id:'acquirer', x:400, y:190, w:110, h:50 },
+    { id:'network', x:560, y:110, w:130, h:55 },
+    { id:'issuer', x:730, y:190, w:110, h:50 },
+    { id:'correspondent', x:500, y:310, w:130, h:55 },
+    { id:'fiu', x:680, y:380, w:110, h:50 },
+  ];
+
+  const connections = [
+    ['cardholder','gateway'],['merchant','gateway'],['gateway','acquirer'],
+    ['psp','acquirer'],['acquirer','network'],['network','issuer'],
+    ['network','correspondent'],['correspondent','fiu'],['acquirer','fiu'],
+    ['gateway','psp'],
+  ];
+
+  let svgContent = '';
+
+  // Draw connections first
+  connections.forEach(([a, b]) => {
+    const pa = positions.find(p => p.id===a);
+    const pb = positions.find(p => p.id===b);
+    if (!pa||!pb) return;
+    const x1 = pa.x + pa.w/2, y1 = pa.y + pa.h/2;
+    const x2 = pb.x + pb.w/2, y2 = pb.y + pb.h/2;
+    svgContent += `<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#1e2436" stroke-width="1.5" stroke-dasharray="4,4"/>`;
+  });
+
+  // Draw nodes
+  PARTICIPANTS.forEach(p => {
+    const pos = positions.find(pp => pp.id===p.id);
+    if (!pos) return;
+    const lines = p.label.split('\n');
+    svgContent += `
+      <g class="p-node" onclick="selectParticipant('${p.id}')" id="pnode-${p.id}">
+        <rect x="${pos.x}" y="${pos.y}" width="${pos.w}" height="${pos.h}" rx="5" ry="5"
+          fill="${p.color}22" stroke="${p.color}66" stroke-width="1.5"/>
+        ${lines.map((line, i) => `
+          <text x="${pos.x + pos.w/2}" y="${pos.y + pos.h/2 + (lines.length===1 ? 5 : i===0 ? -3 : 12)}"
+            text-anchor="middle" fill="${p.color}" font-family="'DM Sans',sans-serif"
+            font-size="11" font-weight="600">${line}</text>
+        `).join('')}
+      </g>
+    `;
+  });
+
+  // Labels
+  svgContent += `
+    <text x="450" y="490" text-anchor="middle" fill="#4a526a" font-family="'IBM Plex Mono',monospace" font-size="10">
+      CLICK ANY NODE FOR DETAILS
+    </text>
+  `;
+
+  svg.innerHTML = svgContent;
+}
+
+function selectParticipant(id) {
+  const p = PARTICIPANTS.find(x => x.id===id);
+  if (!p) return;
+
+  // Highlight selected
+  document.querySelectorAll('.p-node rect').forEach(r => {
+    r.style.opacity = '0.5';
+  });
+  const selected = document.querySelector(`#pnode-${id} rect`);
+  if (selected) { selected.style.opacity = '1'; selected.style.strokeWidth = '2.5'; }
+
+  const detail = document.getElementById('participant-detail');
+  detail.classList.add('visible');
+  detail.innerHTML = `
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">
+      <div>
+        <div style="font-family:var(--mono);font-size:9px;color:${PARTICIPANTS.find(x=>x.id===id).color};letter-spacing:.15em;margin-bottom:8px;">${p.role}</div>
+        <div style="font-family:var(--display);font-size:20px;letter-spacing:.05em;margin-bottom:10px;">${p.label.replace('\n',' ')}</div>
+        <div style="font-size:12px;color:var(--text-dim);line-height:1.65;">${p.desc}</div>
+      </div>
+      <div>
+        <div style="font-family:var(--mono);font-size:10px;color:var(--text-muted);letter-spacing:.1em;margin-bottom:10px;text-transform:uppercase;">Key Obligations</div>
+        ${p.obligations.map(o => `<div style="font-size:11px;color:var(--text-dim);padding:4px 0;border-bottom:1px solid var(--border);display:flex;gap:8px;"><span style="color:var(--amber);">›</span>${o}</div>`).join('')}
+        <div style="margin-top:12px;font-family:var(--mono);font-size:10px;color:var(--text-muted);letter-spacing:.1em;margin-bottom:8px;">REGULATED BY</div>
+        <div style="font-family:var(--mono);font-size:11px;color:var(--amber);">${p.reg}</div>
+      </div>
+    </div>
+  `;
+}
+
+// ── FRAUD GRID ───────────────────────────────────────────────────
+function renderFraudGrid() {
+  const container = document.getElementById('fraud-grid');
+  container.innerHTML = FRAUD_TYPES.map((f, i) => `
+    <div class="fraud-card" onclick="toggleFraud(${i})">
+      <div class="fraud-card-header">
+        <div class="fraud-icon">${f.icon}</div>
+        <div><div class="fraud-name">${f.name}</div><div class="fraud-threat">${f.threat}</div></div>
+      </div>
+      <div class="fraud-card-body">
+        <div class="fraud-desc">${f.desc}</div>
+        <div style="font-family:var(--mono);font-size:9px;color:var(--text-muted);letter-spacing:.1em;text-transform:uppercase;margin-bottom:6px;">DETECTION SIGNALS</div>
+        <div class="fraud-signals">
+          ${f.signals.map(s => `<div class="fraud-signal">${s}</div>`).join('')}
+        </div>
+      </div>
+      <div class="fraud-expanded" id="fraud-exp-${i}">
+        <div style="font-family:var(--mono);font-size:9px;color:var(--red);letter-spacing:.1em;text-transform:uppercase;margin-bottom:8px;">HOW IT WORKS</div>
+        <p>${f.expand}</p>
+        <div style="font-family:var(--mono);font-size:9px;color:var(--green);letter-spacing:.1em;text-transform:uppercase;margin-bottom:8px;margin-top:12px;">DEFENSES</div>
+        <div class="fraud-defenses">
+          ${f.defenses.map(d => `<div class="fraud-defense">${d}</div>`).join('')}
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+function toggleFraud(i) {
+  const el = document.getElementById(`fraud-exp-${i}`);
+  el.classList.toggle('open');
+}
+
+// ── MODAL ────────────────────────────────────────────────────────
+function closeModal(e) {
+  if (!e || e.target === document.getElementById('modal')) {
+    document.getElementById('modal').classList.remove('open');
+  }
+}
+document.addEventListener('keydown', e => { if (e.key==='Escape') closeModal(); });
+
+// ── THEME TOGGLE ─────────────────────────────────────────────────
+let isDark = true;
+function toggleTheme() {
+  isDark = !isDark;
+  document.documentElement.classList.toggle('light', !isDark);
+  document.getElementById('theme-dark').classList.toggle('active', isDark);
+  document.getElementById('theme-light').classList.toggle('active', !isDark);
+  // Re-render SVG ecosystem so node colors update
+  renderEcosystem();
+}
+
+// ── INIT ─────────────────────────────────────────────────────────
+function init() {
+  renderFlow(TX_STEPS, 'tx-flow', 'tx-detail', 'tx');
+  renderFlow(PO_STEPS, 'po-flow', 'po-detail', 'po');
+  renderFlow(RM_STEPS, 'rm-flow', 'rm-detail', 'rm');
+  renderRailBars();
+  renderRailsTable();
+  setMetric('speed');
+  renderEcosystem();
+  renderFraudGrid();
+}
+
+init();
+</script>
+</body>
+</html>
