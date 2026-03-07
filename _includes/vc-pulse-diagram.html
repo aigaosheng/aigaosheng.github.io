@@ -1,0 +1,719 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VC Pulse — Mar 1–7, 2026</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:wght@300;400;500&family=Fraunces:ital,wght@0,300;0,700;1,300&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0a0a0f;
+    --paper: #f5f2eb;
+    --accent: #e8400c;
+    --gold: #c9a84c;
+    --steel: #2d3748;
+    --muted: #8a8577;
+    --ai: #1a6b5e;
+    --space: #1b2f6e;
+    --health: #6b1a3a;
+    --fintech: #2d1a6b;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'DM Mono', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* GRAIN OVERLAY */
+  body::before {
+    content: '';
+    position: fixed; inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.04'/%3E%3C/svg%3E");
+    pointer-events: none; z-index: 999;
+    opacity: 0.5;
+  }
+
+  /* HEADER */
+  header {
+    border-bottom: 3px solid var(--ink);
+    padding: 2rem 3rem 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: end;
+    gap: 1rem;
+  }
+
+  .masthead {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: clamp(3rem, 7vw, 6rem);
+    line-height: 0.9;
+    letter-spacing: 0.02em;
+    color: var(--ink);
+  }
+
+  .masthead span { color: var(--accent); }
+
+  .meta {
+    text-align: right;
+    font-size: 0.7rem;
+    color: var(--muted);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    line-height: 1.8;
+  }
+
+  .meta strong { color: var(--ink); display: block; font-size: 0.85rem; }
+
+  /* TICKER */
+  .ticker-wrap {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 0.5rem 0;
+    overflow: hidden;
+    white-space: nowrap;
+    border-bottom: 2px solid var(--accent);
+  }
+
+  .ticker {
+    display: inline-block;
+    animation: ticker 28s linear infinite;
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .ticker span { color: var(--gold); margin: 0 1.5rem; }
+
+  @keyframes ticker {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+
+  /* MAIN LAYOUT */
+  .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2.5rem 3rem;
+  }
+
+  /* SUMMARY STRIP */
+  .summary-strip {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+    border: 2px solid var(--ink);
+    margin-bottom: 3rem;
+    animation: fadeUp 0.6s ease both;
+  }
+
+  .stat-cell {
+    padding: 1.4rem 1.6rem;
+    border-right: 2px solid var(--ink);
+    position: relative;
+  }
+
+  .stat-cell:last-child { border-right: none; }
+
+  .stat-label {
+    font-size: 0.6rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 0.4rem;
+  }
+
+  .stat-value {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.4rem;
+    line-height: 1;
+    color: var(--ink);
+  }
+
+  .stat-value.accent { color: var(--accent); }
+  .stat-sub { font-size: 0.65rem; color: var(--muted); margin-top: 0.3rem; }
+
+  /* SECTOR LEGEND */
+  .legend {
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 2rem;
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    animation: fadeUp 0.7s ease both;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .legend-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  /* DIAGRAM GRID */
+  .diagram-section {
+    margin-bottom: 3rem;
+  }
+
+  .section-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 0.4rem;
+    margin-bottom: 1.5rem;
+  }
+
+  /* DEAL CARDS */
+  .deals-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1px;
+    background: var(--ink);
+    border: 2px solid var(--ink);
+  }
+
+  .deal-card {
+    background: var(--paper);
+    padding: 1.4rem 1.5rem;
+    position: relative;
+    overflow: hidden;
+    cursor: default;
+    transition: background 0.2s ease;
+  }
+
+  .deal-card::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 4px;
+  }
+
+  .deal-card:hover { background: #ede9df; }
+
+  .deal-card.ai::before { background: var(--ai); }
+  .deal-card.space::before { background: var(--space); }
+  .deal-card.health::before { background: var(--health); }
+  .deal-card.fintech::before { background: var(--fintech); }
+  .deal-card.defense::before { background: #5c3a1a; }
+
+  .deal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.6rem;
+  }
+
+  .deal-name {
+    font-family: 'Fraunces', serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.1;
+    color: var(--ink);
+  }
+
+  .deal-flag { font-size: 1rem; }
+
+  .deal-sector {
+    font-size: 0.58rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 0.8rem;
+  }
+
+  .deal-amount {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.9rem;
+    line-height: 1;
+    color: var(--accent);
+    margin-bottom: 0.2rem;
+  }
+
+  .deal-round {
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 0.8rem;
+  }
+
+  .deal-valuation {
+    font-size: 0.72rem;
+    color: var(--gold);
+    margin-bottom: 0.7rem;
+    font-weight: 500;
+  }
+
+  .deal-investors {
+    font-size: 0.62rem;
+    color: var(--steel);
+    line-height: 1.5;
+    margin-bottom: 0.7rem;
+  }
+
+  .deal-note {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 0.72rem;
+    color: var(--muted);
+    line-height: 1.5;
+    border-top: 1px solid #d8d3c8;
+    padding-top: 0.6rem;
+  }
+
+  /* SIGNAL SECTION */
+  .signals-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+    animation: fadeUp 0.9s ease both;
+  }
+
+  .signal-card {
+    border: 2px solid var(--ink);
+    padding: 1.5rem;
+    position: relative;
+    background: var(--paper);
+  }
+
+  .signal-number {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 4rem;
+    line-height: 1;
+    color: #e0dbd0;
+    position: absolute;
+    right: 1rem;
+    top: 0.5rem;
+    z-index: 0;
+  }
+
+  .signal-title {
+    font-family: 'Fraunces', serif;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 0.6rem;
+    position: relative; z-index: 1;
+    line-height: 1.2;
+  }
+
+  .signal-body {
+    font-size: 0.68rem;
+    line-height: 1.7;
+    color: var(--steel);
+    position: relative; z-index: 1;
+  }
+
+  .signal-tag {
+    display: inline-block;
+    background: var(--ink);
+    color: var(--paper);
+    font-size: 0.55rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 0.2rem 0.5rem;
+    margin-bottom: 0.8rem;
+  }
+
+  /* FLOW CHART */
+  .flow-section {
+    border: 2px solid var(--ink);
+    padding: 2rem;
+    margin-bottom: 3rem;
+    animation: fadeUp 1s ease both;
+  }
+
+  .flow-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.4rem;
+    letter-spacing: 0.05em;
+    margin-bottom: 1.5rem;
+    color: var(--ink);
+  }
+
+  .flow-bar-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.9rem;
+  }
+
+  .flow-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    width: 120px;
+    flex-shrink: 0;
+    color: var(--steel);
+  }
+
+  .flow-bar-wrap {
+    flex: 1;
+    height: 28px;
+    background: #e8e3d9;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .flow-bar {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 0.6rem;
+    font-size: 0.62rem;
+    font-weight: 500;
+    color: var(--paper);
+    letter-spacing: 0.05em;
+    position: relative;
+    animation: growBar 1.2s cubic-bezier(0.16, 1, 0.3, 1) both;
+    animation-delay: var(--delay, 0s);
+  }
+
+  @keyframes growBar {
+    from { width: 0; }
+  }
+
+  .flow-bar.ai-bar { background: var(--ai); }
+  .flow-bar.space-bar { background: var(--space); }
+  .flow-bar.health-bar { background: var(--health); }
+  .flow-bar.fintech-bar { background: var(--fintech); }
+  .flow-bar.defense-bar { background: #5c3a1a; }
+
+  .flow-amount {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1rem;
+    width: 70px;
+    flex-shrink: 0;
+    color: var(--ink);
+    text-align: right;
+  }
+
+  /* FOOTER */
+  footer {
+    border-top: 3px double var(--ink);
+    padding: 1.5rem 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.6rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .footer-brand {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1rem;
+    color: var(--ink);
+    letter-spacing: 0.05em;
+  }
+
+  .keywords {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .kw {
+    border: 1px solid var(--muted);
+    padding: 0.2rem 0.5rem;
+    border-radius: 2px;
+  }
+
+  /* ANIMATIONS */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .deal-card {
+    animation: fadeUp 0.5s ease both;
+  }
+
+  .deal-card:nth-child(1) { animation-delay: 0.05s; }
+  .deal-card:nth-child(2) { animation-delay: 0.1s; }
+  .deal-card:nth-child(3) { animation-delay: 0.15s; }
+  .deal-card:nth-child(4) { animation-delay: 0.2s; }
+  .deal-card:nth-child(5) { animation-delay: 0.25s; }
+  .deal-card:nth-child(6) { animation-delay: 0.3s; }
+  .deal-card:nth-child(7) { animation-delay: 0.35s; }
+  .deal-card:nth-child(8) { animation-delay: 0.4s; }
+
+  @media (max-width: 768px) {
+    header { padding: 1.5rem; grid-template-columns: 1fr; }
+    .meta { text-align: left; }
+    .container { padding: 1.5rem; }
+    .summary-strip { grid-template-columns: repeat(2, 1fr); }
+    .signals-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div>
+    <div class="masthead">VC <span>Pulse</span></div>
+    <div class="masthead" style="font-size: clamp(1rem, 2.5vw, 1.8rem); color: var(--muted); font-family: 'DM Mono', monospace; font-size: 0.8rem; letter-spacing: 0.2em; text-transform: uppercase; margin-top: 0.4rem;">Weekly Intelligence Digest</div>
+  </div>
+  <div class="meta">
+    <strong>Mar 1–7, 2026</strong>
+    Issue No. 09 · 2026<br>
+    Sequoia · a16z · Lightspeed<br>
+    YC · Founders Fund · TCV
+  </div>
+</header>
+
+<!-- TICKER -->
+<div class="ticker-wrap">
+  <div class="ticker">
+    AYAR LABS +$500M<span>◆</span>SIERRA SPACE +$550M<span>◆</span>VAST +$500M<span>◆</span>SCIENCE CORP +$230M<span>◆</span>GROW THERAPY +$150M<span>◆</span>NOMINAL $1B UNICORN<span>◆</span>PLD SPACE €180M<span>◆</span>EASE HEALTH +$41M<span>◆</span>ROWSPACE +$50M<span>◆</span>CRYPTO DEALS −13% YoY<span>◆</span>&nbsp;&nbsp;&nbsp;AYAR LABS +$500M<span>◆</span>SIERRA SPACE +$550M<span>◆</span>VAST +$500M<span>◆</span>SCIENCE CORP +$230M<span>◆</span>GROW THERAPY +$150M<span>◆</span>NOMINAL $1B UNICORN<span>◆</span>PLD SPACE €180M<span>◆</span>EASE HEALTH +$41M<span>◆</span>ROWSPACE +$50M<span>◆</span>CRYPTO DEALS −13% YoY<span>◆</span>
+  </div>
+</div>
+
+<div class="container">
+
+  <!-- SUMMARY STRIP -->
+  <div class="summary-strip">
+    <div class="stat-cell">
+      <div class="stat-label">Total Deployed</div>
+      <div class="stat-value accent">$1.5B+</div>
+      <div class="stat-sub">Across 10 tracked deals</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-label">New Unicorns</div>
+      <div class="stat-value">1</div>
+      <div class="stat-sub">Nominal · $1B valuation</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-label">Largest Round</div>
+      <div class="stat-value">$550M</div>
+      <div class="stat-sub">Sierra Space · $8B val.</div>
+    </div>
+    <div class="stat-cell">
+      <div class="stat-label">Top Sectors</div>
+      <div class="stat-value" style="font-size:1.1rem; line-height:1.4; font-family:'DM Mono',monospace;">AI · Space · Health</div>
+      <div class="stat-sub">Crypto −13% YoY</div>
+    </div>
+  </div>
+
+  <!-- SECTOR ALLOCATION BAR CHART -->
+  <div class="flow-section">
+    <div class="flow-title">Capital Allocation by Sector</div>
+
+    <div class="flow-bar-row">
+      <div class="flow-label">Space Tech</div>
+      <div class="flow-bar-wrap">
+        <div class="flow-bar space-bar" style="width:72%; --delay:0.1s;">$1.26B across 3 deals</div>
+      </div>
+      <div class="flow-amount">$1.26B</div>
+    </div>
+
+    <div class="flow-bar-row">
+      <div class="flow-label">AI Infra</div>
+      <div class="flow-bar-wrap">
+        <div class="flow-bar ai-bar" style="width:59%; --delay:0.2s;">$500M · Ayar Labs</div>
+      </div>
+      <div class="flow-amount">$500M</div>
+    </div>
+
+    <div class="flow-bar-row">
+      <div class="flow-label">Digital Health</div>
+      <div class="flow-bar-wrap">
+        <div class="flow-bar health-bar" style="width:36%; --delay:0.3s;">$421M combined</div>
+      </div>
+      <div class="flow-amount">$421M</div>
+    </div>
+
+    <div class="flow-bar-row">
+      <div class="flow-label">Neurotech / BCI</div>
+      <div class="flow-bar-wrap">
+        <div class="flow-bar" style="width:28%; --delay:0.4s; background:#8b4513;">$230M · Science Corp.</div>
+      </div>
+      <div class="flow-amount">$230M</div>
+    </div>
+
+    <div class="flow-bar-row">
+      <div class="flow-label">Defense Tech</div>
+      <div class="flow-bar-wrap">
+        <div class="flow-bar defense-bar" style="width:11%; --delay:0.5s;">$80M · Nominal</div>
+      </div>
+      <div class="flow-amount">$80M</div>
+    </div>
+
+    <div class="flow-bar-row">
+      <div class="flow-label">Fintech / AI</div>
+      <div class="flow-bar-wrap">
+        <div class="flow-bar fintech-bar" style="width:7%; --delay:0.6s;">$50M</div>
+      </div>
+      <div class="flow-amount">$50M</div>
+    </div>
+  </div>
+
+  <!-- DEAL CARDS -->
+  <div class="diagram-section">
+    <div class="section-label">— Deal Flow · Mar 1–7, 2026</div>
+    <div class="deals-grid">
+
+      <div class="deal-card ai">
+        <div class="deal-header">
+          <div class="deal-name">Ayar Labs</div>
+          <div class="deal-flag">🇺🇸</div>
+        </div>
+        <div class="deal-sector">AI Infrastructure · Photonics</div>
+        <div class="deal-amount">$500M</div>
+        <div class="deal-round">Series E</div>
+        <div class="deal-valuation">Val: $3.75B · Total raised: $870M</div>
+        <div class="deal-investors">Neuberger Berman (lead) · NVIDIA · AMD · Sequoia · ARK · Insight · QIA</div>
+        <div class="deal-note">MIT spinout replacing copper with silicon photonics. 4–20× throughput-per-watt. IPO signals emerging.</div>
+      </div>
+
+      <div class="deal-card space">
+        <div class="deal-header">
+          <div class="deal-name">Sierra Space</div>
+          <div class="deal-flag">🇺🇸</div>
+        </div>
+        <div class="deal-sector">Space & Defense</div>
+        <div class="deal-amount">$550M</div>
+        <div class="deal-round">Equity Round</div>
+        <div class="deal-valuation">Val: $8B · Largest deal of the week</div>
+        <div class="deal-investors">LuminArx Capital Management (lead)</div>
+        <div class="deal-note">Satellites, spacecraft & space subsystems. Colorado-based, 5 years old.</div>
+      </div>
+
+      <div class="deal-card space">
+        <div class="deal-header">
+          <div class="deal-name">Vast</div>
+          <div class="deal-flag">🇺🇸</div>
+        </div>
+        <div class="deal-sector">Commercial Space · Orbital</div>
+        <div class="deal-amount">$500M</div>
+        <div class="deal-round">Series A · $300M equity + $200M debt</div>
+        <div class="deal-valuation">Balerion Space · QIA · Mitsui · In-Q-Tel</div>
+        <div class="deal-investors">MUFG · Nikon · Mitsui</div>
+        <div class="deal-note">Haven commercial space stations for LEO research & manufacturing. CEO: "pivotal inflection point."</div>
+      </div>
+
+      <div class="deal-card health">
+        <div class="deal-header">
+          <div class="deal-name">Science Corp.</div>
+          <div class="deal-flag">🇺🇸</div>
+        </div>
+        <div class="deal-sector">Neurotech · BCI</div>
+        <div class="deal-amount">$230M</div>
+        <div class="deal-round">Series C</div>
+        <div class="deal-valuation">Total raised: $490M</div>
+        <div class="deal-investors">Lightspeed · Khosla Ventures · Y Combinator · In-Q-Tel</div>
+        <div class="deal-note">Neuralink alums. PRIMA — rice-grain BCI implant to restore sight. First launch in Europe.</div>
+      </div>
+
+      <div class="deal-card health">
+        <div class="deal-header">
+          <div class="deal-name">Grow Therapy</div>
+          <div class="deal-flag">🇺🇸</div>
+        </div>
+        <div class="deal-sector">Digital Mental Health</div>
+        <div class="deal-amount">$150M</div>
+        <div class="deal-round">Series D</div>
+        <div class="deal-valuation">Total raised: $328M · ~$1B revenue</div>
+        <div class="deal-investors">TCV & Goldman Sachs Growth (co-leads) · Sequoia · Menlo · BCI · SignalFire</div>
+        <div class="deal-note">220M covered lives. 125+ insurer partnerships. Winner-takes-most phase emerging.</div>
+      </div>
+
+      <div class="deal-card health">
+        <div class="deal-header">
+          <div class="deal-name">Ease Health</div>
+          <div class="deal-flag">🇺🇸</div>
+        </div>
+        <div class="deal-sector">Behavioral Health AI</div>
+        <div class="deal-amount">$41M</div>
+        <div class="deal-round">Series A · Out of Stealth</div>
+        <div class="deal-valuation">Backed by a16z</div>
+        <div class="deal-investors">Andreessen Horowitz (lead)</div>
+        <div class="deal-note">AI-native OS for mental health providers. Unified CRM, EHR & billing in one platform.</div>
+      </div>
+
+      <div class="deal-card defense">
+        <div class="deal-header">
+          <div class="deal-name">Nominal</div>
+          <div class="deal-flag">🇺🇸</div>
+        </div>
+        <div class="deal-sector">Engineering · Defense Tech</div>
+        <div class="deal-amount">$80M</div>
+        <div class="deal-round">Growth Round · 🦄 Unicorn</div>
+        <div class="deal-valuation">Val: $1B · Total raised: $155M</div>
+        <div class="deal-investors">Founders Fund (lead) · Sequoia · General Catalyst · Lightspeed · Lux Capital</div>
+        <div class="deal-note">Hardware testing tools for defense, automotive & robotics. New manufacturing unicorn.</div>
+      </div>
+
+      <div class="deal-card space">
+        <div class="deal-header">
+          <div class="deal-name">PLD Space</div>
+          <div class="deal-flag">🇪🇸</div>
+        </div>
+        <div class="deal-sector">Space · Reusable Rockets</div>
+        <div class="deal-amount">€180M</div>
+        <div class="deal-round">Series C (~$209M USD)</div>
+        <div class="deal-valuation">European space sovereignty play</div>
+        <div class="deal-investors">Mitsubishi Electric (€50M lead) · Spanish Gov. · COFIDES · Nazca Capital</div>
+        <div class="deal-note">First private Spanish rocket co. Miura 5 reusable orbital vehicle. Miura 1 debuted 2023.</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- SIGNAL CARDS -->
+  <div class="diagram-section">
+    <div class="section-label">— Market Signals & Actionable Insights</div>
+    <div class="signals-grid">
+
+      <div class="signal-card">
+        <div class="signal-number">01</div>
+        <div class="signal-tag">AI Infrastructure</div>
+        <div class="signal-title">Copper is AI's next bottleneck — photonics is the bet</div>
+        <div class="signal-body">Ayar Labs' $500M raise confirms silicon photonic co-packaged optics as a strategic picks-and-shovels play. NVIDIA and AMD investing directly signals this is no longer speculative. Watch CPO supply chain.</div>
+      </div>
+
+      <div class="signal-card">
+        <div class="signal-number">02</div>
+        <div class="signal-tag">Space Economy</div>
+        <div class="signal-title">Commercial space graduates from speculative to strategic</div>
+        <div class="signal-body">Three space deals (~$1.26B) in a single week. Sovereign wealth funds and industrials (Mitsui, Mitsubishi, QIA) are replacing pure-play VCs as lead investors — a structural shift in the capital stack.</div>
+      </div>
+
+      <div class="signal-card">
+        <div class="signal-number">03</div>
+        <div class="signal-tag">Digital Health</div>
+        <div class="signal-title">Mental health tech enters winner-takes-most consolidation</div>
+        <div class="signal-body">Grow Therapy (~$1B revenue) and Ease Health (a16z-backed, out of stealth) signal institutional conviction. The rationalization from COVID-era enthusiasm is complete — survivors are scaling fast.</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-brand">VC Pulse · Mar 2026</div>
+  <div class="keywords">
+    <span class="kw">AI Infrastructure</span>
+    <span class="kw">Space Economy</span>
+    <span class="kw">Behavioral Health Tech</span>
+  </div>
+  <div>For investors & analysts · Sources validated</div>
+</footer>
+
+</body>
+</html>
