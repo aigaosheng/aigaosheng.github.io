@@ -2,18 +2,18 @@
 timezone: "Asia/Singapore"
 
 # Site settings
-title: Transform Your Business with AI | Consulting & Development
-SEOTitle: AI Consultant | Machine Learning Solutions | Expert Developers
+title: AI-driven Business Transformation | Consulting & Development
+SEOTitle: AI Consultant | Enterprise Agentic AI | Tokenization payment
 header-img: image/rawa-sun-falling2-a
 email: goseng123@gmail.com
 # description:  积少成多，集腋成裘
-keyword: AI, machine learning
+keyword: Enterprise Agentic AI, digital Transformation, Tokenization payment
 url: "https://www.aisengtech.com"          
 github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: Artificial intelligence, Agent, machine learning, data science, Expert Developers
+sidebar-about-description: Artificial intelligence, Agentic AI, machine learning, data science, Expert Developers
 sidebar-avatar: /image/gs.jpg     
 
 # SNS settings
