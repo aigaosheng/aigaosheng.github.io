@@ -18,7 +18,7 @@
 <img src="/image/rawa-sun-falling3.jpg" width="0" height="0" />
 <!-- Migrate from head to bottom, no longer block render and still work -->
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8709587192438304"
+<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8709587192438304"
      crossorigin="anonymous"></script>
 <ins class="adsbygoogle"
      style="display:block"
@@ -27,6 +27,30 @@
      data-ad-slot="6023114022"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
+</script> -->
+
+<div style="min-height:250px;">
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-client="ca-pub-8709587192438304"
+       data-ad-slot="6023114022"
+       data-ad-format="fluid"
+       data-full-width-responsive="true"></ins>
+</div>
+
+<script>
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        observer.unobserve(entry.target);
+      }
+    });
+  });
+
+  document.querySelectorAll('.adsbygoogle').forEach(ad => {
+    observer.observe(ad);
+  });
 </script>
 
 </body>
