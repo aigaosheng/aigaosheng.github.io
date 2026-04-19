@@ -54,7 +54,7 @@ For Korean companies and researchers that have struggled to secure Nvidia hardwa
 
 ---
 
-[1]: https://www.ajupress.com/view/20251226140100693?utm_source=chatgpt.com "Huawei to launch AI chips in South Korea, challenging Nvidia's market dominance | AJU PRESS"
-[2]: https://www.huaweicentral.com/huawei-to-challenge-nvidia-ai-chip-presence-in-korea-next-year/?utm_source=chatgpt.com "Huawei plans to launch Ascend AI chip in Korea next year - Huawei Central"
-[3]: https://english.aawsat.com/technology/5203460-nvidia-supply-260000-cutting-edge-chips-south-korea?utm_source=chatgpt.com "Nvidia to Supply 260,000 Cutting-edge Chips to South Korea"
+[1]: https://www.ajupress.com/view/20251226140100693 "Huawei to launch AI chips in South Korea, challenging Nvidia's market dominance | AJU PRESS"
+[2]: https://www.huaweicentral.com/huawei-to-challenge-nvidia-ai-chip-presence-in-korea-next-year/ "Huawei plans to launch Ascend AI chip in Korea next year - Huawei Central"
+[3]: https://english.aawsat.com/technology/5203460-nvidia-supply-260000-cutting-edge-chips-south-korea "Nvidia to Supply 260,000 Cutting-edge Chips to South Korea"
 [4]: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/cambricon-aims-triple-chip-output-replace-nvidia-china/ "Cambricon aims to triple chip output to replace Nvidia in China - The Business Times"

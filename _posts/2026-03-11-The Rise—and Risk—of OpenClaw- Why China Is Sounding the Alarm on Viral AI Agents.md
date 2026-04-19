@@ -138,9 +138,9 @@ A class of AI systems capable of taking actions independently rather than only g
 ---
 
 [1]: https://technode.com/2026/03/11/china-cyber-emergency-center-flags-security-risks-in-ai-agent-openclaw "China cyber emergency center flags security risks in AI ..."
-[2]: https://en.wikipedia.org/wiki/OpenClaw?utm_source=chatgpt.com "OpenClaw"
+[2]: https://en.wikipedia.org/wiki/OpenClaw "OpenClaw"
 [3]: https://www.reuters.com/world/asia-pacific/chinas-shenzhen-backs-openclaw-ai-with-subsidies-despite-beijings-security-2026-03-09 "Chinese tech hubs promote OpenClaw AI agent despite security warnings"
-[4]: https://www.techinasia.com/news/china-issues-warning-over-openclaw-ai-security-risks?utm_source=chatgpt.com "China issues second warning over OpenClaw AI security ..."
+[4]: https://www.techinasia.com/news/china-issues-warning-over-openclaw-ai-security-risks "China issues second warning over OpenClaw AI security ..."
 [5]: https://www.infosecurity-magazine.com/news/researchers-40000-exposed-openclaw "Researchers Find 40000+ Exposed OpenClaw Instances"
-[6]: https://www.techradar.com/pro/security/hackers-exploit-openclaw-to-spread-malware-via-github-and-a-little-help-from-bing?utm_source=chatgpt.com "Hackers exploit OpenClaw to spread malware via GitHub - and a little help from Bing"
+[6]: https://www.techradar.com/pro/security/hackers-exploit-openclaw-to-spread-malware-via-github-and-a-little-help-from-bing "Hackers exploit OpenClaw to spread malware via GitHub - and a little help from Bing"
 [7]: https://www.reuters.com/technology/china-moves-curb-use-openclaw-ai-banks-state-agencies-bloomberg-news-reports-2026-03-11 "China warns state-owned firms and government agencies against OpenClaw AI, sources say"

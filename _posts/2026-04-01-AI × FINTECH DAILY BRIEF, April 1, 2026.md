@@ -153,10 +153,10 @@ The next battleground is clear:
 
 [1]: https://fintech.global/2026/04/01/72-say-ai-is-making-scams-harder-to-detect "72% say AI is making scams harder to detect"
 [2]: https://ffnews.com/newsarticle/paytech/mastercard-completes-its-first-live-agentic-transaction-in-hong-kong "Mastercard Completes its First Live Agentic Transaction in Hong Kong"
-[3]: https://thepaypers.com/fintech/news/xero-and-anthropic-partner-to-bring-ai-to-small-business-finance?utm_source=chatgpt.com "Xero and Anthropic partner for AI financial tools"
+[3]: https://thepaypers.com/fintech/news/xero-and-anthropic-partner-to-bring-ai-to-small-business-finance "Xero and Anthropic partner for AI financial tools"
 [4]: https://thefintechtimes.com/ai-machine-customer-secures-home-loan-in-under-10-minutes-in-new-cloudcase-demo "AI 'Machine Customer' Secures Home Loan in under 10 ..."
-[5]: https://www.fintechfutures.com/fintech-start-ups/smartlayer-set-to-close?utm_source=chatgpt.com "AI-powered home finance fintech Smartlayer set to close"
+[5]: https://www.fintechfutures.com/fintech-start-ups/smartlayer-set-to-close "AI-powered home finance fintech Smartlayer set to close"
 [6]: https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026 "Q1 2026 Shatters Venture Funding Records As AI Boom ..."
 [7]: https://www.forbes.com/sites/zennonkapron/2026/04/01/why-the-2026-fintech-funding-boom-is-about-more-than-ai "Why The 2026 Fintech Funding Boom Is About More Than AI"
 [8]: https://fintech.global/2026/04/01/the-evolving-role-of-actuaries-in-the-age-of-ai "The evolving role of actuaries in the age of AI"
-[9]: https://www.acnnewswire.com/press-release/english/106125/datavault-ai-returns-a-second-time-for-exclusive-investor-forum-at-mar-a-lago?utm_source=chatgpt.com "Datavault AI Returns a Second Time for Exclusive Investor ..."
+[9]: https://www.acnnewswire.com/press-release/english/106125/datavault-ai-returns-a-second-time-for-exclusive-investor-forum-at-mar-a-lago "Datavault AI Returns a Second Time for Exclusive Investor ..."

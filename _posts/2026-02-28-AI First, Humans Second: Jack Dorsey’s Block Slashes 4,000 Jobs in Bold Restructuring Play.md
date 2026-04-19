@@ -68,6 +68,6 @@ Block’s decision represents a **watershed moment in how AI is publicly linked 
 
 🔗 Source: [https://venturebeat.com/orchestration/jack-dorseys-block-cuts-40-of-staff-4-000-people-and-yes-its-because-of-ai](https://venturebeat.com/orchestration/jack-dorseys-block-cuts-40-of-staff-4-000-people-and-yes-its-because-of-ai)
 
-[1]: https://apnews.com/article/18e00a0b278977b0a87893f55e3db7bb?utm_source=chatgpt.com "Fintech company Block lays off 4,000 of its 10,000 staff, citing gains from AI"
+[1]: https://apnews.com/article/18e00a0b278977b0a87893f55e3db7bb "Fintech company Block lays off 4,000 of its 10,000 staff, citing gains from AI"
 [2]: https://www.forbes.com/sites/renanaashkenazi/2026/02/27/jack-dorsey-cut-4000-jobs-for-ai-and-wall-street-added-8-billion "Jack Dorsey Cut 4,000 Jobs For AI And Wall Street Added $8 Billion"
-[3]: https://www.barrons.com/articles/block-stock-earnings-job-cuts-9d1d45af?utm_source=chatgpt.com "Block Stock Jumps After Plan to Cut 40% of Staff . What Its AI Warning Means for Markets."
+[3]: https://www.barrons.com/articles/block-stock-earnings-job-cuts-9d1d45af "Block Stock Jumps After Plan to Cut 40% of Staff . What Its AI Warning Means for Markets."

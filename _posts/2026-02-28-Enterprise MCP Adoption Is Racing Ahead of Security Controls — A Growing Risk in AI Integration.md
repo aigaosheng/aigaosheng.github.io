@@ -58,8 +58,8 @@ The key question for tech leaders is no longer whether to adopt MCP and agentic 
 
 **Source:** [https://venturebeat.com/security/enterprise-mcp-adoption-is-outpacing-security-controls](https://venturebeat.com/security/enterprise-mcp-adoption-is-outpacing-security-controls)
 
-[1]: https://venturebeat.com/security/enterprise-mcp-adoption-is-outpacing-security-controls?utm_source=chatgpt.com "Enterprise MCP adoption is outpacing security controls"
+[1]: https://venturebeat.com/security/enterprise-mcp-adoption-is-outpacing-security-controls "Enterprise MCP adoption is outpacing security controls"
 [2]: https://news.backbox.org/2026/02/27/enterprise-mcp-adoption-is-outpacing-security-controls "Enterprise MCP adoption is outpacing security controls – BackBox.org News"
 [3]: https://www.reddit.com/r/mcp/comments/1r17v3k/we_scanned_over_8000_mcp_servers_heres_what_we "We scanned over 8000+ MCP Servers... here's what we found"
 [4]: https://cybernewswire.com/2025/10/15/mcptotal-launches-to-power-secure-enterprise-mcp-workflows "MCPTotal Launches to Power Secure Enterprise MCP Workflows | CyberNewswire | Cybersecurity Press Release Distribution"
-[5]: https://en.wikipedia.org/wiki/Model_Context_Protocol?utm_source=chatgpt.com "Model Context Protocol"
+[5]: https://en.wikipedia.org/wiki/Model_Context_Protocol "Model Context Protocol"

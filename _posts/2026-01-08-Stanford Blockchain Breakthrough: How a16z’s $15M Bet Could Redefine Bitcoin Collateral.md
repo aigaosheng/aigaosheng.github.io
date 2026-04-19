@@ -36,7 +36,7 @@ While details on valuation and go-to-market plans remain limited, the narrative 
 
 **Source:** [https://www.techinasia.com/news/a16z-backs-15m-round-for-stanford-professors-blockchain-firm](https://www.techinasia.com/news/a16z-backs-15m-round-for-stanford-professors-blockchain-firm) ([Tech in Asia][4])
 
-[1]: https://startupnews.fyi/2026/01/08/a16z-backs-15m-round-for-stanford-professors-blockchain-firm/?utm_source=chatgpt.com "A16z backs $15m round for Stanford professors' blockchain firm"
-[2]: https://www.kucoin.com/news/flash/btc-yield-generation-protocol-babylon-secures-15m-funding-from-a16z-crypto?utm_source=chatgpt.com "BTC Yield-Generation Protocol Babylon Secures $15M Funding ..."
-[3]: https://en.wikipedia.org/wiki/Andreessen_Horowitz?utm_source=chatgpt.com "Andreessen Horowitz"
-[4]: https://www.techinasia.com/category/crypto?utm_source=chatgpt.com "Latest Crypto News and Updates in Asia"
+[1]: https://startupnews.fyi/2026/01/08/a16z-backs-15m-round-for-stanford-professors-blockchain-firm/ "A16z backs $15m round for Stanford professors' blockchain firm"
+[2]: https://www.kucoin.com/news/flash/btc-yield-generation-protocol-babylon-secures-15m-funding-from-a16z-crypto "BTC Yield-Generation Protocol Babylon Secures $15M Funding ..."
+[3]: https://en.wikipedia.org/wiki/Andreessen_Horowitz "Andreessen Horowitz"
+[4]: https://www.techinasia.com/category/crypto "Latest Crypto News and Updates in Asia"

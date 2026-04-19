@@ -57,10 +57,10 @@ At the same time, these aggressive price plans underline a **potential price war
 
 **Source Link:** [https://www.techinasia.com/news/alibaba-unveils-ai-coding-tool-from-1-a-month](https://www.techinasia.com/news/alibaba-unveils-ai-coding-tool-from-1-a-month)
 
-[1]: https://www.gurufocus.com/news/8652043/baba-bundles-4-models-under-one-plan?utm_source=chatgpt.com "BABA Bundles 4 Models Under One Plan"
-[2]: https://www.sci-tech-today.com/news/alibaba-qwen3-5-397b-open-weight-ai/?utm_source=chatgpt.com "Alibaba Qwen3.5 397B Open-Weight AI Details"
-[3]: https://oodaloop.com/briefs/technology/alibaba-pushes-deeper-into-ai-coding-tools-with-low-cost-access/?utm_source=chatgpt.com "Alibaba Pushes Deeper Into AI Coding Tools With Low-Cost Access — OODAloop"
-[4]: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/alibaba-pushes-deeper-ai-coding-tools-low-cost-access?utm_source=chatgpt.com "Alibaba pushes deeper into AI coding tools with low-cost access - The Business Times"
-[5]: https://www.alibabacloud.com/solutions/generative-ai/qwen?utm_source=chatgpt.com "Qwen - Alibaba Cloud"
-[6]: https://artificialanalysis.ai/models/qwen3-coder-480b-a35b-instruct?utm_source=chatgpt.com "Qwen3 Coder 480B - Intelligence, Performance & Price Analysis"
-[7]: https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for?utm_source=chatgpt.com "Anthropic's Claude Code can now read your Slack messages and write code for you"
+[1]: https://www.gurufocus.com/news/8652043/baba-bundles-4-models-under-one-plan "BABA Bundles 4 Models Under One Plan"
+[2]: https://www.sci-tech-today.com/news/alibaba-qwen3-5-397b-open-weight-ai/ "Alibaba Qwen3.5 397B Open-Weight AI Details"
+[3]: https://oodaloop.com/briefs/technology/alibaba-pushes-deeper-into-ai-coding-tools-with-low-cost-access/ "Alibaba Pushes Deeper Into AI Coding Tools With Low-Cost Access — OODAloop"
+[4]: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/alibaba-pushes-deeper-ai-coding-tools-low-cost-access "Alibaba pushes deeper into AI coding tools with low-cost access - The Business Times"
+[5]: https://www.alibabacloud.com/solutions/generative-ai/qwen "Qwen - Alibaba Cloud"
+[6]: https://artificialanalysis.ai/models/qwen3-coder-480b-a35b-instruct "Qwen3 Coder 480B - Intelligence, Performance & Price Analysis"
+[7]: https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for "Anthropic's Claude Code can now read your Slack messages and write code for you"

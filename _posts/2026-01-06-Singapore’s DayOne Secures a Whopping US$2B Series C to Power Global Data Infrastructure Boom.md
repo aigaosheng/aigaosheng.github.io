@@ -48,5 +48,5 @@ Infrastructure optimized for handling intensive artificial intelligence workload
 
 📎 *Source:* [https://www.techinasia.com/news/sg-data-center-firm-dayone-bags-over-2m-series-c](https://www.techinasia.com/news/sg-data-center-firm-dayone-bags-over-2m-series-c)
 
-[1]: https://www.globenewswire.com/news-release/2026/01/05/3212561/0/en/DayOne-Data-Centers-Announces-Over-US-2-0-Billion-Series-C-Financing-to-Accelerate-Global-Digital-Infrastructure-Expansion.html?utm_source=chatgpt.com "DayOne Data Centers Announces Over US$2.0 Billion Series C"
+[1]: https://www.globenewswire.com/news-release/2026/01/05/3212561/0/en/DayOne-Data-Centers-Announces-Over-US-2-0-Billion-Series-C-Financing-to-Accelerate-Global-Digital-Infrastructure-Expansion.html "DayOne Data Centers Announces Over US$2.0 Billion Series C"
 [2]: https://asiatechdaily.com/why-investors-are-writing-2-billion-checks-for-data-centers-again "Why Investors Are Writing $2 Billion Checks for Data Centers Again"

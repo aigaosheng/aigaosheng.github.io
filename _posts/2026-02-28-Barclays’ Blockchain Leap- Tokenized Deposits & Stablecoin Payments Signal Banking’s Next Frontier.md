@@ -69,11 +69,11 @@ However, this remains exploratory — no product has been publicly announced and
 
 ---
 
-[1]: https://www.techinasia.com/news/barclays-explores-blockchain-payments-tokenized-deposits?utm_source=chatgpt.com "Barclays explores blockchain payments, tokenized deposits"
-[2]: https://coin360.com/news/barclays-blockchain-payments-stablecoins-tokenized-deposits?utm_source=chatgpt.com "Barclays Moves Into Blockchain Payments"
-[3]: https://www.kucoin.com/news/flash/barclays-evaluates-blockchain-platform-for-payments-and-tokenized-deposits?utm_source=chatgpt.com "Barclays Evaluates Blockchain Platform for Payments and Tokenized Deposits | KuCoin"
+[1]: https://www.techinasia.com/news/barclays-explores-blockchain-payments-tokenized-deposits "Barclays explores blockchain payments, tokenized deposits"
+[2]: https://coin360.com/news/barclays-blockchain-payments-stablecoins-tokenized-deposits "Barclays Moves Into Blockchain Payments"
+[3]: https://www.kucoin.com/news/flash/barclays-evaluates-blockchain-platform-for-payments-and-tokenized-deposits "Barclays Evaluates Blockchain Platform for Payments and Tokenized Deposits | KuCoin"
 [4]: https://stablecoininsider.org/stablecoin-clearing-systems "Barclays Invests in Ubyx: Pioneering Stablecoin Clearing System"
 [5]: https://crypto-economy.com/barclays-explores-on-chain-settlement-tech "Barclays Explores On-Chain Settlement Tech Amid Rising Stablecoin Adoption - Crypto Economy"
 [6]: https://www.ainvest.com/news/barclays-blockchain-move-260b-stablecoin-reality-check-2602 "Barclays' Blockchain Move: A $260B Stablecoin Reality Check"
-[7]: https://www.newsbytesapp.com/news/business/barclays-bets-on-blockchain-for-faster-banking/tldr?utm_source=chatgpt.com "Barclays bets on blockchain for faster banking"
+[7]: https://www.newsbytesapp.com/news/business/barclays-bets-on-blockchain-for-faster-banking/tldr "Barclays bets on blockchain for faster banking"
 [8]: https://yellow.com/news/barclays-is-hunting-for-a-blockchain-partner-to-build-payments-and-stablecoin-infrastructure-by-april "Barclays Is Hunting For A Blockchain Partner To Build Payments And Stablecoin Infrastructure By April | Yellow.com"

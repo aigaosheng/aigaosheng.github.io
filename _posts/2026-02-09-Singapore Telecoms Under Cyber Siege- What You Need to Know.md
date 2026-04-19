@@ -16,9 +16,9 @@ permalink: /Singapore Telecoms Under Cyber Siege- What You Need to Know/
 **🚨 Singapore Telecoms Under Cyber Siege: What You Need to Know**
 *Major carriers targeted by advanced espionage group, no personal data lost — for now.*
 
-* [Tech in Asia](https://www.techinasia.com/news/singapore-telcos-hit-cyberattack-data-leaked?utm_source=chatgpt.com)
-* [AsiaOne](https://www.asiaone.com/singapore/4-telcos-singtel-starhub-m1-simba-targeted-cyber-attack-UNC3886?utm_source=chatgpt.com)
-* [Reuters](https://www.reuters.com/sustainability/boards-policy-regulation/singapore-says-cyber-espionage-group-targeted-telco-infrastructure-2026-02-09/?utm_source=chatgpt.com)
+* [Tech in Asia](https://www.techinasia.com/news/singapore-telcos-hit-cyberattack-data-leaked)
+* [AsiaOne](https://www.asiaone.com/singapore/4-telcos-singtel-starhub-m1-simba-targeted-cyber-attack-UNC3886)
+* [Reuters](https://www.reuters.com/sustainability/boards-policy-regulation/singapore-says-cyber-espionage-group-targeted-telco-infrastructure-2026-02-09/)
 
 **Singapore’s four biggest telecommunications operators —** Singtel, StarHub, M1 and **Simba Telecom** — were the targets of a coordinated cyberattack by a sophisticated threat actor last year, authorities announced on February 9, 2026. Government agencies confirm that while the attackers breached some telecom systems and extracted limited technical data, there’s **no indication that customer personal data was accessed or leaked** and core services weren’t disrupted. ([Reuters][1])
 

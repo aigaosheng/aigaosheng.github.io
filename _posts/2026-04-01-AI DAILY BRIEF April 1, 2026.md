@@ -129,7 +129,7 @@ AI is entering its **industrial phase**:
 ---
 
 [1]: https://www.reuters.com/technology/apple-tests-siri-feature-that-handles-multiple-commands-once-bloomberg-news-2026-03-31 "Apple tests Siri feature that handles multiple commands at once, Bloomberg News reports"
-[2]: https://www.wsj.com/tech/oracle-lays-off-workers-amid-heavy-ai-investment-fff8cd82?utm_source=chatgpt.com "Oracle Lays Off Workers Amid Heavy AI Investment"
+[2]: https://www.wsj.com/tech/oracle-lays-off-workers-amid-heavy-ai-investment-fff8cd82 "Oracle Lays Off Workers Amid Heavy AI Investment"
 [3]: https://www.artificialintelligence-news.com "AI News | Latest News | Insights Powering AI-Driven Business ..."
-[4]: https://www.businesstimes.com.sg/keywords/artificial-intelligence?utm_source=chatgpt.com "Artificial Intelligence Latest News & Headlines"
+[4]: https://www.businesstimes.com.sg/keywords/artificial-intelligence "Artificial Intelligence Latest News & Headlines"
 [5]: https://www.sciencedaily.com/news/computers_math/artificial_intelligence "Artificial Intelligence News -- ScienceDaily"

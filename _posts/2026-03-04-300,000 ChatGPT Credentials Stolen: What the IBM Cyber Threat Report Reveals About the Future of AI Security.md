@@ -72,8 +72,8 @@ For business leaders and IT teams, this breach is a wake-up call. Experts increa
 
 ---
 
-[1]: https://www.techinasia.com/news/ai-hackers-stole-300000-chatgpt-credentials-2025-ibm?utm_source=chatgpt.com "AI hackers stole 300,000 ChatGPT credentials in 2025: IBM"
+[1]: https://www.techinasia.com/news/ai-hackers-stole-300000-chatgpt-credentials-2025-ibm "AI hackers stole 300,000 ChatGPT credentials in 2025: IBM"
 [2]: https://www.securityweek.com/the-blast-radius-problem-stolen-credentials-are-weaponizing-agentic-ai "The Blast Radius Problem: Stolen Credentials Are Weaponizing Agentic AI"
-[3]: https://www.scworld.com/brief/cyberattacks-driven-by-vulnerability-exploitation-report-finds?utm_source=chatgpt.com "Cyberattacks driven by vulnerability exploitation, report finds"
+[3]: https://www.scworld.com/brief/cyberattacks-driven-by-vulnerability-exploitation-report-finds "Cyberattacks driven by vulnerability exploitation, report finds"
 [4]: https://industrialcyber.co/reports/ibm-x-force-reports-44-surge-in-exploitation-of-public-facing-applications-as-supply-chain-and-identity-attacks-intensify "IBM X-Force reports 44% surge in exploitation of public-facing applications as supply chain and identity attacks intensify - Industrial Cyber"
 [5]: https://www.ibm.com/reports/data-breach "Cost of a data breach 2025 | IBM"
