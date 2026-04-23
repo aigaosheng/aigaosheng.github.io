@@ -10,7 +10,7 @@ tags:
 - AI Rivalry 2026
 - China AI Innovation
 - US-China Tech Hegemony
-keywords: [AI Rivalry 2026, China AI Innovation, US-China Tech Hegemony**]
+keywords: [AI Rivalry 2026, China AI Innovation, US-China Tech Hegemony]
 permalink: /AI STRATEGIC FRONT Brief April 23, 2026/
 ---
 ### AI STRATEGIC FRONT Brief | April 23, 2026
