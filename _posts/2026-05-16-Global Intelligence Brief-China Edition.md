@@ -1,22 +1,18 @@
 ---
 layout: post
 title: "2026-05-16 — Global Intelligence Brief — China Edition"
-description: "Structured 3-layer analysis of US developments and their global impact."
-date: 2026-05-16 22:24:00 +0800
-author: "Geopolitical Intelligence Desk"
-categories:
-  - geopolitics
-  - markets
-  - intelligence
-  - news-analysis
-tags:
-  - united-states
-  - china
-  - macro
-  - geopolitics
-  - intelligence
-toc: true
+date: 2026-05-16 22:30:00 +0800
+type: post
 published: true
+status: publish
+categories: []
+tags:
+- united-states
+- china
+- macro
+- geopolitics
+- intelligence
+keywords: [united-states, china, macro]
 permalink: /daily-intelligence 2026-05-16-china-edition/
 ---
 
