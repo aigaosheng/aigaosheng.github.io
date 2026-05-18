@@ -18,7 +18,7 @@ permalink: /Enterprise-AI-Brief-2026-05-17/
 
 ### Enterprise AI Brief — 2026-05-17
 
-## Top Stories (Max 10)
+## Top Stories
 
 ### 1. SAP Restricts Third-Party AI Agent Access in Updated API Policy
 - **AI Magazine** · 2026-05-16
