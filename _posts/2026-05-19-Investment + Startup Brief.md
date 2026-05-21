@@ -18,7 +18,7 @@ permalink: /Investment-Startup-Brief-2026-05-19/
 
 ### Investment + Startup Brief — 2026-05-19
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Google & Blackstone Launch $5B AI Cloud Venture
 - **Reuters/WSJ** · 2026-05-19

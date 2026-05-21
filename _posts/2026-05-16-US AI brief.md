@@ -17,7 +17,7 @@ permalink: /US-AI-Brief-2026-05-15/
 
 ### US AI Brief — 2026-05-16
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. US, China to Discuss AI Guardrails During Presidential Visit
 - **VOA News** · 2026-05-15

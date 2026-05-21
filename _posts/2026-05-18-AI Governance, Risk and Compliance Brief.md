@@ -18,7 +18,7 @@ permalink: /AI-Governance-Brief-2026-05-18/
 
 ### AI Governance, Risk and Compliance Brief — 2026-05-18
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Australian Regulators Issue Urgent Calls for AI Cyber Resilience
 - **Corrs Chambers Westgarth** · 2026-05-18

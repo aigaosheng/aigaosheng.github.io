@@ -21,7 +21,7 @@ permalink: /Singapore-Brief-2026-05-16/
 
 ### Singapore+ by industry and sector Brief — 2026-05-16
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Singapore Unveils 32-Point Economic Strategy to Build Global Leadership in AI and Trust-Based Services
 - **Channel News Taiwan (WTO)** · 2026-05-15

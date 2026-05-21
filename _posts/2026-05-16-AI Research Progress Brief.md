@@ -18,7 +18,7 @@ permalink: /AI-Research-Brief-2026-05-16/
 
 ### AI Research Progress Brief — 2026-05-16
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Recursive Self-Improvement Gains Traction with Major Funding and Research Advances
 - **The Neuron AI / KuCoin** · 2026-05-15

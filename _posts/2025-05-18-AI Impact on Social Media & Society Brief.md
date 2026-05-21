@@ -19,7 +19,7 @@ permalink: /AI-Social-Media-Brief-2026-05-18/
 
 ### AI Impact on Social Media & Society Brief — 2026-05-18
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. ‘AI Psychosis’ Study Reveals Delusional Spirals with Chatbots
 - **ABC News** · 2026-05-17

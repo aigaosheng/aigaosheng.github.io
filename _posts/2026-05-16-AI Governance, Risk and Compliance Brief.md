@@ -18,7 +18,7 @@ permalink: /AI-Governance-Brief-2026-05-16/
 
 ### AI Governance, Risk and Compliance Brief — 2026-05-16
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. EU Negotiators Reach Deal to Delay High-Risk AI Act Compliance Deadlines
 - **Proskauer Rose / Mondaq** · 2026-05-15

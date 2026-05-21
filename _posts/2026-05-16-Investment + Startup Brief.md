@@ -18,7 +18,7 @@ permalink: /investment-startup-Brief-2026-05-16/
 
 ### Investment + Startup Brief — 2026-05-16
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Microsoft eyes startup acquisitions to reduce OpenAI reliance
 - **The Manila Times** · 2026-05-15

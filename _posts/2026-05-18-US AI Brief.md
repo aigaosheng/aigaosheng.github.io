@@ -17,7 +17,7 @@ permalink: /US-AI-Brief-2026-05-18/
 
 ### US AI Brief — 2026-05-18
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Anthropic and OpenAI Escalate Moves into Corporate and Government Markets
 - **AJU PRESS** · 2026-05-17

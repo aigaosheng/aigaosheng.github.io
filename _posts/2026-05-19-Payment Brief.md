@@ -17,7 +17,7 @@ permalink: /Payment-Brief-2026-05-19/
 
 ### Payment Brief — 2026-05-19
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Apple Pay India Launch Delayed by Commission Standoff with Banks
 - **CNBC TV18** · 2026-05-18

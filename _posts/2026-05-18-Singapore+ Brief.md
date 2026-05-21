@@ -18,7 +18,7 @@ permalink: /Singapore-Brief-2026-05-18/
 
 ### Singapore+ Brief — 2026-05-18
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. AI Demand Powers Singapore’s April Exports to Forecast-Beating 24.5% Surge
 - **The Business Times** · 2026-05-18

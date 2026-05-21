@@ -18,7 +18,7 @@ permalink: /investment-startup-Brief-2026-05-17/
 
 ### Investment + Startup Brief — 2026-05-17
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. SpaceX Approves 5-for-1 Stock Split Ahead of Record $75 Billion IPO
 - **IPOX** · 2026-05-16

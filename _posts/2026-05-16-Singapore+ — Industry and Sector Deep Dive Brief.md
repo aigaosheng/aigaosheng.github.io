@@ -17,7 +17,7 @@ permalink: /Singapore-Brief-2026-05-16/
 
 ### Singapore+ — Industry and Sector Deep Dive Brief — 2026-05-16
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Singapore Unveils Major Economic Strategy Review With 32 Recommendations
 - **Straits Times / Channel NewsAsia (via WTO Portal)** · 2026-05-15

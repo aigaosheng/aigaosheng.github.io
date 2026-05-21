@@ -20,7 +20,7 @@ permalink: /US-Life-Sports-Brief-2026-05-19/
 
 ### US Life & US Sports Brief — 2026-05-19
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Wembanyama’s Historic 41-24 Double-Double Lifts Spurs to 2OT Win in West Finals Opener
 - **Associated Press** · 2026-05-18

@@ -19,7 +19,7 @@ permalink: /AI + Fintech Daily April 10, 2026/
 
 ---
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ---
 
