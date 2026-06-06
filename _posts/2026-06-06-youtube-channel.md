@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "YouTube channel"
-date: 2026-06-05 21:00:00 +0800
+date: 2026-06-06 21:05:00 +0800
 type: post
 published: true
 status: publish
 categories: []
 tags:
 - YouTube
-keywords: [YouTube]
+keywords: [YouTube, AI]
 permalink: /aiseng-youtube-channel/
 ---
 
