@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI fintech+ Brief — 2026-06-11"
+title: "AI fintech Brief — 2026-06-11"
 date: 2026-06-11 20:55:00 +0800
 type: post
 published: true
@@ -15,7 +15,7 @@ keywords: [AI, Fintech, Agentic Commerce, Visa, OpenAI, Stablecoins]
 permalink: /AI-fintech-Brief-2026-06-11/
 ---
 
-### AI fintech+ Brief — 2026-06-11
+### AI fintech Brief — 2026-06-11
 
 ## Top Stories
 
