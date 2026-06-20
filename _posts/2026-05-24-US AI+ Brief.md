@@ -17,7 +17,7 @@ permalink: /US-AI-Brief-2026-05-24/
 
 ### US AI+ Brief — 2026-05-24
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. White House Approves Secret $9 Billion AI Push for Intelligence Agencies
 - **Moneycontrol** · 2026-05-23

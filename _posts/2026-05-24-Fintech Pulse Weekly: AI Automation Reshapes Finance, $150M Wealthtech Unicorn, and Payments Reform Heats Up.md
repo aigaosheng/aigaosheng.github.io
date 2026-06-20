@@ -18,7 +18,7 @@ permalink: /Fintech Pulse Weekly- AI Automation Reshapes Finance, $150M Wealthte
 
 ---
 
-## **1. Top Headlines** *(Max 10)*
+## **1. Top Headlines** **
 
 • **Wealthtech Farther hits unicorn status with $150M Series D** – General Atlantic-led round values the wealth management platform at over $1B, signaling strong investor confidence in AI-powered advisory tools. *Source: [Finextra](https://www.finextra.com/newsarticle/42891/wealthtech-farther-raises-150m)* | *Impact: Accelerates competition in digital wealth management.*
 

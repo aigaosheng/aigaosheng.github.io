@@ -23,7 +23,7 @@ permalink: /Singapore-Plus-Brief-2026-06-16/
 
 ### Singapore Plus by Sectors and Industries Brief — 2026-06-16
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Singapore Layoffs Hit Near Three-Year High Amid Restructuring
 - **The Edge Singapore** · 2026-06-15

@@ -18,7 +18,7 @@ permalink: /China-AI-Brief-2026-05-24/
 
 ### China AI+ Brief — 2026-05-24
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. NDRC to Unveil Supporting Policies for "AI+" Implementation, Advances AI Legislation Research
 - **Xinhua / Wen Wei Po** · 2026-05-23

@@ -17,7 +17,7 @@ permalink: /Open-Source-AI-Model-Brief-2026-06-15/
 
 ### Open Source AI Model Brief — 2026-06-15
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Rio de Janeiro's Municipal Government Releases World-Class Open Model
 - **India Today** · 2026-06-14

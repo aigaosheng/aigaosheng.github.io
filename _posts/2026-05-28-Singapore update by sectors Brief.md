@@ -17,7 +17,7 @@ permalink: /Singapore-sectors-Brief-2026-05-28/
 
 ### Singapore update by sectors Brief — 2026-05-28
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Manufacturing Output Surges 17.6% in April, Electronics Lead on AI Demand
 - **Singapore Business Review** · 2026-05-27

@@ -18,7 +18,7 @@ permalink: /AI-Impact-Social-Media-Society-Brief-2026-06-19/
 
 ### AI Impact on Social Media & Society Brief — 2026-06-19
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Meta Faces Security Breach and Leadership Exit Amid AI Transition
 - **Yahoo Finance** · 2026-06-18

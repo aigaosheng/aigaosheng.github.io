@@ -17,7 +17,7 @@ permalink: /AI-Research-Brief-2026-06-15/
 
 ### AI Research Brief — 2026-06-15
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. OpenAI Achieves Major Breakthrough: AI Solves 80-Year-Old Math Problem
 - **Shenzhen Daily** · 2026-06-15

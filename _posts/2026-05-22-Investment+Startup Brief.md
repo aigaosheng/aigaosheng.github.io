@@ -17,7 +17,7 @@ permalink: /investment-startup-Brief-2026-05-22/
 
 ### Investment+Startup Brief — 2026-05-22
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. State-Backed Funds Pile Into China’s Top AI Startups
 - **China Daily** · 2026-05-21

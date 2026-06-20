@@ -19,7 +19,7 @@ permalink: /Investment+Startup-Brief-2026-06-16/
 
 ### Investment Startup Brief — 2026-06-16
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. HCLTech Leads Sarvam AI's Series B, Valuing Indian GenAI Startup at $1.5 Billion
 - **Reuters / Yahoo Finance** · 2026-06-15

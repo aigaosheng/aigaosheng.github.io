@@ -17,7 +17,7 @@ permalink: /Enterprise-AI-Brief-2026-06-09/
 
 ### Enterprise AI Brief — 2026-06-09
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. NVIDIA Acquires Predictive AI Startup Kumo AI for Over $400 Million
 - **AIM Media House** · 2026-06-08

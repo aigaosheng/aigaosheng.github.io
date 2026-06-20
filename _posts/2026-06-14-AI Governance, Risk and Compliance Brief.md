@@ -18,7 +18,7 @@ permalink: /AI-Governance-Risk-Compliance-Brief-2026-06-14/
 
 ### AI Governance, Risk and Compliance Brief — 2026-06-14
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. U.S. State Attorneys General Launch Wide-Ranging Investigation into OpenAI
 - **The Indian Express** · 2026-06-14

@@ -19,7 +19,7 @@ permalink: /Payment-Brief-2026-06-09/
 
 ### Payment Brief — 2026-06-09
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Visa, Mastercard in Early Talks with Stripe and Coinbase to Form Stablecoin Alliance
 - **Fortune** · 2026-06-08

@@ -18,7 +18,7 @@ permalink: /AI-Fintech-Brief-2026-05-25/
 
 ### AI+Fintech Brief — 2026-05-25
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Mercury Hits $5.2B Valuation Fueled by AI Startup Boom
 - **CNBC via Weiyangx** · 2026-05-24

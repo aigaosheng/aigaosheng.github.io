@@ -18,7 +18,7 @@ permalink: /Singapore-Brief-2026-05-25/
 
 ### Singapore Brief — 2026-05-25
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Singapore Maintains GDP Forecast at 2-4% Despite Q1 Beat and Mideast Risks
 - **Bernama / Reuters** · 2026-05-25

@@ -18,7 +18,7 @@ permalink: /Enterprise-AI-Brief-2026-06-18/
 
 ### Enterprise AI Brief — 2026-06-18
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Convey Raises $38M Series A Led by a16z to Automate Enterprise Operations with AI Teammates
 - **Business Wire** · 2026-06-17

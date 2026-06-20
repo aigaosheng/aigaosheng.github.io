@@ -18,7 +18,7 @@ permalink: /investment-startup-Brief-2026-05-29/
 
 ### investment+startup Brief — 2026-05-29
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Insurance Startup Corgi Hits $2.6B Valuation Weeks After Unicorn Round
 - **PRNewswire via ADVFN** · 2026-05-28

@@ -18,7 +18,7 @@ permalink: /investment-startup-Brief-2026-06-13/
 
 ### Investment + Startup Brief — 2026-06-13
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Jeff Bezos' AI Startup Prometheus Valued at $41 Billion
 - **The Edge Singapore** · 2026-06-12

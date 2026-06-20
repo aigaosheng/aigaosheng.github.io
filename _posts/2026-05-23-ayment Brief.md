@@ -18,7 +18,7 @@ permalink: /Payment-Brief-2026-05-23/
 
 ### Payment Brief — 2026-05-23
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Fed Reopens Controversial 'Skinny Account' Proposal for Fintechs and Crypto Firms
 - **Yahoo Finance / TheStreet** · 2026-05-22

@@ -18,7 +18,7 @@ permalink: /China-AI-Brief-2026-05-23/
 
 ### China AI+ Brief — 2026-05-23
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. NDRC to Accelerate ‘AI+’ Rollout with New Policies and Legislation
 - **China Daily / Reuters syndication** · 2026-05-23

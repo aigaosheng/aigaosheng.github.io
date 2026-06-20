@@ -18,7 +18,7 @@ permalink: /China-AI-Brief-2026-06-15/
 
 ### China AI Brief — 2026-06-15
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. ByteDance in Advanced Talks to Buy AI Chips from Domestic Supplier Iluvatar CoreX
 - **Reuters** · 2026-06-15

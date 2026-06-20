@@ -18,7 +18,7 @@ permalink: /AI-Research-Brief-2026-05-25/
 
 ### AI Research+ Brief — 2026-05-25
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. Google Gemini Breaks Into Scientific Research with Two Nature Papers
 - **36Kr** · 2026-05-25
