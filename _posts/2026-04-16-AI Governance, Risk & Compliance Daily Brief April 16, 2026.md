@@ -128,6 +128,6 @@ permalink: /AI Governance, Risk & Compliance Daily Brief April 16, 2026/
 [5]: https://www.eversheds-sutherland.com/en/asia/insights/gloabl-ai-bulletin-april-2026 "gloabl-ai-bulletin-april-2026"
 [6]: https://blog.workday.com/en-us/while-eu-ai-act-stalls-workday-leads-trusted-compliant-ai-fy27-q1.html "While the EU AI Act Stalls, Workday Leads on Trusted, Compliant AI"
 [7]: https://www.kwqc.com/2026/04/15/amid-artificial-intelligence-explosion-lawmakers-debate-best-path-regulate/ "Amid artificial intelligence explosion, lawmakers debate best path to regulate"
-[8]: https://natlawreview.com/article/insurance-implications-ai-your-business-your-current-coverage-keeping?amp=&utm_source=chatgpt.com "The Insurance Implications of AI in Your Business- Is Your Current Coverage Keeping Up?"
+[8]: https://natlawreview.com/article/insurance-implications-ai-your-business-your-current-coverage-keeping?amp=& "The Insurance Implications of AI in Your Business- Is Your Current Coverage Keeping Up?"
 [9]: https://www.thehrdirector.com/features/artificial-intelligence/navigating-ai-risks-regulation-rapidly-evolving-workforce/ "Navigating AI risks, regulation and a rapidly evolving workforce"
 [10]: https://boardagenda.com/2026/04/15/bid-to-involve-investors-in-push-for-ai-governance/ "Bid to involve investors in push for AI governance"

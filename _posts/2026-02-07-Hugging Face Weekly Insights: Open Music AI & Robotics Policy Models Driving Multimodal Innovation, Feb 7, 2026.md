@@ -115,4 +115,4 @@ This week’s Hugging Face developments reflect a broadening of open‑source AI
 [4]: https://medium.com/%40sebuzdugan/how-nvidia-cosmos-policy-turns-video-models-into-unified-robot-controllers-676fe5fe3e46 "How NVIDIA Cosmos Policy turns video models into unified ..."
 [5]: https://huggingface.co/papers/2602.03143 "Paper page - Self-Hinting Language Models Enhance Reinforcement Learning"
 [6]: https://www.reddit.com/r/LocalLLaMA/comments/1qxk5jn/hugging_face_now_has_benchmark_repos_for/ "hugging face now has benchmark repos for community reported evals"
-[7]: https://www.patreon.com/posts/ace-step-1-5-in-149917076?l=es&utm_source=chatgpt.com "ACE Step 1.5 in ComfyUI: Free & Local AI Music Generate ..."
+[7]: https://www.patreon.com/posts/ace-step-1-5-in-149917076?l=es& "ACE Step 1.5 in ComfyUI: Free & Local AI Music Generate ..."

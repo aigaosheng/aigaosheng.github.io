@@ -56,4 +56,4 @@ Alibaba’s latest AI advancements mark a significant step in the evolution of g
 ---
 
 [1]: https://www.techinasia.com/news/alibaba-launches-ai-models-for-video-with-likeness-voice "Alibaba launches AI models for video with likeness, voice"
-[2]: https://www.alibabacloud.com/tc/press-room/alibaba-introduces-open-source-model-for-digital?_p_lc=1&utm_source=chatgpt.com "阿里巴巴開源數字人視頻生成模型"
+[2]: https://www.alibabacloud.com/tc/press-room/alibaba-introduces-open-source-model-for-digital?_p_lc=1& "阿里巴巴開源數字人視頻生成模型"

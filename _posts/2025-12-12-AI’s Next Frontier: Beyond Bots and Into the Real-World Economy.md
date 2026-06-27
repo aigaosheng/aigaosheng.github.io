@@ -85,6 +85,6 @@ Whether you’re a seasoned investor or just tech-curious, the story is the same
 
 ---
 
-[1]: https://www.bloomberg.com/news/features/2025-12-12/where-to-invest-in-ai-robotaxis-health-care-copper?srnd=homepage-americas&utm_source=chatgpt.com "Where to Invest in AI in 2026"
+[1]: https://www.bloomberg.com/news/features/2025-12-12/where-to-invest-in-ai-robotaxis-health-care-copper?srnd=homepage-americas& "Where to Invest in AI in 2026"
 [2]: https://en.wikipedia.org/wiki/Robotaxi "Robotaxi"
 [3]: https://www.bloomberg.com/news/features/2025-12-12/where-to-invest-in-ai-robotaxis-health-care-copper "Where to Invest in AI: Robotaxis, Health Care, Copper"

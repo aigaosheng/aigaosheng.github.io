@@ -66,5 +66,5 @@ While *Qwen‑Image‑Edit‑2511* is not a standalone consumer product, it is a
 
 ---
 
-[1]: https://qwen.ai/blog?id=qwen-image-edit-2511&utm_source=chatgpt.com "Qwen-Image-Edit-2511: Improve Consistency"
+[1]: https://qwen.ai/blog?id=qwen-image-edit-2511& "Qwen-Image-Edit-2511: Improve Consistency"
 [2]: https://www.alibabacloud.com/blog/alibaba-launches-qwen-app-to-boost-its-consumer-ai-efforts_602672 "Alibaba Launches Qwen App to Boost its Consumer AI Efforts - Alibaba Cloud Community"

@@ -86,7 +86,7 @@ The hub’s research aggregator lists fresh and community‑submitted work captu
 * Community research papers: *HuggingFace Paper Explorer* ([huggingface-paper-explorer.vercel.app][4])
 
 [1]: https://huggingface.co/models "Models - Hugging Face"
-[2]: https://huggingface.co/models?library=gguf&utm_source=chatgpt.com "Models compatible with the GGUF library - Hugging Face"
+[2]: https://huggingface.co/models?library=gguf& "Models compatible with the GGUF library - Hugging Face"
 [3]: https://huggingface.co/collections/sergiopaniego/research-and-long-form-blog-posts "Research & Long-Form Blog Posts - a sergiopaniego Collection"
 [4]: https://huggingface-paper-explorer.vercel.app/ "HuggingFace Papers - Top Last 3 Days"
 [5]: https://huggingface.co/onnx-community "ONNX Community - Hugging Face"

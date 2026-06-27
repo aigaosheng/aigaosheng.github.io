@@ -42,5 +42,5 @@ Looking ahead, the outcome of this patent race — and the broader competition b
 [1]: https://www.techinasia.com/news/china-races-ahead-of-us-in-humanoid-robot-patents-over-5-years "China races ahead of US in humanoid robot patents over 5 ..."
 [2]: https://www.sohu.com/a/875633591_121717382 "2025年中国人形机器人行业市场规模、技术专利情况及重点企业分析_研究"
 [3]: https://www.scmp.com/tech/article/3337151/china-packs-patent-punch-race-build-humanoid-robots "China packs a patent punch in the race to build humanoid ..."
-[4]: https://iknow.stpi.niar.org.tw/post/Read.aspx?PostID=21729&utm_source=chatgpt.com "中國在人形機器人的專利和供應鏈優勢，讓美國擔憂"
+[4]: https://iknow.stpi.niar.org.tw/post/Read.aspx?PostID=21729& "中國在人形機器人的專利和供應鏈優勢，讓美國擔憂"
 [5]: https://www.techinasia.com/tag/china "Latest China Tech Startup News & Updates"

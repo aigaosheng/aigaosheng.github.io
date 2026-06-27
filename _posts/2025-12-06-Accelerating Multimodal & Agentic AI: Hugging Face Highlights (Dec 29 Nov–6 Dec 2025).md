@@ -81,7 +81,7 @@ This week’s activity on Hugging Face shows a clear push toward faster, deploya
 
 [1]: https://huggingface.co/tencent/HunyuanVideo-1.5 "tencent/HunyuanVideo-1.5"
 [2]: https://huggingface.co/papers/trending "Trending Papers"
-[3]: https://huggingface.co/papers?date=2025-12-04&utm_source=chatgpt.com "Daily Papers"
+[3]: https://huggingface.co/papers?date=2025-12-04& "Daily Papers"
 [4]: https://huggingface.co/stepfun-ai/Step-Audio-EditX "stepfun-ai/Step-Audio-EditX"
 [5]: https://huggingface.co/spaces/OpenEvals/evaluation-guidebook "The LLM Evaluation Guidebook"
 [6]: https://huggingface.co/blog/nmmursit/late-interaction-models "TurkColBERT: A Benchmark of Dense and Late-Interaction ..."

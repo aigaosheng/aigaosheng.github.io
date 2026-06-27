@@ -88,6 +88,6 @@ Whether this becomes a watershed moment that forces generative AI companies to r
 [1]: https://www.koreaherald.com/article/10680650 "Korea's top TV networks sue OpenAI for training ChatGPT with their news"
 [2]: https://koreajoongangdaily.joins.com/news/2026-02-23/business/tech/Korean-broadcasters-sue-OpenAI-alleging-unauthorized-use-of-content/2529597 "Korean broadcasters sue OpenAI alleging unauthorized use of content"
 [3]: https://www.mk.co.kr/en/culture/11969489 "\"News Is Not Free\": KBS, MBC and SBS Sue OpenAI - MK"
-[4]: https://www.aastocks.com/en/mobile/news.aspx?newsid=NOW.1504213&newssource=AAFN&utm_source=chatgpt.com "S Korea's 3 Major Broadcasters Sue OpenAI for Unauthorized Use of News Content"
+[4]: https://www.aastocks.com/en/mobile/news.aspx?newsid=NOW.1504213&newssource=AAFN& "S Korea's 3 Major Broadcasters Sue OpenAI for Unauthorized Use of News Content"
 [5]: https://en.wikipedia.org/wiki/Asian_News_International "Asian News International"
 [6]: https://www.mlex.com/articles/2425469/south-korea-says-ai-act-enforcement-decree-to-be-finalized-soon "South Korea says AI Act enforcement decree to be finalized soon | MLex | Specialist news and analysis on legal risk and regulation"

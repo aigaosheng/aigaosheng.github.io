@@ -57,6 +57,6 @@ In short, the AI race is no longer a one-way sprint led by Silicon Valley. Open 
 ---
 
 [1]: https://www.scmp.com/tech/tech-trends/article/3336775/chinas-open-source-ai-models-rival-us-giants-making-engagement-urgent-stanford "China's open-source AI models rival US giants, making ..."
-[2]: https://www.scmp.com/tech/tech-trends/article/3336775/chinas-open-source-ai-models-rival-us-giants-making-engagement-urgent-stanford?module=top_story&pgtype=section&utm_source=chatgpt.com "China’s open-source AI models rival US giants, making engagement urgent: Stanford | South China Morning Post"
+[2]: https://www.scmp.com/tech/tech-trends/article/3336775/chinas-open-source-ai-models-rival-us-giants-making-engagement-urgent-stanford?module=top_story&pgtype=section& "China’s open-source AI models rival US giants, making engagement urgent: Stanford | South China Morning Post"
 [3]: https://www.businesstimes.com.sg/zh-hans/opinion-features/chinas-open-source-ai-national-advantage "中国的开源AI是一项国家优势"
 [4]: https://hai.stanford.edu/assets/files/hai-digichina-issue-brief-beyond-deepseek-chinas-diverse-open-weight-ai-ecosystem-policy-implications.pdf "China's Diverse Open-Weight AI Ecosystem and Its Policy ..."

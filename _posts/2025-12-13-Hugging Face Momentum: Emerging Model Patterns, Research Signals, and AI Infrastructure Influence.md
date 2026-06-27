@@ -90,4 +90,4 @@ The nature of trending research points toward **models that optimize generation 
 
 [1]: https://huggingface.co/blog/ucheog/mlx-day-one "Apple MLX for AI/Large Language Models—Day One"
 [2]: https://huggingface.co/papers/trending "Trending Papers - Hugging Face"
-[3]: https://huggingface.co/models?pipeline_tag=object-detection&utm_source=chatgpt.com "Object Detection Models"
+[3]: https://huggingface.co/models?pipeline_tag=object-detection& "Object Detection Models"

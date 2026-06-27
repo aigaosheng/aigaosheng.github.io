@@ -71,6 +71,6 @@ A decentralized digital ledger that records transactions across a network of com
 
 [1]: https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.21951.html "Visa Launches Stablecoin Settlement in the United States, Marking a Breakthrough for Stablecoin Integration | Visa"
 [2]: https://coinnews.com/news/visa-rolls-out-usdc-payment-settlements-for-u-s-banks-on-solana/ "Visa Rolls Out USDC Payment Settlements for U.S Banks"
-[3]: https://m.ph.investing.com/news/cryptocurrency-news/visa-launches-usdc-stablecoin-settlement-for-us-financial-institutions-432SI-2148804?ampMode=1&utm_source=chatgpt.com "Visa launches USDC stablecoin settlement for US financial institutions By Investing.com"
+[3]: https://m.ph.investing.com/news/cryptocurrency-news/visa-launches-usdc-stablecoin-settlement-for-us-financial-institutions-432SI-2148804?ampMode=1& "Visa launches USDC stablecoin settlement for US financial institutions By Investing.com"
 [4]: https://www.xt.com/en/blog/post/visa-to-allow-u-s-institutions-to-settle-transactions-using-circles-usdc-on-solana "Visa to Allow U.S. Institutions to Settle Transactions Using Circle’s USDC on Solana"
 [5]: https://www.reddit.com//r/CryptoMarkets/comments/1po4b1w/visa_brings_stablecoin_settlement_to_us_banks_are/ "Visa Brings Stablecoin Settlement to U.S. Banks. Are Payment Rails Being Rewritten?"

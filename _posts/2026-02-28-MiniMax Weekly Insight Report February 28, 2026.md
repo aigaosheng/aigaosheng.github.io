@@ -91,6 +91,6 @@ Expected near‑term impacts include early enterprise experiments with automated
 
 ---
 
-[1]: https://smb.vicnews.com/article/MiniMax-Launches-MaxClaw-A-One-Click-Agent-System-Powered-by-MiniMax-25-with-Built-In-Long-Term-Memory?storyId=69a15118bac02a0002a39744&utm_source=chatgpt.com "MiniMax Launches MaxClaw: A One-Click Agent System Powered by MiniMax 2.5 with Built-In Long-Term Memory 24-7 Press Release Newswire"
+[1]: https://smb.vicnews.com/article/MiniMax-Launches-MaxClaw-A-One-Click-Agent-System-Powered-by-MiniMax-25-with-Built-In-Long-Term-Memory?storyId=69a15118bac02a0002a39744& "MiniMax Launches MaxClaw: A One-Click Agent System Powered by MiniMax 2.5 with Built-In Long-Term Memory 24-7 Press Release Newswire"
 [2]: https://www.minimax.io/ "MiniMax"
 [3]: https://finance.sina.com.cn/roll/2026-02-27/doc-inhpfhtu0947145.shtml "港股AI应用股走低 MINIMAX跌超7%_新浪财经_新浪网"

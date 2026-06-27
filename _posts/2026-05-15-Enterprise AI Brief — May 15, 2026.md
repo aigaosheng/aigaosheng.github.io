@@ -20,7 +20,7 @@ permalink: /Enterprise AI Brief — May 15, 2026/
 ### 1. Anthropic Expands PwC Partnership for Enterprise AI Rollout
 
 * **Source** · Business Insider · May 15, 2026
-* **Summary** — [Anthropic](https://www.anthropic.com?utm_source=chatgpt.com) expanded its strategic alliance with [PwC](https://www.pwc.com?utm_source=chatgpt.com) to accelerate enterprise deployment of Claude across software engineering, finance, and operational workflows. PwC plans to train and certify 30,000 U.S. employees on Claude tools while establishing a joint AI Center of Excellence. The partnership focuses heavily on “AI-native” enterprise operating models and large-scale workflow automation. ([Business Insider][1])
+* **Summary** — [Anthropic](https://www.anthropic.com) expanded its strategic alliance with [PwC](https://www.pwc.com) to accelerate enterprise deployment of Claude across software engineering, finance, and operational workflows. PwC plans to train and certify 30,000 U.S. employees on Claude tools while establishing a joint AI Center of Excellence. The partnership focuses heavily on “AI-native” enterprise operating models and large-scale workflow automation. ([Business Insider][1])
 * **Why It Matters** — Enterprise AI adoption is shifting from pilot projects to organization-wide operational transformation. Consulting firms are becoming critical distribution and implementation channels for frontier AI vendors.
 * **URL** *(Anthropic expands its partnership with PwC as it pushes to get Claude into the hands of corporate America)*
   [https://www.businessinsider.com/anthropic-pwc-big-four-business-ai-adoption-2026-5](https://www.businessinsider.com/anthropic-pwc-big-four-business-ai-adoption-2026-5)

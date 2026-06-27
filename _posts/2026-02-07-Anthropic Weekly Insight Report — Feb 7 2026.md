@@ -93,7 +93,7 @@ As AI tools continue to disrupt legacy software markets and professional labour 
 [1]: https://www.businessinsider.com/anthropic-openai-rivalry-dueling-ai-models-on-the-same-day-2026-2 "Anthropic and OpenAI release dueling AI models on the same day in an escalating rivalry"
 [2]: https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude "Anthropic debuts new model with hopes to corner the market beyond coding"
 [3]: https://www.anthropic.com/claude/opus "Claude Opus 4.6"
-[4]: https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251&utm_source=chatgpt.com "Why a new AI tool hammered some software stocks this week"
+[4]: https://abcnews.go.com/Business/new-ai-tool-hammered-software-stocks-week/story?id=129845251& "Why a new AI tool hammered some software stocks this week"
 [5]: https://www.theverge.com/news/873093/claude-code-down-outage-anthropic "Claude Code was down, forcing developers to take a long coffee break"
 [6]: https://siliconangle.com/2026/02/05/anthropic-rolls-claude-opus-4-6-1-million-token-context-support/ "Anthropic rolls out Claude Opus 4.6 with 1 million-token context support - SiliconANGLE"
 [7]: https://www.reuters.com/business/retail-consumer/anthropic-releases-ai-upgrade-market-punishes-software-stocks-2026-02-05/ "Anthropic releases AI upgrade as market punishes software stocks"

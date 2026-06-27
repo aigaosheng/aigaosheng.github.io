@@ -116,7 +116,7 @@ permalink: /Daily AI Tech Research Update — December 13, 2025/
 [1]: https://arxiv.org/abs/2512.02445 "When Refusals Fail: Unstable Safety Mechanisms in Long-Context LLM Agents"
 [2]: https://arxiv.org/abs/2512.01925 "Rectifying LLM Thought from Lens of Optimization"
 [3]: https://arxiv.org/html/2512.06337v1 "DaGRPO: Rectifying Gradient Conflict in Reasoning via ..."
-[4]: https://web3.arxiv.org/list/cs/recent?show=1000&skip=1878&utm_source=chatgpt.com "Computer Science"
+[4]: https://web3.arxiv.org/list/cs/recent?show=1000&skip=1878& "Computer Science"
 [5]: https://techstartups.com/2025/12/12/top-tech-news-today-ai-startup-stories-december-12-2025/ "Top Tech News Today: AI & Startup Stories, December 12, 2025 - Tech Startups"
 [6]: https://techstartups.com/2025/12/09/technology-news-today-the-latest-in-tech-ai-startup-news-december-9-2025/ "Technology News Today – The Latest in Tech, AI & Startup News, December 9, 2025 - Tech Startups"
 [7]: https://people.com/jeff-bezos-and-elon-musk-are-competing-in-new-race-to-build-ai-data-centers-in-space-report-11868355 "Jeff Bezos and Elon Musk Are Competing in New Race to Build AI Data Centers in Space: Report"

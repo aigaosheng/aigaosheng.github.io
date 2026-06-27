@@ -91,7 +91,7 @@ The story reflects the dual reality facing modern fintechs: aggressive AI-led ex
 
 **Source:** FinTech Futures · May 11, 2026
 
-Industry coverage from [FinTech Futures](https://www.fintechfutures.com/?utm_source=chatgpt.com) highlights growing adoption of AI-first operating models across payments, digital banking, super apps, and financial infrastructure platforms. AI-enabled personalization and autonomous financial workflows are becoming central product strategies.
+Industry coverage from [FinTech Futures](https://www.fintechfutures.com/) highlights growing adoption of AI-first operating models across payments, digital banking, super apps, and financial infrastructure platforms. AI-enabled personalization and autonomous financial workflows are becoming central product strategies.
 
 **Why It Matters:**
 The fintech market narrative is shifting from digitization to autonomy. AI is increasingly viewed as a foundational layer powering payments, onboarding, lending, and customer engagement. ([FinTech Futures][8])

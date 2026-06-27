@@ -71,11 +71,11 @@ For IBM, it’s more than a megadeal — it’s a statement: data infrastructure
 
 Source: [https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services?srnd=phx-technology](https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services?srnd=phx-technology)
 
-* [Bloomberg](https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services?srnd=phx-fixed-income&utm_source=chatgpt.com)
+* [Bloomberg](https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services?srnd=phx-fixed-income&)
 * [Reuters](https://www.reuters.com/technology/ibm-nears-roughly-11-billion-deal-confluent-wsj-reports-2025-12-08/)
 * [investors.com](https://www.investors.com/news/technology/confluent-stock-cflt-ibm-acquisition/)
 
-[1]: https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services?srnd=phx-fixed-income&utm_source=chatgpt.com "IBM to Buy Confluent for $11 Billion to Expand in AI Services"
+[1]: https://www.bloomberg.com/news/articles/2025-12-08/ibm-to-buy-confluent-for-11-billion-to-expand-in-ai-services?srnd=phx-fixed-income& "IBM to Buy Confluent for $11 Billion to Expand in AI Services"
 [2]: https://www.stocktitan.net/news/CFLT/ibm-to-acquire-confluent-to-create-smart-data-platform-for-zjrl806f3aek.html "IBM to acquire Confluent in $11B deal to boost gen AI data | CFLT Stock News"
 [3]: https://www.ainvest.com/news/ibm-11-billion-bet-confluent-strategic-power-move-cloud-ai-supremacy-2512/ "IBM's $11 Billion Bet on Confluent: A Strategic Power Move for Cloud and AI Supremacy"
 [4]: https://www.gurufocus.com/news/3236755/ibm-eyes-11-billion-acquisition-of-confluent-to-boost-cloud-services "IBM Eyes $11 Billion Acquisition of Confluent to Boost Cloud Ser"

@@ -134,7 +134,7 @@ A regulatory requirement requiring crypto platforms to share sender and recipien
 ---
 
 [1]: https://www.tradingview.com/news/cointelegraph%3A9b19efe7d094b%3A0-bithumb-faces-possible-six-month-partial-suspension-in-south-korea/ "Bithumb faces possible six-month partial suspension in South Korea"
-[2]: https://www.thecoinrepublic.com/2026/03/10/bithumb-faces-six-month-business-suspension-over-aml-violations/?amp=&utm_source=chatgpt.com "Bithumb Faces Six-Month Business Suspension Over AML ..."
+[2]: https://www.thecoinrepublic.com/2026/03/10/bithumb-faces-six-month-business-suspension-over-aml-violations/?amp=& "Bithumb Faces Six-Month Business Suspension Over AML ..."
 [3]: https://amlnetwork.org/aml-news/south-koreas-bithumb-hit-with-six-month-partial-suspension-over-aml-violations-and-kyc-failures/ "South Korea's Bithumb Hit with Six-Month Partial ..."
 [4]: https://www.mexc.co/en-PH/news/890122 "Bithumb Faces Six Month Suspension Over AML Violations"
 [5]: https://www.techinasia.com/tag/south-korea "Latest South Korea Tech Startup News & Updates"

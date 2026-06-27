@@ -77,7 +77,7 @@ In short, Agent Skills could become the *connective tissue* that helps AI move f
 **Source:** [https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard](https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard)
 
 [1]: https://www.linkedin.com/posts/ajitjaokar_anthropic-launches-enterprise-agent-skills-activity-7407590508753158145-SOkD "Ajit Jaokar's Post"
-[2]: https://news.ycombinator.com/item?id=46315414&utm_source=chatgpt.com "Agent Skills is now an open standard"
+[2]: https://news.ycombinator.com/item?id=46315414& "Agent Skills is now an open standard"
 [3]: https://support.claude.com/en/articles/12512176-what-are-skills "What are Skills?"
 [4]: https://x.com/MichaelFNunez/status/2001736989440454897 "NEW: Anthropic releases Agent Skills as an open standard. ..."
 [5]: https://subramanya.ai/2025/12/18/agent-skills-the-missing-piece-of-the-enterprise-ai-puzzle/ "Agent Skills: The Missing Piece of the Enterprise AI Puzzle"

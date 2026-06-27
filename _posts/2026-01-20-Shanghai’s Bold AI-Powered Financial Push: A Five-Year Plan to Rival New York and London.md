@@ -107,4 +107,4 @@ Shanghai’s new five-year plan boldly positions the city at the intersection of
 [2]: https://www.techinasia.com/tag/china "Latest China Tech Startup News & Updates"
 [3]: https://www.globaltimes.cn/page/202508/1340255.shtml "Shanghai issues action plan for embodied AI, seeking to achieve 20 breakthroughs in algorithms, technologies by 2027 - Global Times"
 [4]: https://www.chinadaily.com.cn/a/202510/31/WS69040cafa310f735438b7f1d.html "Fintech firms, AI allied for more progress"
-[5]: https://carnegieendowment.org/emissary/2025/09/ai-china-90-percent-economy-why-wont-work?lang=en&utm_source=chatgpt.com "China Wants to Integrate AI Into 90 Percent of Its Economy by 2030. It Won’t Work."
+[5]: https://carnegieendowment.org/emissary/2025/09/ai-china-90-percent-economy-why-wont-work?lang=en& "China Wants to Integrate AI Into 90 Percent of Its Economy by 2030. It Won’t Work."

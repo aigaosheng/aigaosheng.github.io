@@ -102,8 +102,8 @@ permalink: /Singapore Plus Brief — May 7, 2026/
 
 ---
 
-[1]: https://www.aboutamazon.sg/news/company-news/amazon-singapore-to-expand-international-store-selection-in-response-to-customer-demand?utm_source=chatgpt.com "Amazon Singapore to expand International Store selection in response to customer demand"
-[2]: https://www.businesstimes.com.sg/singapore/daily-debrief-what-happened-today-may-72?utm_source=chatgpt.com "Daily Debrief: What Happened Today (May 7)"
-[3]: https://www.channelnewsasia.com/singapore/hantavirus-mv-hondius-ncid-test-virus-isolated-cda-6106671?utm_source=chatgpt.com "Two Singapore residents isolated at NCID after hantavirus exposure on cruise and flight, risk to public currently low: CDA"
-[4]: https://www.straitstimes.com/singapore/crocodile-spotted-in-waters-off-sentosa-cove-caught-and-euthanised?ref=latest&utm_source=chatgpt.com "Crocodile spotted in waters off Sentosa Cove caught and euthanised"
-[5]: https://www.reuters.com/world/asia-pacific/micron-plans-24-billion-memory-chipmaking-plant-singapore-2026-01-27/?utm_source=chatgpt.com "Micron plans $24-billion memory chipmaking plant in Singapore"
+[1]: https://www.aboutamazon.sg/news/company-news/amazon-singapore-to-expand-international-store-selection-in-response-to-customer-demand "Amazon Singapore to expand International Store selection in response to customer demand"
+[2]: https://www.businesstimes.com.sg/singapore/daily-debrief-what-happened-today-may-72 "Daily Debrief: What Happened Today (May 7)"
+[3]: https://www.channelnewsasia.com/singapore/hantavirus-mv-hondius-ncid-test-virus-isolated-cda-6106671 "Two Singapore residents isolated at NCID after hantavirus exposure on cruise and flight, risk to public currently low: CDA"
+[4]: https://www.straitstimes.com/singapore/crocodile-spotted-in-waters-off-sentosa-cove-caught-and-euthanised?ref=latest& "Crocodile spotted in waters off Sentosa Cove caught and euthanised"
+[5]: https://www.reuters.com/world/asia-pacific/micron-plans-24-billion-memory-chipmaking-plant-singapore-2026-01-27/ "Micron plans $24-billion memory chipmaking plant in Singapore"

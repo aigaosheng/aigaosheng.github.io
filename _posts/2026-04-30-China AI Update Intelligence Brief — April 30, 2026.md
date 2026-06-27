@@ -228,11 +228,11 @@ U.S. scrutiny of insider risks underscores a shift from pure technological compe
 
 ---
 
-[1]: https://www.reuters.com/world/china/big-chinese-tech-firms-scramble-secure-huawei-ai-chips-after-deepseek-v4-launch-2026-04-29/?utm_source=chatgpt.com "Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say"
-[2]: https://www.reuters.com/technology/artificial-intelligence/deepseek-bets-huawei-china-pushes-end-reliance-nvidia-2026-04-29/?utm_source=chatgpt.com "DeepSeek bets on Huawei as China pushes to end reliance on Nvidia"
-[3]: https://www.reuters.com/legal/litigation/china-launches-months-long-campaign-against-ai-misuse-2026-04-30/?utm_source=chatgpt.com "China launches months-long campaign against AI misuse"
-[4]: https://www.reuters.com/world/china/convicted-former-harvard-scientist-rebuilds-brain-computer-lab-china-2026-04-30/?utm_source=chatgpt.com "Convicted former Harvard scientist rebuilds brain computer lab in China"
-[5]: https://english.cctv.com/2026/04/30/ARTILQecYjAC6hWxGLlzrcOK260430.shtml?utm_source=chatgpt.com "Report shows China leads in AI patents, digital economy booms_英语频道_央视网(cctv.com)"
-[6]: https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos?utm_source=chatgpt.com "China freezes new robotaxi licenses after Baidu chaos"
-[7]: https://www.axios.com/2026/04/29/ai-firms-china-congress?utm_source=chatgpt.com "Exclusive: Senators interrogate AI firms on China safeguards"
-[8]: https://en.people.cn/n3/2026/0429/c90000-20451487.html?utm_source=chatgpt.com "AI market kicks off ahead of 9th Digital China Summit in China's Fujian - People's Daily Online"
+[1]: https://www.reuters.com/world/china/big-chinese-tech-firms-scramble-secure-huawei-ai-chips-after-deepseek-v4-launch-2026-04-29/ "Big Chinese tech firms scramble to secure Huawei AI chips after DeepSeek V4 launch, sources say"
+[2]: https://www.reuters.com/technology/artificial-intelligence/deepseek-bets-huawei-china-pushes-end-reliance-nvidia-2026-04-29/ "DeepSeek bets on Huawei as China pushes to end reliance on Nvidia"
+[3]: https://www.reuters.com/legal/litigation/china-launches-months-long-campaign-against-ai-misuse-2026-04-30/ "China launches months-long campaign against AI misuse"
+[4]: https://www.reuters.com/world/china/convicted-former-harvard-scientist-rebuilds-brain-computer-lab-china-2026-04-30/ "Convicted former Harvard scientist rebuilds brain computer lab in China"
+[5]: https://english.cctv.com/2026/04/30/ARTILQecYjAC6hWxGLlzrcOK260430.shtml "Report shows China leads in AI patents, digital economy booms_英语频道_央视网(cctv.com)"
+[6]: https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos "China freezes new robotaxi licenses after Baidu chaos"
+[7]: https://www.axios.com/2026/04/29/ai-firms-china-congress "Exclusive: Senators interrogate AI firms on China safeguards"
+[8]: https://en.people.cn/n3/2026/0429/c90000-20451487.html "AI market kicks off ahead of 9th Digital China Summit in China's Fujian - People's Daily Online"

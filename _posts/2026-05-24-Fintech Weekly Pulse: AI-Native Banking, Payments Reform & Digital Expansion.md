@@ -77,7 +77,7 @@ Direct Link:
 
 Banks and payment providers continue accelerating ISO 20022 adoption and AI-driven payment automation. Industry discussions increasingly focus on operational resilience, fraud prevention, and real-time cross-border payment infrastructure.
 Direct Link:
-[Finextra Events Timeline 2026](https://www.finextra.com/events/timeline?year=2026&utm_source=chatgpt.com) ([Finextra Research][4])
+[Finextra Events Timeline 2026](https://www.finextra.com/events/timeline?year=2026&) ([Finextra Research][4])
 
 ### Stablecoins and agentic AI reshape payments debate
 
@@ -166,6 +166,6 @@ Source: [Mercury Raises $200 Million Series D at $5.2B Valuation](https://ffnews
 [1]: https://www.fintechfutures.com/venture-capital-funding/mercury-200m-series-d "Mercury bags $200m Series D at $5.2bn valuation"
 [2]: https://www.fintechfutures.com/fintech/fintech-futures-top-five-news-stories-of-the-week-22-may-2026 "Top five fintech news stories of the week – 22 May 2026"
 [3]: https://www.finextra.com/blogposting/31688/where-fintech-is-heading-next-with-ai-predictions-for-2026-and-beyond "Where Fintech is heading next with AI: predictions for 2026 ..."
-[4]: https://www.finextra.com/events/timeline?year=2026&utm_source=chatgpt.com "Events: Webinars, conferences & round-tables"
+[4]: https://www.finextra.com/events/timeline?year=2026& "Events: Webinars, conferences & round-tables"
 [5]: https://www.lemonde.fr/en/opinion/article/2026/05/18/france-has-six-months-to-catch-the-next-industrial-wave-of-agentic-ai_6753569_23.html "'France has six months to catch the next industrial wave of agentic AI'"
 [6]: https://ffnews.com/newsarticle/mercury-raises-200-million-series-d-at-5-2b-valuation/ "Mercury Raises $200 Million Series D at $5.2B Valuation"

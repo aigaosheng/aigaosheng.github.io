@@ -157,7 +157,7 @@ This is the concrete architecture they build to demonstrate NL.
 ---
 
 [1]: https://abehrouz.github.io/files/NL.pdf "Nested Learning: The Illusion of Deep Learning Architectures"
-[2]: https://openreview.net/forum?id=nbMeRvNb7A&utm_source=chatgpt.com "Nested Learning: The Illusion of Deep Learning Architectures"
+[2]: https://openreview.net/forum?id=nbMeRvNb7A& "Nested Learning: The Illusion of Deep Learning Architectures"
 [3]: https://www.marktechpost.com/2025/11/08/nested-learning-a-new-machine-learning-approach-for-continual-learning-that-views-models-as-nested-optimization-problems-to-enhance-long-context-processing/ "Nested Learning: A New Machine Learning Approach for ..."
 [4]: https://i-genie.co.uk/nested-learning-a-new-machine-learning-approach-for-continual-learning-that-views-models-as-nested-optimization-problems-to-enhance-long-context-processing/ "Nested Learning: A New Machine Learning Approach for Continual Learning that Views Models as Nested Optimization Problems to Enhance Long Context Processing - i-genie.co.uk"
 [5]: https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/ "Introducing Nested Learning: A new ML paradigm for continual learning"

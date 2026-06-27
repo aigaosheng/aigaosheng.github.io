@@ -215,7 +215,7 @@ Use the Book of News to identify technical deep dives, follow-up research posts,
 [3]: https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/ "Microsoft Ignite 2025: Copilot and agents built to power ..."
 [4]: https://news.microsoft.com/ignite-2025-book-of-news/ "Microsoft Ignite 2025 Book of News"
 [5]: https://www.microsoft.com/en-us/research/blog/ "Microsoft Research Blog"
-[6]: https://blog.fabric.microsoft.com/en-us/blog/fabric-november-2025-feature-summary?ft=All&utm_source=chatgpt.com "Fabric November 2025 Feature Summary"
+[6]: https://blog.fabric.microsoft.com/en-us/blog/fabric-november-2025-feature-summary?ft=All& "Fabric November 2025 Feature Summary"
 [7]: https://news.microsoft.com/source/2025/11/17/levi-strauss-co-partners-with-microsoft-to-develop-next-gen-superagent/ "Levi Strauss & Co. partners with Microsoft to develop next- ..."
 [8]: https://www.microsoft.com/en-us/security/blog/2025/11/10/securing-our-future-november-2025-progress-report-on-microsofts-secure-future-initiative/ "Latest progress update on Microsoft's Secure Future Initiative"
 [9]: https://support.microsoft.com/en-us/topic/november-11-2025-kb5068781-os-builds-19044-6575-and-19045-6575-7fe13257-9079-49af-9369-e0e6242701dd "November 11, 2025—KB5068781 (OS Builds 19044.6575 ..."

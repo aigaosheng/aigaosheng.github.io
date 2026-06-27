@@ -155,7 +155,7 @@ For enterprises navigating digital transformation, the real question may no long
 ---
 
 [1]: https://www.techinasia.com/news/alibaba-readies-enterprise-ai-agent-built-on-qwen/amp/ "Alibaba readies enterprise AI agent built on Qwen"
-[2]: https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1&utm_source=chatgpt.com "Tongyi Qianwen (Qwen)"
+[2]: https://www.alibabacloud.com/en/solutions/generative-ai/qwen?_p_lc=1& "Tongyi Qianwen (Qwen)"
 [3]: https://aiagentstore.ai/ai-agent/qwen-agent "Qwen-Agent"
 [4]: https://www.reuters.com/world/asia-pacific/alibaba-ceo-takes-helm-new-ai-focused-business-group-2026-03-16/ "Alibaba CEO takes helm of new AI-focused business group"
 [5]: https://www.alibabagroup.com/document-1725671468706037760 "Qwen LLM Tops 90000 Enterprise Clients in First Year"

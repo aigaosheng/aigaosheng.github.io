@@ -61,5 +61,5 @@ The rise of AI agents—especially text-based ones like chatbots and virtual ass
 [1]: https://www.techinasia.com/news/ycombinator-ai-avatar-startup-lemon-slice-105m-seed "Y Combinator backs AI avatar firm Lemon Slice in $10.5m seed round"
 [2]: https://siliconangle.com/2025/12/23/lemon-slice-launches-10-5m-seed-round-scale-real-time-interactive-ai-avatars/ "Lemon Slice launches with $10.5M seed round to scale real-time interactive AI avatars"
 [3]: https://www.newsbytesapp.com/news/business/lemon-slice-raises-105-million-for-ai-powered-video-avatars/tldr "Lemon Slice raises $10.5 million for AI-powered video avatars"
-[4]: https://www.skool.com/the-ai-advantage/ai-news-lemon-slice-raises-105m-to-put-ai-video-avatars-inside-everyday-apps?p=b1fa431a&utm_source=chatgpt.com "Lemon Slice raises $10.5M to put AI video avatars inside everyday ..."
+[4]: https://www.skool.com/the-ai-advantage/ai-news-lemon-slice-raises-105m-to-put-ai-video-avatars-inside-everyday-apps?p=b1fa431a& "Lemon Slice raises $10.5M to put AI video avatars inside everyday ..."
 [5]: https://venturecapital.com/headlines/technology/lemon-slice-innovates-ai-avatars-with-videocapable-lemon-slice2-model-v1 "Lemon Slice Innovates AI Avatars with Video ... - VentureCapital.com"
