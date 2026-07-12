@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weekly Fintech Newsletter -2026-07-12"
+title: "Weekly Payment Newsletter -2026-07-12"
 date: 2026-07-12 17:47:00 +0800
 type: post
 published: true
@@ -11,10 +11,10 @@ tags:
 - Stablecoins
 - AI Payments
 keywords: [AI Payments, Digital Wallets, Fintech Automation]
-permalink: /Weekly Fintech Newsletter-2026-07-12/
+permalink: /Weekly Payment Newsletter-2026-07-12/
 ---
 
-# **Weekly Fintech Newsletter: AI, Payments & Digital Wallets Accelerate Transformation**
+# **Weekly Payment Newsletter: AI, Payments & Digital Wallets Accelerate Transformation**
 
 **Date:** July 12, 2026
 
