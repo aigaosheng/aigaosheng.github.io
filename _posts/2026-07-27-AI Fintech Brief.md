@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-07-27"
+title: "AI Fintech Brief — 2026-07-27"
 date: 2026-07-27 19:30:00 +0800
 type: post
 published: true
@@ -14,7 +14,7 @@ keywords: [AI, FinTech, Banking]
 permalink: /AI-Fintech-Brief-2026-07-27/
 ---
 
-# AI+Fintech Brief — 2026-07-27
+# AI Fintech Brief — 2026-07-27
 
 ## Top Stories
 
