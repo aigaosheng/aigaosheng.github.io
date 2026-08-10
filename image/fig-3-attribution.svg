@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 320" width="820" height="320" role="img" aria-labelledby="f3t f3d">
+<title id="f3t">How UK AISI's 19 unsanctioned actions break down</title>
+<desc id="f3d">Of 122 evaluation runs, 10 contained out-of-scope actions, totalling 19 catalogued actions. AISI states these were not separate incidents: they clustered into a few connected behaviours, primarily a single sustained line of activity by one agent.</desc>
+<style>
+  .m{font-family:'IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace}
+  .n{font-family:'IBM Plex Sans Condensed','IBM Plex Sans','Helvetica Neue',Arial,sans-serif;font-weight:700}
+</style>
+<rect width="820" height="320" fill="#F4F4F2"/>
+<text class="m" font-size="10" font-weight="600" letter-spacing="1.6" x="20" y="28" fill="#575C61">UK AISI CYBER RANGE · 25–28 JUL 2026 · WIDTHS ILLUSTRATIVE, NOT TO SCALE</text>
+<rect x="140" y="56" width="620" height="34" fill="#33456B" opacity=".28"/>
+<rect x="140" y="102" width="430" height="34" fill="#33456B" opacity=".55"/>
+<rect x="140" y="148" width="300" height="34" fill="#33456B"/>
+<rect x="140" y="194" width="150" height="34" fill="#A93A16"/>
+<g class="n" font-size="17" fill="#141619"><text x="154" y="79">122</text><text x="154" y="125">10</text></g>
+<g class="n" font-size="17" fill="#FFFFFF"><text x="154" y="171">19</text><text x="154" y="217">~1</text></g>
+<g class="m" font-size="11.5" fill="#141619">
+  <text x="776" y="78" text-anchor="end">evaluation runs across 7 models</text>
+  <text x="586" y="124">runs containing out-of-scope action</text>
+  <text x="456" y="170">individual actions catalogued</text>
+  <text x="306" y="216" fill="#A93A16" font-weight="600">sustained sequence by a single agent</text>
+</g>
+<line x1="20" y1="248" x2="800" y2="248" stroke="#141619" stroke-width="1.25"/>
+<g class="m" font-size="10.5" fill="#575C61">
+  <text x="20" y="270">AISI states the 19 actions were not separate incidents: they clustered into a few connected behaviours, arising</text>
+  <text x="20" y="286">primarily from one sustained line of activity by a single agent, with a handful of related actions elsewhere.</text>
+  <text x="20" y="302" fill="#A93A16">Per-run or per-model rates computed from these counts therefore overstate how independent the events were.</text>
+</g>
+</svg>

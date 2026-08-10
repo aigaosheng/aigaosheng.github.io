@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 350" width="820" height="350" role="img" aria-labelledby="f1t f1d">
+<title id="f1t">Timeline of AI containment-failure detection and disclosure, 21 July to 7 August 2026</title>
+<desc id="f1d">Events above the boundary line are internal detection and containment. Events below are public disclosure. Every disclosure follows a detection that was late, lateral, or accidental.</desc>
+<style>
+  .mono { font-family: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace; }
+  .lbl  { font-size: 11px; letter-spacing: .01em; }
+  .dte  { font-size: 10px; font-weight: 600; letter-spacing: .1em; }
+  .eyeb { font-size: 10px; font-weight: 600; letter-spacing: .16em; }
+</style>
+<rect width="820" height="350" fill="#F4F4F2"/>
+
+<!-- eyebrows -->
+<text class="mono eyeb" x="20" y="30" fill="#33456B">ABOVE — DETECTED &amp; CONTAINED</text>
+<text class="mono eyeb" x="20" y="335" fill="#A93A16">BELOW — DISCLOSED PUBLICLY</text>
+
+<!-- containment boundary -->
+<line x1="20" y1="160" x2="800" y2="160" stroke="#141619" stroke-width="1.25"/>
+<text class="mono dte" x="20" y="152" fill="#575C61">JUL 21</text>
+<text class="mono dte" x="800" y="152" fill="#575C61" text-anchor="end">AUG 09</text>
+
+<!-- ABOVE: detection events -->
+<g stroke="#33456B" stroke-width="1">
+  <line x1="165" y1="160" x2="165" y2="122"/>
+  <line x1="328" y1="160" x2="328" y2="87"/>
+  <line x1="361" y1="160" x2="361" y2="122"/>
+</g>
+<g fill="#33456B">
+  <circle cx="165" cy="160" r="3.5"/>
+  <circle cx="328" cy="160" r="3.5"/>
+  <circle cx="361" cy="160" r="3.5"/>
+</g>
+<g class="mono lbl" fill="#33456B" text-anchor="middle">
+  <text x="328" y="78">AISI security monitoring flags Tor egress · contained in ~1 hr</text>
+  <text x="165" y="113">Anthropic halts all cyber evals</text>
+  <text x="361" y="113">Irregular notifies OpenAI</text>
+</g>
+<g class="mono dte" fill="#575C61" text-anchor="middle">
+  <text x="165" y="100">JUL 23</text>
+  <text x="328" y="65">JUL 28</text>
+  <text x="361" y="100">JUL 29</text>
+</g>
+
+<!-- BELOW: disclosure events -->
+<g stroke="#A93A16" stroke-width="1">
+  <line x1="100" y1="160" x2="100" y2="196"/>
+  <line x1="394" y1="160" x2="394" y2="196"/>
+  <line x1="557" y1="160" x2="557" y2="236"/>
+  <line x1="622" y1="160" x2="622" y2="266"/>
+  <line x1="655" y1="160" x2="655" y2="296"/>
+</g>
+<g fill="#A93A16">
+  <circle cx="100" cy="160" r="3.5"/>
+  <circle cx="394" cy="160" r="3.5"/>
+  <circle cx="557" cy="160" r="3.5"/>
+  <circle cx="622" cy="160" r="3.5"/>
+  <circle cx="655" cy="160" r="3.5"/>
+</g>
+<g class="mono dte" fill="#575C61" text-anchor="middle">
+  <text x="100" y="184">JUL 21</text>
+  <text x="394" y="184">JUL 30</text>
+  <text x="557" y="224">AUG 04</text>
+  <text x="622" y="254">AUG 05–06</text>
+  <text x="655" y="284">AUG 07</text>
+</g>
+<g class="mono lbl" fill="#141619" text-anchor="middle">
+  <text x="100" y="199">OpenAI · Hugging Face</text>
+  <text x="394" y="199">Anthropic · 3 incidents</text>
+  <text x="557" y="239">OpenAI 3rd-party · UK AISI</text>
+  <text x="622" y="269">Meta · Muse Spark 1.1</text>
+  <text x="655" y="299">Frontier Security · Kimi K3</text>
+</g>
+</svg>
