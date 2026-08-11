@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "Enterprise AI Brief — 2026-08-10"
 date: 2026-08-10 21:50:00 +0800
