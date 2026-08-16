@@ -1,0 +1,996 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-20T00:00:00Z",
+  "_comment": "Merged source of truth for the model catalog. Built from models_registry.py (mac-mlx-vlm), onDeviceModels.ts (ios-mlx-swift), and OnDeviceVLM.swift configuration(for:) (swift_config + ios verified flags). See MODEL_CATALOG_PROPOSAL.md. `verified` on ios-mlx-swift reflects what the Swift switch handles today; unverified entries are shown 'experimental' until the device-verification pass (DEVICE_VERIFICATION.md) confirms load + backfills measured_gb. Order within a runtime encodes recommend preference (recommendFrom takes the last fitting entry) — do NOT sort by footprint; sorting changes the high-tier pick.",
+  "models": [
+    {
+      "id": "mlx-community/Qwen2.5-VL-7B-Instruct-4bit",
+      "label": "Qwen2.5-VL 7B (4-bit)",
+      "family": "qwen2.5-vl",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "quant": "4bit",
+      "blurb": "Best all-round: OCR, tables, charts, multi-image and video understanding.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 5.0,
+          "verified": true,
+          "default": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen3-VL-8B-Instruct-4bit",
+      "label": "Qwen3-VL 8B (4-bit)",
+      "family": "qwen3-vl",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "quant": "4bit",
+      "blurb": "Newer-generation Qwen3-VL: sharper visual reasoning, OCR, long context and agentic tool use than 2.5-VL at a similar footprint. Recommended upgrade to the 7B default.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 5.5,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen3-VL-4B-Instruct-4bit",
+      "label": "Qwen3-VL 4B (4-bit)",
+      "family": "qwen3-vl",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "quant": "4bit",
+      "blurb": "Small but high-quality Qwen3-VL: strong image + video understanding and tool use for its size — the sweet spot when RAM is tight.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 3.0,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen2.5-VL-3B-Instruct-4bit",
+      "label": "Qwen2.5-VL 3B (4-bit)",
+      "family": "qwen2.5-vl",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "quant": "4bit",
+      "blurb": "Lighter and faster Qwen2.5-VL; strong on-device vision — sharp OCR, tables and charts. Great for quick image tasks (Mac) and a big step up from SmolVLM (8GB+ iPhones).",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 2.5,
+          "verified": true
+        },
+        "ios-mlx-swift": {
+          "approx_gb": 2,
+          "min_tier": "high",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/gemma-3-12b-it-4bit",
+      "label": "Gemma 3 12B (4-bit)",
+      "family": "gemma-3",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Strong general-purpose multimodal reasoning over images and long text.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 7.0,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/gemma-3-4b-it-4bit",
+      "label": "Gemma 3 4B (4-bit)",
+      "family": "gemma-3",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Light general-purpose multimodal model; quick responses.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 3.0,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/gemma-3n-E4B-it-4bit",
+      "label": "Gemma 3n E4B (4-bit)",
+      "family": "gemma-3n",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image",
+        "audio"
+      ],
+      "quant": "4bit",
+      "blurb": "On-device Gemma 3n with image AND audio input (transcription, Q&A).",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 4.5,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen3-VL-30B-A3B-Instruct-4bit",
+      "label": "Qwen3-VL 30B-A3B (MoE · 4-bit)",
+      "family": "qwen3-vl",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "quant": "4bit",
+      "blurb": "High-end mixture-of-experts: 30B-class quality at only ~3B active params, so decode stays fast despite the size. Pushes 24GB — close other apps first.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 17.0,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/deepseek-vl2-small-4bit",
+      "label": "DeepSeek-VL2 Small (MoE · 4-bit)",
+      "family": "deepseek-vl2",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "DeepSeek's MoE vision model (~2.8B active of 16B): strong OCR, charts and document grounding. Images only (no video).",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 8.5,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen2.5-VL-32B-Instruct-4bit",
+      "label": "Qwen2.5-VL 32B (4-bit)",
+      "family": "qwen2.5-vl",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image",
+        "video"
+      ],
+      "quant": "4bit",
+      "blurb": "Highest-quality dense model — pushes the 24GB limit. Close other apps first.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 18.0,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/PaddleOCR-VL-1.5-4bit",
+      "label": "PaddleOCR-VL 1.5 (4-bit)",
+      "family": "paddleocr-vl",
+      "kind": "doc-parser",
+      "modalities": [
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Tiny 0.9B document parser: OCR, tables, formulas, charts. Task prompts, not chat.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": false
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 0.9,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": true,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "doc_parser": {
+        "tasks": [
+          "ocr",
+          "table",
+          "chart",
+          "formula"
+        ]
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen3-0.6B-4bit",
+      "label": "Qwen3 0.6B (4-bit)",
+      "family": "qwen3",
+      "kind": "chat",
+      "modalities": [
+        "text"
+      ],
+      "quant": "4bit",
+      "blurb": "Tiny Qwen3 with step-by-step thinking; fits every iPhone. Slower per answer than its size suggests — it reasons first.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": true,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 0.5,
+          "min_tier": "floor",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/LFM2.5-VL-450M-6bit",
+      "label": "LFM 2.5 VL 450M (6-bit)",
+      "family": "lfm2.5-vl",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "quant": "6bit",
+      "blurb": "Compact Liquid AI vision model on the LFM 2.5 backbone — stronger multilingual image understanding than LFM 2. Sees images and fits older iPhones.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 0.4,
+          "min_tier": "floor",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen2.5-1.5B-Instruct-4bit",
+      "label": "Qwen2.5 1.5B (4-bit)",
+      "family": "qwen2.5",
+      "kind": "chat",
+      "modalities": [
+        "text"
+      ],
+      "quant": "4bit",
+      "blurb": "Fast, lightweight chat that fits every supported iPhone. No thinking pass — pick this for the quickest replies.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 1,
+          "min_tier": "floor",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/SmolVLM-Instruct-4bit",
+      "label": "SmolVLM Instruct (4-bit)",
+      "family": "smolvlm",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Compact vision-language model; broad compatibility.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 1,
+          "min_tier": "floor",
+          "verified": true,
+          "swift_config": "smolvlminstruct4bit",
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/LFM2.5-1.2B-Thinking-4bit",
+      "label": "LFM 2.5 Thinking (1.2B)",
+      "family": "lfm2.5",
+      "kind": "chat",
+      "modalities": [
+        "text"
+      ],
+      "quant": "4bit",
+      "blurb": "Liquid AI's compact reasoning model — thinks step-by-step before answering. Text only; fits every iPhone.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": true,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 0.8,
+          "min_tier": "floor",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen3.5-0.8B-4bit",
+      "label": "Qwen 3.5 (0.8B)",
+      "family": "qwen3.5",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Small Qwen3.5 with good vision — great for simple conversation and fast answers. Fits every iPhone.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 1,
+          "min_tier": "floor",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen3-1.7B-4bit",
+      "label": "Qwen3 1.7B (4-bit)",
+      "family": "qwen3",
+      "kind": "chat",
+      "modalities": [
+        "text"
+      ],
+      "quant": "4bit",
+      "blurb": "Newer-generation Qwen3 with built-in reasoning — stronger answers than Qwen2.5 1.5B and still fits every iPhone. Recommended default.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": true,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 1.1,
+          "min_tier": "floor",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {},
+          "default": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "label": "Qwen2.5 3B (4-bit)",
+      "family": "qwen2.5",
+      "kind": "chat",
+      "modalities": [
+        "text"
+      ],
+      "quant": "4bit",
+      "blurb": "Stronger reasoning; needs a bit more RAM headroom.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 2,
+          "min_tier": "high",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen3-4B-Instruct-2507-4bit",
+      "label": "Qwen3 4B Instruct (4-bit)",
+      "family": "qwen3",
+      "kind": "chat",
+      "modalities": [
+        "text"
+      ],
+      "quant": "4bit",
+      "blurb": "Newer-generation Qwen3 (non-thinking instruct): noticeably stronger reasoning and instruction-following than Qwen2.5 3B. For 8GB+ iPhones.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 2.3,
+          "min_tier": "high",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen3-4B-4bit",
+      "label": "Qwen3 4B (thinking · 4-bit)",
+      "family": "qwen3",
+      "kind": "chat",
+      "modalities": [
+        "text"
+      ],
+      "quant": "4bit",
+      "blurb": "Base Qwen3 4B with a full thinking pass — best on-device reasoning for hard questions. Slower; for 8GB+ iPhones.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": true,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 2.3,
+          "min_tier": "high",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/LFM2.5-VL-1.6B-4bit",
+      "label": "LFM 2.5 VL 1.6B (4-bit)",
+      "family": "lfm2.5-vl",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Stronger multilingual vision; recommended for iPhone 15 Pro+.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 1.5,
+          "min_tier": "high",
+          "verified": true,
+          "swift_config": "lfm2_5_vl_1_6B_4bit",
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen3.5-2B-4bit",
+      "label": "Qwen 3.5 (2B)",
+      "family": "qwen3.5",
+      "kind": "chat",
+      "modalities": [
+        "text",
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Newest-generation Qwen3.5 with strong vision and hybrid reasoning — best all-round on-device model. For 8GB+ iPhones.",
+      "capabilities": {
+        "vision": true,
+        "reasoning": true,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 2.2,
+          "min_tier": "high",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/Qwen2.5-7B-Instruct-4bit",
+      "label": "Qwen2.5 7B (4-bit)",
+      "family": "qwen2.5",
+      "kind": "chat",
+      "modalities": [
+        "text"
+      ],
+      "quant": "4bit",
+      "blurb": "Best on-device text quality; for 12GB+ iPhones (17 Pro).",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": true
+      },
+      "runtimes": {
+        "ios-mlx-swift": {
+          "approx_gb": 4.3,
+          "min_tier": "best",
+          "verified": false,
+          "swift_config": null,
+          "measured_gb": {}
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "deprecated": false
+    },
+    {
+      "id": "schnell",
+      "label": "FLUX.1 schnell (4-bit)",
+      "family": "flux.1",
+      "kind": "image",
+      "modalities": [
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Fast text-to-image: great results in 2-4 steps. No guidance needed.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": false
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 8.0,
+          "verified": true,
+          "default": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "image": {
+        "default_steps": 4,
+        "supports_guidance": false,
+        "default_guidance": 3.5,
+        "requires_image": false
+      },
+      "deprecated": false
+    },
+    {
+      "id": "dev",
+      "label": "FLUX.1 dev (4-bit)",
+      "family": "flux.1",
+      "kind": "image",
+      "modalities": [
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Higher quality; use ~20-30 steps and a guidance scale (~3.5).",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": false
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 9.0,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "image": {
+        "default_steps": 20,
+        "supports_guidance": true,
+        "default_guidance": 3.5,
+        "requires_image": false
+      },
+      "deprecated": false
+    },
+    {
+      "id": "kontext",
+      "label": "FLUX.1 Kontext (edit · 4-bit)",
+      "family": "flux.1-kontext",
+      "kind": "image",
+      "modalities": [
+        "image"
+      ],
+      "quant": "4bit",
+      "blurb": "Image-to-image editing: upload a source image and describe the change in the prompt (\"make it snowy\", \"turn the car red\").",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": false
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 9.0,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "image": {
+        "default_steps": 8,
+        "supports_guidance": true,
+        "default_guidance": 2.5,
+        "requires_image": true
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/whisper-large-v3-turbo",
+      "label": "Whisper large-v3 turbo",
+      "family": "whisper",
+      "kind": "asr",
+      "modalities": [
+        "audio"
+      ],
+      "quant": "fp16",
+      "blurb": "Best all-round: multilingual (English, 中文, 99+ langs), fast — transcribes ~1 hr in a couple of minutes. Recommended.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": false
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 1.6,
+          "verified": true,
+          "default": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "asr": {
+        "multilingual": true
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/whisper-large-v3-turbo-q4",
+      "label": "Whisper large-v3 turbo (4-bit)",
+      "family": "whisper",
+      "kind": "asr",
+      "modalities": [
+        "audio"
+      ],
+      "quant": "4bit",
+      "blurb": "Lighter, faster turbo; multilingual with a small accuracy trade-off.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": false
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 0.9,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "asr": {
+        "multilingual": true
+      },
+      "deprecated": false
+    },
+    {
+      "id": "mlx-community/whisper-large-v3-mlx",
+      "label": "Whisper large-v3 (accuracy)",
+      "family": "whisper",
+      "kind": "asr",
+      "modalities": [
+        "audio"
+      ],
+      "quant": "fp16",
+      "blurb": "Highest accuracy multilingual Whisper; slower than turbo.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": false
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 3.0,
+          "verified": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "asr": {
+        "multilingual": true
+      },
+      "deprecated": false
+    },
+    {
+      "id": "prince-canuma/Kokoro-82M",
+      "label": "Kokoro 82M",
+      "family": "kokoro",
+      "kind": "tts",
+      "modalities": [
+        "audio"
+      ],
+      "quant": "fp16",
+      "blurb": "Fast, natural English TTS. Faster-than-realtime; streams a spoken response as the agent writes it.",
+      "capabilities": {
+        "vision": false,
+        "reasoning": false,
+        "tools": false
+      },
+      "runtimes": {
+        "mac-mlx-vlm": {
+          "approx_gb": 0.4,
+          "verified": true,
+          "default": true
+        }
+      },
+      "quirks": {
+        "trust_remote_code": false,
+        "eos_tokens": [],
+        "chat_template": null
+      },
+      "tts": {
+        "sample_rate": 24000,
+        "default_voice": "af_heart",
+        "voices": [
+          "af_heart",
+          "af_bella",
+          "af_nicole",
+          "am_michael",
+          "am_adam",
+          "bf_emma",
+          "bm_george"
+        ]
+      },
+      "deprecated": false
+    }
+  ]
+}
