@@ -540,7 +540,7 @@
         "image"
       ],
       "quant": "4bit",
-      "blurb": "Small Qwen3.5 with good vision — great for simple conversation and fast answers. Fits every iPhone.",
+      "blurb": "Small Qwen3.5 with good vision — great for simple conversation and fast answers. Fits every iPhone. Recommended default.",
       "capabilities": {
         "vision": true,
         "reasoning": false,
@@ -552,7 +552,8 @@
           "min_tier": "floor",
           "verified": false,
           "swift_config": null,
-          "measured_gb": {}
+          "measured_gb": {},
+          "default": true
         }
       },
       "quirks": {
@@ -571,7 +572,7 @@
         "text"
       ],
       "quant": "4bit",
-      "blurb": "Newer-generation Qwen3 with built-in reasoning — stronger answers than Qwen2.5 1.5B and still fits every iPhone. Recommended default.",
+      "blurb": "Newer-generation Qwen3 with built-in reasoning — stronger answers than Qwen2.5 1.5B and still fits every iPhone.",
       "capabilities": {
         "vision": false,
         "reasoning": true,
@@ -583,8 +584,7 @@
           "min_tier": "floor",
           "verified": false,
           "swift_config": null,
-          "measured_gb": {},
-          "default": true
+          "measured_gb": {}
         }
       },
       "quirks": {
