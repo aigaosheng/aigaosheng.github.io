@@ -16,7 +16,7 @@ permalink: /US-AI-Brief-2026-07-09/
 
 ### US AI Brief — 2026-07-09
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. **OpenAI Loses Key Safety Executive as Leadership Changes Continue Ahead of IPO Plans**
 - **Source** · DIGITIMES · 2026-07-09

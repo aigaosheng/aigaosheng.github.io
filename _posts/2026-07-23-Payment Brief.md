@@ -16,7 +16,7 @@ permalink: /Payment-Brief-2026-07-23/
 
 # Payment Brief — 2026-07-23
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. **JCB and Fiuu Partner to Expand Merchant Acceptance Across Southeast Asia**
 

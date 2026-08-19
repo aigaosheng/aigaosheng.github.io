@@ -16,7 +16,7 @@ permalink: /China-AI-Brief-2026-07-09/
 
 # China AI Brief — 2026-07-09
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. **Beijing Considers Tighter Controls on Overseas Access to Advanced Chinese AI Models**
 

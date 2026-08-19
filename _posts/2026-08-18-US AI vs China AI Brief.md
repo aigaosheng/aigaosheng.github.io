@@ -19,7 +19,7 @@ permalink: /US-AI-vs-China-AI-Brief-2026-08-18/
 
 # US AI vs China AI Brief — 2026-08-18
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. **Nvidia Backs OpenAI’s Hyperscale Compute Expansion as the U.S. Infrastructure Race Accelerates**
 

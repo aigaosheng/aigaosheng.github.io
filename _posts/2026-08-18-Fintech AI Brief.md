@@ -19,7 +19,7 @@ permalink: /Fintech-AI-Brief-2026-08-18/
 
 # Fintech AI Brief — 2026-08-18
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. **Razorpay Bets on Vulcan, a Payments-Specific AI Foundation Model**
 

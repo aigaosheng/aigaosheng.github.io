@@ -18,7 +18,7 @@ permalink: /AI-Fintech-Brief-2026-07-10/
 
 # AI Fintech Brief — 2026-07-10
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. **UK Financial Regulators Push Stronger AI Governance Framework for Financial Services**
 - **Source** · 2026-07-10  

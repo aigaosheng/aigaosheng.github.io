@@ -19,7 +19,7 @@ permalink: /AI-cybersecurity-risk-Brief-2026-08-19/
 
 # AI cybersecurity & risk Brief — 2026-08-19
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. **OpenAI Pauses Major Frontier Training Run Over Cybersecurity Risks**
 

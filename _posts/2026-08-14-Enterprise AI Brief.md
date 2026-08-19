@@ -16,7 +16,7 @@ permalink: /Enterprise-AI-Brief-2026-08-14/
 
 # Enterprise AI Brief — 2026-08-14
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. **Microsoft Begins Unifying Copilot Into a Single AI Experience**
 

@@ -16,7 +16,7 @@ permalink: /Singapore-News-Brief-2026-07-07/
 
 ### Singapore News Brief — 2026-07-07
 
-## Top Stories (Max 10)
+## Top Stories 
 
 ### 1. **Singapore Proposes Tougher Penalties for Dangerous Driving and New Road Safety Measures**
 - **Source** · CNA · 2026-07-07
