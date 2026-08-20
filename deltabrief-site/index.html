@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Deltabrief — Daily AI, enterprise AI and fintech briefings for iPhone</title>
+<meta name="description" content="A daily briefing on AI, enterprise AI, fintech and the tech that moves markets. Read it or listen to it, offline, on your iPhone.">
+<meta property="og:title" content="Deltabrief — Daily AI and fintech briefings">
+<meta property="og:description" content="Read it or listen to it. Offline. No account, no tracking, no subscription.">
+<meta property="og:type" content="website">
+<link rel="icon" href="assets/icon-64.png">
+<style>/* Deltabrief site styles. This block is inlined into each page so the pages can be
+   dropped anywhere without worrying about relative paths; keep the copies in sync. */
+:root {
+  --bg: #ffffff;
+  --surface: #f5f7fa;
+  --text: #14181f;
+  --muted: #5a6472;
+  --border: #e3e8ef;
+  --accent: #3d7af2;
+  --accent-ink: #ffffff;
+  --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 8px 24px rgba(16, 24, 40, .05);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0b0f18;
+    --surface: #131a26;
+    --text: #e6ebf4;
+    --muted: #97a3b6;
+    --border: #1f2937;
+    --accent: #669cff;
+    --accent-ink: #0b0f18;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 8px 24px rgba(0, 0, 0, .3);
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 17px/1.65 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: .9em;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: .1em .35em;
+}
+img { max-width: 100%; height: auto; }
+
+/* Header and footer */
+header.site {
+  display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+  max-width: 1040px; margin: 0 auto; padding: 20px 24px;
+  border-bottom: 1px solid var(--border);
+}
+.brand { display: inline-flex; align-items: center; gap: 10px; color: var(--text); font-weight: 650; letter-spacing: -.01em; }
+.brand:hover { text-decoration: none; }
+.brand img { border-radius: 8px; }
+header.site nav { display: flex; gap: 20px; font-size: 15px; }
+header.site nav a { color: var(--muted); }
+header.site nav a.here { color: var(--text); font-weight: 600; }
+footer.site {
+  max-width: 1040px; margin: 64px auto 0; padding: 24px;
+  border-top: 1px solid var(--border);
+  color: var(--muted); font-size: 14px;
+}
+footer.site p { margin: 0 0 6px; }
+
+/* Text pages */
+.prose { max-width: 720px; margin: 0 auto; padding: 40px 24px 8px; }
+.prose h1 { font-size: 2.1rem; line-height: 1.2; letter-spacing: -.02em; margin: 0 0 8px; }
+.prose h2 {
+  font-size: 1.3rem; letter-spacing: -.01em; margin: 44px 0 12px;
+  padding-top: 20px; border-top: 1px solid var(--border);
+}
+.prose h3 { font-size: 1.05rem; margin: 28px 0 6px; }
+.prose p, .prose li { color: var(--text); }
+.prose ul { padding-left: 22px; }
+.prose li { margin: 6px 0; }
+.meta { color: var(--muted); font-size: 14px; margin: 0 0 28px; }
+.lede { font-size: 1.12rem; color: var(--text); }
+.callout {
+  background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--accent);
+  border-radius: 10px; padding: 14px 18px; margin: 24px 0; font-size: 15.5px;
+}
+
+/* Marketing page */
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 24px; }
+.hero { max-width: 760px; margin: 0 auto; padding: 72px 24px 64px; text-align: center; }
+.hero-icon { border-radius: 24px; box-shadow: var(--shadow); }
+.hero h1 { font-size: clamp(2rem, 5.5vw, 3rem); line-height: 1.12; letter-spacing: -.03em; margin: 28px 0 16px; }
+.sub { font-size: 1.15rem; color: var(--muted); margin: 0 auto; max-width: 34em; }
+.cta { margin: 32px 0 12px; }
+.button {
+  display: inline-block; background: var(--accent); color: var(--accent-ink);
+  font-weight: 600; font-size: 16px; padding: 13px 26px; border-radius: 999px;
+}
+.button:hover { text-decoration: none; opacity: .9; }
+.fineprint { color: var(--muted); font-size: 14px; margin: 0; }
+.band { background: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); padding: 56px 0; margin: 40px 0; }
+.band h2 { font-size: 1.6rem; letter-spacing: -.02em; margin: 0 0 6px; }
+.section-lede { color: var(--muted); margin: 0 0 28px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; }
+.card { background: var(--bg); border: 1px solid var(--border); border-radius: 12px; padding: 18px 20px; }
+.card h3 { margin: 0 0 6px; font-size: 1rem; }
+.card p { margin: 0; color: var(--muted); font-size: 15px; }
+.features { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px 48px; }
+.feature h2 { font-size: 1.25rem; letter-spacing: -.015em; margin: 24px 0 8px; }
+.feature p { margin: 0; color: var(--muted); }
+.privacy-note h2 { max-width: 20em; }
+.privacy-note p { color: var(--muted); max-width: 46em; }
+.link-arrow { font-weight: 600; }
+.link-arrow::after { content: " →"; }
+.shots { display: flex; gap: 20px; overflow-x: auto; padding-bottom: 8px; }
+.shots img { border-radius: 18px; border: 1px solid var(--border); box-shadow: var(--shadow); flex: 0 0 auto; }
+
+@media (max-width: 600px) {
+  body { font-size: 16px; }
+  .hero { padding: 48px 20px 40px; }
+  .prose { padding: 28px 20px 8px; }
+}
+</style>
+</head>
+<body>
+<header class="site">
+  <a class="brand" href="index.html"><img src="assets/icon-64.png" alt="" width="32" height="32"><span>Deltabrief</span></a>
+  <nav><a class="here" href="index.html">Overview</a><a href="support.html">Support</a><a href="privacy.html">Privacy</a></nav>
+</header>
+
+<section class="hero">
+  <img class="hero-icon" src="assets/icon-256.png" alt="Deltabrief app icon" width="112" height="112">
+  <h1>The day's technology, already read for you.</h1>
+  <p class="sub">A daily briefing on AI, enterprise AI, fintech and the tech that moves markets — edited down to what changed and why it matters. Read it, or let your iPhone read it to you.</p>
+  <p class="cta">
+    <!-- Replace href with the App Store URL once the app is live. -->
+    <a class="button" href="#">Download on the App Store</a>
+  </p>
+  <p class="fineprint">iPhone · iOS 26 or later · One purchase, no subscription</p>
+</section>
+
+<section class="band">
+  <div class="wrap">
+    <h2>What's in it</h2>
+    <p class="section-lede">More than 2,200 briefs, and a new one most days.</p>
+    <div class="grid">
+      <div class="card"><h3>Enterprise AI</h3><p>Deployments, agents, infrastructure, and what companies are actually shipping.</p></div>
+      <div class="card"><h3>Fintech &amp; payments</h3><p>Banking, digital payments, stablecoins and tokenized assets.</p></div>
+      <div class="card"><h3>AI research &amp; models</h3><p>New papers, open-source releases, LLM and agentic AI developments.</p></div>
+      <div class="card"><h3>Policy &amp; regulation</h3><p>AI governance, risk and compliance, and how the rules are changing.</p></div>
+      <div class="card"><h3>Investment &amp; startups</h3><p>Funding, venture activity, and the deals behind the headlines.</p></div>
+      <div class="card"><h3>US, China &amp; Singapore</h3><p>Regional coverage of the places where this is being decided.</p></div>
+    </div>
+  </div>
+</section>
+
+<!--
+  Screenshots: drop 6.9-inch captures into assets/ and uncomment.
+  <section class="band"><div class="wrap shots">
+    <img src="assets/shot-latest.png" alt="The Latest screen" width="330" height="716">
+    <img src="assets/shot-reader.png" alt="Reading a brief" width="330" height="716">
+    <img src="assets/shot-player.png" alt="Listening to a brief" width="330" height="716">
+  </div></section>
+-->
+
+<section class="wrap features">
+  <div class="feature">
+    <h2>Listen on the way in</h2>
+    <p>Any brief can be spoken aloud, with a voice you choose per language and a speed you set. Playback keeps going with the screen off and the phone in your pocket, and a mini player follows you around the app. A commute is enough for a day's briefing.</p>
+  </div>
+  <div class="feature">
+    <h2>Works with no signal</h2>
+    <p>The newest issues and everything you've saved are downloaded before you open them — not fetched at the moment you need them. The archive still reads on a plane, or underground.</p>
+  </div>
+  <div class="feature">
+    <h2>An archive you can actually search</h2>
+    <p>Thousands of past briefs, searchable in English and Chinese, browsable by tag, and indexed in Spotlight — so you can find the one you half-remember from the Home Screen without opening the app.</p>
+  </div>
+  <div class="feature">
+    <h2>On the Home Screen, and in Siri</h2>
+    <p>A Home Screen and Lock Screen widget shows the newest issues. Ask Siri to play today's briefs or open the latest one, or build either into a shortcut of your own.</p>
+  </div>
+  <div class="feature">
+    <h2>Quiet by default</h2>
+    <p>Refresh manually or on an interval you choose. Notifications are off until you ask for them, and there is no badge counting unread issues at you.</p>
+  </div>
+  <div class="feature">
+    <h2>Reads in English and Chinese</h2>
+    <p>The whole app, not just the briefs: 中文界面, Chinese voices for listening, and search that handles both.</p>
+  </div>
+</section>
+
+<section class="band privacy-note">
+  <div class="wrap">
+    <h2>No account. No tracking. No subscription.</h2>
+    <p>Deltabrief has no sign-up, no analytics, no advertising and no third-party SDKs. What you read, what you save and how you set it up never leaves your iPhone. One purchase, and that's the transaction.</p>
+    <p><a class="link-arrow" href="privacy.html">Read the privacy policy</a></p>
+  </div>
+</section>
+
+<footer class="site">
+  <p>© 2026 Aisengtech · <a href="index.html">Overview</a> · <a href="support.html">Support</a> · <a href="privacy.html">Privacy</a></p>
+  <p class="fineprint">Briefs are editorial technology journalism. Deltabrief does not provide investment, legal or financial advice.</p>
+</footer>
+</body>
+</html>
