@@ -3,28 +3,369 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Wraith</title>
+<title>Wraith — a private AI assistant that runs on your iPhone</title>
+<meta name="description" content="Wraith runs open-source AI models directly on your iPhone. No account, no cloud, no tracking. Chat, read your documents, research the web with citations, and run your day — with a lock that keeps everything on-device.">
+<link rel="canonical" href="https://aisengtech.com/wraith-site/">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d0e11" media="(prefers-color-scheme: dark)">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://aisengtech.com/wraith-site/">
+<meta property="og:site_name" content="Wraith">
+<meta property="og:title" content="Wraith — a private AI assistant that runs on your iPhone">
+<meta property="og:description" content="Open-source AI models running on your device. No account, no cloud, no tracking — and a No-Egress Lock that proves it.">
 <style>
-  :root { color-scheme: light dark; }
-  body {
-    max-width: 620px; margin: 0 auto; padding: 4rem 1.25rem;
-    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: #1a1a1a; background: #fff; text-align: center;
+  :root {
+    color-scheme: light dark;
+    --paper: #ffffff;
+    --paper-2: #f6f7f9;
+    --ink: #101114;
+    --ink-2: #52555e;
+    --ink-3: #8b8f99;
+    --line: rgba(16,17,20,.12);
+    --line-2: rgba(16,17,20,.07);
+    --accent: #4f46d6;
+    --accent-soft: rgba(79,70,214,.10);
+    --radius: 14px;
+    --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   }
-  @media (prefers-color-scheme: dark) { body { color: #e6e6e6; background: #161616; } a { color: #6ea8fe; } }
-  h1 { font-size: 2.2rem; margin: 0 0 .5rem; }
-  p.tag { color: #888; font-size: 1.1rem; margin: 0 0 2.5rem; }
-  nav a { display: inline-block; margin: 0 .75rem; color: #0b62d6; font-weight: 600; }
-  footer { margin-top: 4rem; color: #888; font-size: .85rem; }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0d0e11;
+      --paper-2: #14161a;
+      --ink: #e8e9ec;
+      --ink-2: #a3a7b2;
+      --ink-3: #757a86;
+      --line: rgba(255,255,255,.14);
+      --line-2: rgba(255,255,255,.08);
+      --accent: #9a9cff;
+      --accent-soft: rgba(154,156,255,.12);
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: var(--ink); background: var(--paper);
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { width: 100%; max-width: 1000px; margin: 0 auto; padding: 0 1.25rem; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h1, h2, h3 { line-height: 1.2; letter-spacing: -0.02em; margin: 0; }
+
+  /* ---------- header ---------- */
+  header { border-bottom: 1px solid var(--line-2); }
+  .bar { display: flex; align-items: center; gap: 1rem; height: 60px; }
+  .mark { font-weight: 700; letter-spacing: -0.02em; font-size: 1.05rem; color: var(--ink); }
+  .mark span { color: var(--ink-3); font-weight: 500; }
+  .bar nav { margin-left: auto; display: flex; align-items: center; gap: 1.25rem; font-size: .9rem; }
+  .bar nav a { color: var(--ink-2); }
+  .bar nav a:hover { color: var(--ink); text-decoration: none; }
+  @media (max-width: 620px) { .bar nav .hide-sm { display: none; } }
+
+  /* ---------- buttons ---------- */
+  .btn {
+    display: inline-flex; align-items: center; gap: .5rem;
+    padding: .7rem 1.15rem; border-radius: 999px;
+    background: var(--ink); color: var(--paper);
+    font-weight: 600; font-size: .95rem; white-space: nowrap;
+  }
+  .btn:hover { text-decoration: none; opacity: .9; }
+  .btn-sm { padding: .45rem .9rem; font-size: .85rem; }
+  .btn-ghost { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+
+  /* ---------- hero ---------- */
+  .hero { padding-block: 4.5rem 3rem; }
+  .hero-grid { display: grid; grid-template-columns: 1.1fr .9fr; gap: 3.5rem; align-items: center; }
+  @media (max-width: 860px) { .hero-grid { grid-template-columns: 1fr; gap: 2.5rem; } .hero { padding-block: 3rem 2rem; } }
+  .eyebrow {
+    display: inline-block; font: 600 .72rem/1 var(--mono); letter-spacing: .1em; text-transform: uppercase;
+    color: var(--accent); background: var(--accent-soft); padding: .45rem .7rem; border-radius: 999px; margin-bottom: 1.25rem;
+  }
+  .hero h1 { font-size: clamp(2.1rem, 5.2vw, 3.3rem); }
+  .hero .lede { color: var(--ink-2); font-size: 1.12rem; margin: 1.1rem 0 1.75rem; max-width: 34em; }
+  .cta-row { display: flex; align-items: center; gap: .9rem; flex-wrap: wrap; }
+  .cta-note { color: var(--ink-3); font-size: .85rem; }
+
+  /* ---------- trust strip ---------- */
+  .strip { border-top: 1px solid var(--line-2); border-bottom: 1px solid var(--line-2); background: var(--paper-2); }
+  .strip ul {
+    list-style: none; margin: 0; padding: 1rem 0; display: flex; flex-wrap: wrap; gap: .5rem 2rem;
+    font: 500 .82rem/1.4 var(--mono); color: var(--ink-2);
+  }
+  .strip li::before { content: "— "; color: var(--ink-3); }
+
+  /* ---------- phone mock ---------- */
+  .phone {
+    width: 100%; max-width: 320px; margin: 0 auto; border: 1px solid var(--line);
+    border-radius: 38px; padding: 10px; background: var(--paper-2);
+    box-shadow: 0 24px 60px -30px rgba(0,0,0,.4);
+  }
+  .screen { background: var(--paper); border: 1px solid var(--line-2); border-radius: 29px; padding: 1rem .85rem 1.1rem; }
+  .notch { width: 42%; height: 5px; border-radius: 999px; background: var(--line); margin: 0 auto .9rem; }
+  .msg-user {
+    margin-left: auto; max-width: 82%; background: var(--accent-soft); color: var(--ink);
+    padding: .5rem .7rem; border-radius: 13px 13px 4px 13px; font-size: .82rem;
+  }
+  .chip {
+    display: inline-flex; align-items: center; gap: .35rem; margin: .9rem 0 .55rem;
+    font: 500 .66rem/1 var(--mono); color: var(--ink-2);
+    border: 1px solid var(--line); border-radius: 999px; padding: .35rem .55rem;
+  }
+  .dot { width: 5px; height: 5px; border-radius: 50%; background: var(--accent); }
+  .tool {
+    border: 1px solid var(--line-2); border-radius: 10px; padding: .5rem .6rem; margin-bottom: .6rem;
+    font: 500 .68rem/1.4 var(--mono); color: var(--ink-2); background: var(--paper-2);
+  }
+  .tool b { color: var(--ink); font-weight: 600; }
+  .ans { font-size: .82rem; color: var(--ink); }
+  .ans sup { color: var(--accent); font-family: var(--mono); font-size: .6rem; }
+  .skel { height: 7px; border-radius: 999px; background: var(--line-2); margin: .45rem 0; }
+  .badge {
+    display: inline-flex; align-items: center; gap: .35rem; margin-top: .8rem;
+    font: 500 .66rem/1 var(--mono); color: var(--ink-3);
+  }
+  .badge .dot { background: #2f9e5b; }
+
+  /* ---------- sections ---------- */
+  section { padding-block: 4.25rem; }
+  .sec-head { max-width: 40em; margin-bottom: 2.5rem; }
+  .sec-head h2 { font-size: clamp(1.5rem, 3.4vw, 2rem); }
+  .sec-head p { color: var(--ink-2); margin: .8rem 0 0; }
+  .rule { border: 0; border-top: 1px solid var(--line-2); margin: 0; }
+
+  .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--line-2); border: 1px solid var(--line-2); border-radius: var(--radius); overflow: hidden; }
+  @media (max-width: 860px) { .cards { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 560px) { .cards { grid-template-columns: 1fr; } }
+  .card { background: var(--paper); padding: 1.6rem 1.4rem; }
+  .card h3 { font-size: 1.02rem; margin-bottom: .5rem; }
+  .card p { margin: 0; color: var(--ink-2); font-size: .92rem; }
+  .card .kicker { font: 600 .68rem/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); display: block; margin-bottom: .7rem; }
+
+  /* ---------- privacy ---------- */
+  .privacy { background: var(--paper-2); border-top: 1px solid var(--line-2); border-bottom: 1px solid var(--line-2); }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; }
+  @media (max-width: 780px) { .two { grid-template-columns: 1fr; gap: 1.75rem; } }
+  .claim { border-left: 2px solid var(--accent); padding-left: 1.1rem; }
+  .claim h3 { font-size: 1.02rem; margin-bottom: .45rem; }
+  .claim p { margin: 0; color: var(--ink-2); font-size: .94rem; }
+  .fine { color: var(--ink-3); font-size: .86rem; margin-top: 2rem; }
+
+  /* ---------- faq ---------- */
+  details { border-bottom: 1px solid var(--line-2); padding: .95rem 0; }
+  summary { cursor: pointer; font-weight: 600; font-size: .98rem; }
+  summary::-webkit-details-marker { display: none; }
+  summary::after { content: "+"; float: right; color: var(--ink-3); font-weight: 400; }
+  details[open] summary::after { content: "–"; }
+  details p { margin: .7rem 0 0; color: var(--ink-2); font-size: .93rem; max-width: 46em; }
+
+  /* ---------- closing + footer ---------- */
+  .close { text-align: center; padding-block: 4.5rem; }
+  .close h2 { font-size: clamp(1.5rem, 3.6vw, 2.1rem); }
+  .close p { color: var(--ink-2); margin: .9rem auto 1.8rem; max-width: 32em; }
+  footer { border-top: 1px solid var(--line-2); padding: 2rem 0 3rem; color: var(--ink-3); font-size: .85rem; }
+  .foot { display: flex; flex-wrap: wrap; gap: .75rem 1.5rem; align-items: center; }
+  .foot nav { display: flex; gap: 1.25rem; margin-left: auto; }
+  .foot a { color: var(--ink-2); }
 </style>
 </head>
 <body>
-  <h1>Wraith</h1>
-  <p class="tag">A private AI assistant that runs entirely on your device.</p>
-  <nav>
-    <a href="./privacy.html">Privacy Policy</a>
-    <a href="./support.html">Support</a>
-  </nav>
-  <footer>© 2026 Sheng Gao</footer>
+
+<header>
+  <div class="wrap bar">
+    <a class="mark" href="./">Wraith <span>for iPhone</span></a>
+    <nav>
+      <a class="hide-sm" href="#features">Features</a>
+      <a class="hide-sm" href="#privacy">Privacy</a>
+      <a href="./support.html">Support</a>
+      <a class="btn btn-sm" href="https://apps.apple.com/app/id6797142575">Get the app</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <!-- ---------------------------------------------------------------- hero -->
+  <div class="wrap hero">
+    <div class="hero-grid">
+      <div>
+        <span class="eyebrow">On-device · No account</span>
+        <h1>A private AI assistant that never leaves your phone.</h1>
+        <p class="lede">Wraith runs open-source AI models directly on your iPhone. There is no account
+        to create, no cloud to send your conversations to, and no analytics. Ask it anything, hand it
+        your documents, let it run your day — and lock it fully offline whenever you want.</p>
+        <div class="cta-row">
+          <a class="btn" href="https://apps.apple.com/app/id6797142575">Download on the App Store</a>
+          <span class="cta-note">Free · iPhone · iOS 17 or later</span>
+        </div>
+      </div>
+
+      <!-- CSS-only mock of a real answer: route chip, tool card, citations, trust badge -->
+      <div class="phone" aria-hidden="true">
+        <div class="screen">
+          <div class="notch"></div>
+          <div class="msg-user">Research the state of on-device LLMs and cite your sources</div>
+          <div class="chip"><span class="dot"></span> Auto → research</div>
+          <div class="tool"><b>web_search</b> · 5 sources</div>
+          <div class="tool"><b>fetch_url</b> · read 3 pages</div>
+          <p class="ans">Quantized 4-bit models now fit comfortably in phone memory<sup>[1]</sup>,
+          and throughput on recent Apple silicon<sup>[3]</sup> …</p>
+          <div class="skel" style="width:92%"></div>
+          <div class="skel" style="width:78%"></div>
+          <div class="badge"><span class="dot"></span> Grounded in 5 sources</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="strip">
+    <div class="wrap">
+      <ul>
+        <li>No sign-up</li>
+        <li>No cloud model</li>
+        <li>No tracking SDKs</li>
+        <li>Works offline</li>
+        <li>43 MB download</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- ------------------------------------------------------------ features -->
+  <section id="features" class="wrap">
+    <div class="sec-head">
+      <h2>There are no feature buttons.</h2>
+      <p>Most assistants make you find the right tab first. Wraith has one text box: describe what you
+      want in plain words, and the agent picks the tools, runs them, and shows each one as a card inside
+      the answer. A chip above every reply says how it was routed; a badge below says whether it was
+      grounded in real sources or is model knowledge alone.</p>
+    </div>
+
+    <div class="cards">
+      <div class="card">
+        <span class="kicker">On your device</span>
+        <h3>Real models, running locally</h3>
+        <p>Download an open-source model once and it runs on the phone's own silicon. No API key, no
+        subscription wall, no request leaving the device to answer you.</p>
+      </div>
+      <div class="card">
+        <span class="kicker">Your files</span>
+        <h3>Documents read on-device</h3>
+        <p>Attach images and PDFs and they're read locally — text, tables, charts. Audio is transcribed
+        on the phone. Word, PowerPoint, Excel and CSV files are ingested so you can ask across them.</p>
+      </div>
+      <div class="card">
+        <span class="kicker">The web, on request</span>
+        <h3>Research with citations</h3>
+        <p>Ask a research question and it searches, opens the pages it found, and writes an answer with
+        inline citations you can tap. Ask for a digest and it holds itself to the window you gave.</p>
+      </div>
+      <div class="card">
+        <span class="kicker">Your day</span>
+        <h3>Tasks, briefs and plans</h3>
+        <p>“Remind me to send Alex the deck next Tuesday 2pm” is parsed and written — on-device, never
+        uploaded. Ask for a brief or a time-blocked plan and you get one.</p>
+      </div>
+      <div class="card">
+        <span class="kicker">Threads and meetings</span>
+        <h3>Action items it can quote</h3>
+        <p>Paste an email thread or meeting minutes and ask what needs doing. Anything the agent can't
+        quote back from the text is dropped rather than invented.</p>
+      </div>
+      <div class="card">
+        <span class="kicker">Make something</span>
+        <h3>Charts, diagrams, documents</h3>
+        <p>Paste a table and flip it to a chart or export the CSV. Ask for a diagram and get a real one.
+        Ask for a deck, report or spreadsheet and the answer is written into a file you can download.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ------------------------------------------------------------- privacy -->
+  <div id="privacy" class="privacy">
+    <section class="wrap">
+      <div class="sec-head">
+        <h2>Privacy you can audit, not just believe.</h2>
+        <p>“Private” is easy to print on a page. Wraith is built so you can check it: the only things
+        that ever leave your phone are the web features you trigger, and the app shows you each one.</p>
+      </div>
+      <div class="two">
+        <div class="claim">
+          <h3>The No-Egress Lock</h3>
+          <p>An airplane mode for your data. Switch it on and every tool that could contact the network
+          is withheld outright — the assistant keeps working, entirely offline. On a fresh install the
+          lock is on until you've seen who the app would contact and allowed it.</p>
+        </div>
+        <div class="claim">
+          <h3>The Egress Ledger</h3>
+          <p>A plain list of what actually left the device and where it went — the search text, the page
+          fetched, the host that received it. If nothing has left, it says so.</p>
+        </div>
+        <div class="claim">
+          <h3>No account, no analytics</h3>
+          <p>There is nothing to sign up for and no tracking SDK in the app. Your conversations,
+          documents and tasks are stored locally, and deleting the app deletes them.</p>
+        </div>
+        <div class="claim">
+          <h3>No third-party AI service</h3>
+          <p>There is no cloud model behind Wraith and no server of ours that receives your prompts.
+          The model answering you is the one on your phone.</p>
+        </div>
+      </div>
+      <p class="fine">Read the full <a href="./privacy.html">privacy policy</a> for the exact list of
+      features that can send data, what each one sends, and who receives it.</p>
+    </section>
+  </div>
+
+  <!-- ----------------------------------------------------------------- faq -->
+  <section class="wrap">
+    <div class="sec-head"><h2>Questions</h2></div>
+    <details>
+      <summary>Do I need an account or a subscription?</summary>
+      <p>No. Wraith is free, works on launch, and asks for no email, login, or personal information.</p>
+    </details>
+    <details>
+      <summary>Why does the first launch download something?</summary>
+      <p>That's the open-source AI model Wraith runs on your device. It's a one-time download per model,
+      with a real progress bar, and after it lands the core features work with no network at all.</p>
+    </details>
+    <details>
+      <summary>Which iPhone do I need?</summary>
+      <p>iOS 17 or later. Larger models want more memory, so the model picker labels which sizes your
+      phone can hold comfortably and lets you swap at any time.</p>
+    </details>
+    <details>
+      <summary>Is it as good as a cloud assistant?</summary>
+      <p>An honest answer: a phone-sized model is smaller than a datacenter one. Wraith closes the gap by
+      being an agent rather than a chatbot — grounding answers in real sources, reading your actual files,
+      and refusing to invent items it can't quote. For private, everyday work it holds up; for frontier
+      reasoning, it won't pretend otherwise.</p>
+    </details>
+    <details>
+      <summary>How do I delete my data?</summary>
+      <p>Everything is local, so deleting the app removes it. In-app settings also let you review and
+      delete saved memories individually.</p>
+    </details>
+  </section>
+
+  <hr class="rule">
+
+  <div class="close wrap">
+    <h2>Keep your assistant where your data is.</h2>
+    <p>Free on the App Store. No account, no cloud, nothing to cancel.</p>
+    <a class="btn" href="https://apps.apple.com/app/id6797142575">Download on the App Store</a>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap foot">
+    <span>© 2026 Sheng Gao</span>
+    <nav>
+      <a href="./privacy.html">Privacy</a>
+      <a href="./support.html">Support</a>
+      <a href="https://apps.apple.com/app/id6797142575">App Store</a>
+    </nav>
+  </div>
+</footer>
+
 </body>
 </html>
