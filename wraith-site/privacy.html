@@ -26,7 +26,7 @@
 </head>
 <body>
   <h1>Privacy Policy</h1>
-  <div class="updated">Wraith · Effective August 14, 2026</div>
+  <div class="updated">Wraith · Effective August 23, 2026</div>
 
   <p><strong>Wraith is built to keep your data on your device.</strong> We do not
   operate servers that receive your content, we do not require an account, and we
@@ -46,10 +46,12 @@
   and no server of ours that receives your prompts or your content.</p>
 
   <h2>When data leaves your device, and to whom</h2>
-  <p>Data leaves your device only for the features listed below, only when
-  <strong>you ask for them</strong>, and only after you have granted permission on
-  first launch. Until you grant it, Wraith's <em>No-Egress</em> lock is engaged and
-  no network request is made at all; you can re-engage it at any time in
+  <p>Data leaves your device only for the features listed below, and only after you
+  have granted permission on first launch. Every one of them is triggered by
+  something <strong>you ask for</strong>, with a single exception noted in the
+  table: the daily check for newly available on-device models, which carries
+  nothing about you. Until you grant it, Wraith's <em>No-Egress</em> lock is engaged
+  and none of these services is contacted at all; you can re-engage it at any time in
   <em>Settings → Privacy</em>, and review or change your choice under
   <em>Settings → Privacy → Data sharing</em>.</p>
   <p>Because Wraith has no accounts, nothing sent below is associated with your
@@ -66,7 +68,9 @@
       <tr><td>Paper search</td><td>The research topic you searched for</td><td>arXiv</td></tr>
       <tr><td>Medical literature search</td><td>The search terms — never anything from a patient chart or note</td><td>PubMed (NCBI)</td></tr>
       <tr><td>Bus &amp; MRT status</td><td>A public bus-stop code or train-line name — nothing about you</td><td>LTA DataMall (Singapore)</td></tr>
+      <tr><td>Place lookup</td><td>Your coordinates when you ask what is near you, or the place name you typed when you ask about a place — Apple's geocoder turns one into the other</td><td>Apple</td></tr>
       <tr><td>Directions</td><td>Your start and destination, needed to compute a route</td><td>Apple Maps</td></tr>
+      <tr><td>Checking for new on-device models</td><td>Nothing about you — a plain request for the list of available models. The one request you do not trigger: once a day at launch, so the model picker can offer newer models without an app update</td><td>aisengtech.com (ours)</td></tr>
     </tbody>
   </table>
   </div>
@@ -76,9 +80,11 @@
   account, and none of your content. It happens once and the model is then stored on
   your device, which is why the assistant keeps working offline.</p>
   <p><strong>What never leaves.</strong> Your conversations, documents, notes, tasks
-  and memories; your activity, calendar, reminders, contacts and photos; and your
-  precise location. Place-based suggestions send only a coarse area name, never
-  coordinates.</p>
+  and memories; and your activity, calendar, reminders, contacts and photos. Your
+  location stays here too, except on the turns where you ask for something near you
+  or for directions — then Apple receives it, to name the place or compute the
+  route. Nothing else is told where you are: web searches for nearby places carry
+  only a short area name, and live bus timings carry only a public stop code.</p>
   <p>Wraith includes an on-device <em>privacy ledger</em> that shows you exactly
   what has left your device and where.</p>
 
