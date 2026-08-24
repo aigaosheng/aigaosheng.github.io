@@ -2,7 +2,7 @@
 
 layout: post
 title: "Fintech AI Brief — 2026-08-24"
-date: 2026-08-24 21:00 +0800
+date: 2026-08-24 19:00 +0800
 type: post
 published: true
 status: publish

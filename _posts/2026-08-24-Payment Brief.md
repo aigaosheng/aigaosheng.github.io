@@ -2,7 +2,7 @@
 
 layout: post
 title: "Payment Brief — 2026-08-24"
-date: 2026-08-24 21:00:00 +0800
+date: 2026-08-24 19:10:00 +0800
 type: post
 published: true
 status: publish
