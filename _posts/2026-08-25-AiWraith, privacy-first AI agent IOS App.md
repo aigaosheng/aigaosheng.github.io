@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AiWraith, privacy-first AI agent IOS App"
-date: 2026-08-24 20:00:00 +0800
+date: 2026-08-25 21:17:00 +0800
 type: post
 published: true
 status: publish
