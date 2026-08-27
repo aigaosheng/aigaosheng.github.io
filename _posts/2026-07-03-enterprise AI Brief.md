@@ -13,7 +13,7 @@ tags:
 - Banking
 - Agentic AI
 keywords: [AI, fintech, payments, banking, agentic AI]
-permalink: /AI-Fintech-Brief-2026-07-03/
+permalink: /AI-Fintech-Brief-2026-07-03-2/
 ---
 
 ### AI Fintech Brief — 2026-07-03

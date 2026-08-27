@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Enterprise AI Brief — 2026-05-17"
+title: "Daily Global Intelligence Brief — 2026-05-17"
 date: 2026-05-17 21:32:00 +0800
 type: post
 published: true
@@ -13,7 +13,7 @@ tags:
 - H2O.ai
 - OpenAI
 keywords: [Enterprise AI, Agentic AI, SAP, OpenAI, H2O.ai, AI Governance]
-permalink: /Enterprise-AI-Brief-2026-05-17/
+permalink: /Daily-Global-Intelligence-Brief-2026-05-17/
 ---
 
 # Daily Global Intelligence Brief — 2026-05-17

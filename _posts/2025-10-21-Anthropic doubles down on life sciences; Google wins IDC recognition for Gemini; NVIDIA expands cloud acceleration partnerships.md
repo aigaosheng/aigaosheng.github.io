@@ -8,10 +8,8 @@ status: publish
 categories: []
 tags:
 - Claude
-- life-sciences AI
-
 keywords: [enterprise AI, connectors, life-sciences AI]
-permalink: /link name/
+permalink: /Anthropic-doubles-down-on-life-sciences-Google-wins-2025-10-21/
 ---
 
 **Anthropic doubles down on life sciences; Google wins IDC recognition for Gemini; NVIDIA expands cloud acceleration partnerships**

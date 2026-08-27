@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - AI
- - Fintech
+- Fintech
 - Agentic AI
 keywords: [AI, fintech, banking, agentic AI, payments]
 permalink: /AI-Fintech-Brief-2026-07-03/

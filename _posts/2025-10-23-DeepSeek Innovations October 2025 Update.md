@@ -8,12 +8,10 @@ status: publish
 categories: []
 tags:
 - DeepSeek
-- AI model
-- OCR compression
-- hardware independence
-- API pricing  
+- AI Models
+- OCR Compression
 keywords: [AI update, large language model, AI cost reduction]
-permalink: /link name/
+permalink: /DeepSeek-Innovations-October-23-2025-Update-2025-10-23/
 ---
 **DeepSeek Innovations October 23 2025 Update**
 

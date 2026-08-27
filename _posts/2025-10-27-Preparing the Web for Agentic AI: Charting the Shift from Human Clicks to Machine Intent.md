@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic browsing
-- machine intent
-- web evolution
+- Agentic Browsing
 keywords: [agentic AI, machine-readable web, AI agents]
-permalink: /link name/
+permalink: /Preparing-the-Web-for-Agentic-AI-Charting-2025-10-27/
 ---
 
 **Preparing the Web for Agentic AI: Charting the Shift from Human Clicks to Machine Intent**

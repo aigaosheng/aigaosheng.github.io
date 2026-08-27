@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- compute-scaling
-- TPUs, Asia-expansion
-- enterprise-AI
+- Enterprise AI
 - Claude
 keywords: [Anthropic, Claude, Google TPUs]
-permalink: /link name/
+permalink: /Anthropic-Accelerates-Compute-Capacity-and-APAC-Expansion-October-2025-10-24/
 ---
 **Anthropic Accelerates Compute Capacity and APAC Expansion, October 22-24  2025**
 

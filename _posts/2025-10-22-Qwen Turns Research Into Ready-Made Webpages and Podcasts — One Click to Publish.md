@@ -8,10 +8,8 @@ status: publish
 categories: []
 tags:
 - Qwen Deep Research
-- AI-generated webpages
-- automated podcasting
 keywords: [Qwen, AI podcasting, multimodal research]
-permalink: /link name/
+permalink: /Qwen-Turns-Research-Into-Ready-Made-Webpages-2025-10-22/
 ---
 # Qwen Turns Research Into Ready-Made Webpages and Podcasts — One Click to Publish
 

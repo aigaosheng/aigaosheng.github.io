@@ -8,10 +8,8 @@ status: publish
 categories: []
 tags:
 - Digital Assets
-- AI in Financial Services
-- Payments & Cross-Border Finance
 keywords: [Digital Assets,AI in Financial Services,Payments & Cross-Border Finance]
-permalink: /FintechNews.sg – Weekly Newsletter/
+permalink: /FintechNews-sg-Weekly-Newsletter-2025-12-15/
 ---
 
 **FintechNews.sg – Weekly Newsletter**

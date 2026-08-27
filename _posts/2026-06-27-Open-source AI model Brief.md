@@ -8,11 +8,11 @@ published: true
 status: publish
 categories: []
 tags:
-- Open-Source AI
+- Open Source AI
 - Large Language Models
 - AI Infrastructure
-- keywords: [Open-Source AI, LLM, AI Infrastructure]
-- permalink: /Open-source-AI-model-Brief-2026-06-27/
+keywords: [Open-Source AI, LLM, AI Infrastructure]
+permalink: /Open-source-AI-model-Brief-2026-06-27/
 
 ---
 

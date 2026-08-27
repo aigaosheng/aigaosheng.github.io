@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- AI workflow automation
-- agentic AI
-- enterprise AI transformation
+- AI Workflow Automation
+- Agentic AI
+- Enterprise AI Transformation
 keywords: [agentic AI, workflow automation, enterprise AI]
-permalink: /name/
+permalink: /From-Copilots-to-Command-Centers-Why-Enterprises-2026-04-02/
 ---
 # From Copilots to Command Centers: Why Enterprises Are Rethinking AI by 2028
 

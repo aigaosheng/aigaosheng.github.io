@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- humanoid robotics
-- patent leadership
-- China tech race
+- Humanoid Robotics
+- China Tech Race
 keywords: [robotics, China, patents]
-permalink: /name/
+permalink: /Chinas-Humanoid-Robot-Patent-Blitz-A-New-Front-2025-12-22/
 ---
 **China’s Humanoid Robot Patent Blitz: A New Front in the Tech Superpower Race**
 

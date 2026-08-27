@@ -10,9 +10,8 @@ tags:
 - Singapore Economy
 - AI
 - Trade
-- Economic Strategy
 keywords: [Singapore, AI, NODX, Economic Strategy, Trade]
-permalink: /Singapore-Brief-2026-05-16/
+permalink: /Singapore-Industry-and-Sector-Deep-Dive-Brief-2026-05-16/
 ---
 
 ### Singapore+ — Industry and Sector Deep Dive Brief — 2026-05-16

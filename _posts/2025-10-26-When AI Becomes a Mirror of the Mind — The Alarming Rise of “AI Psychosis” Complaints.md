@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI psychosis
-- ChatGPT harm
-- generative AI risks
+- Generative AI Risks
 keywords: [ChatGPT, AI safety, mental health]
-permalink: /link name/
+permalink: /When-AI-Becomes-a-Mirror-of-the-Mind-2025-10-26/
 ---
 **When AI Becomes a Mirror of the Mind — The Alarming Rise of “AI Psychosis” Complaints**
 
