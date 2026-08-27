@@ -9,7 +9,6 @@ categories: []
 tags:
 - Agentic Commerce
 - AI Safety & Governance
-- IPO Positioning
 keywords: [OpenAI 2026, ChatGPT shopping, AI safety bug bounty]
 permalink: /OpenAI Weekly Insight Report, March 28, 2026/
 ---

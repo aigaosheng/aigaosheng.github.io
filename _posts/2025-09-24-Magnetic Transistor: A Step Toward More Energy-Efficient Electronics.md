@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Magnetic Transistor
-- Magnetic semiconductor
+- Magnetic Semiconductor
+
 ---
 ---
 ## Magnetic Transistor: A Step Toward More Energy-Efficient Electronics

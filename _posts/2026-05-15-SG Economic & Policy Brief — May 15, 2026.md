@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Singapore Economic Strategy 2026
-- Singapore STI performance
-- Singapore property market boom
 keywords: [Singapore Economic Strategy 2026, Singapore STI performance, Singapore property market boom]
 permalink: /SG Economic & Policy Brief — May 15, 2026/
 ---

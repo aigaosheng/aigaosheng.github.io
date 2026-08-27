@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- TikTok U.S. takeover
-- ByteDance divestment
-- U.S. tech sovereignty
+- U.S. Tech Sovereignty
+
 ---
 ---
 **“TikTok’s American Makeover: Bye-Bye ByteDance, Hello U.S. Takeover?”**

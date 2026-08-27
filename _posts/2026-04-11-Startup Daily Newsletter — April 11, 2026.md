@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - Venture Capital Trends 2026
-- Startup Funding Analysis
 - AI Startup Investment
 keywords: [Venture Capital Trends 2026, Startup Funding Analysis, AI Startup Investment]
 permalink: /Startup Daily Newsletter — April 11, 2026/

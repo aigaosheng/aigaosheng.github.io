@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic  
-- Stablecoin  
-- Automation  
+- Agentic
+- Stablecoins
+- Automation
 keywords: [AI payments automation, regulated stablecoins, B2B fintech funding]
 permalink: /Fintech Pulse Weekly- AI Agents Drive Payments Revolution as Stablecoins Go Mainstream April 26, 2026/
 ---

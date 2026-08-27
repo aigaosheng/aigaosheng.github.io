@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Factify
-- AI documents
-- digital transformation
+- Digital Transformation
 keywords: [Intelligent documents, Document automation, AI infrastructure]
 permalink: /Redesigning the Digital Document- How Factify Is Reimagining PDFs for the AI Era/
 ---

@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Tokenized Deposits
-- Distributed Ledger Technology (DLT)
-- Atomic Settlement
 keywords: [Tokenized Deposits,Distributed Ledger Technology,Atomic Settlement]
 permalink: /TOKENIZED DEPOSITS/
 ---

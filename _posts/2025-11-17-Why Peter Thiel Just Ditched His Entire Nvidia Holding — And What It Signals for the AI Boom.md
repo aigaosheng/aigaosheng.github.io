@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Thiel
 - Nvidia
-- AI hardware
+- AI Hardware
 keywords: [Nvidia, Thiel Macro, AI investment]
 permalink: /Why Peter Thiel Just Ditched His Entire Nvidia Holding — And What It Signals for the AI Boom/
 ---

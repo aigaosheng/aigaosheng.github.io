@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- MiniMax M2.5
 - Model Performance
-- Stock Momentum
 keywords: [AI models, benchmarking, Hong Kong stock]
 permalink: /MiniMax Weekly Intelligence Report, Feb 21, 2026/
 ---

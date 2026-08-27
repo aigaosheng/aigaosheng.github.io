@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key funding news
-- crypto finance
-- Veera Singapore
-
+- Crypto Finance
 keywords: [Veera, crypto funding, on-chain finance]
 permalink: /Veera’s $10M Boost - Inside the Singapore Crypto Startup Redefining On-Chain Finance/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Gemini expansion
-- AI partnerships
-- regulatory scrutiny
+- AI Partnerships
 keywords: [Google AI, Gemini app growth, cloud partnership]
 permalink: /Google AI Push- Strategic Telecom Partnership, Explosive Gemini Growth, Regulatory Headwinds, and AI Spending Surge, Feb 7, 2026/
 ---

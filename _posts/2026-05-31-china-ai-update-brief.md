@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-governance
-- robotics
-- satellite-ai
-- computing-infrastructure
-- world-intelligence-expo
+- AI Governance
+- Robotics
+- Computing Infrastructure
 keywords: [ai-governance, robotics, satellite-ai, computing-infrastructure, world-intelligence-expo]
 permalink: /china-ai-update-brief-2026-05-31/
 ---

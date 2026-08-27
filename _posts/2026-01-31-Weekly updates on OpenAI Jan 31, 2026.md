@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Infrastructure
-- Strategic Funding
-- IPO Preparation
 keywords: [OpenAI, Investment, AI Funding]
 permalink: /Weekly updates on OpenAI Jan 31, 2026/
 ---

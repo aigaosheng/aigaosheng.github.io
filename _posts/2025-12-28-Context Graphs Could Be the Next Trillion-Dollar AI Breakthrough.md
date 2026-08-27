@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI context graphs
-- enterprise AI strategy
-- decision intelligence
+- Enterprise AI Strategy
 keywords: [context graph, enterprise AI, decision traces]
 permalink: /Context Graphs Could Be the Next Trillion-Dollar AI Breakthrough/
 ---

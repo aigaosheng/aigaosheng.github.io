@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum technology
-- China tech race
-- quantum computing
+- Quantum Technology
+- China Tech Race
+- Quantum Computing
 keywords: [quantum, China, technology]
 permalink: /China's Quantum Leap – How Beijing Is Closing the Technology Gap with the US/
 ---

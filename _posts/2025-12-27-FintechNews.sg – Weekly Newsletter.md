@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- fintech
-- blockchain
-- digital assets
+- Fintech
+- Blockchain
+- Digital Assets
 keywords: [fintech, blockchain, digital assets]
 permalink: /FintechNews.sg – Weekly Newsletter/
 ---

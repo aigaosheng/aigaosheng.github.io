@@ -10,7 +10,6 @@ tags:
 - China AI
 - Embodied AI
 - Regulation
-- Data Sovereignty
 - AI Plus
 keywords: [China AI, Embodied Intelligence, AI Regulation, Data Tokens, World Intelligence Expo]
 permalink: /China-AI-Brief-2026-05-29/

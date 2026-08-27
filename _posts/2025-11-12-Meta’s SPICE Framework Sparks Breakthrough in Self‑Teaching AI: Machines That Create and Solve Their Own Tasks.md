@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- self‑improving AI
-- SPICE framework
-- self‑play reasoning
+- Self‑play Reasoning
 keywords: [AI reasoning, self‑play AI, Meta FAIR]
 permalink: /Meta’s SPICE Framework Sparks Breakthrough in Self‑Teaching AI - Machines That Create and Solve Their Own Tasks/
 ---

@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- ai-governance
-- ai-risk
-- responsible-ai
+- AI Governance
+- AI Risk
+- Responsible AI
 keywords: [ai-governance, ai-risk, responsible-ai]
 permalink: /AI-governance-&-risk-Brief-2026-08-17/
 

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- open source security
-- SOC automation
+- Agentic AI
+- SOC Automation
 keywords: [AI cybersecurity, autonomous agents, security-operations]
 permalink: /The AI Arms Race Hits the SOC - How CrowdStrike & NVIDIA Are Giving Defenders the Edge/
 ---

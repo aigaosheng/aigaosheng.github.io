@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI errors
-- US courts
-- judicial automation]  
+- Judicial Automation]
 keywords: [artificial intelligence, court rulings, legal technology]
 permalink: /How AI Errors Shook the US Courts - Judges Sound Alarm on Automated Decisions/
 ---

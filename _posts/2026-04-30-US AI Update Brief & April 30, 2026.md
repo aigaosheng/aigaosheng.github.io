@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- US AI policy 2026
-- Pentagon AI contracts
-- Google military AI deal
+- Google Military AI Deal
 keywords: [US AI policy 2026, Pentagon AI contracts, Google military AI deal]
 permalink: /US AI Update Brief & April 30, 2026/
 ---

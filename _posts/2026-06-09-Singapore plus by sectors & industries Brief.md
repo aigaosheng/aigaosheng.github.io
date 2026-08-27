@@ -11,7 +11,6 @@ tags:
 - Retail
 - Manufacturing
 - STI
-- REITs
 - Energy
 - Employment
 keywords: [Singapore, Economy, Retail Sales, Manufacturing, STI, REITs, Energy, Employment]

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- US jobs report April 2026
-- AI semiconductor stocks
-- Federal Reserve interest rates
+- US Jobs Report April 2026
 keywords: [US jobs report April 2026, AI semiconductor stocks, Federal Reserve interest rates]
 permalink: /US Sector Update Brief — May 9, 2026/
 ---

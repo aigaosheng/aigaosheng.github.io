@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- large language model
-- finance AI evaluation
-- real-world finance tasks
+- Large Language Models
 keywords: [AI finance, LLM risk, model evaluation]
 permalink: /When Even the Smartest AI Falters — 200 Finance Experts Put GPT-5 Gemini 2.5 Pro and Claude Sonnet 4.5 to the Test/
 ---

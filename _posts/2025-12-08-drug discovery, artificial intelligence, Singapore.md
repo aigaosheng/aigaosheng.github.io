@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- ChemLex
-- AI-powered drug discovery
-- autonomous lab
+- AI-Powered Drug Discovery
 Top SEO words: drug discovery, artificial intelligence, Singapore
 keywords: [drug discovery, artificial intelligence]
 permalink: /ChemLex Raises US$45M, Launches Autonomous AI Lab in Singapore — A New Era for Drug Discovery/

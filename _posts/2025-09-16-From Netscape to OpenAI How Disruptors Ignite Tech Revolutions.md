@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- Dot.com era
-- AI era
-- Netscape
+- Dot.com Era
+- AI Era
 - OpenAI
+
 ---
 ---
 # 🌐 From Netscape to OpenAI: How Disruptors Ignite Tech Revolutions

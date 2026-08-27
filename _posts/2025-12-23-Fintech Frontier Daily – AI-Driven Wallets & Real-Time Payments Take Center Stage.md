@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI 
-- RealTime Payments
+- Agentic AI
 - DigitalWallets
 keywords: [Fintech Trends 2026, Payments Innovation, Wallet Ecosystem]
 permalink: /Fintech Frontier Daily – AI-Driven Wallets & Real-Time Payments Take Center Stage/

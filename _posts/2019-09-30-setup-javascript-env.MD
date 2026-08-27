@@ -7,7 +7,7 @@ published: true
 header-img: image/rawa-sun-falling.jpg
 catalog: true
 categories: [javascript, node.js] 
-tags: [computer program, javascript, nvm, node.js]
+tags: [Computer Program, Javascript, Nvm, Node.js]
 ---
 
 <h3> Setup javascript development environment </h3>

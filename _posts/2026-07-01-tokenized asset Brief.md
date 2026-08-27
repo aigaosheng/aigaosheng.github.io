@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: [Digital Assets, Tokenization]
 tags:
-- tokenization
+- Tokenization
 - RWA
-- blockchain
+- Blockchain
 keywords: [tokenization, real-world assets, blockchain]
 permalink: /tokenized-asset-Brief-2026-07-01/
 ---

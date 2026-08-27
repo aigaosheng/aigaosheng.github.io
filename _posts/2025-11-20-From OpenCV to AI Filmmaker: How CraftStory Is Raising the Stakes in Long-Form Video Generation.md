@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI video
-- generative video
-- CraftStory
+- Generative Video
 keywords: [long-form video, diffusion architecture, computer vision]
 permalink: /From OpenCV to AI Filmmaker - How CraftStory Is Raising the Stakes in Long-Form Video Generation/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure financing
-- Sale-leaseback strategy
-- Private credit investment
+- AI Infrastructure Financing
 keywords: [Meta AI data center, $27B AI deal, Blue Owl Capital]
 permalink: /Meta’s $27 Billion AI Data Center Deal Unpacking the Financial Engineering/
 ---

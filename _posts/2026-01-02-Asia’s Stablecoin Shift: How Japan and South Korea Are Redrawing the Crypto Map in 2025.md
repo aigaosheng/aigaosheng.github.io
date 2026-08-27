@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key stablecoins,
-- local currency crypto,
-- Japan South Korea crypto
+- Japan South Korea Crypto
 keywords: [stablecoin, Asia crypto, digital yen]
 permalink: /Asia’s Stablecoin Shift - How Japan and South Korea Are Redrawing the Crypto Map in 2025/
 ---

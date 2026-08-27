@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI chatbot
-- child protection
-- online safety]
+- AI Chatbots
+- Online Safety
 keywords: [chatbot safety, AI regulation, children’s online safety]
 permalink: /Australia Turns the Spotlight on AI Chatbots- Demanding Child-Protection Details/
 ---

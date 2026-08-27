@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Gemini upgrades
-- AI image & music tools
-- Discover core search update
+- AI Image & Music Tools
 keywords: [AI, Google, Gemini]
 permalink: /Google Weekly insight analysis report Feb 28, 2026/
 ---

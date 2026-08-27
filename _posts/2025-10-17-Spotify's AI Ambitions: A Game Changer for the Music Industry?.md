@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Spotify
-- AI music tools
-- record labels
+- AI Music Tools
 keywords: [Spotify AI, music industry, AI tools]
 ---
 **Spotify's AI Ambitions: A Game Changer for the Music Industry?**

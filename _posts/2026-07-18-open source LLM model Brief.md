@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-  - OpenSourceLLM
-  - AIModels
-  - LLM
+- OpenSourceLLM
+- LLM
 keywords: [Open Source LLM, AI Models, Open Weights]
 permalink: /open-source-LLM-model-Brief-2026-07-18/
 ---

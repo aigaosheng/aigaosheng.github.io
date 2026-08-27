@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Neuro‑Symbolic AI
-- Hybrid Intelligence
-- AI Reasoning Systems
+- Neuro-Symbolic AI
 keywords: [Neuro‑Symbolic AI, Neuro‑Symbolic Architecture, Explainable AI (XAI)]
 permalink: /The state of Neuro‑Symbolic Artificial Intelligence (NSAI NeSy AI)/
 ---

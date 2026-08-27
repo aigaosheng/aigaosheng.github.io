@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Caffeine AI
-- Dfinity
 - Natural Language Processing
 keywords: [AI app development, decentralized applications, Internet Computer Protocol]
 ---

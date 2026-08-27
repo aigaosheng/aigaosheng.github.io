@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Perplexity AI
-- Search API
-- AI-powered search
+- AI-Powered Search
+
 ---
 ---
 ## Perplexity’s Search API: The New Challenger to Google’s Search Monopoly

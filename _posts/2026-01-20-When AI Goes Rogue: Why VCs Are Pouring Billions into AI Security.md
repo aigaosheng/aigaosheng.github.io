@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI security
-- rogue agents
-- shadow AI
+- AI Security
+- Shadow AI
 keywords: [AI security, enterprise AI, cybersecurity investment]
 permalink: /When AI Goes Rogue- Why VCs Are Pouring Billions into AI Security/
 ---

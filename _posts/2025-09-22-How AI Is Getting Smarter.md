@@ -7,11 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- RL environments
-- Reinforcement learning
+- RL Environments
+- Reinforcement Learning
 - AI
-- Continuous learning
+- Continuous Learning
 - Scale AI
+
 ---
 ---
 

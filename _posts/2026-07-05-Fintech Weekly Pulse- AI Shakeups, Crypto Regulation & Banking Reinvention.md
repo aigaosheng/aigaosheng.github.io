@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI banking
-- stablecoins
-- payments
+- AI Banking
+- Stablecoins
+- Payments
 keywords: [AI fintech, digital payments, crypto regulation]
 permalink: /Fintech Weekly Pulse- AI Shakeups, Crypto Regulation & Banking Reinvention/
 ---

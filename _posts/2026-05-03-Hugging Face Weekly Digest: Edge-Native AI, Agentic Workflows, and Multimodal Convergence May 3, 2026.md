@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Hugging Face trending models
-- multimodal AI research
-- agentic workflows
-- open source LLMs
-- edge inference optimization
+- Hugging Face Trending Models
+- Agentic Workflows
+- Open Source LLMs
 keywords: [quantization, interoperability, diffusion, reasoning, deployment]
 permalink: /Hugging Face Weekly Digest- Edge-Native AI, Agentic Workflows, and Multimodal Convergence May 3, 2026/
 ---

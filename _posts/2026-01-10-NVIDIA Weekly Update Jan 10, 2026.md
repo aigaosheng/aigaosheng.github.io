@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Rubin AI platform
-- DRIVE Hyperion ecosystem
-- Alpamayo autonomy models
+- DRIVE Hyperion Ecosystem
 keywords: [NVIDIA CES 2026, AI infrastructure, autonomous vehicle AI]
 permalink: /NVIDIA Weekly Update Jan 10, 2026/
 ---

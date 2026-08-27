@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Huawei Kirin 9030
-- SMIC semiconductors
-- China chip manufacturing
+- China Chip Manufacturing
 keywords: [Huawei, China chip, Mate 80]
 permalink: /China Chip Moment - Huawei Mate 80 Debuts With Upgraded Homegrown Processor/
 ---

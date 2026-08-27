@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China's AI ambitions
-- Nvidia chip export ban
-- Xinjiang data centers
+- Nvidia Chip Export Ban
 keywords: [China AI, Nvidia chips, data centers] 
 ---
 **Inside China’s Secret AI Desert Empire: How Tens of Thousands of Banned Nvidia Chips Are Powering the Future of Artificial Intelligence**

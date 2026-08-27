@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- tech banking
-- digital assets regulation
-- innovation economy bank
+- Digital Assets Regulation
 keywords: [bank charter, fintech, crypto banking]
 ---
 **Banking Meets Silicon Valley: Why Erebor’s Conditional Charter Could Be a Game-Changer**

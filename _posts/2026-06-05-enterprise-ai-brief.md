@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-agents
-- enterprise-governance
-- cloud-partnerships
-- private-ai
-- healthcare-ai
+- AI Agents
+- Enterprise-Governance
+- Healthcare AI
 keywords: [ai-agents, enterprise-governance, cloud-partnerships, private-ai, healthcare-ai]
 permalink: /enterprise-ai-brief-2026-06-05/
 ---

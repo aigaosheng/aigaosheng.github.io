@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- diffusion model
-- code generation
-- AI startup]
+- Diffusion Model]
+- AI Startup]
 Top 3 SEO words: 
 
 keywords: [diffusion, code, text]

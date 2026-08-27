@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore AI summit
-- MAS monetary policy
-- Singapore stock market update
+- Singapore Stock Market Update
 keywords: [Singapore AI summit, MAS monetary policy, Singapore stock market update]
 permalink: /SINGAPORE PLUS Brief & 2026-05-05/
 ---

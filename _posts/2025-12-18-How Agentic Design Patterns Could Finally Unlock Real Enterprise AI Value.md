@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- key enterprise AI 
-- agentic design patterns
-- context engineering
+- Key Enterprise AI
+- Context Engineering
 keywords: [enterprise AI, agentic AI, AI architecture]
 permalink: /How Agentic Design Patterns Could Finally Unlock Real Enterprise AI Value/
 ---

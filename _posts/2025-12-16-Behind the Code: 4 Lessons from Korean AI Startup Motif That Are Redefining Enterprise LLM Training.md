@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI 
-- LLM training
-- AI infrastructure
+- Enterprise AI
+- LLM Training
+- AI Infrastructure
 keywords: [AI training, large language models, enterprise AI]
 permalink: /Behind the Code - 4 Lessons from Korean AI Startup Motif That Are Redefining Enterprise LLM Training/
 ---

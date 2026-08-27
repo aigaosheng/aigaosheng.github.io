@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- European industrial renaissance
-- AI defense spending
-- tech-driven industrial growth
+- European Industrial Renaissance
 keywords: [AI growth, defense innovation, European industry]
 permalink: /How AI-Driven Defense Is Set to Revive European Industrial Power in 2026/
 ---

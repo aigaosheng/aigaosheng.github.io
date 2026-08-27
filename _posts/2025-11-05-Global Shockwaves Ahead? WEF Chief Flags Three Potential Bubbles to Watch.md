@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- bubbles
 - AI
-- debt
 keywords: [global economy market bubble, artificial intelligence]
 permalink: /Global Shockwaves Ahead? WEF Chief Flags Three Potential Bubbles to Watch/
 ---

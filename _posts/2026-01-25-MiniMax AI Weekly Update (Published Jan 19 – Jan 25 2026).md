@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- MiniMax partnership expansion
-- Conversational AI integration
-- Multimodal speech technology
+- MiniMax Partnership Expansion
 keywords: [AI models, real‑time interaction,multilingual TTS]
 permalink: /MiniMax AI Weekly Update (Published Jan 19 – Jan 25 2026)/
 ---

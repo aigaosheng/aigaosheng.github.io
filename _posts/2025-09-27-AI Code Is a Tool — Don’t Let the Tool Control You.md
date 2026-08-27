@@ -7,7 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI code
+- AI Code
+
 ---
 ---
 # AI Code Is a Tool — Don’t Let the Tool Control You

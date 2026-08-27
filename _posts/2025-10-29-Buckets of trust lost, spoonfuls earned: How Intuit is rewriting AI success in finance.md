@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- financial AI
-- explainable AI
-- enterprise AI
+- Financial AI
+- Enterprise AI
 keywords: [Intuit, AI agents, finance software]
 permalink: /Buckets of trust lost, spoonfuls earned - How Intuit is rewriting AI success in finance/
 ---

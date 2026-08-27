@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore Budget 2026 
-- AI workforce support
-- SkillsFuture AI training
+- SkillsFuture AI Training
 keywords: [AI training, workforce upskilling, Singapore Budget]
 permalink: /Singapore Budget 2026- A Strategic Boost for AI Skills, Tools and Workforce Resilience/
 ---

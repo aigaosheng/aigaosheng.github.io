@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI evaluation
-- judge builder
-- enterprise AI
+- AI Evaluation
+- Enterprise AI
 keywords: [AI-evaluation, enterprise-AI, model-governance]
 permalink: /When AI Can't Judge Itself — and Why That Matters/
 ---

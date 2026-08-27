@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - Government Shutdown
-- AI Optimism
 - Federal Reserve
+
 ---
 ---
 

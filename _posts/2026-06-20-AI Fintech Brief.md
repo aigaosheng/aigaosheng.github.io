@@ -11,7 +11,7 @@ tags:
 - Fintech
 - Agentic AI
 - Digital Payments
-- Regtech
+- RegTech
 keywords: [AI, Fintech, Agentic AI, Digital Payments, Regtech, Wealth Management, Islamic Finance]
 permalink: /AI-Fintech-Brief-2026-06-20/
 ---

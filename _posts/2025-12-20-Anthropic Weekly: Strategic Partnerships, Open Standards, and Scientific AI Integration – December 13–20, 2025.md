@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI partnerships
-- Open standards (Agent Skills/MCP)
-- Government & scientific collaboration
+- Government & Scientific Collaboration
 keywords: [enterprise AI, AI standards, scientific AI]
 permalink: /Anthropic Weekly - Strategic Partnerships, Open Standards, and Scientific AI Integration – December 13–20, 2025/
 ---

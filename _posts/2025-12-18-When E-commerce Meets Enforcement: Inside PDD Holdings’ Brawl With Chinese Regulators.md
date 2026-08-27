@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- PDD Holdings
-- regulatory clash
-- China e-commerce
+- Regulatory Clash
 keywords: [e-commerce, China regulators, PDD Holdings]
 permalink: /When E-commerce Meets Enforcement - Inside PDD Holdings’ Brawl With Chinese Regulators/
 ---

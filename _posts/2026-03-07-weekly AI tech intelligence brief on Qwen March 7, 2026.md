@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Leadership Transition
 - Foundation Model Strategy
-- Global AI Competition
 keywords: [ Alibaba, Qwen, Task Force ]
 permalink: /weekly AI tech intelligence brief on Qwen March 7, 2026/
 ---

@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Infrastructure & Photonics
-- Commercial Space Economy
-- Behavioral Health Tech
 keywords: [venture capital 2026, AI startup funding, Sequoia investments, space tech unicorn, mental health platform, YC portfolio, deep tech VC, Series E funding, co-packaged optics, Lightspeed startup]
 permalink: /VC Pulse- Top Deals of the Week Mar 1–7, 2026/
 ---

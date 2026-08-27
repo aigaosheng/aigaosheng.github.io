@@ -7,7 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI deployment, agentic AI production, AI governance guardrails
+- Enterprise AI Deployment, Agentic AI Production, AI Governance Guardrails
 keywords: [enterprise AI deployment, agentic AI production, AI governance guardrails]
 permalink: /Enterprise AI Brief — 05.14.2026/
 ---

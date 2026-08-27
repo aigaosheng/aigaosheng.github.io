@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agents
-- financial services
-- automation
+- AI Agents
+- Financial Services
+- Automation
 keywords: [agentic, compliance, fraud detection]
 permalink: /AI Agents Are Revolutionizing Finance — But the Real Work Is in Building Them Right/
 ---

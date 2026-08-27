@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- open banking
-- valuation
-- compliance
+- Open Banking
+- Valuation
+- Compliance
 keywords: [fintech news, digital assets, startup funding]
 permalink: /Fintech Frontiers Weekly — Valuations, Open Banking & IPO Watch/
 ---

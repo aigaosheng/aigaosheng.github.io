@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- neuro-symbolic AI  
-- symbolic reasoning  
-- large language models
+- Neuro-Symbolic AI
+- Large Language Models
 keywords: [neuro-symbolic AI,symbolic reasoning,large language models]
 permalink: /Paper summary - The Future Is Neuro-Symbolic - Where Has It Been, and Where Is It Going/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI in finance
-- Financial regulation
-- Cybersecurity in banking
+- AI in Finance
+- Financial Regulation
 keywords: ["AI in finance","Financial regulation","Cybersecurity in banking"]
 ---
 ---

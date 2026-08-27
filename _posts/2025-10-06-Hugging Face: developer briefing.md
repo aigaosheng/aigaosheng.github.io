@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- multimodal models
-- model efficiency
+- Multimodal Models
+- Model Efficiency
 - Hugging Face Hub
-- inference acceleration
+
 ---
 ---
 

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI banking
-- BBVA OpenAI partnership
-- ChatGPT Enterprise
+- AI Banking
 keywords: [AI transformation, generative AI, digital banking]
 permalink: /Banking on the Future - How BBVA and OpenAI Are Redefining AI in Finance/
 ---

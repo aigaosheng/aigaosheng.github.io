@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenization
-- rwa
-- tokenized-equities
-- market-structure
-- digital-securities
+- Tokenization
+- RWA
+- Tokenized-Equities
+- Digital Securities
 keywords: [tokenization, rwa, tokenized-equities, market-structure, digital-securities]
 permalink: /tokenized-asset-brief-2026-06-02/
 ---

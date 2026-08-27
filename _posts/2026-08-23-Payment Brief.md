@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- payments
-- stablecoins
-- agentic-payments
+- Payments
+- Stablecoins
+- Agentic Payments
 keywords: [payments, stablecoins, agentic-payments]
 permalink: /Payment-Brief-2026-08-23/
 

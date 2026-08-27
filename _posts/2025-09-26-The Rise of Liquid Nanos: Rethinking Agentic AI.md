@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Liquid Nanos
-- Edge AI models
-- Compact task-specific agents
+- Compact Task-Specific Agents
+
 ---
 ---
 ## The Rise of Liquid Nanos: Rethinking Agentic AI

@@ -8,10 +8,6 @@ status: publish
 categories: []
 tags:
 - Hugging Face
-- embedding benchmark
-- vector search
-- retrieval systems
-- model ecosystem
 keywords: [benchmark, retrieval, embedding, ecosystem, innovation]
 permalink: /Emerging Trends on the Hugging Face Hub- Next-Gen Benchmarks, Embedding Standards and Vector Retrieval Innovation/
 ---

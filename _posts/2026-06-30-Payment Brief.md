@@ -9,7 +9,7 @@ categories: [Payments, FinTech]
 tags:
 - Payments
 - Digital Payments
-- FinTech
+- Fintech
 keywords: [payments, digital payments, fintech]
 permalink: /Payment-Brief-2026-06-30/
 ---

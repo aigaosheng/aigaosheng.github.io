@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- keyword1 AI customs Indonesia
-- keyword2 Trade AI investment
-- keyword3 customs modernization
+- keyword1 AI Customs Indonesia
 keywords: [artificial intelligence, customs enforcement, Indonesia trade]
 permalink: /Inside Indonesia’s $2.7M AI Customs Play - Trade AI Aims to Supercharge Border Enforcement/
 ---

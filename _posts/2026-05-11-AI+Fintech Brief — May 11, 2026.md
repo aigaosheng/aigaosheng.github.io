@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agent payments infrastructure
-- fintech AI funding 2026
-- autonomous financial agents
+- AI Agent Payments Infrastructure
 keywords: [AI agent payments infrastructure, fintech AI funding 2026, autonomous financial agents]
 permalink: /AI+Fintech Brief — May 11, 2026/
 ---

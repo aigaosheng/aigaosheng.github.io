@@ -6,10 +6,9 @@ type: post
 published: true
 status: publish
 categories: []
-tags: 
-- AI infrastructure  
-- Defense tech  
-- Venture concentration  
+tags:
+- AI Infrastructure
+- Defense-Tech
 keywords: [venture capital funding, startup Series A, AI investment trends] 
 permalink: /VC Pulse- Top-Tier Funding Signals (April 12-19, 2026)/
 ---

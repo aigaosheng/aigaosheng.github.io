@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- china-ai
-- us-ai
-- ai-geopolitics
+- China AI
+- US AI
+- AI Geopolitics
 keywords: [china-ai, us-ai, ai-geopolitics]
 permalink: /China-AI-vs-US-AI-Brief-2026-08-15/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- VibeThinker
-- open-source LLM
-- reasoning AI
+- Open-Source LLM
+- Reasoning AI
 keywords: [compact AI, efficient LLM, enterprise AI deployment]
 permalink: /Small but Mighty - Weibo’s VibeThinker-1.5B Redefines Efficiency in the AI Race/
 ---

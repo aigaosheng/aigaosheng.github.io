@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI safety
-- deepfake regulation
-- Grok X ban
+- AI Safety
 keywords: [AI safety, deepfake regulation, Grok X ban]
 permalink: /Indonesia Threatens to Ban Grok and X Over Sexualized AI Content — A Turning Point in AI Safety?/
 ---

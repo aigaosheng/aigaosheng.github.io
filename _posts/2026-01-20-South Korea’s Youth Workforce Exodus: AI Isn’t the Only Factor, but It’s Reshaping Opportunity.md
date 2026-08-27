@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- South Korea youth labor
-- AI job market
-- workforce inactivity
+- South Korea Youth Labor
 keywords: [AI impact, youth employment, labor market trends]
 permalink: /South Korea’s Youth Workforce Exodus- AI Isn’t the Only Factor, but It’s Reshaping Opportunity/
 ---

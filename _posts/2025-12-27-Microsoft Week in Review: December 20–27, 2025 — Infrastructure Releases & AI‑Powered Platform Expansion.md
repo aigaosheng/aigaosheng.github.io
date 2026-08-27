@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- Servicing updates
-- Developer tooling
+- AI Infrastructure
 keywords: [Azure, Copilot, Windows Update]
 permalink: /Microsoft Week in Review - December 20–27, 2025 — Infrastructure Releases & AI‑Powered Platform Expansion/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- NUS fund sale
-- private-equity secondaries
-- Asia portfolio rebalancing
+- Asia Portfolio Rebalancing
 keywords: [liquidity, alternative investments, China exposure]
 permalink: /Singapore’s Top University Sells US$500 Million to Manage Risk and Rebalance Investments/
 ---

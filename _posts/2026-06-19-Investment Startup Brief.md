@@ -11,7 +11,7 @@ tags:
 - Startup Funding
 - AI Investment
 - Cybersecurity
-- Defense Tech
+- Defense-Tech
 keywords: [venture capital, startup funding, AI investment, cybersecurity, defense tech]
 permalink: /Investment-Startup-Brief-2026-06-19/
 ---

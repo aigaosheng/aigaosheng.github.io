@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Fintech Transformation
-- Conversational Banking
 - AI Financial Services
 keywords: [AI Fintech Transformation, Conversational Banking, AI Financial Services]
 permalink: /AI + Fintech Daily April 11, 2026/

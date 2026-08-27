@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- payments
-- fintech
-- digital-wallets
+- Payments
+- Fintech
+- Digital Wallets
 keywords: [payments, fintech, digital-wallets]
 permalink: /Payment-Brief-2026-08-19/
 

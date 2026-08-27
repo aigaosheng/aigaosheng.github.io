@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI safety
-- red teaming
-- enterprise AI
+- AI Safety
+- Red Teaming
+- Enterprise AI
 keywords: [AI security, prompt injection, attack success rate]
 permalink: /When “Safe AI” Means Different Things - How Anthropic and OpenAI’s Red-Teaming Philosophies Diverge/
 ---

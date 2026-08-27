@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- SeaTown
-- private credit
-- Asia fundraising
+- Private Credit
 keywords: [SeaTown, private credit, Asia finance]
 permalink: /SeaTown Raises US$900 Million in Bold Second Close — What It Means for Asia's Private Credit Boom/
 ---

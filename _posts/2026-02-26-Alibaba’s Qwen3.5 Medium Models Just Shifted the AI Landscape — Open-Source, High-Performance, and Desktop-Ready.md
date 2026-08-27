@@ -9,7 +9,7 @@ categories: []
 tags:
 - Alibaba AI
 - Qwen3.5
-- open source LLM
+- Open-Source LLM
 keywords: [AI models, open source, large language model]
 permalink: /Alibaba’s Qwen3.5 Medium Models Just Shifted the AI Landscape — Open-Source, High-Performance, and Desktop-Ready/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI regulation China
-- AI companions regulation
-- emotional AI risks
+- AI Companions Regulation
 keywords: [AI regulation China, AI companions regulation, emotional AI risks]
 permalink: /China Wants to Regulate Human-Like AI — And It's a Sign of What's Coming Next/
 ---

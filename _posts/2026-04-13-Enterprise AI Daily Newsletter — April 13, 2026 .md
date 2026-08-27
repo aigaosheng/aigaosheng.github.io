@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI trends 2026
-- Agentic AI adoption enterprise
-- AI infrastructure sovereignty cloud
+- AI Infrastructure Sovereignty Cloud
 keywords: [Enterprise AI trends 2026, Agentic AI adoption enterprise, AI infrastructure sovereignty cloud]
 permalink: /Enterprise AI Daily Newsletter — April 13, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- gold rally 2025
-- investment strategy
-- market volatility
+- Market Volatility
 keywords: [gold price forecast, investment trends, financial markets]
 ---
 

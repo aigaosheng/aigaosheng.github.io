@@ -9,7 +9,6 @@ categories: []
 tags:
 - Tokenized Assets
 - RWA
-- Solana
 - Institutional Adoption
 - Securitize
 keywords: [Tokenized Assets, RWA, Solana, Securitize, tokenized equities]

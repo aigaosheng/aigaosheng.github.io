@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- ChatGPT
-- AI commerce
-- Conversational apps
+- chatGPT
+- AI Commerce
 keywords: [ChatGPT, AI, shopping]
 ---
 # ChatGPT Is No Longer Just a Chatbot — It’s a Shopping Mall, Assistant, and App Platform Wrapped Into One

@@ -8,11 +8,8 @@ status: publish
 categories: []
 tags:
 - AI Research
-- Mathematical AI
 - World Models
 - AI Chips
-- AI Talent
-- Computer Vision
 - AI Policy
 keywords: [AI Research, Mathematical AI, World Models, AI Chips, AI Talent, Computer Vision, AI Policy, Singapore, OpenAI, BAAI]
 permalink: /AI-Research-Brief-2026-06-18/

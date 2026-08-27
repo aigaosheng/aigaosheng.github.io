@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Cyberpsychology  
-- Human-centered AI  
-- Digital well-being
+- Digital Well-Being
+
 ---
 ---
 **How Your Brain Shapes the Digital World (And Vice Versa)**  

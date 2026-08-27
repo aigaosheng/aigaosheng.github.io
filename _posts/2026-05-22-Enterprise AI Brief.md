@@ -10,7 +10,6 @@ tags:
 - Enterprise AI
 - AI Agents
 - AI Governance
-- Google I/O
 - Funding
 keywords: [Enterprise AI, AI Agents, AI Governance, Google I/O, Semantic Layer]
 permalink: /Enterprise-AI-Brief-2026-05-22/

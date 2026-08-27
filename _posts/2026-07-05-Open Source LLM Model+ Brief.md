@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- open-source
-- llm
-- ai-models
+- Open Source
+- LLM
+- AI Models
 keywords: [open-source LLM, foundation models, AI models, Mistral, DeepSeek, Llama]
 permalink: /open-source-llm-model-brief-2026-07-05/
 ---

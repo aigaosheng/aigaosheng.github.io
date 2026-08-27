@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Claude for Financial Services
-- market-data integrations
-- enterprise AI
-- regulated workflows
+- Enterprise AI
 keywords: [Claude finance, AI Excel add-in, financial data connectors]
 permalink: /Anthropic Isn’t Chasing the Consumer AI Race — It’s Positioning Claude as the New Bloomberg Terminal Layer/
 ---

@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- AI cybersecurity
-- AI risk
-- cyber resilience
+- AI Cybersecurity
+- AI Risk
+- Cyber Resilience
 keywords: [AI cybersecurity, AI risk, cyber resilience]
 permalink: /AI-cybersecurity-and-risk-Brief-2026-08-20/
 

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Viking Global
 - AI in Finance
-- Hedge Fund Technology
 keywords: [AI chatbot, investment research, operational efficiency]
 permalink: /VikingGPT - Viking Global Investors' In-House AI Strategy/
 ---

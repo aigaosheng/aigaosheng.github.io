@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic commerce
+- Agentic Commerce
 - PayPal
-- AI shopping
+- AI Shopping
 keywords: [flexibility, agentic commerce, e-commerce]
 permalink: /Flexibility Wins - Why PayPal Is Betting on Agent-Driven Commerce, Not One Protocol to Rule Them All/
 ---

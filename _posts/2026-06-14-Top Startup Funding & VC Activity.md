@@ -9,7 +9,6 @@ categories: []
 tags:
 - Physical AI
 - Sovereign AI
-- Deep Tech VC
 keywords: [AI Infrastructure, Geothermal Energy, DeFi 2026, Jeff Bezos Investment, Mistral Valuation]
 permalink: /Top Startup Funding & VC Activity/
 ---

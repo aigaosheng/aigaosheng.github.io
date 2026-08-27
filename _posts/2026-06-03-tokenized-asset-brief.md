@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenization
-- tokenized-securities
-- rwa
-- tokenized-equities
-- money-market-funds
-- private-credit
+- Tokenization
+- Tokenized-Securities
+- RWA
+- Tokenized-Equities
+- Private Credit
 keywords: [tokenization, tokenized-securities, rwa, tokenized-equities, money-market-funds, private-credit]
 permalink: /tokenized-asset-brief-2026-06-03/
 ---

@@ -10,8 +10,6 @@ tags:
 - Open Source AI
 - AI Models
 - GLM-5.2
-- LOGOS
-- Boogu-Image
 - Enterprise AI
 keywords: [Open Source AI, GLM-5.2, LOGOS, Boogu-Image, Enterprise AI, Anthropic export controls, AI commoditization]
 permalink: /Open-Source-AI-Brief-2026-06-18/

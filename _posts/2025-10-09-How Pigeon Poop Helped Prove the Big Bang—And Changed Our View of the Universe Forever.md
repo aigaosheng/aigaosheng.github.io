@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Cosmic microwave background  
-- Big Bang theory  
-- Horn antenna
+- Cosmic Microwave Background
+
 ---
 ---
 **How Pigeon Poop Helped Prove the Big Bang—And Changed Our View of the Universe Forever**

@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- cybersecurity
-- venture capital
+- Cybersecurity
+- Venture Capital
 - AI
 keywords: [autonomous cyber, AI security, cyber resilience]
 permalink: /Method Security Scores $26M to Power AI-Driven Cyber Resilience/

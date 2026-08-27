@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI model updates
-- enterprise AI deployment
-- multimodal AI agents
+- Enterprise AI Deployment
+- Multimodal AI Agents
 keywords: [AI model updates, enterprise AI deployment, multimodal AI agents]
 permalink: /AI Leaders Brief | April 19, 2026/
 ---

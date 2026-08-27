@@ -8,9 +8,9 @@ status: publish
 categories: []
 tags:
 - Agentic AI
-- McKinsey report
+- McKinsey Report
 - 人工智能
-- 人工智能代理
+
 ---
 ---
 # 智能代理AI部署的六大经验：来自麦肯锡50多个企业项目的总结

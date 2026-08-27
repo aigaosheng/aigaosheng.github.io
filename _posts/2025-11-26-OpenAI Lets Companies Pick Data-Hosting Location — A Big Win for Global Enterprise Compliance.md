@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- data residency
-- enterprise AI
-- OpenAI compliance
+- Data Residency
+- Enterprise AI
 keywords: [OpenAI, data residency, enterprise AI deployment]
 permalink: /OpenAI Lets Companies Pick Data-Hosting Location — A Big Win for Global Enterprise Compliance/
 ---

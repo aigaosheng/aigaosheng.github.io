@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Multimodal AI models
-- Speech & music generation
-- Robotics & product expansion
+- Multimodal AI Models
 keywords: [MiniMax, AI models, generative AI]
 permalink: /MiniMax Weekly Insight Report (Jan 25 – Jan 31, 2026)/
 ---

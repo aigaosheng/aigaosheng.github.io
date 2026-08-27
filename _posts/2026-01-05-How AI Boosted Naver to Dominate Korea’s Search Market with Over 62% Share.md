@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Naver 
-- AI search 
-- market share
+- AI Search
 keywords: [Naver search share, AI-powered search, Korea search market]
 permalink: /How AI Boosted Naver to Dominate Korea’s Search Market with Over 62% Share/
 ---

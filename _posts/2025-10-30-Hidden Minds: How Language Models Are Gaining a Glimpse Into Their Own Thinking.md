@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- introspection
-- language models
-- activation steering
+- Language Models
 keywords: [introspective, language model, internal states]
 permalink: /Hidden Minds - How Language Models Are Gaining a Glimpse Into Their Own Thinking/
 ---

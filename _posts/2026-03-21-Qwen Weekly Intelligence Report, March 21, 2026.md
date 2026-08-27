@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Alibaba Token Hub
-- Wukong enterprise AI agent
-- Qwen open-source commercialisation
+- Wukong Enterprise AI Agent
 keywords: [Alibaba AI restructuring, Qwen enterprise platform, agentic AI China 2026]
 permalink: /Qwen Weekly Intelligence Report, March 21, 2026/
 ---

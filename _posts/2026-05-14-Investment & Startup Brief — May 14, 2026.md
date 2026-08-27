@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI venture capital
-- startup funding trends
-- B2B fintech India
+- AI Venture Capital
+- Startup Funding Trends
 keywords: [AI venture capital, startup funding trends, B2B fintech India]
 permalink: /Investment & Startup Brief — May 14, 2026/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- llm-memory
-- modular-ai
-- enterprise-ai
+- LLM Memory
+- Enterprise AI
 keywords: [llm-memory, modular-ai, enterprise-ai]
 permalink: /ai-research-update-brief-2026-05-31/
 ---

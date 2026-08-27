@@ -8,9 +8,7 @@ status: publish
 categories: []
 tags:
 - China AI
-- Summer Davos
 - Industrial AI
-- AI Terminals
 - Global Governance
 keywords: [China AI, Summer Davos 2026, AI industrialization, AI terminals, MWC26]
 permalink: /China-AI-Brief-2026-06-27/

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- confidential computing
-- enterprise AI security
-- regulated industries
+- Enterprise AI Security
 keywords: [AI security, confidential computing platform, enterprise AI]
 permalink: /Fortanix and NVIDIA Launch Confidential AI Platform—A Game-Changer for Regulated Industries/
 ---

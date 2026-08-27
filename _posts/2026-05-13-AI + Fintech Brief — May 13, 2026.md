@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Agentic AI
-- AML compliance
-- Risk pricing
+- AML Compliance
 keywords: [Agentic AI, AML compliance, Risk pricing]
 permalink: /AI + Fintech Brief — May 13, 2026/
 ---

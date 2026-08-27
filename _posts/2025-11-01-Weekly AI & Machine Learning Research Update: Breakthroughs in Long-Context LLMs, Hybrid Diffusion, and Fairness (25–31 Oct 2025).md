@@ -9,7 +9,6 @@ categories: []
 tags:
 - Large Language Models
 - Diffusion Models
-- Fairness & Governance
 keywords: [AI research trends 2025, LLM efficiency optimization, Hybrid generative models]
 permalink: /Weekly AI & Machine Learning Research Update - Breakthroughs in Long-Context LLMs, Hybrid Diffusion, and Fairness (25–31 Oct 2025)/
 ---

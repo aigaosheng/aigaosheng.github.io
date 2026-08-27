@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI tax  
-- govtech  
-- venture capital  
+- Venture Capital
 keywords: [AI, tax collection, govtech]
 permalink: /Game-Changer in Government Tech - AI Is Coming for Your Taxes/
 ---

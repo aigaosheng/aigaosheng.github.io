@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- crime
-- courts
-- labour
-- urban-planning
-- politics
-- sports
+- Crime
+- Labour
+- Politics
+- Sports
 keywords: [crime, courts, labour, urban-planning, politics, sports]
 permalink: /singapore-local-update-brief-2026-06-02/
 ---

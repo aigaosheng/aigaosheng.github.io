@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- embodied
-- spatiotemporal 
-- robotics
-- open source
-- foundational
+- Robotics
+- Open Source
 keywords: [embodied, spatiotemporal, robotics, open source, foundational]
 permalink: /Weekly updates of Hugging Face model and research - February 13, 2026/
 ---

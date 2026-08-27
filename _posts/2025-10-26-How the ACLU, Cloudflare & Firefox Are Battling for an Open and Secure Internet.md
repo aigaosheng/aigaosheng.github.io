@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- open internet
-- web privacy
-- AI search control
+- AI Search Control
 keywords: [internet, privacy, AI]
 permalink: /How the ACLU, Cloudflare & Firefox Are Battling for an Open and Secure Internet/
 ---

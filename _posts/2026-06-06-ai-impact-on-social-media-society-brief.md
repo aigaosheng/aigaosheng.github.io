@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- creator-tools
-- content-moderation
-- platform-governance
+- Content Moderation
+- Platform-Governance
 keywords: [creator-tools, content-moderation, platform-governance]
 permalink: /ai-impact-on-social-media-society-brief-2026-06-06/
 ---

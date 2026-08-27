@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- LLM evaluation
-- AI safety
-- AI goverance
+- LLM Evaluation
+- AI Safety
+- AI Goverance
 - Benchmarks
-- Open-Source Tools
+
 ---
 
 ---

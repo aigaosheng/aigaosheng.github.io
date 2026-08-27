@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- DeepSeek-OCR 
-- VLM
-- Document AI
 - OCR Compression
-- Context Mapping
 keywords: [OCR, DeepSeek, Vision Model, Enterprise AI,Document Parsing]
 permalink: /DeepSeek OCR Breakthrough - Compressing Vision-Language Context for Enterprise Document AI/
 ---

@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AI strategy
+- AI Strategy
 - Model Minimalism
-- Fine-tuning smaller models
+- Fine-Tuning Smaller Models
+
 ---
 ---
 

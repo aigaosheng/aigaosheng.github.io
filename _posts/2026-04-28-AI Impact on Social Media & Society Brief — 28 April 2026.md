@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI misinformation social media
-- deepfakes society impact
-- AI governance regulation
+- AI Governance & Regulation
 keywords: [AI misinformation social media, deepfakes society impact, AI governance regulation]
 permalink: /AI Impact on Social Media & Society Brief — 28 April 2026/
 ---

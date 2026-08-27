@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI drug discovery 
-- clinical trials
-- biotech innovation
+- AI Drug Discovery
 keywords: [weight-loss drug, artificial intelligence, clinical trial]
 permalink: /AI Meets Pharma - China’s MindRank Launches Phase 3 Trial for AI-Designed Weight-Loss Drug/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenized deposits
-- blockchain banking
-- real-time treasury
+- Tokenized Deposits
+- Blockchain Banking
 keywords: [tokenization, blockchain, liquidity]
 permalink: /Standard Chartered Unveils Real-Time Blockchain Tokenized Deposits — A New Era in Corporate Treasury/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-first
-- innovation culture
-- AI adoption
+- AI Adoption
 keywords: [AI transformation, enterprise AI, innovation strategy]
 permalink: /The Invisible Cost of Going “AI-First” - Why Your Company Might Be All Hype and No Substance/
 ---

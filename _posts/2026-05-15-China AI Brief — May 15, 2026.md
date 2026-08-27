@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI regulation
-- domestic AI chips China
-- open-source AI models
+- China AI Regulation
+- Open‑source AI Models
 keywords: [China AI regulation, domestic AI chips China, open-source AI models]
 permalink: /China AI Brief — May 15, 2026/
 ---

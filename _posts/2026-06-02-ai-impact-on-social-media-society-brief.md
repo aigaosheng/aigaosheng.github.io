@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- instagram-security
-- ai-governance
-- content-labeling
-- public-opinion
-- social-media-policy
+- Instagram-Security
+- AI Governance
+- Public-Opinion
 keywords: [instagram-security, ai-governance, content-labeling, public-opinion, social-media-policy]
 permalink: /ai-impact-on-social-media-society-brief-2026-06-02/
 ---

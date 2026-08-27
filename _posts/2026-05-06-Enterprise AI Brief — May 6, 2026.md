@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- AI agents
-- AI governance
+- Enterprise AI
+- AI Agents
+- AI Governance
 keywords: [enterprise AI, AI agents, AI governance]
 permalink: /Enterprise AI Brief — May 6, 2026/
 ---

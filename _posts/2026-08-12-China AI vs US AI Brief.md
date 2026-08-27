@@ -10,7 +10,7 @@ categories: []
 tags:
 - China AI
 - US AI
-- AI geopolitics
+- AI Geopolitics
 keywords: [China AI, US AI, AI geopolitics]
 permalink: /China-AI-vs-US-AI-Brief-2026-08-12/
 

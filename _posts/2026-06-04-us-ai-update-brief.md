@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-regulation
-- openai
-- semiconductors
-- nvidia
-- washington
+- AI Regulation
+- OpenAI
+- Semiconductors
+- Nvidia
 keywords: [ai-regulation, openai, semiconductors, nvidia, washington]
 permalink: /us-ai-update-brief-2026-06-04/
 ---

@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoins
-- cross-border-payments
-- merchant-acceptance
-- real-time-payments
-- digital-wallets
+- Stablecoins
+- Cross-Border Payments
+- Real-Time-Payments
+- Digital Wallets
 keywords: [stablecoins, cross-border-payments, merchant-acceptance, real-time-payments, digital-wallets]
 permalink: /payment-brief-2026-06-03/
 ---

@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Reasoning Language Models
-- AI Blueprint Architecture
-- Trace-Based Supervision-
 keywords: [Reasoning Language Models, AI Blueprint Architecture, Trace-Based Supervision]
 permalink: /Paper reading - Reasoning Language Models - A Blueprint/
 ---

@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- open-source LLM
+- Open-Source LLM
 - Hugging Face Hub
-- agentic reinforcement learning
-- continual meta-learning
-- multimodal AI agents
+- Agentic Reinforcement Learning
+- Multimodal AI Agents
 keywords: [open-weight, inference, fine-tuning, multi-agent, policy-learning]
 permalink: /Hugging Face Weekly Digest- Self-Improving Agents, Real-Time Robotics, and the Geopolitics of Open Source AI — March 2026/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- content moderation
-- AI safety
-- OpenAI reasoning engine
+- Content Moderation
+- AI Safety
 keywords: [AI moderation, reasoning model, enterprise safety]
 permalink: /From Static Classifiers to Reasoning Engines - How OpenAI’s New Content-Moderation Model Raises the Game/
 ---

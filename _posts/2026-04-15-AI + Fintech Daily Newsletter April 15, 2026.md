@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Agentic AI Payments
-- AI-Native Fintech
-- AI Fraud Detection Finance
 keywords: [Agentic AI Payments, AI-Native Fintech, AI Fraud Detection Finance]
 permalink: /AI + Fintech Daily Newsletter April 15, 2026/
 ---

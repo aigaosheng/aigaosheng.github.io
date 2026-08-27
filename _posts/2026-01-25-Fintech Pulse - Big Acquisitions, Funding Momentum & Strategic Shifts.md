@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Acquisition
-- Expansion
+- Acquisitions
 - Funding
 keywords: [Fintech news,Fintech funding,Fintech acquisition]
 permalink: /Fintech Pulse - Big Acquisitions, Funding Momentum & Strategic Shifts/

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Korean Sovereign AI
-- Foundational Model
 - AI Efficiency Strategy
+
 ---
 ---
 **Can South Korea’s homegrown AI take on OpenAI and Google — and win?**

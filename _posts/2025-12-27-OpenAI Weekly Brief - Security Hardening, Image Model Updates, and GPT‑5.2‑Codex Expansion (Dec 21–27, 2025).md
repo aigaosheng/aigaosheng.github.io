@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- prompt injection
-- model updates
-- developer tools
+- Prompt Injection
+- Developer Tools
 keywords: [security, API, enterprise]
 permalink: /OpenAI Weekly Brief - Security Hardening, Image Model Updates, and GPT‑5.2‑Codex Expansion (Dec 21–27, 2025)/
 ---

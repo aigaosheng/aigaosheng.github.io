@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI inequality
-- digital divide
-- global development
+- Global Development
 keywords: [AI, inequality, UN report]
 permalink: /When AI Deepens Divides - Why the Next Great Divergence Could Leave Millions Behind/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI video generator
-- AI content creation
-- Deepfake video risks
+- Deepfake Video Risks
 keywords: [AI-powered video, Synthetic media, Video creation tools]
 permalink: /The AI Video Revolution - Why Americans Should Care/
 ---

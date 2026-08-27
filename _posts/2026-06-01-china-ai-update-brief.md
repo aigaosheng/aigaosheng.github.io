@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- china-ai
-- export-controls
-- minimax
-- outbound-investment
-- surveillance
+- China AI
+- Export Controls
+- MiniMax
+- Surveillance
 keywords: [china-ai, export-controls, minimax, outbound-investment, surveillance]
 permalink: /china-ai-update-brief-2026-06-01/
 ---

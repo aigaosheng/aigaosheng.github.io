@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Next Big Technology 
 - AI
+
 ---
 ---
 # The Next Big Technology After AI and Investment Opportunities

@@ -9,7 +9,7 @@ categories: []
 tags:
 - Venture Capital
 - AI Infrastructure
-- DeepTech
+- Deeptech
 keywords: [Venture Capital, AI Infrastructure, DeepTech]
 permalink: /Investment Startup Daily Newsletter April 6, 2026/
 ---

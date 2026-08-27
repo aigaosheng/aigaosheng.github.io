@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Claude Code
-- AI-powered development
-- Browser-based coding
 keywords: [AI coding assistant, Developer tools, Cloud-based development]
 permalink: /Claude Code Goes Browser-Based - Anthropic's Bold Move to Democratize AI-Powered Development/
 ---

@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- ai
-- startup
-- investment
+- AI
+- Startups
+- Investment
 keywords: [ai, startup, investment]
 permalink: /Investment+Startup-AI-Brief-2026-08-05/
 

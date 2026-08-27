@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- Payment
+- Payments
 - Cross-Border Payments
 - Stablecoins
 - Digital Wallets
-- Treasury
 keywords: [Payment, Cross-Border Payments, Stablecoins, Digital Payments, Treasury Management]
 permalink: /Payment-Brief-2026-06-10/
 ---

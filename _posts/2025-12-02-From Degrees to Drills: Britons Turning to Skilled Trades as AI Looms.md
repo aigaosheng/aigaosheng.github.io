@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI job displacement
-- skilled trades resurgence
-- vocational training
+- Skilled Trades Resurgence
 keywords: [AI jobs, skilled trades, UK young workers]
 permalink: /From Degrees to Drills - Britons Turning to Skilled Trades as AI Looms/
 ---

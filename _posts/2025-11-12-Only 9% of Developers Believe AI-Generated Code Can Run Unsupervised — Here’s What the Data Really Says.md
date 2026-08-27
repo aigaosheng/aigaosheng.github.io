@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-generated code
-- developer roles
-- software engineering trends
+- Software Engineering Trends
 keywords: [AI code, developer survey, software development 2026]
 permalink: /Only 9% of Developers Believe AI-Generated Code Can Run Unsupervised — Here’s What the Data Really Says/
 ---

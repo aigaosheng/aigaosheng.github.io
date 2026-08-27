@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI domination
-- Enterprise adoption
-- Security & governance
+- Enterprise Adoption
 keywords: [Anthropic, Series G Funding, AI Startup News]
 permalink: /Weekly Top Venture Funding & Startup Moves — Feb 7–13 2026/
 ---

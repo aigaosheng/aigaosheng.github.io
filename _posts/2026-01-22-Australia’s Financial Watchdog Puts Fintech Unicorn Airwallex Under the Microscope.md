@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Airwallex
-- AUSTRAC
-- compliance audit
+- Compliance Audit
 keywords: [fintech, compliance, AML/CTF]
 
 permalink: /Australia’s Financial Watchdog Puts Fintech Unicorn Airwallex Under the Microscope/

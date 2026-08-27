@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI accountability
-- legal AI
-- completeness metrics
+- Completeness Metrics
 keywords: [AI reliability, generative AI, enterprise AI tools]
 permalink: /When “Accurate” Isn’t Enough- The Hidden Gaps in Today’s AI Systems/
 ---

@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-agents
-- Staking-infra
-- Mmbedded-fintech
-- Solana-ecosystem
-- Vertical-AI
+- AI Agents
+- Vertical AI
 keywords: [a16z, Lightspeed, Accel, Solana, SoftBank]
 ---
 

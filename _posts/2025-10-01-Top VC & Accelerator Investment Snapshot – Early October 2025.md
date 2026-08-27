@@ -8,9 +8,7 @@ status: publish
 categories: []
 tags:
 - AI Agents
-- Developer Tools / AI Infra
-- Late-Stage Growth / Unicorns
-- VC / Accelerator Activity
+
 ---
 ---
 **Top VC & Accelerator Investment Snapshot – Early October 2025**

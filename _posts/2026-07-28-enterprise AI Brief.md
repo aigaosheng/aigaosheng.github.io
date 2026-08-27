@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise-ai
-- generative-ai
-- ai-governance
+- Enterprise AI
+- Generative AI
+- AI Governance
 keywords: [enterprise-ai, generative-ai, ai-governance]
 permalink: /enterprise-AI-Brief-2026-07-28/
 ---

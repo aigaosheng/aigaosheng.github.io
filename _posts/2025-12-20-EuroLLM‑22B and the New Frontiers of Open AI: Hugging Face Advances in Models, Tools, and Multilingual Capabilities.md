@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- EuroLLM‑22B
-- Hugging Face models
-- multilingual LLMs
-- open‑source AI
-- developer workflows
+- Hugging Face Models
+- Open Source AI
 keywords: [EuroLLM‑22B, Hugging Face models, multilingual LLMs, open‑source AI, developer workflows]
 permalink: /EuroLLM‑22B and the New Frontiers of Open AI - Hugging Face Advances in Models, Tools, and Multilingual Capabilities/
 ---

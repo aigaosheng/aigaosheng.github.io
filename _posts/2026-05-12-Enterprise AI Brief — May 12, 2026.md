@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI adoption-
-- AI governance compliance- agentic AI workflows
+- Enterprise AI Adoption
 keywords: [enterprise AI adoption, AI governance compliance, agentic AI workflows]
 permalink: /Enterprise AI Brief — May 12, 2026/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- ong Kong investment fund
-- fintech growth
-- AI startups
+- Fintech Growth
+- AI Startups
 keywords: [innovation, investment, technology]
 permalink: /Hong Kong’s $8B Strategic Bet- Fueling Fintech, Aerospace & AI for the Next Tech Era/
 ---

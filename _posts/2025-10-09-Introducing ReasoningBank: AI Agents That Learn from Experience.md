@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- ReasoningBank
 - AI Agent Memory
-- Test-Time Scaling
+
 ---
 ---
 [![New memory framework builds AI agents that can handle the real world's unpredictability | VentureBeat](https://images.openai.com/thumbnails/url/2zwsK3icu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7RLfAt9qiIz4gs9kwyN_DM8gitSPQOcHcJjCgqD3Zz0_XKLUxMS6809TBMVyu2NTQAABBeJQk)](https://venturebeat.com/ai/new-memory-framework-builds-ai-agents-that-can-handle-the-real-worlds)

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Qwen App consumer AI
-- Multimodal productionization
-- Ecosystem integration
+- Ecosystem Integration
 keywords: [Qwen AI, Alibaba AI, consumer AI app]
 permalink: /Qwen Weekly Insight - Consumer AI Expansion & Deep Integration with Alibaba Ecosystem/
 ---

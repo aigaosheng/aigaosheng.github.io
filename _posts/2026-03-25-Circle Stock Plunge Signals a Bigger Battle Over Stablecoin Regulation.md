@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Circle stock 
-- stablecoin regulation 
-- crypto market
+- Stablecoin Regulation
+- Crypto Markets
 keywords: [stablecoin, regulation, crypto]
 permalink: /Circle Stock Plunge Signals a Bigger Battle Over Stablecoin Regulation/
 ---

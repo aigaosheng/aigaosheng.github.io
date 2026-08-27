@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- space funding
-- venture capital
-- space startups
+- Space Funding
+- Venture Capital
 keywords: [space investment, space economy, satellite technology]
 permalink: /Space Investment Soars - Tracking the $35 Billion Surge and Beyond Since 2020/
 ---

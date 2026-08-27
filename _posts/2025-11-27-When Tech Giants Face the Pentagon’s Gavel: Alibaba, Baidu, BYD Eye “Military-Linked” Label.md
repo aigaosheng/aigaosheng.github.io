@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Alibaba
-- Baidu
-- BYD
 keywords: [military-linked, 1260H list, China tech]
 permalink: /When Tech Giants Face the Pentagon’s Gavel - Alibaba, Baidu, BYD Eye “Military-Linked” Label/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- off-balance-sheet debt
-- AI infrastructure
-- special purpose vehicle
+- AI Infrastructure
 keywords: [AI investment, data centre financing, off-balance-sheet]
 permalink: /Behind the Scenes of the AI Boom - How Meta and xAI Are Raising Billions — Without Showing It on the Books/
 ---

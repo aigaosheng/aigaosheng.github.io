@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-chips
-- export-controls
-- nvidia
-- ai-policy
+- AI Chips
+- Export Controls
+- Nvidia
+- AI Policy
 keywords: [ai-chips, export-controls, nvidia, ai-policy]
 permalink: /us-ai-update-brief-2026-06-01/
 ---

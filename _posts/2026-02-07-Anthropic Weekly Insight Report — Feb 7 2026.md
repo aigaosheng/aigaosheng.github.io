@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Claude Opus 4.6
 - Enterprise AI
-- 1 Million Token Context
 keywords: [Anthropic, Claude AI, AI model upgrade]
 permalink: /Anthropic Weekly Insight Report — Feb 7 2026/
 ---

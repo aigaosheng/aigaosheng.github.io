@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Gemini 3 Flash
-- AI Model Innovation
-- Developer Adoption
 keywords: [AI, Performance, Developers]
 permalink: /Weekly Google Insight Report Dec 27 2025/
 ---

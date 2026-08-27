@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI investment
-- tech earnings
-- AI infrastructure
+- AI Investment
+- AI Infrastructure
 keywords: [artificial intelligence, tech spending, data centres]
 permalink: /Tech Titans Double‑Down - Microsoft, Google & Meta Pour Billions into AI—But Is a Bubble Forming?/
 ---

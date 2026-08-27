@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI disruption,
-- media revenue crisis
-- European publishing
+- Media Revenue Crisis
 keywords: [AI impact, media industry, Europe digital transformation]
 permalink: /When AI Hits the Newsroom - Europe’s Media Firms Face a Perfect Storm/
 ---

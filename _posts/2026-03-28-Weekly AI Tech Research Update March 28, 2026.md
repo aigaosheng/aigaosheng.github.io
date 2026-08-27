@@ -7,10 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Research 2026
 - Agentic AI
 - Multimodal Reasoning
-- Model Merging
 keywords: [Sustainable Inference, Green AI, Hardware Synthesis Agents, Cross-Model Verification]
 permalink: /Weekly AI Tech Research Update March 28, 2026/
 ---

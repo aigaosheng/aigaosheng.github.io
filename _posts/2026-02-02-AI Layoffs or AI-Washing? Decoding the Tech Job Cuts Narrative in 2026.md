@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-washing 
-- tech layoffs
-- corporate strategy
+- Tech Layoffs
 keywords: [AI layoffs, automation impact, tech industry jobs]
 permalink: /AI Layoffs or AI-Washing? Decoding the Tech Job Cuts Narrative in 2026/
 ---

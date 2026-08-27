@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- conversational AI
-- smartglasses
-- voice assistant
+- Conversational AI
 keywords:  [conversational AI, smartglasses, voice assistant]
 permalink: /Sesame Raises $250M to Put Conversational AI in Fashionable Smartglasses — Beta Now Open/
 ---

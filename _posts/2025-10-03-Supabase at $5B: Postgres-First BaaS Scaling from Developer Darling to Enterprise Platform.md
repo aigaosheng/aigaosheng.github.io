@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Developer Infrastructure
 - Postgres
-- ARR Growth
+
 ---
 ---
 

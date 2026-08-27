@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Microsoft 365 Copilot
-- Partner Promotions
-- On‑Premises Gateway
 keywords: [Microsoft, AI, updates]
 permalink: /Microsoft Weekly Insight — AI Integration, Platform Updates & Partner Momentum (Dec 13–20 2025)/
 ---

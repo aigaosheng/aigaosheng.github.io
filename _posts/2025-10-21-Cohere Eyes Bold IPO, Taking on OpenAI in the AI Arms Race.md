@@ -9,7 +9,7 @@ categories: []
 tags:
 - Cohere
 - IPO
-- artificial intelligence  
+- Artificial Intelligence
 keywords: [AI, enterprise, generative]
 permalink: /Cohere Eyes Bold IPO, Taking on OpenAI in the AI Arms Race/
 ---

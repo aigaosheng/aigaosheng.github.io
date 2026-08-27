@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-  - AI
-  - OpenAI
-  - Microsoft
-  - Nvidia
-  - US-AI
+- AI
+- OpenAI
+- Microsoft
+- Nvidia
+- US AI
 keywords: [AI, OpenAI, Microsoft, Nvidia, artificial intelligence]
 permalink: /US-AI-Brief-2026-07-08/
 ---

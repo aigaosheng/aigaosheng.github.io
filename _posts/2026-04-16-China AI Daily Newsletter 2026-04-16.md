@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI news 2026
-- AI governance China US
-- US China AI competition
+- US China AI Competition
 keywords: [China AI news 2026, AI governance China US, US China AI competition]
 permalink: /China AI Daily Newsletter 2026-04-16/
 ---

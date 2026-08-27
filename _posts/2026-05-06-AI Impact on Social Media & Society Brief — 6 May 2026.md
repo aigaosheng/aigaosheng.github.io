@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI deepfakes 2026
-- social media misinformation AI 
-- synthetic media regulation
-- AI healthcare misinformation
-- political deepfakes impact
+- Social Media Misinformation AI
 keywords: [AI deepfakes 2026, social media misinformation AI, synthetic media regulation, AI healthcare misinformation, political deepfakes impact]
 permalink: /AI Impact on Social Media & Society Brief — 6 May 2026/
 ---

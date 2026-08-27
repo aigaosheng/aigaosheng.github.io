@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- contextual integrity
-- Copilot / Foundry
+- Agentic AI
 keywords: [Microsoft, Fara-7B, Copilot]
 permalink: /Microsoft weekly - agentic models, privacy hardening, and product polish (Nov 22–29, 2025)/
 ---

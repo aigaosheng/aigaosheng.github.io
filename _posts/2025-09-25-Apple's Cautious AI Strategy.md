@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Apple AI Strategy
-- On-device AI Processing
-- AI Adoption Risks
+- On-Device AI Processing
+
 ---
 ---
 **Apple's Cautious AI Strategy: A Calculated Move or Missed Opportunity?**

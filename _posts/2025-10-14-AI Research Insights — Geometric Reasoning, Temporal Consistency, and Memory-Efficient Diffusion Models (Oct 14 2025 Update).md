@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI research trends 2025
-- LLM reasoning and optimization
-- Diffusion large language models
+- Diffusion Large Language Models
 keywords: [Generative AI, Reinforcement Learning, Representation Learning]
 ---
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- fractional trading
-- US stocks
-- digital banking
+- Digital Banking
 keywords: [investing, fractional shares, Singapore fintech]
 permalink: /Singapore’s Trust Bank Breaks Ground with In-App Fractional Trading of US Stocks & ETFs/
 ---

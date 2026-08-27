@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI drug discovery
-- Singapore biotech
-- SPAC listing
+- AI Drug Discovery
 keywords: [AI, biotech, drug discovery]
 permalink: /Singapore’s AI-Powered Biotech Gambit - Nanyang Biologics Races Toward a US$1.5B Nasdaq Debut/
 ---

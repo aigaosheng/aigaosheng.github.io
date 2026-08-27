@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Botnets
 - Brand Reputation Management
-- Digital Disinformation
+
 ---
 ---
 # Bots Are Hijacking Your Favorite Brands—and You’re the Audience

@@ -9,7 +9,6 @@ categories: []
 tags:
 - Agentic AI
 - AI Governance
-- Platform Control
 keywords: [Anthropic Claude, AI agents, AI regulation]
 permalink: /Anthropic Weekly Intelligence Report April 5, 2026/
 ---

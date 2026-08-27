@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- PicPay IPO
-- Brazilian fintech
-- U.S. market entry
+- U.S. Market Entry
 keywords: ["IPO", "Fintech", "Nasdaq"]
 ---
 ---

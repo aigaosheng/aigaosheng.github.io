@@ -9,7 +9,6 @@ categories: []
 tags:
 - Agentic Payments
 - Stablecoin Infrastructure
-- Embedded Lending
 keywords: [Fintech Singapore,AI in finance,WealthTech startups]
 permalink: /FintechNews.sg – Weekly Newsletter, 21 Feb 2026/
 ---

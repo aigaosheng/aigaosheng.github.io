@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic-ai
-- banking
-- lending
-- regtech
-- wealthtech
+- Agentic AI
+- Banking
+- Lending
+- RegTech
+- Wealthtech
 keywords: [agentic-ai, banking, lending, regtech, wealthtech]
 permalink: /ai-fintech-brief-2026-06-05/
 ---

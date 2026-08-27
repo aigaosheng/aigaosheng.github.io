@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - Agentic
-- Charter
 - Tokenisation
 keywords: [agentic AI payments, Revolut US bank charter, fintech funding 2026]
 permalink: /FinPulse Weekly- AI Agents Take the Wheel, March 1–7, 2026/

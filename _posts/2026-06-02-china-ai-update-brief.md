@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- china-ai
-- ai-policy
-- hong-kong-ipos
-- bytedance
-- chip-controls
+- China AI
+- AI Policy
+- ByteDance
 keywords: [china-ai, ai-policy, hong-kong-ipos, bytedance, chip-controls]
 permalink: /china-ai-update-brief-2026-06-02/
 ---

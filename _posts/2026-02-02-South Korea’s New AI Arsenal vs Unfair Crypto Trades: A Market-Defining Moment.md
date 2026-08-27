@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- South Korea crypto
-- AI market surveillance
-- crypto regulation
+- Crypto Regulation
 keywords: [South Korea, cryptocurrency, AI enforcement]
 permalink: /South Korea’s New AI Arsenal vs Unfair Crypto Trades- A Market-Defining Moment/
 ---

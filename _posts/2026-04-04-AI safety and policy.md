@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI research trends 2026
-- autonomous AI agents
-- AI safety and policy
+- Autonomous AI Agents
 keywords: [AI research trends 2026, autonomous AI agents, AI safety and policy]
 permalink: /AI Research Daily Newsletter, April 4, 2026/
 ---

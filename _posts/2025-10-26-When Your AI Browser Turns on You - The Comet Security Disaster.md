@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI browser
-- security risk
-- Comet disaster
+- AI Browser
 keywords: [AI browser, cybersecurity, Perplexity]
 permalink: /When Your AI Browser Turns on You - The Comet Security Disaster/
 ---

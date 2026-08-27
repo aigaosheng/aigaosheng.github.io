@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Claude
-- Strategic partnerships
-- Alignment research
+- Strategic Partnerships
 keywords: []
 permalink: /Anthropic - Strategic Partnerships, Infrastructure Build-out, and Alignment Research — Weekly Briefing (Nov 12–21, 2025)/
 ---

@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- open source AI
-- Hugging Face models
-- video diffusion AI
-- efficient language models
-- semantic highlight AI
+- Open Source AI
+- Hugging Face Models
 keywords: [interactive video, model optimization, multilingual translation, semantic tagging, throughput scaling]
 permalink: /Hugging Face Weekly Frontier- Real-Time Diffusion Models, Efficient Qwen Derivatives, and Semantic AI Advances Jan 25 2026/
 ---

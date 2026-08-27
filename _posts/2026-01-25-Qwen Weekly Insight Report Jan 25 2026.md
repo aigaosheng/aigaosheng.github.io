@@ -9,7 +9,6 @@ categories: []
 tags:
 - Agentic AI
 - Ecosystem Integration
-- Task Execution
 keywords: [Alibaba, Qwen App, AI Upgrade]
 permalink: /Qwen Weekly Insight Report Jan 25 2026/
 ---

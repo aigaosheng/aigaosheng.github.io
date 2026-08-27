@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- china-ai
-- artificial-intelligence
-- ai-strategy
+- China AI
+- Artificial Intelligence
+- AI Strategy
 keywords: [china-ai, artificial-intelligence, ai-strategy]
 permalink: /China-AI-Brief-2026-05-26/
 ---

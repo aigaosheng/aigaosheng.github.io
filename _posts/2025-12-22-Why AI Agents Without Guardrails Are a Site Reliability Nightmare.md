@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agents
-- Site reliability engineering
-- autonomous AI
+- AI Agents
+- Autonomous AI
 keywords: [AI security, autonomous agents, responsible AI]
 permalink: /Why AI Agents Without Guardrails Are a Site Reliability Nightmare/
 ---

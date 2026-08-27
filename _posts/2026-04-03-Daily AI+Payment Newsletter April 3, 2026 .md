@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Payments
-- B2AI Commerce
-- Payment Intelligence
 keywords: [AI Payments, B2AI Commerce,Payment Intelligence]
 permalink: /Daily AI+Payment Newsletter April 3, 2026 /
 ---

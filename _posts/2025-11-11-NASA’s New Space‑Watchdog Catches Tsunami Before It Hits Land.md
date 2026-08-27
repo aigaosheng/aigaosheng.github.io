@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- tsunami detection
-- GNSS ionosphere
-- NASA Guardian system
+- NASA Guardian System
 keywords: [tsunami, early warning, satellite detection]
 permalink: /NASA’s New Space‑Watchdog Catches Tsunami Before It Hits Land/
 ---

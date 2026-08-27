@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI startup funding 2026
-- fintech regulatory updates
-- venture capital trends Q2 2026
+- Venture Capital Trends Q2 2026
 keywords: [AI startup funding 2026,fintech regulatory updates,venture capital trends Q2 2026]
 permalink: /INVESTMENT + STARTUP Brief | April 18, 2026/
 ---

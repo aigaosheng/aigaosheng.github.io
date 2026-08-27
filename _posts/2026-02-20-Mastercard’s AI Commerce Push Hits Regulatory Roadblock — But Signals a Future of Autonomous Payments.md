@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI commerce
-- agentic payments
+- AI Commerce
+- Agentic Payments
 - Mastercard
 keywords: [AI payments, agentic commerce, regulatory approval]
 permalink: /Mastercard’s AI Commerce Push Hits Regulatory Roadblock — But Signals a Future of Autonomous Payments/

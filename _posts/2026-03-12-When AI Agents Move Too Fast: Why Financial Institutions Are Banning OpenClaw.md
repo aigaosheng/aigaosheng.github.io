@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - OpenClaw AI
-- agentic AI security
-- AI agents in finance
+- Agentic AI Security
 keywords: [AI agents, cybersecurity risk, enterprise AI]
 permalink: /When AI Agents Move Too Fast- Why Financial Institutions Are Banning OpenClaw/
 ---

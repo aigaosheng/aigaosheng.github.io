@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Vietnam tech
-- startup funding
-- top-funded companies
+- Startup Funding
 keywords: [Vietnam, tech investment, startups]
 permalink: /Vietnam’s Tech Titans - A Decade of Big Money and Bigger Ambitions/
 ---

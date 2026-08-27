@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Meta AI
-- tech spending
-- investor reaction
+- Investor Reaction
 keywords: [Meta Platforms, artificial intelligence, stock]
 permalink: /Meta’s Billion-Dollar AI Binge - Is History Repeating?/
 ---

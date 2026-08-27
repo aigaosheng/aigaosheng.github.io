@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Japan tech budget
-- semiconductor investment
-- AI strategy
+- AI Strategy
 keywords: [semiconductors, artificial intelligence, technology investment]
 permalink: /Japan Tech Push - Quadrupled Chips & AI Budget Signals Strategic Reset/
 ---

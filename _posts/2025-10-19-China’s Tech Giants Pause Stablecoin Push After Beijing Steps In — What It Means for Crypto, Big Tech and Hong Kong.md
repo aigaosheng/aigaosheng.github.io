@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China stablecoin
-- Ant Group JD stablecoin pause
-- Hong Kong crypto regulation
+- Ant Group JD Stablecoin Pause
 keywords: [stablecoin, Beijing, Ant Group]
 ---
 **China’s Tech Giants Pause Stablecoin Push After Beijing Steps In — What It Means for Crypto, Big Tech and Hong Kong**

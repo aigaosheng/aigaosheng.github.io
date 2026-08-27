@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- memory chip shortage
-- AI infrastructure
-- supply chain crisis
+- AI Infrastructure
 keywords: [AI chips, DRAM shortage, global supply chain]
 permalink: /Memory Mayhem - AI Boom Sparks a New Global Supply-Chain Crisis/
 ---

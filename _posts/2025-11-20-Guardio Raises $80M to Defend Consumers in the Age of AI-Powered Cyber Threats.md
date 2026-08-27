@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Guardio
-- consumer cybersecurity
-- AI-driven scams
+- Consumer Cybersecurity
 keywords: [cybersecurity, AI security, consumer protection]
 permalink: /Guardio Raises $80M to Defend Consumers in the Age of AI-Powered Cyber Threats/
 ---

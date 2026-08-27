@@ -9,9 +9,9 @@ categories: []
 tags:
 - Hugging Face
 - Multimodal AI
-- Open-Source Models
+- Open Source Models
 - AI Efficiency
-- Global AI Collaboration
+
 ---
 ---
 

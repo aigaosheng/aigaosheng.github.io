@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI avatars
-- interactive video AI
-- startup funding
+- Startup Funding
 keywords: [interactive AI, digital avatars, video chatbot]
 permalink: /AI Avatars Move Beyond Text - Lemon Slice Raises $10.5M to Bring Interactive Video Bots to Life/
 ---

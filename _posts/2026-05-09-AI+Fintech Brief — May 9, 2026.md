@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agentic finance
-- tokenized deposits regulation
-- fintech venture capital
+- Tokenized Deposits Regulation
 keywords: [AI agentic finance, tokenized deposits regulation, fintech venture capital]
 permalink: /AI+Fintech Brief — May 9, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI in historical preservation
-- digital replicas
-- cultural heritage
+- AI in Historical Preservation
 keywords: [AI restoration, digital twins, historical digitization]
 permalink: /Reviving the Past - How AI Is Rebuilding History, One Digital Replica at a Time/
 ---

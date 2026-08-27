@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Indonesia AI regulation
-- Presidential Regulation
-- AI governance
+- AI Governance
 keywords: [Indonesia AI policy, AI ethics, national AI strategy]
 permalink: /Indonesia Poised to Launch Dual Presidential AI Regulations- Roadmap & Ethics Framework/
 ---

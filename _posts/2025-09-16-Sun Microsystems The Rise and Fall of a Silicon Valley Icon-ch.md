@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- Rise and fall of U.S. High-Tech Companies 
-- Technology innovation
+- Rise and Fall of U.S. High-Tech Companies
+- Technology Innovation
 - Sun Microsystems
+
 ---
 # ☀️ Sun Microsystems：硅谷传奇的崛起与陨落
 <p align="center">

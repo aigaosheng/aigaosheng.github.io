@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - EnterpriseAI
-- AI Transformation 
-- Digital Strategy
+- AI Transformation
 keywords: [Enterprise AI, AI Transformation, DigitalStrategy]
 permalink: /Enterprise AI Daily Newsletter April 8, 2026/
 ---

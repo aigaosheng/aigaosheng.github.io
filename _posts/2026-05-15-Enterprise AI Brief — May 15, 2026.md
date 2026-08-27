@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- AI agents
-- Anthropic Claude
+- Enterprise AI
+- AI Agents
 keywords: [enterprise AI, AI agents, Anthropic Claude]
 permalink: /Enterprise AI Brief — May 15, 2026/
 ---

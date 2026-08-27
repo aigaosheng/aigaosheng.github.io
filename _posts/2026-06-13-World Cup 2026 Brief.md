@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- World Cup 2026
 - FIFA
-- Soccer
 keywords: [World Cup 2026, FIFA, USA, Mexico, Canada]
 permalink: /World-Cup-2026-Brief-2026-06-13/
 ---

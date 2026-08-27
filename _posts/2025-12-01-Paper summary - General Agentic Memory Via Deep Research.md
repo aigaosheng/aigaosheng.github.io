@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agent memory
-- long-context
-- retrieval
+- Retrieval
 keywords: [agent memory, long-context, retrieval]
 permalink: /Paper summary - General Agentic Memory Via Deep Research/
 ---

@@ -11,7 +11,7 @@ tags:
 - LLM
 - AI Regulation
 - AI Policy
-- Semiconductor
+- Semiconductors
 keywords: [China AI, large language models, AI regulation, Nvidia, AI policy]
 permalink: /China-AI-Brief-2026-06-13/
 ---

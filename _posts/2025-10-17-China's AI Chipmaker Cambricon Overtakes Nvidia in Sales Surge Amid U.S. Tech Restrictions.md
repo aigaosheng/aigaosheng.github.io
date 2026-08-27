@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Cambricon
-- AI chips
+- AI Chips
 - Nvidia
 keywords: [AI chip market, Cambricon Technologies, Nvidia competition]
 ---

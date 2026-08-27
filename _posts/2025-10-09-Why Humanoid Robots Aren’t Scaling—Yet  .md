@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Humanoid robots  
-- Industrial automation  
-- AI reliability
+- Humanoid Robots
+- Industrial Automation
 keywords: ["Humanoid robots","Industrial automation","AI reliability"]
 ---
 ---

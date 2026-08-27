@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Git 
-- Git cheat sheet
-- Software development
+- Git Cheat Sheet
+
 ---
 ---
 # 📝 Git Cheat Sheet

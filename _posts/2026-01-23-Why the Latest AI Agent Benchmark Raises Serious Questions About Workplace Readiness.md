@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agents
-- workplace automation
-- APEX-Agents
+- AI Agents
+- Workplace Automation
 keywords: [AI readiness, agentic AI, workplace automation]
 permalink: /Why the Latest AI Agent Benchmark Raises Serious Questions About Workplace Readiness/
 ---

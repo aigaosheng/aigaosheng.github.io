@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- real-time-payments
-- embedded-finance-infrastructure
-- stablecoin-regulation-2026
+- Real-Time-Payments
 keywords: [real-time-payments, embedded-finance-infrastructure, stablecoin-regulation-2026]
 permalink: /Fintech Payment Daily Newsletter, April 3, 2026/
 ---

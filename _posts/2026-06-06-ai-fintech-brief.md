@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic-ai
-- banking
-- fintech-funding
-- wealthtech
-- expense-management
+- Agentic AI
+- Banking
+- Fintech-Funding
+- Wealthtech
 keywords: [agentic-ai, banking, fintech-funding, wealthtech, expense-management]
 permalink: /ai-fintech-brief-2026-06-06/
 ---

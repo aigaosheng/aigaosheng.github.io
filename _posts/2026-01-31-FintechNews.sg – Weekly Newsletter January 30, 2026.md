@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- Fintech 
-- Payments 
-- AI in Finance 
-- Singapore Fintech 
-- digital Payments
+- Fintech
+- Payments
+- AI in Finance
+- Singapore Fintech
+- Digital Payments
 keywords: [Fintech,Payments,AI in Finance ,Singapore Fintech,digital Payments]
 permalink: /FintechNews.sg – Weekly Newsletter January 30, 2026/
 ---

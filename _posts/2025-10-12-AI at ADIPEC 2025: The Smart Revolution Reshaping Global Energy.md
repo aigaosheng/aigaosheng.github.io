@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - AI in Energy
-- Energy Transformation
 keywords: ["AI Energy Solutions","Future of Energy Technology"]
 ---
 ---

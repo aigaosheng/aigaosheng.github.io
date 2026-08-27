@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- deterministic CPU
-- AI workloads
-- time-based scheduling
+- Time-Based Scheduling
 keywords: [deterministic, AI-performance, CPU-architecture]
 permalink: /From Guesswork to Guaranteed — How Deterministic CPUs Are Changing the Game for AI Performance/
 ---

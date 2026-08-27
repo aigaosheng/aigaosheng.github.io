@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- defense-tech
-- AI-agents
-- megaround
+- Defense-Tech
+- AI Agents
 keywords: [venture capital, startup funding, AI investment]
 permalink: /weekly VC Radar- AI & Deep Tech Dominate with Megarounds-2026-06-21/
 ---

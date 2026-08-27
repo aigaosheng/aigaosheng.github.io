@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key enterprise AI
-- AI trust experiment 
-- human bias AI
+- Key Enterprise AI
 keywords: [AI adoption, generative AI, enterprise automation]
 permalink: /When AI Scored 95% – But Humans Didn’t Believe It Was AI/
 ---

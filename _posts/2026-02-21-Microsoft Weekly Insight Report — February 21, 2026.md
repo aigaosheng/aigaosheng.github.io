@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI investment
-- Trusted Tech Alliance
-- Data storage breakthrough
+- AI Investment
 keywords: [Microsoft AI, Project Silica, leadership transition]
 permalink: /Microsoft Weekly Insight Report — February 21, 2026/
 ---

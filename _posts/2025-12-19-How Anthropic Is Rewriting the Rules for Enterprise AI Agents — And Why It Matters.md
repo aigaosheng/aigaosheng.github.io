@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - Anthropic Agent Skills
-- Enterprise AI standards
-- AI interoperability
+- Enterprise AI Standards
+- AI Interoperability
 keywords: [Anthropic, agent skills, enterprise AI]
 permalink: /How Anthropic Is Rewriting the Rules for Enterprise AI Agents — And Why It Matters/
 ---

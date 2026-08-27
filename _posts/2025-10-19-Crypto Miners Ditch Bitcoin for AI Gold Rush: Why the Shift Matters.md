@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- Bitcoin mining
-- High-performance computing
+- AI Infrastructure
 keywords: [AI, Bitcoin, HPC]
 ---
 **Crypto Miners Ditch Bitcoin for AI Gold Rush: Why the Shift Matters**

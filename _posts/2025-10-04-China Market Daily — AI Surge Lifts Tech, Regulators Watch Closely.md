@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI surge
-- Semiconductor supply-chain
-- Regulatory watch
+- Semiconductor Supply Chain
+
 ---
 ---
 

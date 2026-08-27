@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AEM patent risk
-- MAS EQDP / Fullerton retail fund
-- DBS dividend/capital-return
+- MAS EQDP / Fullerton Retail Fund
+
 ---
 ---
 

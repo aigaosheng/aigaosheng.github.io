@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AgenticAI
-- Cross-BorderPayments
-- EmbeddedFinance
 keywords: [AgenticAI,Cross-BorderPayments,EmbeddedFinance]
 permalink: /Fintech Weekly Digest — Pulse of Payments & AI — 25 January 2026/
 ---

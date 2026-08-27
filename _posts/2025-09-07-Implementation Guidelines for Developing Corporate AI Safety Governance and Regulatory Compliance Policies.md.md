@@ -10,8 +10,9 @@ tags:
 - AI Safety
 - AI Governance
 - Privacy & Data Protection Compliance
-- FastAPI
+- Fastapi
 - Streamlit
+
 ---
 
 ---

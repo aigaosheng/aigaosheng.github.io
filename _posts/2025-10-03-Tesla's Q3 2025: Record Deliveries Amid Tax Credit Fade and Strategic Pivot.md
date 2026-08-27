@@ -8,9 +8,9 @@ status: publish
 categories: []
 tags:
 - Tesla
-- EV tax credit
-- Autonomous vehicles
+- Autonomous Vehicles
 - Robotics
+
 ---
 ---
 **Tesla's Q3 2025: Record Deliveries Amid Tax Credit Fade and Strategic Pivot**

@@ -9,7 +9,6 @@ categories: []
 tags:
 - Consolidation
 - Deep Tech
-- AI OpEx
 keywords: [Venture Capital Trends, AI Funding, Startup Valuation]
 permalink: /Deep Tech Dominates as Ramp Hits $44B Valuation & a16z Consolidates Power/
 ---

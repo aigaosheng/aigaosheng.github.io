@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI deployment
-- agentic AI adoption 2026
-- AI token economics
+- Enterprise AI Deployment
 keywords: [enterprise AI deployment, agentic AI adoption 2026, AI token economics]
 permalink: /Enterprise AI Brief — May 10, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Waggel AI hiring cap
-- pet insurance automation
-- human-in-the-loop customer service
+- Waggel AI Hiring Cap
 keywords: [Waggel, AI, pet insurance]
 ---
 **The “100 Employees” Play: How Waggel Is Using an Employee Cap to Force Smarter AI Adoption**

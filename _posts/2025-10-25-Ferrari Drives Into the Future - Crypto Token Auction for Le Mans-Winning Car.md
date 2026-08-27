@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Ferrari
-- crypto token
-- luxury auction
+- Luxury Auction
 keywords: [Ferrari, crypto, auction]
 permalink: /Ferrari Drives Into the Future - Crypto Token Auction for Le Mans-Winning Car/
 ---

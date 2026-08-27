@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI regulation 
-- child safety
-- chatbot ethics
+- AI Regulation
+- Child Safety
 keywords: [China AI rules, AI safety, chatbot regulation]
 permalink: /China’s Bold New AI Safety Rules - Protecting Kids and Curbing Harmful AI Influence/
 ---

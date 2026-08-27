@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- revenue AI
-- AI sales coaching
-- MCP interoperability
+- AI Sales Coaching
 keywords: [AI sales coaching, revenue intelligence, enterprise AI tools]
 permalink: /Gong’s Mission Andromeda - Redefining AI for Sales Teams/
 ---

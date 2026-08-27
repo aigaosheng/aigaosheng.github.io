@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic
-- interoperability
-- tokenisation**
+- Agentic
+- Interoperability
+- Tokenisation
 keywords: [AI payments, digital wallets, fintech innovation]
 permalink: /Fintech Frontier Weekly — The Rise of Agent-Driven Payments/
 ---

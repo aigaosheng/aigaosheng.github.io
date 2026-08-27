@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- poker scam
-- card shuffler hacking
-- high-stakes private game
+- High-Stakes Private Game
 keywords: [poker cheating, DeckMate, private poker game]
 permalink: /When a $10,000 Card Shuffler Becomes a Crime Scene - The High-Tech Poker Scam Unveiled/
 ---

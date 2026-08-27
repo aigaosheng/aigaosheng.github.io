@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin regulation
-- Hong Kong fintech
-- digital asset licensing
+- Stablecoin Regulation
+- Hong Kong Fintech
 keywords: [stablecoin, Hong Kong, digital assets]
 permalink: /Hong Kong to Issue First Stablecoin Licenses in March 2026 — A New Chapter in Digital Finance/
 ---

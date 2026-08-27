@@ -8,10 +8,10 @@ status: publish
 categories: []
 tags:
 - Hugging Face
-- open-source AI
-- LLM memory
-- video generation
-- multimodal models
+- Open Source AI
+- LLM Memory
+- Video Generation
+- Multimodal Models
 keywords: [Hugging Face open source AI models 2026, LLM memory management MemOS, real-time video generation Helios, Phi-4 reasoning vision model, Hugging Face Hub storage buckets]
 permalink: /Memory Wars, Real-Time Video, and Mutable Storage Hugging Face's Most Consequential Week of 2026 - March 14, 2026/
 ---

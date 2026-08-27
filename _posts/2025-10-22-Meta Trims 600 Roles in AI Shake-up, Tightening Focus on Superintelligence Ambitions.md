@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Meta layoffs
-- AI restructuring
-- Superintelligence  
+- AI Restructuring
 keywords: [Meta, artificial intelligence, layoffs]
 permalink: /Meta Trims 600 Roles in AI Shake-up, Tightening Focus on Superintelligence Ambitions/
 ---

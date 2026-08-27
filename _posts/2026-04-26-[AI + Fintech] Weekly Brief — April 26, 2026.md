@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- agentic payments
-- embedded finance
+- AI Fintech
+- Agentic Payments
+- Embedded Finance
 keywords: [AI fintech, agentic payments, embedded finance]
 permalink: /AI + Fintech Weekly Brief — April 26, 2026/
 ---

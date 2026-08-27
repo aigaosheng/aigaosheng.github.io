@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- social-media-regulation
-- child-safety
-- deepfakes
-- elections
-- ai-governance
+- Child Safety
+- Deepfakes
+- Elections
+- AI Governance
 keywords: [social-media-regulation, child-safety, deepfakes, elections, ai-governance]
 permalink: /ai-impact-on-social-media-society-brief-2026-06-01/
 ---

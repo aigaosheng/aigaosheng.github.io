@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- eu-ai-act
-- ai-compliance
-- ai-security
-- enterprise-governance
-- public-policy
+- EU AI Act
+- AI Compliance
+- AI Security
+- Enterprise-Governance
 keywords: [eu-ai-act, ai-compliance, ai-security, enterprise-governance, public-policy]
 permalink: /ai-governance-risk-and-compliance-brief-2026-06-03/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- LLM performance
-- cost efficiency
+- Enterprise AI
 keywords: [AI, Gemini 3 Flash, enterprise efficiency]
 permalink: /Why Gemini 3 Flash Could Redefine Enterprise AI — Faster, Smarter, Cheaper/
 ---

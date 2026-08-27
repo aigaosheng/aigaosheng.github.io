@@ -10,8 +10,6 @@ tags:
 - Enterprise AI
 - Agentic AI
 - AI Infrastructure
-- Tokenomics
-- SaaS
 keywords: [Enterprise AI, Agentic AI, AI Infrastructure, Tokenomics, Generative AI]
 permalink: /Enterprise-AI-Brief-2026-05-23/
 ---

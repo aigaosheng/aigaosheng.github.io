@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI bubble risk
-- credit investors
-- capital markets
+- AI Bubble Risks
+- Capital Markets
 keywords: [AI risks, credit market, investor sentiment]
 permalink: /The AI Bubble Takes Center Stage- Credit Investors Sound the Alarm/
 ---

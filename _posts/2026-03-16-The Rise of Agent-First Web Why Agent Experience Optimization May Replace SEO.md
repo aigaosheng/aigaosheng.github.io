@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agent Experience Optimization
 - AI Agents
-- Future of Web Navigation
 keywords: [AI agents, agentic web, answer engine optimization]
 permalink: /The Rise of Agent-First Web Why Agent Experience Optimization May Replace SEO/
 ---

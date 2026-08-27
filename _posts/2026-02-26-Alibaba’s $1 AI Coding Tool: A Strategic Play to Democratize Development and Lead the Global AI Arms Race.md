@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Alibaba
-- AI coding
-- subscription plan
+- AI Coding
 keywords: [Alibaba, AI coding, subscription plan]
 permalink: /Alibaba’s $1 AI Coding Tool- A Strategic Play to Democratize Development and Lead the Global AI Arms Race/
 ---

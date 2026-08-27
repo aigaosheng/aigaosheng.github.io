@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- tongue AI diagnostics
-- color-based disease prediction
-- noninvasive health screening
+- Color-Based Disease Prediction
+
 ---
 ---
 

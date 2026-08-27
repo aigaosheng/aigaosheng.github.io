@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore geopolitics
-- cost-of-living resilience
-- regulatory innovation
+- Cost-of-Living Resilience
 keywords: [Singapore geopolitics, cost-of-living resilience, regulatory innovation]
 permalink: /SINGAPORE PLUS Brief & April 18, 2026/
 ---

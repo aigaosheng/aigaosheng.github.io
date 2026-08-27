@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - OpenAI
-- AI browser
-- Atlas
+- AI Browser
 keywords: [AI browser, ChatGPT, search advertising]
 permalink: /OpenAI Debuts ‘Atlas’ AI Browser — A Bold Bid to Dethrone Google Chrome/
 ---

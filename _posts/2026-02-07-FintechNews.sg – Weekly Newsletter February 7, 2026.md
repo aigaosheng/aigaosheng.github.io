@@ -7,10 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Fintech Funding
+- Fintech-Funding
 - Digital Banking
 - AI Payments
-
 keywords: [Singapore Fintech, Cross-border Payments, Digital Assets, Revolut Singapore, AI in Finance]
 permalink: /FintechNews.sg – Weekly Newsletter February 7, 2026/
 ---

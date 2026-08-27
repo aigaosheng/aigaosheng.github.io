@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- agentic AI
-- ServiceNow OpenAI
+- Enterprise AI
+- Agentic AI
 keywords: [enterprise automation, AI workflows, AI governance]
 permalink: /From AI Assistants to Autonomous Action- How ServiceNow and OpenAI Are Redefining Enterprise Workflows/
 ---

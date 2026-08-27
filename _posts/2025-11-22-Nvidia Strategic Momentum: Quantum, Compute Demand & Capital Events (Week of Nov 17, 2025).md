@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum‑GPU
-- Blackwell demand
-- AI infrastructure
+- AI Infrastructure
 keywords: [Nvidia earnings, NVQLink, data center growth]
 permalink: /Nvidia Strategic Momentum - Quantum, Compute Demand & Capital Events (Week of Nov 17, 2025)/
 ---

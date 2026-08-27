@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-native
-- Embedded-finance
-- Payments-modernization
+- AI-Native
+- Embedded Finance
 keywords: [fintech, digital-banking, AI-payments]
 permalink: /Fintech Weekly Pulse- AI-Native Banking, Payments Reform & Digital Expansion/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- military AI race
 - DeepSeek
-- drone swarms
 keywords: [AI warfare, autonomous weapons, drone swarms]
 permalink: /The AI Arms Race - DeepSeek, Drone Swarms, and the Future of Conflict/
 ---

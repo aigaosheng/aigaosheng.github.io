@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- micro-apps
-- AI vibe coding
-- no-code development
+- No-Code Development
 keywords: [AI tools, custom apps, democratized software]
 permalink: /The Micro-App Revolution - How Everyday Users Are Building Software, Not Buying It/
 ---

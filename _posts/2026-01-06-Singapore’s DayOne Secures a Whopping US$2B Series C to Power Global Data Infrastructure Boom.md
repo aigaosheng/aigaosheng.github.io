@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- data centers
-- Series C funding, 
-- AI infrastructure
+- Data Centers
+- Series C Funding,
+- AI Infrastructure
 keywords: [data center investment, hyperscale infrastructure, Singapore tech]
 permalink: /Singapore’s DayOne Secures a Whopping US$2B Series C to Power Global Data Infrastructure Boom/
 ---

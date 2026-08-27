@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenization
-- real-estate
-- tokenized-bonds
-- tokenized-stocks
-- private-credit
+- Tokenization
+- Real Estate
+- Tokenized-Stocks
+- Private Credit
 keywords: [tokenization, real-estate, tokenized-bonds, tokenized-stocks, private-credit]
 permalink: /tokenized-asset-brief-2026-06-05/
 ---

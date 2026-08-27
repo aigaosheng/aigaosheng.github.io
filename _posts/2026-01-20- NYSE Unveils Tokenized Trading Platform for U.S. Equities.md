@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- NYSE tokenized trading
-- 24/7 equities trading
-- blockchain settlement
+- NYSE Tokenized Trading
 keywords: [blockchain, tokenization, equities]
 permalink: /Wall Street Goes 24-7- NYSE Unveils Tokenized Trading Platform for U.S. Equities/
 ---

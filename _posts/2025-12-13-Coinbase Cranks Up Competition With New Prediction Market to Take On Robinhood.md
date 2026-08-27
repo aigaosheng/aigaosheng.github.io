@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- prediction markets
-- Coinbase launch
-- crypto finance
+- Crypto Finance
 keywords: [prediction markets, Coinbase, Robinhood]
 permalink: /Coinbase Cranks Up Competition With New Prediction Market to Take On Robinhood/
 ---

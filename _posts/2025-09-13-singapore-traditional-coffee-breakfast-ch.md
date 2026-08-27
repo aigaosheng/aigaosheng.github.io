@@ -10,7 +10,8 @@ tags:
 - 新加坡传统早餐
 - 咖啡
 - Coffee
-- Singapore traditional coffee breakfast
+- Singapore Traditional Coffee Breakfast
+
 ---
 
 ---

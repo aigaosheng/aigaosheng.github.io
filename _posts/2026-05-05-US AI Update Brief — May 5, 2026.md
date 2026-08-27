@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- US AI policy
-- AI regulation 2026
-- frontier model governance
+- US AI Policy
+- AI Regulation 2026
 keywords: [US AI policy, AI regulation 2026, frontier model governance]
 permalink: /US AI Update Brief — May 5, 2026/
 ---

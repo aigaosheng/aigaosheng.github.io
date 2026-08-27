@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI regulation Vietnam
-- risk-based AI compliance
-- technology law ASEAN
+- Risk-Based AI Compliance
 keywords: [AI law, Vietnam, artificial intelligence regulation]
 permalink: /Vietnam’s AI Law Goes Live- A Seismic Shift in Southeast Asia’s Tech Landscape/
 ---

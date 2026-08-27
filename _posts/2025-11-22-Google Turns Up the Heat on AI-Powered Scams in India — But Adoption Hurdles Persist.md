@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Google AI
-- scam detection
-- India digital fraud
 keywords: [fraud prevention, on-device AI, India scams]
 permalink: /Google Turns Up the Heat on AI-Powered Scams in India — But Adoption Hurdles Persist/
 ---

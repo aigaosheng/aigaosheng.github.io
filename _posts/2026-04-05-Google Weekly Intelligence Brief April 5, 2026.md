@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Gemma 4 open models  
-- Sovereign Cloud AI deployment  
-- Agentic workflow infrastructure  
+- Sovereign Cloud AI Deployment
 keywords: [Google Cloud AI, Gemma 4 Apache 2.0, Vertex AI fine-tuning]
 permalink: /Google Weekly Intelligence Brief April 5, 2026/
 ---

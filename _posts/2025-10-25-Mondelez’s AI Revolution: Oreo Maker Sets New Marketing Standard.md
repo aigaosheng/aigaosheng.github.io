@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- generative AI
-- marketing innovation
-- CPG
+- Generative AI
 keywords: [Mondelez, Oreo, AI marketing]
 permalink: /Mondelez’s AI Revolution - Oreo Maker Sets New Marketing Standard/
 ---

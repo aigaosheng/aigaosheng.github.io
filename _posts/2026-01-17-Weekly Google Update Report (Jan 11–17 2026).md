@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Gemini AI
-- Gmail AI integrations
-- Search AI Mode
 keywords: [Gemini, AI integration, product update]
 permalink: /Weekly Google Update Report (Jan 11–17 2026)/
 ---

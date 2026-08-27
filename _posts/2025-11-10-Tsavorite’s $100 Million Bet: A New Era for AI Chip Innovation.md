@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Tsavorite
-- AI chips
-- composable architecture]
+- AI Chips
 keywords: [AI hardware, agentic workflows, chiplets]
 permalink: /Tsavorite’s $100 Million Bet - A New Era for AI Chip Innovation/
 ---

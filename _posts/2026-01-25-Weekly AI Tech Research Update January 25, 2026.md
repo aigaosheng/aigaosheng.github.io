@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- adaptive inference
-- reinforcement learning
-- large model efficiency
-- structured decomposability
-- quantum machine learning
+- Reinforcement Learning
+- Quantum Machine Learning
 keywords: [test‑time training, token branch‑and‑merge, scalable pipelines, autonomous optimization]
 permalink: /Weekly AI Tech Research Update January 25, 2026/
 ---

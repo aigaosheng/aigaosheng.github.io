@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Creativity
-- Verbalized Sampling
-- Mode Collapse
 keywords: [AI prompts, creative AI, Verbalized Sampling]
 ---
 **Unlocking AI's Creative Potential: The Power of a Single Sentence**

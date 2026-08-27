@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-powered financial services
-- AI agents in banking
-- AI-native fintech platforms
+- AI-Powered Financial Services
 keywords: [AI-powered financial services, AI agents in banking, AI-native fintech platforms]
 permalink: /AI + Fintech Daily Newsletter April 14, 2026/
 ---

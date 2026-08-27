@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Anthropic leadership expansion
-- India AI market strategy
-- Claude ecosystem growth
+- India AI Market Strategy
 keywords: [Anthropic India expansion, AI market leadership, Claude AI strategy]
 permalink: /weekly Anthropic Insight Report, January 17, 2026/
 ---

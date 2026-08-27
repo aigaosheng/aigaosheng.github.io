@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore fintech
-- stablecoins
-- AI in finance
+- Singapore Fintech
+- Stablecoins
+- AI in Finance
 keywords: [Singapore fintech, stablecoins, AI in finance]
 permalink: /FintechNews.sg – Weekly Newsletter December 13 – 19, 2025/
 ---

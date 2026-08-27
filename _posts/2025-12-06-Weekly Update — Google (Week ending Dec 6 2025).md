@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Gemini 3
-- Android 16 AI notifications
-- Multicloud networking
+- Gemini 3
 keywords: [Google AI release, Android 16 update, Google Cloud multicloud]
 permalink: /Weekly Update — Google (Week ending Dec 6 2025)/
 ---

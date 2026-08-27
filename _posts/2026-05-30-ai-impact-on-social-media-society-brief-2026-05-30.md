@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- deepfakes
-- social-media
-- ai-chatbots
-- platform-governance
-- creator-economy
+- Deepfakes
+- Social Media
+- AI Chatbots
+- Platform-Governance
+- Creator Economy
 keywords: [deepfakes, social-media, ai-chatbots, platform-governance, creator-economy]
 permalink: /ai-impact-on-social-media-society-brief-2026-05-30/
 ---

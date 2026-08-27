@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Intuit
 - OpenAI
-- ChatGPT
+- chatGPT
 keywords: [generative AI, financial software, tax software]
 permalink: /Intuit Strikes $100M+ Deal with OpenAI — TurboTax Enters the ChatGPT Era/
 ---

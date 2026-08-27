@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- military AI
-- mission planning software
-- defence startup
+- Military AI
 keywords: [AI planning, defence technology, military decision-support]
 permalink: /AI Takes the Helm - Pytho AI Accelerates Military Mission Planning at Disrupt 2025/
 ---

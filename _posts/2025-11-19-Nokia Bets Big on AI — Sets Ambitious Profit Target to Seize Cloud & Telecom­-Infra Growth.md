@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Nokia
-- AI infrastructure
-- telecom equipment
+- AI Infrastructure
 keywords: [Nokia, AI strategy, telecom infrastructure]
 permalink: /Nokia Bets Big on AI — Sets Ambitious Profit Target to Seize Cloud & Telecom­-Infra Growth/
 ---

@@ -10,8 +10,6 @@ tags:
 - Tokenization
 - RWA
 - DigitalAssets
-- InstitutionalAdoption
-- TokenizedStocks
 keywords: [Tokenized Assets, RWA, Digital Securities, Institutional Adoption, Tokenized Gold]
 permalink: /Tokenized-Asset-Brief-2026-06-22/
 ---

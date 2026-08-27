@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Nested Learning
-- Neural Networks
 - Memory-Augmented Models
 keywords: [AI architecture optimization, hierarchical machine learning models, advanced neural network design]
 permalink: /Paper - Nested Learning - The Illusion of Deep Learning Architectures/

@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- social-cohesion
-- scams
-- transport
-- housing
-- tourism
-- public-safety
+- Scams
+- Transport
+- Housing
+- Tourism
+- Public-Safety
 keywords: [social-cohesion, scams, transport, housing, tourism, public-safety]
 permalink: /singapore-local-update-brief-2026-06-06/
 ---

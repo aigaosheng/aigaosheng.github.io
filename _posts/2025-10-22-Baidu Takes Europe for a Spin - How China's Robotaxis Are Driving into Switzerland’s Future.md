@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Baidu robotaxi  
-- Switzerland autonomous vehicles  
-- Apollo Go PostBus partnership  
+- Apollo Go PostBus Partnership
 keywords: [robotaxi, Baidu, Switzerland]
 permalink: /Baidu Takes Europe for a Spin - How China's Robotaxis Are Driving into Switzerland’s Future/
 ---

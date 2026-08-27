@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Japan
-- AI chips
-- semiconductor industry
+- AI Chips
 keywords: [chip, Japan, AI investment]
 permalink: /Japan’s Big Bet on the AI-Chip Race - ¥1.6 B Extra Budget to Fuel Domestic Chip Boom*/
 ---

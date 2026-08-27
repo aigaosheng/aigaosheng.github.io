@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - DeepSeek
-- open-source AI
-- AI reasoning
+- Open Source AI
+- AI Reasoning
 keywords: [DeepSeek, GPT-5, open source]
 permalink: /Open-Source AI Just Leveled Up - How DeepSeek Unveiled Models That Rival GPT‑5/
 ---

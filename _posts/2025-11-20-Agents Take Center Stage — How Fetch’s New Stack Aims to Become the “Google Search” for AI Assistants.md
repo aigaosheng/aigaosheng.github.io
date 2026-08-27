@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agents
-- agent orchestration
-- agent economy
+- AI Agents
 keywords: [agentic web, multi-agent orchestration, Fetch AI]
 permalink: /Agents Take Center Stage — How Fetch’s New Stack Aims to Become the “Google Search” for AI Assistants/
 ---

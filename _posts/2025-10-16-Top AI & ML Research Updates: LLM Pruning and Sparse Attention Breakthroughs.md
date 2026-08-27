@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- LLM Pruning Techniques
 - Sparse Attention Mechanisms
-- AI Model Efficiency
 keywords: [Latest AI Research 2025, Large Language Model Optimization, Real-Time AI Application]
 ---
 **Top AI & ML Research Updates: LLM Pruning and Sparse Attention Breakthroughs (Oct 16, 2025)**

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI monetization
-- chatbot advertising
-- user trust
+- AI Monetization
 keywords: [AI, chatbot, monetization]
 permalink: /AI Monetization Crossroads- Why Google and Anthropic Are Rejecting Ads in Chatbots — And What It Means for the Industry/
 ---

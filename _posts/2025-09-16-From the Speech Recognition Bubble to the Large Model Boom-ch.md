@@ -7,10 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- Dot.com era
-- AI era
-- Speech recognition
-- Natural language processing
+- Dot.com Era
+- AI Era
+- Speech Recognition
+- Natural Language Processing
+
 ---
 # 🔍 从语音识别泡沫到大模型热潮：AI 技术兴衰的二十年镜像
 ---

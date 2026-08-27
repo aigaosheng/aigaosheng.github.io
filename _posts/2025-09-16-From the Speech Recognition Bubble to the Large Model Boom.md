@@ -7,10 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- Dot.com era
-- AI era
-- Speech recognition
-- Natural language processing
+- Dot.com Era
+- AI Era
+- Speech Recognition
+- Natural Language Processing
+
 ---
 ---
 # From the Speech Recognition Bubble to the AI Boom: Two Decades of Hype, Collapse, and Resurrection

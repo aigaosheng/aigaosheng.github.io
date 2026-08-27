@@ -11,7 +11,7 @@ tags:
 - AI
 - Tech Stocks
 - Market Rally
-- IPOs
+- IPO
 keywords: [AI, semiconductors, Micron, SpaceX, SoftBank, tech stocks]
 permalink: /Tech-news-Brief-2026-05-27/
 ---

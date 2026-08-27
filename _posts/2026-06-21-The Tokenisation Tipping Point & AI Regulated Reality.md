@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - Tokenisation
-- Collaboration
 - Regulation
 keywords: [Tokenisation, AI in Banking, Cross-Border Payments]
 permalink: /The Tokenisation Tipping Point & AI Regulated Reality/

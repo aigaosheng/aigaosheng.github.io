@@ -14,7 +14,6 @@ tags:
 - Energy
 - SMEs
 - Real Estate
-- Corporate Crime
 keywords: [Singapore, Economy, Manufacturing, AirTrunk IPO, SAF, SMEs, Golden Mile Cinema, GST fraud, Industrial GLS, STI]
 permalink: /Singapore-News-Brief-2026-06-29/
 ---

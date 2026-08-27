@@ -7,13 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- NBA Playoffs
-- NHL Playoffs
-- US Life
-- San Diego
 - NFL
-- MLB
-- College Sports
 keywords: [NBA, NHL, San Diego, Wembanyama, NFL, MLB, College Sports]
 permalink: /US-Life-Sports-Brief-2026-05-19/
 ---

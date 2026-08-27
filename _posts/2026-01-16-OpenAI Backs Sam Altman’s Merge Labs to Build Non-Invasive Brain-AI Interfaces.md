@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- brain-computer interface
-- non-invasive BCI
-- OpenAI Merge Labs
+- Brain-Computer Interface
 keywords: [AI, brain-computer interface, Sam Altman]
 permalink: /OpenAI Backs Sam Altman’s Merge Labs to Build Non-Invasive Brain-AI Interfaces/
 ---

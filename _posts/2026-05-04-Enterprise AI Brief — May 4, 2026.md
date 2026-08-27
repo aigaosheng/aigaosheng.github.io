@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- agentic AI
-- AI platforms
+- Enterprise AI
+- Agentic AI
+- AI Platforms
 keywords: [enterprise AI, agentic AI, AI platforms]
 permalink: /Enterprise AI Brief — May 4, 2026/
 ---

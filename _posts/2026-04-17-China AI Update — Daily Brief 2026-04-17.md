@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI strategy
-- US China AI competition
-- AI semiconductor policy
+- China AI Strategy
+- US China AI Competition
 keywords: [China AI strategy, US China AI competition, AI semiconductor policy]
 permalink: /China AI Update — Daily Brief 2026-04-17/
 ---

@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Claude Opus 4.5
-- AI‑orchestrated cyberattack
-- US‑data‑center investment
 keywords: [Anthropic, Claude Opus, AI infrastructure]
 permalink: /Anthropic Accelerates AI Lead with Opus 4.5 Launch, $50B Infrastructure Push & New Global Partnerships/
 ---

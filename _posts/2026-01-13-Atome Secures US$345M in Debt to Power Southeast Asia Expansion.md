@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key fintech growth
-- syndicated debt
-- Southeast Asia expansion
+- Southeast Asia Expansion
 keywords: [fintech, BNPL, expansion]
 permalink: /Atome Secures US$345M in Debt to Power Southeast Asia Expansion/
 ---

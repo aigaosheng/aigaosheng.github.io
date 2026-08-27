@@ -8,10 +8,9 @@ status: publish
 categories: []
 tags:
 - China AI
-- MWC Shanghai 2026
 - AI Infrastructure
 - AI Chips
-- AI IPO
+- AI IPOs
 keywords: [China AI, MWC Shanghai, AI infrastructure, AI chips, AI IPO]
 permalink: /China-AI-Brief-2026-06-26/
 ---

@@ -8,10 +8,10 @@ status: publish
 categories: []
 tags:
 - AI
-- society
-- governance
-- employment
-- risk
+- Society
+- Governance
+- Employment
+- Risk
 keywords: [AI, society, governance, employment, surveillance]
 permalink: /AI-impact-on-society-Brief-2026-07-06/
 ---

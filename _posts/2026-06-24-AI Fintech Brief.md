@@ -10,8 +10,6 @@ tags:
 - AI
 - Fintech
 - AgenticAI
-- DigitalBanking
-- WealthManagement
 - Acquisitions
 keywords: [AI, Fintech, Agentic Banking, Digital Payments, Wealth Management, M&A]
 permalink: /AI-Fintech-Brief-2026-06-24/

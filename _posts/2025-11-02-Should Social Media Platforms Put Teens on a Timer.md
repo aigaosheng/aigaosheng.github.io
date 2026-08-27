@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- teen screen time
-- social media limits
-- digital wellness
+- Social Media Limits
 keywords: [teen screen time, social media limits, digital wellness]
 permalink: /Should Social Media Platforms Put Teens on a Timer/
 ---

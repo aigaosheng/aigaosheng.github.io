@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI research breakthroughs
-- AI materials science
-- AI robotics automation
+- AI Research Breakthroughs
 keywords: [AI robotics automation, AI materials science, AI research breakthroughs]
 permalink: /AI Research Brief 2026-06-17/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI integration
-- Productivity workflow automation
-- AI legal compliance
+- Enterprise AI Integration
 keywords: [Anthropic announcements,Claude AI plugins,AI coding tool]
 permalink: /Weekly Insight Report — Anthropic & Claude AI Jan 31 2026/
 ---

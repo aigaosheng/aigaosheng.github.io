@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI spending
-- Market bubble
-- Xorporate ROI
+- AI Spending
 keywords: ["AI", "bubble", "ROI"]
 ---
 ---

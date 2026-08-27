@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- payments
-- stablecoins
-- instant-payments
+- Payments
+- Stablecoins
+- Instant Payments
 keywords: [payments, stablecoins, instant-payments]
 permalink: /Payment-Brief-2026-08-25/
 

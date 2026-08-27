@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- South Korea AI law
-- AI governance 
-- AI regulation
+- AI Governance
+- AI Regulation
 keywords: [AI regulation, South Korea technology, AI safety]
 permalink: /South Korea’s AI Law Set to Make History — and Stir Debate/
 ---

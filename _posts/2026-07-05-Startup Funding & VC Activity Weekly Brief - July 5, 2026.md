@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Infrastructure
-- DeepTech Energy Systems
-- Defense Autonomy
 keywords: [AI funding 2026, venture capital trends, startup mega rounds]
 permalink: /Startup Funding & VC Activity Weekly Brief - July 5, 2026/
 ---

@@ -7,8 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI strategy
-- LLM inference
+- AI Strategy
+- LLM Inference
+
 ---
 ---
 # The Inference Trap: How Cloud Providers Are Eating Your AI Margins

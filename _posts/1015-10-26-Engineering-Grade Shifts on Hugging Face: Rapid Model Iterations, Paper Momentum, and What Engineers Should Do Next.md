@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Qwen2.5-VL
-- model-forks
-- long-context research
-- PEFT
-- model-deployment
+- Model Deployment
 keywords: [adaptation, modularity, efficiency, robustness, orchestration]
 permalink: /Engineering-Grade Shifts on Hugging Face - Rapid Model Iterations, Paper Momentum, and What Engineers Should Do Next/
 ---

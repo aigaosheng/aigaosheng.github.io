@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-governance
-- ai-regulation
-- national-security
-- compliance
-- enterprise-risk
-- legal-tech
+- AI Governance
+- AI Regulation
+- National Security
+- Compliance
+- Enterprise Risk
 keywords: [ai-governance, ai-regulation, national-security, compliance, enterprise-risk, legal-tech]
 permalink: /ai-governance-risk-and-compliance-brief-2026-06-06/
 ---

@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Moody
 - AI
 - Agentic AI
+
 ---
 ---
 [![Moody's cut credit memo prep from 40 hours to 2 minutes with modular AI agents: Here's its agentic AI blueprint](https://images.openai.com/thumbnails/url/3Qazc3icu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7Mz_VPirCocEv2TvQzSPcI9olyrgotzXAL9IrULTAP1HUP9yop8UmtqvItjHf298tw9XY2Sk12qsxQKwYAxvopNQ)](https://venturebeat.com/ai/moodys-cut-credit-memo-prep-from-40-hours-to-2-minutes-with-modular-ai)

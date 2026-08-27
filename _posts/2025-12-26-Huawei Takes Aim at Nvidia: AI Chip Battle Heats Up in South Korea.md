@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Huawei AI chip
-- Nvidia competitor
-- South Korea AI hardware
+- Huawei AI Chips
 keywords: [AI chips, Huawei Ascend, Nvidia rivalry]
 permalink: /Huawei Takes Aim at Nvidia - AI Chip Battle Heats Up in South Korea/
 ---

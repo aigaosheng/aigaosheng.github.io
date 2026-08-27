@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI regulation
-- Federal AI policy
-- Defense tech
+- AI Regulation
+- Defense-Tech
 keywords: [AI regulation, Federal AI policy, Defense tech]
 permalink: /AI Policy Brief — May 12, 2026/
 ---

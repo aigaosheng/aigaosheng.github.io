@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- GPT-5.3-Codex-Spark
-- Model Retirement
 - Developer Velocity
 keywords: [gpt5codexspark, ai developer platform, ai model lifecycle]
 permalink: /OpenAI Weekly Insight Report February 13, 2026/

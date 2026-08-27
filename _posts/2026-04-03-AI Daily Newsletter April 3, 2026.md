@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI workflows
-- AI governance tools
-- specialized AI chips
+- Agentic AI Workflows
 keywords: [agentic AI workflows,AI governance tools,specialized AI chips]
 permalink: /AI Daily Newsletter April 3, 2026/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Global business
-- Tech jobs
-- India-China relations
+- India-China Relations
+
 ---
 ---
 **Citigroup's Strategic Shift: 1,000 Tech Jobs Move from China to India**

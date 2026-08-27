@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoins
-- agentic AI
-- open banking
+- Stablecoins
+- Agentic AI
+- Open Banking
 keywords: [payments innovation, fintech regulation, digital wallets]
 permalink: /Fintech Frontier Weekly — Stablecoins, AI‑Agents & Payments Policy Pulse, Friday, 16 January 2026/
 ---

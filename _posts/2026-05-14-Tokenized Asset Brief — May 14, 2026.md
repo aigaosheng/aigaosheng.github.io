@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenized real-world assets
-- RWA tokenization 2026
-- institutional DeFi
+- RWA Tokenization 2026
 keywords: [tokenized real-world assets, RWA tokenization 2026, institutional DeFi]
 permalink: /Tokenized Asset Brief — May 14, 2026/
 ---

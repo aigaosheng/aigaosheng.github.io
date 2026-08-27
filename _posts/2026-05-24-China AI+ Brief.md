@@ -10,7 +10,6 @@ tags:
 - China AI
 - AI Plus
 - Policy
-- Computing Power
 - Embodied Intelligence
 keywords: [China AI+, AI policy, token economy, embodied intelligence, computing power, NDRC, DeepSeek, manufacturing]
 permalink: /China-AI-Brief-2026-05-24/

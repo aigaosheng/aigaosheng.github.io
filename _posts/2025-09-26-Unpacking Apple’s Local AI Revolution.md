@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Apple local AI
-- iOS 26 developers
-- on-device AI models
+- On-Device AI Models
+
 ---
 ---
 ## Unpacking Apple’s Local AI Revolution

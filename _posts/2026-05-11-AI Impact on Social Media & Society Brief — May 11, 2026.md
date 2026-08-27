@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI social media regulation 2026
-- deepfake fraud prevention
-- Meta AI surveillance
-- AI influencer propaganda
-- synthetic media risks
+- AI Social Media Regulation 2026
 keywords: [AI social media regulation 2026, deepfake fraud prevention, Meta AI surveillance,AI influencer propaganda,synthetic media risks]
 permalink: /AI Impact on Social Media & Society Brief — May 11, 2026/
 ---

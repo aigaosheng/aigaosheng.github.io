@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI search engine
-- Product cadence
-- Model upgrades
+- Model Upgrades
 keywords: [Perplexity, AI updates, GPT‑5.2]
 permalink: /namPerplexity Weekly Brief - No New Official Releases (Dec 20–27, 2025) — Strategic Pause Amid Product Momentume/
 ---

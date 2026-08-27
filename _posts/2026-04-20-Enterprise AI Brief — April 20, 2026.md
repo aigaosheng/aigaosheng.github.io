@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- AI infrastructure
-- AI security
+- Enterprise AI
+- AI Infrastructure
+- AI Security
 keywords: [enterprise AI, AI infrastructure, AI security]
 permalink: /Enterprise AI Brief — April 20, 2026/
 ---

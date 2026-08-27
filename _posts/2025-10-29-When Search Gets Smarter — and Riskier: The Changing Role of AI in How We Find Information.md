@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI search
-- exploratory search
-- agent‑based search
+- AI Search
 keywords: [search engine, generative AI, information retrieval]
 permalink: /When Search Gets Smarter — and Riskier - The Changing Role of AI in How We Find Information/
 ---

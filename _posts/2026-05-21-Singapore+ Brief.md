@@ -10,7 +10,6 @@ tags:
 - Singapore
 - AI
 - Economy
-- COVID-19
 - Trade
 keywords: [Singapore, AI strategy, OpenAI, economic data, COVID-19]
 permalink: /Singapore-Brief-2026-05-21/

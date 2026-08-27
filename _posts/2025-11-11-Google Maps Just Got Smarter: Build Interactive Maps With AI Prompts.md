@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Google Maps
-- AI tools
-- interactive maps
+- AI Tools
 keywords: [Google Maps, AI, interactive maps]
 permalink: /Google Maps Just Got Smarter - Build Interactive Maps With AI Prompts/
 ---

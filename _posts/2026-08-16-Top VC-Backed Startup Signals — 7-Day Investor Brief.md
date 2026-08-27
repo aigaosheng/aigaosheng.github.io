@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- AI agents
-- Deep tech
+- AI Infrastructure
+- AI Agents
+- Deep Tech
 keywords: [AI startups, venture capital, startup funding, unicorns, Sequoia, Accel, Lightspeed, SoftBank]
 permalink: /Top VC-Backed Startup Signals — Weekly Investor Brief - August 10–16, 2026/
 ---

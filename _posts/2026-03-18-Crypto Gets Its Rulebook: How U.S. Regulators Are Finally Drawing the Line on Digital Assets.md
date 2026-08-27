@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- crypto regulation 
-- SEC crypto rules
-- digital asset classification
+- Crypto Regulation
 keywords: [crypto regulation, digital assets, SEC guidance]
 permalink: /Crypto Gets Its Rulebook- How U.S. Regulators Are Finally Drawing the Line on Digital Assets/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- financial crime compliance
-- banking transformation
+- Agentic AI
 keywords: [agentic AI, financial crime, banking compliance]
 permalink: /The Next Frontline in Banking- How Agentic AI Could Revolutionize the Fight Against Financial Crime/
 ---

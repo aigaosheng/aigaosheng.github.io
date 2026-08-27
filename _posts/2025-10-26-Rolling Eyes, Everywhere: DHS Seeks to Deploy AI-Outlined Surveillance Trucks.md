@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI surveillance
-- border monitoring
-- mobile surveillance trucks
+- AI Surveillance
 keywords: [surveillance, artificial intelligence, border security]
 permalink: /Rolling Eyes, Everywhere - DHS Seeks to Deploy AI-Outlined Surveillance Trucks/
 ---

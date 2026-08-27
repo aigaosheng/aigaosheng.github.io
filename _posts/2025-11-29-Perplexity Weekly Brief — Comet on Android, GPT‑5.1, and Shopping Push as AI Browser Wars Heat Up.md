@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI browser
-- GPT‑5.1 integration
-- AI‑powered shopping
+- AI Browser
+- AI‑powered Shopping
 keywords: [Perplexity, Comet browser, AI shopping]
 permalink: /Perplexity Weekly Brief — Comet on Android, GPT‑5.1, and Shopping Push as AI Browser Wars Heat Up/
 ---

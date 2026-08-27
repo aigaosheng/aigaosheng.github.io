@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Quantum computing
-- Ethical AI
+- Quantum Computing
 keywords: ["AI research trends 2025", "Quantum computing breakthroughs","Ethical AI frameworks","vRAN O-RAN optimization","AI industry insights"]
 ---
 ---

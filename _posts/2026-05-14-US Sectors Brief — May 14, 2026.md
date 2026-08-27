@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- US sector performance
-- AI trade inflation
-- Federal Reserve rate hike
+- Federal Reserve Rate Hike
 keywords: [US sector performance, AI trade inflation, Federal Reserve rate hike]
 permalink: /US Sectors Brief — May 14, 2026/
 ---

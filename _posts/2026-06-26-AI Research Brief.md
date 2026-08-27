@@ -8,9 +8,7 @@ status: publish
 categories: []
 tags:
 - AI Research
-- Hardware
 - Agentic AI
-- LLM Architecture
 keywords: [AI research, Jalapeño chip, Murakkab, Olmo Hybrid, DFlash]
 permalink: /AI-Research-Brief-2026-06-26/
 ---

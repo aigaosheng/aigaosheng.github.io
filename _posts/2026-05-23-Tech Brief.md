@@ -7,7 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Tech
 - AI
 - Quantum Computing
 - Semiconductors

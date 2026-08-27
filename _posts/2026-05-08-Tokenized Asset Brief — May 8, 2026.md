@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenized assets
-- real-world asset tokenization
-- RWA tokenization 2026
+- Tokenized Assets
+- Real World Asset Tokenization
+- RWA Tokenization 2026
 keywords: [tokenized assets, real-world asset tokenization, RWA tokenization 2026]
 permalink: /Tokenized Asset Brief — May 8, 2026/
 ---

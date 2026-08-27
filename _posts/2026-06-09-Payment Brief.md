@@ -8,7 +8,7 @@ status: publish
 categories: ["Finance", "FinTech"]
 tags:
 - Stablecoins
-- Cross-border Payments
+- Cross-Border Payments
 - AI Agents
 - Visa
 - Mastercard

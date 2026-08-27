@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Australian AI
-- Ed Craven
-- AI factory
 keywords: [AI, Australia, investment]
 permalink: /Australia’s Tech Leap - Billionaire Ed Craven Pours A$30 Million Into ‘AI Factory’ to Build Sovereign AI Engine/
 ---

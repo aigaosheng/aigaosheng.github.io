@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- FundingPips 
-- Scam
+- Scams
+
 ---
 ---
 

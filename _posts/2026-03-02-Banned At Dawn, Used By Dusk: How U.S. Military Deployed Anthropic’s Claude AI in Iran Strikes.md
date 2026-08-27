@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Claude AI
-- military AI controversy
-- Anthropic Pentagon debate
 keywords: [AI warfare, military intelligence, Anthropic Claude]
 permalink: /Banned At Dawn, Used By Dusk- How U.S. Military Deployed Anthropic’s Claude AI in Iran Strikes/
 ---

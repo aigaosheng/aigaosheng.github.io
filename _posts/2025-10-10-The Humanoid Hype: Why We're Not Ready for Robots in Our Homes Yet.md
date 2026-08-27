@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Humanoid Robots
-- Robotics Investment
-- Home Automation Safety
 keywords: ["Humanoid Robots","Robotics Investment","Home Automation Safety"]
 ---
 ---

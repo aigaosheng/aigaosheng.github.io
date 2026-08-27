@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-  - AI
-  - Society
-  - AI Governance
-  - Responsible AI
+- AI
+- Society
+- AI Governance
+- Responsible AI
 keywords: [AI, society, governance, regulation]
 permalink: /AI-impact-on-society-Brief-2026-07-15/
 ---

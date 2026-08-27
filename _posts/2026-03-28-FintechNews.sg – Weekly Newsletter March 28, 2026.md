@@ -6,10 +6,9 @@ type: post
 published: true
 status: publish
 categories: []
-tags: 
-- stablecoin adoption
-- AI risk governance
-- cross-border payments
+tags:
+- Stablecoin Adoption
+- Cross-Border Payments
 keywords: [fintech Singapore, digital banking APAC, crypto regulation Southeast Asia]
 permalink: /FintechNews.sg – Weekly Newsletter March 28, 2026/
 ---

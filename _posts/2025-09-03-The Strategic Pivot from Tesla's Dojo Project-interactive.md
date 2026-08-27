@@ -4,11 +4,10 @@ title: "The timeline of TSLA AI Pivot"
 date: 2025-09-03
 categories: [Tesla, AI]
 tags:
-  - Tesla
-  - Dojo
-  - AI5
-  - AI6
-  - FSD
+- Tesla
+- AI5
+- AI6
+- FSD
 published: true
 ---
 

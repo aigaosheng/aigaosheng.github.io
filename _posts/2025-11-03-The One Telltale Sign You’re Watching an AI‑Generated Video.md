@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI video detection
-- synthetic media
-- deepfake sign
+- Synthetic Media
 keywords: [AI video, deepfake warning, media literacy]
 permalink: /The One Telltale Sign You’re Watching an AI‑Generated Video/
 ---

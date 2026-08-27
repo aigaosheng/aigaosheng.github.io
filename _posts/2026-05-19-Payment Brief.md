@@ -7,7 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Payment
+- Payments
 - Fintech
 - Regulation
 - Digital Wallets

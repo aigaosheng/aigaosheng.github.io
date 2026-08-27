@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- eu-ai-act
-- health-policy
-- ai-labeling
-- federal-policy
-- enterprise-governance
+- EU AI Act
+- AI-Labeling
+- Federal-Policy
+- Enterprise-Governance
 keywords: [eu-ai-act, health-policy, ai-labeling, federal-policy, enterprise-governance]
 permalink: /ai-governance-risk-and-compliance-brief-2026-06-02/
 ---

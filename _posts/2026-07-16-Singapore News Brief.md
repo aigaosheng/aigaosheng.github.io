@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-  - Singapore
-  - Economy
-  - Industry
+- Singapore
+- Economy
+- Industries
 keywords: [Singapore, economy, manufacturing, technology, finance, industry]
 permalink: /Singapore-News-by-Sectors-Industry-Brief-2026-07-16/
 ---

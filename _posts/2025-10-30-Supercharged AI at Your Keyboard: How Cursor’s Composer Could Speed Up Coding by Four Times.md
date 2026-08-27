@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Composer LLM
-- agentic coding
-- Cursor 2.0
+- Agentic Coding
 keywords: [AI coding platform, developer productivity, autonomous code agent]
 permalink: /Supercharged AI at Your Keyboard - How Cursor’s Composer Could Speed Up Coding by Four Times/
 ---

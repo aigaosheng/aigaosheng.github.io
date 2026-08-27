@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Canva AI
-- creative productivity
-- Visual Suite
+- Creative Productivity
 keywords: [Canva, generative AI, design platform]
 permalink: /Canva’s AI Leap - Why Rivals Should Be Worried/
 ---

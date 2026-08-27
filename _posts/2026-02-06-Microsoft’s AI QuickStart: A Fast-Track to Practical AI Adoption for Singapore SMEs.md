@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI QuickStart
 - SMEs
-- digital transformation
+- Digital Transformation
 keywords: [AI adoption, enterprise AI, generative AI]
 permalink: /Microsoft’s AI QuickStart- A Fast-Track to Practical AI Adoption for Singapore SMEs/
 ---

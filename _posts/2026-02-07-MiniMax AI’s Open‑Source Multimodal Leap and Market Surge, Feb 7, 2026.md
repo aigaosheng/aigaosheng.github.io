@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Open‑source AI
-- Multimodal models
-- Hong Kong trading surge
+- Open Source AI
+- Multimodal Models
 keywords: [minimax ai, ai models open source, multimodal ai release]
 permalink: /MiniMax AI Open‑Source Multimodal Leap and Market Surge, Feb 7, 2026/
 ---

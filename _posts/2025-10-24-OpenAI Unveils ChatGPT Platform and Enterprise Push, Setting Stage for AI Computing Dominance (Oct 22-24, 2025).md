@@ -8,11 +8,8 @@ status: publish
 categories: []
 tags:
 - OpenAI
-- ChatGPT Platform
 - Enterprise AI
-- GPT-5 Pro
 - Developer Tools
-
 keywords: [AI platform, developer SDK, enterprise AI, ChatGPT apps, OpenAI updates]
 permalink: /OpenAI Unveils ChatGPT Platform and Enterprise Push, Setting Stage for AI Computing Dominance (Oct 22-24, 2025)/
 ---

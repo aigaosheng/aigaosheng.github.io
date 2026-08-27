@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- GPT-5 rollout
-- AI infrastructure investment
-- NVIDIA Rubin GPUs
-- Enterprise AI adoption
-- Data center expansion
+- AI Infrastructure Investment
+- Enterprise AI Adoption
+
 ---
 ---
 **Daily Technology Report — 27 September 2025**

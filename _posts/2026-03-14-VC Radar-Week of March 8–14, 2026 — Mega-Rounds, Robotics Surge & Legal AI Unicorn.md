@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Physical AI & Industrial Robotics
-- Vertical AI / Service-as-Software
-- AI Cloud Infrastructure (GPU Neocloud)
 keywords: [AI funding 2026, robotics unicorn, VC investment March 2026, LegalTech AI, vibe coding Replit, Nvidia AI investment, Series A robotics, venture capital trends, Mind Robotics, Legora Series D]
 permalink: /VC Radar-Week of March 8–14, 2026 — Mega-Rounds, Robotics Surge & Legal AI Unicorns/
 ---

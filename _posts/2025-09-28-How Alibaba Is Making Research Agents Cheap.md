@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic artificial intelligence
-- Offline data synthesis
-- Enterprise AI agents
+- Agentic Artificial Intelligence
+
 ---
 ---
 ## 🔍 How Alibaba Is Making “Research Agents” Cheap (No APIs Needed)

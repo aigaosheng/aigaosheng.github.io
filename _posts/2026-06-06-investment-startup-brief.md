@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- venture-capital
-- startup-funding
-- fintech
-- deeptech
-- ai-startups
+- Venture Capital
+- Startup Funding
+- Fintech
+- Deeptech
+- AI Startups
 keywords: [venture-capital, startup-funding, fintech, deeptech, ai-startups]
 permalink: /investment-startup-brief-2026-06-06/
 ---

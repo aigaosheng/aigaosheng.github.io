@@ -11,7 +11,7 @@ tags:
 - AI Investment
 - Startups
 - Unicorn
-- Spacetech
+- SpaceTech
 keywords: [venture capital, AI funding, startup ecosystem, unicorn, spacetech, retail tech]
 permalink: /Investment-Startup-Brief-2026-05-19/
 ---

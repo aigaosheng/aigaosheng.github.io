@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI health data sharing
-- Verily Me app
-- Personalized healthcare recommendations
+- AI Health Data Sharing
 keywords: [health data, AI healthcare, personalized health]
 ---
 

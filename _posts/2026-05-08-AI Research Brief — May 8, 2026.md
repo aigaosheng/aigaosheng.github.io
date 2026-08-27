@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- GPT-5.5 Instant
-- AI agents 2026
-- embodied AI privacy
+- Embodied AI Privacy
 keywords: []
 permalink: /AI Research Brief — May 8, 2026/
 ---

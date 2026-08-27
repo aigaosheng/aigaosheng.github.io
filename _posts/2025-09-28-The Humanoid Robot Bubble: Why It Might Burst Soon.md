@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Humanoid robots
-- Robotics investment bubble
-- Rodney Brooks
+- Humanoid Robots
+
 ---
 ---
 # 🤖 The Humanoid Robot Bubble: Why It Might Burst Soon

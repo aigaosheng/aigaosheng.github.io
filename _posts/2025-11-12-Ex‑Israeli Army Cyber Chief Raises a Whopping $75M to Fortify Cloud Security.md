@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- cloud‑security
-- runtime‑security
-- Israeli‑cyber
+- Cloud Security
+- Runtime Security
 keywords: [cloud security, cybersecurity startup, runtime protection]
 permalink: /Ex‑Israeli Army Cyber Chief Raises a Whopping $75M to Fortify Cloud Security/
 ---

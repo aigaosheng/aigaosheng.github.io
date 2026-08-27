@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Claude Code
-- AI coding
-- agent workflows
+- AI Coding
 keywords: [AI development, autonomous agents, developer tools]
 permalink: /Claude Code 2.1.0 Lands With Smarter Agents, Streamlined Workflows, and Real Dev Fuel/
 ---

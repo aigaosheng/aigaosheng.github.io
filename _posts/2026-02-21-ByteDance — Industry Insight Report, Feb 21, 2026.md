@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Video Generation
-- Intellectual Property
-- U.S. AI Expansion
 keywords: [ByteDance, Seedance 2.0, AI copyright lawsuits]
 permalink: /ByteDance — Industry Insight Report, Feb 21, 2026/
 ---

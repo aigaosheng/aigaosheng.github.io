@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- family offices
-- artificial intelligence
-- investment trends
+- Artificial Intelligence
 keywords: [AI, family office, investment priorities]
 permalink: /Family Offices Bet Big on AI, Sideline Crypto and Gold- What JPMorgan’s 2026 Report Reveals/
 ---

@@ -9,7 +9,6 @@ categories: []
 tags:
 - China AI
 - AI Agents
-- AI Computing Power
 - Manufacturing
 keywords: [China AI, computing infrastructure, AI manufacturing, AI chips, inference]
 permalink: /China-AI-Brief-2026-05-20/

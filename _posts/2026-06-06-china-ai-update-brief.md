@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-models
-- semiconductors
-- robotics
-- capital-markets
-- forecasting
+- AI Models
+- Semiconductors
+- Robotics
+- Capital Markets
+- Forecasting
 keywords: [ai-models, semiconductors, robotics, capital-markets, forecasting]
 permalink: /china-ai-update-brief-2026-06-06/
 ---

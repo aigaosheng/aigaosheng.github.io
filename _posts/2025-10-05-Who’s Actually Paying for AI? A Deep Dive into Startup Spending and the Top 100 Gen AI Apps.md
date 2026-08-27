@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI spending
-- Gen AI consumer apps
-- Vibe coding
+- AI Spending
+- Vibe Coding
+
 ---
 ---
 

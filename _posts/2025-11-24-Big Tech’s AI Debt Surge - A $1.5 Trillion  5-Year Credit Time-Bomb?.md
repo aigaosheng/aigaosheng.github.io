@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI debt
-- investment-grade bonds
-- Big Tech credit risk
+- Investment-Grade Bonds
 keywords: [AI infrastructure, corporate bond market, tech company borrowing]
 permalink: /Big Tech’s AI Debt Surge - A $1.5 Trillion  5-Year Credit Time-Bomb?/
 ---

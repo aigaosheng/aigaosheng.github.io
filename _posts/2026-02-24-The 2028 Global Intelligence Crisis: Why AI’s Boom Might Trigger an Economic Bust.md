@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Artificial intelligence
-- economic risk
-- automation and labour
+- Artificial Intelligence
 keywords: [AI, economy, automation]
 permalink: /The 2028 Global Intelligence Crisis- Why AI’s Boom Might Trigger an Economic Bust/
 ---

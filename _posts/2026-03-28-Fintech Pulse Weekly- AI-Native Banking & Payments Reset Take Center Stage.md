@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic  
-- Tokenization  
-- Embedded  
+- Agentic
+- Tokenization
 keywords: [AI-native banking, SEPA Direct Debit, payment regulation  ]
 permalink: /Fintech Pulse Weekly- AI-Native Banking & Payments Reset Take Center Stage/
 ---

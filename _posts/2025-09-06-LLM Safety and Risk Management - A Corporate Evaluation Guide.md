@@ -8,8 +8,9 @@ status: publish
 categories: []
 tags:
 - AI Safety
-- AI governance
-- LLM risk management
+- AI Governance
+- LLM Risk Management
+
 ---
 
 # Systematic Evaluation of Large Language Models Before Corporate Integration

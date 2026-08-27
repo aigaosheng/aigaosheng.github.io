@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- self-supervised learning
-- dataset governance
-- LLM security
-- multimodal annotation
-- uncertainty quantification
+- LLM Security
 keywords: [self-supervised learning,dataset governance,LLM security,multimodal annotation,uncertainty quantification]
 permalink: /Weekly AI Tech Research Update — 15 Nov 2025/
 ---

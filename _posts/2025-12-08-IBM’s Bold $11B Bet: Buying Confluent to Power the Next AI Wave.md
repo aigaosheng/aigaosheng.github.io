@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- IBM
-- Confluent
-- real-time data streaming
+- Real-Time Data Streaming
 keywords: [cloud computing, generative AI, data infrastructure]
 permalink: /IBM’s Bold $11B Bet - Buying Confluent to Power the Next AI Wave/
 ---

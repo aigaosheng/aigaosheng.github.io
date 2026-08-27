@@ -9,7 +9,6 @@ categories: []
 tags:
 - Google Gemini
 - AI Productivity
-- Google Workspace
 keywords: [Generative AI, AI productivity tools, enterprise AI]
 permalink: /Google Supercharges Workspace- Gemini Now Connects Across Apps to Build Documents, Slides, and Insights/
 ---

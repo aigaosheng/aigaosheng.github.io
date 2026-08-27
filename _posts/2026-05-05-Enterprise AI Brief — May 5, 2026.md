@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- AI operating model
-- AI infrastructure
+- Enterprise AI
+- AI Infrastructure
 keywords: [enterprise AI, AI operating model, AI infrastructure]
 permalink: /Enterprise AI Brief — May 5, 2026/
 ---

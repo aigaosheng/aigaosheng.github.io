@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore payments hub
-- digital finance innovation
-- Asia fintech leadership
+- Digital Finance Innovation
 keywords: [fintech, digital payments, Singapore]
 permalink: /Singapore Takes Pole Position in Asia’s Payments Hub Race — What It Means for the Future of Money/
 ---

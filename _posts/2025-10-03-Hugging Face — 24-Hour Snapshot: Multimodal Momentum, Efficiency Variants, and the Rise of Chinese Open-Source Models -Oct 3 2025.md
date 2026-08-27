@@ -8,10 +8,10 @@ status: publish
 categories: []
 tags:
 - Multimodal
-- Energy-efficient models
+- Energy-Efficient Models
 - Hugging Face Hub
-- Chinese open-source AI
-- Model deployment & cost
+- Chinese Open-Source AI
+
 ---
 ---
 

@@ -10,8 +10,7 @@ tags:
 - AI Safety
 - AI Governance
 - Privacy & Data Protection Compliance
-- AI-Specific Regulations & Standards 
-- Sector-Specific Compliance 
+
 ---
 
 ---

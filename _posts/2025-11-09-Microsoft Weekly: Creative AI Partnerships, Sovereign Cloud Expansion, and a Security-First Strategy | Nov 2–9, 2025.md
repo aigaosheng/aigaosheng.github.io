@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- sovereign cloud
-- creative AI
+- Sovereign Cloud
 - Microsoft Sentinel
-- Azure Local
-- marketplace AI
 keywords: [Microsoft Azure, Pantone partnership, secure AI]
 permalink: /Microsoft Weekly - Creative AI Partnerships, Sovereign Cloud Expansion, and a Security-First Strategy Nov 2–9, 2025/
 ---

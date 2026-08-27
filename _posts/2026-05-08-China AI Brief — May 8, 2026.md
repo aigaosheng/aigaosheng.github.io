@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI regulation
-- DeepSeek V4 Huawei Ascend
-- US-China AI summit 2026
+- China AI Regulation
 keywords: [China AI regulation, DeepSeek V4 Huawei Ascend, US-China AI summit 2026]
 permalink: /China AI Brief — May 8, 2026/
 ---

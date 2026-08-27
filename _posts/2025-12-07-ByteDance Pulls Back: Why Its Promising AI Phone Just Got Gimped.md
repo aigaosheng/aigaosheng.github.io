@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - ByteDance
-- Doubao
-- AI smartphone
 keywords: [AI, smartphone, security]
 permalink: /ByteDance Pulls Back - Why Its Promising AI Phone Just Got Gimped/
 ---

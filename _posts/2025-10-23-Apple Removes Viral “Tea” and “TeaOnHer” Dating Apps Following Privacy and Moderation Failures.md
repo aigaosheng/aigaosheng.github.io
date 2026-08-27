@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- dating apps
-- app-store moderation
-- privacy breach
+- App-Store Moderation
 keywords: [dating apps, Apple App Store, privacy concerns]
 permalink: /Apple Removes Viral “Tea” and “TeaOnHer” Dating Apps Following Privacy and Moderation Failures/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI investing
-- tech bubble
-- dotcom era
+- AI Investing
+- Tech Bubble
 keywords: [AI stocks, hedge funds, market strategy]
 permalink: /Investors Revive Dotcom-Era Tactics to Navigate the AI Bubble/
 ---

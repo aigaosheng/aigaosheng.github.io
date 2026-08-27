@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- autonomous AI
-- Meta acquisition
-- AI agents
+- Autonomous AI
+- Meta Acquisition
+- AI Agents
 keywords: [AI agents, enterprise AI, Meta AI]
 permalink: /Meta’s $2B AI Power Play - Why the Manus Acquisition Matters for the Future of AI Agents/
 ---

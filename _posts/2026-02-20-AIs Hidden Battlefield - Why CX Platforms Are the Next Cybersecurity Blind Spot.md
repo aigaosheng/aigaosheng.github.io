@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI security
-- CX platform breach
-- AI blind spots
+- AI Security
 keywords: [AI security, CX platform vulnerabilities, OAuth token risks]
 permalink: /AI Hidden Battlefield - Why CX Platforms Are the Next Cybersecurity Blind Spot/
 ---

@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - US AI
-- NVIDIA
+- Nvidia
 - AI Infrastructure
 - AI Regulation
 - Data Centers

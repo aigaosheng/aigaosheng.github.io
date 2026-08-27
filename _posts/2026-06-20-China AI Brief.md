@@ -9,7 +9,6 @@ categories: []
 tags:
 - China AI
 - GLM
-- Zai
 - AGI
 - AI Policy
 - AI Infrastructure

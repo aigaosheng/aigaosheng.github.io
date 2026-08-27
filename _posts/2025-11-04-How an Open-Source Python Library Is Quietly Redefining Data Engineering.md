@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- data engineering
-- Python library
-- pipeline automation
+- Pipeline Automation
 keywords: [data pipeline, Python developer, open-source]
 permalink: /How an Open-Source Python Library Is Quietly Redefining Data Engineering/
 ---

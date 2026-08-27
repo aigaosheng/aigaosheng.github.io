@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-labeling
-- deepfakes
-- elections
-- platform-governance
-- creator-economy
+- AI-Labeling
+- Deepfakes
+- Elections
+- Platform-Governance
+- Creator Economy
 keywords: [ai-labeling, deepfakes, elections, platform-governance, creator-economy]
 permalink: /ai-impact-on-social-media-society-brief-2026-05-31/
 ---

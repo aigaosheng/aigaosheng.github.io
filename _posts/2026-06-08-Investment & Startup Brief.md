@@ -10,7 +10,7 @@ tags:
 - Venture Capital
 - AI
 - Startups
-- DeepTech
+- Deeptech
 - IPO
 keywords: [VC, startups, AI, funding, deep tech, IPO]
 permalink: /investment-startup-Brief-2026-06-08/

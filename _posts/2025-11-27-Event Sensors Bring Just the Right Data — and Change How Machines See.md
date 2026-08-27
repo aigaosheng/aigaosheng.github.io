@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- event sensors
-- neuromorphic vision
-- edge computing
+- Neuromorphic Vision
 keywords: [event-based, energy-efficient, machine vision]
 permalink: /Event Sensors Bring Just the Right Data — and Change How Machines See/
 ---

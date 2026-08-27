@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- software-failure
-- IT project management
-- legacy systems
+- IT Project Management
 keywords: [software failures, IT project management, legacy system replacement]
 permalink: /When IT Teams Fail at the Basics - Why Big Software Projects Still Collapse/
 ---

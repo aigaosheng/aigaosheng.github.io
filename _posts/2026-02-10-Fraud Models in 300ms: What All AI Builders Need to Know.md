@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- fraud detection
-- real-time AI
-- machine learning systems
+- Real-Time AI
 keywords: [fraud detection, real-time AI, machine learning]
 permalink: /Fraud Models in 300ms - What All AI Builders Need to Know/
 ---

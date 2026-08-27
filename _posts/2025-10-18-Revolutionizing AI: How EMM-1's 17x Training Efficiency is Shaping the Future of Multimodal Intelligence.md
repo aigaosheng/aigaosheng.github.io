@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- EMM-1
 - Encord
-- EBind
 keywords: [multimodal dataset, AI training efficiency, enterprise AI]
 ---
 **Revolutionizing AI: How EMM-1's 17x Training Efficiency is Shaping the Future of Multimodal Intelligence**

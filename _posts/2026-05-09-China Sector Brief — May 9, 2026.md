@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI regulations
-- China trade data April 2026
-- Chinese manufacturing sector
+- China AI Regulation
 keywords: [China AI regulations, China trade data April 2026, Chinese manufacturing sector]
 permalink: /China Sector Brief — May 9, 2026/
 ---

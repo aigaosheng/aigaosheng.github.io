@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI models
-- Gemini 3.1 Flash-Lite
-- GPT-5.3 Instant
+- AI Models
 keywords: [AI, machine learning, generative models]
 permalink: /AI Model Wars Heat Up Google’s Gemini 3.1 Flash-Lite vs OpenAI’s GPT-5.3 Instant – Speed, Cost & Practical Impact/
 ---

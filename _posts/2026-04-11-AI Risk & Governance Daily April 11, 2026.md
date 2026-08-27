@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
-- AI risk management
-- enterprise AI security
+- AI Governance
+- AI Risk Management
+- Enterprise AI Security
 keywords: [AI governance, AI risk management, enterprise AI security]
 permalink: /AI Risk & Governance Daily April 11, 2026/
 ---

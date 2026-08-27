@@ -9,7 +9,6 @@ categories: []
 tags:
 - Open Source AI
 - Diffusion Models
-- Gemma
 - AI Efficiency
 keywords: [Open Source AI, DiffusionGemma, Google, Huawei, open source models, AI efficiency]
 permalink: /Open-Source-AI-Model-Brief-2026-06-12/

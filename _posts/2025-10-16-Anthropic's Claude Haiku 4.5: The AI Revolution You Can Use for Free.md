@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Claude Haiku 4.5
-- Anthropic AI
-- Multi-agent systems
+- Multi-Agent Systems
 keywords: [AI model release, enterprise AI solutions, Claude Haiku 4.5]
 ---
 ---

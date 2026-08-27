@@ -8,7 +8,8 @@ status: publish
 categories: []
 tags:
 - Shadow AI
-- AI Goverance & risk
+- AI Goverance & Risk
+
 ---
 ---
 # Shadow AI：企业里正在悄悄“作乱”的 AI

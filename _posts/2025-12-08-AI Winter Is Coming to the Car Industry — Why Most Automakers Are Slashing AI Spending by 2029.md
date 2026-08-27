@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- automotive AI
-- auto industry 2029
-- Gartner report
-
+- Auto Industry 2029
 keywords: [automakers, artificial intelligence, automotive investment]
 permalink: /AI Winter Is Coming to the Car Industry — Why Most Automakers Are Slashing AI Spending by 2029/
 ---

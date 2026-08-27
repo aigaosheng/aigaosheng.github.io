@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - Investment
-- Startup
+- Startups
 - AI
 - Fintech
 - Venture Capital

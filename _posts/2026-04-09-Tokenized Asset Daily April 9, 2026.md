@@ -9,7 +9,6 @@ categories: []
 tags:
 - Tokenized Assets
 - Digital Finance
-- Blockchain Innovation
 keywords: [Tokenized Assets, Digital Finance, Blockchain Innovation]
 permalink: /Tokenized Asset Daily April 9, 2026/
 ---

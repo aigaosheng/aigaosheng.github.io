@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic multimodal reasonin
-- inference serving optimization
-- RL training robustness
-- model merging compression
-- federated correlation learning
+- Inference Serving Optimization
 keywords: [deployment-ready AI, SLA-guaranteed inference, interpretable medical AI, edge AI efficiency, physical neural hardware]
 permalink: /Weekly AI Tech Research Update May 3, 2026/
 ---

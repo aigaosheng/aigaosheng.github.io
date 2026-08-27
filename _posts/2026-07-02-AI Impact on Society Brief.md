@@ -8,10 +8,9 @@ status: publish
 categories: []
 tags:
 - AI
-- society
-- automation
-- governance
-- labor
+- Society
+- Automation
+- Governance
 keywords: [AI, society, automation, jobs, governance]
 permalink: /AI-Impact-on-Society-or-Life-Brief-2026-07-02/
 ---

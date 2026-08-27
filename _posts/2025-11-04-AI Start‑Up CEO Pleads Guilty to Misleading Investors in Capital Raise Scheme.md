@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- start‑up fraud
-- AI start‑ups
-- investor deception
+- Investor Deception
 keywords: [AI, start‑up, investors]
 permalink: /AI Start‑Up CEO Pleads Guilty to Misleading Investors in Capital Raise Scheme/
 ---

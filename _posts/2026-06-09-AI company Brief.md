@@ -10,7 +10,7 @@ tags:
 - AI
 - Research
 - Workforce
-- Unicorns
+- Unicorn
 keywords: [AI research, workforce development, AI unicorns, NVIDIA, WSJ ranking]
 permalink: /AI-company-Brief-2026-06-09/
 ---

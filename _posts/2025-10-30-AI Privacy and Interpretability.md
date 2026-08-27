@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Language Model Invertibility
-- Transformer Injectivity
 - AI Privacy and Interpretability
 keywords: [Language Model Invertibility,Transformer Injectivity,AI Privacy and Interpretability]
 permalink: /Paper reading - Language Models are Injective and Hence Invertible(arXiv:2510.15511/

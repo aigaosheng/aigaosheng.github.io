@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- image generation
-- representation learning
-- diffusion model]
+- Diffusion Model]
 keywords: [AI architecture, high-quality images, efficient training]
 permalink: /NYU’s Breakthrough AI Architecture Redefines Speed and Quality in Image Generation/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Claude Constitution
 - AI Safety & Governance
-- Global AI Literacy Initiative
 keywords: [Anthropic; Claude AI; AI ethics]
 permalink: /Anthropic Weekly Insight Report — Jan 18–25, 2026/
 ---

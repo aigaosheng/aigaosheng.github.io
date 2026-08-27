@@ -8,9 +8,7 @@ status: publish
 categories: []
 tags:
 - Microsoft Sentinel
-- Secure Future Initiative
-- Copilot Studio
-- AI agents
+- AI Agents
 keywords: [Microsoft security,AI agent platform,Copilot update]
 permalink: /Microsoft Weekly Report (Nov 8–14, 2025)/
 ---

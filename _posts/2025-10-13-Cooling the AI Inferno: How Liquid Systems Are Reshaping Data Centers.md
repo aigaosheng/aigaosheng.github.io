@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Liquid cooling
-- AI data centers
-- Thermal management
+- Thermal Management
 keywords: ["data center cooling", "AI infrastructure", "liquid cooling systems"]
 ---
 ---

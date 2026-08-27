@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Tiny-LLM
-- CPU inference
-- model quantization
+- Tiny LLM
+- Model Quantization
 keywords: [high-performance LLM, on-device AI, low-latency language model]
 permalink: /High-Performance Tiny-LLMs for CPU-Based Deployment/
 ---

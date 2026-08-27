@@ -9,7 +9,6 @@ categories: []
 tags:
 - Gemini 3 Flash
 - AI Models
-- Search & AI Integration
 keywords: [Gemini, AI, Google Update]
 permalink: /Google Weekly Tech & AI Update — Gemini 3 Flash Goes Global Jan 3 2026/
 ---

@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- prompt injection attacks
-- LLM security
-- AI red teaming
+- Prompt Injection Attacks
+- LLM Security
+- AI Red Teaming
 keywords: [prompt injection attacks, LLM security, AI red teaming]
 permalink: /Prompt Injection - The Silent Backdoor Threat Inside AI Systems/
 ---

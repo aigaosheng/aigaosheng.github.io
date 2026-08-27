@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- IBM quantum algorithm
-- AMD chips
-- quantum-classical hybrid
+- IBM Quantum Algorithm
 keywords: [quantum computing, IBM, AMD]
 permalink: /IBM’s Quantum Leap - Key Algorithm Now Runs on Conventional Chips/
 ---

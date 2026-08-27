@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- ChatGPT Advertising
-- ChatGPT Health
 - AI Monetization Strategy
 keywords: [Ads, Healthcare AI, SaaS Strategy]
 permalink: /OpenAI Weekly Update Report, January 17, 2026/

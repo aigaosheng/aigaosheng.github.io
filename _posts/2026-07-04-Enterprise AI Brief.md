@@ -9,7 +9,6 @@ categories: []
 tags:
 - EnterpriseAI
 - AgenticAI
-- AIInfrastructure
 keywords: [enterprise AI, agentic AI, AI agents, enterprise software]
 permalink: /enterprise-ai-Brief-2026-07-04/
 ---

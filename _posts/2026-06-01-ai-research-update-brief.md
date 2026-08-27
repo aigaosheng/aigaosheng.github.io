@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- scientific-discovery
-- ai-safety
-- multimodal-models
-- medical-ai
-- benchmarks
+- Scientific Discovery
+- AI Safety
+- Multimodal Models
+- Medical AI
+- Benchmarks
 keywords: [scientific-discovery, ai-safety, multimodal-models, medical-ai, benchmarks]
 permalink: /ai-research-update-brief-2026-06-01/
 ---

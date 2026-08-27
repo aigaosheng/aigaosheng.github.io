@@ -4,10 +4,7 @@ title: "Agentic Payments and the Future of Autonomous Commerce"
 date: 2026-03-05 20:25:00 +0800
 categories: []
 tags:
-  - agentic-payment
-  - AI agent commerce
-  - autonomous payment infrastructure
-  - AI payment security
+- Agentic Payments
 keywords: [Agentic payment,AI agent commerce,autonomous payment infrastructure,AI payment security]
 published: true
 permalink: /Agentic Payments and the Future of Autonomous Commerce/

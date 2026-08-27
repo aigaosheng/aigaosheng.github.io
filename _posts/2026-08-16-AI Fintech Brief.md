@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
 - AI
-- fintech
-- banking
+- Fintech
+- Banking
 keywords: [AI, fintech, banking]
 permalink: /AI-Fintech-Brief-2026-08-16/
 

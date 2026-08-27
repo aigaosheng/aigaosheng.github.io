@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- AI research
-- open-source AI
-- open models
+- AI Research
+- Open Source AI
+- Open Models
 keywords: [AI research, open-source AI, open models]
 permalink: /AI-research-Open-source-Brief-2026-08-22/
 

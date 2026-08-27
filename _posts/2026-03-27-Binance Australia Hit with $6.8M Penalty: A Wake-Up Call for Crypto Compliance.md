@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Binance Australia
-- crypto regulation
-- investor protection
+- Crypto Regulation
 keywords: [cryptocurrency regulation, Binance fine, crypto compliance]
 permalink: /Binance Australia Hit with $6.8M Penalty- A Wake-Up Call for Crypto Compliance/
 ---

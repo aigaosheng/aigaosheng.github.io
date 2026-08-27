@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI vacation photos
-- Endless Summer app
-- burnout social media
+- Burnout Social Media
 keywords: [AI, burnout, vacation]
 ---
 **Too Burned Out to Travel? The New “Endless Summer” App Lets AI Create Your Vacation Photos — Here’s Why That Matters**

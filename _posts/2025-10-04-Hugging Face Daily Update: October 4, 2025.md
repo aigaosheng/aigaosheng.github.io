@@ -7,11 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- Hugging Face 
-- Multimodal Models 
+- Hugging Face
+- Multimodal Models
 - Energy Efficiency
-- Open-Source AI 
+- Open Source AI
 - AI Research
+
 ---
 ---
 [![Hugging Face Open-Sourced FineVision: A New Multimodal Dataset with 24 Million Samples for Training Vision-Language Models (VLMs) - MarkTechPost](https://images.openai.com/thumbnails/url/DpJNZ3icu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6q8vQJ8PUuq0wtzwlxz_MPKclKDjJ1NDDLz023TPYPjSyKd4wsSvPTzc12VCu2NTQAAB7iJXA)](https://www.marktechpost.com/2025/09/06/hugging-face-open-sourced-finevision-a-new-multimodal-dataset-with-24-million-samples-for-training-vision-language-models-vlms/?amp=)

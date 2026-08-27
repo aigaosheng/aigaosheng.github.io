@@ -8,10 +8,11 @@ status: publish
 categories: []
 tags:
 - Hugging Face
-- Multimodal models
-- Energy efficiency 
-- Chinese AI systems
-- Open-source AI
+- Multimodal Models
+- Energy Efficiency
+- Chinese AI Systems
+- Open Source AI
+
 ---
 ---
 [![Hugging Face releases a free Operator-like agentic AI tool | TechCrunch](https://images.openai.com/thumbnails/url/VKd7YHicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw6JNM11NPcyMTFITq_M8AxPTDZPdTL3SXLOyg6PcC4scs70zChKj_J10g0OVCu2NTQAAPhRJHo)](https://techcrunch.com/2025/05/06/hugging-face-releases-a-free-operator-like-agentic-ai-tool/)

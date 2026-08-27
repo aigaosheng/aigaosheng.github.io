@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Tokenized Real World Assets (RWA)
-- Blockchain Asset Tokenization
-- Digital Asset Infrastructure
 keywords: [Tokenized Real World Assets (RWA), Blockchain Asset Tokenization, Digital Asset Infrastructure]
 permalink: /Tokenized Asset Daily Newsletter April 14, 2026/
 ---

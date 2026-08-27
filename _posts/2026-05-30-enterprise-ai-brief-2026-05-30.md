@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-agents
-- agentic-ai
-- enterprise-software
-- ai-governance
-- ai-infrastructure
+- AI Agents
+- Agentic AI
+- Enterprise-Software
+- AI Governance
+- AI Infrastructure
 keywords: [ai-agents, agentic-ai, enterprise-software, ai-governance, ai-infrastructure]
 permalink: /enterprise-ai-brief-2026-05-30/
 ---

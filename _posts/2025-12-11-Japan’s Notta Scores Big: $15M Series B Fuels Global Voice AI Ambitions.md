@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- voice AI
-- AI transcription
-- startup funding
+- Voice AI
+- Startup Funding
 keywords: [AI transcription, voice productivity, Series B funding]
 permalink: /Japan’s Notta Scores Big - $15M Series B Fuels Global Voice AI Ambitions/
 ---

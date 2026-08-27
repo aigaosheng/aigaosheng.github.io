@@ -12,7 +12,7 @@ tags:
 - Gemini
 - AI Models
 - Agents
-- NVIDIA
+- Nvidia
 - Alibaba
 keywords: [AI models, Gemini 3.5, agentic AI, NVIDIA diffusion, Alibaba Qwen]
 permalink: /AI-Model-Update-Brief-2026-05-22/

@@ -10,8 +10,7 @@ tags:
 - VC
 - Startups
 - AI
-- DeepTech
-- GrowthEquity
+- Deeptech
 keywords: [VC, Startups, AI investment, DeepTech, Growth Equity, Venture Capital]
 permalink: /investment-startup-Brief-2026-06-13/
 ---

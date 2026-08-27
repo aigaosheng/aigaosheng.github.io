@@ -6,12 +6,10 @@ type: post
 published: true  
 status: publish  
 categories: []  
-tags:  
-  - AI Governance  
-  - UN AI Dialogue  
-  - Economic Impact  
-  - Financial Regulation  
-  - Autonomous Systems  
+tags:
+- AI Governance
+- Economic Impact
+- Financial Regulation
 keywords: [AI Governance, UN, Economic Impact, Financial Regulation, Autonomous Systems, Child Safety]  
 permalink: /AI-Impact-Society-Brief-2026-07-13/  
 ---  

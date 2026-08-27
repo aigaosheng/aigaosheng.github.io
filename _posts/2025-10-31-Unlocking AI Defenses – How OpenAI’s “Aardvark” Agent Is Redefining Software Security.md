@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI security
-- Aardvark
-- vulnerability detection
+- AI Security
 keywords: [software security, AI agent, DevSecOps]
 permalink: /Unlocking AI Defenses – How OpenAI’s “Aardvark” Agent Is Redefining Software Security/
 ---

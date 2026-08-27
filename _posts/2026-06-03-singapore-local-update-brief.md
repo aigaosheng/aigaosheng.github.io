@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- crime
-- public-health
-- aquaculture
-- cybersecurity
-- consumer-protection
+- Crime
+- Public Health
+- Cybersecurity
+- Consumer Protection
 keywords: [crime, public-health, aquaculture, cybersecurity, consumer-protection]
 permalink: /singapore-local-update-brief-2026-06-03/
 ---

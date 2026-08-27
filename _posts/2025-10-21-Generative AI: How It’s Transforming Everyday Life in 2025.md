@@ -7,10 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI tools
-- AI creativity
-- AI in daily life
-- AI for beginners
+- AI Tools
+- AI Creativity
 keywords: [Generative AI, AI creativity, AI for beginners, AI in daily life]
 permalink: /Generative AI How It’s Transforming Everyday Life in 2025/
 ---

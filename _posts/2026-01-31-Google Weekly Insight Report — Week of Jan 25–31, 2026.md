@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Overviews Control
 - Search Regulation & Competition
-- Publisher Rights
 keywords: [search, AI regulation, content opt‑out]
 permalink: /Google Weekly Insight Report — Week of Jan 25–31, 2026/
 ---

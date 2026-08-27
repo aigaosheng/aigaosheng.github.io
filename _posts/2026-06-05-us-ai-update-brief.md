@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-policy
-- congress
-- national-security
-- frontier-models
-- data-centers
-- corporate-governance
+- AI Policy
+- National Security
+- Frontier Models
+- Data Centers
+- Corporate Governance
 keywords: [ai-policy, congress, national-security, frontier-models, data-centers, corporate-governance]
 permalink: /us-ai-update-brief-2026-06-05/
 ---

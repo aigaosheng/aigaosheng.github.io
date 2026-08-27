@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- payments
-- fintech
-- cross-border
+- Payments
+- Fintech
+- Cross-Border
 keywords: [payments, fintech, cross-border]
 permalink: /Payment-Brief-2026-08-21/
 

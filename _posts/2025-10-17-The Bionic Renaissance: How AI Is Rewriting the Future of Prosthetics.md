@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI prosthetics
-- machine learning
-- bionic arm]
+- Machine Learning
 keywords: [AI prosthetics, bionic arm, machine learning]
 ---
 **The Bionic Renaissance: How AI Is Rewriting the Future of Prosthetics**

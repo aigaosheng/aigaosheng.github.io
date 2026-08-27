@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- teenage founders
-- Kevin Hartz
-- youth entrepreneurship
+- Youth Entrepreneurship
 keywords: [teen founders, venture capital, youth startups]
 ---
 **Teen Titans of Tech: Why Kevin Hartz Is Betting Almost One-Fifth of His Fund on Teenage Founders — and What That Means for Startups**

@@ -9,11 +9,9 @@ categories: []
 tags:
 - AI
 - Social Media
-- AI Fatigue
 - Generative AI
 - Misinformation
 - AI Bias
-- Data Privacy
 - Cybersecurity
 - AI Regulation
 - UN

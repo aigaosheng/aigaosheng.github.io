@@ -10,7 +10,6 @@ tags:
 - Tokenization
 - RWA
 - DigitalAssets
-- InstitutionalCrypto
 keywords: [Tokenization, Real World Assets, RWA, Securitize, SpaceX]
 permalink: /Tokenized-Asset-Brief-2026-06-08/
 ---

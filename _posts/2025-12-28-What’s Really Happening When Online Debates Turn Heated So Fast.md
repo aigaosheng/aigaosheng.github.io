@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Algorithmic amplification
-- online polarization
-- outrage economy
+- Algorithmic Amplification
 keywords: [Algorithmic amplification, online polarization, outrage economy]
 permalink: /What’s Really Happening When Online Debates Turn Heated So Fast/
 ---

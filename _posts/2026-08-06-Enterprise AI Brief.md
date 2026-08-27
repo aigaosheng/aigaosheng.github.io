@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise-ai
-- agentic-ai
-- generative-ai
+- Enterprise AI
+- Agentic AI
+- Generative AI
 keywords: [enterprise-ai, agentic-ai, generative-ai]
 permalink: /Enterprise-AI-Brief-2026-08-06/
 ---

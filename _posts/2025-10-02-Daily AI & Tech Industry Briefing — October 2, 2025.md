@@ -9,9 +9,7 @@ categories: []
 tags:
 - AI Infrastructure
 - Agentic AI
-- Smart Home
-- Enterprise Integration
-- Sovereign Adoption
+
 ---
 ---
 

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- fintech banking
-- digital payments
-- stablecoin regulation
+- Digital Payments
+- Stablecoin Regulation
 keywords: [fintech banking, digital payments, stablecoin regulation]
 permalink: /Daily Fintech Newsletter — Dec 23 2025/
 ---

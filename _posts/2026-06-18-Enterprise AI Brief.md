@@ -11,7 +11,6 @@ tags:
 - Agentic AI
 - AI Funding
 - AI Infrastructure
-- AI Workforce
 keywords: [Enterprise AI, Agentic AI, AI funding, AI infrastructure, AI workforce]
 permalink: /Enterprise-AI-Brief-2026-06-18/
 ---

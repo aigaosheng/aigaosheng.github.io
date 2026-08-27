@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Brookfield
-- AI infrastructure
+- AI Infrastructure
 - Nvidia
 keywords: [AI, infrastructure, investment]
 permalink: /Brookfield Aims to Raise $10B for AI Infrastructure Push — Backed by Nvidia and KIA/

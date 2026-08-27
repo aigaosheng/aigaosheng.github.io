@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI mental health
-- therapy chatbot
-- chatbot risks
+- AI Mental Health
 keywords: [AI, mental health, chatbot]
 permalink: /When Chatbots Comfort and When They Can Harm The Double-Edged Sword of AI Mental Health/
 ---

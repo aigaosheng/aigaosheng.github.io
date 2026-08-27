@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-regulation
-- ai-governance
-- compliance
-- biosecurity
-- eu-ai-act
-- judicial-policy
+- AI Regulation
+- AI Governance
+- Compliance
+- EU AI Act
 keywords: [ai-regulation, ai-governance, compliance, biosecurity, eu-ai-act, judicial-policy]
 permalink: /ai-governance-risk-and-compliance-brief-2026-06-04/
 ---

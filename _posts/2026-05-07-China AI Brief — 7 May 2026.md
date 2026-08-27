@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI strategy
-- DeepSeek funding
-- AI geopolitics
+- China AI Strategy
+- AI Geopolitics
 keywords: [China AI strategy, DeepSeek funding, AI geopolitics]
 permalink: /China AI Brief — 7 May 2026/
 ---

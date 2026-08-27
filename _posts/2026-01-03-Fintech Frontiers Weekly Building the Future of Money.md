@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - Innovation
-- digital wallets
+- Digital Wallets
 - Agentic AI
 keywords: [Fintech Trends, Payments Innovation, AI in Financial Services]
 permalink: /Fintech Frontiers Weekly — Building the Future of Money January 3, 2026/

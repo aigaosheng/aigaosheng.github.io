@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- illinois-ai-safety
-- frontier-model-regulation
-- anthropic-mythos
-- state-ai-legislation
-- third-party-audits
+- Frontier-Model-Regulation
 keywords: [illinois-ai-safety, frontier-model-regulation, anthropic-mythos, state-ai-legislation, third-party-audits]
 permalink: /us-ai-policy-brief-2026-06-01/
 ---

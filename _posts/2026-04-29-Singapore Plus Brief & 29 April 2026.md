@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore AI 2026
-- Singapore banking news
-- Singapore economy update
+- Singapore Economy Update
 keywords: [Singapore AI 2026, Singapore banking news, Singapore economy update]
 permalink: /Singapore Plus Brief & 29 April 2026/
 ---

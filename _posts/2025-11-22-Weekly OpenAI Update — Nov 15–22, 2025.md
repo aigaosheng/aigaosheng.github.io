@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- GPT-5.1
-- AI safety
-- enterprise partnerships
+- GPT‑5.1
+- AI Safety
 keywords: [GPT-5.1, OpenAI partnerships, AI for science]
 permalink: /Weekly OpenAI Update — Nov 15–22, 2025/
 ---

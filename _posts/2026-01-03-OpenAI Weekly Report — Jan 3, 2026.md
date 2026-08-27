@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Talent Development
-- Policy Update
-- OpenAI Grove
 keywords: [OpenAI, AI Innovation, Developer Programs]
 permalink: /OpenAI Weekly Report — Jan 3, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key fintech funding
-- hospitality payments
-- PayPal Ventures
+- Key Fintech Funding
 keywords: [payments, restaurant, fintech]
 permalink: /Why PayPal Is Betting Big on Restaurant Payments- Klearly’s $14M Series A Raises the Stakes in Hospitality Fintech/
 ---

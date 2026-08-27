@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- payment processing lifecycle
-- fintech compliance
-- payment rails 
-- cross-border payments 
-- financial crime prevention 
+- Payment Processing Lifecycle
+- Fintech Compliance
+- Payment Rails
+- Cross-Border Payments
+- Financial Crime Prevention
 keywords: [payment processing lifecycle,fintech compliance,payment rails,ross-border payments,financial crime prevention ]
 permalink: /The Complete Guide to Payment Transactions, Payouts & Remittances - Interactive/
 ---

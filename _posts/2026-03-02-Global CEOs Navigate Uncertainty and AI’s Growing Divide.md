@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- CEO confidence
-- AI adoption
-- global risks
+- AI Adoption
 keywords: [AI integration, CEO outlook, business transformation]
 permalink: /Global CEOs Navigate Uncertainty and AI’s Growing Divide/
 ---

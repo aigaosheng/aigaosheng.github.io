@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic browsing
-- AI browser
-- web automation
+- Agentic Browsing
+- AI Browser
 keywords: [AI browser, agentic browser, browser security]
 permalink: /Why Agentic Browsing Isn’t Killing Google Chrome — Yet/
 ---

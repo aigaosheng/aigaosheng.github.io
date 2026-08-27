@@ -9,7 +9,6 @@ categories: []
 tags:
 - AI Payments
 - Digital Wallets
-- Fintech Automation
 keywords: [AI Payments,Digital Wallets,Fintech Automation]
 permalink: /Daily Fintech Pulse — Payments & AI - Smarter, Faster, More Connected/
 ---

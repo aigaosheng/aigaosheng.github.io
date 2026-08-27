@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- BrainCo
-- Hong Kong IPO 
-- brain-computer interface
+- Hong Kong IPO
+- Brain-Computer Interface
 keywords: [Brain-Computer, IPO, Neurotechnology]
 permalink: /Brain-Computer Breakthrough to Wall Street- China’s BrainCo Eyes Hong Kong IPO/
 ---

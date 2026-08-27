@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI productivity
-- workslop
-- Deloitte
+- AI Productivity
+- Workslop
 keywords: [AI productivity, generative AI, workplace trust]
 permalink: /AI’s Productivity Promise Collides with “Workslop” - Lessons from Deloitte and the New Office Crisis/
 ---

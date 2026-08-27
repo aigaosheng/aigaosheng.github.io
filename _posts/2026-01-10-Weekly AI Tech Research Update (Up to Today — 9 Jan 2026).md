@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- online multicalibration 
-- LLM prompt optimization 
-- retrieval QA safety 
-- neural compiler frameworks
+- Neural Compiler Frameworks
 keywords: [topology robustness, ignorance admission, hardware‑aware ML]
 permalink: /Weekly AI Tech Research Update (Up to Today — 9 Jan 2026)/
 ---

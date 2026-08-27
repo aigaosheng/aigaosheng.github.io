@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - Agentic Payments
-- Real-Time Infrastructure
 - Digital Banking
 keywords: [fintech, digital banking, real-time payments]
 permalink: /Fintech Pulse- AI Payments, Digital Euro Momentum, and Neobank Expansion  March 14, 2026/

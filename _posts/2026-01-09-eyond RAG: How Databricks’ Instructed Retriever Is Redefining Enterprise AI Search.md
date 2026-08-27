@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Instructed Retriever
-- Enterprise AI retrieval
-- RAG alternatives
+- RAG Alternatives
 keywords: [enterprise AI, metadata search, instruction-aware retrieval]
 permalink: /eyond RAG - How Databricks’ Instructed Retriever Is Redefining Enterprise AI Search/
 ---

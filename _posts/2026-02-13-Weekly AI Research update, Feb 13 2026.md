@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- LLM reasoning
-- agent evaluation noise 
-- parameter-efficient training
+- LLM Reasoning
 keywords: [inference-time steering, responsible memorization, vision-language benchmarks]
 permalink: /Weekly AI Research update, Feb 13 2026/
 ---

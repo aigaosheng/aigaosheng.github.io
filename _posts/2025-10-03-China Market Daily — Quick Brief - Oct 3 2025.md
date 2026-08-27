@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Foreign inflows 
-- Semiconductors 
-- Consumer safety (Xiaomi SU7)
+- Semiconductors
+
 ---
 ---
 

@@ -8,10 +8,6 @@ status: publish
 categories: []
 tags:
 - China AI
-- AI芯片
-- 算力
-- 大模型
-- 科创板
 keywords: [China AI, AI芯片, 算力基础设施, 大模型, 科创板, 字节跳动, 微软]
 permalink: /China-AI-Brief-2026-06-18/
 ---

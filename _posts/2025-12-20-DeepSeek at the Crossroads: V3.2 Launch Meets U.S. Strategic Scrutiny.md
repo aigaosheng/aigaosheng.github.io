@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - DeepSeek‑V3.2
-- U.S. national security review
-- agent‑oriented AI
 keywords: [DeepSeek release, AI national security, LLM agents]
 permalink: /DeepSeek at the Crossroads - V3.2 Launch Meets U.S. Strategic Scrutiny/
 ---

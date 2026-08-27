@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Slack
 - Claude
+
 ---
 ---
 # When Platforms Change the Rules: Slack’s Price Shock and Claude’s User Ban

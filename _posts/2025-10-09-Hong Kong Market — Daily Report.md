@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- HSBC-Hang Seng privatisation
-- Golden Week retail softening
-- Gold / IPO momentum (Zijin Gold)
+- Gold / IPO Momentum (Zijin Gold)
+
 ---
 ---
 # Hong Kong Market — Daily Report (last 24 hours: **Oct 9, 2025**)

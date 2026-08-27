@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- agentic banking
-- AI fraud detection
+- AI Fintech
+- Agentic Banking
+- AI Fraud Detection
 keywords: [AI fintech, agentic banking, AI fraud detection]
 permalink: /AI + FinTech Brief | 6 May 2026/
 ---

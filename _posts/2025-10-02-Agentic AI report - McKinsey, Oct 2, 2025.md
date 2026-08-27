@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - Agentic AI
-- McKinsey
+
 ---
 ---
 

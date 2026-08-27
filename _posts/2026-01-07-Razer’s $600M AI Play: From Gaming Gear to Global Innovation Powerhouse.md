@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Razer AI investment 
-- AI gaming innovation 
-- AI talent recruitment
-
+- AI Talent Recruitment
 keywords: [AI technology, gaming AI, Razer investment]
 permalink: /Razer’s $600M AI Play- From Gaming Gear to Global Innovation Powerhouse/
 ---

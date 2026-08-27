@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI framework
-- tool adaptation strategies
-- enterprise AI architecture
+- Enterprise AI Architecture
 keywords: [agentic AI, AI orchestration, enterprise AI]
 permalink: /Decoding Agentic AI - A Practical Framework to Navigate the Complexity/
 ---

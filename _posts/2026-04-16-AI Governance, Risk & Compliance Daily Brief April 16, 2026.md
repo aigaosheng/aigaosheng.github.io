@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
-- AI risk management 
-- AI compliance
+- AI Governance
+- AI Risk Management
+- AI Compliance
 keywords: [AI governance, AI risk management, AI compliance]
 permalink: /AI Governance, Risk & Compliance Daily Brief April 16, 2026/
 ---

@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- OpenAI 
-- AI safety
-- Generative video
+- OpenAI
+- AI Safety
+- Generative Video
+
 ---
 ---
 [![Azure OpenAI News September 2025 - Dynamics Edge](https://images.openai.com/thumbnails/url/m9j13nicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4M9y41z_QyTCk1DffyCY3PDUjK8Ct3N_V1y02ODAwrCAyydIlMrkxKL3BzzvcJCzM09rTMM_GocnNVKwYAvpYorw)](https://www.dynamicsedge.com/azure-openai-news-september-2025/)

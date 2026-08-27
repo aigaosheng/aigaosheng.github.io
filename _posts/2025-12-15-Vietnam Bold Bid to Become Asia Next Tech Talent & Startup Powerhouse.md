@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Vietnam tech ecosystem
-- startup hub Asia
-- innovation talent
+- Vietnam Tech Ecosystem
 keywords: [innovation, startup, tech talent]
 permalink: /Vietnam Bold Bid to Become Asia Next Tech Talent & Startup Powerhouse/
 ---

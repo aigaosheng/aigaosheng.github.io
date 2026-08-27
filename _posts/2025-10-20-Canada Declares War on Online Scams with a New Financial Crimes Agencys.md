@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Canada financial crimes agency  
-- online fraud prevention  
-- banking regulation  
+- Canada Financial Crimes Agency
 keywords: [fraud, cybersecurity, regulation]
 permalink: /Canada Declares War on Online Scams with a New Financial Crimes Agencys/
 ---

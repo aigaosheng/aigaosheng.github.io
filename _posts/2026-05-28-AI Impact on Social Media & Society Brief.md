@@ -11,7 +11,6 @@ tags:
 - Social Media
 - Misinformation
 - Regulation
-- Public Trust
 keywords: [AI, social media, misinformation, regulation, public opinion, media literacy]
 permalink: /AI-Social-Media-Brief-2026-05-28/
 ---

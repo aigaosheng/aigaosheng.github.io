@@ -9,7 +9,6 @@ categories: []
 tags:
 - Convergence
 - Agentic
-- On-chain
 keywords: [AI finance, crypto regulation, embedded payments]
 permalink: /The Great On-Chain Reset - SEC Charts Clearer Crypto Rules as AI Reshapes Finance From Core to Edge/
 ---

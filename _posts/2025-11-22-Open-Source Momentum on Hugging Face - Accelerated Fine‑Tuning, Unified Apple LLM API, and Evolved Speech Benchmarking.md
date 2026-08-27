@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Hugging Face updates
-- TRL fine‑tuning
-- AnyLanguageModel Apple
-- Open ASR benchmarking
-- efficient LLM deployment
+- Hugging Face Updates
 keywords: [fine‑tuning, cross‑platform, benchmarking, inference, multimodal]
 permalink: /Open-Source Momentum on Hugging Face - Accelerated Fine‑Tuning, Unified Apple LLM API, and Evolved Speech Benchmarking/
 ---

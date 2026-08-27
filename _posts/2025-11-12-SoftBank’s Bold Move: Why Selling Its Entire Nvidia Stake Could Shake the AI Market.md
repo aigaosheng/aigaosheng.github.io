@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- SoftBank
 - Nvidia
-- AI infrastructure
+- AI Infrastructure
 keywords: [softbank, nvidia, artificial intelligence]
 permalink: /SoftBank’s Bold Move - Why Selling Its Entire Nvidia Stake Could Shake the AI Market/
 ---

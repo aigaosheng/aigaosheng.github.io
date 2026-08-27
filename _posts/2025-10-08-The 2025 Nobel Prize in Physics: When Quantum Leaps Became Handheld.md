@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Macroscopic quantum tunneling
-- Superconducting qubits
-- Quantum hardware foundation
+- Macroscopic Quantum Tunneling
+
 ---
 ---
 

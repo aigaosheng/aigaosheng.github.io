@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Prompt injection
-- knowledge distillation
-- retrieval poisoning
-- tabular diffusion
-- multimodal alignment
+- Prompt Injection
 keywords: [fairness‑aware recommender, uncertainty calibration, robust agents, synthetic data generation, efficient Transformers]
 permalink: /AI ML Weekly Research Update, Sat, 28 Feb 2026/
 ---

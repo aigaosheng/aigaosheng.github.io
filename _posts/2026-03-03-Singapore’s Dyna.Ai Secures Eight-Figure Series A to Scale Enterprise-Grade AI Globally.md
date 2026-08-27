@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Dyna.Ai
-- enterprise AI
-- Series A
+- Enterprise AI
+- Series a
 keywords: [enterprise AI, AI funding, agentic AI]
 permalink: /Singapore’s Dyna.Ai Secures Eight-Figure Series A to Scale Enterprise-Grade AI Globally/
 ---

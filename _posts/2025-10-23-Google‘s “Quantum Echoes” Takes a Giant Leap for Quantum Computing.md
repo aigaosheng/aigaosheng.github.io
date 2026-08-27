@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum computing
+- Quantum Computing
 - Google
-- algorithm
 keywords: [ quantum, algorithm, Google]
 permalink: /Google‘s “Quantum Echoes” Takes a Giant Leap for Quantum Computing/
 ---

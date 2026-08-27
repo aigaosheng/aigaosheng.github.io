@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Zhipu AI
-- AutoGLM
-- mobile AI agent
 keywords: [phone agent, open source AI, smartphone automation]
 permalink: /Your Phone Can Do the Work Now - Zhipu AI’s AutoGLM Opens the Door to Fully Automated Smartphones/
 ---

@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AiWraith
-- chatbot
-- agent
-- open-source
-- on-device AI
+- Chatbots
+- Agents
+- Open Source
+- On-Device AI
 keywords: [AiWraith, chatbot, agent, open-source, on-device AI]
 permalink: /AiWraith, privacy-first AI agent IOS App/
 ---

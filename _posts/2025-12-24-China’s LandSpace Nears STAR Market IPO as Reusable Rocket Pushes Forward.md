@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- LandSpace
-- STAR Market
-- reusable rockets
+- Reusable Rockets
 keywords: [China space, Rocket IPO, Reusable rocket]
 permalink: /China’s LandSpace Nears STAR Market IPO as Reusable Rocket Pushes Forward/
 ---

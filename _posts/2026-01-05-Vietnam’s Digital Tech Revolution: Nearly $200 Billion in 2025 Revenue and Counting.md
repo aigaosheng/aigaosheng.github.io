@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Vietnam tech boom
-- digital economy growth
-- e-commerce expansion
+- Digital Economy Growth
 keywords: [Vietnam digital tech, e-commerce growth]
 permalink: /Vietnam’s Digital Tech Revolution- Nearly $200 Billion in 2025 Revenue and Counting/
 ---

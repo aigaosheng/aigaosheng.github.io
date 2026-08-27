@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- precision banking
-- agentic AI
-- banking strategy
+- Agentic AI
 keywords: [future of banking, AI in banking, banking profitability]
 permalink: /Why the Biggest Banks May Lose Next—and the Most Precise Ones Will Win/
 ---

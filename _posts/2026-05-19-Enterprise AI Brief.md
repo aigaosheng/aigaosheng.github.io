@@ -10,8 +10,7 @@ tags:
 - Enterprise AI
 - Agentic AI
 - AI Infrastructure
-- NVIDIA
-- Dell
+- Nvidia
 keywords: [Enterprise AI, Agentic AI, AI Factory, Data Infrastructure, Generative AI]
 permalink: /Enterprise-AI-Brief-2026-05-19/
 ---

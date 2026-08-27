@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- agentic banking
-- AI financial infrastructure
+- AI Fintech
+- Agentic Banking
+- AI Financial Infrastructure
 keywords: [AI fintech, agentic banking, AI financial infrastructure]
 permalink: /AI + Fintech Brief — April 23, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Knight FinTech
-- Accel funding
-- banking infrastructure
+- Banking Infrastructure
 keywords: [fintech, banking infrastructure, Series A funding]
 permalink: /Inside Knight FinTech’s Big Leap - Accel Leads Major Funding Boost for India’s Banking Backbone/
 ---

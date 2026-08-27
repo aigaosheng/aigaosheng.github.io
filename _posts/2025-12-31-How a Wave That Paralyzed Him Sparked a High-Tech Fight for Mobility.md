@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- paralysis recovery
-- AI rehabilitation tech
-- spinal injury breakthroughs
-
-
+- Spinal Injury Breakthroughs
 keywords: [rehabilitation, spinal injury, assistive technology]
 permalink: /How a Wave That Paralyzed Him Sparked a High-Tech Fight for Mobility/
 ---

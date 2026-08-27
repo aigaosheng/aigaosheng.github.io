@@ -9,7 +9,6 @@ categories: []
 tags:
 - Sovereign AI
 - AML Compliance
-- Blockchain Infrastructure
 keywords: [Fintech News, Sovereign AI, Wise AML Probe]
 permalink: /Wise Under Probe, Sovereign AI Rises, and Mega-Mergers - Your Weekly Fintech Brief/
 ---

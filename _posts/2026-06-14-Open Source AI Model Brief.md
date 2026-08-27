@@ -9,11 +9,9 @@ categories: []
 tags:
 - Open Source AI
 - LLM
-- DiffusionGemma
 - GLM-5.2
 - Cohere
 - MiniMax
-- Nemotron
 tags:
 keywords: [Open Source AI, Google DiffusionGemma, Zhipu GLM-5.2, Cohere North Mini Code, MiniMax M3, Huawei openPangu 2.0, AI price war]
 permalink: /Open-Source-AI-Brief-2026-06-14/

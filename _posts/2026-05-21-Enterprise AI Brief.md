@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - Enterprise AI
-- AI Failure Rate
 - Agentic AI
 - AI Infrastructure
 keywords: [Enterprise AI, AI ROI, Agentic AI, OpenAI Compute, AI Execution Gap]

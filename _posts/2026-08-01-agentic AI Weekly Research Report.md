@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic-ai
-- artificial-intelligence
-- enterprise-ai
+- Agentic AI
+- Artificial Intelligence
+- Enterprise AI
 keywords:
 - agentic-ai
 - ai-agents

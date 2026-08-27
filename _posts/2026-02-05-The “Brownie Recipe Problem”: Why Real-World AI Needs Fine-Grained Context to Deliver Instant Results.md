@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- fine-grained context
-- real-time LLM challenges
-- AI orchestration
+- AI Orchestration
 keywords: [AI context, LLM performance, real-time intelligence]
 permalink: /The Brownie Recipe Problem - Why Real-World AI Needs Fine-Grained Context to Deliver Instant Results/
 ---

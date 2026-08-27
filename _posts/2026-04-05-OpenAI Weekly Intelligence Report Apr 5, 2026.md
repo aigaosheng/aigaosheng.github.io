@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Super App
 - Agentic AI Platform
-- AI Capital Arms Race
 keywords: [OpenAI, ChatGPT, AGI]
 permalink: /OpenAI Weekly Intelligence Report Apr 5, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech trends 2026
-- AI in banking transformation
-- AI-driven financial services
+- AI in Banking Transformation
 keywords: [AI fintech trends 2026, AI in banking transformation, AI-driven financial services]
 permalink: /AI + Fintech Daily Newsletter April 13, 2026/
 ---

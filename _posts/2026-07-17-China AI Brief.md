@@ -8,7 +8,6 @@ status: publish
 categories: [China, AI]
 tags:
 - China AI
-- WAIC
 - AI Governance
 keywords: [China AI, WAIC 2026, AI governance]
 permalink: /China-AI-Brief-2026-07-17/

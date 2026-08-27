@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- upi
-- blockchain-payments
-- aml
-- mobile-payments
-- licensing
+- Upi
+- AML
+- Mobile-Payments
 keywords: [upi, blockchain-payments, aml, mobile-payments, licensing]
 permalink: /payment-brief-2026-06-01/
 ---

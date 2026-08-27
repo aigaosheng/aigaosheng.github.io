@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- arxiv
-- benchmarks
-- multimodal
-- agents
-- model-safety
-- scientific-ai
+- Arxiv
+- Benchmarks
+- Multimodal
+- Agents
+- Model Safety
+- Scientific AI
 keywords: [arxiv, benchmarks, multimodal, agents, model-safety, scientific-ai]
 permalink: /ai-research-update-brief-2026-06-04/
 ---

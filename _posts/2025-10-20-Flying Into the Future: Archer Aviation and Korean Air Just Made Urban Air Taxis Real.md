@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Archer Aviation  
-- Korean Air  
-- eVTOL air taxis  
+- eVTOL Air Taxis
 keywords: [urban air mobility, electric aircraft, advanced aviation]
 permalink: /Flying Into the Future - Archer Aviation and Korean Air Just Made Urban Air Taxis Real/
 ---

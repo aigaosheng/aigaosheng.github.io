@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- shopping research
-- data residency
-- security & transparency
+- Data Residency
 keywords: [ChatGPT, OpenAI, shopping]
 permalink: /OpenAI — Weekly Briefing (Nov 22–29, 2025) - Product Push, Compliance Wins, and Crisis Response/
 ---

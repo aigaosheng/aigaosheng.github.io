@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- streaming wars
-- entertainment news 2026
-- movie releases
+- Entertainment News 2026
 keywords: [streaming wars,entertainment news 2026,movie releases]
 permalink: /Entertainment Daily Newsletter, April 4, 2026/
 ---

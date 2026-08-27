@@ -9,7 +9,6 @@ categories: []
 tags:
 - Agentic AI
 - Fintech Regulation
-- AI Corporate Cards
 keywords: [Agentic AI, Fintech Regulation, AI Corporate Cards]
 permalink: /AI + Fintech Brief — May 8, 2026/
 ---

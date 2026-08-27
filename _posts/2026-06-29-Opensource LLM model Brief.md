@@ -10,7 +10,6 @@ tags:
 - Open Source
 - LLM
 - Agentic AI
-- Local AI
 keywords: [Open Source LLM, Ornith-1.0, GLM-5.2, local AI, agentic coding, inference]
 permalink: /Opensource-LLM-Brief-2026-06-29/
 ---

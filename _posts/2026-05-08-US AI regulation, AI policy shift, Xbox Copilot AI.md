@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- US AI regulation
-- AI policy shift
-- Xbox Copilot AI
+- US AI Regulation
 keywords: [US AI regulation, AI policy shift, Xbox Copilot AI]
 permalink: /US AI Brief — May 8, 2026/
 ---

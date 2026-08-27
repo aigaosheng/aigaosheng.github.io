@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure agents
-- Regulated prediction markets
-- Robotics / physical AI consolidation
-- Vertical AI SaaS (legaltech, workflow)
-- Enterprise infra hires & GP talent
+- Enterprise Infra Hires & GP Talent
 keywords: ["Kalshi funding announcement", "SoftBank ABB robotics acquisition", "Accel n8n Series C", "a16z investment trends 2025",
 "AI agent infrastructure funding"]
 ---

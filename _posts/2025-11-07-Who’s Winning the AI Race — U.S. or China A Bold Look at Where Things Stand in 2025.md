@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI race
-- US-China tech competition
-- artificial intelligence leadership
+- AI Race
 keywords: [AI leadership, US China AI, global AI ecosystem]
 permalink: /Who is Winning the AI Race — US or China A Bold Look at Where Things Stand in 2025/
 ---

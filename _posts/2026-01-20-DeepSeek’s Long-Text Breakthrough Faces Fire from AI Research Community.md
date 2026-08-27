@@ -9,7 +9,6 @@ categories: []
 tags:
 - DeepSeek
 - AI Research
-- Long Context AI
 keywords: [DeepSeek,AI long-text processing, LLM vision compression]
 permalink: /DeepSeek’s Long-Text Breakthrough Faces Fire from AI Research Community/
 ---

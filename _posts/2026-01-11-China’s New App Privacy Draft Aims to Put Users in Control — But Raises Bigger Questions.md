@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China data privacy
-- app regulations
-- personal information protection
+- Personal Information Protection
 keywords: [data privacy, app data rules, user consent]
 permalink: /China’s New App Privacy Draft Aims to Put Users in Control — But Raises Bigger Questions/
 ---

@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - China AI
-- AI+
+- AI
 - Agents
 - LLM
 keywords: [China AI, AI+, LLM, intelligent agents, industrial policy]

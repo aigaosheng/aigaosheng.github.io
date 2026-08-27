@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Razer AI
-- gaming technology
-- Nvidia competition
+- Nvidia Competition
 keywords: [AI gaming, game development, Razer innovation]
 permalink: /Razer’s AI Game Plan - How the Gaming Giant and Its Rivals Are Redefining the Future of Interactive Entertainment/
 ---

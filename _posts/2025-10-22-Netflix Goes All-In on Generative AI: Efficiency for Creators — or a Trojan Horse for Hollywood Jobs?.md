@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- generative AI
-- Netflix AI strategy
-- Hollywood labor and AI
+- Generative AI
 keywords: [generative AI, Netflix, Hollywood]
 permalink: /Netflix Goes All-In on Generative AI - Efficiency for Creators — or a Trojan Horse for Hollywood Jobs/
 ---

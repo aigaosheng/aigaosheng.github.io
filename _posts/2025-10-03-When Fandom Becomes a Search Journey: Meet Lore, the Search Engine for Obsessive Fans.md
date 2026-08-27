@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Fandom search engine
-- Knowledge graph for fans
-- Obsession mapping
+- Knowledge Graph for Fans
+
 ---
 ---
 

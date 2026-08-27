@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI safety
-- model transparency
-- OpenAI confessions
+- AI Safety
 keywords: [AI, transparency, LLM]
 permalink: /AI Truth Serum - Why the Latest from OpenAI Could Change How We Trust Chatbots/
 ---

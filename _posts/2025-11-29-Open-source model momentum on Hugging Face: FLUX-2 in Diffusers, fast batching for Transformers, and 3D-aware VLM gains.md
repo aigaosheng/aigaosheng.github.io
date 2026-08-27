@@ -8,9 +8,6 @@ status: publish
 categories: []
 tags:
 - Hugging Face
-- FLUX-2
-- continuous batching
-- geometry VLM
 - GGUF
 keywords: [deployment, throughput, quantization, multimodal, domain-tuning]
 permalink: /Open-source model momentum on Hugging Face - FLUX-2 in Diffusers, fast batching for Transformers, and 3D-aware VLM gains/

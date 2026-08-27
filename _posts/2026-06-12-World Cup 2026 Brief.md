@@ -9,8 +9,6 @@ status: publish
 categories: []
 tags:
 - FIFA
-- WorldCup2026
-- Football
 keywords: [FIFA, World Cup 2026, Football]
 permalink: /WorldCup2026-Brief-2026-06-12/
 

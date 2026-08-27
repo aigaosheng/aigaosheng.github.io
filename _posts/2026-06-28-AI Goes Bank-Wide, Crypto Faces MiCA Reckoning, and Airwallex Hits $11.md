@@ -9,7 +9,7 @@ categories: []
 tags:
 - Agentic
 - MiCA
-- Stablecoin
+- Stablecoins
 keywords: [AI in banking, cross-border payments, crypto regulation]
 permalink: /AI Goes Bank-Wide, Crypto Faces MiCA Reckoning, and Airwallex Hits $11/
 ---

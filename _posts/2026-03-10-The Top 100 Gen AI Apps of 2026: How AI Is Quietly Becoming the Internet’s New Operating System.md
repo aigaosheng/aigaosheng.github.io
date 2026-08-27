@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - Generative AI
-- AI Apps
 - AI Agents
 keywords: [Generative AI apps, AI agents, consumer AI platforms]
 permalink: /The Top 100 Gen AI Apps of 2026- How AI Is Quietly Becoming the Internet’s New Operating System/

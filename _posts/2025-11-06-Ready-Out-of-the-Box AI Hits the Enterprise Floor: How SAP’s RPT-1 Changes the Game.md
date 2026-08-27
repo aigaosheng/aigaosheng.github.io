@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- tabular model
-- SAP RPT-1 
+- Enterprise AI
 keywords: [enterprise AI, predictive analytics, tabular data]
 permalink: /Ready-Out-of-the-Box AI Hits the Enterprise Floor - How SAP’s RPT-1 Changes the Game/
 ---

@@ -9,9 +9,7 @@ categories: []
 tags:
 - Enterprise AI
 - Google
-- Blackstone
 - AI Infrastructure
-- AI Operating System
 keywords: [Enterprise AI, Google, Blackstone, AI Infrastructure, AI Operating System]
 permalink: /Enterprise-AI-Brief-2026-05-20/
 ---

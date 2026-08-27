@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI automation
-- scale-up regulation
-- digital banking
+- AI Automation
+- Digital Banking
 keywords: [AI automation, scale-up regulation, digital banking]
 permalink: /Fintech Frontline- AI Lending, Core Upgrades & Regulatory Scale-Up 7 February 2026/
 ---

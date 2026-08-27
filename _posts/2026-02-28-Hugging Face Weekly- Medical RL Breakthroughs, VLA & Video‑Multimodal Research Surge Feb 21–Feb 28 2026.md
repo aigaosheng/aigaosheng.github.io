@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- HuggingFace updates
-- multimodal models research
-- open‑source AI models
-- medical reinforcement learning
-- vision‑language‑action
+- HuggingFace Updates
+- Open‑source AI Models
+- Vision‑language‑action
 keywords: [HuggingFace updates, multimodal models research, open‑source AI models, medical reinforcement learning, vision‑language‑action]
 permalink: /Hugging Face Weekly- Medical RL Breakthroughs, VLA & Video‑Multimodal Research Surge Feb 21–Feb 28 2026/
 ---

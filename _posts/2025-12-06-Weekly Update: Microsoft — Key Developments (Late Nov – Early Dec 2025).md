@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Microsoft 365 Copilot Business
-- Quarterly Dividend
-- AI Productivity for SMBs
 keywords: [Microsoft, Copilot Business, Dividend]
 permalink: /Weekly Update - Microsoft — Key Developments (Late Nov – Early Dec 2025)/
 ---

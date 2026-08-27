@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
-- Data platform unification
-- Enterprise productivity innovation
+- AI Governance
 keywords: [Microsoft AI, Copilot leadership, Power Platform updates]
 permalink: /Microsoft Weekly Insight Report, March 21, 2026/
 ---

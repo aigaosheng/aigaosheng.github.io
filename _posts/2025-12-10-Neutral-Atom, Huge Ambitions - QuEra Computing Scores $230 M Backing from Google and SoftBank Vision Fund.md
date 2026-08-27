@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum computing
-- neutral atom
-- QuEra
+- Quantum Computing
+- Neutral Atom
 keywords: [quantum, funding, neutral-atom]
 permalink: /Neutral-Atom, Huge Ambitions - QuEra Computing Scores $230 M Backing from Google and SoftBank Vision Fund/
 ---

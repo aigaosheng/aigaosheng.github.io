@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI therapy
-- mental health chatbots
-- therapeutic technology
+- AI Therapy
+- Mental Health Chatbots
 keywords: [AI therapy, mental health, chatbot support]
 permalink: /When Your Therapist Uses ChatGPT - AI Steps Into Mental Health/
 ---

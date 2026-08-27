@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- frontier AI competition
-- AI geopolitics
-- multi-cloud AI
+- AI Geopolitics
 keywords: [frontier AI competition, AI geopolitics, multi-cloud AI]
 permalink: /Weekly Frontier AI Labs Intelligence Brief — 2026-05-03/
 ---

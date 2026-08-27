@@ -10,7 +10,7 @@ categories: []
 tags:
 - China AI
 - US AI
-- artificial intelligence
+- Artificial Intelligence
 keywords: [China AI, US AI, artificial intelligence]
 permalink: /China-AI-vs-US-AI-Brief-2026-08-16/
 

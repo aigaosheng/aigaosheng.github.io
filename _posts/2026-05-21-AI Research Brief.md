@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - AI
-- Mathematical Reasoning
 - AI Agents
 - Scientific Discovery
 - Space Tech

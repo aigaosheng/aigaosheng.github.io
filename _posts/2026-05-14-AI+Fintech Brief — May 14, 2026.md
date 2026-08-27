@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- fintech regulation
-- generative AI ROI
+- Agentic AI
+- Fintech Regulation
 keywords: [agentic AI, fintech regulation, generative AI ROI]
 permalink: /AI+Fintech Brief — May 14, 2026/
 ---

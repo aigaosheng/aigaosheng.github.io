@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic payments
-- AI commerce
-- Mastercard Agent Pay
+- Agentic Payments
+- AI Commerce
 keywords: [agentic, AI payments, digital payments]
 permalink: /AI on Your Behalf- Mastercard’s Agentic Payment Breakthrough in Singapore/
 ---

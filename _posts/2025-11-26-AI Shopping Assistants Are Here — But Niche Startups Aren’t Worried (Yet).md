@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI shopping assistants
-- vertical AI
-- e-commerce
+- AI Shopping Assistants
+- Vertical AI
+- E-Commerce
 keywords: [AI shopping, personalized recommendations, e-commerce trends]
 permalink: /AI Shopping Assistants Are Here — But Niche Startups Aren’t Worried (Yet)/
 ---

@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - AI
-- enterprise risk
-- generative AI
+- Enterprise Risk
+- Generative AI
 keywords: [AI, enterprise, generative-ai]
 permalink: /“AI Denial” Is the Real Enterprise Threat - Why Calling Everything “Slop” Undermines How Far AI Has Come/
 ---

@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Brain-Computer Interface
-- Extreme engineering  
-- Sustainable electronics
+
 ---
 ---
 **You Won’t Believe These 11 Bizarre Tech Records Actually Exist**  

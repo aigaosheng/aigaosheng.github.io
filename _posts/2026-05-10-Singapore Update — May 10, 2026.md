@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore banking sector Q1 2026 earnings,
-- Singapore green finance and carbon hub policy
-- Singapore enterprise AI startup funding
+- Singapore Green Finance and Carbon Hub Policy
 keywords: [Singapore banking sector Q1 2026 earnings, Singapore green finance and carbon hub policy, Singapore enterprise AI startup funding]
 permalink: /Singapore Update — May 10, 2026/
 ---

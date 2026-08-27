@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- GitHub Agent HQ
-- AI coding agents
-- enterprise governance
+- AI Coding Agents
+- Enterprise-Governance
 keywords: [AI development platform, enterprise coding agents, agent orchestration]
 permalink: /“One Console to Rule Them All” — How GitHub’s Agent HQ is Turning AI Coding Chaos into Control/
 ---

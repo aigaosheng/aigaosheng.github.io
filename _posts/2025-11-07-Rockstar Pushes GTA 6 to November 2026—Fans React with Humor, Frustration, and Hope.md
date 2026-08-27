@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- GTA 6
 - Rockstar Games
-- game delay
 keywords: [GTA 6, Rockstar Games, Vice City]
 permalink: /Rockstar Pushes GTA 6 to November 2026—Fans React with Humor, Frustration, and Hope/
 ---

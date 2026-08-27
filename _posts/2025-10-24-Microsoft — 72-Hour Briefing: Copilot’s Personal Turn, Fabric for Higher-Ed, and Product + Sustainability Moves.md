@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Copilot
-- Microsoft Fabric
-- enterprise AI
-- datacenter sustainability
-- Power BI
+- Enterprise AI
 keywords: [Copilot, Microsoft Fabric, AI updates]
 permalink: /Microsoft — 72-Hour Briefing - Copilot’s Personal Turn, Fabric for Higher-Ed, and Product + Sustainability Moves/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Indonesian banking fraud
-- BI-FAST cybersecurity
-- digital payment security
+- Indonesian Banking Fraud
 keywords: [cybersecurity, payment fraud, digital banking]
 permalink: /Indonesia Banks on the Defensive - How a Nearly $12M Payment Fraud Sparked a Cybersecurity Shake-Up/
 ---

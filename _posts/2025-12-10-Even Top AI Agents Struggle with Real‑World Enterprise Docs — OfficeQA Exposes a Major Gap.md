@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- OfficeQA
-- enterprise AI
-- document parsing
+- Enterprise AI
 keywords: [officeqa, enterprise ai, document intelligence]
 permalink: /Even Top AI Agents Struggle with Real‑World Enterprise Docs — OfficeQA Exposes a Major Gap/
 ---

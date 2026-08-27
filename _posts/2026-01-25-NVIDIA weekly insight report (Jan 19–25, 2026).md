@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Infrastructure
-- Cloud Gaming Enhancements
-- Industry Partnerships
 keywords: [NVIDIA 2026 updates, GeForce NOW new features, AI co‑innovation lab]
 permalink: /NVIDIA weekly insight report (Jan 19–25, 2026)/
 ---

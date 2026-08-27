@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Research
-- Autonomous Agents
 - Physical AI
 keywords: [AI Research, Autonomous Agents, Physical AI]
 permalink: /AI Research Daily Brief April 16, 2026/

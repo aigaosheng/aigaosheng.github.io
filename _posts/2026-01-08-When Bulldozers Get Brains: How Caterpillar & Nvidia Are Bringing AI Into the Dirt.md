@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI in construction
-- edge AI
-- digital twins
+- Edge AI
 keywords: [AI, construction technology, Nvidia]
 permalink: /When Bulldozers Get Brains - How Caterpillar & Nvidia Are Bringing AI Into the Dirt/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- financial AI security
-- agentic finance
+- AI Fintech
+- Agentic Finance
 keywords: [AI fintech, financial AI security, agentic finance]
 permalink: /AI + Fintech Brief — May 4, 2026/
 ---

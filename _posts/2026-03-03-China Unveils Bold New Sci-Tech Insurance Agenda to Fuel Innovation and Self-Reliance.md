@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- sci-tech insurance
-- China innovation policy
-- tech risk coverage
+- China Innovation Policy
 keywords: [China tech insurance, innovation support policy, sci-tech risk management]
 permalink: /China Unveils Bold New Sci-Tech Insurance Agenda to Fuel Innovation and Self-Reliance/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI management
-- workplace automation
-- human agency
+- Workplace Automation
 keywords: [AI, management, automation]
 permalink: /When AI Becomes the Boss’s Best Friend and Worst Enemy/
 ---

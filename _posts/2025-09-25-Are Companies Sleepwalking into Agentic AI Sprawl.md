@@ -7,8 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI 
-- Privacy trade-off
+- Agentic AI
+- Privacy Trade-Off
+
 ---
 ---
 # Are Companies Sleepwalking into Agentic AI Sprawl? 🤖💥

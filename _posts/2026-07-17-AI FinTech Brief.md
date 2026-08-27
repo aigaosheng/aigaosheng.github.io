@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-  - AI
-  - FinTech
-  - Digital Finance
+- AI
+- Fintech
+- Digital Finance
 keywords: [AI, FinTech, Digital Finance]
 permalink: /AI-FinTech-Brief-2026-07-17/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Adobe acquisition
-- Semrush deal
-- AI marketing tools
+- AI Marketing Tools
 keywords: [Adobe, Semrush, generative AI]
 permalink: /Adobe Accelerates Into AI Marketing with $1.9B Semrush Acquisition/
 ---

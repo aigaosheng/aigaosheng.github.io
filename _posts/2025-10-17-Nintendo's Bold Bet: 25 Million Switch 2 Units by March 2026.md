@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Nintendo
-- Switch 2
 - Gaming Industry
 keywords: [Nintendo Switch 2, Console Production, Gaming Market Trends]
 ---

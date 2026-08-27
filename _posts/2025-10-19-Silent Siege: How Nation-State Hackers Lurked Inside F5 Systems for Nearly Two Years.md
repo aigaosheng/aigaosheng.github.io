@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- F5 breach
-- nation-state hackers
-- cyber dwell time
+- Cyber Dwell Time
 keywords: [F5, nation-state, cyber security]
 ---
 **Silent Siege: How Nation-State Hackers Lurked Inside F5 Systems for Nearly Two Years**

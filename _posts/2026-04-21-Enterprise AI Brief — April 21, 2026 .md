@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- agentic systems
-- AI security
+- Enterprise AI
+- Agentic Systems
+- AI Security
 keywords: [enterprise AI, agentic systems, AI security]
 permalink: /Enterprise AI Brief — April 21, 2026/
 ---

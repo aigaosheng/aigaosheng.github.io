@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Elon Musk
-- Tesla Optimus
-- humanoid robots
+- Humanoid Robots
 keywords: [AI, robotics, Tesla]
 permalink: /Elon Musk’s Next Frontier - Why Humanoid Robots Could Eclipse Tesla’s Cars/
 ---

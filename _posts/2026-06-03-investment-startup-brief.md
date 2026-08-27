@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- startup-funding
-- defense-tech
-- ai-startups
-- space-tech
-- venture-capital
+- Startup Funding
+- Defense-Tech
+- AI Startups
+- Space Tech
+- Venture Capital
 keywords: [startup-funding, defense-tech, ai-startups, space-tech, venture-capital]
 permalink: /investment-startup-brief-2026-06-03/
 ---

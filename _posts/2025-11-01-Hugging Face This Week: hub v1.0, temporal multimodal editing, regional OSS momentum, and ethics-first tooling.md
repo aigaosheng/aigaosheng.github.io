@@ -8,10 +8,8 @@ status: publish
 categories: []
 tags:
 - HuggingFace
-- huggingface_hub v1.0
-- ChronoEdit
-- multimodal models
-- AI infrastructure
+- Multimodal Models
+- AI Infrastructure
 keywords: [models, deployment, dataset, reproducibility, ethics]
 permalink: /Hugging Face This Week - hub v1.0, temporal multimodal editing, regional OSS momentum, and ethics-first tooling/
 ---

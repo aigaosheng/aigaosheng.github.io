@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-policy
-- executive-order
-- national-security
-- nairr
-- senate
+- AI Policy
+- National Security
 keywords: [ai-policy, executive-order, national-security, nairr, senate]
 permalink: /us-ai-update-brief-2026-06-03/
 ---

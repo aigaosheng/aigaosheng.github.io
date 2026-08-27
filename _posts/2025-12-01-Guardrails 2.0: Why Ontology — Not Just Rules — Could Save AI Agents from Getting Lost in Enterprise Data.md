@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- ontology
-- AI agents
-- enterprise data
+- AI Agents
 keywords: [ontology, AI agents, enterprise data]
 permalink: /Guardrails 2.0 - Why Ontology — Not Just Rules — Could Save AI Agents from Getting Lost in Enterprise Data/
 ---

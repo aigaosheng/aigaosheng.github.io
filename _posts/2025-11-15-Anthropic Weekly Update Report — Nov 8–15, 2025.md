@@ -10,8 +10,8 @@ tags:
 - Anthropic
 - Claude AI
 - Infrastructure
-- Global expansion
-- AI security
+- Global Expansion
+- AI Security
 keywords: [Anthropic investment,Claude AI agent,AI cyber espionage]
 permalink: /Anthropic Weekly Update Report — Nov 8–15, 2025/
 ---

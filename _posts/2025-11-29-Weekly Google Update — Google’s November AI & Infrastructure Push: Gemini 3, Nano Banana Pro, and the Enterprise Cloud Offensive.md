@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Gemini 3
-- sovereign cloud
-- Google Cloud AI
+- Gemini 3
+- Sovereign Cloud
 keywords: [Gemini, cloud, AI]
 permalink: /Weekly Google Update — Google’s November AI & Infrastructure Push - Gemini 3, Nano Banana Pro, and the Enterprise Cloud Offensive/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Market Report
-- Energy Stocks
 - Inflation Concerns
+
 ---
 ---
 ### **Market Pulse: Tech Wobbles While Energy Surges Amid Geopolitical Jitters**

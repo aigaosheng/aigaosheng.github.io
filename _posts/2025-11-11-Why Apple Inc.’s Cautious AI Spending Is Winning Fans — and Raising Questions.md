@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - Apple
-- AI spending
-- tech strategy
+- AI Spending
+- Tech Strategy
 keywords: [Apple AI, AI investment, tech spending]
 permalink: /Why Apple Inc.’s Cautious AI Spending Is Winning Fans — and Raising Questions/
 ---

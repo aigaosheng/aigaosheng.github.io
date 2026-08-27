@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- embodied AI
-- large language model robotics
-- robot failure comedy
+- Embodied AI
 keywords: [robotics, large‑language‑models, embodiment]
 permalink: /When LLM Meets Robot - The Hilarious (and Sobering) Moment an AI Tried to “Pass the Butter” — and Went Full Robin Williams/
 ---

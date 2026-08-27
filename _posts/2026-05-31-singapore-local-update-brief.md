@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- east-coast-park
-- shangri-la-dialogue
-- diplomacy
-- ev-charging
-- transport
-- redevelopment
+- East Coast Park
+- Shangri-La-Dialogue
+- Diplomacy
+- Transport
 keywords: [east-coast-park, shangri-la-dialogue, diplomacy, ev-charging, transport, redevelopment]
 permalink: /singapore-local-update-brief-2026-05-31/
 ---

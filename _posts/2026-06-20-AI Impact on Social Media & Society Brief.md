@@ -10,7 +10,6 @@ tags:
 - AI
 - Social Media
 - AI Regulation
-- Digital News
 - AI Safety
 - G7
 - Content Moderation

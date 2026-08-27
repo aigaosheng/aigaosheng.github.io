@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Gemini 3 Deep Think
-- Physical AI accelerator
-- Scientific reasoning AI
 keywords: [Google DeepMind, Gemini 3.1, AI reasoning benchmark]
 permalink: /Google DeepMind Weekly Intelligence Report March 7, 2026/
 ---

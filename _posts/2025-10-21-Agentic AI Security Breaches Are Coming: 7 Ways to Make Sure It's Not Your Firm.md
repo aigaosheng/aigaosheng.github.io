@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Agentic AI
-- AI Security Posture Management
-- Minimum Viable Security
 keywords: [AI Security, Autonomous Systems, Data Protection]
 permalink: /Agentic AI Security Breaches Are Coming - 7 Ways to Make Sure It's Not Your Firm/
 ---

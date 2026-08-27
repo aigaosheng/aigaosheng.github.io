@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AI startups
-- Fintech innovation
-- American Dynamism
-- Enterprise automation
-- Venture capital investments
+- AI Startups
+- Fintech Innovation
+- Enterprise Automation
+
 ---
 ---
 

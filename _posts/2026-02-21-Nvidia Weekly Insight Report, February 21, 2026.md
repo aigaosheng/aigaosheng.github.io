@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure partnership
-- Enterprise AI adoption
-- Global market expansion
+- AI Infrastructure Partnership
+- Enterprise AI Adoption
 keywords: [AI chips, data centers, enterprise AI]
 permalink: /Nvidia Weekly Insight Report, February 21, 2026/
 ---

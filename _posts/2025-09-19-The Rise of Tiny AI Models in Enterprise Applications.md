@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- Tiny AI 
 - Tiny LLM
 - Edge AI
 - Enterprise AI
+
 ---
 ---
 # The Rise of Tiny AI Models in Enterprise Applications

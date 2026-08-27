@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI regulation
-- DeepSeek Huawei chips
-- AI agent framework
+- China AI Regulation
 keywords: [China AI regulation, DeepSeek Huawei chips, AI agent framework]
 permalink: /China AI Dispatch — May 13, 2026/
 ---

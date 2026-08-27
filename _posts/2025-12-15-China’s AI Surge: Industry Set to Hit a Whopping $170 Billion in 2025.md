@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- artificial intelligence China
-- AI industry growth
-- CAICT forecast
+- Artificial Intelligence China
 keywords: [China AI market, AI industry growth, artificial intelligence investment]
 permalink: /China’s AI Surge - Industry Set to Hit a Whopping $170 Billion in 2025/
 ---

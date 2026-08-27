@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenized assets
+- Tokenized Assets
 - RWA
-- blockchain
-- digital securities
-- institutional adoption
+- Blockchain
+- Digital Securities
+- Institutional Adoption
 keywords: [tokenized assets, RWA, real-world assets, blockchain tokenization, digital securities]
 permalink: /tokenized-asset-Brief-2026-06-20/
 ---

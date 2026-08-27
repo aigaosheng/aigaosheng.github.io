@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Enterprise AI
-- Claude Marketplace
-- AI Platform Ecosystem
 keywords: [Enterprise AI, AI marketplace, Anthropic Claude]
 permalink: /Anthropic Unveils Claude Marketplace- The Next Big Move in Enterprise AI Ecosystems/
 ---

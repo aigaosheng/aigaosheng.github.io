@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-driven automation
-- Warehouse automation
-- Industrial robotics
-- Supply chain resilience
-- Artificial Intelligence in logistics
+- Artificial Intelligence in Logistics
+
 ---
 ---
 

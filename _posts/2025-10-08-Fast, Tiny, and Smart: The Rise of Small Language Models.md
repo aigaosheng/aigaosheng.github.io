@@ -9,7 +9,8 @@ categories: []
 tags:
 - Small Language Models
 - Edge AI
-- Open-Source AI
+- Open Source AI
+
 ---
 ---
 **Fast, Tiny, and Smart: The Rise of Small Language Models**

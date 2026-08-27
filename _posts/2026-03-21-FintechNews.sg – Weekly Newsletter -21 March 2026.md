@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Stablecoin payments
-- AI in finance
-- APAC fintech funding
+- Stablecoin Payments
+- AI in Finance
 keywords: [stablecoin, AI banking, fintech Singapore, APAC payments, crypto regulation, digital banking, PayPal PYUSD, Mastercard AI, HSBC jobs, KAST, dtcpay, Kredivo, Timo, Wise Thailand]
 permalink: /FintechNews.sg – Weekly Newsletter -21 March 2026/
 ---

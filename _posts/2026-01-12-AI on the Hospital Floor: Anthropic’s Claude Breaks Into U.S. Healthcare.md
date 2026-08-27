@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Anthropic Claude healthcare
-- AI medical integration
-- HealthEx AI records
+- Anthropic Claude Healthcare
 keywords: [AI healthcare tools, Claude for Healthcare, HIPAA AI integration]
 permalink: /AI on the Hospital Floor- Anthropic’s Claude Breaks Into U.S. Healthcare/
 ---

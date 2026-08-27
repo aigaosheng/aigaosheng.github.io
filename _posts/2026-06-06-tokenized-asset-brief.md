@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenization
-- tokenized-securities
-- tokenized-deposits
-- rwa
-- securitize
-- robinhood
+- Tokenization
+- Tokenized-Securities
+- Tokenized Deposits
+- RWA
+- Securitize
 keywords: [tokenization, tokenized-securities, tokenized-deposits, rwa, securitize, robinhood]
 permalink: /tokenized-asset-brief-2026-06-06/
 ---

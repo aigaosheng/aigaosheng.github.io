@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Turing Test
-- AI benchmarks
-- machine intelligence
+- AI Benchmarks
 keywords: [AI, intelligence, benchmark]
 permalink: /Why It’s Time to Retire the Turing Test — and What Comes After/
 ---

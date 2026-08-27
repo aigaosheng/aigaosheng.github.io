@@ -11,7 +11,6 @@ tags:
 - Agentic AI
 - AI Infrastructure
 - Language Models
-- AI Cooling
 - Industrial AI
 - AI Policy
 keywords: [AI Research, Agentic AI, Language Models, AI Infrastructure, Industrial AI, AI Policy, Generative AI]

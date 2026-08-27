@@ -7,10 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- HuggingFace models 
-- open source AI 
-- Falcon H1R 7B
-- K‑EXAONE, EvoCUA
+- HuggingFace Models
+- Open Source AI
 keywords: [HuggingFace models, open source AI, Falcon H1R 7B, K‑EXAONE, EvoCUA]
 permalink: /Hugging Face Advances Open AI Platform with Falcon H1R 7B, K‑EXAONE, EvoCUA, and New Robotics & Autonomous Systems Tooling/
 ---

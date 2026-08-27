@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-  - OpenSourceLLM
-  - OpenWeightModels
-  - GenerativeAI
+- OpenSourceLLM
 keywords: [Open source LLM model, Open weights, AI foundation models]
 permalink: /Open-source-LLM-model-Brief-2026-07-17/
 ---

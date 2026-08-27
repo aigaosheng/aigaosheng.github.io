@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-agents
-- enterprise-software
-- microsoft-365
-- meta
-- security
-- customer-service
+- AI Agents
+- Enterprise-Software
+- Microsoft 365
+- Meta
+- Security
+- Customer-Service
 keywords: [ai-agents, enterprise-software, microsoft-365, meta, security, customer-service]
 permalink: /enterprise-ai-brief-2026-06-04/
 ---

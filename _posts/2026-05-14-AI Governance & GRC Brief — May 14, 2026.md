@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Model Risk Management
-- EU AI Act compliance
-- GRC automation
+- EU AI Act Compliance
 keywords: [AI Model Risk Management, EU AI Act compliance, GRC automation]
 permalink: /AI Governance & GRC Brief — May 14, 2026/
 ---

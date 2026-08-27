@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI coding assistants
-- Enterprise AI adoption
-- GitHub Copilot
+- AI Coding Assistants
+- Enterprise AI Adoption
+
 ---
 ---
 [![GitHub Copilot Enterprise is now generally available - The GitHub Blog](https://images.openai.com/thumbnails/url/DEVMOHicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5JT6wI9A80zcowzDDJi8xx8nRzMguINzLNTwsvLi0yzQt3Ds02KKqwNLQwSilxNg9JtSwPMDBJcXcqLVcrBgALsCk1)](https://github.blog/news-insights/product-news/github-copilot-enterprise-is-now-generally-available/)

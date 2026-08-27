@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum careers
-- quantum talent shortage
-- quantum workforce
+- Quantum Talent Shortage
 keywords: [quantum, careers, recruitment]
 ---
 

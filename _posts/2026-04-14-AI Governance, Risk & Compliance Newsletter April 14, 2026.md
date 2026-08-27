@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Governance Framework
-- AI Risk Management Compliance
-- Enterprise AI Regulation
 keywords: [AI Governance Framework, AI Risk Management Compliance, Enterprise AI Regulation]
 permalink: /AI Governance, Risk & Compliance Newsletter April 14, 2026/
 ---

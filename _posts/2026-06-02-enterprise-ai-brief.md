@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic-ai
-- enterprise-software
-- data-governance
-- cloud-ai
-- enterprise-infrastructure
+- Agentic AI
+- Enterprise-Software
 keywords: [agentic-ai, enterprise-software, data-governance, cloud-ai, enterprise-infrastructure]
 permalink: /enterprise-ai-brief-2026-06-02/
 ---

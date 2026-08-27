@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI audit
-- audit technology
-- PwC investment
+- Audit Technology
 keywords: [auditing, artificial intelligence, professional services]
 permalink: /Big Four Audit Leap - Why PwC’s A$1.5 B AI Audit Push Comes With No Discounts/
 ---

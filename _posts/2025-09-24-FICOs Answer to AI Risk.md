@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AI strategy
-- AI risk
-- AI compliance
+- AI Strategy
+- AI Risk
+- AI Compliance
+
 ---
 ---
 # 💳 FICO’s Answer to AI Risk: Foundation Models with a Built-In “Trust Score”

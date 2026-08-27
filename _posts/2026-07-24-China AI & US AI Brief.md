@@ -9,7 +9,7 @@ categories: []
 tags:
 - China AI
 - US AI
-- AI competition
+- AI Competition
 keywords: [China AI, US AI, AI competition]
 permalink: /China-AI-US-AI-Brief-2026-07-24/
 ---

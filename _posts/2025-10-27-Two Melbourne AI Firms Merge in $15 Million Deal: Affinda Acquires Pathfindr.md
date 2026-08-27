@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Affinda
-- Pathfindr
-- AI merger  
+- AI Merger
 keywords: [artificial intelligence, automation, business process]
 permalink: /Two Melbourne AI Firms Merge in $15 Million Deal - Affinda Acquires Pathfindr/
 ---

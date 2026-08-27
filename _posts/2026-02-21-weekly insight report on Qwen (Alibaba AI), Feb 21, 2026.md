@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- open‑weight models
-- China‑US AI competition
+- Agentic AI
+- Open-Weight Models
 keywords: [Qwen3.5, open source AI models, AI agent capabilities]
 permalink: /weekly insight report on Qwen (Alibaba AI), Feb 21, 2026/
 ---

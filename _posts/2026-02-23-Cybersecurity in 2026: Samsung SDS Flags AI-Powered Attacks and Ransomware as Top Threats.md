@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- cybersecurity
-- AI threats
-- ransomware
+- Cybersecurity
 keywords: [AI security, ransomware trends, cloud vulnerabilities]
 permalink: /Cybersecurity in 2026- Samsung SDS Flags AI-Powered Attacks and Ransomware as Top Threats/
 ---

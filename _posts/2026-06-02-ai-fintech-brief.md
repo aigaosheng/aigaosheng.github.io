@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- banking-ai
-- wealthtech
-- financial-crime
-- compliance
-- agentic-ai
+- Wealthtech
+- Compliance
+- Agentic AI
 keywords: [banking-ai, wealthtech, financial-crime, compliance, agentic-ai]
 permalink: /ai-fintech-brief-2026-06-02/
 ---

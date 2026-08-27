@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- LLM Alignment
-- Steering Methods
-- Behavioral Trade-offs
+- Behavioral Trade-Offs
+
 ---
 ---
 

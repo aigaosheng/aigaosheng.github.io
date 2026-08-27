@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Open-source AI
-- Open-weight models
+- Open Source AI
+- Open-Weight Models
 - LLM
 keywords: [Open-source AI, Open-weight models, LLM]
 permalink: /Open-source-AI-model-Brief-2026-06-28/

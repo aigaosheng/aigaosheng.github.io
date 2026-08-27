@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fatigue detection
-- eye-tracking research
-- Isambard-AI
+- AI Fatigue Detection
 keywords: [fatigue, eye-tracking, artificial intelligence]
 permalink: /Eye-Tracking Meets AI - UK Researchers Use Supercomputer to Spot Mental Fatigue/
 ---

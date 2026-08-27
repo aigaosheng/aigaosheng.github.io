@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI computing power
-- AI industrial policy China
-- China digital economy 2026
+- AI Industrial Policy China
 keywords: [China AI computing power, AI industrial policy China, China digital economy 2026]
 permalink: /China AI Brief & April 23, 2026/
 ---

@@ -7,13 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- OCR
 - LLM
-- Flutter
-- FastAPI
-- Stripe payment
-- Github CI/CD
+- Fastapi
 - Python
+
 ---
 
 ## Background

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- venture capital trends
-- AI startup funding
-- exit strategy planning
+- Venture Capital Trends
+- AI Startup Funding
 keywords: [venture capital trends, AI startup funding, exit strategy planning]
 permalink: /INVESTMENT & STARTUP Brief & April 20, 2026/
 ---

@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agent Bricks
-- Multi-AI Indemnity
 - Databricks Platform
-- AI Gateway
-- Unity Catalog
 keywords: [Databricks, enterprise AI, model governance]
 permalink: /Databricks This Week — Multi-AI Indemnity, Agent Bricks Enhancements, Free Edition Hackathon & Platform Releases, November 9, 2025/
 ---

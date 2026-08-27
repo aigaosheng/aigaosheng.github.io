@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Saudi AI fund
-- startup ecosystem
-- venture capital innovation
+- Venture Capital Innovation
 keywords: [artificial intelligence, Saudi Arabia, startup funding]
 permalink: /Saudi Arabia’s Bold AI Bet - New Venture Fund to Supercharge 25 Startups/
 ---

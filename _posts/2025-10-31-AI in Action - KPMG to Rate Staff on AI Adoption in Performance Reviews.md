@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- KPMG
-- performance reviews
-- AI adoption
+- AI Adoption
 keywords: [artificial intelligence, consulting, productivity]
 permalink: /AI in Action - KPMG to Rate Staff on AI Adoption in Performance Reviews/
 ---

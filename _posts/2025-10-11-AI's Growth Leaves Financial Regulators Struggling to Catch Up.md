@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI in finance
-- Financial regulation
-- AI risk assessment
+- AI in Finance
+- Financial Regulation
 keywords: ["AI financial regulation","Financial Stability Board AI","AI risk in finance","Financial system stability AI"]
 ---
 ---

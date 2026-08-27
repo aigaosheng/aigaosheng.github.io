@@ -10,7 +10,7 @@ tags:
 - US AI
 - Artificial Intelligence
 - National Security
-- IPOs
+- IPO
 keywords: [US AI, artificial intelligence, national security, OpenAI IPO, Pentagon AI policy]
 permalink: /US-AI-Brief-2026-06-09/
 ---

@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
-- AI risk management
-- AI compliance
-- AI regulation 2026
-- trustworthy AI standards
+- AI Governance
+- AI Risk Management
+- AI Compliance
+- AI Regulation 2026
 keywords: [AI governance, AI risk management, AI compliance, AI regulation 2026, trustworthy AI standards]
 permalink: /AI Governance, Risk & Compliance Brief — May 6, 2026/
 ---

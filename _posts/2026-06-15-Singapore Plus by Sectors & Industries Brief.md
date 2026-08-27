@@ -9,9 +9,8 @@ categories: []
 tags:
 - Singapore Economy
 - Labour Market
-- S-Reits
 - AI Investment
-- Semiconductor
+- Semiconductors
 - Trade
 keywords: [Singapore Economy, Labour Market, S-Reits, AI Investment, Manufacturing, Trade]
 permalink: /Singapore-Sectors-Brief-2026-06-15/

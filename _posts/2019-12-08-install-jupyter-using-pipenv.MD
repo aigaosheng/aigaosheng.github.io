@@ -8,9 +8,9 @@ published:  true
 header-img: image/rawa-sun-falling.jpg
 catalog: true
 tags:
-    - Pipenv
-    - Jupyter notebook
-    - Python
+- Pipenv
+- Python
+
 ---
 <h3>Install</h3> 
 <p>pipenv install jupyter</p>

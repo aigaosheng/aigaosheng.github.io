@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- prompt injection
-- jailbreak
-- LLM security
-- red teaming
-- prompt fuzzing
+- Prompt Injection
+- LLM Security
+- Red Teaming
+
 ---
 ---
 

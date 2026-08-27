@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI adoption
-- AI joint ventures
-- knowledge management governance
+- Enterprise AI Adoption
 keywords: [enterprise AI adoption, AI joint ventures, knowledge management governance]
 permalink: /Enterprise AI Brief — 2026-05-09/
 ---

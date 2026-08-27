@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI verticalisation
-- FinTech scale-ups
-- Cyber resilience
+- Cyber Resilience
 keywords: [funding news, venture capital updates, startup valuations]
 permalink: /Weekly VC & Startup Funding Highlights Feb 28, 2026/
 ---

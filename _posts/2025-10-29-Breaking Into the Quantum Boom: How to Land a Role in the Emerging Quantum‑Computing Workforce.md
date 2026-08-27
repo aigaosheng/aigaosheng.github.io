@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum computing
-- quantum jobs
-- quantum engineering
+- Quantum Computing
 keywords: [quantum, quantum computing, quantum jobs]
 permalink: /Breaking Into the Quantum Boom - How to Land a Role in the Emerging Quantum‑Computing Workforce/
 ---

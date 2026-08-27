@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- keyword1 Wealthfront IPO
-- keyword2 robo-advisor fintech
-- keyword3 NASDAQ debut
+- keyword2 Robo-Advisor Fintech
 keywords: [wealthfront, ipo, fintech]
 permalink: /Wealthfront’s Billion-Dollar Dawn - How the Robo-Advisor Raised $486M and Shook Up the Fintech IPO Landscape/
 ---

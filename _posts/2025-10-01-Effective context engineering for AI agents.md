@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- Context engineering
-- AI agents
-- Prompt optimization
+- Context Engineering
+- AI Agents
 - Anthropic
+
 ---
 ---
 

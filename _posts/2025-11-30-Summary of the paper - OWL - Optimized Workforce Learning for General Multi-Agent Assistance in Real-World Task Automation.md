@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Multi-agent systems
-- Task automation
-- Reinforcement learning
+- Multi-Agent Systems
+- Reinforcement Learning
 keywords: [AI workforce automation,Agentic LLM framework,Real-world task orchestration]
 permalink: /Summary of the paper - OWL - Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation/
 ---

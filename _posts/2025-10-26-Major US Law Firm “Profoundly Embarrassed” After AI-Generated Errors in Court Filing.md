@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI legal ethics
-- law firm
-- bankruptcy court
+- AI Legal Ethics
 keywords: [artificial intelligence, legal citations, law firm]
 permalink: /Major US Law Firm “Profoundly Embarrassed” After AI-Generated Errors in Court Filing/
 ---

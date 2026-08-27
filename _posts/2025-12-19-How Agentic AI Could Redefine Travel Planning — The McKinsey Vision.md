@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- travel technology
-- AI adoption
+- Agentic AI
+- AI Adoption
 keywords: [agentic AI, travel planning, autonomous AI]
 permalink: /How Agentic AI Could Redefine Travel Planning — The McKinsey Vision/
 ---

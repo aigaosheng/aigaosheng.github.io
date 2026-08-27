@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Qualcomm acquisition
 - Arduino Uno Q
-- open-source hardware
 keywords: [Qualcomm, Arduino, open-source]
 ---
 

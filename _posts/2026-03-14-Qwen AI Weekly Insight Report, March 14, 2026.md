@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Leadership reshuffle
-- Open‑source LLM deployment
-- Strategic AI acceleration
+- Open‑source LLM Deployment
 keywords: [Qwen AI,Alibaba Cloud,AI leadership changes]
 permalink: /Qwen AI Weekly Insight Report, March 14, 2026/
 ---

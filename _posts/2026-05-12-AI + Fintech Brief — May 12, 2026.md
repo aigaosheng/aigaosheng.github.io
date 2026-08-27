@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- generative AI banking
-- AI payments
+- AI Fintech
+- AI Payments
 keywords: [AI fintech, generative AI banking, AI payments]
 permalink: /AI + Fintech Brief — May 12, 2026/
 ---

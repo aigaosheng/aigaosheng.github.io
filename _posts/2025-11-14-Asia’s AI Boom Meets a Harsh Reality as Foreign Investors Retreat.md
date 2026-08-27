@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Asia AI boom
-- foreign investor outflows
-- tech valuations
+- Tech Valuations
 keywords: [AI, Asia markets, foreign selling]
 permalink: /Asia’s AI Boom Meets a Harsh Reality as Foreign Investors Retreat/
 ---

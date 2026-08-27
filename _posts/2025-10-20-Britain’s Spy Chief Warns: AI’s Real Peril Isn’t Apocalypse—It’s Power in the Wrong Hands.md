@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI security  
-- cyber intelligence  
-- GCHQ  
+- AI Security
 keywords: [AI, cybersecurity, national security]
 permalink: /lBritain’s Spy Chief Warns - AI’s Real Peril Isn’t Apocalypse—It’s Power in the Wrong Handsink name/
 ---

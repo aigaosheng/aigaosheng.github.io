@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- streaming data
-- real-time context
+- Enterprise AI
 keywords: [streaming, agent, real-time]
 permalink: /Why Real-Time Data Streams Will Make or Break Enterprise AI Agents/
 ---

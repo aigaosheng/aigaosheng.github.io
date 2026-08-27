@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI debt issuance
-- investment-grade bonds
-- hyperscaler financing
+- Investment-Grade Bonds
 keywords: [AI infrastructure, corporate bonds, investment-grade market]
 permalink: /AI Boom Floods U.S. High-Grade Bond Market, Triggering Caution at DoubleLine/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI supercycle
-- data-centre demand
-- Nokia AI strategy
+- Nokia AI Strategy
 keywords: [artificial intelligence, infrastructure growth, tech investment]
 permalink: /AI’s Big Moment - Why Nokia’s CEO Sees a 1990s-Style Boom — and Why We Shouldn’t Panic/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Flex
-- fintech
-- mid-sized business finance
+- Fintech
 keywords: [fintech, mid-sized business, AI finance tools]
 permalink: /Jumbo-Shrimp Fintech - How Flex Is Serving Mid-Sized Businesses With Its $60M War Chest/
 ---

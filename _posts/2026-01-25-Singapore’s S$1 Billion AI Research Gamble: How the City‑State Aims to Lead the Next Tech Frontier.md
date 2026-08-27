@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore AI investment
-- public AI research
-- AI talent development
+- AI Talent Development
 keywords: [AI research, Singapore technology, AI funding]
 permalink: /Singapore’s S$1 Billion AI Research Gamble- How the City‑State Aims to Lead the Next Tech Frontier/
 ---

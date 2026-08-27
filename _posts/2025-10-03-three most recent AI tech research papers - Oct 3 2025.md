@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Pairwise Learning
 - Spatial Reasoning Benchmark
-- Explainable AI (XAI)
+
 ---
 ---
 

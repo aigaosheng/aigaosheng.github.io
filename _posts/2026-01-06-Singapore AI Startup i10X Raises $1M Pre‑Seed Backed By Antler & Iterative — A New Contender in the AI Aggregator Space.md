@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI aggregator,
-- pre‑seed funding,
-- Singapore startup
+- Pre‑seed Funding,
 keywords: [AI startup, funding news, AI tools]
 permalink: /Singapore AI Startup i10X Raises $1M Pre‑Seed Backed By Antler & Iterative — A New Contender in the AI Aggregator Space/
 ---

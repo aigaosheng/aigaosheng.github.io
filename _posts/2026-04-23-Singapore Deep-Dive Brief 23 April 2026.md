@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore economy
-- AI governance
-- inflation trends
+- Singapore Economy
+- AI Governance
 keywords: [Singapore economy, AI governance, inflation trends]
 permalink: /Singapore Deep-Dive Brief 23 April 2026/
 ---

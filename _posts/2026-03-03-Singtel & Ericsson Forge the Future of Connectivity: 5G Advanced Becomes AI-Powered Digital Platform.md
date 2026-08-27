@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI networking
-- 5G Advanced evolution
-- telecom innovation
+- 5G Advanced Evolution
 words: [AI integration, 5G Advanced, intelligent networks]
 permalink: /Singtel & Ericsson Forge the Future of Connectivity- 5G Advanced Becomes AI-Powered Digital Platform/
 ---

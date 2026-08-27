@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- deepseek
-- tencent
-- wechat
-- alibaba
-- regulation
-- embodied-ai
+- DeepSeek
+- Alibaba
+- Regulation
+- Embodied AI
 keywords: [deepseek, tencent, wechat, alibaba, regulation, embodied-ai]
 permalink: /china-ai-update-brief-2026-06-04/
 ---

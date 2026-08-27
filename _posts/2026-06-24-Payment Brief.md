@@ -13,9 +13,6 @@ tags:
 - Cross-Border
 - Open Banking
 - Digital Wallets
-- B2B Payments
-- Regulatory
-- Awards
 keywords: [Payments, Fintech, Stablecoins, Cross-Border Payments, Open Banking, Digital Wallets, B2B Payments, Regulatory, Juniper Research Awards]
 permalink: /Payment-Brief-2026-06-24/
 ---

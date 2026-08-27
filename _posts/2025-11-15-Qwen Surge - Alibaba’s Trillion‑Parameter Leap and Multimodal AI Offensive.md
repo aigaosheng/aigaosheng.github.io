@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Qwen3‑Max
-- Multimodal reasoning
-- Hybrid MoE reasoning
+- Multimodal Reasoning
 keywords: [Alibaba Qwen models,trillion‑parameter LLM,open‑source large language model]
 permalink: /Qwen Surge - Alibaba’s Trillion‑Parameter Leap and Multimodal AI Offensive/
 ---

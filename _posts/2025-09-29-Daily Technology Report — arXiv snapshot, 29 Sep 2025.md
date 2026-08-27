@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI automation
-- zero-shot vision
-- generative efficiency
-- federated learning
-- RLHF optimization
+- AI Automation
+
 ---
 ---
 

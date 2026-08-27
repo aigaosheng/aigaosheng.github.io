@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- Open Source LLM
+- Open-Source LLM
 - GLM-5.2
 - OpenAI
-- Codex
 - DeepSeek
-- Silicon Valley
 - AI Competition
 keywords: [Open Source LLM, GLM-5.2, OpenAI Codex, Zhipu AI, Chinese AI models, open-source AI, AI competition, generative AI]
 permalink: /Open-Source-LLM-Brief-2026-06-22/

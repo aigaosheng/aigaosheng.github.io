@@ -11,7 +11,7 @@ tags:
 - Multimodal AI
 - Retrieval-Augmented Generation
 - AI Agents
-- Real-time AI
+- Real-Time AI
 keywords: [Agentic AI, Multimodal AI, Retrieval-Augmented Generation, AI Agents, Real-time AI]
 permalink: /Weekly AI Tech Research Plus April 19, 2026/
 ---

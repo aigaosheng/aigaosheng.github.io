@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- cross-border payments
-- stablecoin adoption
-- embedded finance security
+- Cross-Border Payments
+- Stablecoin Adoption
 keywords: [cross-border payments, stablecoin adoption, embedded finance security]
 permalink: /Payment Brief — May 14, 2026/
 ---

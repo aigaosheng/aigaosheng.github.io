@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI trust
-- Edelman poll
-- global AI sentiment]
+- Global AI Sentiment]
 keywords: [AI trust, China, survey]
 permalink: /China’s Public Shows Unprecedented Trust in AI — Far Surpassing Western Counterparts/
 ---

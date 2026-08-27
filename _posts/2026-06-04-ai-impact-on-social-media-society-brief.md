@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- deepfakes
-- platform-governance
-- creators
-- data-centers
-- mental-health
+- Deepfakes
+- Platform-Governance
+- Data Centers
+- Mental Health
 keywords: [deepfakes, platform-governance, creators, data-centers, mental-health]
 permalink: /ai-impact-on-social-media-society-brief-2026-06-04/
 ---

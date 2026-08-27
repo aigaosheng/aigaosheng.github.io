@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- autonomous fighter jet
-- Shield AI
-- VTOL combat aircraft
+- Autonomous Fighter Jet
 keywords: [autonomous jet, military AI, defense technology]
 permalink: /Autonomous Air Superiority - Shield AI Unveils Its Runway-Free AI Fighter Jet/
 ---

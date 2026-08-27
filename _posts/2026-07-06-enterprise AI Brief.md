@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- AI agents
-- governance
+- Enterprise AI
+- AI Agents
+- Governance
 keywords: [Enterprise AI, AI agents, governance, SaaS, automation]
 permalink: /Enterprise-AI-Brief-2026-07-06/
 ---

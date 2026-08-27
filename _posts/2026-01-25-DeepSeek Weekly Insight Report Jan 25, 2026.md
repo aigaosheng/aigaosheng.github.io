@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI research
-- model architecture
-- large language models
+- AI Research
+- Model Architecture
+- Large Language Models
 keywords: [Manifold‑Constrained Hyper‑Connections (mHC), foundational model training,efficiency scaling]
 permalink: /DeepSeek Weekly Insight Report Jan 25, 2026/
 ---

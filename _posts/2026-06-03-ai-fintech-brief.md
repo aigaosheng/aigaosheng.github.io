@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- bank-regulation
-- agentic-commerce
-- insurance-tech
-- enterprise-ai
-- cyber-risk
+- Agentic Commerce
+- Enterprise AI
 keywords: [bank-regulation, agentic-commerce, insurance-tech, enterprise-ai, cyber-risk]
 permalink: /ai-fintech-brief-2026-06-03/
 ---

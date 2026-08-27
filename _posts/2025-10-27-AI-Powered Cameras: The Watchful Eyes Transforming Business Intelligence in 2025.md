@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-powered cameras
-- operational intelligence
-- video analytics
+- Operational Intelligence
 keywords: [artificial intelligence, business security, smart surveillance]
 permalink: /AI-Powered Cameras - The Watchful Eyes Transforming Business Intelligence in 2025/
 ---

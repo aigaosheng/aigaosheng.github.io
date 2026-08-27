@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- information power
-- digital literacy
-- misinformation
+- Misinformation
 keywords: [digital influence, information warfare, media manipulation]
 permalink: /Information Power - The New Battleground of Global Influence/
 ---

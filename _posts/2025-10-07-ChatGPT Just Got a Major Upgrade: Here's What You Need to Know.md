@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- ChatGPT Apps Integration
-- OpenAI Developer Tools
-- AI Productivity Tools
+- chatGPT Apps Integration
+
 ---
 ---
 

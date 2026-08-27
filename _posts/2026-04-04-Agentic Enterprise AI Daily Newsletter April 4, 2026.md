@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI enterprise
-- Autonomous AI agents
-- AI workflow automation
+- Agentic AI Enterprise
+- Autonomous AI Agents
+- AI Workflow Automation
 keywords: [Agentic AI enterprise, Autonomous AI agents, AI workflow automation]
 permalink: /Agentic Enterprise AI Daily Newsletter April 4, 2026/
 ---

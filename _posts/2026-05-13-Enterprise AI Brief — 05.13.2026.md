@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI deployment
-- Agentic AI governance
-- OpenAI Deployment Company
+- Enterprise AI Deployment
+- Agentic AI Governance
 keywords: [Enterprise AI deployment, Agentic AI governance, OpenAI Deployment Company]
 permalink: /Enterprise AI Brief — 05.13.2026/
 ---

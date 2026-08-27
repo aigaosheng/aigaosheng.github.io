@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- DeepSeek Africa
-- Affordable AI tools
-- Tech empowerment Africa
+- Tech Empowerment Africa
 keywords: [AI, DeepSeek, Africa]
 permalink: /How China’s DeepSeek is Powering Africa’s AI Revolution — Millions Gain Tech Access/
 ---

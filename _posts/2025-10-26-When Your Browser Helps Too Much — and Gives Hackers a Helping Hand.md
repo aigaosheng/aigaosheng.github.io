@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI browser
-- agentic browsing
-- prompt injection
+- AI Browser
+- Agentic Browsing
+- Prompt Injection
 keywords: [ai browser, browser security, autonomous agents]
 permalink: /When Your Browser Helps Too Much — and Gives Hackers a Helping Hand/
 ---

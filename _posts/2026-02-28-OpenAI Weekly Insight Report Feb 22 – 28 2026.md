@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Mega Funding
-- U.S. Defense AI Deployment
 - Corporate Governance
 keywords: [funding, AI safety, defense]
 permalink: /OpenAI Weekly Insight Report Feb 22 – 28 2026/

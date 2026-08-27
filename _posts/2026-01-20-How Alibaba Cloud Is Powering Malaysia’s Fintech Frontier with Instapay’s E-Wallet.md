@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- financial inclusion
-- digital payments 
-- cloud fintech
+- Digital Payments
 keywords: [fintech, digital wallet, financial inclusion]
 permalink: /How Alibaba Cloud Is Powering Malaysia’s Fintech Frontier with Instapay’s E-Wallet/
 ---

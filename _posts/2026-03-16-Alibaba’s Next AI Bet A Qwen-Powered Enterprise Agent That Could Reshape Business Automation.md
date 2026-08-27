@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Alibaba AI Agent
-- Qwen Enterprise AI
 - Agentic AI Platform
 keywords: [AI agents, enterprise AI, Qwen model]
 permalink: /Alibaba’s Next AI Bet- A Qwen-Powered Enterprise Agent That Could Reshape Business Automation/

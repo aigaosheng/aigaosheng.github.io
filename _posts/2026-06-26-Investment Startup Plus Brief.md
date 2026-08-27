@@ -9,7 +9,7 @@ categories: []
 tags:
 - Venture Capital
 - Startups
-- IPOs
+- IPO
 - AI Funding
 keywords: [venture capital, startup funding, IPO market, Seedcamp, Airwallex]
 permalink: /investment-startup-plus-brief-2026-06-26/

@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - MIT Innovations
-- AI in healthcare
-- Medical imaging
+- AI in Healthcare
+
 ---
 **🚀 Revolutionizing Clinical Research: MIT's AI-Powered Imaging Tool**
 

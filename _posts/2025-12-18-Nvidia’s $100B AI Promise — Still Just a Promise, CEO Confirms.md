@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Nvidia funding
-- OpenAI investment
-- AI infrastructure
+- AI Infrastructure
 keywords: [AI compute, Nvidia OpenAI, GPU investment]
 permalink: /Nvidia’s $100B AI Promise — Still Just a Promise, CEO Confirms/
 ---

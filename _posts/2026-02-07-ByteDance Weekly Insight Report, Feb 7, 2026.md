@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI system innovation
-- Global regulatory & tax compliance
-- AI hardware access negotiations
+- Global Regulatory & Tax Compliance
 keywords: [ByteDance, AI strategy, US‑China tech policy]
 permalink: /ByteDance Weekly Insight Report, Feb 7, 2026/
 ---

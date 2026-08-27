@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI policy
-- DeepSeek AI pricing
-- AI geopolitics
+- China AI Policy
+- AI Geopolitics
 keywords: [China AI policy, DeepSeek AI pricing, AI geopolitics]
 permalink: /China AI Brief — April 28, 2026/
 ---

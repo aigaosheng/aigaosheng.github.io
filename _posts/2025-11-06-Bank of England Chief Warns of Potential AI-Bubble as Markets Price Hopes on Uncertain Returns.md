@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI bubble
-- market valuations
-- Bank of England
+- AI Bubble
 keywords: [artificial intelligence, equity valuations, financial conditions]
 permalink: /Bank of England Chief Warns of Potential AI-Bubble as Markets Price Hopes on Uncertain Returns/
 ---

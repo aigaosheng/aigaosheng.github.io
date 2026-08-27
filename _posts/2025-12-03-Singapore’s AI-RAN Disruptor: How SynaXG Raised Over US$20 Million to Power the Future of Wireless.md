@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- SynaXG
-- AI-RAN
-- deep tech
+- Deep Tech
 keywords: [AI-RAN, 5G, wireless infrastructure]
 permalink: /Singapore’s AI-RAN Disruptor - How SynaXG Raised Over US$20 Million to Power the Future of Wireless/
 ---

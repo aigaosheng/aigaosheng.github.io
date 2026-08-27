@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI adoption
-- connectivity-first architecture 
-- JPMorgan LLM Suite
+- Enterprise AI Adoption
 keywords: [AI adoption, enterprise connectivity, generative AI integration]
 permalink: /AI at Work - How JPMorgan Cracked the Code for Mass Employee Adoption/
 ---

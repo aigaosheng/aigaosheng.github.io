@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenization
-- rwa
-- defi
-- securities
-- treasuries
-- asia
+- Tokenization
+- RWA
+- DeFi
+- Securities
 keywords: [tokenization, rwa, defi, securities, treasuries, asia]
 permalink: /tokenized-asset-brief-2026-05-30/
 ---

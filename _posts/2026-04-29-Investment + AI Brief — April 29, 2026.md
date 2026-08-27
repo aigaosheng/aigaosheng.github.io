@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI investing
-- AI stocks
-- AI capital expenditure
+- AI Investing
+- AI Stocks
 keywords: [AI investing, AI stocks, AI capital expenditure]
 permalink: /Investment + AI Brief — April 29, 2026/
 ---

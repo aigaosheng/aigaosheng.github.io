@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- autonomous trucking
-- Aurora Innovation
-- driverless freight
+- Autonomous Trucking
 keywords: [autonomous trucks, logistics technology, freight transport]
 permalink: /Rough Roads Ahead - Why Aurora’s Driverless Freight Trucks Are Hitting Speed Bumps/
 ---

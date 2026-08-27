@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI social media impact
 - Responsible AI
-- AI misinformation detection
 keywords: [AI social media impact, Responsible AI, AI misinformation detection]
 permalink: /AI Impact on Social Media & Society Brief | April 18, 2026/
 ---

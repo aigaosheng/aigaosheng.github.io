@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - China AI
-- US AI competition
-- AI geopolitics
+- AI Geopolitics
 keywords: [China AI, US AI competition, AI geopolitics]
 permalink: /China AI vs US AI Brief — 26 April 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- Consumer-to-enterprise privacy
-- Vertical AI automation
+- AI Infrastructure
 keywords: [AI inference, agentic observability, startup funding 2026, VC deals March 2026, enterprise AI investment, privacy tech unicorn, fintech infrastructure]
 permalink: /VC Radar- Top Deals of the Week — March 22–28, 2026/
 ---

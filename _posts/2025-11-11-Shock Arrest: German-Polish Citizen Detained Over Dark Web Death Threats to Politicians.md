@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- dark web
-- death threats
-- politicians
+- Death Threats
 keywords: [cyber-security, cryptocurrency, German politics]
 permalink: /Shock Arrest - German-Polish Citizen Detained Over Dark Web Death Threats to Politicians/
 ---

@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore economy
+- Singapore Economy
 - Singapore AI
-- Singapore business news
-- Singapore policy
-- Singapore technology
+- Singapore Business News
 keywords: []
 permalink: /Singapore Plus Brief — May 7, 2026/
 ---

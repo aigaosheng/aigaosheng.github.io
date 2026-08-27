@@ -11,7 +11,6 @@ tags:
 - Video Generation
 - LLM Reasoning
 - Model Quantization
-- Synthetic Data
 keywords: [Agentic AI, Video Generation, LLM Reasoning, Model Quantization, Synthetic Data]
 permalink: /Weekly AI Tech Research Update April 26, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- viral misinformation
-- train disruption
-- social media hoax
+- Social Media Hoax
 keywords: [train disruption, fake news, rail safety]
 permalink: /When a Fake Photo Shuts Down the Rails - How One Viral Image Disrupted Britain’s Train Network/
 ---

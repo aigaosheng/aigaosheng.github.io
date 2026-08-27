@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic workflows
-- AI automation
-- no-code AI tools
+- Agentic Workflows
+- AI Automation
 keywords: [AI automation, no-code, Google Opal]
 permalink: /Google’s Opal Levels Up- AI Agents Now Turn Text Prompts Into Interactive Workflows/
 ---

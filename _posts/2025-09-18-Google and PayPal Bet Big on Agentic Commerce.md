@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- Google 
+- Google
 - PayPal
 - Agentic AI
 - Agentic Commerce
-- Agent Payments Protocol
-- AP2
+
 ---
 ---
 # Google and PayPal Bet Big on Agentic Commerce

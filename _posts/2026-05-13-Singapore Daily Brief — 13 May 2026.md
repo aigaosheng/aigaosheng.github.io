@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore AI hub strategy 2026
-- Singapore CRE investment Q1 2026
-- Physical AI Singapore
+- Singapore CRE Investment Q1 2026
 keywords: [Singapore AI hub strategy 2026, Singapore CRE investment Q1 2026, Physical AI Singapore]
 permalink: /Singapore Daily Brief — 13 May 2026/
 ---

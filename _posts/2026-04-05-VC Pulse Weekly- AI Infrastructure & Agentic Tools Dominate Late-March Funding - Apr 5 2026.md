@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI workflows  
-- Venture capital deployment  
-- Startup valuation transparency  
+- Agentic AI Workflows
 keywords: [AI startup funding, Series B legal tech, venture capital trends 2026]
 permalink: /VC Pulse Weekly- AI Infrastructure & Agentic Tools Dominate Late-March Funding/
 ---

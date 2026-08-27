@@ -13,7 +13,7 @@ tags:
 - AI
 - Climate Tech
 - Crypto
-- IPOs
+- IPO
 keywords: [Investment, Startups, Venture Capital, AI, Climate Tech, Crypto, IPOs]
 permalink: /Investment+Startup-Brief-2026-06-21/
 ---

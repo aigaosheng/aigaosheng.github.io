@@ -9,8 +9,7 @@ categories: []
 tags:
 - AI
 - Retail
-- AI retail future
-- sequoiacap report
+
 ---
 
 # Investment Whitepaper

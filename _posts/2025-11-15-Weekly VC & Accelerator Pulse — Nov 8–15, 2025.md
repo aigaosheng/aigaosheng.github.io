@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI 
-- valuation
-- Series B
-- investor rotation
-- accelerator
+- AI
+- Valuation
+- Accelerators
 keywords: [OpenAI, Gamma, Andreessen Horowitz, SoftBank, Y Combinator]
 permalink: /Weekly VC & Accelerator Pulse — Nov 8–15, 2025/
 ---

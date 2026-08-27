@@ -11,7 +11,6 @@ tags:
 - Social Media
 - Disinformation
 - Deepfakes
-- Africa
 keywords: [AI disinformation, deepfakes, political propaganda, AI slop, African media]
 permalink: /AI-Impact-Social-Brief-2026-06-07/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Amazon Bazaar
-- budget shopping app
-- emerging markets
+- Budget Shopping App
 keywords: [Amazon, low-price, e-commerce]
 permalink: /Amazon Takes on Temu and Shein with New Low-Cost Shopping App “Amazon Bazaar”/
 ---

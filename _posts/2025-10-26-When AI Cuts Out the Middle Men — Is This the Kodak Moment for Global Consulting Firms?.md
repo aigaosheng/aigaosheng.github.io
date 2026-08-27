@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- consulting industry
-- artificial intelligence disruption
-- business model shift
+- Artificial Intelligence Disruption
 keywords: [AI consulting, digital transformation, consultancy disruption]
 permalink: /When AI Cuts Out the Middle Men — Is This the Kodak Moment for Global Consulting Firms?/
 ---

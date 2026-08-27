@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - China AI
-- LLMs
-- AI infrastructure
+- LLM
+- AI Infrastructure
 keywords: [China AI, GLM-5.2, AI regulation, data centers, supercomputing]
 permalink: /China-AI-Brief-2026-07-02/
 ---

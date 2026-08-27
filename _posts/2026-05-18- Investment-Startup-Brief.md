@@ -7,13 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- investment
-- startup
-- funding
+- Investment
+- Startups
+- Funding
 - VC
 - IPO
 - AI
-- fintech
+- Fintech
 keywords: [startup funding, VC, SME IPO, AI investment, venture capital]
 permalink: /Investment-Startup-Brief-2026-05-18/
 ---

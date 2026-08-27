@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agents
-- enterprise automation
-- reliability
+- AI Agents
+- Enterprise Automation
 permalink: /Agents Still Struggling - Why Even Google and Replit Can’t Deploy AI Agents Reliably/
 ---
 ### **🤖 Agents Still Struggling: Why Even Google and Replit Can’t Deploy AI Agents Reliably**

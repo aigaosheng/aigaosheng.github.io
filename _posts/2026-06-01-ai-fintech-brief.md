@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic-ai
-- banking
-- fraud
-- fintech-funding
-- workforce
+- Agentic AI
+- Banking
+- Fraud
+- Fintech-Funding
+- Workforce
 keywords: [agentic-ai, banking, fraud, fintech-funding, workforce]
 permalink: /ai-fintech-brief-2026-06-01/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin payments
-- crypto prepaid card
-- Pine Labs fintech
+- Stablecoin Payments
 keywords: [stablecoin, prepaid card, digital payments]
 permalink: /Swipe, Convert, Transact- Pine Labs’ Stablecoin Card Pushes Crypto Toward Everyday Payments/
 ---

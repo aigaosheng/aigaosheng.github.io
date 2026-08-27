@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- Fed rate-cut odds
-- Retail volatility
+- AI Infrastructure
 keywords: ["AI infrastructure","Fed rate-cut odds","Retail volatility"]
 ---
 ---

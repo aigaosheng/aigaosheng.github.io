@@ -9,7 +9,6 @@ categories: []
 tags:
 - Crypto Markets
 - Open Finance
-- Emerging Markets Fintech
 keywords: [Crypto Markets, Open Finance, Emerging Markets Fintech]
 permalink: /Fintech Daily Newsletter April 6, 2026/
 ---

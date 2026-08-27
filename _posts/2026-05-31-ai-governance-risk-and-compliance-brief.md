@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-act
-- frontier-models
-- ai-compliance
-- data-protection
-- ai-safety
+- AI Act
+- Frontier Models
+- AI Compliance
+- Data Protection
+- AI Safety
 keywords: [ai-act, frontier-models, ai-compliance, data-protection, ai-safety]
 permalink: /ai-governance-risk-and-compliance-brief-2026-05-31/
 ---

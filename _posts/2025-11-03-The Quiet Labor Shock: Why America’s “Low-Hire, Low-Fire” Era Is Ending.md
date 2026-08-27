@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- low-hire low-fire economy
-- labor hoarding
-- US job market tipping point
+- US Job Market Tipping Point
 keywords: [job market, layoffs, hiring slowdown]
 permalink: /The Quiet Labor Shock - Why America’s “Low-Hire, Low-Fire” Era Is Ending/
 ---

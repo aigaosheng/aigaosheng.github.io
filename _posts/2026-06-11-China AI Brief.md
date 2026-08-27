@@ -11,7 +11,7 @@ tags:
 - AI Policy
 - AI IPOs
 - Embodied AI
-- Tech Regulations
+- Tech Regulation
 keywords: [China AI, AI policy, AI IPOs, embodied AI, data regulation]
 permalink: /China-AI-Brief-2026-06-11/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Public sector AI
-- Institutional modernization
-- AI era
+- AI Era
 keywords: [Signal blog, UN modernization, Microsoft AI]
 permalink: /Microsoft Weekly Insight Report Jan 25 2026/
 ---

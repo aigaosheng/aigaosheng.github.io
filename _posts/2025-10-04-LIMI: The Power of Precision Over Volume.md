@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agent
-- LIMI framework
-- Data efficiency
+- AI Agents
+
 ---
 ---
 >

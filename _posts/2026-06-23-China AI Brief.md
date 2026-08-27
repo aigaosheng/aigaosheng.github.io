@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - China AI
-- AI policy
-- AI industry
+- AI Policy
 - LLM
 keywords: [China AI, AI policy, AI industry, LLM, generative AI, AI applications]
 permalink: /China-AI-Brief-2026-06-23/

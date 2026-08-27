@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Qwen3‑Coder‑Next
-- User‑acquisition incentives
-- Open source AI momentum
+- Open Source AI Momentum
 keywords: [AI model release, user growth incentives, open source AI]
 permalink: /Weekly Insight Report — Qwen, Feb 7 2026/
 ---

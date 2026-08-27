@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- document analytics
-- Snowflake Intelligence]
+- Enterprise AI
 keywords: [document analytics, unstructured data, data platform]
 permalink: /Snowflake’s Leap Beyond RAG - Enabling Analytics Across Thousands of Documents at Once/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- venture capital trends
-- AI startup funding
-- startup IPO pipeline
+- Venture Capital Trends
+- AI Startup Funding
 keywords: [venture capital trends, AI startup funding, startup IPO pipeline]
 permalink: /Investment & Startup Brief — April 23, 2026/
 ---

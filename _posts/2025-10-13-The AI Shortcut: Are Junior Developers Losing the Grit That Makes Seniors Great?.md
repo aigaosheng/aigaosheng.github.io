@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI coding
-- Developer mentorship
-- Software craftsmanship
+- AI Coding
 keywords: ["AI", "developers", "mentorship"]
 ---
 ---

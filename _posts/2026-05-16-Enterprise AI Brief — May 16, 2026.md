@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic enterprise AI
-- enterprise AI adoption 2026
-- sovereign AI infrastructure
+- Enterprise AI Adoption 2026
 keywords: [agentic enterprise AI, enterprise AI adoption 2026, sovereign AI infrastructure]
 permalink: /Enterprise AI Brief — May 16, 2026/
 ---

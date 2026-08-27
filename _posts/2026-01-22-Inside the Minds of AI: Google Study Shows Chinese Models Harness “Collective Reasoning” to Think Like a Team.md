@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- collective intelligence
-- reasoning models
-- multi‑agent AI
+- Reasoning Models
 keywords: [AI reasoning, collective intelligence, Chinese AI models]
 permalink: /Inside the Minds of AI- Google Study Shows Chinese Models Harness Collective Reasoning to Think Like a Team/
 ---

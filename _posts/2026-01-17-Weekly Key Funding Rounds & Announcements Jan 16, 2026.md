@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- capital deployment
-- AI/DeepTech acceleration
-- mega‑fundraising
-
+- AI/DeepTech Acceleration
 keywords: [capital deployment,AI/DeepTech acceleration,mega‑fundraising]
 permalink: /Weekly VC & Startup Funding Tracker (Last 7 Days — updates to *Jan 17, 2026*)/
 ---

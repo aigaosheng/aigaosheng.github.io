@@ -7,7 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Identity
 - Automation
 - Regulation
 keywords: [Identity,Automation,Regulation]

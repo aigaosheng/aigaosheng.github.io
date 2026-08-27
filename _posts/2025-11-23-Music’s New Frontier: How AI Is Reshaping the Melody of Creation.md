@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI music
-- music industry
-- music creation
+- AI Music
 keywords: [music-AI, music innovation, music business]
 permalink: /Music’s New Frontier - How AI Is Reshaping the Melody of Creation/
 ---

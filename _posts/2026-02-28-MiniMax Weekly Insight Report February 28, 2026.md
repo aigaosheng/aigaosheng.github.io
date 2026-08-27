@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agents deployment
-- Persistent memory
-- Model monetization
+- AI Agents Deployment
 keywords: [MiniMax, MaxClaw, AI agents]
 permalink: /MiniMax Weekly Insight Report February 28, 2026/
 ---

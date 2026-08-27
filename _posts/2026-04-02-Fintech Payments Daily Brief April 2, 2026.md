@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Real-time payments
-- Stablecoin infrastructure
-- Payment experience optimization
+- Real-Time-Payments
+- Stablecoin Infrastructure
 keywords: [Real-time payments,Stablecoin infrastructure,Payment experience optimization]
 permalink: /Fintech Payments Daily Brief April 2, 2026/
 ---

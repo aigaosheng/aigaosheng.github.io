@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum-ai
-- quantum-computing
-- quantum-machine-learning
+- Quantum AI
+- Quantum Computing
+- Quantum Machine Learning
 keywords: [quantum-ai, quantum-computing, quantum-machine-learning]
 permalink: /Quantum-AI-Brief-2026-08-13/
 ---

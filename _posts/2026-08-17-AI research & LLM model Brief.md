@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- AI research
+- AI Research
 - LLM
-- foundation models
+- Foundation Models
 keywords: [AI research, LLM, foundation models]
 permalink: /AI-research-&-LLM-model-Brief-2026-08-17/
 

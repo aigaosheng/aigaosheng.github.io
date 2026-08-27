@@ -7,7 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Asset Tokenizatio
 - Tokenized Assets
 - Blockchain Finance
 keywords: [Asset Tokenizatio,Tokenized Assets,Blockchain Finance]

@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- venture-capital
-- startup-funding
-- defense-tech
-- fintech
-- ai
-- healthcare
+- Venture Capital
+- Startup Funding
+- Defense-Tech
+- Fintech
+- AI
+- Healthcare
 keywords: [venture-capital, startup-funding, defense-tech, fintech, ai, healthcare]
 permalink: /investment-startup-brief-2026-06-04/
 ---

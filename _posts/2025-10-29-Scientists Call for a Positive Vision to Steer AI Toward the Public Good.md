@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- responsible AI
-- AI ethics
-- public‑interest technology
+- Responsible AI
+- AI Ethics
 keywords: [AI vision, responsible AI, ethical AI]
 permalink: /Scientists Call for a Positive Vision to Steer AI Toward the Public Good/
 ---

@@ -10,7 +10,6 @@ tags:
 - Tokenization
 - RWA
 - Digital Assets
-- Institutional Crypto
 - Securities
 keywords: [Tokenized Assets, Real World Assets, RWA, Digital Securities, Institutional Adoption]
 permalink: /tokenized-asset-brief-2026-05-16/

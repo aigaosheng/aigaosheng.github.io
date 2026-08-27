@@ -8,11 +8,6 @@ status: publish
 categories: []
 tags:
 - Payments
-- Fed
-- ECB
-- Digital Euro
-- RBI
-- PPI
 keywords: [Federal Reserve, ECB, Digital Euro, RBI, Prepaid Payment Instruments]
 permalink: /Payment-Brief-2026-05-22/
 ---

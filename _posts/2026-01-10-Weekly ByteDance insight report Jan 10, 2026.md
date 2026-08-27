@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- valuation
-- investor confidence
+- AI Infrastructure
+- Valuation
 keywords: [ByteDance, Nvidia]
 permalink: /Weekly ByteDance insight report Jan 10, 2026/
 ---

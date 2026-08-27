@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Arm Holdings
 - Edge AI
-- Flexible Access Licensing Program
 keywords: [Arm Holdings, Edge AI, Licensing Program]
 permalink: /Arm's Strategic Move - Expanding AI Licensing to Empower Edge Innovation/
 ---

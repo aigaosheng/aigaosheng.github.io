@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI bubble
-- tech stocks
-- valuation risk
+- AI Bubble
+- Tech Stocks
 keywords: [AI, tech stocks, market correction]
 permalink: /Tech Stocks In Retreat as AI-Bubble Fears Grip Markets/
 ---

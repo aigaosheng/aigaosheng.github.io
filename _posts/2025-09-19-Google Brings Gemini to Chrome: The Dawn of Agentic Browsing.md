@@ -7,14 +7,13 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Agent 
-- Googlw
+- AI Agents
 - Agentic Browsing
-- Chrome
 - Privacy
 - OpenAI
 - Microsoft
 - Anthropic
+
 ---
 ---
 # Google Brings Gemini to Chrome: The Dawn of Agentic Browsing

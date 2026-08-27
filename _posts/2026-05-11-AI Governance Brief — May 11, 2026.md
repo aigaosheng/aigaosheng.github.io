@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
-- EU AI Act compliance
-- ISO 42001
+- AI Governance
+- EU AI Act Compliance
 keywords: [AI governance, EU AI Act compliance, ISO 42001]
 permalink: /AI Governance Brief — May 11, 2026/
 ---

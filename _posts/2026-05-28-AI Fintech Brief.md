@@ -11,7 +11,6 @@ tags:
 - Fintech
 - Banking
 - Regulation
-- Layoffs
 keywords: [AI, Fintech, Digital Banking, Financial Regulation, Agentic AI]
 permalink: /AI-Fintech-Brief-2026-05-28/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- VikingGPT  
-- Hedge fund AI  
-- Trade ideas
+- Hedge Fund AI
 keywords: [VikingGPT, hedge fund, artificial intelligence]
 permalink: /Inside Viking Global’s AI Leap - VikingGPT Shows Hedge Funds the Future—But Humans Still Call the Shots/
 ---

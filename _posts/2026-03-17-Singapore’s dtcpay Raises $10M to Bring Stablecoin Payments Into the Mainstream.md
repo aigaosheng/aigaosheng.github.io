@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin payments
-- fintech infrastructure
-- cross-border payments
+- Stablecoin Payments
+- Fintech Infrastructure
+- Cross-Border Payments
 keywords: [stablecoin, fintech, payments]
 permalink: /Singapore’s dtcpay Raises $10M to Bring Stablecoin Payments Into the Mainstream/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Fermi IPO
 - AI Energy Infrastructure
-- Rick Perry
 keywords: [Fermi IPO, AI Data Centers, Energy REITs]
 ---
 **Rick Perry's Fermi IPO: A $19B Bet on AI-Powered Energy Infrastructure**

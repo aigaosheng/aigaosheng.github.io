@@ -9,7 +9,6 @@ categories: []
 tags:
 - US AI
 - AI Policy
-- AI Defense
 - AI Market
 keywords: [US AI, AI policy, AI defense, OpenAI, Anthropic, Grok, xAI, G7, export controls]
 permalink: /US-AI-Brief-2026-06-17/

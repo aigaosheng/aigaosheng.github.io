@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- EAGLET
-- Global Planner Training
 - Long-Horizon Agent Tasks
 keywords: [LLM-based Agent Planning,EAGLET Framework,Efficient AI Training]
 ---

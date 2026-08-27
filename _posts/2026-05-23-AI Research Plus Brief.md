@@ -9,7 +9,6 @@ categories: []
 tags:
 - AI Research
 - OpenAI
-- Recursive Self-Improvement
 - AI Funding
 keywords: [AI research, recursive self-improvement, OpenAI, AI funding]
 permalink: /AI-Research-Plus-Brief-2026-05-23/

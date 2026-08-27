@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agent
-- Lean operations
-- Freight automation
+- AI Agents
+
 ---
 ---
 **AI-Powered Logistics: How C.H. Robinson Is Thriving Amid a Freight Downturn**

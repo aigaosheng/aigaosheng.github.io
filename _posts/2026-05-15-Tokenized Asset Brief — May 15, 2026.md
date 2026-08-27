@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- real world asset tokenization
-- institutional crypto adoption
-- tokenized treasuries
+- Real World Asset Tokenization
 keywords: [real world asset tokenization, institutional crypto adoption, tokenized treasuries]
 permalink: /Tokenized Asset Brief — May 15, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI chatbots
-- India call centers
-- workforce automation
+- AI Chatbots
 keywords: [AI, call center, automation]
 ---
 **India’s Call-Center Shakeup: How AI Chatbots Are Replacing Headset Workers — and Who Wins**

@@ -10,7 +10,6 @@ tags:
 - AI Governance
 - GRC
 - Financial Regulation
-- Supply Chain Security
 - Agentic AI
 keywords: [AI Governance, GRC, Financial Regulation, Supply Chain Security, Agentic AI]
 permalink: /AI-Governance-Brief-2026-05-25/

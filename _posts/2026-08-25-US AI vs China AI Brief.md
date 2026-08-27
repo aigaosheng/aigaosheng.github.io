@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
 - US AI
 - China AI
-- AI race
+- AI Race
 keywords: [US AI, China AI, AI race]
 permalink: /US-AI-vs-China-AI-Brief-2026-08-25/
 

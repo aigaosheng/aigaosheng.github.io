@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- government spyware
-- surveillance
-- cybersecurity
+- Surveillance
+- Cybersecurity
 keywords: [spyware, surveillance, cybersecurity]
 permalink: /Government Spyware Is Going Mainstream — and That’s a Problem/
 ---

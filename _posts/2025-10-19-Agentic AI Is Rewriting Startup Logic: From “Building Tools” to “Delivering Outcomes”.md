@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Agentic AI
-- Outcome-based AI
-- Global expansion
+- Global Expansion
 keywords: [AI startup, SaaS model, global markets]
 ---
 

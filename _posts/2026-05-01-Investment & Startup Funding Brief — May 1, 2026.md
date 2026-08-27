@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI venture capital trends
-- startup funding 2026
-- enterprise AI investment
+- AI Venture Capital Trends
+- Startup Funding 2026
+- Enterprise AI Investment
 keywords: [AI venture capital trends, startup funding 2026, enterprise AI investment]
 permalink: /Investment & Startup Funding Brief — May 1, 2026/
 ---

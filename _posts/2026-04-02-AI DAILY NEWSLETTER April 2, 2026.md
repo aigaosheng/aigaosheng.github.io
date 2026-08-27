@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agents
-- Enterprise AI workflows
-- AI monetization
+- AI Agents
+- AI Monetization
 keywords: [AI agents, Enterprise AI workflows, AI monetization]
 permalink: /AI DAILY NEWSLETTER April 2, 2026/
 ---

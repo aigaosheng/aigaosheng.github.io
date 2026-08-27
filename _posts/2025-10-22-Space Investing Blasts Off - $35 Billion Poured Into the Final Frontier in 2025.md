@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- space funding
-- private space industry
-- venture capital  
+- Space Funding
+- Venture Capital
 keywords: [space investment, startup funding, satellite technology]
 permalink: /Space Investing Blasts Off - $35 Billion Poured Into the Final Frontier in 2025/
 ---

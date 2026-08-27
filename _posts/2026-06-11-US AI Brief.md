@@ -10,7 +10,7 @@ tags:
 - US AI
 - Regulation
 - AI Policy
-- Market
+- Markets
 keywords: [US AI, AI regulation, AI policy, tech stocks, Trump executive order, Anthropic]
 permalink: /US-AI-Brief-2026-06-11/
 ---

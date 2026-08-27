@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- keyboard-integration
-- AI-workspace
-- MCP-apps
+- Keyboard-Integration
 keywords: [AI integration, productivity tools, workplace automation]
 permalink: /How Anthropic Is Turning Claude Into a True AI-Powered Work Hub/
 ---

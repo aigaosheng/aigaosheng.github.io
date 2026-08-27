@@ -9,7 +9,6 @@ categories: []
 tags:
 - AI
 - Quantum Computing
-- Superconductors
 keywords: [AI, Quantum Computing, Superconductors]
 permalink: /AI-Quantum-Computing-Brief-2026-07-07/
 ---

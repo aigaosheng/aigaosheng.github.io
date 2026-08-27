@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
-- AI regulation
-- AI risk
+- AI Governance
+- AI Regulation
+- AI Risk
 keywords: [AI governance, AI regulation, AI risk]
 permalink: /AI-governance-regulation-and-risk-Brief-2026-08-14/
 ---

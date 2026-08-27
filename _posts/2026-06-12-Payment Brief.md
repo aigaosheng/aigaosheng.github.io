@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-Payments
+- AI Payments
 - Stablecoins
-- Agentic-Commerce
+- Agentic Commerce
 - Visa
 - Mastercard
 keywords: [AI Payments, Agentic Commerce, Stablecoin Settlement, Visa OpenAI Partnership, Mastercard Agent Pay]

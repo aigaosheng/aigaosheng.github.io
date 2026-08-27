@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI misinformation
-- synthetic media
-- social media trust
+- Synthetic Media
 keywords: [AI misinformation, synthetic media, social media trust]
 permalink: /AI Impact on Social Media & Society — Daily Intelligence Brief 2026-04-16/
 ---

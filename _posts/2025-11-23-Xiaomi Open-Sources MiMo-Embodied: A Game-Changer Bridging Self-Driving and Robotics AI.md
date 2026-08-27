@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Xiaomi
-- embodied AI
-- autonomous driving
+- Embodied AI
+- Autonomous Driving
 keywords: [MiMo-Embodied, open-source model, robotics AI]
 permalink: /Xiaomi Open-Sources MiMo-Embodied - A Game-Changer Bridging Self-Driving and Robotics AI/
 ---

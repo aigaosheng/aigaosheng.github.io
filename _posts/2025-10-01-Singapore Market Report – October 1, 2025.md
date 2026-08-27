@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- STI Performance
 - IPO Activity
-- Real Estate Market
+
 ---
 ---
 **📈 Singapore Market Report – October 1, 2025**

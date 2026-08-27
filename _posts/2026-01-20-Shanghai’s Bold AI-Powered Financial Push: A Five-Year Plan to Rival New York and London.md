@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Shanghai finance strategy
-- AI innovation
-- global financial hub
+- AI Innovation
 keywords: [finance, AI, Shanghai]
 permalink: /Shanghai’s Bold AI-Powered Financial Push- A Five-Year Plan to Rival New York and London/
 ---

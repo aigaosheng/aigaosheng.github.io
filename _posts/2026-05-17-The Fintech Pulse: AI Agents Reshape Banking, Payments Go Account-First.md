@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic  
-- Orchestration  
-- Flexible   
+- Agentic
+- Orchestration
 keywords: [fintech AI payments, account-to-account payments, digital wallet innovation]
 permalink: /The Fintech Pulse- AI Agents Reshape Banking, Payments Go Account-First/
 ---

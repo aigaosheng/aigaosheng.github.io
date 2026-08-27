@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Payment
+- Payments
 - Fintech
 - Regulation
-- A2A
-- BNPL
 keywords: [Payment, Fintech, Regulation, A2A payments, BNPL, Federal Reserve]
 permalink: /Payment-Brief-2026-05-20/
 ---

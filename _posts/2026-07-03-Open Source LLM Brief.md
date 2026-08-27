@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- open-source
-- llm
-- ai-models
+- Open Source
+- LLM
+- AI Models
 keywords: [open source LLM, foundation models, AI, self-hosted models]
 permalink: /Open-Source-LLM-Brief-2026-07-03/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- neuro-symbolic AI
-- task-oriented conversational AI
-- behavioral certainty
+- Neuro-Symbolic AI
 keywords: [conversational AI, task-automation, neuro-symbolic]
 permalink: /Why “bigger and bigger” isn’t the answer – a new architecture is redefining conversational AI/
 ---

@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- KakaoBank 
-- Superbank
 - SoutheastAsia
 keywords: [digital banking, fintech expansion, Superbank]
 permalink: /KakaoBank Big Bet on Southeast Asia - Inside Its Superbank Power Play/

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Meta gambling ads controversy
-- UK Gambling Commission enforcement
-- illegal online casinos social media
+- Illegal Online Casinos Social Media
 keywords: [Meta, illegal gambling, UK regulator]
 permalink: /Meta Under Fire- UK Regulator Accuses Facebook & Instagram of Letting Illegal Gambling Ads Run Rampant/
 ---

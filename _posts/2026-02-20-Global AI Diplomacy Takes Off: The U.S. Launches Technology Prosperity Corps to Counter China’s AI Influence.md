@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI diplomacy
 - Technology Prosperity Corps
-- U.S.-China tech competition
 keywords: [AI strategy, technology exports, global tech influence]
 permalink: /Global AI Diplomacy Takes Off- The U.S. Launches Technology Prosperity Corps to Counter China’s AI Influence/
 ---

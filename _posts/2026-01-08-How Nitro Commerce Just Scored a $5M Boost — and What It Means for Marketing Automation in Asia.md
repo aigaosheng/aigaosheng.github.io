@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- marketing automation startup
-- Nitro Commerce Series A
-- Cornerstone Ventures investment
+- Nitro Commerce Series a
 keywords: [marketing automation,Series A funding,martech growth]
 permalink: /How Nitro Commerce Just Scored a $5M Boost — and What It Means for Marketing Automation in Asia/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- venture capital May 2025,
-- startup funding May 7 2025
-- unicorn funding rounds
+- Startup Funding May 7 2025
 keywords: [venture capital May 2025, startup funding May 7 2025, unicorn funding rounds]
 permalink: /Investment & Startup Brief – May 8, 2025/
 ---

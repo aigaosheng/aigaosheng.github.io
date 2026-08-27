@@ -6,12 +6,11 @@ type: post
 published: true 
 status: publish 
 categories: [] 
-tags: 
-- China AI 
-- AI Infrastructure 
-- AI Policy 
-- AI Models 
-- APEC 
+tags:
+- China AI
+- AI Infrastructure
+- AI Policy
+- AI Models
 keywords: [China AI, AI supercluster, AI policy, APEC digital, AI competition, AI infrastructure] 
 permalink: /China-AI-Brief-2026-07-10/ 
 ---

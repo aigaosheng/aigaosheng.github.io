@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Qwen‑Image‑Edit‑2511
-- AI image editing innovation
-- Qwen consumer ecosystem
+- AI Image Editing Innovation
 keywords: [image editing, multimodal AI, Alibaba Qwen]
 permalink: /Weekly Qwen AI Ecosystem Update – Official Qwen Announcements December 27 2025/
 ---

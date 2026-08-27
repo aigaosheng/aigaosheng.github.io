@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- OpenClaw security
-- AI agent vulnerabilities
-- enterprise cybersecurity
+- AI Agent Vulnerabilities
 keywords: [agentic AI security, AI agent risk, prompt injection]
 permalink: /OpenClaw- The AI Agent That Slips Past Your Entire Security Stack/
 ---

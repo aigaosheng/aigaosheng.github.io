@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI copyright
-- Adobe lawsuit
-- SlimLM training
+- SlimLM Training
 keywords: [AI training, copyright infringement, Adobe lawsuit]
 permalink: /Adobe on the Legal Hot Seat - Lawsuit Claims AI Was Trained on Pirated Books/
 ---

@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- neural scaling laws
-- implicit MoE
-- transformer interpretability
-- agentic AI
+- Agentic AI
 keywords: [depth‑aware optimization, competitive benchmark dynamics]
 permalink: /Weekly AI/Tech Research Update (to 27 Dec 2025)/
 ---

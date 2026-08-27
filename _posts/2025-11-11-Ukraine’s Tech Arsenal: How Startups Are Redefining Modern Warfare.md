@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Ukraine tech war
-- defence innovation
-- drone autonomy
+- Ukraine Tech War
 keywords: [Ukraine-defence, drone-technology, tech-startups]
 permalink: /Ukraine’s Tech Arsenal - How Startups Are Redefining Modern Warfare/
 ---

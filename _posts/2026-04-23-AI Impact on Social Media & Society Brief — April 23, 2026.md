@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
-- synthetic media
-- platform accountability
+- AI Governance
+- Synthetic Media
 keywords: [AI governance, synthetic media, platform accountability]
 permalink: /AI Impact on Social Media & Society Brief — April 23, 2026/
 ---

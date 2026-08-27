@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Medra 
-- AI drug discovery
-- lab robotics
+- AI Drug Discovery
 keywords: [AI, drug discovery, automation]
 permalink: /AI Robots Are the New Lab Assistants - Medra’s $52M Bet to Reinvent Drug Discovery/
 ---

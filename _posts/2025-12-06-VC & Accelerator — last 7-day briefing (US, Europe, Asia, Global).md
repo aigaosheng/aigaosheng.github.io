@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-infrastructure
-- Demo-day dealflow
-- Accelerator cohorts
+- AI Infrastructure
 keywords: [AI, accelerator, startup funding]
 permalink: /VC & Accelerator — last 7-day briefing (US, Europe, Asia, Global)/
 ---

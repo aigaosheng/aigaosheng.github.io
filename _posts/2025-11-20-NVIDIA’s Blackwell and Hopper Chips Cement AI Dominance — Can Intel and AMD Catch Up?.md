@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI chips
-- NVIDIA dominance
-- semiconductor competition
+- AI Chips
 keywords: [NVIDIA, AI accelerator, Blackwell]
 permalink: /NVIDIA’s Blackwell and Hopper Chips Cement AI Dominance — Can Intel and AMD Catch Up?/
 ---

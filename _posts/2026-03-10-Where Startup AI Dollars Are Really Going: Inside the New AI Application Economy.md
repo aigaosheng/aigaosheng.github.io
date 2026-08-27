@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI applications
-- startup AI spending
-- generative AI tools
+- AI Applications
 keywords: [AI startups, AI applications, generative AI]
 permalink: /Where Startup AI Dollars Are Really Going- Inside the New AI Application Economy/
 ---

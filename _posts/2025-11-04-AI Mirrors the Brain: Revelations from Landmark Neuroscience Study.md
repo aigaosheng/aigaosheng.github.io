@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- neuroscience
-- artificial intelligence
-- language models
+- Artificial Intelligence
+- Language Models
 keywords: [brain, LLM, cognition]
 permalink: /AI Mirrors the Brain - Revelations from Landmark Neuroscience Study/
 ---

@@ -7,10 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- Rise and fall of U.S. High-Tech Companies 
-- Technology innovation
+- Rise and Fall of U.S. High-Tech Companies
+- Technology Innovation
 - Bell Lab
-- 贝尔实验室
+
 ---
 # 贝尔实验室： “创意工厂”的兴衰史
 <p align="center">

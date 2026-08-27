@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI integration
-- Robotics and simulation
-- On-device AI
+- AI Integration
+- On-Device AI
+
 ---
 ---
 

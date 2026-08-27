@@ -8,9 +8,8 @@ status: publish
 categories: []
 tags:
 - OpenAI
-- AMD 
-- AI adoption in Europe
-- Enterprise AI strategy
+- Enterprise AI Strategy
+
 ---
 ---
 

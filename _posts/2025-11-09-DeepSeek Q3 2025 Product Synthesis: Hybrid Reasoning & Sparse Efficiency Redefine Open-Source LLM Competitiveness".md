@@ -7,10 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Mixture-of-Experts (MoE)
-- Sparse Attention (DSA)
-- Long-context Efficiency
-- Open-source LLM Pricing
 - Hybrid Reasoning Architecture
 keywords: [DeepSeek API pricing 2025,Sparse attention large language models,Open-source reasoning models]
 permalink: /DeepSeek Q3 2025 Product Synthesis- Hybrid Reasoning & Sparse Efficiency Redefine Open-Source LLM Competitiveness"/

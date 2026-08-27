@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- embodied AI
-- social robotics
-- enculturation]
+- Embodied AI
 keywords: [robots, artificial intelligence, human-robot interaction]
 permalink: /When Robots Learn to Belong - How ‘Embodied’ AI Is Shaping Society’s Next Chapter/
 ---

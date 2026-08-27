@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI energy efficiency
-- Schneider Electric
-- energy optimization
+- AI Energy Efficiency
 keywords: [energy, AI, sustainability]
 permalink: /AI’s Power Shift- How Intelligence Technology Could Slash Global Energy Use by Up to 30%/
 ---

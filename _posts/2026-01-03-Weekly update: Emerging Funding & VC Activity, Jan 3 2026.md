@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - AI
-- FinTech
-- Exits
+- Fintech
 keywords: [startup funding, venture capital, AI investments]
 permalink: /Weekly update - Emerging Funding & VC Activity, Jan 3 2026/
 ---

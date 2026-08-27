@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- rare earth export controls
-- semiconductor supply chain risk
-- ASML disruption
+- Semiconductor Supply Chain Risk
 keywords: ["rare earths", "semiconductor", "supply chain"]
 ---
 ---

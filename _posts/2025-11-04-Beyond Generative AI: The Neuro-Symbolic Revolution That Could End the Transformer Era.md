@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- neuro-symbolic AI
-- deterministic conversational systems
-- enterprise AI
+- Neuro-Symbolic AI
+- Enterprise AI
 keywords: [neuro-symbolic, Apollo-1, task-oriented AI]
 permalink: /Beyond Generative AI - The Neuro-Symbolic Revolution That Could End the Transformer Era/
 ---

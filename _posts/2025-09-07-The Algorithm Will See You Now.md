@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Medical AI
-- Radiology
-- Automation in Healthcare
+
 ---
 ---
 **The Algorithm Will See You Now**

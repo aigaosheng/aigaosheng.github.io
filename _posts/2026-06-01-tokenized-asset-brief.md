@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenization
-- tokenized-equities
-- binance
-- citi
-- real-world-assets
+- Tokenization
+- Tokenized-Equities
+- Real-World-Assets
 keywords: [tokenization, tokenized-equities, binance, citi, real-world-assets]
 permalink: /tokenized-asset-brief-2026-06-01/
 ---

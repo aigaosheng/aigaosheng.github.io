@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- South Korea
-- AI investment
-- Exim Bank
+- AI Investment
 keywords: [AI funding, Korean tech industry, export financing]
 permalink: /South Korea’s Bold AI Bet - Export‑Import Bank of Korea Pours US$13.6 B Into Domestic AI Push/
 ---

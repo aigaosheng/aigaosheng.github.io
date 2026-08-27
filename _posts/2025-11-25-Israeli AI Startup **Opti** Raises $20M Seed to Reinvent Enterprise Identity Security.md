@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI security
-- identity management
-- enterprise IAM
+- AI Security
 keywords: [identity security, AI-native, access management]
 permalink: /Israeli AI Startup Opti Raises $20M Seed to Reinvent Enterprise Identity Security/
 ---

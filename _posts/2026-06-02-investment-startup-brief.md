@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- venture-capital
-- startup-funding
-- defense-tech
-- deeptech
-- ai-infrastructure
-- fintech
+- Venture Capital
+- Startup Funding
+- Defense-Tech
+- Deeptech
+- AI Infrastructure
+- Fintech
 keywords: [venture-capital, startup-funding, defense-tech, deeptech, ai-infrastructure, fintech]
 permalink: /investment-startup-brief-2026-06-02/
 ---

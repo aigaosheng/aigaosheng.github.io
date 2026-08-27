@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Gemini Integration
 - Enterprise AI Assistants
-- Conversational Navigation
-- Workspace Productivity
-- AI Context Windows
 keywords: [Gemini 3 Pro Preview,Google Maps AI Navigation,Workspace Deep Research]
 permalink: /Google's AI-First Product Integration Wave - Workspace, Maps, and the Imminent Gemini 3 Era/
 ---

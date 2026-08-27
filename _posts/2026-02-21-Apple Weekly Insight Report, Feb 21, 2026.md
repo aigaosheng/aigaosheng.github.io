@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Apple Special Apple Experience
-- iPhone 17e
-- AI & Siri Delay
 keywords: [Apple event, iPhone 17e, security update]
 permalink: /Apple Weekly Insight Report, Feb 21, 2026/
 ---

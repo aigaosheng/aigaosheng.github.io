@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Bank-tech (DBS / AI adoption)
-- Housing launches (private sales)
-- Online-safety regulation
+- Bank-Tech (DBS / AI Adoption)
 keywords: [Bank-tech (DBS / AI adoption),Housing launches,Online-safety regulation ]
 ---
 ---

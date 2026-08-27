@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI governance
-- Agentic AI platforms
-- Generative AI adoption 2026
+- Enterprise AI Governance
+- Agentic AI Platform
 keywords: [Enterprise AI governance, Agentic AI platforms, Generative AI adoption 2026]
 permalink: /Enterprise AI Brief — May 11, 2026/
 ---

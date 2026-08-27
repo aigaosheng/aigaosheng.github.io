@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - China AI
-- Large Models
 - AI Policy
 - AI Investment
 keywords: [China AI, Large Models, AI Policy, AI Investment, Agentic AI]

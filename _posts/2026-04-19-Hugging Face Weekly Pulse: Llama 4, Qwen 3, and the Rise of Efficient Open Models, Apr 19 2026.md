@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Hugging Face models 2026
-- Llama 4 Scout
-- Qwen 3 model
-- open source LLM trends
-- multimodal AI models
+- Multimodal AI Models
 keywords: [AI, LLM, open-source, multimodal, edge]
 permalink: /Hugging Face Weekly Pulse- Llama 4, Qwen 3, and the Rise of Efficient Open Models, Apr 19 2026/
 ---

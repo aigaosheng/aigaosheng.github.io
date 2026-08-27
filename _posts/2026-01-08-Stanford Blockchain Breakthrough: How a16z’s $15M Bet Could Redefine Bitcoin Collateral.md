@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Bitcoin collateral
-- a16z Crypto
-- decentralized finance
+- Decentralized Finance
 keywords: [Bitcoin, blockchain, decentralized]
 permalink: /Stanford Blockchain Breakthrough - How a16z’s $15M Bet Could Redefine Bitcoin Collateral/
 ---

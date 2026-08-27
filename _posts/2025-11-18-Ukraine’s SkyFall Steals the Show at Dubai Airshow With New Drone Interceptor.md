@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- interceptor drone
-- SkyFall
-- drone warfare
+- Interceptor Drone
 keywords: [drone technology, unmanned systems, defence-tech]
 permalink: /Ukraine’s SkyFall Steals the Show at Dubai Airshow With New Drone Interceptor/
 ---

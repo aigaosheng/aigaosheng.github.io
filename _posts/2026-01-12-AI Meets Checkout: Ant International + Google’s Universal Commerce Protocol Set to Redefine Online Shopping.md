@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic commerce 
-- Universal Commerce Protocol 
-- AI checkout
+- Agentic Commerce
 keywords: [AI commerce, fintech innovation, autonomous shopping]
 permalink: /AI Meets Checkout- Ant International + Google’s Universal Commerce Protocol Set to Redefine Online Shopping/
 ---

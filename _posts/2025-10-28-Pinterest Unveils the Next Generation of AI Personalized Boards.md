@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Pinterest AI
-- personalized boards
-- fashion recommendations
+- Fashion Recommendations
 keywords: [AI personalization, Pinterest shopping, outfit inspiration]
 permalink: /Pinterest Unveils the Next Generation of AI Personalized Boards/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- financial AI infrastructure
-- AI banking innovation
+- AI Fintech
 keywords: [AI fintech, financial AI infrastructure, AI banking innovation]
 permalink: /AI + Fintech Brief — April 21, 2026/
 ---

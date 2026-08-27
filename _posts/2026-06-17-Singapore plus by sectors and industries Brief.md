@@ -13,8 +13,6 @@ tags:
 - Exports
 - Semiconductors
 - Data Centres
-- GIC
-- Water Sustainability
 - M&A
 keywords: [Singapore, AI exports, NODX, semiconductor, data centre, GIC, private credit, water sustainability, MAS, takeover code]
 permalink: /Singapore-plus-by-sectors-and-industries-Brief-2026-06-17/

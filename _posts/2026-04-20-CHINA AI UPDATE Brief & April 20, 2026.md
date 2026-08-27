@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI regulation
-- humanoid robotics
-- digital human governance
+- China AI Regulation
+- Humanoid Robotics
 keywords: [China AI regulation, humanoid robotics, digital human governance]
 permalink: /CHINA AI UPDATE Brief & April 20, 2026/
 ---

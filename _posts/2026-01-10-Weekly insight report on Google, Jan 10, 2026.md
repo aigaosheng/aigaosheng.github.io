@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Gemini AI
-- Gmail AI Inbox
-- Google TV AI Integration
 keywords: [Gemini updates, Gmail AI features, Google CES 2026]
 permalink: /Weekly Google insight report Jan 10, 2026/
 ---

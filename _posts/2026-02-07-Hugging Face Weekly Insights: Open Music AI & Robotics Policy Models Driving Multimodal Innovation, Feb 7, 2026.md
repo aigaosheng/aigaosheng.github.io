@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- HuggingFace models
-- open‑source music generation
-- ACE‑Step v1.5
-- Nvidia Cosmos Policy-
-- audio language models
+- HuggingFace Models
 keywords: [multimodal, benchmark, deployment, community, fine‑tuning]
 permalink: /Hugging Face Weekly Insights- Open Music AI & Robotics Policy Models Driving Multimodal Innovation, Feb 7, 2026/
 ---

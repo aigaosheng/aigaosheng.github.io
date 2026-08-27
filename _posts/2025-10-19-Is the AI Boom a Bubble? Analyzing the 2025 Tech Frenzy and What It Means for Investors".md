@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI bubble risks  
-- AI investment trends  
-- Enterprise AI adoption  
+- AI Bubble Risks
+- Enterprise AI Adoption
 keywords: [AI, investment, bubble]
 permalink: /Is the AI Boom a Bubble? Analyzing the 2025 Tech Frenzy and What It Means for Investors/
 ---

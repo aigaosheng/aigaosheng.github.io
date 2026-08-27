@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Transformation
-- Enterprise AI Scaling
 - AI Agents
 keywords: [AI adoption trends 2025,How businesses scale artificial intelligence,Future of AI-driven innovation]
 permalink: /Mckinsey AI report in November 2025 - Agents, Innovation, and Transformation/

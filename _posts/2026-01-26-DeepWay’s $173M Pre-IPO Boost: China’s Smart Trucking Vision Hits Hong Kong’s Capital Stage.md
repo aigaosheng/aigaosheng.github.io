@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- autonomous trucking
-- DeepWay funding
+- Autonomous Trucking
 - Hong Kong IPO
 keywords: [DeepWay, electric trucks, Hong Kong IPO]
 permalink: /DeepWay’s $173M Pre-IPO Boost- China’s Smart Trucking Vision Hits Hong Kong’s Capital Stage/

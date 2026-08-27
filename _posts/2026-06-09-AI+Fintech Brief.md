@@ -10,7 +10,6 @@ tags:
 - AI
 - Fintech
 - AgenticAI
-- FinancialServices
 - AIGovernance
 keywords: [AI Fintech, Agentic AI, Financial Services, AI Governance, Compute Futures]
 permalink: /AI-Fintech-Brief-2026-06-09/

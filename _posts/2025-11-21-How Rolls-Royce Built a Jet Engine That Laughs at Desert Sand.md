@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- sand-resistant engine
-- Rolls-Royce innovation
-- jet maintenance
+- Rolls-Royce Innovation
 keywords: [Rolls-Royce, engine durability, sand damage]
 permalink: /How Rolls-Royce Built a Jet Engine That Laughs at Desert Sand/
 ---

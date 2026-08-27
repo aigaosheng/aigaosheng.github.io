@@ -11,7 +11,6 @@ tags:
 - Social Media
 - Deepfakes
 - Misinformation
-- AIPsychosis
 - Regulation
 keywords: [AI, Social Media, Deepfakes, Misinformation, AI Psychosis, Regulation, Generative AI]
 permalink: /AI-Social-Media-Brief-2026-05-18/

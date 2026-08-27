@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- algospeak
-- censorship
-- social media
+- Social Media
 keywords: [diverse speech, algorithm moderation, coded language]
 permalink: /How “Algospeak” Is Rewriting What You Can—and Can’t—Say Online/
 ---

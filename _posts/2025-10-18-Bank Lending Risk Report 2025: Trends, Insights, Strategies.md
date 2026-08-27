@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- bank
-- lending
-- risk
+- Lending
+- Risk
 keywords: [report, trends, strategies]
 ---
 **Bank Lending Risk Report 2025: Trends, Insights, Strategies**

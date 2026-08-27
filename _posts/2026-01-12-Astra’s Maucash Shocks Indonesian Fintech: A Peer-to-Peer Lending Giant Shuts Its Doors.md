@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Maucash shutdown
-- Astra fintech
-- Indonesian P2P lending exit
+- Indonesian P2P Lending Exit
 keywords: [Indonesia fintech, digital lending, Astra International]
 permalink: /Astra's Maucash Shocks Indonesian Fintech - A Peer-to-Peer Lending Giant Shuts Its Doors/
 ---

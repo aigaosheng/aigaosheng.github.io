@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- AI research
-- open-source LLM
-- open-weight models
+- AI Research
+- Open-Source LLM
+- Open-Weight Models
 keywords: [AI research, open-source LLM, open-weight models]
 permalink: /ai-research-and-open-source-llm-Brief-2026-08-26/
 

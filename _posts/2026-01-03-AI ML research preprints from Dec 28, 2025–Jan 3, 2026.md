@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- continual learning paradigm
-- hierarchical RL
-- causal inference ML
-- information‑theoretic design
-- interactive machine learning
+- Interactive Machine Learning
 keywords: [agentic systems, nested optimization, temporal abstractions, probabilistic modeling, human‑in‑loop ML]
 permalink: /AI ML research preprints from Dec 28, 2025–Jan 3, 2026/
 ---

@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI regulation
-- AI governance China 2026
-- US China AI competition
+- China AI Regulation
+- AI Governance China 2026
+- US China AI Competition
 keywords: [China AI regulation, AI governance China 2026, US China AI competition]
 permalink: /China AI Update Brief — May 1, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Netflix gaming acquisition
-- cross-game avatars
-- Ready Player Me
+- Netflix Gaming Acquisition
 keywords: [Netflix gaming, avatars, interactive entertainment]
 permalink: /Netflix Levels Up Gaming with Ready Player Me - Your Avatar, Everywhere/
 ---

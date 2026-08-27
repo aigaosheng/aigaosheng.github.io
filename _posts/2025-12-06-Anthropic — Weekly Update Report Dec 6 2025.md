@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI adoption
-- Global expansion
-- AI safety & security
+- Enterprise AI Adoption
+- Global Expansion
 keywords: [Anthropic news, Claude AI enterprise, Anthropic acquisition]
 permalink: /Anthropic — Weekly Update Report Dec 6 2025/
 ---

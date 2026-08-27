@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- AI research
-- artificial intelligence
-- machine learning
+- AI Research
+- Artificial Intelligence
+- Machine Learning
 keywords: [AI research, artificial intelligence, machine learning]
 permalink: /AI-research-Brief-2026-08-21/
 

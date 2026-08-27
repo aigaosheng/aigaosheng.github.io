@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- SEAL framework
-- Self-adapting AI
-- MIT AI research
+- MIT AI Research
 keywords: [Self-improving language models, MIT SEAL framework, Autonomous AI learning]
 ---
 ---

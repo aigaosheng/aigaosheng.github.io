@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI compliance
-- Series A funding
-- enterprise risk automation
+- AI Compliance
+- Series a Funding,
 keywords: [AI, compliance, automation]
 permalink: /GV Backs AI-Powered Compliance Startup Complyance with $20M Series A to Transform Enterprise Risk Automation/
 ---

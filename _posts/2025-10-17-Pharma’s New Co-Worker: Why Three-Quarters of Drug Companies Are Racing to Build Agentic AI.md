@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Agentic AI
-- Pharma AI adoption
-- Data standardization
 keywords: [agentic, pharma, compliance]
 ---
 **Pharma’s New Co-Worker: Why Three-Quarters of Drug Companies Are Racing to Build Agentic AI**

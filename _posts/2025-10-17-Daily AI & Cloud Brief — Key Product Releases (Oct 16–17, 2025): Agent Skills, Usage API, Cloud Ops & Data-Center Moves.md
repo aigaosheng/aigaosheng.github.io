@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Skills
-- Usage
 - Infrastructure
 keywords: [Agent Skills, Usage API, Cloud Resource Explorer]
 ---

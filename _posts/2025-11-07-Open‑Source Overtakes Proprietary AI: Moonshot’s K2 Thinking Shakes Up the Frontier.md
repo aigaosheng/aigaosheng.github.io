@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- open‑source AI
-- agentic reasoning
-- AI benchmarks
+- Open Source AI
+- AI Benchmarks
 keywords: [open AI model, AI startup, frontier AI]
 permalink: /Open‑Source Overtakes Proprietary AI - Moonshot’s K2 Thinking Shakes Up the Frontier/
 ---

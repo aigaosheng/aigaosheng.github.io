@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- generative AI
-- automation of creativity
-- AI ethics
+- Generative AI
+- AI Ethics
 keywords: [generative, creativity, disruption]
 permalink: /AI Breakthrough Raises Big Questions Over Creativity, Jobs and Ethics/
 ---

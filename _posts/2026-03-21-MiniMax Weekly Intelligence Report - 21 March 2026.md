@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - MiniMax M2.7 Self-Evolving AI
-- OpenClaw Agentic AI China
-- AI Foundation Model IPO
 keywords: [MiniMax M2.7 model release, self-evolving AI agent 2026, China AI stocks OpenClaw rally]
 permalink: /MiniMax Weekly Intelligence Report - 21 March 2026/
 ---

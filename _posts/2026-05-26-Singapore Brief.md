@@ -9,7 +9,6 @@ categories: []
 tags:
 - Singapore
 - Economy
-- GDP
 - AI
 - Inflation
 - Trade

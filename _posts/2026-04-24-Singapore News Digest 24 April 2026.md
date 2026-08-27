@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore AI hub 2026
-- enterprise multi-model AI platforms
-- AI infrastructure Singapore startups
+- AI Infrastructure Singapore Startups
 keywords: [Singapore AI hub 2026, enterprise multi-model AI platforms, AI infrastructure Singapore startups]
 permalink: /Singapore News Digest 24 April 2026/
 ---

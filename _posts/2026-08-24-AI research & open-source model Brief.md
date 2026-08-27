@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- AI research
-- open-source models
-- open-weight models
+- AI Research
+- Open Source Models
+- Open-Weight Models
 keywords: [AI research, open-source models, open-weight models]
 permalink: /AI-research-open-source-model-Brief-2026-08-24/
 

@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- venture-capital
-- startups
-- investment
+- Venture Capital
+- Startups
+- Investment
 keywords: [venture-capital, startups, investment]
 permalink: /Investment-Startup-Brief-2026-08-06/
 ---

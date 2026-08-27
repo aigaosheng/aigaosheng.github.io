@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- venture capital trends
-- startup funding
+- AI Infrastructure
+- Venture Capital Trends
+- Startup Funding
 keywords: [AI infrastructure, venture capital trends, startup funding]
 permalink: /Venture Pulse Brief — 05.13.2026/
 ---

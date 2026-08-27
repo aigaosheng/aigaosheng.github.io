@@ -10,7 +10,7 @@ tags:
 - Singapore
 - AI Infrastructure
 - Finance
-- Industry
+- Industries
 keywords: [Singapore, AI infrastructure, data centres, finance, semiconductor, industry]
 permalink: /Singapore-plus-by-Sector-Industry-Brief-2026-07-01/
 ---

@@ -10,7 +10,6 @@ tags:
 - Open Source AI
 - LLM
 - Hugging Face
-- Qualcomm
 - GLM-5.2
 keywords: [Open Source AI, LLM, Hugging Face, Qualcomm, GLM-5.2]
 permalink: /OpenSource-LLM-Brief-2026-06-26/

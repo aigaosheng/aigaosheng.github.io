@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- 3D heterogeneous integration
-- advanced packaging
-- semiconductor foundry
+- 3D Heterogeneous Integration
 keywords: [3DHI, semiconductor manufacturing, chip integration]
 permalink: /Turning Chips on Their Side — U.S. Bets Big on 3D Heterogeneous Integration/
 ---

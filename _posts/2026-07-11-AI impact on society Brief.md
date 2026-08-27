@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-  - AI
-  - Society
-  - FutureOfWork
+- AI
+- Society
 keywords: [AI, society, jobs, education, governance]
 permalink: /AI-impact-on-society-Brief-2026-07-11/
 ---

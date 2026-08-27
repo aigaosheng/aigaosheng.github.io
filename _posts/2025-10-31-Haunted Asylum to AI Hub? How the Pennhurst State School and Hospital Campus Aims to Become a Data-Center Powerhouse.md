@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Pennhurst
-- data centre
-- AI infrastructure
+- Data Centres
+- AI Infrastructure
 keywords: [data-centre, AI infrastructure, land-redevelopment]
 permalink: /Haunted Asylum to AI Hub? How the Pennhurst State School and Hospital Campus Aims to Become a Data-Center Powerhouse/
 ---

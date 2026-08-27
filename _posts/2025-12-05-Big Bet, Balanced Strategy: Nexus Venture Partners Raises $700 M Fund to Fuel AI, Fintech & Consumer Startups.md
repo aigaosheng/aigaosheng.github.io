@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Nexus Venture Partners
-- AI funding
-- India-US startups
+- AI Funding
 keywords: [AI funding, venture capital, Indian startups]
 permalink: /Big Bet, Balanced Strategy - Nexus Venture Partners Raises $700 M Fund to Fuel AI, Fintech & Consumer Startups/
 ---

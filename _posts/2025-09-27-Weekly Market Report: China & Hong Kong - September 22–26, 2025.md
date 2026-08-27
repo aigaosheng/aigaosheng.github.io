@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- China Market Pullback
-- Hong Kong Stocks
-- Biotech Sector
-- U.S. Tariffs
 - Investor Sentiment
+
 ---
 
 **Weekly Market Report: China & Hong Kong (September 22–26, 2025)**

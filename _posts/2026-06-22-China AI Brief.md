@@ -10,7 +10,6 @@ tags:
 - China AI
 - Large Language Models
 - GLM-5.2
-- Chain Expo
 - AI Chips
 - DeepSeek
 keywords: [China AI, Zhipu AI, GLM-5.2, supply chain, AI chips, DeepSeek, Summer Davos, generative AI]

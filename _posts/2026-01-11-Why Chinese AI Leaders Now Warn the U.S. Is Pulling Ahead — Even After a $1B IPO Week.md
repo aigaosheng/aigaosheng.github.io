@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI race 
-- US tech lead 
 - AI IPOs
 keywords: [AI, China, US tech gap]
 permalink: /Why Chinese AI Leaders Now Warn the U.S. Is Pulling Ahead — Even After a $1B IPO Week/

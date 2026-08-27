@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - GPT‑5.2
-- ChatGPT Images
-- App Store Ecosystem
 keywords: [Generative AI, Model Update, Enterprise Adoption]
 permalink: /OpenAI Weekly Pulse - GPT‑5.2, ChatGPT Images, and App Submission Expansion/
 ---

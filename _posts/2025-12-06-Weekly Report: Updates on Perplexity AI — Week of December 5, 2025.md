@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- copyright litigation
-- AI search integration
-- model upgrade
+- Model Upgrades
 keywords: [Perplexity, AI search, lawsuit]
 permalink: /Weekly Report - Updates on Perplexity AI — Week of December 5, 2025/
 ---

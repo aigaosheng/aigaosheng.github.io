@@ -12,7 +12,6 @@ tags:
 - AI
 - Trade
 - SpaceTech
-- IMF
 keywords: [Singapore economy, AI exports, space lab, IMF forecast, STI, trade]
 permalink: /Singapore-Brief-2026-05-19/
 ---

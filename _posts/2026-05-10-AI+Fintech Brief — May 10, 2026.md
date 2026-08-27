@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI payments
-- AI fintech regulation 2026
-- AI cybersecurity financial stability
+- Agentic AI Payments
 keywords: [agentic AI payments, AI fintech regulation 2026, AI cybersecurity financial stability]
 permalink: /AI+Fintech Brief — May 10, 2026/
 ---

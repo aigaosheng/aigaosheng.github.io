@@ -8,10 +8,8 @@ status: publish
 categories: []
 tags:
 - Enterprise AI
-- AI talent expansion
-- Large language models
-- AI personalization
-- Gemini 2.5 model
+- Large Language Models
+
 ---
 ---
 ## AI Industry Daily Briefing — October 8, 2025

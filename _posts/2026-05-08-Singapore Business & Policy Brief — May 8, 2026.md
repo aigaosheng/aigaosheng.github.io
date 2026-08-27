@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore economy 2026
-- Singapore AI adoption
-- Singapore tourism receipts 2025
+- Singapore Economy 2026
 keywords: [Singapore economy 2026, Singapore AI adoption, Singapore tourism receipts 2025]
 permalink: /Singapore Business & Policy Brief — May 8, 2026/
 ---

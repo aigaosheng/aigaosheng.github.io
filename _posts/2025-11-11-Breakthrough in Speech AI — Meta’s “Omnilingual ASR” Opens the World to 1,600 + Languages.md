@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- multilingual ASR
-- speech recognition
-- low-resource languages
+- Speech Recognition
 keywords: [Omnilingual ASR, Meta AI, multilingual speech recognition]
 permalink: /Breakthrough in Speech AI — Meta’s “Omnilingual ASR” Opens the World to 1,600 + Languages/
 ---

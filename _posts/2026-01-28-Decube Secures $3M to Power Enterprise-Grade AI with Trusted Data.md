@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- data trust
-- enterprise AI
-- Decube funding
+- Enterprise AI
 keywords: [data governance, AI readiness, data quality]
 permalink: /Decube Secures $3M to Power Enterprise-Grade AI with Trusted Data/
 ---

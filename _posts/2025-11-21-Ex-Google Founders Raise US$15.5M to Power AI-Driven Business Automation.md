@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI automation
-- enterprise AI
-- business process automation
+- AI Automation
+- Enterprise AI
 keywords: [AI funding, process automation, startup]
 permalink: /Ex-Google Founders Raise US$15.5M to Power AI-Driven Business Automation/
 ---

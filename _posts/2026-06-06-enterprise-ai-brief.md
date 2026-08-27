@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise-ai
-- agentic-ai
-- cloud-platforms
-- customer-service
-- governance
-- data-infrastructure
+- Enterprise AI
+- Agentic AI
+- Customer-Service
+- Governance
 keywords: [enterprise-ai, agentic-ai, cloud-platforms, customer-service, governance, data-infrastructure]
 permalink: /enterprise-ai-brief-2026-06-06/
 ---

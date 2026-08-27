@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- artificial-intelligence
-- society
-- future-of-work
+- Artificial Intelligence
+- Society
+- Future of Work
 keywords: [artificial-intelligence, society, future-of-work]
 permalink: /AI-impact-on-society-Brief-2026-08-15/
 ---

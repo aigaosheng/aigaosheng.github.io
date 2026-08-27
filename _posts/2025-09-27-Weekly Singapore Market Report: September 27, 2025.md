@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore Stock Market
-- Defensive Sectors
-- U.S. Federal Reserve
 - Investor Sentiment
-- Trade Policies
+
 ---
 ---
 **Weekly Singapore Market Report: September 27, 2025**

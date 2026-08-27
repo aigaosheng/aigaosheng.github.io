@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- venture-capital
-- startup-funding
-- fintech
-- robotics
-- biotech
+- Venture Capital
+- Startup Funding
+- Fintech
+- Robotics
+- Biotech
 keywords: [venture-capital, startup-funding, fintech, robotics, biotech]
 permalink: /investment-startup-brief-2026-06-01/
 ---

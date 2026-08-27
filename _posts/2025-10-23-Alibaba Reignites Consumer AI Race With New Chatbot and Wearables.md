@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Alibaba
-- AI chatbot
-- Quark  
+- AI Chatbots
 keywords: [chatbot, AI, consumer]
 permalink: /Alibaba Reignites Consumer AI Race With New Chatbot and Wearables/
 ---

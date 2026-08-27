@@ -8,8 +8,7 @@ status: publish
 categories: [AI, FinTech]
 tags:
 - AI
-- FinTech
-- Enterprise
+- Fintech
 keywords: [AI, FinTech, Enterprise AI]
 permalink: /AI-FinTech-Brief-2026-07-21/
 ---

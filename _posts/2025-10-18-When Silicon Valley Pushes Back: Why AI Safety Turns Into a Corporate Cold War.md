@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI safety
-- Regulatory capture
-- OpenAI subpoenas
+- AI Safety
 keywords: [AI safety, OpenAI, regulation]
 ---
 **When Silicon Valley Pushes Back: Why AI Safety Turns Into a Corporate Cold War**

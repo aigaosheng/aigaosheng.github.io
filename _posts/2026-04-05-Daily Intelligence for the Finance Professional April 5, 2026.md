@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Cross-border Payments
-- Digital Banking Expansion
-- Fintech M&A
+- Cross-Border Payments
 keywords: [Cross-border Payments,Digital Banking Expansion,Fintech M&A]
 permalink: /Daily Intelligence for the Finance Professional April 5, 2026/
 ---

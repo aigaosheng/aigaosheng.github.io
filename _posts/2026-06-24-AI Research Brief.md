@@ -8,9 +8,7 @@ status: publish
 categories: []
 tags:
 - AI Research
-- AI for Science
 - Foundation Models
-- National AI Strategy
 - AI Security
 keywords: [AI Research, AI for Science, Gemini for Science, Anthropic Mythos, world models, AI efficiency]
 permalink: /AI-Research-Brief-2026-06-24/

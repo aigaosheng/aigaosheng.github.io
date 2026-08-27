@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI pivot
-- AI superapp
-- Government AI contracts
+- Government AI Contracts
 keywords: [OpenAI strategy, AI enterprise platform, ChatGPT superapp]
 permalink: /OpenAI — Weekly Intelligence Report 21 March 2026/
 ---

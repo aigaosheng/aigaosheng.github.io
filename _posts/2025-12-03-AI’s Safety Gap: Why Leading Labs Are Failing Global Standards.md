@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI safety
-- superintelligence risk
-- AI governance
+- AI Safety
+- AI Governance
 keywords: [AI regulation, AI risk, AI ethics]
 permalink: /AI’s Safety Gap - Why Leading Labs Are Failing Global Standards/
 ---

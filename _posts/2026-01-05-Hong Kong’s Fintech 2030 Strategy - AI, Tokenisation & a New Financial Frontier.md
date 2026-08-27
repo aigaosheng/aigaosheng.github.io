@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI integration 
-- tokenisation 
-- Hong Kong fintech
+- AI Integration
+- Tokenisation
+- Hong Kong Fintech
 keywords: [fintech, blockchain, digital assets]
 permalink: /Hong Kong’s Fintech 2030 Strategy - AI, Tokenisation & a New Financial Frontier/
 ---

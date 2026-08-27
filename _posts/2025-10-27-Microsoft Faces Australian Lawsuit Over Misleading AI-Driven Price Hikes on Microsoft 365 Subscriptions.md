@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Microsoft 365
-- AI assistant
-- subscription pricing
+- AI Assistants
 keywords: [Microsoft, AI, subscription]
 permalink: /Microsoft Faces Australian Lawsuit Over Misleading AI-Driven Price Hikes on Microsoft 365 Subscriptions/
 ---

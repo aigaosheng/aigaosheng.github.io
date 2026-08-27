@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic
-- autonomy
-- programmable
+- Agentic
 keywords: [agentic,autonomy,programmable]
 permalink: /Fintech Weekly Newsletter — AI Takes the Wallet- The Rise of Agentic Payments, February 20, 2026/
 ---

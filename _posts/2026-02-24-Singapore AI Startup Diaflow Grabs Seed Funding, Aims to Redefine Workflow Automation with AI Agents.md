@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI automation
-- workflow AI
-- seed funding
+- AI Automation
 keywords:  [AI automation, startup funding news, workflow intelligence]
 permalink: /Singapore AI Startup Diaflow Grabs Seed Funding, Aims to Redefine Workflow Automation with AI Agents/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Global revenue growth
-- platform pivot
-- AI agent deployment
+- Global Revenue Growth
 keywords: [MiniMax earnings, AI agent MaxClaw, M2.5 model]
 permalink: /MiniMax Weekly Insight Report March 7, 2026/
 ---

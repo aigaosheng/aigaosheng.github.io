@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI research
-- large language models
-- enterprise AI
+- AI Research
+- Large Language Models
+- Enterprise AI
 keywords: [AI research, large language models, enterprise AI]
 permalink: /AI Research Brief — May 7, 2026/
 ---

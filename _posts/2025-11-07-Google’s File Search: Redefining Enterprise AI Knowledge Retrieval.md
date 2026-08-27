@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- File Search
-- enterprise RAG
-- Gemini API
+- Enterprise RAG
 keywords: [enterprise AI, document search, vector search]
 permalink: /Google’s File Search - Redefining Enterprise AI Knowledge Retrieval/
 ---

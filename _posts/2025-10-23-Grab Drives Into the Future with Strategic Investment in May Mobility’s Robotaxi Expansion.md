@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- robotaxi
-- autonomous-vehicles
-- ride-hailing
+- Robotaxi
+- Autonomous Vehicles
 keywords: [Grab, May Mobility, Southeast Asia]
 permalink: /Grab Drives Into the Future with Strategic Investment in May Mobility’s Robotaxi Expansion/
 ---

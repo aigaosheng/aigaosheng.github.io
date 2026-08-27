@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- ai
-- quantum
-- quantum-computing
+- AI
+- Quantum
+- Quantum Computing
 keywords: [ai, quantum, quantum-computing]
 permalink: /AI-Quantum-Brief-2026-08-15/
 ---

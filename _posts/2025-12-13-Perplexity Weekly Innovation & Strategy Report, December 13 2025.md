@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI commerce integration
-- Instant Buy checkout
-- Conversational shopping experience
+- Conversational Shopping Experience
 keywords: [Perplexity AI,AI shopping assistant,PayPal partnership]
 permalink: /Perplexity Weekly Innovation Strategy Report, December 13 2025/
 ---

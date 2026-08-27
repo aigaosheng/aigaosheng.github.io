@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - DeepSeek
-- H200 AI chips
-- global AI competitiveness
 keywords: [AI chips, open‑source LLM, China AI race]
 permalink: /DeepSeek Weekly Insight Report Jan 31 2026/
 ---

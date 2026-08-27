@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- fintech
-- artificial-intelligence
-- agentic-ai
+- Fintech
+- Artificial Intelligence
+- Agentic AI
 keywords: [fintech, artificial-intelligence, agentic-ai]
 permalink: /fintech-ai-brief-2026-08-23/
 

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Claude Sonnet 4.6
-- Claude Code Security
-- Global expansion (Bengaluru)
+- Global Expansion (Bengaluru)
 keywords: [Anthropic news, Claude AI, AI security update]
 
 permalink: /Anthropic Weekly Insight Report — Feb 14–21, 2026/

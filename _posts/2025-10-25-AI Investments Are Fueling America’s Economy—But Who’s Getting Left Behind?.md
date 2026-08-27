@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI investments  
-- economic growth  
-- survival mode
+- AI Investment
 keywords: [AI, economy, GDP]
 permalink: /AI Investments Are Fueling America’s Economy—But Who’s Getting Left Behind?/
 ---

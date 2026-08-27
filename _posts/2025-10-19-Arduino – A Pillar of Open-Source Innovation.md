@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Arduino
-- Open-Source Electronics
 - IoT & Robotics
 keywords: [Arduino board features, Arduino projects for beginners, Qualcomm Arduino acquisition 2025]
 permalink: /Arduino – A Pillar of Open-Source Innovation/

@@ -10,8 +10,7 @@ tags:
 - Singapore
 - Economy
 - Semiconductors
-- E-commerce
-- Job Market
+- E-Commerce
 - Inflation
 - Transport
 keywords: [Singapore, economy, semiconductors, e-commerce, layoffs, inflation, autonomous vehicles, Singtel]

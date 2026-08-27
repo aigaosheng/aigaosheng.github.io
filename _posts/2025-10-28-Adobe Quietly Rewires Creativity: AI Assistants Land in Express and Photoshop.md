@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Adobe AI
-- generative design
-- creative workflow
+- Generative Design
 keywords: [Adobe Express, AI design assistant, Photoshop AI]
 permalink: /Adobe Quietly Rewires Creativity - AI Assistants Land in Express and Photoshop/
 ---

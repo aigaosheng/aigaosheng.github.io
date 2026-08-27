@@ -7,7 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI+
+- China AI
 - AI Policy
 - AI Agents
 - AI Chips

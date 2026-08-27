@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Anthropic
-- long-running AI agents
-- Claude Agent SDK
 keywords: [Anthropic, AI agents, multi-session]
 permalink: /Anthropic’s New Trick - How They finally solved the “long-running AI agent” problem/
 ---

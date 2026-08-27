@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- reasoning AI models
-- multimodal AI 2025
-- DeepSeek-R1
-- open-source LLMs
-- AI research trends
+- Open Source LLMs
 keywords: [AI research trends,open-source LLMs,DeepSeek-R1,multimodal AI 2025,reasoning AI models]
 permalink: /Daily AI Tech Research Update — November 9, 2025/
 ---

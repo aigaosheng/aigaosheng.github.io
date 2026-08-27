@@ -11,7 +11,6 @@ tags:
 - Diffusion Models
 - Google
 - Apple
-- AI Framework
 keywords: [Open Source AI, DiffusionGemma, Apple Foundation Models, open-weight AI]
 permalink: /Open-Source-AI-Model-Brief-2026-06-11/
 ---

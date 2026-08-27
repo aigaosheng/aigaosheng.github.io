@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI model lifecycle
-- developer risk
-- model hallucination
+- AI Model Lifecycle
 keywords: [AI, model lifecycle, hallucination]
 permalink: /When Learning Models Go Dark - What the Gemma 3 Pull-Back by Google Means for Developers/
 ---

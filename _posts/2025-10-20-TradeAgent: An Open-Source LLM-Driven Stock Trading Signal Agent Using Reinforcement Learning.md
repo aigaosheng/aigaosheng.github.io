@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Financial AI
-- LLM Agents 
-- Algorithmic Trading
+- LLM Agents
 keywords: [AI trading agent, LLM in finance, memory-enhanced trading]
 permalink: /TradeAgent - An Open-Source LLM-Driven Stock Trading Signal Agent Using Reinforcement Learning/
 ---

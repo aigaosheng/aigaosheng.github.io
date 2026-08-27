@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- mobile app spending
-- AI apps revenue
-- mobile industry trends
+- Mobile Industry Trends
 keywords: [AI apps, mobile spending, generative AI]
 permalink: /How AI Apps Finally Overtook Games- The Mobile Spending Revolution of 2025/
 ---

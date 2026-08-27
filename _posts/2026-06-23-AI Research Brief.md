@@ -10,7 +10,6 @@ tags:
 - AI Research
 - AI Policy
 - AI Security
-- Climate AI
 - Quantum AI
 - AI Bias
 keywords: [AI Research, AI Policy, Five Eyes, Climate AI, Quantum Computing, AI Bias, UKRI, CuspAI, Getty Images, OpenAI]

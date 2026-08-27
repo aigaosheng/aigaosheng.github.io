@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI partnership
-- NVIDIA OpenAI
-- AI infrastructure
+- AI Partnerships
+- AI Infrastructure
 keywords: [NVIDIA, OpenAI, AI chips]
 permalink: /NVIDIA Sounding the Alarm - $100 Billion Deal With OpenAI Not Assured After All/
 ---

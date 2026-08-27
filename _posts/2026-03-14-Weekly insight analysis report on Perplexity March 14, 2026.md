@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agent autonomy
-- Platform access & legal risks
-- Device integrations
+- Platform Access & Legal Risks
 keywords: [AI search, autonomous assistant, enterprise productivity]
 permalink: /Weekly insight analysis report on Perplexity March 14, 2026/
 ---

@@ -10,7 +10,6 @@ tags:
 - US AI
 - Anthropic
 - Export Controls
-- Pentagon AI
 keywords: [US AI, Anthropic Fable 5, AI export controls, Pentagon AI, Google Gemini]
 permalink: /US-AI-Plus-Brief-2026-06-19/
 ---

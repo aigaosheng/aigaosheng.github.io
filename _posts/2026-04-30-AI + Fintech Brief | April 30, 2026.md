@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- agentic finance
-- AI payments
+- AI Fintech
+- Agentic Finance
+- AI Payments
 keywords: [AI fintech, agentic finance, AI payments]
 permalink: /AI + Fintech Brief | April 30, 2026/
 ---

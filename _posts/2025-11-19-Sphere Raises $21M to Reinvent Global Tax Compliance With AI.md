@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- global tax compliance
-- AI tax software
-- cross-border VAT
+- Global Tax Compliance
 keywords: [tax automation, Series A, international compliance]
 permalink: /Sphere Raises $21M to Reinvent Global Tax Compliance With AI/
 ---

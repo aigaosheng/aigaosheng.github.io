@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI regulation social media
-- synthetic content feeds
-- EU Digital Services Act
+- AI Regulation Social Media
 keywords: [AI regulation social media, synthetic content feeds, EU Digital Services Act]
 permalink: /AI Impact on Social Media & Society Brief — May 13, 2026/
 ---

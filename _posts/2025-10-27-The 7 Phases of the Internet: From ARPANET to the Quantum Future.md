@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Internet evolution
-- AI agents
-- Quantum Internet
+- AI Agents
 keywords: [Internet history, IoT, Quantum computing]
 permalink: /The 7 Phases of the Internet - From ARPANET to the Quantum Future/
 ---

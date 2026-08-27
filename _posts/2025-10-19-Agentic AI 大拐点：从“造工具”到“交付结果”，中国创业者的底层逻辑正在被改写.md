@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Agentic AI
-- 结果交付
-- 出海
 keywords: [AI创业, SaaS模式, 全球化]
 ---
 ## **Agentic AI 大拐点：从“造工具”到“交付结果”，中国创业者的底层逻辑正在被改写**

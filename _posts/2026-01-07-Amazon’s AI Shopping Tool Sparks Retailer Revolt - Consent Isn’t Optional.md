@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI shopping tool
-- Amazon backlash
-- retailer consent
+- AI Shopping Tool
 keywords: [AI commerce, retail platform, product listings]
 permalink: /Amazon’s AI Shopping Tool Sparks Retailer Revolt - Consent Isn’t Optional/
 ---

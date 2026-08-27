@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Ironwood TPU
-- Google AI infrastructure
-- AI hardware competition
+- Google AI Infrastructure
 keywords: [AI accelerator, inference computing, GPU competitor]
 permalink: /Google’s Bold Push - The Ironwood TPU Takes Aim at Nvidia’s AI Chip Crown/
 ---

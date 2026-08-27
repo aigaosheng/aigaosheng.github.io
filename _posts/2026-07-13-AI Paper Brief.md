@@ -6,12 +6,9 @@ type: post
 published: true  
 status: publish  
 categories: []  
-tags:  
-- AI  
-- Scientific Publishing  
-- Research Integrity  
-- LLM  
-- Academic Writing  
+tags:
+- AI
+- LLM
 keywords: [AI, scientific papers, LLM, research integrity, academic writing]  
 permalink: /AI-Paper-Brief-2026-07-13/  
 ---  

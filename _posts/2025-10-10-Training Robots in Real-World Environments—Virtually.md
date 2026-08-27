@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Steerable Scene Generation
-- Monte Carlo Tree Search
 - Reinforcement Learning
 keywords: ["Steerable Scene Generation","Reinforcement Learning", "Monte Carlo Tree Search"]
 ---

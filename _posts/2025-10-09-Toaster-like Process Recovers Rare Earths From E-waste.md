@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Rare-earth recycling
-- Flash joule heating
-- E-waste circular economy
+- E-Waste Circular Economy
+
 ---
 ---
 

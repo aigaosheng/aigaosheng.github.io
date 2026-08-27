@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Adaptive Compute Optimization
-- World-Model Benchmarks
-- AI Pipeline Security
 keywords: [Enterprise AI Infrastructure, Edge-to-Cloud Orchestration, Generative Model Efficiency]
 permalink: /Daily AI Tech Research Update — last 72 hours (Oct 20–23, 2025)/
 ---

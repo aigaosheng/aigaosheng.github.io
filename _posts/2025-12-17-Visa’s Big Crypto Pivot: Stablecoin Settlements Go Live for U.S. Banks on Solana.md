@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key stablecoin payments
-- USDC blockchain adoption
-- Visa Solana settlement
+- USDC Blockchain Adoption
 keywords: [USDC, Visa, blockchain]
 permalink: /Visa’s Big Crypto Pivot - Stablecoin Settlements Go Live for U.S. Banks on Solana/
 ---

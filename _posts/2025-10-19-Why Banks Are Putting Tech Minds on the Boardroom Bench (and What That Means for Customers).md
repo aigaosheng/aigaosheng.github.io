@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- banks and boardroom technology
-- cybersecurity governance banking
-- AI and banking leadership
+- Banks and Boardroom Technology
 keywords: [cybersecurity, board, AI]
 ---
 **Why Banks Are Putting Tech Minds on the Boardroom Bench (and What That Means for Customers)**

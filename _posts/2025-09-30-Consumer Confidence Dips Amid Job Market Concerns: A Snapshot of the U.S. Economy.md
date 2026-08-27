@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Consumer Confidence
-- Job Openings
 - Stock Market Impact
+
 ---
 ---
 

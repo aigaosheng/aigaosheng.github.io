@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - AI
-- Quantitative
 - Trading
 keywords: [Quantitative Finance AI, AI Trading Strategies, Agentic AI in Hedge Funds]
 permalink: /AI in Quantitative Research - Transforming the Street/

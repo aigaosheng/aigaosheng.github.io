@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - AI Bubble
-- Gold Reserves
 - Tech Regulation
+
 ---
 ---
 **Hong Kong Market Report – October 8, 2025**

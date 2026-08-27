@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Europe 100
-- European AI startups
-- agentic AI adoption
+- European AI Startups
 keywords: [AI growth, Europe AI, startup ecosystem]
 permalink: /Europe’s AI Moment - Meet the “AI Europe 100” Powering the Next Wave/
 ---

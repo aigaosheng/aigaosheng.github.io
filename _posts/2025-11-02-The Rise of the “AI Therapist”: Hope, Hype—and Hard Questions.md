@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI therapy
-- mental-health chatbots
-- digital psychotherapy
+- AI Therapy
+- Mental Health Chatbots
 keywords: [AI therapy, chatbot mental health, digital therapy tools]
 permalink: /The Rise of the “AI Therapist” - Hope, Hype—and Hard Questions/
 ---

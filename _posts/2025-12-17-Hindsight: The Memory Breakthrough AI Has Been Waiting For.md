@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- structured memory
-- RAG replacement
+- Agentic AI
 keywords: [AI memory architecture, long-term AI reasoning, open-source AI agents]
 permalink: /Hindsight - The Memory Breakthrough AI Has Been Waiting For/
 ---

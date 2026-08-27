@@ -9,7 +9,6 @@ categories: []
 tags:
 - Tokenisation
 - Agentic
-- Profitable
 keywords: [AI-native banking 2026, Revolut US bank charter, tokenised retail deposits UK]
 permalink: /Weekly Fintech Intelligence Briefing, 28 March 2026/
 ---

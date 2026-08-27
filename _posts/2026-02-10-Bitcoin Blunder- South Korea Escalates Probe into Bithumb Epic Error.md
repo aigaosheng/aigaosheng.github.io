@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- bitcoin error
-- Bithumb inspection
-- cryptocurrency regulation
+- Cryptocurrency Regulation
 keywords: [bitcoin, crypto exchange, regulation]
 permalink: /$43B Bitcoin Blunder- South Korea Escalates Probe into Bithumb Epic Error/
 ---

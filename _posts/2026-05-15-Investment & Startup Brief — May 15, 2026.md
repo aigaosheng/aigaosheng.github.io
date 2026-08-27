@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- deeptech venture capital
-- AI infrastructure investment
-- startup IPO trends 2026
+- AI Infrastructure Investment
 keywords: [deeptech venture capital, AI infrastructure investment, startup IPO trends 2026]
 permalink: /Investment & Startup Brief — May 15, 2026/
 ---

@@ -8,9 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise-ai
-- ai-agents
-- artificial-intelligence
+- Enterprise AI
+- AI Agents
+- Artificial Intelligence
 keywords: [enterprise-ai, ai-agents, artificial-intelligence]
 permalink: /enterprise-AI-Brief-2026-07-25/
 

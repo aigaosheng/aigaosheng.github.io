@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic-ai
-- banking-software
-- ai-governance
-- fintech-funding
-- compliance
+- Agentic AI
+- AI Governance
+- Fintech-Funding
+- Compliance
 keywords: [agentic-ai, banking-software, ai-governance, fintech-funding, compliance]
 permalink: /ai-fintech-brief-2026-06-04/
 ---

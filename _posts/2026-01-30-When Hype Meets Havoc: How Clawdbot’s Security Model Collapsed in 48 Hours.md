@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Clawdbot security
-- AI agent vulnerabilities
-- Moltbot exploits
+- AI Agent Vulnerabilities
 keywords: [AI security, autonomous agents, cybersecurity risks]
 permalink: /When Hype Meets Havoc- How Clawdbot’s Security Model Collapsed in 48 Hours/
 ---

@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenization
-- AI infrastructure
-- real-world assets
+- Tokenization
+- AI Infrastructure
+- Real-World-Assets
 keywords: [AI, tokenized fund, infrastructure]
 permalink: /Asia’s First Global AI Infrastructure Fund Goes On-Chain - $150M SKYD Token Bridges Web3 and Real-World Assets/
 ---

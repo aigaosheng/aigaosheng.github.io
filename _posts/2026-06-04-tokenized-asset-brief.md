@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenization
-- rwa
-- tokenized-funds
-- tokenized-stocks
-- canton-network
+- Tokenization
+- RWA
+- Tokenized-Stocks
 keywords: [tokenization, rwa, tokenized-funds, tokenized-stocks, canton-network]
 permalink: /tokenized-asset-brief-2026-06-04/
 ---

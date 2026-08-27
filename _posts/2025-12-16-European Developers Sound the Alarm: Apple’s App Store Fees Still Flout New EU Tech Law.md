@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- apple fees 
 - Digital Markets Act
-- EU app developers
 keywords: [Apple App Store, EU regulation, app developer fees]
 permalink: /European Developers Sound the Alarm - Apple’s App Store Fees Still Flout New EU Tech Law/
 ---

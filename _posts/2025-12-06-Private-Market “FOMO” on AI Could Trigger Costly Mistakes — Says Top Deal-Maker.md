@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI
-- private markets
-- FOMO
 keywords: [private-equity, AI boom, valuation risk]
 permalink: /Private-Market “FOMO” on AI Could Trigger Costly Mistakes — Says Top Deal-Maker/
 ---

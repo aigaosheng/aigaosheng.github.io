@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- uncertainty estimation
-- model interpretability
-- continual learning
-- attribution graphs
-- pervasive systems
+- Uncertainty Estimation
 keywords: [runtime reliability, activation explainability, LLM audit, explain‑by‑design, edge AI safety]
 permalink: /Weekly AI Tech Research Update Saturday, December 20, 2025/
 ---

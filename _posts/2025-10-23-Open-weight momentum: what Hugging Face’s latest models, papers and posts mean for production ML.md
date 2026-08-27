@@ -8,10 +8,8 @@ status: publish
 categories: []
 tags:
 - Hugging Face
-- domain benchmarks
-- inference optimization
-- legal embeddings
-- model deployment
+- Inference Optimization
+- Model Deployment
 keywords: [benchmarks, deployment, embeddings, optimization, reproducibility]
 permalink: /Open-weight momentum - what Hugging Face’s latest models, papers and posts mean for production ML/
 ---

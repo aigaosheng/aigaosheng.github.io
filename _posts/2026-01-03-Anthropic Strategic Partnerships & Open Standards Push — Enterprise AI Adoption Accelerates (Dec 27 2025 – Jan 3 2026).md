@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI deployment
-- open standards (MCP)
-- Claude ecosystem expansion
+- Enterprise AI Deployment
 keywords: [Anthropic, Claude AI, enterprise partnerships]
 permalink: /Anthropic Strategic Partnerships & Open Standards Push — Enterprise AI Adoption Accelerates(Dec 27 2025 – Jan 3 2026)/
 ---

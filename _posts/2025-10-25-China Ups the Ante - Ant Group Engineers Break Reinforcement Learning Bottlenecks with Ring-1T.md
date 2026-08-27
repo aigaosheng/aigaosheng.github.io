@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Ring-1T
-- reinforcement learning
-- trillion-parameter model  
+- Reinforcement Learning
 keywords: [Ring-1T, Ant Group, AI benchmark]
 permalink: /China Ups the Ante - Ant Group Engineers Break Reinforcement Learning Bottlenecks with Ring-1T/
 ---

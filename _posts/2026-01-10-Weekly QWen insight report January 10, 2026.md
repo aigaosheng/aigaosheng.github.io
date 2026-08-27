@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - Qwen‑Image‑2512
-- Open‑Source AI
-- Multimodal Model
+- Open Source AI
+- Multimodal Models
 keywords: [open‑source, generative AI, image model]
 permalink: /Weekly QWen insight report January 10, 2026/
 ---

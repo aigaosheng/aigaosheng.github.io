@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Qwen AI
-- Amap integration
-- AI travel planner
 keywords: [AI travel assistant, real-time navigation, smart recommendations]
 permalink: /Alibaba Supercharges Qwen With Amap Integration — The AI That Plans Trips, Routes, and Restaurant Picks for You/
 ---

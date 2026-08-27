@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI governance
-- Singapore AI policy
-- autonomous AI oversight
+- Agentic AI Governance
+- Singapore AI Policy
 keywords: [agentic AI, AI governance framework, responsible AI]
 permalink: /Singapore Sets Global Standard with First-of-its-Kind Agentic AI Governance Framework/
 ---

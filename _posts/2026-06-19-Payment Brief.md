@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- payments
-- fintech
-- digital-payments
+- Payments
+- Fintech
+- Digital Payments
 - CBDC
 - M&A
 keywords: [payments, fintech, digital payments, CBDC, M&A, stablecoins]

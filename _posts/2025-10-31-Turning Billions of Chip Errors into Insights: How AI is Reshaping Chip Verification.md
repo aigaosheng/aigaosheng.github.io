@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- chip verification
-- design rule checking
-- AI in EDA
+- Design Rule Checking
 keywords: [chip design, semiconductor verification, machine learning]
 permalink: /Turning Billions of Chip Errors into Insights - How AI is Reshaping Chip Verification/
 ---

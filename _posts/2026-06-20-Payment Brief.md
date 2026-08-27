@@ -11,7 +11,7 @@ tags:
 - Fintech
 - Blockchain
 - Digital Payments
-- Cross-border
+- Cross-Border
 - Regulation
 keywords: [Payments, Fintech, Blockchain, Digital Payments, Cross-border, Regulation, Crypto Payments, B2B Payments]
 permalink: /Payment-Brief-2026-06-20/

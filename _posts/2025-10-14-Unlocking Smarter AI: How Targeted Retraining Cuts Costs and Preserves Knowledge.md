@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Narrow retraining
-- Catastrophic forgetting
-- AI model fine-tuning
+- AI Model Fine-Tuning
 keywords: [AI retraining, Cost reduction, Model specialization]
 ---
 ---

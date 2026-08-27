@@ -9,7 +9,6 @@ categories: []
 tags:
 - Singapore Business News
 - Singapore Economy 2026
-- Singapore Maritime Week
 keywords: [Singapore Business News,Singapore Economy 2026,Singapore Maritime Week]
 permalink: /Singapore News Digest 22 April 2026/
 ---

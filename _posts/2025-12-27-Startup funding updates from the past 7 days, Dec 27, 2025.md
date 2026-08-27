@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Wealthtech democratization*
-- Deeptech hardware innovation*
-- Biopharma scale‑ups
+- Deeptech Hardware Innovation*
 keywords: [funding, VC investment, startup growth]
 permalink: /Startup funding updates from the past 7 days Dec 27 2025/
 ---

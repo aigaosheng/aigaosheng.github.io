@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - NFL
-- artificial intelligence
-- injury prevention
+- Artificial Intelligence
 keywords: [AI, injury prediction, player performance]
 permalink: /NFL Goes High-Tech - AI Steps In to Predict Injuries Before They Happen/
 ---

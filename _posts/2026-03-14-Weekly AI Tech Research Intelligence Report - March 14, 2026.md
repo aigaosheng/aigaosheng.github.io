@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- LLM inference efficiency
-- Agentic reasoning 2026
-- RLVR alignment
-- Multimodal LLM evaluation
-- Clinical AI deployment
+- Multimodal LLM Evaluation
 keywords: [Adaptive reasoning budget, Information self-locking, LLM-as-Judge post-training, Human–AI co-reasoning, Knowledge-grounded benchmarks]
 permalink: /Weekly AI Tech Research Intelligence Report - March 14, 2026/
 ---

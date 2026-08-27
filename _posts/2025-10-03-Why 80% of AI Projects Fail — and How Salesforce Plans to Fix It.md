@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Trust Layer
 - Enterprise AI
-- Salesforce Einstein
+
 ---
 ---
 [![Explaining the Einstein Trust Layer - Salesforce](https://images.openai.com/thumbnails/e2a43faca961f836d1c02b6f0d65f163.jpeg)](https://www.salesforce.com/news/stories/video/explaining-the-einstein-gpt-trust-layer/)

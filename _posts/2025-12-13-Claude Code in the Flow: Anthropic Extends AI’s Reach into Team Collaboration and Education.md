@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Claude Code Slack integration
-- National AI education pilot
-- Enterprise AI adoption
+- Enterprise AI Adoption
 keywords: [Anthropic AI, Claude integration, enterprise deployment]
 permalink: /Claude Code in the Flow - Anthropic Extends AI’s Reach into Team Collaboration and Education/
 ---

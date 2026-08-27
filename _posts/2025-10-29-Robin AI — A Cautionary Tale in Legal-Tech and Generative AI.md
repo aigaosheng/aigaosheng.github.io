@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Robin AI
-- Legal tech startup
-- Generative AI adoption
+- Generative AI Adoption
 keywords: [AI contract review,Enterprise AI solutions,Legal AI software]
 permalink: /Robin AI — A Cautionary Tale in Legal-Tech and Generative AI/
 ---

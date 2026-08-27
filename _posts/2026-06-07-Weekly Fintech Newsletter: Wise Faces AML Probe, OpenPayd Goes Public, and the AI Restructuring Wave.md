@@ -7,7 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-native
+- AI-Native
 - AML
 - SPAC
 keywords: [Fintech News, OpenPayd IPO, Wise AML Investigation]

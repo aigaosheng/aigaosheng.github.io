@@ -12,7 +12,6 @@ tags:
 - AI Agents
 - AI Infrastructure
 - Funding
-- Partnerships
 keywords: [Enterprise AI, Agentic AI, AI Agents, Generative AI, AI funding, AI partnerships]
 permalink: /Enterprise-AI-Brief-2026-06-20/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- US China AI competition
-- AI chip export controls
-- frontier AI model security
+- US China AI Competition
 keywords: [frontier AI model security, AI chip export controls, US China AI competition]
 permalink: /China AI vs US AI- Compute Control, Model Security, and Diverging AI Ecosystems April 13, 2026/
 ---

@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI Video Generation
-- Strategic Divestiture & AI Refocus
-- Hollywood IP Confrontation
 keywords: [ByteDance Seedance 2.0 CapCut, ByteDance Moonton sale 2026, ByteDance AI strategy 2026]
 permalink: /ByteDance Weekly Insight Report March 28, 2026/
 ---

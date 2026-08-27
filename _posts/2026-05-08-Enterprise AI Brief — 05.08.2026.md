@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI Budgeting
-- AI Infrastructure Costs
 - Agentic AI Governance
 keywords: [Enterprise AI Budgeting, AI Infrastructure Costs, Agentic AI Governance]
 permalink: /Enterprise AI Brief — 05.08.2026/

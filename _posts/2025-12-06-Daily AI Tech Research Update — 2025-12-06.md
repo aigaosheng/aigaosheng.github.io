@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- diffusion models
-- inference energy benchmark
-- tabular in-context learning
-- universal subspace fine-tuning
-- time-series representation learning
+- Diffusion Models
 keywords: [sustainable ML inference, structured-data ML, generative models on graphs, uncertainty quantification, low-dimensional adaptation]
 permalink: /Daily AI Tech Research Update — 2025-12-06/
 ---

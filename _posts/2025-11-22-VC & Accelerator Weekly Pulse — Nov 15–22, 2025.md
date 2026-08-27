@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Medical Intelligence
 - AI Infrastructure
-- Vertical Health
 keywords: [AI, health tech, data center, investment, startup]
 permalink: /VC & Accelerator Weekly Pulse — Nov 15–22, 2025/
 ---

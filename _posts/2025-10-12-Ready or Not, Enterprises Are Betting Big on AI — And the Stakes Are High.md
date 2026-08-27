@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI adoption
-- Zendesk AI agents
-- Deloitte AI partnership
+- Enterprise AI Adoption
 keywords: ["enterprise AI","customer support automation","AI partnerships"]
 ---
 ---

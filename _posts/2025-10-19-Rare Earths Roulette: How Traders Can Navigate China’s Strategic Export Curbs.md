@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- rare earth elements
-- China export controls
-- stock trading strategies
+- Stock Trading Strategies
 keywords: [rare earths, China trade, export restrictions]
 ---
 **Rare Earths Roulette: How Traders Can Navigate China’s Strategic Export Curbs**

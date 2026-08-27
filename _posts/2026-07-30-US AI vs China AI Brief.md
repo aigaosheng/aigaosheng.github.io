@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- us-ai
-- china-ai
-- artificial-intelligence
+- US AI
+- China AI
+- Artificial Intelligence
 keywords: [us-ai, china-ai, artificial-intelligence]
 permalink: /US-AI-vs-China-AI-Brief-2026-07-30/
 ---

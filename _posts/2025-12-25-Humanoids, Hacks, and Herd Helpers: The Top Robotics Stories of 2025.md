@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- humanoid robots
-- robotics cybersecurity
-- automation
+- Humanoid Robots
+- Automation
 keywords: [robotics, AI, automation]
 permalink: /Humanoids, Hacks, and Herd Helpers - The Top Robotics Stories of 2025/
 ---

@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- cross-border-payments
-- stablecoins
-- real-time-payments
-- fraud-prevention
-- upi
+- Cross-Border Payments
+- Stablecoins
+- Real-Time-Payments
+- Fraud Prevention
+- Upi
 keywords: [cross-border-payments, stablecoins, real-time-payments, fraud-prevention, upi]
 permalink: /payment-brief-2026-06-05/
 ---

@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AI
-- DigitalEuro
-- TreasuryAutomation
 keywords: [AI, DigitalEuro, TreasuryAutomation]
 permalink: /Fintech Frontiers Weekly – Catalysing Growth & Regulation 13 February 2026/
 ---

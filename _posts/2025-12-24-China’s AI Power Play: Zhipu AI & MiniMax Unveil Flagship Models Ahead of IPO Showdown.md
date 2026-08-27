@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key Chinese AI
-- Zhipu GLM
-- MiniMax model
+- Key Chinese AI
 keywords: [AI models, open-source AI, Chinese tech innovation]
 permalink: /China AI Power Play - Zhipu AI & MiniMax Unveil Flagship Models Ahead of IPO Showdown/
 ---

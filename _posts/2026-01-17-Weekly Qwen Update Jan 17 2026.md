@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Qwen AI consumer task integration
-- Alibaba AI ecosystem expansion
-- agentic AI services
+- Qwen AI Consumer Task Integration
 keywords: [Qwen app update, AI task automation, Alibaba AI ecosystem]
 permalink: /Weekly Qwen Update Jan 17 2026/
 ---

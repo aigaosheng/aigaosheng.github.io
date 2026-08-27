@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Lean 4
-- formal verification
-- AI safety
+- Formal Verification
+- AI Safety
 keywords: [Lean, theorem prover, formal verification]
 permalink: /Lean 4 - The Proof Engine Powering the Next Era of Trustworthy AI/
 ---

@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- payments
-- fintech
-- stablecoins
-- cross-border
-- regulation
+- Payments
+- Fintech
+- Stablecoins
+- Cross-Border
+- Regulation
 keywords: [payments, fintech, stablecoins, cross-border, regulation]
 permalink: /Payment-Brief-2026-07-03/
 ---

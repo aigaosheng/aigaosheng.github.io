@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- investment
-- startup
-- venture-capital
+- Investment
+- Startups
+- Venture Capital
 keywords:
 - startup funding
 - venture capital

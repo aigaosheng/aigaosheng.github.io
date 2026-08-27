@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- ESUN
-- Scale-up networking
-- AI infrastructure
+- AI Infrastructure
 keywords: [Ethernet, AI interconnect, OCP]
 ---
 ---

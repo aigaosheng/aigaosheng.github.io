@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI search platform
-- Microsoft Azure partnership
-- enterprise scaling
+- Microsoft Azure Partnership
 keywords: [Perplexity AI, Azure cloud deal, AI search growth]
 permalink: /Perplexity Weekly Insight Report Jan 31 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Rufus
-- AI shopping assistant
-- Black Friday
+- AI Shopping Assistants
 keywords: [Amazon, AI, e-commerce]
 permalink: /How Amazon’s AI Chatbot “Rufus” Transformed Black Friday Shopping/
 ---

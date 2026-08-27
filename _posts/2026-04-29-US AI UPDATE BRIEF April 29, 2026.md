@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- US AI policy
-- Pentagon AI integration
-- OpenAI cloud strategy
+- US AI Policy
+- Pentagon AI Integration
 keywords: [US AI policy, Pentagon AI integration, OpenAI cloud strategy]
 permalink: /US AI UPDATE BRIEF April 29, 2026/
 ---

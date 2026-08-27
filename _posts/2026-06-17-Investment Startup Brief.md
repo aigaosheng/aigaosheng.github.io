@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - Investment
-- Startup
+- Startups
 - VC
 - AI
 - M&A

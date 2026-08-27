@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- crypto regulation
-- AML compliance
-- Bithumb suspension
+- Crypto Regulation
+- AML Compliance
 keywords: [cryptocurrency regulation, AML compliance, crypto exchange]
 permalink: /Bithumb Under Fire - South Korea Proposes Six-Month Suspension Over AML Violations/
 ---

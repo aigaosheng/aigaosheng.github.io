@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- autonomous surgery
-- MedBot AI
-- robotic healthcare
+- Autonomous Surgery
 keywords: [autonomous surgery, AI medical robot, robotics breakthrough]
 permalink: /China’s MedBot Makes History With Autonomous AI Surgery Robot That Operated on a Live Pig/
 ---

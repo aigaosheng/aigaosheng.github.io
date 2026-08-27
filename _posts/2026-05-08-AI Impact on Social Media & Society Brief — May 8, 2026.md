@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI social media regulation
-- AI copyright lawsuit
-- social media misinformation
+- AI Social Media Regulation
 keywords: [AI social media regulation, AI copyright lawsuit, social media misinformation]
 permalink: /AI Impact on Social Media & Society Brief — May 8, 2026/
 ---

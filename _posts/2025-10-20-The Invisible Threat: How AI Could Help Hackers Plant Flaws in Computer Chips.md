@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- hardware Trojan
-- AI security
-- chip vulnerability
+- AI Security
 keywords: [chip, artificial intelligence, security]
 permalink: /The Invisible Threat - How AI Could Help Hackers Plant Flaws in Computer Chips/
 ---

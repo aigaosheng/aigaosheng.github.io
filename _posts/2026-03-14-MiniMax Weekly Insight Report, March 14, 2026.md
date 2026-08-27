@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI platform expansion
-- Market cap leadership
-- Earnings momentum
+- AI Platform Expansion
 keywords: [MiniMax growth, AI market China, generative AI earnings]
 permalink: /MiniMax Weekly Insight Report, March 14, 2026/
 ---

@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI venture capital
-- startup funding 2026
-- AI infrastructure investment
+- AI Venture Capital
+- Startup Funding 2026
+- AI Infrastructure Investment
 keywords: [AI venture capital, startup funding 2026, AI infrastructure investment]
 permalink: /Investment & Startup Brief — April 22, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Tesla robotics
-- Optimus humanoid robot
-- AI automation
+- AI Automation
 keywords: [humanoid robots, Tesla Optimus, artificial intelligence]
 permalink: /Tesla’s Optimus- Humanoid Robots Poised for Market Debut by 2027 — A New Era in AI and Automation/
 ---

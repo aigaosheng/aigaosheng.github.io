@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-enabled organization
-- Agentic AI transformation
-- Organizational productivity shift
+- Organizational Productivity Shift
 keywords: [AI transformation, Organizational performance, Workforce transformation]
 permalink: /The Great Rewiring- How AI, Geopolitics, and Workforce Shifts Are Redefining the Organization in 2026/
 ---

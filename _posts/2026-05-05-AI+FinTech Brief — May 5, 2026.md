@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- AI banking
-- intelligent finance
+- AI Fintech
+- AI Banking
 keywords: [AI fintech, AI banking, intelligent finance]
 permalink: /AI+FinTech Brief — May 5, 2026/
 ---

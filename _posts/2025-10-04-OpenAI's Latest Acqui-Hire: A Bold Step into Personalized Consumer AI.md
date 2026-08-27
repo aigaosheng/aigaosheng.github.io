@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Personalized AI
-- Acqui-hire
-- Consumer Tech
+
 ---
 ---
 **OpenAI's Latest Acqui-Hire: A Bold Step into Personalized Consumer AI**

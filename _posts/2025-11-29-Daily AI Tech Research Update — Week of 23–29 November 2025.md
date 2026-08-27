@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- parameter‑efficient fine‑tuning
-- multimodal large language model security
-- LLM hallucination detection
-- low‑latency satellite AI
+- Multimodal Large Language Model Security
 keywords: [vector quantization defenses, attention‑based uncertainty,Earth observation intelligence,differential privacy optimization]
 permalink: /Daily AI Tech Research Update — Week of 23–29 November 2025/
 ---

@@ -11,7 +11,6 @@ tags:
 - Startups
 - Venture Capital
 - IPO
-- Market Trends
 keywords: [Venture Capital, Startup Funding, IPO, SpaceX, African Tech, Growth Equity]
 permalink: /investment-startup-Brief-2026-06-15/
 ---

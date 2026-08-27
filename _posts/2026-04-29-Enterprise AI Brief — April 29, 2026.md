@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- AI agents
-- autonomous enterprise
+- Enterprise AI
+- AI Agents
 keywords: [enterprise AI, AI agents, autonomous enterprise]
 permalink: /Enterprise AI Brief — April 29, 2026/
 ---

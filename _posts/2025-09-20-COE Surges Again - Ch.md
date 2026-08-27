@@ -9,7 +9,7 @@ categories: []
 tags:
 - COE
 - Singapore
-- 拥车证
+
 ---
 ---
 # COE再创新高：小型车配额证突破11.9万新元，买家抢跑政策调整前夕

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance 
-- EU AI Act delayź
-- frontier AI safety
+- AI Governance
+- Frontier AI Safety
 keywords: [AI governance, EU AI Act delay, frontier AI safety]
 permalink: /AI Governance, Risk & Compliance Brief — May 8, 2026/
 ---

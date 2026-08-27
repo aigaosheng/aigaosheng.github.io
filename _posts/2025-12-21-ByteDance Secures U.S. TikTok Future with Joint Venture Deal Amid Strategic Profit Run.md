@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- TikTok U.S. Joint Venture
-- ByteDance Ownership & Control
 - U.S. National Security Compliance
 keywords: [TikTok divestment, Bytedance strategy, U.S. tech policy]
 permalink: /ByteDance Secures U.S. TikTok Future with Joint Venture Deal Amid Strategic Profit Run/

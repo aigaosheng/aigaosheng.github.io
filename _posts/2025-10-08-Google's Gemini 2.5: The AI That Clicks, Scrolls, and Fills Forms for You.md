@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Gemini 2.5
-- AI web interaction
-- Browser automation
+- AI Web Interaction
+
 ---
 ---
 [![Google reportedly developing new AI that can automate web browsing tasks in Chrome - SiliconANGLE](https://images.openai.com/thumbnails/url/EtJVLnicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4MdKnyLw82CjUKDcnxT8oNjiyxMC2o8LUoqAxPLw4MLPBL9jByyQgqzPYoVyu2NTQAABQlJXE)](https://siliconangle.com/2024/10/27/google-reportedly-developing-new-ai-can-automate-web-browsing-tasks-chrome/)

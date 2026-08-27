@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- edge AI
-- on-device model
-- function calling
+- Edge AI
 keywords: [FunctionGemma, edge AI, on-device intelligence]
 permalink: /Google’s FunctionGemma - Tiny AI, Big Impact for On-Device Intelligence/
 ---

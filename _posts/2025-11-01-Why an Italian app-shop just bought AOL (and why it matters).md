@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Bending Spoons
-- AOL acquisition
-- tech roll-up
+- AOL Acquisition
 keywords: [Bending Spoons, AOL, acquisition]
 permalink: /Why an Italian app-shop just bought AOL (and why it matters)/
 ---

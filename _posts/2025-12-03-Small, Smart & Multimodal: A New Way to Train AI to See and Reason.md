@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- multimodal reasoning
-- OpenMMReasoner
-- reinforcement learning
+- Multimodal Reasoning
+- Reinforcement Learning
 keywords: [multimodal, AI reasoning, open-source]
 permalink: /Small, Smart & Multimodal - A New Way to Train AI to See and Reason/
 ---

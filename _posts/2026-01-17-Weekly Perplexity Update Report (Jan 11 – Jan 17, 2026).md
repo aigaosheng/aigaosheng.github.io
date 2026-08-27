@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Answer Engine
-- Strategic Partnership
-- Product Enhancements
+- Strategic Partnerships
 keywords: [Perplexity news, AI search engine, Benzinga partnership]
 permalink: /Weekly Perplexity Update Report (Jan 11 – Jan 17, 2026)/
 ---

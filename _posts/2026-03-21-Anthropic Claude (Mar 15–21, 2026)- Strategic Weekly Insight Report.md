@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Claude agent automation
-- U.S. defense regulatory conflict
-- AI user sentiment survey
+- U.S. Defense Regulatory Conflict
 keywords: [Claude AI, Anthropic news, AI regulation]
 permalink: /Anthropic Claude (Mar 15–21, 2026)- Strategic Weekly Insight Report/
 ---

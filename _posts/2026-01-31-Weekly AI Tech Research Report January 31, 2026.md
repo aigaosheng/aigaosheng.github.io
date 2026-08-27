@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- multi‑module AI systems
-- online learning
-- continuous embeddings
-- LLM representation dynamics
-- ML compilers
+- LLM Representation Dynamics
 keywords: [equilibrium propagation, partial feedback learning, dynamic contextual features, unified layout abstraction, explainability hardness]
 permalink: /Weekly AI Tech Research Report January 31, 2026/
 ---

@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Gemini AI
-- Google Maps API
-- Location-aware AI
 keywords: [Google Gemini, AI integration, Geospatial intelligence]
 ---
 **Google's Gemini AI Now Integrates Live Google Maps Data — Here's What It Means for Developers**

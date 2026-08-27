@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise-ai
-- agentic-ai
-- ai-security
-- software-engineering
-- digital-transformation
+- Enterprise AI
+- Agentic AI
+- AI Security
+- Software Engineering
+- Digital Transformation
 keywords: [enterprise-ai, agentic-ai, ai-security, software-engineering, digital-transformation]
 permalink: /enterprise-ai-brief-2026-05-31/
 ---

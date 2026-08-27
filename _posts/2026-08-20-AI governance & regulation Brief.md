@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- AI governance
-- AI regulation
-- AI safety
+- AI Governance
+- AI Regulation
+- AI Safety
 keywords: [AI governance, AI regulation, AI safety]
 permalink: /AI-governance-regulation-Brief-2026-08-20/
 

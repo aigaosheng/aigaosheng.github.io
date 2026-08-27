@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- thermal management
-- semiconductors
-- chip cooling
+- Thermal Management
+- Semiconductors
 keywords: [cooling technology, 3D chips, power density]
 permalink: /Chips Need to Chill Out — How the Semiconductor Industry Is Fighting Heat with Diamonds, Lasers and Liquid Baths/
 ---

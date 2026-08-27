@@ -7,10 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-
 - China AI
 - US AI
-- AI competition
+- AI Competition
 keywords: [China AI, US AI, AI competition]
 permalink: /China-AI-vs-US-AI-Brief-2026-08-11/
 ---

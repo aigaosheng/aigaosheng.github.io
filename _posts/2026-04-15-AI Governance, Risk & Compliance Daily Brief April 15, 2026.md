@@ -9,7 +9,6 @@ categories: []
 tags:
 - AI Governance
 - AI Risk Management
-- Responsible AI Compliance
 keywords: [AI Governance, AI Risk Management, Responsible AI Compliance]
 permalink: /AI Governance, Risk & Compliance Daily Brief April 15, 2026/
 ---

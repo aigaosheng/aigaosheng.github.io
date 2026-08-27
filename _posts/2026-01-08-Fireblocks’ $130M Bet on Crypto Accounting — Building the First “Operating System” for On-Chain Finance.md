@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- crypto acquisition
-- blockchain accounting
-- institutional compliance
+- Institutional Compliance
 keywords: [digital assets, crypto accounting, institutional crypto]
 permalink: /Fireblocks’ $130M Bet on Crypto Accounting — Building the First “Operating System” for On-Chain Finance/
 ---

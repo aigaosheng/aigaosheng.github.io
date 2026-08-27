@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- AI governance
-- model monitoring
+- Enterprise AI
+- AI Governance
 keywords: [trusted AI, AI governance, AI security]
 permalink: /Inside Databricks’ Playbook for Safe, Trusted, and Measurable AI/
 ---

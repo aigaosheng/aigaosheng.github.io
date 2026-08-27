@@ -9,7 +9,6 @@ categories: []
 tags:
 - Enterprise AI
 - AI Agents
-- Cloud Computing
 - AI Infrastructure
 keywords: [Enterprise AI, AI Agents, Google Cloud, IBM, Nvidia, Tencent, AI Infrastructure]
 permalink: /Enterprise-AI-Brief-2026-06-07/

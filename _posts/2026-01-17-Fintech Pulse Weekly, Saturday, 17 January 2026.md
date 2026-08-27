@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- real-time
-- funding rebound
-- digital finance**
+- Digital Finance
 keywords: [fintech funding, instant payments, debt financing]
 permalink: /Fintech Pulse Weekly, Saturday, 17 January 2026/
 ---

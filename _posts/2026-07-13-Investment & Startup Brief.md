@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-  - Investment
-  - Startup
-  - Venture Capital
-  - AI
-  - IPO
-  - M&A
+- Investment
+- Startups
+- Venture Capital
+- AI
+- IPO
+- M&A
 keywords: [investment, startup, venture capital, AI funding, IPO, SPAC, corporate venture capital, Southeast Asia tech, defence tech, robotics]
 permalink: /investment-startup-brief-2026-07-13/
 ---

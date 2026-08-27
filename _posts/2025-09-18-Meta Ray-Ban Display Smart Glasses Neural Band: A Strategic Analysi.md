@@ -7,10 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Ray-Ban Display smart glasses 
 - Meta
-- Neural Band wristband
 - Privacy
+
 ---
 ---
 # Meta’s Ray-Ban Display Smart Glasses & Neural Band: A Strategic Analysis

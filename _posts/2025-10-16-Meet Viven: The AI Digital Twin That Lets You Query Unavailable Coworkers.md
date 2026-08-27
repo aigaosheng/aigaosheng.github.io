@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI digital twin
-- Enterprise productivity
-- Viven startup
+- Enterprise Productivity
 keywords: [AI digital twin, enterprise productivity, Viven startup]
 ---
 **Meet Viven: The AI Digital Twin That Lets You Query Unavailable Coworkers**

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI coding agents
+- AI Coding Agents
 - Zhipu AI
-- China artificial intelligence
 keywords: [AI agents, coding automation, China AI]
 permalink: /China’s Zhipu Puts the Brakes on AI Coding Agents as Demand Explodes/
 ---

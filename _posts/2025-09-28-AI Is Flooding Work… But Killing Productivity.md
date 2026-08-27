@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AI productivity
+- AI Productivity
 - Generative AI
 - Workslop
+
 ---
 ---
 ### 🚨 AI Is Flooding Work… But Killing Productivity

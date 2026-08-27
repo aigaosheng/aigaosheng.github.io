@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Tencent AI
-- Hunyuan3D
 - Generative Models
+
 ---
 ---
 [![Tencent Introduces Hunyuan Turbo S; Outpaces DeepSeek-R1](https://images.openai.com/thumbnails/url/snXhV3icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7JTtFNcktzrkwvMU1yd3YsSCotTnXXNc9IL_S2TDIqDDUMDo4Icy5MtkgxDY4MMimM8PUJ8cwvDHUsLVcrBgAZQynQ)](https://www.timesofai.com/news/tencent-hunyuan-turbo-s-outpaces-deepdeek-r1/)

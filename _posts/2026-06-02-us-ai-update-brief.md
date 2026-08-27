@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-policy
-- openai
-- anthropic
-- ai-regulation
-- florida-lawsuit
-- ipo
+- AI Policy
+- OpenAI
+- Anthropic
+- AI Regulation
+- IPO
 keywords: [ai-policy, openai, anthropic, ai-regulation, florida-lawsuit, ipo]
 permalink: /us-ai-update-brief-2026-06-02/
 ---

@@ -8,10 +8,10 @@ status: publish
 categories: []
 tags:
 - Tesla
-- Dojo project
 - AI5
 - AI6
 - FSD
+
 ---
 
 The Strategic Pivot from Tesla's Dojo Project

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI payments
-- Stablecoin expansion
-- Singapore digital finance
+- Agentic AI Payments
 keywords: [agentic-AI, stablecoin, Singapore-fintech, MAS, digital-assets, cross-border-payments, AI-fraud, OKX, Mastercard, DBS]
 permalink: /FintechNews.sg – Weekly Newsletter, 7 March 2026/
 ---

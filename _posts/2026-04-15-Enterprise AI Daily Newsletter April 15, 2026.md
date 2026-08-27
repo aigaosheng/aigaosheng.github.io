@@ -9,7 +9,6 @@ categories: []
 tags:
 - Enterprise AI Platforms
 - Agentic AI Systems
-- AI Data Infrastructure
 keywords: [Enterprise AI Platforms, Agentic AI Systems, AI Data Infrastructure]
 permalink: /Enterprise AI Daily Newsletter April 15, 2026/
 ---

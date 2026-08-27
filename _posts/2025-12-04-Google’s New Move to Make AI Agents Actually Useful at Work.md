@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Google Workspace Studio
-- AI agents
+- AI Agents
 - Gemini 3
 keywords: [AI automation, workspace productivity, no-code agents]
 permalink: /Google’s New Move to Make AI Agents Actually Useful at Work/

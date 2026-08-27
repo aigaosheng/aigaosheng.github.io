@@ -8,13 +8,11 @@ published: true
 status: publish
 categories: []
 tags:
-
-- artificial-intelligence
-- AI-impact
-- future-of-work
-- healthcare
-- education
-- society
+- Artificial Intelligence
+- Future of Work
+- Healthcare
+- Education
+- Society
 keywords: [artificial-intelligence, AI-impact, future-of-work, healthcare, education, society]
 permalink: /AI-impact-on-life-Brief-2026-08-25/
 

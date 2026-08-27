@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: [enterprise-ai]
 tags:
-- enterprise-ai
-- generative-ai
-- cloud
+- Enterprise AI
+- Generative AI
+- Cloud
 keywords: [enterprise AI, generative AI, cloud]
 permalink: /Enterprise-AI-Brief-2026-08-01/
 ---

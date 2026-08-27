@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- tokenization
-- tokenized-assets
-- rwa
+- Tokenization
+- Tokenized Assets
+- RWA
 keywords: [tokenization, tokenized-assets, rwa]
 permalink: /Tokenized-asset-Brief-2026-08-20/
 

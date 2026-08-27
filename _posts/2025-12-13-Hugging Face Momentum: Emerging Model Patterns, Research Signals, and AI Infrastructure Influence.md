@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Hugging Face trends
-- open source AI models
-- Hugging Face research
-- AI developer workflows
-- model deployment insights
+- Open‑source AI Models
 keywords: [Hugging Face, open models, reasoning AI, developer tooling, ecosystem growth]
 
 permalink: /Hugging Face Momentum - Emerging Model Patterns, Research Signals, and AI Infrastructure Influence/

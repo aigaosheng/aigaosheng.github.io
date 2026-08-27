@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- TurboQuant
-- KV cache
-- LLM inference
+- LLM Inference
 keywords: [TurboQuant, KV cache, LLM inference]
 permalink: /Technical Report- TurboQuant/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- cyberattack surge
-- AI security risks
-- digital infrastructure defense
+- Digital Infrastructure Defense
 keywords: [cybersecurity, AI vulnerabilities, network attacks]
 permalink: /Cyber Tempest - Israel’s Network Under Siege as AI Tools Fuel a New Era of Attacks/
 ---

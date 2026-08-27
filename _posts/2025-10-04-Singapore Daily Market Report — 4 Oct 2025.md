@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- STI record
-- Rate-cut optimism
-- Asset-manager retrenchment
+- Asset-Manager Retrenchment
+
 ---
 ---
 

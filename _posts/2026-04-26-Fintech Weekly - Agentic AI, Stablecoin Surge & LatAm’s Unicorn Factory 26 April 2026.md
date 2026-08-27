@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - Agentic
-- Stablecoin
+- Stablecoins
 - Valuation
 keywords: [Agentic AI, Stablecoin payments, Fintech valuation]
 permalink: /Fintech Weekly - Agentic AI, Stablecoin Surge & LatAm’s Unicorn Factory 26 April 2026/

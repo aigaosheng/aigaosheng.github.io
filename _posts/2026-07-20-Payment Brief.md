@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - Payments
-- FinTech
+- Fintech
 - Digital Wallets
 keywords: [Payments, FinTech, Digital Wallets, Stablecoins]
 permalink: /Payment-Brief-2026-07-20/

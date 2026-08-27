@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- arxiv
-- llms
-- robotics
-- benchmarks
-- health-ai
+- Arxiv
+- LLM
+- Robotics
+- Benchmarks
 keywords: [arxiv, llms, robotics, benchmarks, health-ai]
 permalink: /ai-research-update-brief-2026-06-03/
 ---

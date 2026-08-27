@@ -9,7 +9,6 @@ categories: []
 tags:
 - US AI
 - Artificial Intelligence
-- Tech Policy
 - AI Chips
 - Machine Learning
 keywords: [US AI, Artificial Intelligence, Tech Policy, AI Chips, Machine Learning]

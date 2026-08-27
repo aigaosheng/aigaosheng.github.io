@@ -7,7 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- OpenClaw
 - Autonomous AI
 - Enterprise AI
 keywords: [AI agents, enterprise automation, AI security]

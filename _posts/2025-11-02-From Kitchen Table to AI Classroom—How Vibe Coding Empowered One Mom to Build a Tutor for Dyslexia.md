@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- vibe coding
-- dyslexia
-- AI tutor  
+- Vibe Coding
 keywords: [vibe coding, dyslexia technology, adaptive learning]
 permalink: /From Kitchen Table to AI Classroom—How Vibe Coding Empowered One Mom to Build a Tutor for Dyslexia/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- virtual cell
-- AI in biology
-- computational biology
+- AI in Biology
 keywords: [virtual cell, AI, drug discovery]
 ---
 # Inside the Race to Build a Virtual Human Cell — How AI Could Put a Lab in Your Browser

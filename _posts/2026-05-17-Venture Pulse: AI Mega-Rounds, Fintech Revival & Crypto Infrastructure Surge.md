@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - AI Infrastructure
-- Defense Tech
+- Defense-Tech
 - Stablecoins
 keywords: [AI,startups,venture-capital]
 permalink: /Venture Pulse- AI Mega-Rounds, Fintech Revival & Crypto Infrastructure Surge/

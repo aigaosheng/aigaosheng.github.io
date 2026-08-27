@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Payments fragmentation
-- agentic AI
-- programmable money
+- Agentic AI
 keywords: [payments fragmentation, agentic AI, programmable money]
 permalink: /2025 Payments Landscape/
 ---

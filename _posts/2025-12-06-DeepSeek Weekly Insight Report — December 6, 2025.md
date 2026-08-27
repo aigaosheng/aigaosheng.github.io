@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - DeepSeek‑V3.2
-- Sparse Attention
-- AI model cost-efficiency
 keywords: [DeepSeek, AI model release, open-source LLM]
 permalink: /DeepSeek Weekly Insight Report — December 6, 2025/
 ---

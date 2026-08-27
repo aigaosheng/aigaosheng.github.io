@@ -6,15 +6,14 @@ type: post
 published: true  
 status: publish  
 categories: []  
-tags:  
-  - US AI  
-  - Policy  
-  - National Security  
-  - Regulation  
-  - Data Centers  
-  - Infrastructure  
-  - Anthropic  
-  - Trump Administration  
+tags:
+- US AI
+- Policy
+- National Security
+- Regulation
+- Data Centers
+- Infrastructure
+- Anthropic
 keywords: [US AI, AI policy, national security, data centers, infrastructure, Anthropic, regulation, exports]  
 permalink: /US-AI-Brief-2026-07-13/  
 ---  

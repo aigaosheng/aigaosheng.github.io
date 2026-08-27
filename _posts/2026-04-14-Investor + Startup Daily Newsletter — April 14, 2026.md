@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Startup
-- deeptech
+- Startups
+- Deeptech
 keywords: [deeptech, startup]
 permalink: /Investor + Startup Daily Newsletter — April 14, 2026/
 ---

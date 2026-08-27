@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI in Materials Science
-- Autonomous Research Platforms
 - MIT Innovations
+
 ---
 ---
 **Discovering New Materials with AI: MIT's CRESt Platform Revolutionizes Research**

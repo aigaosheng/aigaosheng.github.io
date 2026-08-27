@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Qwen3‑Max‑Thinking
-- Consumer‑AI ecosystem integration
-- Agentic AI capabilities
+- Consumer‑AI Ecosystem Integration
 keywords: [Qwen3‑Max‑Thinking, Alibaba AI App, AI reasoning model]
 permalink: /Qwen Weekly Insight Report Jan 31, 2026/
 ---

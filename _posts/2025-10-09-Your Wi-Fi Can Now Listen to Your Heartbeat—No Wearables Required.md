@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Contactless health monitoring  
-- Wi-Fi sensing  
-- AI-powered diagnostics
+- Contactless Health Monitoring
 keywords: ["Contactless health monitoring","Wi-Fi sensing","AI-powered diagnostics"]
 ---
 ---

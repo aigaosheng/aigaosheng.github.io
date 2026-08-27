@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- humanoid robotics
-- national standardization
-- embodied AI
+- Humanoid Robotics
+- Embodied AI
 keywords: [China robotics, AI standards, humanoid robots]
 permalink: /China Sets the Bar for Humanoid Robotics- National Standards Signal Industrial Leap/
 ---

@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- scams
-- tourism
-- housing
-- jobs
-- crime
+- Scams
+- Tourism
+- Housing
+- Crime
 keywords: [scams, tourism, housing, jobs, crime]
 permalink: /singapore-local-update-brief-2026-06-05/
 ---

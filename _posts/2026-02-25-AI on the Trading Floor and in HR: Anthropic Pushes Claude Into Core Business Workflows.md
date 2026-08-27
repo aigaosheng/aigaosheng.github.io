@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Claude AI
-- enterprise automation
-- investment banking AI
+- Enterprise Automation
 keywords: [Claude AI, enterprise automation, investment banking AI]
 permalink: /AI on the Trading Floor and in HR- Anthropic Pushes Claude Into Core Business Workflows/
 ---

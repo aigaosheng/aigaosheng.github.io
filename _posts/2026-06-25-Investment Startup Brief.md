@@ -13,7 +13,6 @@ tags:
 - Deep Tech
 - SPAC
 - Fintech
-- Cross-Border Commerce
 keywords: [startup investment, venture capital, AI, deep tech, SPAC, fintech, cross-border commerce]
 permalink: /Investment-Startup-Brief-2026-06-25/
 ---

@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Gaming Laptops
-- Ryzen AI Processors
 - Intel Core Ultra HX
 keywords: [AI CPU for Gaming Laptops, Best AI Laptop 2025, Ryzen AI vs Intel Ultra]
 ---

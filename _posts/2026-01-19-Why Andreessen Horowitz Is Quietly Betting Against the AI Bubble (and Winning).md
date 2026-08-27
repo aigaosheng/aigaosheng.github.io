@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI investment
-- venture capital
-- infrastructure
+- AI Investment
+- Venture Capital
+- Infrastructure
 keywords: [Andreessen Horowitz, AI bubble, AI infrastructure]
 permalink: /Why Andreessen Horowitz Is Quietly Betting Against the AI Bubble (and Winning)/
 ---

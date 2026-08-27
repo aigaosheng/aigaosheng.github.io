@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
 - AI
-- society
-- work
+- Society
+- Work
 keywords: [AI, society, work]
 permalink: /AI-impact-on-life-Brief-2026-08-24/
 

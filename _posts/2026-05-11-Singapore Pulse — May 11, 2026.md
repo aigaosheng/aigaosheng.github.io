@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore stocks
-- SGX dividends
-- Singapore REITs analysis
+- Singapore REITs Analysis
 keywords: [Singapore stocks, SGX dividends, Singapore REITs analysis]
 permalink: /Singapore Pulse — May 11, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- venture capital concentration
-- AI startup funding
-- Series A traction metrics
+- AI Startup Funding
 keywords: [venture capital concentration, AI startup funding, Series A traction metrics]
 permalink: /Investment + Startup Brief — May 12, 2026/
 ---

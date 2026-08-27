@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Revolut UK banking license
-- Fintech risk management
-- Global expansion challenges
+- Revolut UK Banking License
 keywords: [Risk management in fintech, UK fintech regulations, Revolut banking license]
 ---
 ---

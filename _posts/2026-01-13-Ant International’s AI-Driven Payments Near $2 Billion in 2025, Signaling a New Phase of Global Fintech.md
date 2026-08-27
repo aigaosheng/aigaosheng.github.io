@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Ant International 
-- AI-driven payments
-- global fintech
+- AI-Driven Payments
 keywords: [AI-powered payments, cross-border fintech, digital finance infrastructure]
 permalink: /Ant International’s AI-Driven Payments Near $2 Billion in 2025, Signaling a New Phase of Global Fintech/
 ---

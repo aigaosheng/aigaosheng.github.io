@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI research preprints
-- LLM training scalability
-- multimodal benchmarks
-- edge XAI
+- LLM Training Scalability
 keywords: [zero‑shot robotics, human‑AI collaboration, thermodynamic intelligence, explainability‑as‑a‑service]
 permalink: /Weekly AI Tech Research Update February 7, 2026/
 ---

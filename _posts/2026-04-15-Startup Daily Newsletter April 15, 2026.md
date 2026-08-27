@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI startups
-- venture funding
-- startup acquisitions
+- AI Startups
+- Venture Funding
+- Startup Acquisitions
 keywords: [AI startups, venture funding, startup acquisitions]
 permalink: /Startup Daily Newsletter April 15, 2026/
 ---

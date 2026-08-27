@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI reasoning
-- internal debate
-- society of thought
+- AI Reasoning
 keywords: [AI accuracy, multi-agent reasoning, reinforcement learning]
 permalink: /Inside the society of Thought- How AI’s Internal Debates Are Boosting Accuracy on Complex Tasks/
 ---

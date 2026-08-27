@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- instagram-security
-- deepfakes
-- misinformation
-- youth-safety
-- digital-trust
+- Instagram-Security
+- Deepfakes
+- Misinformation
 keywords: [instagram-security, deepfakes, misinformation, youth-safety, digital-trust]
 permalink: /ai-impact-on-social-media-society-brief-2026-06-03/
 ---

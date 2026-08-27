@@ -8,7 +8,8 @@ status: publish
 categories: []
 tags:
 - Agentic AI
-- McKinsey report
+- McKinsey Report
+
 ---
 ---
 # McKinsey reveals 6 lessons from 50+ agentic AI deployments

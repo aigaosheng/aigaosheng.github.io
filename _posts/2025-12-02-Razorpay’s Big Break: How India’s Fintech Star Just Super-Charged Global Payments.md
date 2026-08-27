@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Cross-border payments
-- Fintech India
-- RBI licence
+- Cross-Border Payments
 keywords: [Cross-border payments,Fintech India,RBI licence]
 permalink: /Razorpay’s Big Break - How India’s Fintech Star Just Super-Charged Global Payments/
 ---

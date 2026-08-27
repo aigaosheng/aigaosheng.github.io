@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- multimodal AI
-- vision-language model
-- open-source enterprise AI
+- Multimodal AI
+- Vision-Language Model
 keywords: [multimodal, ERNIE-4.5, Baidu AI]
 permalink: /Baidu Unleashes Open-Source Multimodal AI That Claims to Beat GPT-5/
 ---

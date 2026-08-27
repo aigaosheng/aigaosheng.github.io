@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI automation
+- AI Automation
 - Enterprise SaaS
-- Venture capital trends
+- Venture Capital Trends
 keywords: [startup funding, VC investment, unicorn valuation]
 permalink: /Global VC Pulse (Last 7 Days) - AI Unicorns, Capital Resilience, and Regional Divergence/
 ---

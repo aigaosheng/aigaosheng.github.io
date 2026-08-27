@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Turbo AI
-- edtech
-- AI note-taker
+- AI Note-Taker
 keywords: [Turbo AI, student learning, AI productivity]
 permalink: /Turbo AI - How Two Young Dropouts Built a Viral Learning Assistant for the Masses/
 ---

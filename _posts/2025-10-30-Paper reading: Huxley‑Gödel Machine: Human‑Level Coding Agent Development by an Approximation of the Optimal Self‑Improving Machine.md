@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Self‑Improving AI Agents
 - Clade‑Metaproductivity in AI
-- Autonomous Code Generation
 keywords: [Self‑Improving AI Agents,Clade‑Metaproductivity in AI,Autonomous Code Generation]
 permalink: /Paper reading - Huxley‑Gödel Machine - Human‑Level Coding Agent Development by an Approximation of the Optimal Self‑Improving Machine/
 ---

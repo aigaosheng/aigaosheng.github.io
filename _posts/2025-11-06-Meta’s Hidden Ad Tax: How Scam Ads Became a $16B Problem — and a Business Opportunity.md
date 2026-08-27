@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Meta scam ads
-- platform governance
-- ad fraud
+- Platform-Governance
 keywords: [Meta, scam ads, ad fraud]
 permalink: /Meta’s Hidden Ad Tax - How Scam Ads Became a $16B Problem — and a Business Opportunity/
 ---

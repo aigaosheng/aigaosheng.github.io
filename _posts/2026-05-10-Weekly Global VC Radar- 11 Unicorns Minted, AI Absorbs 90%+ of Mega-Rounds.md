@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Vertical AI
-- Sovereign capital
-- Insurance automation
 keywords: [AI funding trends, VC investment strategy, unicorn valuation 2026]
 permalink: /Weekly Global VC Radar- 11 Unicorns Minted, AI Absorbs 90%+ of Mega-Rounds/
 ---

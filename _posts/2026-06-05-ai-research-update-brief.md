@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- arxiv
-- ai-agents
-- rag
-- scientific-reasoning
-- safety
-- benchmarks
+- Arxiv
+- AI Agents
+- RAG
+- Benchmarks
 keywords: [arxiv, ai-agents, rag, scientific-reasoning, safety, benchmarks]
 permalink: /ai-research-update-brief-2026-06-05/
 ---

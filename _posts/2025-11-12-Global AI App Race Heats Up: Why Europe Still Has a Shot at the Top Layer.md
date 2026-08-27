@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-applications
-- data-flywheel
-- European-startup-ecosystem
+- AI Applications
 keywords: [AI apps, startup funding, data flywheel]
 permalink: /Global AI App Race Heats Up - Why Europe Still Has a Shot at the Top Layer/
 ---

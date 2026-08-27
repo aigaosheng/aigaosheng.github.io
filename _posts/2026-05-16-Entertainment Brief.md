@@ -7,10 +7,6 @@ published: true
 status: publish
 categories: ["Entertainment News"]
 tags:
-- K-pop
-- Box Office
-- Streaming
-- Cannes
 - Entertainment Industry
 keywords: [K-pop, Michael Jackson, Cannes, Netflix, Box Office]
 permalink: /Entertainment-Brief-2026-05-16/

@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - Multimodal
-- Open-Source
-- AI-Models
+- Open Source
+- AI Models
 keywords: [Hugging Face AI updates, multimodal AI models, energy-efficient AI, Chinese open-source AI, AI community trends]
 ---
 ---

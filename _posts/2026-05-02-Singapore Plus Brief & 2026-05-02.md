@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Singapore AI
-- Singapore economy 2026
-- AI policy Singapore
+- Singapore Economy 2026
 keywords: [Singapore AI, Singapore economy 2026, AI policy Singapore]
 permalink: /Singapore Plus Brief & 2026-05-02/
 ---

@@ -12,7 +12,6 @@ tags:
 - AI Policy
 - Trump
 - Anthropic
-- Pentagon
 - Cybersecurity
 keywords: [US AI, AI policy, Trump executive order, Anthropic Claude, Pentagon AI, cybersecurity, federal AI regulation]
 permalink: /US-AI-Brief-2026-05-22/

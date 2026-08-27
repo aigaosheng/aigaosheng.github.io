@@ -8,9 +8,7 @@ status: publish
 categories:
   - Quantum Computing
 tags:
-  - quantum-computing
-  - post-quantum-security
-  - quantum-research
+- Quantum Computing
 keywords: [quantum computing, post-quantum cryptography, quantum research]
 permalink: /quantum-computing-Brief-2026-07-08/
 ---

@@ -7,10 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- dataset mixing
-- video foundation models
-- model quantization
+- Agentic AI
+- Model Quantization
 keywords: [agentic, dataset, multimodal, quantization, deployment]
 permalink: /Hugging Face Weekly Pulse - Agentic AI, Smarter Data Mixing, and the Rise of Video-Centric Models, November 9 2025/
 ---

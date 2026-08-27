@@ -12,7 +12,6 @@ tags:
 - AI
 - Manufacturing
 - Real Estate
-- SGX
 keywords: [Singapore, Economy, AI, Manufacturing, Real Estate]
 permalink: /Singapore-update-by-sectors-Brief-2026-05-23/
 ---

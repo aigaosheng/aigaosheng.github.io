@@ -7,15 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- LLM evaluation
-- AI safety
-- corporate AI adoption
-- bias testing
-- factuality assessment 
-- AI governance
-- LLM risk management 
-- enterprise AI security
-- model audit
+- LLM Evaluation
+- AI Safety
+- AI Governance
+- LLM Risk Management
+- Enterprise AI Security
+
 ---
 
 ---

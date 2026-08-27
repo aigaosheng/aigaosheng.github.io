@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Microbial Mining
 - Sustainable Copper Extraction
-- AI in Mining
+
 ---
 ---
 

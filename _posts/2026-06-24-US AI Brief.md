@@ -10,7 +10,7 @@ tags:
 - AI
 - Regulation
 - National Security
-- Market
+- Markets
 - Investment
 keywords: [AI, Regulation, National Security, Market correction, Five Eyes, Meta, Anthropic, G7]
 permalink: /US-AI-Brief-2026-06-24/

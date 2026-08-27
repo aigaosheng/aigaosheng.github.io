@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- terahertz radar
-- automotive sensors
-- lidar replacement
+- Automotive Sensors
 keywords: [terahertz, automotive radar, sensor technology]
 permalink: /Terahertz Radar — The Next Big Leap in Vehicle Safety and Sensor Tech/
 ---

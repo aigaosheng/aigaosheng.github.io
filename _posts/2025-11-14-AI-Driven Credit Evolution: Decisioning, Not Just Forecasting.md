@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI in consumer credit
-- LLM-driven credit decisioning
+- AI in Consumer Credit
 keywords: [AI credit risk management,Fraud detection with machine learning,Real-time credit decision platforms]
 permalink: /AI-Driven Credit Evolution - Decisioning, Not Just Forecasting/
 ---

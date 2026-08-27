@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI robots
-- ships
-- emissions
+- AI Robots
 keywords: [autonomous shipping, fuel savings, maritime emissions]
 permalink: /Neptune’s Rising - AI Robots Chart a Greener Future for Shipping/
 ---

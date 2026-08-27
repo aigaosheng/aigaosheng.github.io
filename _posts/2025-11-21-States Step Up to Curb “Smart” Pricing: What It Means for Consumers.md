@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- data-driven pricing
-- algorithmic collusion
-- consumer protection
+- Consumer Protection
 keywords: [pricing regulation, algorithmic pricing, personalised pricing]
 permalink: /States Step Up to Curb “Smart” Pricing - What It Means for Consumers/
 ---

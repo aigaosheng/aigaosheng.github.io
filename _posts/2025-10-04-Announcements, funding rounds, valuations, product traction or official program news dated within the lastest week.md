@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- Developer platform (DB / backend)
-- Enterprise security & compliance
-- AI hardware / chip startups
-- ERP automation / finance AI
+- AI Infrastructure
+
 ---
 ---
 

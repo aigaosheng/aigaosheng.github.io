@@ -8,9 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic-ai
-- ai-agents
-- enterprise-ai
+- Agentic AI
+- AI Agents
+- Enterprise AI
 keywords: [agentic-ai, ai-agents, enterprise-ai]
 permalink: /Agentic-AI-Brief-2026-08-05/
 ---

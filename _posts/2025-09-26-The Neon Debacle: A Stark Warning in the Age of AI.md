@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI privacy
-- Secure AI apps
-- Voice data breach
+- AI Privacy
+
 ---
 ---
 ## The Neon Debacle: A Stark Warning in the Age of AI

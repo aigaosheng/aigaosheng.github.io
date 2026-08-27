@@ -9,7 +9,7 @@ categories: []
 tags:
 - Automation
 - Payments
-- DigitalWallet
+- DigitalWallets
 keywords: [Automation,Payments,DigitalWallet]
 permalink: /Fintech Frontlines- AI Meets Digital Finance January 31, 2026/
 ---

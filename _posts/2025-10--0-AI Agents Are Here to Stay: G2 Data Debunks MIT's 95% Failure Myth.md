@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agents
+- AI Agents
 - Enterprise AI
-- Business Intelligence
+
 ---
 ---
 **AI Agents Are Here to Stay: G2 Data Debunks MIT's 95% Failure Myth**

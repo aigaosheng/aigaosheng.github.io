@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenized assets
-- real world asset tokenization
-- tokenized securities infrastructure
-- blockchain capital markets
-- stablecoin settlement layer
+- Tokenized Assets
+- Real World Asset Tokenization
+- Blockchain Capital Markets
 keywords: [tokenized assets, real world asset tokenization, tokenized securities infrastructure, blockchain capital markets,stablecoin settlement layer]
 permalink: /Tokenized Asset Brief — May 6, 2026/
 ---

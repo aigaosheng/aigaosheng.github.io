@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore Plus One strategy
-- regional business hub,
-- ASEAN expansion framework
+- Singapore Plus One Strategy
 keywords: [Singapore Plus One strategy, regional business hub, ASEAN expansion framework]
 permalink: /Singapore Plus Brief — May 12, 2026/
 ---

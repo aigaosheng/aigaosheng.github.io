@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- real-time translation
-- Google Translate headphones
 - Gemini AI
 keywords: [translation, AI, headphones]
 permalink: /Google Translate Turns Your Headphones Into Real-Time Translators — Here’s What That Means for Language Barriers/

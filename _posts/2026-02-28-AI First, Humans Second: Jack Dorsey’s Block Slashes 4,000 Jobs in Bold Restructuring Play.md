@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Block layoffs
-- AI driven workforce
-- Jack Dorsey AI strategy
+- Jack Dorsey AI Strategy
 keywords: [AI, layoffs, fintech]
 permalink: /AI First, Humans Second- Jack Dorsey’s Block Slashes 4,000 Jobs in Bold Restructuring Play/
 ---

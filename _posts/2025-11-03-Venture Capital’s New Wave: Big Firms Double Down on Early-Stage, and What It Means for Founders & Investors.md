@@ -8,10 +8,9 @@ status: publish
 categories: []
 tags:
 - AI
-- enterprise SaaS
+- Enterprise SaaS
 - IPO
-- accelerators
-- early-stage funding
+- Accelerators
 keywords: [Sequoia, Navan IPO, Lightspeed, Y Combinator, Techstars]
 permalink: /Venture Capital’s New Wave - Big Firms Double Down on Early-Stage, and What It Means for Founders & Investors/
 ---

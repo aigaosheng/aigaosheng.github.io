@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- institutional tokenization
-- real world assets RWA
-- blockchain securities settlement
+- Real World Assets (RWA)
 keywords: [institutional tokenization, real world assets RWA, blockchain securities settlement]
 permalink: /Tokenized Asset Brief — May 13, 2026/
 ---

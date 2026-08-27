@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- LSEG
 - OpenAI
-- ChatGPT
+- chatGPT
 keywords: [financial data, generative AI, market analytics]
 permalink: /Wall Street Meets ChatGPT - What the London Stock Exchange Group’s New Deal with OpenAI Means for Finance/
 ---

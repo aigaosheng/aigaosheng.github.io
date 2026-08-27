@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic payments
-- Stablecoin banking
-- Cross-border SME payments
+- Agentic Payments
 keywords: [fintech, Singapore, payments, stablecoin, AI agents, digital banking, APAC, crypto, embedded finance, cross-border]
 permalink: /FintechNews.sg – Weekly Newsletter, 14 March 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI adoption
-- model honesty / confessions
-- MLOps tooling (neptune.ai)
+- Enterprise AI Adoption
 keywords: [OpenAI, enterprise AI, model transparency]
 permalink: /Weekly OpenAI Update — official announcements (Nov 30 – Dec 6, 2025)/
 ---

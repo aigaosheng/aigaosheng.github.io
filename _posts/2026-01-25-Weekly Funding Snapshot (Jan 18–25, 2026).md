@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- Unicorn funding
-- Productivity automation
+- AI Infrastructure
 keywords: [AI, venture capital, unicorn funding]
 permalink: /Weekly Funding Snapshot (Jan 18–25, 2026)/
 ---

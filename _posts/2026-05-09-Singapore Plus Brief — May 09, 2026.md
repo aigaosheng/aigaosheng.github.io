@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore economy
-- ASEAN energy crisis
-- Singapore real estate
+- Singapore Economy
 keywords: [Singapore economy, ASEAN energy crisis, Singapore real estate]
 permalink: /Singapore Plus Brief — May 09, 2026/
 ---

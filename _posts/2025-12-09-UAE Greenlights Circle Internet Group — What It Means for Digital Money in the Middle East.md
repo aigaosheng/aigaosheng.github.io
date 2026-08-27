@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Circle
-- USDC
-- UAE stablecoin
+- UAE Stablecoin
 keywords: [stablecoin, UAE, ADGM]
 permalink: /UAE Greenlights Circle Internet Group — What It Means for Digital Money in the Middle East/
 ---

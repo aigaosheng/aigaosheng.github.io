@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI enablement
-- PromptOps
-- AI onboarding
+- AI Enablement
 keywords: [AI onboarding, PromptOps, RAG]
 permalink: /The teacher is the new engineer - Why onboarding AI will decide who wins the AI race/
 ---

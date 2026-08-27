@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AI strategy
-- Closed models
-- Open models
+- AI Strategy
+- Closed Models
+- Open Models
+
 ---
 ---
 # 🤖 Why Smart Enterprises Need Both Open & Closed AI Models

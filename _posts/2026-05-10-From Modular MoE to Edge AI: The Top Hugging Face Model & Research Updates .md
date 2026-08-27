@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- efficient modularity
-- edge AI
-- community evals
+- Edge AI
 keywords: [efficient modularity, edge AI, community evals]
 permalink: /From Modular MoE to Edge AI- The Top Hugging Face Model & Research Updates/
 ---

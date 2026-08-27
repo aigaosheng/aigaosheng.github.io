@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI regulation 2026
-- Tencent AI earnings
-- Chinese AI exports
+- China AI Regulation 2026
 keywords: [China AI regulation 2026, Tencent AI earnings, Chinese AI exports]
 permalink: /China AI Progress Brief — May 14, 2026/
 ---

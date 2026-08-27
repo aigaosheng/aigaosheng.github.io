@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI search
-- large language models
-- retrieval-augmented generation
+- AI Search
+- Large Language Models
+- Retrieval-Augmented Generation
 keywords: [search engine, generative AI, information retrieval]
 permalink: /The Search Revolution - How AI Is Rethinking How We Find Information/
 ---

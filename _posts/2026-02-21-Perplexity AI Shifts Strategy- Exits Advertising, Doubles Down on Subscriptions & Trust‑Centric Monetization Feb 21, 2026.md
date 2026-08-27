@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Trust‑first monetization
-- Subscription pivot
-- Competitive positioning
+- Trust‑first Monetization
 keywords: [Perplexity AI, ad‑free, subscription model]
 permalink: /Perplexity AI Shifts Strategy- Exits Advertising, Doubles Down on Subscriptions & Trust‑Centric Monetization Feb 21, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- advertising transformation
-- AI in marketing
-- ad agency stocks
+- Ad Agency Stocks
 keywords: [AI strategy, marketing innovation, advertising industry]
 permalink: /Ad Agencies Aren not Dead — They are Transforming - How AI Is Becoming Their Unexpected Ally/
 ---

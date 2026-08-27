@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI bubble
-- tech valuation
-- Michael Burry
+- AI Bubble
+- Tech Valuations
 keywords: [AI, bubble, valuations]
 permalink: /The AI Boom at a Crossroads- Why Michael Burry and David Rosenberg Are Sounding the Alarm/
 ---

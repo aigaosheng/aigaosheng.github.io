@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- data center
-- artificial intelligence
-- Saudi Arabia  
+- Data Centers
+- Artificial Intelligence
+- Saudi Arabia
 keywords: [Humain AI, gigawatt, operating system]
 permalink: /Saudi Arabia’s Humain AI Makes Massive Move - 6-Gigawatt Data Center and Ambitious New OS Announced/
 ---

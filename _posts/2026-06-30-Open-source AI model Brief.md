@@ -7,7 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Open-source AI
+- Open Source AI
 - LLM
 - Foundation Models
 keywords: [Open-source AI, LLM, Foundation Models]

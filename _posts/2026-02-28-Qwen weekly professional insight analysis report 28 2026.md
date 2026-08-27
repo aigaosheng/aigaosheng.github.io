@@ -9,7 +9,6 @@ categories: []
 tags:
 - Qwen3.5
 - Multimodal AI
-- AI Consumer Hardware
 keywords: [open‑source, AI models, multimodal AI]
 permalink: /Qwen weekly professional insight analysis report 28 2026/
 ---

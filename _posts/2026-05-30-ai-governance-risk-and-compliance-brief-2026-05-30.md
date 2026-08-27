@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-governance
-- ai-risk
-- ai-compliance
-- ai-regulation
-- ai-safety
+- AI Governance
+- AI Risk
+- AI Compliance
+- AI Regulation
+- AI Safety
 keywords: [ai-governance, ai-risk, ai-compliance, ai-regulation, ai-safety]
 permalink: /ai-governance-risk-and-compliance-brief-2026-05-30/
 ---

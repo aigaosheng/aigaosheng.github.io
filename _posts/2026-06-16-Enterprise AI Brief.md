@@ -11,7 +11,6 @@ tags:
 - Agentic AI
 - AI Agents
 - AI Transformation
-- Agentic Enterprise
 keywords: [Enterprise AI, Agentic AI, AI Agents, AI transformation, Agentic Enterprise]
 permalink: /Enterprise-AI-Brief-2026-06-16/
 ---

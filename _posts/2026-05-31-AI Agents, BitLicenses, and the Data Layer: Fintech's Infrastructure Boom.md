@@ -9,7 +9,6 @@ categories: []
 tags:
 - Agentic
 - Infrastructure
-- BitLicense
 keywords: [Fintech News May 2026, AI in Finance, Mastercard BitLicense]
 permalink: /AI Agents, BitLicenses, and the Data Layer- Fintech's Infrastructure Boom/
 ---

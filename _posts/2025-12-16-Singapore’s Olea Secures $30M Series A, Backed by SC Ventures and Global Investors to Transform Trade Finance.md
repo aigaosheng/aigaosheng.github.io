@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Olea Series A
-- trade finance innovation
-- SC Ventures fintech
+- Trade Finance Innovation
 keywords: [trade finance, fintech investment, blockchain trade]
 permalink: /Singapore’s Olea Secures $30M Series A, Backed by SC Ventures and Global Investors to Transform Trade Finance/
 ---

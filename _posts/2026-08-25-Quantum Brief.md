@@ -8,10 +8,8 @@ published: true
 status: publish
 categories: []
 tags:
-
-- quantum computing
-- quantum technology
-- post-quantum cryptography
+- Quantum Computing
+- Quantum Technology
 keywords: [quantum computing, quantum technology, post-quantum cryptography]
 permalink: /Quantum-Brief-2026-08-25/
 

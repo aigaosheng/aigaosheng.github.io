@@ -8,11 +8,11 @@ status: publish
 categories: []
 tags:
 - AI
-- US AI+
+- US AI
 - Regulation
 - Investment
-- Chip
-- Agent
+- Chips
+- Agents
 keywords: [AI, US AI+, regulation, investment, semiconductor, AI agent]
 permalink: /US-AI+-Brief-2026-06-25/
 ---

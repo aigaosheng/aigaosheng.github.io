@@ -7,12 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- shangri-la-dialogue
-- haze
-- cost-of-living
-- mobility
-- fintech
-- public-safety
+- Shangri-La-Dialogue
+- Fintech
+- Public-Safety
 keywords: [shangri-la-dialogue, haze, cost-of-living, mobility, fintech, public-safety]
 permalink: /singapore-local-update-brief-2026-05-30/
 ---

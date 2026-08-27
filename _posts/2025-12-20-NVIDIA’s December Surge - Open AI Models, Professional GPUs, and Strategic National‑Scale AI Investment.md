@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Nemotron 3 family
-- Blackwell GPU expansion
-- AI infrastructure partnership
+- AI Infrastructure Partnership
 keywords: [open models, agentic AI, desktop GPU]
 permalink: /NVIDIA December Surge - Open AI Models, Professional GPUs, and Strategic National‑Scale AI Investment/
 ---

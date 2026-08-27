@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum computing  
-- artificial intelligence  
-- tech disruption
+- Quantum Computing
+- Artificial Intelligence
 keywords: [quantum, AI, computing]
 permalink: /Why Quantum Tech Could Eclipse AI—And What That Means For the Future of Computing/
 ---

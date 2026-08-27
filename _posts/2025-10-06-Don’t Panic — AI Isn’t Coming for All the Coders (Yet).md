@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI coding workforce
-- Developer augmentation
-- Human-AI collaboration
+- Human-AI Collaboration
+
 ---
 ---
 **🚀 Don’t Panic — AI Isn’t Coming for All the Coders (Yet)**

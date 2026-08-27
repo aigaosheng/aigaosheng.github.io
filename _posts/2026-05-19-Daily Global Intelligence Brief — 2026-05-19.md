@@ -6,10 +6,10 @@ type: post
 published: true
 status: publish
 categories: []
-tags: 
-- macro
-- geopolitics
-- markets
+tags:
+- Macro
+- Geopolitics
+- Markets
 keywords: [macro, geopolitics, markets]
 permalink: /Daily Global Intelligence Brief — 2026-05-19/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Continuous AI governance
-- audit loop
-- AI compliance
+- AI Compliance
 keywords: [audit loop, AI governance, continuous monitoring]
 permalink: /Inside the Modern AI Audit Loop - Why Continuous Compliance Is Non-Negotiable/
 ---

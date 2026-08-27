@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Gemini 3.1 Pro
-- Generative AI music
-- Responsible AI progress
+- Responsible AI Progress
 keywords: [Gemini update, AI reasoning, Google I/O 2026]
 permalink: /Google Weekly Insight Report Feb 21, 2026/
 ---

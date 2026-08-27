@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI spending
-- tech bond issuance
-- corporate leverage
+- AI Spending
 keywords: [AI investment, tech debt, hyperscalers]
 permalink: /Tech Giants’ AI Bet Fuels Bond Market Surge — and Investor Jitters/
 ---

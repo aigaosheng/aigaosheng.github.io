@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin
-- agentic payment
+- Stablecoins
+- Agentic Payments
 - AI
 keywords: [stablecoin, agentic payment, AI]
 permalink: /The Ghost in the Wallet- Why Your Next Purchase Won't Be Made by You/

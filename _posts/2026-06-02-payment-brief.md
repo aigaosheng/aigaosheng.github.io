@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- pay-by-bank
-- open-banking
-- cross-border-payments
-- stablecoins
-- bill-payments
+- Pay-by-Bank
+- Open Banking
+- Cross-Border Payments
+- Stablecoins
 keywords: [pay-by-bank, open-banking, cross-border-payments, stablecoins, bill-payments]
 permalink: /payment-brief-2026-06-02/
 ---

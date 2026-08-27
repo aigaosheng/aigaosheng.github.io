@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI cybersecurity
-- insider risk
-- enterprise AI security
+- AI Cybersecurity
+- Enterprise AI Security
 keywords: [AI security, insider threat detection, enterprise cybersecurity]
 permalink: /The $50M Signal- Why Insider Risk Is the Next Frontier in AI Cybersecurity/
 ---

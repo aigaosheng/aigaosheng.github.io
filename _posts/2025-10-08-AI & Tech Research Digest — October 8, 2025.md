@@ -8,10 +8,7 @@ status: publish
 categories: []
 tags:
 - Quantum Computing
-- Tabular AI Models
-- Process Reward Model
-- Continuous-Variable Quantum Systems
-- Hypothesis Testing
+
 ---
 ---
 ## AI & Tech Research Digest — October 8, 2025

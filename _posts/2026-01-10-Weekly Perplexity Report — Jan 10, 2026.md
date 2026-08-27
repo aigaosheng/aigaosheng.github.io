@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Perplexity GPT‑5.1 integration
-- AI search platform innovation
-- Premium AI subscription enhancement
+- Premium AI Subscription Enhancement
 keywords: [Perplexity Pro, GPT‑5.1, AI search update]
 permalink: /Weekly Perplexity Report — Jan 10, 2026/
 ---

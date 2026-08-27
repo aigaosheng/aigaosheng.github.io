@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI / Computer Use
-- Claude Mythos / Model Leak
 - Pentagon Injunction & IPO Signaling
 keywords: [Anthropic Claude Mythos, Claude computer use Mac 2026, Anthropic Pentagon injunction]
 permalink: /Anthropic Weekly Insight Report, March 28, 2026/

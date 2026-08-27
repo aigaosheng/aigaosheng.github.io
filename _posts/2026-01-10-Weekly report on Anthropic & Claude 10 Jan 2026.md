@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Anthropic fundraise
 - Claude Code
-- AI developer tooling
 keywords: [Anthropic valuation, Claude AI, AI funding]
 permalink: /Weekly report on Anthropic & Claude 10 Jan 2026/
 ---

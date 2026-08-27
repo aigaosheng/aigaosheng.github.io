@@ -9,7 +9,8 @@ categories: []
 tags:
 - Google AI
 - Digital Markets Act
-- Tech regulation
+- Tech Regulation
+
 ---
 ---
 # Google Faces Legal and Regulatory Challenges Amid AI Innovations

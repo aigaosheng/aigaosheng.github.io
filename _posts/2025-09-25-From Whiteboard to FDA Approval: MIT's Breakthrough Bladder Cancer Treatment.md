@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Bladder cancer treatment
-- MIT innovation
-- Drug Delivery technology
+- MIT Innovations
+
 ---
 ---
 **From Whiteboard to FDA Approval: MIT's Breakthrough Bladder Cancer Treatment**

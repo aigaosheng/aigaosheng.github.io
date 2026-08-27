@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI deployment
-- infrastructure scale
-- cost optimization
+- AI Deployment
 keywords: [AI infrastructure, model deployment, compute cost]
 permalink: /Ship Fast, Optimize Later - Why Top AI Engineers Don’t Care About Cost—Yet/
 ---

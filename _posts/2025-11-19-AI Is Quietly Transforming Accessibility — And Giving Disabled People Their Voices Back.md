@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- accessibility technology
-- AAC devices
-- AI innovation
+- AI Innovation
 keywords: [accessibility, assistive technology, artificial intelligence]
 permalink: /AI Is Quietly Transforming Accessibility — And Giving Disabled People Their Voices Back/
 ---

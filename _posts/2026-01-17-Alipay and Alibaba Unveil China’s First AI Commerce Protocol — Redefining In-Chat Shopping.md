@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI commerce protocol
-- agentic AI
-- Qwen App
+- Agentic AI
 keywords: [AI commerce, in-chat payments, Alipay AI]
 permalink: /Alipay and Alibaba Unveil China’s First AI Commerce Protocol — Redefining In-Chat Shopping/
 ---

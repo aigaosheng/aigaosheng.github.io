@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- crypto
-- money laundering
-- ICIJ
+- Crypto
 keywords: [crypto crime, illicit funds, crypto regulation]
 permalink: /Crypto Titans Under Scrutiny - Billions in Illicit Funds Still Flow Through Major Exchanges/
 ---

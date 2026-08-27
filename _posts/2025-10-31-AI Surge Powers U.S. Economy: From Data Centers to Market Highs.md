@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI boom
-- U.S. economic growth
-- data centres
+- AI Boom
+- Data Centres
 Top 3 SEO words: AI, economy, growth
 keywords: []
 permalink: /AI Surge Powers U.S. Economy - From Data Centers to Market Highs/

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI update 2026
-- DeepSeek Huawei AI model
-- China AI regulation April 2026
+- China AI Regulation April 2026
 keywords: [China AI update 2026, DeepSeek Huawei AI model, China AI regulation April 2026]
 permalink: /China AI Update Brief — 26 April 2026/
 ---

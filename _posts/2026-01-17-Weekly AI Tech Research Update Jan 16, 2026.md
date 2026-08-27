@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- LLM inference hardware
-- adaptive reasoning
-- predictive execution
-- autonomous ML agents
-- AI governance
+- AI Governance
 keywords: [chain‑of‑thought enhancements, execution bottleneck, data memorization, agent autonomy, scalable inference]
 permalink: /Weekly AI Tech Research Update Jan 16, 2026/
 ---

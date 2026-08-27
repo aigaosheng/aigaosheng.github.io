@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- OpenAGI
-- Lux AI
-- computer-use agent
+- Computer-Use Agent
 keywords: [AI agent, desktop automation, On-device AI]
 permalink: /Small Team, Big Ambitions - How OpenAGI Claims Its New Agent “Crushes” OpenAI/
 ---

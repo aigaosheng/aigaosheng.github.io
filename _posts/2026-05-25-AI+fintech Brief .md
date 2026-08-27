@@ -8,8 +8,8 @@ status: publish
 categories: []
 tags:
 - AI
-- fintech
-- payments
+- Fintech
+- Payments
 keywords: [AI, fintech, payments]
 permalink: /AI+fintech-Brief-2026-05-25/
 ---

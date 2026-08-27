@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI venture capital 2026
-- startup funding May 2026
-- blockchain enterprise funding
+- Startup Funding May 2026
 keywords: [AI venture capital 2026, startup funding May 2026, blockchain enterprise funding]
 permalink: /Investment + Startup Brief — May 11, 2026/
 ---

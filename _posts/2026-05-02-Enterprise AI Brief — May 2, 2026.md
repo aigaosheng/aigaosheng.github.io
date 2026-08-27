@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI
-- AI agents
-- AI infrastructure
+- Enterprise AI
+- AI Agents
+- AI Infrastructure
 keywords: [enterprise AI, AI agents, AI infrastructure]
 permalink: /Enterprise AI Brief — May 2, 2026/
 ---

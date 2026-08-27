@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Europe AI
 - Generative AI
-- EU AI Strategy
 - Startup Funding
-- Vivatech
 keywords: [Europe AI, Generative AI, EU AI Strategy, Vivatech, Mistral, Anthropic, AI funding]
 permalink: /Europe-AI-Brief-2026-05-16/
 ---

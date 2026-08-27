@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Airbnb
-- AI integration
-- ChatGPT
+- AI Integration
+- chatGPT
 keywords: [Airbnb, artificial intelligence, travel platform]
 permalink: /Why Airbnb Says “Not Yet” to ChatGPT—And What That Means for AI in Travel/
 ---

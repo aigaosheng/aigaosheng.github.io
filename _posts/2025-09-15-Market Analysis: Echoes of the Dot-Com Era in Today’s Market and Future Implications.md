@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - Market Analysis
-- Dot-Com Era
+- Dot.com Era
 - AI Era
 permalink: /Market Analysis Echoes of the Dot-Com Era in Today’s Market and Future Implications/
 ---

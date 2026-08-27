@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- tokenization
-- digital money
-- asset management
+- Tokenization
 keywords: [tokenization, Hong Kong finance, digital assets]
 permalink: /Hong Kong’s Tokenization Tipping Point- How Digital Assets Could Double Its Asset Management Industry/
 ---

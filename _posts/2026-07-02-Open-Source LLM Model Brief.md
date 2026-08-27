@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- open-source LLM
-- foundation models
+- Open-Source LLM
+- Foundation Models
 - AI
 keywords: [open-source LLM, foundation models, AI models, GLM-5.2, Amalia, Llama]
 permalink: /open-source-llm-brief-2026-07-02/

@@ -9,7 +9,6 @@ categories: []
 tags:
 - Agentic AI
 - AI Orchestration
-- Enterprise Process Layer
 keywords: [agentic AI enterprise, AI orchestration layer, enterprise AI automation]
 permalink: /The Missing Middle- Why Your AI Agents Are Failing Without a Process Layer/
 ---

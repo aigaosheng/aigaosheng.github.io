@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI research integrity
-- hallucinated citations
-- NeurIPS publishing
+- AI Research Integrity
 keywords: [AI errors, citation verification, academic publishing]
 permalink: /When AI Gets Its Facts Wrong- Hallucinated Citations Emerge in Top-Tier NeurIPS Papers/
 ---

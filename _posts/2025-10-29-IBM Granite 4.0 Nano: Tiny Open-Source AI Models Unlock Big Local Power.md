@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Granite 4.0 Nano
-- edge AI
-- local inference
+- Edge AI
 keywords: [IBM AI, open source models, hybrid architecture]
 permalink: /IBM Granite 4.0 Nano - Tiny Open-Source AI Models Unlock Big Local Power/
 ---

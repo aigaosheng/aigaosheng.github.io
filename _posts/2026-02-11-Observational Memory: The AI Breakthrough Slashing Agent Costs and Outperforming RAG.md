@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- observational memory
-- AI agent costs
-- RAG alternative
+- RAG Alternatives
 keywords: [AI memory, agent architecture, long context]
 permalink: /Observational Memory- The AI Breakthrough Slashing Agent Costs and Outperforming RAG/
 ---

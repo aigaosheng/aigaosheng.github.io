@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum materials
-- scale up
-- quantum weight
+- Quantum Materials
 keywords: [quantum materials, scale-up potential, sustainable materials]
 ---
 ---

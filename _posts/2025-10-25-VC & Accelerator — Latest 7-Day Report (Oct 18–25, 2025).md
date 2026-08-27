@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI investment
-- fundraise
-- robotics
-- longevity biotech
-- venture governance
+- AI Investment
+- Robotics
 keywords: [a16z, Sequoia, Accel, SoftBank, venture capital]
 permalink: /VC & Accelerator — Latest 7-Day Report (Oct 18–25, 2025)/
 ---

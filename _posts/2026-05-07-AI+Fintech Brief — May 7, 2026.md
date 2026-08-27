@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- financial AI agents
-- AI banking
-- enterprise AI finance
-- fintech infrastructure
+- AI Fintech
+- AI Banking
+- Fintech Infrastructure
 keywords: [AI fintech, financial AI agents, AI banking, enterprise AI finance, fintech infrastructure]
 permalink: /AI+Fintech Brief — May 7, 2026/
 ---

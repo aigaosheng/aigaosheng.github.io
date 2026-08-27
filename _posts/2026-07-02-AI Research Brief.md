@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: [AI Research]
 tags:
-- AI research
-- LLMs
-- agentic AI
-- benchmarks
-- scientific AI
+- AI Research
+- LLM
+- Agentic AI
+- Benchmarks
+- Scientific AI
 keywords: [AI research, LLM agents, scientific AI, AI governance, benchmarks]
 permalink: /AI-Research-Brief-2026-07-02/
 ---

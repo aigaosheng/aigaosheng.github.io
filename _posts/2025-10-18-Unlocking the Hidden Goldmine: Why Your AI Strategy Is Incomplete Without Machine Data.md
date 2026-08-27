@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- machine data
-- AI strategy 
-- digital twin technology
+- AI Strategy
 keywords: [AI models, machine data, enterprise AI]
 ---
 **Unlocking the Hidden Goldmine: Why Your AI Strategy Is Incomplete Without Machine Data**

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Interactions API
-- stateful AI
-- AI agents
+- AI Agents
 keywords: [AI development, API innovation, autonomous agents]
 permalink: /From Chatbots to Autonomous AI Workers - Why Google’s New Interactions API Is a Game-Changer for Developers/
 ---

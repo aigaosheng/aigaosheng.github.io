@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI safety
-- prompt injection
+- AI Safety
+- Prompt Injection
 - GPT‑5.1
-- teen safeguards
-- business adoption
 keywords: [OpenAI, security, model update]
 permalink: /OpenAI Strategic Pulse - Prompt‑Injection Defenses, Teen Safety, and GPT‑5.1 Personality Upgrade/
 ---

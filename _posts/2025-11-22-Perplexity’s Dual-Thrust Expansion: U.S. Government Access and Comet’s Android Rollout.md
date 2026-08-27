@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Comet browser
-- enterprise AI
-- federal procurement
+- Enterprise AI
 keywords: [Perplexity, Comet, FedRAMP]
 permalink: /Perplexity’s Dual-Thrust Expansion - U.S. Government Access and Comet’s Android Rollout/
 ---

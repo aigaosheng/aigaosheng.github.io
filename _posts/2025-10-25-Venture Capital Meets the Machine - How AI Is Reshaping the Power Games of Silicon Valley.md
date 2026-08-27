@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- venture capital
-- artificial intelligence
-- startup investment
+- Venture Capital
+- Artificial Intelligence
 keywords: [VC, AI, Silicon Valley]
 permalink: /Venture Capital Meets the Machine - How AI Is Reshaping the Power Games of Silicon Valley/
 ---

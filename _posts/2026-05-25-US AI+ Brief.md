@@ -10,8 +10,6 @@ tags:
 - US AI
 - AI Policy
 - AI Investment
-- AI ROI
-- Fragrance AI
 keywords: [US AI, AI executive order, hedge funds, AI ROI, StitcherAI, fragrance AI, Patina]
 permalink: /US-AI-Brief-2026-05-25/
 ---

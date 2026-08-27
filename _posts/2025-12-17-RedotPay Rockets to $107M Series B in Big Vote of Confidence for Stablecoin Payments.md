@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin
-- fintech
-- global payments
+- Stablecoins
+- Fintech
 keywords: [stablecoin, crypto payments, fintech funding]
 permalink: /RedotPay Rockets to $107M Series B in Big Vote of Confidence for Stablecoin Payments/
 ---

@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AI strategy
-- Closed models
-- Open models
+- AI Strategy
+- Closed Models
+- Open Models
+
 ---
 ---
 # 🤖 企业 AI 战略必看：开放 + 封闭模型的混合玩法

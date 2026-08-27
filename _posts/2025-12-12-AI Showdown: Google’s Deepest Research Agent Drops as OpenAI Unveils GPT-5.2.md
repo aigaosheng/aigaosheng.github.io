@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI competition
-- Deep Research 
-- GPT-5.2
+- AI Competition
+- GPT‑5.2
 keywords: [AI, deep research, agentic intelligence]
 permalink: /AI Showdown - Google’s Deepest Research Agent Drops as OpenAI Unveils GPT-5.2/
 ---

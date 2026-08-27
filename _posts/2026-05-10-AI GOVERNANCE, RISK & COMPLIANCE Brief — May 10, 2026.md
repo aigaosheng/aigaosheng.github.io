@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance 2026
-- AI regulatory compliance
 - EU AI Act Omnibus
 keywords: [AI governance 2026, AI regulatory compliance, EU AI Act Omnibus]
 permalink: /AI GOVERNANCE, RISK & COMPLIANCE Brief — May 10, 2026/

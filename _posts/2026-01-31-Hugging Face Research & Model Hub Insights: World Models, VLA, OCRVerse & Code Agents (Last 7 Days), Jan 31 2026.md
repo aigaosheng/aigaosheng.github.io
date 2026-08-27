@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Hugging Face models
-- open-source AI research
-- world models
-- vision-language-action
-- context pruning
+- Hugging Face Models
+- World Models
+- Vision‑language‑action
 keywords: [multimodal, reasoning, robotics, benchmarking, efficiency]
 permalink: /Hugging Face Research & Model Hub Insights- World Models, VLA, OCRVerse & Code Agents (Last 7 Days), Jan 31 2026/
 ---

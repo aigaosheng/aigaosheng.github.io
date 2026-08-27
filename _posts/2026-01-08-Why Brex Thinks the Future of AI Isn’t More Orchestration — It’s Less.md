@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Brex Agent Mesh
-- AI autonomy
-- enterprise automation
+- Enterprise Automation
 keywords: [AI automation, decentralized agents, fintech innovation]
 permalink: /Why Brex Thinks the Future of AI Isn’t More Orchestration — It’s Less/
 ---

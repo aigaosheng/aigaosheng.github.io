@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- China energy sector
-- copper demand
+- AI Infrastructure
 keywords: [AI, China, power]
 permalink: /China’s AI Investment Pivot - From High-Flying Chips to Hard Assets/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- generative AI 
-- image generation tools
-- AI innovation
+- Generative AI
+- AI Innovation
 keywords: [AI image generator, ByteDance Seedream, Alibaba Qwen]
 permalink: /AI Power Play- How ByteDance and Alibaba Are Taking the Lead in Next-Gen Image Creation/
 ---

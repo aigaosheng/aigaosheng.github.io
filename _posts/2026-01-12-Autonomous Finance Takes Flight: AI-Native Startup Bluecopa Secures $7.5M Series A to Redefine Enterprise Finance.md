@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Bluecopa
-- AI finance
-- Series A
+- Series a
 keywords: [AI automation, finance operations, enterprise software]
 permalink: /Autonomous Finance Takes Flight - AI-Native Startup Bluecopa Secures $7.5M Series A to Redefine Enterprise Finance/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Copilot agents
-- Anthropic on Azure
-- Enterprise AI security
+- Enterprise AI Security
 keywords: [Ignite2025, Anthropic, Copilot]
 permalink: /Microsoft Ignite Week — Agents, Anthropic On Azure, and Enterprise Security (Nov 15–22, 2025)/
 ---

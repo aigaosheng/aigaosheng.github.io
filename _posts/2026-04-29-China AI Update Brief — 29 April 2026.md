@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI 2026
 - DeepSeek V4
-- Huawei Ascend chips
 keywords: [China AI 2026, DeepSeek V4, Huawei Ascend chips]
 permalink: /China AI Update Brief — 29 April 2026/
 ---

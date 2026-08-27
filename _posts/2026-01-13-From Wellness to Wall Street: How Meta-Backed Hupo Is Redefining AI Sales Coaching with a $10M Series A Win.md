@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI sales coaching
-- enterprise AI funding
-- fintech workforce performance
+- AI Sales Coaching
 keywords: [Hupo AI, Series A funding, enterprise sales coaching]
 permalink: /From Wellness to Wall Street- How Meta-Backed Hupo Is Redefining AI Sales Coaching with a $10M Series A Win/
 ---

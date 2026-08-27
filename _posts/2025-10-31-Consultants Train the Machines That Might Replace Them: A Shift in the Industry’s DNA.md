@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- consulting automation
-- AI-training
-- professional services disruption
+- Professional Services Disruption
 keywords: [consulting, artificial intelligence, automation]
 permalink: /Consultants Train the Machines That Might Replace Them - A Shift in the Industry’s DNA/
 ---

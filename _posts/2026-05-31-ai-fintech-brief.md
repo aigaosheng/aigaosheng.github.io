@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic-ai
-- banking
-- payments
-- trade-finance
-- openai
+- Agentic AI
+- Banking
+- Payments
+- OpenAI
 keywords: [agentic-ai, banking, payments, trade-finance, openai]
 permalink: /ai-fintech-brief-2026-05-31/
 ---

@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AI coding
-- Software engineering
-- security
+- AI Coding
+- Software Engineering
+- Security
+
 ---
 ---
 # *When AI Writes Code: Hype, Reality, and the Future of Developers*

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Liquid AI
-- on-device AI
-- small language models
+- On-Device AI
+- Small Language Models
 keywords: [on-device AI, enterprise AI, efficient models]
 permalink: /Small But Mighty - How Liquid AI’s New Blueprint Makes On-Device AI Work for Real Business/
 ---

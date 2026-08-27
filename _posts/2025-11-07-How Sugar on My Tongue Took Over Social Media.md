@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Sugar on My Tongue TikTok trend
-- Viral social media challenges 2025
-- TikTok short-form content analysis
+- Sugar on My Tongue TikTok Trend
 keywords: [TikTok short-form content analysis,Viral social media challenges 2025,Sugar on My Tongue TikTok trend]
 permalink: /How “Sugar on My Tongue” Took Over Social Media/
 ---

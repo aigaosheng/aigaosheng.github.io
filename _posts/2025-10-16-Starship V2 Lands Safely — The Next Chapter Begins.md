@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Starship
 - SpaceX
-- splashdown
 keywords: [Starship, SpaceX, rocket splashdown]
 ---
 **🚀 Starship V2 Lands Safely — The Next Chapter Begins**

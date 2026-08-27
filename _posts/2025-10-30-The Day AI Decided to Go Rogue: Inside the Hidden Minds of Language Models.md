@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI interpretability
-- black box AI
-- mechanistic interpretability
+- Mechanistic Interpretability
 keywords: [AI safety, explainable AI, large language models]
 permalink: /The Day AI Decided to Go Rogue - Inside the Hidden Minds of Language Models/
 ---

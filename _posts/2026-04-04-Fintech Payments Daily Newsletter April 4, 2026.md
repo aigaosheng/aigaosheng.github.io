@@ -9,7 +9,6 @@ categories: []
 tags:
 - Stablecoin Payments
 - Fintech Infrastructure
-- Digital Payment Innovation
 keywords: [Stablecoin Payments,Fintech Infrastructure,gital Payment Innovation]
 permalink: /Fintech Payments Daily Newsletter April 4, 2026/
 ---

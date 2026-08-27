@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance conflict
-- National security risk
-- Methodology safeguards
+- AI Governance Conflict
 keywords: [Anthropic ban, Claude AI regulation, AI safety research]
 permalink: /Anthropic Weekly Insight Analysis - Feb 28, 2026/
 ---

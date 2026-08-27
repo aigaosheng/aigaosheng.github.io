@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - Payments
-- FinTech
+- Fintech
 - Digital Payments
 keywords: [Payments, FinTech, Digital Payments]
 permalink: /Payment-Brief-2026-07-07/

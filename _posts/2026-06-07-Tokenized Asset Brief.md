@@ -10,7 +10,6 @@ tags:
 - Tokenization
 - RWA
 - DigitalAssets
-- BlockchainFinance
 keywords: [tokenized assets, RWA, digital securities, blockchain finance, asset tokenization]
 permalink: /Tokenized-Asset-Brief-2026-06-07/
 ---

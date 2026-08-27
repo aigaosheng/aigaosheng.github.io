@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoins
-- cross-border-payments
-- instant-payments
-- card-issuing
-- qr-payments
+- Stablecoins
+- Cross-Border Payments
+- Instant Payments
 keywords: [stablecoins, cross-border-payments, instant-payments, card-issuing, qr-payments]
 permalink: /payment-brief-2026-06-04/
 ---

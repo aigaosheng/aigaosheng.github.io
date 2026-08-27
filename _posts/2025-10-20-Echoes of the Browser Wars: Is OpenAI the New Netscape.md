@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - OpenAI
-- AI Ecosystem
-- Browser Wars
 keywords: [OpenAI, Netscape, AI Platform]
 permalink: /Echoes of the Browser Wars - Is OpenAI the New Netscape/ 
 ---

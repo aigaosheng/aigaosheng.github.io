@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- MCP adoption
-- AI security
-- enterprise AI
+- AI Security
+- Enterprise AI
 keywords: [AI security, Model Context Protocol, enterprise AI governance]
 permalink: /Enterprise MCP Adoption Is Racing Ahead of Security Controls — A Growing Risk in AI Integration/
 ---

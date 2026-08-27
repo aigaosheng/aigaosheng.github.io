@@ -10,8 +10,6 @@ tags:
 - China AI
 - AI Plus
 - Regulation
-- NDRC
-- IDC
 keywords: [China AI, AI Plus, NDRC, IDC, enterprise AI]
 permalink: /China-AI-Brief-2026-05-23/
 ---

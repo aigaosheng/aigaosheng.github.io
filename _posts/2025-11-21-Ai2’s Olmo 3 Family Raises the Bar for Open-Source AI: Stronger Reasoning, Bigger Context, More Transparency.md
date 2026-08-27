@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Olmo 3
-- open-source AI
-- reasoning models
+- Open Source AI
+- Reasoning Models
 keywords: [open-source, large language model, AI transparency]
 permalink: /Ai2’s Olmo 3 Family Raises the Bar for Open-Source AI - Stronger Reasoning, Bigger Context, More Transparency/
 ---

@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- telecom breach
-- nation-state hack
 - Ribbon Communications
 keywords: [cybersecurity, telecom, nation-state]
 permalink: /Nation-State Hackers Infiltrate Telecom Backbone, Remain Undetected for Months/

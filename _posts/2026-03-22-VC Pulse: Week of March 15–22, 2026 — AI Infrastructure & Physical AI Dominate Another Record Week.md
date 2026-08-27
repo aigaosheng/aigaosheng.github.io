@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Physical AI & Industrial Robotics
-- AI Infrastructure Stack
-- Enterprise Workflow Automation
 keywords: [AI funding 2026, venture capital AI, robotics investment, LegalTech unicorn, AI infrastructure startups, Lightspeed a16z Accel deals, world models JEPA, startup funding rounds March 2026]
 permalink: /VC Pulse- Week of March 15–22, 2026 — AI Infrastructure & Physical AI Dominate Another Record Week/
 ---

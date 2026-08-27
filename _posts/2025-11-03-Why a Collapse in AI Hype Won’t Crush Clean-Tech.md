@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- clean-tech investing
-- AI bust risk
-- sustainable energy equities
+- Sustainable Energy Equities
 keywords: [clean-tech, AI, interest-rates]
 permalink: /Why a Collapse in AI Hype Won’t Crush Clean-Tech/
 ---

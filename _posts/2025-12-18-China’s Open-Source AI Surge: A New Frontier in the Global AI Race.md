@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Chinese open-source AI
-- AI competition
-- Stanford AI report
+- Chinese Open-Source AI
+- AI Competition
 keywords: [open-source, AI models, China vs US]
 permalink: /China’s Open-Source AI Surge - A New Frontier in the Global AI Race/
 ---

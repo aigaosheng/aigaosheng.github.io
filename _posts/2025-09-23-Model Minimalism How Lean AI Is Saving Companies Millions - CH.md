@@ -7,9 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- AI strategy
+- AI Strategy
 - Model Minimalism
-- Fine-tuning smaller models
+- Fine-Tuning Smaller Models
+
 ---
 ---
 # 模型极简主义：企业节省数百万的新AI策略 💡💰

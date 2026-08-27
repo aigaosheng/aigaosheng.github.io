@@ -12,7 +12,6 @@ tags:
 - Medical AI
 - LLM
 - Automation
-- Science
 keywords: [AI Research, Automation, Economic Growth, LLM, Agents, Medical AI]
 permalink: /AI-Research-Brief-2026-05-27/
 ---

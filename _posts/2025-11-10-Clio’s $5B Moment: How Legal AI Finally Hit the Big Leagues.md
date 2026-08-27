@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- legaltech
-- AI automation
-- venture funding
+- AI Automation
+- Venture Funding
 keywords: [Clio, legal AI, funding]
 permalink: /Clio’s $5B Moment - How Legal AI Finally Hit the Big Leagues/
 ---

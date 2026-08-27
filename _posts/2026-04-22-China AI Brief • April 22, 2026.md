@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- China AI policy
-- industrial AI adoption
-- AI governance framework
+- China AI Policy
+- AI Governance Framework
 keywords: [China AI policy, industrial AI adoption, AI governance framework]
 permalink: /China AI Brief • April 22, 2026/
 ---

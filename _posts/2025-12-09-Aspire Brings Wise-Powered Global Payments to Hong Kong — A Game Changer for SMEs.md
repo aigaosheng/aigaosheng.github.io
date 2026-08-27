@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Aspire
-- Wise Platform
-- cross-border payments
+- Cross-Border Payments
 keywords: [Aspire, international payments, Hong Kong fintech]
 permalink: /Aspire Brings Wise-Powered Global Payments to Hong Kong — A Game Changer for SMEs/
 ---

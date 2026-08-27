@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- inflation
-- yields
-- positioning  
+- Inflation
 keywords: [U.S. market weekly outlook, Federal Reserve policy 2026, S&P 500 sector performance ]
 permalink: /Soft‑Landing Hopes vs Sticky Inflation- U.S. Markets Navigate Higher Yields, Defensive Rotation, and Asymmetric Positioning Risks/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- cloud concentration risk
-- financial services regulation
-- vendor lock-in
+- Financial Services Regulation
 keywords: [cloud, banking, resilience]
 permalink: /No Cloud 8 Ball - APRA Warns Banks of Concentration Risk as They Flock to U.S. Cloud Providers/
 ---

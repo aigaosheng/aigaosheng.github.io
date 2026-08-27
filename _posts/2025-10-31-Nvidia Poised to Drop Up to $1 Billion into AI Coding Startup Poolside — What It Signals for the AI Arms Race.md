@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Nvidia
-- Poolside
-- AI startup
+- AI Startup]
 keywords: [AI investment, coding assistant, Nvidia ecosystem]
 permalink: /Nvidia Poised to Drop Up to $1 Billion into AI Coding Startup Poolside — What It Signals for the AI Arms Race/
 ---

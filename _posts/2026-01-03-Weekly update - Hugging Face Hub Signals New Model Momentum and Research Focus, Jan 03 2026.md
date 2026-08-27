@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Hugging Face models
-- LFM2‑2.6B‑Exp
+- Hugging Face Models
 - GGUF
-- AI research papers
-- model deployment
+- Model Deployment
 keywords: [innovation, scalability, efficiency, enterprise, deployment]
 permalink: /Weekly update - Hugging Face Hub Signals New Model Momentum and Research Focus, Jan 03 2026/
 ---

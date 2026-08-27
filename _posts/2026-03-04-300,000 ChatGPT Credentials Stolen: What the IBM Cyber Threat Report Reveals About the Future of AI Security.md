@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI cybersecurity breach
-- ChatGPT credential theft
-- IBM X-Force threat report
+- IBM X-Force Threat Report
 keywords: [AI security, credential theft, cyberattack]
 permalink: /300,000 ChatGPT Credentials Stolen- What the IBM Cyber Threat Report Reveals About the Future of AI Security/
 ---

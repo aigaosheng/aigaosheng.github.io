@@ -9,7 +9,7 @@ categories: []
 tags:
 - Agentic
 - Automation
-- Cross-border
+- Cross-Border
 keywords: [agentic payments, fintech automation, digital wallets]
 permalink: /Fintech Weekly Brief- AI Agents, Travel Payments & Cross-Border Wallets 7 March 2026/
 ---

@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- LLM inference optimization
-- Agentic reinforcement learning
-- Multi-agent reasoning systems
-- Mechanistic interpretability
-- Retrieval-augmented generation
+- Agentic Reinforcement Learning
+- Mechanistic Interpretability
+- Retrieval-Augmented Generation
 keywords: [Token efficiency, GPU energy law, Sparse reward shaping, Neuron-level behavioral control, Write-time memory gating]
 permalink: /Weekly AI ML Research Intelligence Report, 21 March 2026/
 ---

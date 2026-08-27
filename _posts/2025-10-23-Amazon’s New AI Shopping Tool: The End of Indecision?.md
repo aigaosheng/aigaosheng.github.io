@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI shopping
-- Amazon
-- product recommendation
+- AI Shopping
 keywords: [AI shopping, personalized recommendation, Amazon tool]
 permalink: /Amazon’s New AI Shopping Tool - The End of Indecision/
 ---

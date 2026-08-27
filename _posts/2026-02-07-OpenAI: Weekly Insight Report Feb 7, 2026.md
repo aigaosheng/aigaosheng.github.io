@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI development
-- Model lifecycle management
-- Strategic talent and preparedness
+- Strategic Talent and Preparedness
 keywords: [OpenAI frontier, GPT-5-3-Codex, AI industry impact]
 permalink: /OpenAI- Weekly Insight Report Feb 7, 2026/
 ---

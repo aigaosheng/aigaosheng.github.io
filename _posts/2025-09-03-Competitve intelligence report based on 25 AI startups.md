@@ -8,7 +8,8 @@ status: publish
 categories: []
 tags:
 - AI
-- Startup
+- Startups
+
 ---
 
 # Competitive Intelligence Report

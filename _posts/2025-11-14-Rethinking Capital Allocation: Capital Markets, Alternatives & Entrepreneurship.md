@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Capital Allocation
-- Alternative Investments
 - Digital Assets
 keywords: [Global Investment Trends 2025, Tokenisation & Digital Asset Infrastructure,Private Markets Growth]
 permalink: /Rethinking Capital Allocation - Capital Markets, Alternatives & Entrepreneurship/

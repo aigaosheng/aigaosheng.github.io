@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - AgenticAI
-- AIAgents
-- GoogleIO
 - EnterpriseAI
 - AIGovernance
 keywords: [Agentic AI, AI agents, autonomous systems, enterprise AI, Google I/O 2026]

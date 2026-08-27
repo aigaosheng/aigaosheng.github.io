@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- airfare
-- travel hacks
 - Google Flights
 keywords: [cheap flights, airfare tips, book flights]
 permalink: /The Real Secret to Cheap Flights - Data Beats the Old Myths/

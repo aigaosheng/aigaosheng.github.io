@@ -8,7 +8,8 @@ status: publish
 categories: []
 tags:
 - AI
-- Google play store
+- Google Play Store
+
 ---
 ---
 

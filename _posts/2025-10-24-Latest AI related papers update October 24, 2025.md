@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- State-space models
-- Long-context modeling
-- Transformer alternative
-- Efficient sequence learning
-- Attention-free architecture
+- Efficient Sequence Learning
 keywords: [scalable AI models, transformer replacement,long-context LLM, efficient RNN architecture,next-generation deep learning]
 permalink: /Latest AI related papers update October 24, 2025/
 ---

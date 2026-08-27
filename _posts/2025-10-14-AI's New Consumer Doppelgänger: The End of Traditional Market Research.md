@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-driven market research
-- Synthetic consumer behavior
-- Semantic Similarity Rating
+- Synthetic Consumer Behavior
 keywords: [AI market research, Synthetic consumer data, Semantic Similarity Rating]
 ---
 ---

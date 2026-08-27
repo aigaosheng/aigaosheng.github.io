@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- opensource
 - LLM
 - AI
 - GLM-5.2
-- JetBrains
 tags:
 keywords: [opensource LLM, GLM-5.2, JetBrains Mellum, AI bias, EU AI]
 permalink: /Opensource-LLM-Brief-2026-06-23/

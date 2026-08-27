@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI adoption
-- Autonomous IT operations
-- AI workflow integration
+- Enterprise AI Adoption
+- AI Workflow Integration
 keywords: [Enterprise AI adoption, Autonomous IT operations, AI workflow integration]
 permalink: /Enterprise AI Daily Newsletter April 12, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI decision‑making
-- chatbot life advice
-- digital gut check
+- Chatbot Life Advice
 keywords: [AI, chatbot, decision‑making]
 permalink: /When ChatGPT Becomes Your Life Coach - The New Era of AI Gut‑Checks/
 ---

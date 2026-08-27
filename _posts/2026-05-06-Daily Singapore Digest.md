@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore news
-- AI governance Singapore
-- MAS cyber security
-- trade agreements Singapore
-- COE prices 2026
+- Trade Agreements Singapore
 keywords: [Singapore news, AI governance Singapore, MAS cyber security, trade agreements Singapore, COE prices 2026]
 permalink: /Daily Singapore Digest — 6 May 2026/
 ---

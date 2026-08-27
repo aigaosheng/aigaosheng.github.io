@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - ArtificialIntelligence
-- CreditRisk 
-- BankingInnovation
 keywords: [AI disruption, lending risk, banking AI]
 permalink: /When AI Disrupts the Borrower- Why Banks Are Rethinking Lending Risk/
 ---

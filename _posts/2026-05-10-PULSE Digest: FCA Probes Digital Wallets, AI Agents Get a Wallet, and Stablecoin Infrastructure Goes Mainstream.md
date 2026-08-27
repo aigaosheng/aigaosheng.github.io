@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin
-- agentic
-- onchain
+- Stablecoins
+- Agentic
 keywords: [stablecoin, AI-agents, digital-wallets]
 permalink: /PULSE Digest- FCA Probes Digital Wallets, AI Agents Get a Wallet, and Stablecoin Infrastructure Goes Mainstream/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Unitree R1
-- affordable humanoid robot
-- robotics research
+- Affordable Humanoid Robot
 keywords: ["humanoid robot","affordable robotics","Unitree R1"]
 ---
 ---

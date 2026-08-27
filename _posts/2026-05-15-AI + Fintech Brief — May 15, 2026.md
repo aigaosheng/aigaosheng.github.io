@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI banking
-- fintech AI agents
-- generative AI financial services
+- Agentic AI Banking
 keywords: [agentic AI banking, fintech AI agents, generative AI financial services]
 permalink: /AI + Fintech Brief — May 15, 2026/
 ---

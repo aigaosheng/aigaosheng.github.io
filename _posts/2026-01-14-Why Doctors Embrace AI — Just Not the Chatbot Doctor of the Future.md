@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- healthcare AI
-- AI chatbots
-- medical responsibility
+- Healthcare AI
+- AI Chatbots
 keywords: [healthcare AI, medical AI tools, AI in medicine]
 permalink: /Why Doctors Embrace AI — Just Not the Chatbot Doctor of the Future/
 ---

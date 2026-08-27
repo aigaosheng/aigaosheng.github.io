@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI IPO fund
-- Asian innovation ecosystem
-- DBS Granite Asia partnership
+- DBS Granite Asia Partnership
 keywords: [AI funding, Asian tech IPOs, startup capital]
 permalink: /Asia’s AI Boom Gets a New Engine- DBS & Granite Asia Launch $110M AI IPO Fund/
 ---

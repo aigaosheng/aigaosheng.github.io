@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- SBS Transit
-- AI transport platform
-- Univers
+- AI Transport Platform
 keywords: [AI, public transport, sustainability]
 permalink: /SBS Transit Teams Up with Univers to Build AI Platform Aimed at Smarter, Greener Mobility/
 ---

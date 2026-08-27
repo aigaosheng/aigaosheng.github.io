@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Personal Intelligence expansion
-- AI search controls / opt‑out
-- AI experiments in Search
+- AI Search Controls / Opt‑out
 keywords: [Gemini, search ai, personalized ai]
 permalink: /Weekly Update- Google (21 Mar 2026)/
 ---

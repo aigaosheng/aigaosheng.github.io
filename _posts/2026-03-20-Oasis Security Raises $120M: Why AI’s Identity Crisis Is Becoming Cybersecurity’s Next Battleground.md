@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI cybersecurity
-- non-human identity
-- agentic access management
+- AI Cybersecurity
 keywords: [AI security, identity management, cybersecurity startup]
 permalink: /Oasis Security Raises $120M- Why AI’s Identity Crisis Is Becoming Cybersecurity’s Next Battleground/
 ---

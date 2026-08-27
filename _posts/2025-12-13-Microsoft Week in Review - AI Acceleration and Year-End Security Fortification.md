@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- GPT-5.2
-- Patch Tuesday
+- GPT‑5.2
 - Microsoft 365 Copilot
 keywords: [AI, security updates, Copilot]
 permalink: /Microsoft Week in Review - AI Acceleration and Year-End Security Fortification/

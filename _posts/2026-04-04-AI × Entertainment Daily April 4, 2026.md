@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- gerative AI entertainment
-- AI video production
-- AI film industry
+- Gerative AI Entertainment
 keywords: [generative AI entertainment, AI video production, AI film industry]
 permalink: /AI × Entertainment Daily April 4, 2026/
 ---

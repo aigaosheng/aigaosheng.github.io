@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- national-security
-- openai
-- ai-policy
-- export-controls
-- government
+- National Security
+- OpenAI
+- AI Policy
+- Export Controls
+- Government
 keywords: [national-security, openai, ai-policy, export-controls, government]
 permalink: /us-ai-update-brief-2026-06-06/
 ---

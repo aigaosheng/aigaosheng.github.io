@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key trade secrets,
-- corporate cybersecurity,
-- tech espionage
+- Key Trade Secrets,
 keywords: [Google, trade secrets, Silicon Valley]
 permalink: /Inside Silicon Valley’s Shadow- Engineers Charged in Google Trade-Secrets Case/
 ---

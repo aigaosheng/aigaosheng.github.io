@@ -8,10 +8,6 @@ status: publish
 categories: []
 tags:
 - Gemini
-- Google Finance
-- Pixel Drop
-- Private AI Compute
-- Developer Extensions
 keywords: [Google AI finance,Pixel remix AI,Gemini CLI extensions]
 permalink: /Google Weekly Update Report November 15 2025/
 ---

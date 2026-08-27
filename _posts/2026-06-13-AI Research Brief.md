@@ -10,7 +10,6 @@ tags:
 - AI Research
 - Google DeepMind
 - OpenAI
-- Stanford
 - AI Safety
 - LLM Evaluation
 keywords: [AI research, model interpretability, AI safety, LLM benchmarking, AI governance]

@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- singapore
-- aviation
-- transport
-- crime
-- technology
+- Singapore
+- Aviation
+- Transport
+- Crime
+- Technology
 keywords: [singapore, aviation, transport, crime, technology]
 permalink: /singapore-local-update-brief-2026-06-04/
 ---

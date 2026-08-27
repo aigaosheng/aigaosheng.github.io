@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoins
-- cross-border-payments
-- real-time-payments
-- agentic-commerce
-- upi
+- Stablecoins
+- Cross-Border Payments
+- Real-Time-Payments
+- Agentic Commerce
+- Upi
 keywords: [stablecoins, cross-border-payments, real-time-payments, agentic-commerce, upi]
 permalink: /payment-brief-2026-06-06/
 ---

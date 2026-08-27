@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- analog clock reading
-- AI model generalisation
-- multimodal large language model
+- Multimodal Large Language Model
 keywords: [AI limitations, clock reading AI, multimodal AI]
 permalink: /AI’s Time‑Sense Fault - Why Large Language Models Still Can’t Read an Analog Clock/
 ---

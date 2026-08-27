@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- generative AI
-- search innovation
-- platform expansion
+- Generative AI
 keywords: [Gemini, Translate, Workspace]
 permalink: /Google Weekly Insight - AI & Search Advancements Driving Next‑Gen Platforms (Dec 06–12, 2025)/
 ---

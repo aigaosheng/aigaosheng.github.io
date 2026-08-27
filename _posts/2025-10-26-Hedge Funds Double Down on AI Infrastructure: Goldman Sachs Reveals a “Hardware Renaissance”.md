@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- hedge funds
-- AI hardware
-- semiconductor stocks
+- AI Hardware
 keywords: [artificial intelligence, investment, technology]
 permalink: /Hedge Funds Double Down on AI Infrastructure - Goldman Sachs Reveals a “Hardware Renaissance”/
 ---

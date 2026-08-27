@@ -7,8 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic wallet
-- coinbase
+- Coinbase
 keywords: [coinbase, agentic wallet]
 permalink: /Coinbase Agentic Wallets/
 ---

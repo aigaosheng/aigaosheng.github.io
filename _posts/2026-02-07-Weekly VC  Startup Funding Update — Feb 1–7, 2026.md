@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI funding
-- voice AI
-- enterprise adoption
+- AI Funding
+- Voice AI
+- Enterprise Adoption
 keywords: [venture capital, startup funding, AI investment]
 permalink: /Weekly VC and Startup Funding Update — Feb 1–7, 2026/
 ---

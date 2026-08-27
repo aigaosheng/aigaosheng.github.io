@@ -9,7 +9,7 @@ categories: [Singapore]
 tags:
 - Singapore
 - Economy
-- Industry
+- Industries
 keywords: [Singapore, economy, manufacturing]
 permalink: /Singapore-News-by-Sectors-Brief-2026-07-14/
 ---

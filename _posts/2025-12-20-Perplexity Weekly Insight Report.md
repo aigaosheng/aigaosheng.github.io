@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Mobile research tooling
-- AI search optimization
-- Professional workflows
+- Mobile Research Tooling
 keywords: [Perplexity iPad app, AI research tools, Perplexity update]
 permalink: /Perplexity Weekly Insight Report/
 ---

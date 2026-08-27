@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- SpectroGen AI tool
-- Material quality control
-- Generative AI in materials science
+- Generative AI in Materials Science
 keywords: [AI tool for material analysis, Spectral data generation, MIT SpectroGen innovation]
 ---
 ---

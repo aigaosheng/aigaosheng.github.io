@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- deepfakes
-- content-moderation
-- data-centers
-- education
-- public-opinion
+- Deepfakes
+- Content Moderation
+- Data Centers
+- Education
+- Public-Opinion
 keywords: [deepfakes, content-moderation, data-centers, education, public-opinion]
 permalink: /ai-impact-on-social-media-society-brief-2026-06-05/
 ---

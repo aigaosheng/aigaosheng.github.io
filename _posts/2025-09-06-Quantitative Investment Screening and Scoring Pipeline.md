@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Sector analysis for investors
-- Stock screening with Python
-- Quantitative investment research
+- Sector Analysis for Investors
+
 ---
 
 # A Quantitative Framework for Identifying High-Potential Sectors and Companies

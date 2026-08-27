@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
+- AI Infrastructure
 - Semiconductors
-- Data-driven rotation
+
 ---
 ---
 # Daily US Market Report — (only **last 24 hours**)

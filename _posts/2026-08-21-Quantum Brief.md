@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- quantum
-- quantum-computing
-- quantum-technology
+- Quantum
+- Quantum Computing
+- Quantum Technology
 keywords: [quantum, quantum-computing, quantum-technology]
 permalink: /Quantum-Brief-2026-08-21/
 

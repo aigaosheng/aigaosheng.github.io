@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- fintech trends 
-- AI in finance
-- stablecoin adoption
+- AI in Finance
+- Stablecoin Adoption
 keywords: [AI innovation, digital banking, regulatory shift]
 permalink: /Fintech Frontier Weekly — December 27, 2025/
 ---

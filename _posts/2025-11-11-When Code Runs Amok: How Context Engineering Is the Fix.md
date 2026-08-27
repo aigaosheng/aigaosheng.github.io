@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- context engineering
-- developer agent
-- code review AI
+- Context Engineering
 keywords: [AI code review, context-aware AI, developer productivity]
 permalink: /When Code Runs Amok - How Context Engineering Is the Fix/
 ---

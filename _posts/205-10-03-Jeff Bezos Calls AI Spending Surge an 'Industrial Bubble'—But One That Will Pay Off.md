@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - AI Investment
-- Tech Bubbles
-- Jeff Bezos Insights
+- Tech Bubble
 permalink: /Jeff Bezos Calls AI Spending Surge an 'Industrial Bubble'—But One That Will Pay Off/
 ---
 ---

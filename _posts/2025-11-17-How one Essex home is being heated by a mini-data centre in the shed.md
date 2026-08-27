@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- home heating
-- data centre
-- waste heat recovery
+- Data Centres
 keywords: [waste heat, data centre heating,residential energy efficiency]
 permalink: /How one Essex home is being heated by a mini-data centre in the shed/
 ---

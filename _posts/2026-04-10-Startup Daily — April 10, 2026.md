@@ -8,10 +8,9 @@ status: publish
 categories: []
 tags:
 - Startups
-- Venture Capital 
-- AI 
-- Fintech 
-- RISCv 
+- Venture Capital
+- AI
+- Fintech
 - Embedded Finance
 keywords: [Embedded Finance,RISCv,Fintech,AI,Venture Capital,Startups ]
 permalink: /Startup Daily — April 10, 2026/

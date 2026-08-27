@@ -11,7 +11,7 @@ tags:
 - Economy
 - Semiconductors
 - Trade
-- Investments
+- Investment
 keywords: [Singapore economy, semiconductor exports, STI, trade agreements, synthetic biology]
 permalink: /Singapore-Plus-Brief-2026-06-14/
 ---

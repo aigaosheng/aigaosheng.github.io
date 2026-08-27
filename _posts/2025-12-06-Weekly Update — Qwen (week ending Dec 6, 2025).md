@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Qwen App growth
-- Qwen3-Omni / multimodal
 - Qwen3‑Max
 keywords: [Qwen, Alibaba AI, multimodal model]
 permalink: /Weekly Update — Qwen (week ending Dec 6, 2025)/

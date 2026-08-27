@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- 2025 investment strategies  
-- global diversification  
-- energy transition  
+- 2025 Investment Strategies
 keywords: [investment themes, diversification, energy transition]
 ---
  

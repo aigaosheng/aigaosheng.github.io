@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- Hugging Face 
-- Model governance
-- Open-source AI
-- Inference optimization 
-- Security scanning
+- Hugging Face
+- Open Source AI
+- Inference Optimization
+
 ---
 ---
 

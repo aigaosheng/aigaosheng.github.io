@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- corporate treasury AI adoption
-- AI implementation challenges
-- financial forecasting technology
+- Corporate Treasury AI Adoption
 keywords: [AI adoption, corporate treasury, financial technology]
 permalink: /namBreaking the Ice- Why Global Corporate Treasuries Are Lagging in AI Adoptione/
 ---

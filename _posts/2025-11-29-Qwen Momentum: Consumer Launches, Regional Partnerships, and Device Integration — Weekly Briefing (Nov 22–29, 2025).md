@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Qwen AI
-- Quark AI Glasses
-- Qwen-SEA-LION
 keywords: [Qwen, Alibaba AI, Qwen app]
 permalink: /Qwen Momentum - Consumer Launches, Regional Partnerships, and Device Integration — Weekly Briefing (Nov 22–29, 2025)/
 ---

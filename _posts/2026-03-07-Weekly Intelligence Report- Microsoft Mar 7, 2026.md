@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI copilots
-- hybrid gaming platforms
-- AI healthcare automation
+- AI Healthcare Automation
 keywords: [Microsoft AI, Copilot ecosystem, enterprise generative AI]
 permalink: /Weekly Intelligence Report- Microsoft Mar 7, 2026/
 ---

@@ -9,10 +9,8 @@ categories: []
 tags:
 - AI
 - China
-- AI+
-- chips
-- standards
-- regulation
+- Chips
+- Regulation
 keywords: [China AI, AI chips, Huawei, Nvidia, AI standards, AI agents, industrial AI, AI+ ICT, AI ethics]
 permalink: /China-AI+-Brief-2026-06-29/
 ---

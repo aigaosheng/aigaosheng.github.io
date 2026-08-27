@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - GPT‑5.2
-- Strategic AI Partnership
 - Enterprise AI Adoption
 keywords: [OpenAI, GPT‑5.2, AI innovation]
 permalink: /OpenAI Weekly Industry Insight — GPT‑5.2 Launch & Strategic Media Partnership (Dec 8–14, 2025)/

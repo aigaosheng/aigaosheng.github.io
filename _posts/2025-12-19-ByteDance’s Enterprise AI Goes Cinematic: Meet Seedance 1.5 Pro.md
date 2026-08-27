@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Seedance 1.5 Pro
-- AI video generation
-- byteplus
+- AI Video Generation
 keywords: [AI video, audio-visual synchronization, multimedia AI models]
 permalink: /ByteDance’s Enterprise AI Goes Cinematic - Meet Seedance 1.5 Pro/
 ---

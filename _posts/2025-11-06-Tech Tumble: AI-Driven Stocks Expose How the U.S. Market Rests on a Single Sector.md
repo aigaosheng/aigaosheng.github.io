@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- tech concentration
-- AI stocks
-- U.S. market dependence
+- AI Stocks
 keywords: [technology sector, AI stock wobble, S&P 500 dependency]
 permalink: /Tech Tumble - AI-Driven Stocks Expose How the U.S. Market Rests on a Single Sector/
 ---

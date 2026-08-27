@@ -7,7 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Trade War
 - Tariffs
 - Market Volatility
 keywords: ["US China Trade War","Why is the stock market down","Stock Market Sell-Off","Trump Tariffs Impact","Tech Stocks Drop"]

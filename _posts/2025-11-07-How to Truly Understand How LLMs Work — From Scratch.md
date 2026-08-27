@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - LLM Training
-- Fine-Tuning Models
-- Hands-on AI Learning
 keywords: [Train your own ChatGPT, Build LLM from scratch,Hugging Face fine-tuning tutorial]
 permalink: /How to Truly Understand How LLMs Work — From Scratch/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Claude Sonnet 4.5
-- GPT-5-Codex
-- AI coding assistants
+- AI Coding Assistants
 keywords: [AI coding assistants, Claude Sonnet 4.5, GPT-5-Codex]
 ---
 **Claude Sonnet 4.5 vs. GPT-5-Codex: A Deep Dive into the Future of AI Coding Assistants**

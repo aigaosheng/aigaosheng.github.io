@@ -9,9 +9,10 @@ categories: []
 tags:
 - Hugging Face
 - Multimodal Models
-- Open-Source AI,
+- Open Source AI
 - Energy Efficiency
 - Chinese AI Systems
+
 ---
 ---
 [![Hugging Face claims its new AI models are the smallest of their kind | TechCrunch](https://images.openai.com/thumbnails/url/udiEKHicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw708zPxCIhKLg0wsMhMtnApdAqNKCgtyUuPKgkzDnKsCi-M94zyD3cOjdKNCg8vTC41iyiL9DZMcvQvT1crBgAWfSn3)](https://techcrunch.com/2025/01/23/hugging-face-claims-its-new-ai-models-are-the-smallest-of-their-kind/)

@@ -11,9 +11,6 @@ tags:
 - AI Chips
 - ByteDance
 - Zhipu AI
-- Huawei Cloud
-- Marine AI
-- Domestic Substitution
 keywords: [China AI, ByteDance, Iluvatar CoreX, Zhipu AI, AI chips, domestic substitution, Huawei Cloud, Marine AI]
 permalink: /China-AI-Brief-2026-06-16/
 ---

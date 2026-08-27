@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI toys
-- China tech market
-- smart play innovation
+- Smart Play Innovation
 permalink: /China AI Toy Market Set to Skyrocket to $12 Billion by 2030—A New Frontier for Play and Tech/
 ---
 **China’s AI Toy Market Set to Skyrocket to $12 Billion by 2030—A New Frontier for Play and Tech**

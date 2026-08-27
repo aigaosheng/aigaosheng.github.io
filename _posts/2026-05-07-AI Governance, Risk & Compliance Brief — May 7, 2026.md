@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
+- AI Governance
 - EU AI Act
-- AI compliance
-- AI risk management
-- enterprise AI governance
+- AI Compliance
+- AI Risk Management
+- Enterprise AI Governance
 keywords: [AI governance, EU AI Act, AI compliance, AI risk management, enterprise AI governance]
 permalink: /AI Governance, Risk & Compliance Brief — May 7, 2026/
 ---

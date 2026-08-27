@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Coupang data breach
-- South Korea e-commerce
-- customer privacy
+- South Korea E-Commerce
 keywords: [data breach, e-commerce security, personal data protection]
 permalink: /Coupang’s Massive Data Breach Exposes Nearly All Korean Customers/
 ---

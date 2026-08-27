@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Baidu GPU cloud market
-- Huawei AI chips
-- China AI infrastructure
+- Huawei AI Chips
+- China AI Infrastructure
 keywords: [cloud computing, AI chips, GPU market]
 permalink: /Inside China’s AI Power Play- How Baidu and Huawei Are Winning the GPU Cloud Race/
 ---

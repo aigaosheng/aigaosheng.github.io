@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI in the workplace**
-- Task automation and augmentation
-- Economic impact of AI
+- Task Automation and Augmentation
+
 ---
 ---
 

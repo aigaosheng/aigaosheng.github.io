@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Zhipu AI IPO
-- Hong Kong stock market
-- generative AI funding
+- Hong Kong Stock Market
 keywords: [AI IPO, Hong Kong tech, Chinese AI startup]
 permalink: /China’s Zhipu AI Nears Hong Kong IPO — A $300M Bet on Global AI Ambitions/
 ---

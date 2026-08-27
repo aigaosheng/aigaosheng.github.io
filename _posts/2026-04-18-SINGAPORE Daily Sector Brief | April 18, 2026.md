@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore export growth
-- AI electronics demand
-- Singapore monetary policy
+- Singapore Monetary Policy
 keywords: [Singapore export growth, AI electronics demand, Singapore monetary policy]
 permalink: /SINGAPORE Daily Sector Brief | April 18, 2026/
 ---

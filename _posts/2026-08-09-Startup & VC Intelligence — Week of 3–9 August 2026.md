@@ -9,7 +9,6 @@ categories: []
 tags:
 - AI Infrastructure
 - AI Agents
-- Critical Minerals
 keywords: [AI startups, venture capital, startup funding]
 permalink: /Startup & VC Intelligence — Week of 3–9 August 2026/
 ---

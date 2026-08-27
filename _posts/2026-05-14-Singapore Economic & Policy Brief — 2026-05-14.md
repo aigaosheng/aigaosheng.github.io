@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore AI strategy
-- Singapore manufacturing PMI
-- MAS board appointment
+- Singapore AI Strategy
 keywords: [Singapore AI strategy, Singapore manufacturing PMI, MAS board appointment]
 permalink: /Singapore Economic & Policy Brief — 2026-05-14/
 ---

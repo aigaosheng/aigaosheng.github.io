@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Japan AI strategy
-- trustworthy AI
-- national technology policy
+- National Technology Policy
 keywords: [“AI policy”, “Japan tech growth”, “AI safety”]
 permalink: /Japan’s AI Turnaround - New National Plan Sets Sights on Growth and Safety/
 ---

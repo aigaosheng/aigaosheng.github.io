@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- A2UI
-- agent-driven UI
-- generative interfaces
+- Generative Interfaces
 keywords: [AI agents, UI protocol, generative user interface]
 permalink: /How Google’s A2UI Is Redefining the Way AI Agents Speak to Users — Beyond Text to Rich UI Experiences/
 ---

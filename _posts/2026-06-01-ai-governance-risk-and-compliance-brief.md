@@ -7,12 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-policy
-- ai-governance
-- compliance
-- risk-management
-- india
-- cloud-sovereignty
+- AI Policy
+- AI Governance
+- Compliance
+- Risk Management
 keywords: [ai-policy, ai-governance, compliance, risk-management, india, cloud-sovereignty]
 permalink: /ai-governance-risk-and-compliance-brief-2026-06-01/
 ---

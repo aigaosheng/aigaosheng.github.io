@@ -10,7 +10,6 @@ tags:
 - US AI
 - AI Policy
 - Trump
-- Newsom
 - AI Stocks
 keywords: [US AI, AI Policy, AI Regulation, Market Analysis]
 permalink: /US-AI-Brief-2026-05-23/

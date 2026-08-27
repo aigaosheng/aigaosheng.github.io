@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- gold investing
-- U.S. debt risk
-- Ray Dalio
+- U.S. Debt Risk
 keywords: [gold, debt, Dalio]
 ---
 **Why Ray Dalio Tells Investors to Love Gold Right Now (and What It Says About America’s Risk)**

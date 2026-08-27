@@ -9,9 +9,10 @@ categories: []
 tags:
 - AI Infrastructure
 - Venture Funding
-- Unicorns
-- Fintech 
+- Unicorn
+- Fintech
 - Accelerators
+
 ---
 ---
 **VC & Accelerator — Septemper 29, 2025**

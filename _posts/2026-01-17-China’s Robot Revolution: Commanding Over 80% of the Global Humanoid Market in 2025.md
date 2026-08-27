@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- humanoid robots
-- robotics market China
-- industrial automation
+- Humanoid Robots
+- Industrial Automation
 keywords: [China robotics, humanoid robot market, industrial AI]
 permalink: /China’s Robot Revolution - Commanding Over 80% of the Global Humanoid Market in 2025/
 ---

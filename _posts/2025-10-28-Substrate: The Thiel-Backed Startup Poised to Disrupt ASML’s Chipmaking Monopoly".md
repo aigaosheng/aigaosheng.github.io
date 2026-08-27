@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Substrate
-- chipmaking
-- ASML
+- Chipmaking
 keywords: [semiconductor, lithography, particle accelerator]
 permalink: /Substrate - The Thiel-Backed Startup Poised to Disrupt ASML’s Chipmaking Monopoly"/
 ---

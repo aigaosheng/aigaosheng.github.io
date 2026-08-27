@@ -9,7 +9,6 @@ categories: []
 tags:
 - Gemini 3 Flash
 - AI Mode in Search
-- AI‑driven user experience
 keywords: [Gemini AI, Google Search update, AI features]
 permalink: /Google AI & Search Evolution - Gemini 3 Flash Global Rollout and December Gemini App Enhancements/
 ---

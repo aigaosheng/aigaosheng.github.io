@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- AI security
-- agentic AI
-- AI risk
+- AI Security
+- Agentic AI
+- AI Risk
 keywords: [AI security, agentic AI, AI risk]
 permalink: /AI-Security-and-Risk-Brief-2026-08-24/
 

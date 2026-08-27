@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Heidi Health
-- AI medical scribe
-- Singapore healthcare
+- AI Medical Scribe
 keywords: [AI healthcare, clinical documentation, Singapore AI]
 permalink: /Heidi’s AI Scribe Touches Down in Singapore — Lightening the Paperwork Load for Doctors/
 ---

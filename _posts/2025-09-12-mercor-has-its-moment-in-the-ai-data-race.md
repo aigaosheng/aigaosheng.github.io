@@ -8,10 +8,8 @@ status: publish
 categories: []
 tags:
 - AI
-- Data label
 - Scale AI
-- Mercor AI
-- Surge AI
+
 ---
 ---
 # Mercor's Strategic Position in the AI Data Race - A Comparative Analysis

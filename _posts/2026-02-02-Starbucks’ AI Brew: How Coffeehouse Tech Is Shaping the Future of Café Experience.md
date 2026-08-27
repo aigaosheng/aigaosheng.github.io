@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Starbucks AI automation
-- coffeehouse tech innovation
-- AI in retail operations
+- AI in Retail Operations
 keywords: [Starbucks, AI automation, customer experience]
 permalink: /Starbucks’ AI Brew- How Coffeehouse Tech Is Shaping the Future of Café Experience/
 ---

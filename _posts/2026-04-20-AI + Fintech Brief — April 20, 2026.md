@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI fintech
-- AI credit underwriting
-- autonomous finance
+- AI Fintech
+- Autonomous Finance
 keywords: [AI fintech, AI credit underwriting, autonomous finance]
 permalink: /AI + Fintech Brief — April 20, 2026/
 ---

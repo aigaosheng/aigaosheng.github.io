@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI spending
-- stock market
-- tech infrastructure
+- AI Spending
 keywords: [AI investment, data center, bull market]
 permalink: /AI’s High-Stakes Bet - Will Tech Spending Sustain the Stock Market’s Hot Streak?/
 ---

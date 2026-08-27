@@ -11,7 +11,6 @@ tags:
 - Drug Discovery
 - AI Safety
 - Talent
-- Models
 keywords: [AI, drug discovery, AI safety, talent war, model collapse, AlphaFold, Agentic AI]
 permalink: /AI-Research-Brief-2026-06-22/
 ---

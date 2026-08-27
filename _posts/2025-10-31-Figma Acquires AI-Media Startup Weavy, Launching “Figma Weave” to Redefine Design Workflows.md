@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Figma
-- Weavy
-- AI generation
+- AI Generation
 keywords: [AI design, media generation, workflow integration]
 permalink: /Figma Acquires AI-Media Startup Weavy, Launching “Figma Weave” to Redefine Design Workflows/
 ---

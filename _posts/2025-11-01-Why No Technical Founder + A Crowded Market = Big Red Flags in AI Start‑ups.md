@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- founder red flags
-- AI start‑up investment
-- venture capital AI
+- AI Start‑up Investment
 keywords: [AI, founder, investment]
 permalink: /Why No Technical Founder + A Crowded Market = Big Red Flags in AI Start‑ups/
 ---

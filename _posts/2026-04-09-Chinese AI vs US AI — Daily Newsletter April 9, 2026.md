@@ -7,7 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- AI Leadership
 - Artificial Intelligence
 - Tech Strategy
 - AI Innovation

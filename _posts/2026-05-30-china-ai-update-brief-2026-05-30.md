@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- embodied-ai
-- ai-agents
-- robotics
-- ai-chips
-- smart-glasses
-- agentic-commerce
+- Embodied AI
+- AI Agents
+- Robotics
+- AI Chips
+- Agentic Commerce
 keywords: [embodied-ai, ai-agents, robotics, ai-chips, smart-glasses, agentic-commerce]
 permalink: /china-ai-update-brief-2026-05-30/
 ---

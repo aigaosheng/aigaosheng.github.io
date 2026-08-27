@@ -9,7 +9,6 @@ categories: []
 tags:
 - AI Infrastructure
 - Fintech Growth
-- Marketplace Scalability
 keywords: [venture capital, startup funding, AI investments]
 permalink: /Weekly VC & Startup Market Update (Feb 14–20, 2026)/
 ---

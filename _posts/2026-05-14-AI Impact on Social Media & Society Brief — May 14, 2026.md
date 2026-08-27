@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI social media regulation
-- generative AI content trends
-- creator economy monetization
+- AI Social Media Regulation
 keywords: [AI social media regulation, generative AI content trends, creator economy monetization]
 permalink: /AI Impact on Social Media & Society Brief — May 14, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI agents
-- Autonomy frameworks
-- Digital ODD
+- AI Agents
 keywords: ["AI agents", "autonomy", "operational design domain"]
 ---
 ---

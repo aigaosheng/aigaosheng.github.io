@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Compute strategy
-- AI hardware ecosystem
-- Talent acquisition
+- AI Hardware Ecosystem
 keywords: [OpenAI funding, AI devices, AI industry trends]
 permalink: /OpenAI- Strategic Recalibration, Hardware & Talent Moves, and Policy Positioning (Weekly Update February 21, 2026/
 ---

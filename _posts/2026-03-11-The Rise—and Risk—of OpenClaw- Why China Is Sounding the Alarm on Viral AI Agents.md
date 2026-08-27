@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - OpenClaw AI
-- AI agent security
-- China cybersecurity warning
 keywords: [AI agents, cybersecurity risk, autonomous AI]
 permalink: /The Rise—and Risk—of OpenClaw- Why China Is Sounding the Alarm on Viral AI Agents/
 ---

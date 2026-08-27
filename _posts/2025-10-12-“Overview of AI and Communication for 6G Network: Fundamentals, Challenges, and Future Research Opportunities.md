@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- AI and 6G Integration
-- AI-Native Network Architecture
 - Intelligent Communication and Future Research
 keywords: ["6G Artificial Intelligence Network","Intelligent Communication Technology","Next-Generation Wireless Network"]
 ---

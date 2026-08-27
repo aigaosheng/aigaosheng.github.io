@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Valuation surge
-- AI engagement
-- IPO activity
+- IPO Activity
 keywords: [ByteDance, valuation, AI chatbot]
 permalink: /ByteDance Weekly Insight Report, February 28, 2026/
 ---

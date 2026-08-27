@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic-ai
-- business-ai
-- sovereign-cloud
-- enterprise-software
-- microsoft-azure
+- Agentic AI
+- Sovereign Cloud
+- Enterprise-Software
 keywords: [agentic-ai, business-ai, sovereign-cloud, enterprise-software, microsoft-azure]
 permalink: /enterprise-ai-brief-2026-06-01/
 ---

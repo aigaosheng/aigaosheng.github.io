@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key last-mile data problem
-- golden pipelines
-- enterprise AI
+- Enterprise AI
 keywords: [enterprise AI, data infrastructure, AI deployment]
 permalink: /Why Golden Pipelines Might Be the Missing Link for Enterprise AI Success/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key prompting 
-- LLM accuracy
-- prompt repetition
+- Prompt Repetition
 keywords: [prompt engineering, LLM optimization, AI accuracy]
 permalink: /Say It Twice - How a Dead‑Simple Prompt Trick Supercharges LLM Accuracy/
 ---

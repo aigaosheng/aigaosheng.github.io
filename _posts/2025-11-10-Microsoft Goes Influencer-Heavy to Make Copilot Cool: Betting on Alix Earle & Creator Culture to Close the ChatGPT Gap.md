@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Microsoft Copilot
-- influencer marketing
-- AI assistants
+- AI Assistants
 keywords: [Copilot, influencer, AI assistant]
 permalink: /Microsoft Goes Influencer-Heavy to Make Copilot Cool - Betting on Alix Earle & Creator Culture to Close the ChatGPT Gap/
 ---

@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - Meta
-- WhatsApp
 - Chatbots
 keywords: [Meta, WhatsApp, Chatbots]
 

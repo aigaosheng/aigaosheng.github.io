@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI in finance
-- proxy voting automation
-- SEC regulation
+- AI in Finance
 keywords: [AI regulation, proxy voting, investment advisers]
 permalink: /SEC Gives Green Light for AI-Assisted Proxy Voting — A Quiet But Big Shift for Wall Street/
 ---

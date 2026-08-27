@@ -9,9 +9,9 @@ categories:
   - AI
   - FinTech
 tags:
-  - AI
-  - FinTech
-  - Digital Finance
+- AI
+- Fintech
+- Digital Finance
 keywords: [AI, FinTech, Digital Finance]
 permalink: /AI-Fintech-Brief-2026-07-11/
 ---

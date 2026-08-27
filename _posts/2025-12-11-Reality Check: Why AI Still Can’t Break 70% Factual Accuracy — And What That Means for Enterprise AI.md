@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- factuality benchmark
-- AI factual accuracy
-- FACTS suite
+- AI Factual Accuracy
 keywords: [factual accuracy, AI benchmarking, enterprise AI]
 permalink: /Reality Check - Why AI Still Can’t Break 70% Factual Accuracy — And What That Means for Enterprise AI/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Nokia earnings
-- AI infrastructure
-- optical networks
+- AI Infrastructure
 keywords: [Nokia, AI, optical networks]
 permalink: /Nokia’s AI Payday - How Optical Networks and Cloud Deals Turned a Slow Year into a Market Rally/
 ---

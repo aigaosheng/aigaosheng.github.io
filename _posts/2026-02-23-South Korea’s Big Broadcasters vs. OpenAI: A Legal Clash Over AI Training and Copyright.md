@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- OpenAI lawsuit
-- ­copyright infringement
-- ­AI training data
+- ­AI Training Data
 keywords: [ generative AI, copyright, OpenAI ]
 permalink: /South Korea’s Big Broadcasters vs. OpenAI- A Legal Clash Over AI Training and Copyright/
 ---

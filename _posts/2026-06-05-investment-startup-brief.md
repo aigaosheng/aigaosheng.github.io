@@ -7,11 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- venture-capital
-- startup-funding
-- ai-startups
-- fintech
-- climate-tech
+- Venture Capital
+- Startup Funding
+- AI Startups
+- Fintech
+- Climate Tech
 keywords: [venture-capital, startup-funding, ai-startups, fintech, climate-tech]
 permalink: /investment-startup-brief-2026-06-05/
 ---

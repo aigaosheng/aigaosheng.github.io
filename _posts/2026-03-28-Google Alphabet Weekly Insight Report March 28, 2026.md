@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Multimodal AI Search
-- Youth Safety Liability
 - Gemini Ecosystem Expansion
 keywords: [Google Search Live 2026, Gemini Drop March 2026, YouTube youth addiction verdict]
 permalink: /Google Alphabet Weekly Insight Report March 28, 2026/

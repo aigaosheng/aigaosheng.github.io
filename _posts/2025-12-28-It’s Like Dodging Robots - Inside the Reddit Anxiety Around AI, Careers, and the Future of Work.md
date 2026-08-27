@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI anxiety
-- future of work
-- career disruption
+- Future of Work
 keywords: [AI anxiety, future of work, career disruption]
 permalink: /It’s Like Dodging Robots - Inside the Reddit Anxiety Around AI, Careers, and the Future of Work/
 ---

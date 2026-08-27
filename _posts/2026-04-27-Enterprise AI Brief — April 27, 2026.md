@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- enterprise AI ROI
-- agentic AI enterprise
-- enterprise AI architecture
+- Agentic AI Enterprise
+- Enterprise AI Architecture
 keywords: [enterprise AI ROI, agentic AI enterprise, enterprise AI architecture]
 permalink: /Enterprise AI Brief — April 27, 2026/
 ---

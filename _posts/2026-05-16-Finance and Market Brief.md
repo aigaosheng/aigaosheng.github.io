@@ -9,7 +9,6 @@ categories: []
 tags:
 - Markets
 - Federal Reserve
-- Interest Rates
 - Inflation
 keywords: [Markets, Federal Reserve, Interest Rates, Inflation]
 permalink: /Finance-Market-Brief-2026-05-16/

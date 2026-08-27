@@ -7,7 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- AgiBot IPO
 - Humanoid Robotics
 - Embodied Intelligence
 keywords: ["AgiBot IPO Hong Kong", "Chinese humanoid robots", "Robotics investment 2025","AI robotics technology","Shanghai tech startups"]

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Asia tycoon
-- private credit
-- AI infrastructure
+- Private Credit
+- AI Infrastructure
 keywords: [AI investment, private credit fund, Asia finance]
 permalink: /Asia Tycoon Backs $1.5 B AI Push Through Private Credit Funds/
 ---

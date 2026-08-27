@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- cloud cost governance
-- cloud waste optimization
-- engineering workflows
+- Cloud Waste Optimization
 keywords: [cloud optimization, FinOps, cost governance]
 permalink: /How Adaptive6 Is Rewriting the Cloud Cost Playbook — From Bills to Code-Level Efficiency/
 ---

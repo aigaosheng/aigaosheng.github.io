@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Israeli VC funding
-- AI fintech startups
-- Viola Ventures
+- AI Fintech Startups
 keywords: [AI, fintech, venture capital]
 permalink: /Israeli Venture Capital Stakes $250M on the Future of AI and Fintech Innovation/
 ---

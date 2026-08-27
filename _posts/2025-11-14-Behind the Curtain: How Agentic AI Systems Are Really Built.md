@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI systems
-- AI deployment in production
-- Robust AI data pipelines
+- Agentic AI Systems
 keywords: [Agentic AI systems,AI deployment in production,Robust AI data pipelines]
 permalink: /Behind the Curtain - How Agentic AI Systems Are Really Built/
 ---

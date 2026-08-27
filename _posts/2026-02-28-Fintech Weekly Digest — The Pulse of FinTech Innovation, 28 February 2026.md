@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI acceleration
-- Fintech consolidation
-- Strategic capital
+- Fintech Consolidation
 keywords: [AI acceleration, fintech consolidation, strategic capital]
 permalink: /Fintech Weekly Digest — The Pulse of FinTech Innovation, 28 February 2026/
 ---

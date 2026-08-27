@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- openwav
-- Artist
-- AI in music industry
+- AI in Music Industry
+
 ---
 
 # OpenWav: Empowering Artists to Take Back the Music Industry

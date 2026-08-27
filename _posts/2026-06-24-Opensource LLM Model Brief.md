@@ -10,10 +10,8 @@ tags:
 - Open Source
 - LLM
 - AI
-- Zhipu
 - GLM
 - Sovereignty
-- Reasoning
 keywords: [Open Source LLM, Zhipu AI, GLM 5.2, Sovereign AI, Pulsar 16B, RaDaR, OSI]
 permalink: /Opensource-LLM-model-Brief-2026-06-24/
 ---

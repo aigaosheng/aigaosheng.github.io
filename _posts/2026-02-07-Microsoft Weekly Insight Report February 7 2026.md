@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI research benchmarks
-- Partner Center enhancements
-- cybersecurity trends
+- Partner Center Enhancements
 keywords: [Microsoft Research,Azure Partner updates,AI security]
 permalink: /Microsoft Weekly Insight Report, February 7 2026/
 ---

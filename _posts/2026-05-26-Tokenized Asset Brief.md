@@ -9,8 +9,6 @@ categories: []
 tags:
 - Tokenization
 - RWA
-- Ondo Finance
-- Bitget
 - Coinbase
 keywords: [Tokenization, Real World Assets, Ondo Finance, Bitget Reality, Coinbase RWA]
 permalink: /Tokenized-Asset-Brief-2026-05-26/

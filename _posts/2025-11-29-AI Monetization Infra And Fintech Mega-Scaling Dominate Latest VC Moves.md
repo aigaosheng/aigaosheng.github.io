@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure  
-- fintech scaleups  
-- outcome-based pricing  
+- AI Infrastructure
 keywords: [AI monetization,fintech valuation,venture capital deals]
 permalink: /AI Monetization Infra And Fintech Mega-Scaling Dominate Latest VC Moves/
 ---

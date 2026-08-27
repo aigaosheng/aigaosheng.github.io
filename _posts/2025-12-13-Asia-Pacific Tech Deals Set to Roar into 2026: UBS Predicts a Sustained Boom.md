@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Asia Pacific tech deals
-- UBS tech outlook
-- 2026 technology investment
+- Asia Pacific Tech Deals
 keywords: [tech investment, Asia Pacific, 2026 forecast]
 permalink: /Asia-Pacific Tech Deals Set to Roar into 2026 - UBS Predicts a Sustained Boom/
 ---

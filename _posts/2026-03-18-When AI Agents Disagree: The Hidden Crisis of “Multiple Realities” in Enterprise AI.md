@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Enterprise AI 
+- Enterprise AI
 - AI Agents
-- Data Consistency
 keywords: [AI agents, enterprise AI architecture, data synchronization]
 permalink: /When AI Agents Disagree- The Hidden Crisis of Multiple Realities in Enterprise AI/
 ---

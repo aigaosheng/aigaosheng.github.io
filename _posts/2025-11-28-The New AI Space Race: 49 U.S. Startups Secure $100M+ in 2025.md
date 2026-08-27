@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI funding
-- US AI startups
-- 2025 venture capital
-
+- AI Funding
 keywords: [AI startups,AI funding 2025,venture capital AI]
 permalink: /The New AI Space Race - 49 US Startups Secure $100M+ in 2025/
 ---

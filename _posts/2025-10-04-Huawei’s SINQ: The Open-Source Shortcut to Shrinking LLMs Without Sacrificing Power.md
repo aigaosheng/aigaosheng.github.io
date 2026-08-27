@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- SINQ
-- Quantization
 - LLM Optimization
+
 ---
 ---
 [![Huawei's new open source technique shrinks LLMs to make them run on less powerful, less expensive hardware | VentureBeat](https://images.openai.com/thumbnails/url/sFZ9ZXicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4uskzxSHZxKoyPyoioKsmpdMkKyzDJrMp1dvf1CXbNTXSy9HdLjzTyM3QJVCu2NTQAAByOJQE)](https://venturebeat.com/ai/huaweis-new-open-source-technique-shrinks-llms-to-make-them-run-on-less)

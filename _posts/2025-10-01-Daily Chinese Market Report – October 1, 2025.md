@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Renewable Energy
-- Insurance Sector
-- Leadership Changes
+
 ---
 ---
 

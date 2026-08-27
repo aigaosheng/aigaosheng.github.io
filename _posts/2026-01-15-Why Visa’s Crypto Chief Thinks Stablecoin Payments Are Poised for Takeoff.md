@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin 
+- Stablecoins
 - Visa
-- digital payments
+- Digital Payments
 keywords: [stablecoin, crypto payments, Visa]
 permalink: /Why Visa’s Crypto Chief Thinks Stablecoin Payments Are Poised for Takeoff/
 ---

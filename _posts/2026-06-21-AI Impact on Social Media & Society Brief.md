@@ -11,9 +11,7 @@ tags:
 - Social Media
 - Deepfakes
 - Misinformation
-- AI Slop
 - Content Moderation
-- Political Ads
 keywords: [AI, Social Media, Deepfakes, Misinformation, AI Slop, Content Moderation]
 permalink: /AI-Impact-on-Social-Media-Society-Brief-2026-06-21/
 ---

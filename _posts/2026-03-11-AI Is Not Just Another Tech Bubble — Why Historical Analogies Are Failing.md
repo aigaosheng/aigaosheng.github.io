@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI bubble
-- cognitive automation
-- technology disruption
+- AI Bubble
 keywords: [Artificial Intelligence, AI bubble, knowledge work automation]
 permalink: /AI Is Not Just Another Tech Bubble — Why Historical Analogies Are Failing/
 ---

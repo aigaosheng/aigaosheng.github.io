@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Koi acquisition
-- startup options gap
-- Palo Alto AI security
+- Palo Alto AI Security
 keywords: [AI cybersecurity, startup exit strategy, employee equity compensation]
 permalink: /naWhen a $400M Exit Missed Most Employees- The Inside Story of Koi’s Sale to Palo Alto Networksme/
 ---

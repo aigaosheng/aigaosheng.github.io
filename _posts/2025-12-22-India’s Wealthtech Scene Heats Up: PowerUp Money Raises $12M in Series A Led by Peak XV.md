@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- wealthtech,
-- Series A funding,
-- mutual fund advisory
+- Wealthtech
+- Series a Funding,
 keywords: [wealthtech, funding, India]
 permalink: /India Wealthtech Scene Heats Up - PowerUp Money Raises $12M in Series A Led by Peak XV/
 ---

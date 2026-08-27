@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- quantum sensors
-- 3D chip inspection
-- nitrogen‑vacancy diamond
+- 3D Chip Inspection
 keywords: [quantum, semiconductors, defect detection]
 permalink: /Artificial Diamond Quantum Sensors Target Hidden Defects in 3D Chips/
 ---

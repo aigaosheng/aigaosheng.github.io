@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI manufacturing
-- Salesforce Ventures
-- quality intelligence
+- AI Manufacturing
 keywords: [AI, manufacturing, quality intelligence]
 permalink: /AI Meets Industry - Salesforce Ventures Backs Axion’s $37M Series B to Transform Manufacturing Quality/
 ---

@@ -7,8 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI 
-- Privacy trade-off
+- AI
+- Privacy Trade-Off
+
 ---
 ---
 **Blog Title:** *$30 for Your Secrets? How a Top Social App is Selling Your Phone Calls to AI Companies*

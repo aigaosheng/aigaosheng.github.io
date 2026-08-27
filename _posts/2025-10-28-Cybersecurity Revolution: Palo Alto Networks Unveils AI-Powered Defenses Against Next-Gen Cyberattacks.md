@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Palo Alto Networks
-- cybersecurity
-- AI security
+- Cybersecurity
+- AI Security
 keywords: [cybersecurity, AI-driven, cyberattacks]
 permalink: /Cybersecurity Revolution - Palo Alto Networks Unveils AI-Powered Defenses Against Next-Gen Cyberattacks/
 ---

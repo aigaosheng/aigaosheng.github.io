@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- cloud security funding
-- venture capital trends
+- AI Infrastructure
+- Venture Capital Trends
 keywords: [AI funding,startup valuation,venture investors]
 permalink: /Weekly VC & Startup Funding Highlights (Jan 24–30, 2026)/
 ---

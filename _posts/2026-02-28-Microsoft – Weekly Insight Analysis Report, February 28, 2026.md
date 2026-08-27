@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI partnership
-- Leadership transition
-- Cloud strategy
+- AI Partnerships
 keywords: [OpenAI, Azure, Xbox]
 permalink: /Microsoft – Weekly Insight Analysis Report, February 28, 2026/
 ---

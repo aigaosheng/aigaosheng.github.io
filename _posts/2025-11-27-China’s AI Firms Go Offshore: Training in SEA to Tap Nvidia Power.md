@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - China AI
-- Nvidia chips
-- offshore training
 keywords: [China, Nvidia, AI]
 permalink: /China’s AI Firms Go Offshore - Training in SEA to Tap Nvidia Power/
 ---

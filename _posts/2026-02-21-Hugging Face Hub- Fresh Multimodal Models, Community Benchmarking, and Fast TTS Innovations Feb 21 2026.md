@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- HuggingFace updates
-- new HF models 2026
-- community evals HF
-- multilingual models
-- lightweight ML models
+- HuggingFace Updates
 keywords: [benchmarking, multimodal, multilingual, inference, transparent]
 permalink: /Hugging Face Hub- Fresh Multimodal Models, Community Benchmarking, and Fast TTS Innovations Feb 21 2026/
 ---

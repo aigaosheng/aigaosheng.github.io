@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI CAD
-- 3D modelling automation
-- UI agent
+- 3D Modelling Automation
 keywords: [CAD, AI modelling, 3D design]
 permalink: /AI Learns to Click Its Way into CAD — Turning 2D Sketches Into 3D Models/
 ---

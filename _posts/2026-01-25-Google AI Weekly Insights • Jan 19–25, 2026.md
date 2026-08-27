@@ -7,7 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- Personal Intelligence
 - Gemini AI
 - AI Mode in Search
 keywords: [Google AI, Gemini update, personalized search]

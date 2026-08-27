@@ -8,7 +8,6 @@ status: publish
 categories: []
 tags:
 - Tokenized Assets
-- Real World Asset (RWA) Tokenization
 - Blockchain Finance
 keywords: [Tokenized Assets, Real World Asset (RWA) Tokenization, Blockchain Finance]
 permalink: /Tokenized Assets Daily Newsletter April 11, 2026/

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- cybersecurity
-- autonomous defense
+- Agentic AI
+- Cybersecurity
 permalink: /Agentic AI - The New Security Frontier That Experts Can’t Ignore/
 ---
 

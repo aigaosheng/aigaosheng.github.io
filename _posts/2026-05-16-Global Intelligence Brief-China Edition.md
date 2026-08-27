@@ -7,11 +7,10 @@ published: true
 status: publish
 categories: []
 tags:
-- united-states
-- china
-- macro
-- geopolitics
-- intelligence
+- United States
+- China
+- Macro
+- Geopolitics
 keywords: [united-states, china, macro]
 permalink: /daily-intelligence 2026-05-16-china-edition/
 ---

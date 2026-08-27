@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Word document
 - Python
-- Word document structure extraction
+
 ---
 
 ### Top Python Word-document Manipulation Tools

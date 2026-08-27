@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI browser agents
-- prompt injection
-- browser security
+- Prompt Injection
 keywords: [AI browser, security risks, agentic AI]
 permalink: /When Your Browser Becomes a Risk - The Hidden Dangers of AI-Agent Web Browsing/
 ---

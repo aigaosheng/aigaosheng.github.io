@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Claude usage promotion
-- Bloom evaluation framework
-- Agent Skills open standard
+- Agent Skills Open Standard
 keywords: [Claude, developer, usage limits]
 permalink: /Anthropic Year‑End Developer Surge - Holiday Usage Expansion & Open Source Evaluation Framework/
 ---

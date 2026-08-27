@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - AGI
-- artificial intelligence
+- Artificial Intelligence
 - OpenAI
 keywords: [AGI, machine learning, AI ethics]
 permalink: /AGI - The Tech Race That Could Rewrite Humanity’s Future/

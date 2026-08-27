@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- ChatGPT 
-- Thomson Reuters
+- chatGPT
 - Agentic AI
+
 ---
 ---
 # The “Anti-ChatGPT”: Why Thomson Reuters’ AI Slows Down to Speed Up the Future

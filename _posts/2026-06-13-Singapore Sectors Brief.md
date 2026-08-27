@@ -8,10 +8,9 @@ status: publish
 categories: []
 tags:
 - Singapore
-- Semiconductor
+- Semiconductors
 - Trade
 - Energy
-- Nightlife
 keywords: [Singapore economy, semiconductor exports, trade policy, oil inventories, nightlife industry]
 permalink: /Singapore-Sectors-Brief-2026-06-13/
 ---

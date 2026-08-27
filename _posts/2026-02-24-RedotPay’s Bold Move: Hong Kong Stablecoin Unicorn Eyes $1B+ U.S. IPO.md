@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin
+- Stablecoins
 - IPO
-- fintech
+- Fintech
 keywords: [stablecoin, fintech, IPO]
 permalink: /RedotPay’s Bold Move - Hong Kong Stablecoin Unicorn Eyes $1B+ U.S. IPO/
 ---

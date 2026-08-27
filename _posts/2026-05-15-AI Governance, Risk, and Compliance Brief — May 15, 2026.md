@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance compliance
-- agentic AI risk management
-- D&O liability AI
+- AI Governance Compliance
 keywords: [AI governance compliance, agentic AI risk management, D&O liability AI]
 permalink: /AI Governance, Risk, and Compliance Brief — May 15, 2026/
 ---

@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- blockchain banking
-- stablecoin payments
-- tokenized deposits
+- Blockchain Banking
+- Stablecoin Payments
+- Tokenized Deposits
 keywords: [blockchain, stablecoin, payments]
 permalink: /Barclays’ Blockchain Leap- Tokenized Deposits & Stablecoin Payments Signal Banking’s Next Frontier/
 ---

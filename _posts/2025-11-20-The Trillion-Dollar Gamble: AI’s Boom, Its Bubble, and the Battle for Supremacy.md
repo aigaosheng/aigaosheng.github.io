@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI boom
-- Google TPU
-- tech bubble
+- AI Boom
+- Tech Bubble
 keywords: [AI chips, artificial intelligence, Silicon Valley]
 permalink: /The Trillion-Dollar Gamble - AI’s Boom, Its Bubble, and the Battle for Supremacy/
 ---

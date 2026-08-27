@@ -7,7 +7,7 @@ published: true
 header-img: image/rawa-sun-falling.jpg
 catalog: true
 categories: [html, jquery, react, bootstrap] 
-tags: [front-end develop, javascript]
+tags: [Javascript]
 ---
 
 <h3> Notes on which program languages to learn for front-end develop</h3>

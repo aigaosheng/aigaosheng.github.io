@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - China
-- battery industry,
-- electric vehicles
 keywords: [battery technology, China supply chain, EV manufacturing]
 permalink: /How China Quietly Won the Global Battery Race — and Reshaped the Future of Clean Energy/
 ---

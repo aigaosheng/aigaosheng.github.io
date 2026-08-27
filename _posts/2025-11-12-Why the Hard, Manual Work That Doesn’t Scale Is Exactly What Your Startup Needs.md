@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- startup growth
-- unscalable tactics
-- early user experience
+- Early User Experience
 keywords: [startup, growth, user experience]
 permalink: /Why the Hard, Manual Work That Doesn’t Scale Is Exactly What Your Startup Needs/
 ---

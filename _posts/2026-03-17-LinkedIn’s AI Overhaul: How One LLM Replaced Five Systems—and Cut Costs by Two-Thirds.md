@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- LLM recommender systems
-- LinkedIn AI architecture
-- enterprise AI transformation
+- Enterprise AI Transformation
 keywords: [LLM recommendation, AI feed algorithm, generative recommender]
 permalink: /LinkedIn’s AI Overhaul- How One LLM Replaced Five Systems—and Cut Costs by Two-Thirds/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- in‑chat payments
-- Alibaba Qwen
+- Agentic AI
 keywords: [AI assistant, integrated payments, consumer AI]
 permalink: /Alibaba’s Qwen AI Goes From Chatbot to Commerce Engine — Now Lets You Pay, Book Travel, and Order Food Inside the Chat/
 ---

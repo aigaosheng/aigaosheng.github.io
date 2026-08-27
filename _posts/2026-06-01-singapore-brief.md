@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- singapore
-- finance
-- defence
-- infrastructure
-- ai
-- sports
+- Singapore
+- Finance
+- Defence
+- Infrastructure
+- AI
+- Sports
 keywords: [singapore, finance, defence, infrastructure, ai, sports]
 permalink: /singapore-brief-2026-06-01/
 ---

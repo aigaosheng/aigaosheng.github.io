@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Startup Funding 2026
-- AI Startup Trends
-- Global Venture Capital
 keywords: [Startup Funding 2026,AI Startup Trends,Global Venture Capital]
 permalink: /Startup Daily Newsletter — April 7, 2026/
 ---

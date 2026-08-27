@@ -11,7 +11,6 @@ tags:
 - AI Policy
 - OpenAI
 - Anthropic
-- Defense
 - Regulation
 keywords: [US AI, artificial intelligence policy, OpenAI IPO, Anthropic, Trump AI memorandum, data center regulation]
 permalink: /US-AI-Brief-2026-06-10/

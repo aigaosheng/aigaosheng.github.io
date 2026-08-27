@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- key fintech
-- Toss investment
 - GIC Baillie Gifford
 keywords: [Toss, fintech, investment]
 permalink: /Toss Scores Fresh Backing from GIC, Baillie Gifford & Global Investors — South Korea’s Fintech Juggernaut Gains Momentum/

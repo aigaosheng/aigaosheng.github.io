@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Finfactor
-- account aggregator
-- open finance  
+- Open Finance
 keywords: [fintech, India Stack, BFSI]  
 permalink: /WestBridge Backs Finfactor’s $15M Push to Power India’s Open Finance Rails​/
 ---

@@ -8,9 +8,9 @@ published: true
 status: publish
 categories: [artificial-intelligence]
 tags:
-- china-ai
-- us-ai
-- generative-ai
+- China AI
+- US AI
+- Generative AI
 keywords: [China AI, US AI, Generative AI]
 permalink: /China-AI-US-AI-Brief-2026-07-25/
 

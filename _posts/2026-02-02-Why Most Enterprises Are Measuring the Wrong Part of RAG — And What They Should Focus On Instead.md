@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- key retrieval infrastructure
-- RAG evaluation
-- enterprise AI governance
+- Enterprise AI Governance
 keywords: [RAG metrics, enterprise AI, retrieval quality]
 permalink: /Why Most Enterprises Are Measuring the Wrong Part of RAG — And What They Should Focus On Instead/
 ---

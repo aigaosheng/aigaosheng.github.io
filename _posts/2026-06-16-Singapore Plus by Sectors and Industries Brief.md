@@ -13,10 +13,8 @@ tags:
 - Manufacturing
 - Labour Market
 - Trade
-- Sustainability
 - Infrastructure
 - SMEs
-- Water
 keywords: [Singapore, Semiconductors, Manufacturing, Labour Market, Trade Policy, Sustainability, Infrastructure, SMEs]
 permalink: /Singapore-Plus-Brief-2026-06-16/
 ---

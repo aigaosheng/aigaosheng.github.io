@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI robotics
+- AI Robotics
 - Claude
-- Project Fetch
 keywords: [AI, robotics, robot dog]
 permalink: /When Claude Trains a Robot Dog - Inside Anthropic’s Playful but Pivotal “Project Fetch”/
 ---

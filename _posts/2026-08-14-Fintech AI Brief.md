@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- fintech
-- artificial-intelligence
-- payments
+- Fintech
+- Artificial Intelligence
+- Payments
 keywords: [fintech, artificial-intelligence, payments]
 permalink: /Fintech-AI-Brief-2026-08-14/
 ---

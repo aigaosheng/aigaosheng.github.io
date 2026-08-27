@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI infrastructure
-- Fracked gas
-- Data centers
+- AI Infrastructure
+- Data Centers
 keywords: [AI energy, data center emissions, fossil fuel infrastructure]
 ---
 **Burning Bits, Bulldozing Plains: How AI’s Carbon Footprint Is Being Built on Fracked Gas**

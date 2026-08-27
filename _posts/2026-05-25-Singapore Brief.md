@@ -11,7 +11,6 @@ tags:
 - Economy
 - AI
 - Geopolitics
-- Land Use
 keywords: [Singapore, GDP, Google AI, Shangri-La Dialogue, Economy]
 permalink: /Singapore-Brief-2026-05-25/
 ---

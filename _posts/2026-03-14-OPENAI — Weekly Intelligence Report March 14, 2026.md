@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- GPT-5.4 agentic reasoning model
-- Enterprise AI security & governance
-- AI for scientific discovery
+- Enterprise AI Security & Governance
 keywords: [GPT-5.4, agentic AI, OpenAI Frontier]
 permalink: /OPENAI — Weekly Intelligence Report March 14, 2026/
 ---

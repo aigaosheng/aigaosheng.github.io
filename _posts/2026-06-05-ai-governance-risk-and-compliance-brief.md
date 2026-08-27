@@ -7,12 +7,11 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-regulation
-- federal-policy
-- agentic-ai
-- compliance
-- governance
-- public-sector
+- AI Regulation
+- Federal-Policy
+- Agentic AI
+- Compliance
+- Governance
 keywords: [ai-regulation, federal-policy, agentic-ai, compliance, governance, public-sector]
 permalink: /ai-governance-risk-and-compliance-brief-2026-06-05/
 ---

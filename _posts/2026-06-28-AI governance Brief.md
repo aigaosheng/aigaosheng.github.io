@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
-- AI regulation
+- AI Governance
+- AI Regulation
 - Responsible AI
 keywords: [AI governance, AI regulation, Responsible AI]
 permalink: /AI-governance-Brief-2026-06-28/

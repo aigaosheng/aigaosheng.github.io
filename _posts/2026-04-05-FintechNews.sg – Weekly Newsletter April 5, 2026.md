@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin-infrastructure
-- apac-fintech-regulation
-- ai-fraud-prevention
+- Stablecoin Infrastructure
 keywords: [fintech, digital banking, crypto regulation, payments, Singapore, Southeast Asia, AI, stablecoins, cross-border, compliance]
 permalink: /FintechNews.sg – Weekly Newsletter April 5, 2026/
 ---

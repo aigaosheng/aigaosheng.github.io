@@ -7,8 +7,6 @@ published: true
 status: publish
 categories: []
 tags:
-- TokenizedAssets
-- RealWorldAssets
 - DigitalSecurities
 keywords: [TokenizedAssets, RealWorldAssets, DigitalSecurities]
 permalink: /TOKENIZED ASSETS Brief & April 18, 2026/

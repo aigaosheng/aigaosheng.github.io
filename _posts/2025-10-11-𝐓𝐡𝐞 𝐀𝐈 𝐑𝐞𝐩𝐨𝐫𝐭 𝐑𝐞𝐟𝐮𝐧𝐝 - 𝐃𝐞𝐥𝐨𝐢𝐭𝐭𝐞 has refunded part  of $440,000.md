@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Deloitte AI investment
-- AI-generated errors
-- Anthropic Claude rollout
+- Anthropic Claude Rollout
 keywords: ["Deloitte AI","AI in professional services","Anthropic Claude","AI-generated errors","Deloitte refund AI"]
 ---
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Antarctica
 - AI
-- deep-sea  
 keywords: [Antarctic ecosystems, marine conservation, seafloor imaging]
 permalink: /How Artificial Intelligence Is Revealing Antarctica’s Hidden Marine Life in Seconds/
 ---

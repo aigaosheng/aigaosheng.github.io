@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - Gemini 3
-- AI Search, 
-- Nano Banana Pro
+- AI Search
 keywords: [Gemini, Google AI, NotebookLM]
 permalink: /Weekly Google Brief — Nov 16–22, 2025/
 ---

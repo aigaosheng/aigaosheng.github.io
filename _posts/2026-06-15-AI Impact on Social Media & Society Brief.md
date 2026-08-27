@@ -11,8 +11,6 @@ tags:
 - Social Media
 - Regulation
 - Online Safety
-- Canada
-- UK
 - Meta
 keywords: [AI regulation, social media bans, online safety, Canada Bill C-34, UK social media ban, Meta AI transformation]
 permalink: /AI-Impact-Social-Media-Society-Brief-2026-06-15/

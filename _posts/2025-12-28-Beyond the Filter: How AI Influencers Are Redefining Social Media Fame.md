@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI influencers
-- virtual influencers
-- social media marketing
+- Social Media Marketing
 keywords: [AI influencers, virtual influencers, social media marketing]
 permalink: /Beyond the Filter - How AI Influencers Are Redefining Social Media Fame/
 ---

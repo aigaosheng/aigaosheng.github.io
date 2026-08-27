@@ -9,8 +9,6 @@ categories: []
 tags:
 - Venture Capital
 - AI Startups
-- Fundraising
-- Midas List
 keywords: [venture capital, AI startups, fundraising, Midas List, deeptech]
 permalink: /investment-startup-Brief-2026-05-27/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI Fintech
 - AI Financial Automation
-- AI-Native Banking
 keywords: [Agentic AI Fintech, AI Financial Automation, AI-Native Banking]
 permalink: /AI + Fintech Daily Newsletter April 17, 2026/
 ---

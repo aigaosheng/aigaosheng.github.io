@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- tech layoffs
-- AI automation
-- workforce reductions
+- Tech Layoffs
+- AI Automation
 keywords: [tech layoffs 2025, AI workforce impact, automation job cuts]
 ---
 **Tech Layoffs 2025: A Stark Reality Check for the Industry**

@@ -8,11 +8,9 @@ published:  true
 header-img: image/rawa-sun-falling.jpg
 catalog: true
 tags:
-    - Pipenv
-    - graphviz
-    - pygraphviz
-    - Python
-    - graph
+- Pipenv
+- Python
+
 ---
 <h3>Install pygraphviz to draw graph</h3> 
 <ol>

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- generative AI
-- video synthesis
-- digital likeness
+- Generative AI
 keywords: [AI video generation, voice cloning, multimodal AI]
 permalink: /Alibaba Unveils AI That Puts You in the Video - Likeness & Voice Generation Goes Mainstream/
 ---

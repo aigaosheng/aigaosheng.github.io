@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- AI security
-- AI risk
-- cybersecurity
+- AI Security
+- AI Risk
+- Cybersecurity
 keywords: [AI security, AI risk, cybersecurity]
 permalink: /AI-Security-&-Risk-Brief-2026-08-25/
 

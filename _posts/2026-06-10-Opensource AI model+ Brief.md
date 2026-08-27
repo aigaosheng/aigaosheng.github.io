@@ -9,7 +9,6 @@ categories: []
 tags:
 - Open Source
 - AI Models
-- Coding Agents
 keywords: [Open Source, AI Models, DeepSeek, Cohere, Coding Agents]
 permalink: /Opensource-AI-model-Brief-2026-06-10/
 ---

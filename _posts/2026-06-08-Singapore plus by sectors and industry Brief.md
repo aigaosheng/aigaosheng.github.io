@@ -11,11 +11,7 @@ tags:
 - AI
 - Manufacturing
 - Retail
-- Aerospace
 - Semiconductors
-- Green Building
-- Superyacht
-- Marine Insurance
 keywords: [Singapore Economy, AI Demand, Manufacturing Output, Retail Sales, Green Building, Aerospace JV, Semiconductor Investment]
 permalink: /Singapore-Sectors-Brief-2026-06-08/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Pentagon Dispute
 - Claude Code
-- AI Safety Red Lines
 keywords: [Anthropic supply chain risk, Claude Sonnet 4.6, Anthropic Pentagon DOD]
 permalink: /Anthropic Weekly Intelligence Report March 7, 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI shopping
-- agentic checkout
-- conversational search
+- AI Shopping
 keywords: [Google shopping, AI commerce, conversational AI]
 permalink: /Google Supercharges AI Shopping - From Conversational Search to “Agentic Checkout” and Store-Calling AI/
 ---

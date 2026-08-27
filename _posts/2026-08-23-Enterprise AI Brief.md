@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- enterprise-ai
-- artificial-intelligence
-- ai-infrastructure
+- Enterprise AI
+- Artificial Intelligence
+- AI Infrastructure
 keywords: [enterprise-ai, artificial-intelligence, ai-infrastructure]
 permalink: /Enterprise-AI-Brief-2026-08-23/
 

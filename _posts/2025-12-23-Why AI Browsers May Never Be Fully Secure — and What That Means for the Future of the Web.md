@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- prompt injection
-- AI browser security
-- ChatGPT Atlas
+- Prompt Injection
 keywords: [prompt injection, AI security, agentic browser]
 permalink: /Why AI Browsers May Never Be Fully Secure — and What That Means for the Future of the Web/
 ---

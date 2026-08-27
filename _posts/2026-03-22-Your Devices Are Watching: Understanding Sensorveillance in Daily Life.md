@@ -8,8 +8,6 @@ status: publish
 categories: []
 tags:
 - Digital Evidence
-- Privacy Tech
-- Sensorveillance
 keywords: [Surveillance technology,Smart device data,IoT privacy]
 permalink: /Your Devices Are Watching- Understanding Sensorveillance in Daily Life/
 ---

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- neutral-atom
-- quantum-computing
-- error-correction
+- Neutral Atom
+- Quantum Computing
 keywords: [quantum computing, neutral atoms, qubits]
 permalink: /Quantum Leap - How Neutral-Atom Computers Could Finally Make Quantum Advantage Real/
 ---

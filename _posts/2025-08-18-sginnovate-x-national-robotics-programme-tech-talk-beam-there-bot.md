@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- SGInnovate
-- National robotics programme
-- NRF
+- National Robotics Programme
+
 ---
 
 ## Robotic tech talk

@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI privacy
-- AI surveillance
-- AI and law enforcemen
+- AI Privacy
+- AI Surveillance
 keywords: [AI privacy, AI surveillance, AI and law enforcemen]
 permalink: /When ChatGPT Can Call the Police/
 ---

@@ -9,8 +9,6 @@ categories: []
 tags:
 - Enterprise AI
 - Anthropic
-- TCS
-- DXC
 - Generative AI
 keywords: [Enterprise AI, Anthropic Claude, TCS, DXC Technology, AI Agents]
 permalink: /Enterprise-AI-Brief-2026-06-12/

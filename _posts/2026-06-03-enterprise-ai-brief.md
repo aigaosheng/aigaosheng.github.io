@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- microsoft-copilot
-- enterprise-security
-- governed-ai
-- industrial-ai
-- regulated-ai
+- Microsoft Copilot
+- Industrial AI
 keywords: [microsoft-copilot, enterprise-security, governed-ai, industrial-ai, regulated-ai]
 permalink: /enterprise-ai-brief-2026-06-03/
 ---

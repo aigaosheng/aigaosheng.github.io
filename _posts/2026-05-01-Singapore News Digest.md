@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore economy outlook 2026
-- Singapore AI workforce transformation
-- ingapore May Day Rally policy updates
+- Ingapore May Day Rally Policy Updates
 keywords: [Singapore economy outlook 2026, Singapore AI workforce transformation, Singapore May Day Rally policy updates]
 permalink: /Singapore News Digest May 1 2026/
 ---

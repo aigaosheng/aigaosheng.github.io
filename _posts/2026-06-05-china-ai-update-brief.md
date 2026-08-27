@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- huawei
-- deepseek
-- alibaba
-- ai-governance
-- talent
-- chips
+- Huawei
+- DeepSeek
+- Alibaba
+- AI Governance
+- Talent
+- Chips
 keywords: [huawei, deepseek, alibaba, ai-governance, talent, chips]
 permalink: /china-ai-update-brief-2026-06-05/
 ---

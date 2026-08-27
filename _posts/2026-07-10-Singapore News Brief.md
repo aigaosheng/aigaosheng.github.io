@@ -6,13 +6,12 @@ type: post
 published: true 
 status: publish 
 categories: [] 
-tags: 
-- Singapore 
-- Maritime 
-- HDB 
-- AI 
-- Economy 
-- Real Estate 
+tags:
+- Singapore
+- Maritime
+- AI
+- Economy
+- Real Estate
 keywords: [Singapore, Maritime, HDB, AI, Economy, Real Estate, Technology, Urban Development] 
 permalink: /Singapore-News-Brief-2026-07-10/ 
 ---

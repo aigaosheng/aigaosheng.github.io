@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- hype
-- corporate storytelling
-- tech valuations
+- Tech Valuations
 keywords: [tech-industry, AI-investing, CEO-hype]
 permalink: /Hype Is the New Capital - How Tech CEOs Turn Buzz into Billions/
 ---

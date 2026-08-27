@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Multi‑model AI orchestration
-- Autonomous AI agent
-- Strategic platform expansion
+- Autonomous AI Agents
 keywords: [Perplexity Computer, AI workflows, Samsung integration]
 permalink: /Weekly Industry Insight- Perplexity AI — Feb 22–28, 2026/
 ---

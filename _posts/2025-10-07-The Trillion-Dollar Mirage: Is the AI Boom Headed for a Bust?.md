@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - AI Bubble
-- Tech Giants
-- Investment Risks
+
 ---
 ---
 **The Trillion-Dollar Mirage: Is the AI Boom Headed for a Bust?**

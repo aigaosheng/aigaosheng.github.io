@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI geopolitics 
-- Meta acquisition
-- China tech regulation
+- AI Geopolitics
+- Meta Acquisition
 keywords: [AI regulation, cross-border tech deals, agentic AI]
 permalink: /AI, Power, and Borders- Why China Just Stopped a $2B Meta Deal in Its Tracks/
 ---

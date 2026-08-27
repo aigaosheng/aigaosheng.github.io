@@ -7,10 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI security
-- evaluations
-- containment 
-- governance
+- AI Security
+- Governance
 keywords: [ai-security, evaluations, containment, governance]
 permalink: /The sandbox was the product/
 ---

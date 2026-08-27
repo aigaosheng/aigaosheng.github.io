@@ -7,7 +7,7 @@ published: true
 header-img: image/rawa-sun-falling.jpg
 catalog: true
 categories: [javascript, import, export, module] 
-tags: [computer program, javascript, nvm, node.js]
+tags: [Computer Program, Javascript, Nvm, Node.js]
 ---
 
 <h3> Export and import local modules in Javascript </h3>

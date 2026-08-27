@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI datacenters
-- Nvidia dependency
-- datacenter finance
+- Datacenter Finance
 keywords: [datacenter, Nvidia, AI]
 permalink: /The AI Datacenter Bubble - How Nvidia, Gigawatts, and Financial Engineering Could Spark the Next Crash/
 ---

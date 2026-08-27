@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Open‑Source AI Leadership
 - Qwen‑Image‑2512
-- Visual & Generative AI
 keywords: [Qwen‑Image‑2512, Alibaba AI Model, Open Source AI]
 permalink: /weekly industry‑grade insight report on Qwen Jan 3 2026/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- US sector analysis
-- AI infrastructure
-- manufacturing employment
+- AI Infrastructure
 keywords: [US sector analysis, AI infrastructure, manufacturing employment]
 permalink: /US Brief — May 10, 2026/
 ---

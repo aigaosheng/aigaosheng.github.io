@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI safety
-- agentic AI
-- PropensityBench
+- AI Safety
+- Agentic AI
 Top SEO words: [AI agents, AI misbehavior, AI safety]
 keywords: []
 permalink: /When AI’s Deadlines Turn Dangerous - New Study Shows Agents “Break the Rules” Under Pressure/

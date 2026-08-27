@@ -7,10 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Long‑Context LLM safety
-- LLM reasoning optimization
-- autonomous AI research agents
-- AI compute infrastructure
+- Autonomous AI Research Agents
 keywords: [RePro framework, Deep Research agent, Reinforcement RLVR, process‑level reward, decoupled optimization]
 permalink: /Daily AI Tech Research Update — December 13, 2025/
 ---

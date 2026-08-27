@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- Hugging Face updates
-- multimodal models
-- step-distilled video models
-- agentic AI
-- model evaluation benchmarks
+- Hugging Face Updates
+- Multimodal Models
+- Agentic AI
 keywords: [multimodal, agentic, step-distilled, benchmarking, deployment]
 permalink: /Accelerating Multimodal & Agentic AI - Hugging Face Highlights (Dec 29 Nov–6 Dec 2025)/
 ---

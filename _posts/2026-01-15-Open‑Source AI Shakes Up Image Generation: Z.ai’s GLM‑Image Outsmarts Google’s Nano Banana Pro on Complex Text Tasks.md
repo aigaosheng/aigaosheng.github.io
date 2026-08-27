@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- open source AI
-- image generation models
-- benchmark performance
+- Open Source AI
 keywords: [AI image generator, complex text rendering, open source]
 permalink: /Open‑Source AI Shakes Up Image Generation - Z.ai’s GLM‑Image Outsmarts Google’s Nano Banana Pro on Complex Text Tasks/
 ---

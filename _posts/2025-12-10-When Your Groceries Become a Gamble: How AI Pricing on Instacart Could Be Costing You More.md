@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Instacart
-- AI pricing
-- grocery cost variations
+- Grocery Cost Variations
 keywords: [Instacart, algorithmic pricing, grocery inflation]
 permalink: /When Your Groceries Become a Gamble - How AI Pricing on Instacart Could Be Costing You More/
 ---

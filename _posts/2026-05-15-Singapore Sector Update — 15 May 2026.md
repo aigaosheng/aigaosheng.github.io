@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore manufacturing 2026
-- Singapore AI strategy
-- Singapore electronics output
+- Singapore AI Strategy
 keywords: [Singapore manufacturing 2026, Singapore AI strategy, Singapore electronics output]
 permalink: /Singapore Sector Update — 15 May 2026/
 ---

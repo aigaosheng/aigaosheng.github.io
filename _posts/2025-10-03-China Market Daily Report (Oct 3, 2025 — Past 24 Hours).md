@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-driven rerating
-- Gold & index inclusion
-- Regulatory crackdown
+- Gold & Index Inclusion
+
 ---
 ---
 

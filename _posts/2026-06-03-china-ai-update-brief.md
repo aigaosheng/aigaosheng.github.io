@@ -7,11 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- deepseek
-- alibaba
-- qwen
-- ai-regulation
-- copyright
+- DeepSeek
+- Alibaba
+- AI Regulation
 keywords: [deepseek, alibaba, qwen, ai-regulation, copyright]
 permalink: /china-ai-update-brief-2026-06-03/
 ---

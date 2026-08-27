@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- cloud security
-- IAM threats
-- recruitment fraud
+- Cloud Security
 keywords: [cloud security, identity management, cyberattack trends]
 permalink: /How Recruitment Fraud Turned Cloud IAM Into a $2 Billion Cyber Risk/
 ---

@@ -8,7 +8,7 @@ status: publish
 categories: []
 tags:
 - AI
-- FinTech
+- Fintech
 - Investment
 keywords: [AI, FinTech, Financial Services]
 permalink: /AI-fintech-Brief-2026-07-02/

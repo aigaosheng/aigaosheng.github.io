@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Datarails funding
-- AI finance platform
-- CFO automation
+- AI Finance Platform
 keywords: [AI finance, Series C funding, financial automation]
 permalink: /Datarails’ $70M Series C Led by One Peak Signals AI’s New Role at the Heart of Corporate Finance/
 ---

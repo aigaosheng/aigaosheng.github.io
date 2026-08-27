@@ -7,12 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- ai-research
-- llm-evaluation
-- ai-agents
-- model-efficiency
-- retrieval
-- ai-safety
+- AI Research
+- LLM Evaluation
+- AI Agents
+- Model Efficiency
+- Retrieval
+- AI Safety
 keywords: [ai-research, llm-evaluation, ai-agents, model-efficiency, retrieval, ai-safety]
 permalink: /ai-research-update-brief-2026-05-30/
 ---

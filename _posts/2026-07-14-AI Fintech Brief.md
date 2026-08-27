@@ -6,12 +6,12 @@ type: post
 published: true  
 status: publish  
 categories: []  
-tags:  
-- AI  
-- Fintech  
-- Agentic AI  
-- Regulation  
-- Cybersecurity  
+tags:
+- AI
+- Fintech
+- Agentic AI
+- Regulation
+- Cybersecurity
 keywords: [AI, Fintech, Agentic AI, Financial Regulation, Cybersecurity, AI Governance]  
 permalink: /AI-Fintech-Brief-2026-07-14/  
 ---  

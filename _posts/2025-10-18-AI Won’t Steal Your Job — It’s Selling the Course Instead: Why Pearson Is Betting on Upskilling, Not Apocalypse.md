@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Pearson AI learning
-- enterprise reskilling
-- virtual learning growth
+- Virtual Learning Growth
 keywords: [Pearson, AI, reskilling]
 ---
 # AI Won’t Steal Your Job — It’s Selling the Course Instead: Why Pearson Is Betting on Upskilling, Not Apocalypse

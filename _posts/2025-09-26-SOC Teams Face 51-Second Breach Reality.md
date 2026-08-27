@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- SOC automation
-- Cybersecurity breach response
-- Threat detection and mitigation
+- SOC Automation
+
 ---
 ---
 **"SOC Teams Face 51-Second Breach Reality: Manual Response Times Are Officially a Thing of the Past"**

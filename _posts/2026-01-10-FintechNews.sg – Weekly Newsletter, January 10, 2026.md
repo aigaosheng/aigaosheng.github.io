@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- fintech
-- payments
-- digital-assets
+- Fintech
+- Payments
+- Digital Assets
 keywords: [Singapore, ASEAN, crypto]
 permalink: /FintechNews.sg – Weekly Newsletter, January 10, 2026/
 ---

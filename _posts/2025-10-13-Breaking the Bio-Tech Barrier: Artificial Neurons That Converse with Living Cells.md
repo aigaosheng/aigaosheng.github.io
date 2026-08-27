@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Artificial neurons
-- Bioelectronics
-- Protein nanowires]
+- Artificial Neurons
 keywords: ["Artificial Neuron", "bioelectronics", "protein nanowires"]
 ---
 ---

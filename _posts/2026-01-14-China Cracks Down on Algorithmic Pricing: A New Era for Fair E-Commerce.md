@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- algorithmic pricing
-- ecommerce regulation
-- consumer protection
+- Consumer Protection
 keywords: [pricing transparency, digital regulation, China e-commerce policy]
 permalink: /China Cracks Down on Algorithmic Pricing- A New Era for Fair E-Commerce/
 ---

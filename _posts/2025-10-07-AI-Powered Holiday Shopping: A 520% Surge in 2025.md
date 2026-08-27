@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- AI-powered shopping
-- Mobile commerce
+- AI‑powered Shopping
 - Generative AI
+
 ---
 ---
 **AI-Powered Holiday Shopping: A 520% Surge in 2025**

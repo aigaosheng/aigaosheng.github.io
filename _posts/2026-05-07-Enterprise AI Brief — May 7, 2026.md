@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic AI deployment
-- enterprise data governance
-- AI workflow integration
+- AI Workflow Integration
 keywords: [Agentic AI deployment, enterprise data governance, AI workflow integration]
 permalink: /Enterprise AI Brief — May 7, 2026/
 ---

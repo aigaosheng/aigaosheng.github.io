@@ -9,7 +9,6 @@ categories: []
 tags:
 - Enterprise AI Strategy
 - Agentic AI
-- AI Governance & Security
 keywords: [Enterprise AI Strategy, Agentic AI,AI Governance & Security]
 permalink: /Enterprise AI Daily Newsletter April 7, 2026/
 ---

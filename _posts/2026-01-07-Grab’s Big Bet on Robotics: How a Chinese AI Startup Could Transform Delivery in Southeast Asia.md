@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Grab acquisition 
-- AI robotics
-- last-mile delivery
+- AI Robotics
 keywords: [autonomous robots, delivery automation, Southeast Asia logistics]
 permalink: /Grab’s Big Bet on Robotics- How a Chinese AI Startup Could Transform Delivery in Southeast Asia/
 ---

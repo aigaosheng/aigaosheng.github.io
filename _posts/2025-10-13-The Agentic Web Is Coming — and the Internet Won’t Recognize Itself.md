@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Agentic web
-- AI agents
-- Agent-to-agent protocols
+- AI Agents
 keywords: ["agentic", "autonomous agents", "AI security"]
 ---
 ---

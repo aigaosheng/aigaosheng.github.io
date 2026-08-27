@@ -8,9 +8,7 @@ status: publish
 categories: []
 tags:
 - Quantum Computing
-- CHIPS Act
 - Investment
-- Quantum Error Correction
 keywords: [Quantum Computing, CHIPS Act, Quantum Investment, QRAM, Quantum Advantage]
 permalink: /Quantum-Computing-Brief-2026-05-25/
 ---

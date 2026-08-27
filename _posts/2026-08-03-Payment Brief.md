@@ -7,9 +7,9 @@ published: true
 status: publish
 categories: []
 tags:
-- payments
-- fintech
-- stablecoins
+- Payments
+- Fintech
+- Stablecoins
 keywords: [payments, fintech, stablecoins]
 permalink: /Payment-Brief-2026-08-03/
 ---

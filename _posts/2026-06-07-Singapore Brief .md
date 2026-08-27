@@ -11,7 +11,6 @@ tags:
 - Trade
 - Climate Tech
 - Retail
-- F&B
 - Semiconductors
 - Wealth Management
 keywords: [Singapore, US tariffs, climate tech, retail sales, F&B sector, semiconductors, DBS, SUTL]

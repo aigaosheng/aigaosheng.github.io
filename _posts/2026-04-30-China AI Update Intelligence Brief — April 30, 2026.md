@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - China AI
-- AI chips China
-- Huawei DeepSeek
+- AI Chips China
 keywords: [China AI, AI chips China, Huawei DeepSeek]
 permalink: /China AI Update Intelligence Brief — April 30, 2026/
 ---

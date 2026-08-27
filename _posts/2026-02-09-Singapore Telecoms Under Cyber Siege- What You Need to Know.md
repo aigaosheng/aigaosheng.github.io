@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Singapore telcos cyberattack
-- key UNC3886 espionage
-- telecom cybersecurity
+- Singapore Telcos Cyberattack
 keywords: [cybersecurity, telecom attack, Singapore telcos]
 permalink: /Singapore Telecoms Under Cyber Siege- What You Need to Know/
 ---

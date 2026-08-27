@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Imprint
-- fintech funding
-- co-brand cards
+- Fintech-Funding
 keywords: [fintech, brand loyalty, venture capital]
 permalink: /Unicorn Upgraded - How Imprint’s $150M Series D Led by Khosla Ventures Is Redefining Brand Loyalty and Payments/
 ---

@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- stablecoin volatility
-- digital assets
-- market manipulation
+- Digital Assets
 keywords: [stablecoin, DeFi, crypto markets]
 permalink: /Market Shakeup- Trump-Backed USD1 Stablecoin Briefly Loses Its $1 Anchor — What It Means for Crypto/
 ---

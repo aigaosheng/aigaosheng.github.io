@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- agentic AI
-- benchmarks
-- adaptive delegation
-- synthetic environments
-- feature activation coverage
+- Agentic AI
+- Benchmarks
 keywords: [scalable RL, data‑centric optimization, autonomous research agents, multi‑agent orchestration]
 permalink: /Weekly AI Tech Research Update — February 21, 2026/
 ---

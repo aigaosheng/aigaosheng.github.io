@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- US Consumer Spending
-- Core Inflation
 - Federal Reserve Policy
+
 ---
 ---
 **Consumer Spending Resilient Amid Persistent Inflation**

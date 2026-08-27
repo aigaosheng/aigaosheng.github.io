@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- startups
-- venture-capital
+- Startups
+- Venture Capital
 - AI
 keywords: [investment, startups, venture capital, AI funding, IPO]
 permalink: /Investment-Startup-Brief-2026-07-02/

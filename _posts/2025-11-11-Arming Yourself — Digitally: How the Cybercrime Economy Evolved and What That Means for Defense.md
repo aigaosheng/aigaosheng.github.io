@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- cybercrime‑economy
 - AI‑enabled‑cyberattacks
-- ransomware‑as‑a‑service
 keywords: [cybercrime, AI security, ransomware]
 permalink: /Arming Yourself — Digitally - How the Cybercrime Economy Evolved and What That Means for Defense/
 ---

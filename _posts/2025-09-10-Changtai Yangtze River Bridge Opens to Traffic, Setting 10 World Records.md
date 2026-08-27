@@ -7,8 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- Changtai Yangtze River Bridge 
-- China News
+- Changtai Yangtze River Bridge
+
 ---
 
 ---

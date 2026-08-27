@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI governance
-- AI Act compliance 2026
-- regulatory enforcement
+- AI Governance
 keywords: [AI governance, AI Act compliance 2026, regulatory enforcement]
 permalink: /AI Governance Brief — May 13, 2026/
 ---

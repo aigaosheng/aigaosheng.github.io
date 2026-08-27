@@ -7,10 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- AI security
-- Copilot bug
-- data protection
-
+- AI Security
+- Data Protection
 keywords: [AI security, Copilot bug, data protection]
 permalink: /Microsoft Copilot Security Flaw Exposed Confidential Emails, Fueling Enterprise AI Trust Concerns/
 ---

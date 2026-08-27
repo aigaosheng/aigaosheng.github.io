@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- Z-Angle Memory
-- AI hardware innovation
-- memory bottleneck
+- AI Hardware Innovation
 keywords: [AI memory technology, next-generation memory, Intel SoftBank partnership]
 permalink: /SoftBank’s Saimemory and Intel Forge Strategic Partnership to Power Next-Gen AI Memory Revolution/
 ---

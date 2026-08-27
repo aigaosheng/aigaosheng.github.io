@@ -8,8 +8,7 @@ status: publish
 categories: []
 tags:
 - China AI
-- AI chips China
-- China tech policy
+- AI Chips China
 keywords: [China AI, AI chips China, China tech policy]
 permalink: /China AI Brief — May 5, 2026/
 ---

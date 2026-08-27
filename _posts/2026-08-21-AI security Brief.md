@@ -8,10 +8,9 @@ published: true
 status: publish
 categories: []
 tags:
-
-- ai-security
-- cybersecurity
-- agentic-ai
+- AI Security
+- Cybersecurity
+- Agentic AI
 keywords: [ai-security, cybersecurity, agentic-ai]
 permalink: /AI-security-Brief-2026-08-21/
 

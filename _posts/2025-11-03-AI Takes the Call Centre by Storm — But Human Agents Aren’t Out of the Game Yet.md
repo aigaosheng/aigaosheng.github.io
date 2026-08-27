@@ -7,9 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- AI customer service
-- call centre transformation
-- intelligent agent
+- Call Centre Transformation
 keywords: [AI, customer service, chatbots]
 permalink: /AI Takes the Call Centre by Storm — But Human Agents Aren’t Out of the Game Yet/
 ---

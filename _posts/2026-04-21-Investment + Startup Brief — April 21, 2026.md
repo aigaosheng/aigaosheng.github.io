@@ -7,9 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- venture capital 2026
-- AI startup funding
-- space IPO trends
+- Venture Capital 2026
+- AI Startup Funding
 keywords: [venture capital 2026, AI startup funding, space IPO trends]
 permalink: /Investment + Startup Brief — April 21, 2026/
 ---

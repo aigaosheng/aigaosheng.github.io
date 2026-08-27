@@ -7,11 +7,7 @@ published: true
 status: publish
 categories: []
 tags:
-- real-time video generation
-- multimodal reasoning model
-- reinforcement learning LLM
-- open-source AI models 2026
-- Hugging Face trending models
+- Hugging Face Trending Models
 keywords: [real-time video generation, multimodal reasoning model, reinforcement learning LLM, open-source AI models 2026, Hugging Face trending models]
 permalink: /Hugging Face Weekly Intelligence Report  March 1–7, 2026/
 ---

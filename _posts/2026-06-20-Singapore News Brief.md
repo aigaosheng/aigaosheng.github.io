@@ -12,7 +12,6 @@ tags:
 - Technology
 - Regulation
 - Tourism
-- Commodities
 keywords: [Singapore, MAS, SpaceX, Therme, water technology, commodity trading, Boeing, NUS]
 permalink: /Singapore-News-Brief-2026-06-20/
 ---

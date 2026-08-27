@@ -7,11 +7,8 @@ published: true
 status: publish
 categories: []
 tags:
-- payments-sovereignty
-- stablecoins
-- digital-currency
-- pay-by-bank
-- crypto-payments
+- Stablecoins
+- Pay-by-Bank
 keywords: [payments-sovereignty, stablecoins, digital-currency, pay-by-bank, crypto-payments]
 permalink: /payment-brief-2026-05-31/
 ---
