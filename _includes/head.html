@@ -56,8 +56,6 @@
     <![endif]-->
 
     <!-- ga & ba script hoook -->
-    <script></script>
-<script data-ad-client="ca-pub-7016129168456257" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-KTDMZH87NL"></script>
@@ -78,8 +76,11 @@
      data-ad-format="fluid"
      data-ad-client="ca-pub-8709587192438304"
      data-ad-slot="9687613288"></ins> -->
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<!--
+    Removed: a bare (adsbygoogle = window.adsbygoogle || []).push({}) that ran here
+    in <head>, before any <ins class="adsbygoogle"> slot exists on the page. With the
+    <ins> above commented out there is no slot at all, so the push only ever threw.
+    Re-add the push immediately AFTER an <ins> slot, in the body, if ads are wanted.
+-->
 
 </head>

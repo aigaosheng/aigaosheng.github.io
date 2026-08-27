@@ -27,17 +27,33 @@ header-img: "image/rawa-sun-falling2-a.png"
             <!-- Tag Cloud -->
             <div id='tag_cloud' class="tags">
                 {% for tag in site.tags %}
-                    <a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+                    <a href="#{{ tag[0] | slugify }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
                 {% endfor %}
             </div>
 
             <hr>
 
-            <!-- Posts per Tag -->
+            <!--
+                Posts per Tag.
+
+                This section used to list EVERY post under EVERY tag, which built
+                a single 6.1 MB HTML page. Each post carries several tags, so the
+                whole corpus was emitted many times over on one page.
+
+                It now shows the newest `posts_per_tag` posts per tag and states
+                the true total, which keeps the page browsable at a sane size.
+                The ids are slugified so they match the hrefs in the cloud above
+                and in _includes/featured-tags.html -- previously an id like
+                "computer program" contained a space and never resolved.
+            -->
+            {% assign posts_per_tag = 10 %}
             {% for tag in site.tags %}
-                <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
+                <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+                <p class="post-meta">
+                    {{ tag[1].size }} post{% if tag[1].size != 1 %}s{% endif %}{% if tag[1].size > posts_per_tag %} &middot; showing the {{ posts_per_tag }} most recent &middot; <a href="{{ '/search/' | relative_url }}">search for more</a>{% endif %}
+                </p>
                 <ul class="tag-posts">
-                    {% for post in tag[1] %}
+                    {% for post in tag[1] limit: posts_per_tag %}
                         <li>
                             <div class="post-preview">
                                 <a href="{{ post.url | prepend: site.baseurl }}">

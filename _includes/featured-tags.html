@@ -1,0 +1,34 @@
+<!--
+    Sidebar tag cloud, shared by _layouts/post.html and _layouts/page.html.
+
+    Previously this block was duplicated three times across those two layouts,
+    which is why the same two bugs existed in triplicate:
+
+      1. No upper bound. With featured-condition-size: 1 every tag used twice or
+         more qualified, rendering 786 links into every one of ~2,000 pages --
+         ~340 KB of sidebar wrapped around ~2.4 KB of article. Bounded now by
+         featured-condition-size (threshold) and featured-tags-max (hard cap).
+
+      2. Unescaped fragments. href="/tags/#{{ tag[0] }}" emitted things like
+         "/tags/#computer program" for the ~2,500 tags containing spaces, so the
+         anchors never resolved. Both this file and tags.html now pipe the tag
+         through | slugify, so the href and the target id always agree.
+
+    Keep the slugify here in sync with tags.html.
+-->
+<div class="tags">
+  {% assign shown = 0 %}
+  {% for tag in site.tags %}
+    {% if tag[1].size > site.featured-condition-size %}
+      {% if shown >= site.featured-tags-max %}{% break %}{% endif %}
+      <a
+        href="{{ site.baseurl }}/tags/#{{ tag[0] | slugify }}"
+        title="{{ tag[0] }}"
+        rel="{{ tag[1].size }}"
+      >
+        {{ tag[0] }}
+      </a>
+      {% assign shown = shown | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+</div>

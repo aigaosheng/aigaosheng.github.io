@@ -60,7 +60,14 @@ kramdown:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+# A tag must be used MORE than this many times to appear in the sidebar cloud.
+# This was 1, which admitted every tag used twice or more -- 786 links rendered
+# into the sidebar of all ~2,000 pages, making each page ~340 KB of boilerplate
+# around ~2.4 KB of article. 24 keeps the cloud at roughly 35 meaningful tags.
+featured-condition-size: 24
+# Hard ceiling on sidebar tag links, so the cloud cannot silently grow back
+# as more posts are added and more tags cross the threshold above.
+featured-tags-max: 40
 
 
 
