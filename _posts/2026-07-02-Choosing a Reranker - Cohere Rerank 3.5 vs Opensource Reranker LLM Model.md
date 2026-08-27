@@ -7,13 +7,12 @@ published: true
 status: publish
 categories: []
 tags:
-- Reranker
 - RAG
 - AI
 - Agentic AI
 - Enterprise AI
 keywords: [Reranker, RAG, Enterprise AI]
-permalink: /Choosing a Reranker - Cohere Rerank 3.5 vs Opensource Reranker LLM Model/
+permalink: /Choosing-a-Reranker-Cohere-Rerank-vs-Opensource-2026-07-02/
 ---
 # Choosing a Reranker - Cohere Rerank 3.5 vs Opensource Reranker LLM Model
 
