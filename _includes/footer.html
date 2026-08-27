@@ -3,17 +3,15 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                {% if site.nav_secondary %}
+                <ul class="list-inline text-center footer-links">
+                    {% for item in site.nav_secondary %}
+                    <li><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></li>
+                    {% endfor %}
+                    <li><a href="{{ '/series/' | prepend: site.baseurl }}">All series</a></li>
+                </ul>
+                {% endif %}
                 <ul class="list-inline text-center">
-                    {% if site.RSS %}
-                    <li>
-                        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
                     <!-- add jianshu add target = "_blank" to <a> by BY -->
                     {% if site.jianshu_username %}
                             <li>
@@ -91,7 +89,7 @@
                     {% endif %}
                 </ul>
                 <p class="copyright text-muted">
-                    Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
+                    Copyright &copy; {{ site.brand | default: site.title }} {{ site.time | date: '%Y' }}
                     <br>
                     Theme on <a href="{{ site.github_repo }}">GitHub</a> |
                     <iframe

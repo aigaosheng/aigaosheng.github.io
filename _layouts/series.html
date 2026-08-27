@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+{%- assign editions = site.posts | where: 'series', page.series -%}
+
+<div class="series-meta">
+  <p class="post-meta">
+    {{ editions.size }} edition{% if editions.size != 1 %}s{% endif %}
+    {%- if editions.size > 0 %} &middot; latest {{ editions.first.date | date: "%-d %B %Y" }}{% endif %}
+    &middot; <a href="{{ '/series/' | prepend: site.baseurl }}">all series</a>
+  </p>
+</div>
+
+{{ content }}
+
+{%- assign months = editions | group_by_exp: "e", "e.date | date: '%B %Y'" -%}
+{%- for month in months %}
+<h3 class="series-month">{{ month.name }}</h3>
+<ul class="series-list">
+  {%- for post in month.items %}
+  <li>
+    <a class="series-link" href="{{ post.url | prepend: site.baseurl }}">
+      <span class="series-date">{{ post.date | date: "%-d %b" }}</span>
+      {%- include post-lede.html post=post words=18 -%}
+      <span class="series-lede">{{ lede_1 }}</span>
+    </a>
+  </li>
+  {%- endfor %}
+</ul>
+{%- endfor %}
+
+{%- if editions.size == 0 %}
+<p>No editions yet.</p>
+{%- endif %}

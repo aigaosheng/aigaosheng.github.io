@@ -1,0 +1,90 @@
+{%- comment -%}
+  Pulls the leading story headlines out of a brief.
+
+    {% include post-lede.html post=post words=18 %}
+
+  Sets, for the caller:
+    lede_total  how many real story headings the post has
+    lede_1..3   the first three, cleaned and truncated to `words`
+
+  Prints nothing, so the caller chooses the markup.
+
+  Why: every brief opens with a heading that repeats its own title, and most
+  then have a "Top Stories" scaffold heading, so the naive preview
+  (content | strip_html | truncate: 200) printed the title twice followed by
+  boilerplate -- identical for every post. The distinguishing line is the first
+  story headline.
+
+  Splitting on '<h' rather than '<h3' is deliberate: posts are inconsistent
+  about the level they use for their title heading and for stories (# , ## and
+  ### all appear), so the level is read off each chunk instead of assumed.
+  '<h' is prepended back before strip_html because the chunk otherwise starts
+  mid-attribute and strip_html would leave 'id="...">' in the text.
+
+  NOTE: no Liquid tags inside these comments. Liquid runs before the HTML is
+  parsed, so anything in braces here still executes.
+{%- endcomment -%}
+{%- assign _words = include.words | default: 20 -%}
+{%- assign _title_l = include.post.title | downcase | strip -%}
+{%- comment -%}
+  Punctuation-free form of the title, so the heading that restates it is still
+  recognised when the two disagree on separators -- a post titled
+  "Fintech AI Brief - 2026-08-27" whose body heading reads "Fintech+AI Brief -
+  2026-08-27" is the same string once '+', '&', spaces and dashes are dropped.
+{%- endcomment -%}
+{%- assign _title_n = _title_l | remove: ' ' | remove: '+' | remove: '&' | remove: '-' | remove: '—' | remove: '–' | remove: ':' | remove: ',' | remove: '.' -%}
+{%- comment -%}
+  Two skip lists. Distinctive multi-word scaffolding is matched anywhere in the
+  heading, because it turns up with suffixes ("Top Stories (Max 10)"). Bare
+  single words are matched exactly only -- "summary" appears inside plenty of
+  real headlines.
+{%- endcomment -%}
+{%- assign _skip_in = 'top stories,top story,top headlines,executive summary,key takeaways,table of contents,at a glance,in this edition,quick hits,in brief,editor note,editors note' | split: ',' -%}
+{%- assign _skip_eq = 'headlines,summary,highlights,overview,takeaways,contents,introduction,intro,news,stories,other news,also in the news' | split: ',' -%}
+{%- assign lede_total = 0 -%}
+{%- assign lede_1 = '' -%}
+{%- assign lede_2 = '' -%}
+{%- assign lede_3 = '' -%}
+{%- assign _parts = include.post.content | split: '<h' -%}
+{%- for _p in _parts offset: 1 -%}
+  {%- assign _lvl = _p | slice: 0, 1 -%}
+  {%- comment -%}Rejects <hr>, <header> and anything else beginning "<h".{%- endcomment -%}
+  {%- unless _lvl == '1' or _lvl == '2' or _lvl == '3' or _lvl == '4' -%}{%- continue -%}{%- endunless -%}
+  {%- assign _t = _p | prepend: '<h' | split: '</h' | first | strip_html | strip_newlines | strip -%}
+  {%- comment -%}Drop a leading story number, but only when it really leads.{%- endcomment -%}
+  {%- assign _pre = _t | slice: 0, 3 -%}
+  {%- if _pre == '1. ' or _pre == '2. ' or _pre == '3. ' or _pre == '4. ' or _pre == '5. ' or _pre == '6. ' or _pre == '7. ' or _pre == '8. ' or _pre == '9. ' -%}
+    {%- assign _t = _t | remove_first: _pre | strip -%}
+  {%- endif -%}
+  {%- if _t == '' -%}{%- continue -%}{%- endif -%}
+  {%- assign _tl = _t | downcase -%}
+  {%- if _skip_eq contains _tl -%}{%- continue -%}{%- endif -%}
+  {%- assign _scaffold = false -%}
+  {%- for _s in _skip_in -%}
+    {%- if _tl contains _s -%}{%- assign _scaffold = true -%}{%- break -%}{%- endif -%}
+  {%- endfor -%}
+  {%- if _scaffold -%}{%- continue -%}{%- endif -%}
+  {%- comment -%}Skip the heading that merely restates the post title.{%- endcomment -%}
+  {%- assign _tn = _tl | remove: ' ' | remove: '+' | remove: '&' | remove: '-' | remove: '—' | remove: '–' | remove: ':' | remove: ',' | remove: '.' -%}
+  {%- if _tn == '' -%}{%- continue -%}{%- endif -%}
+  {%- if _title_n contains _tn -%}{%- continue -%}{%- endif -%}
+  {%- if _tn contains _title_n -%}{%- continue -%}{%- endif -%}
+  {%- assign lede_total = lede_total | plus: 1 -%}
+  {%- if lede_total == 1 -%}{%- assign lede_1 = _t | truncatewords: _words -%}
+  {%- elsif lede_total == 2 -%}{%- assign lede_2 = _t | truncatewords: _words -%}
+  {%- elsif lede_total == 3 -%}{%- assign lede_3 = _t | truncatewords: _words -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- comment -%}
+  Fallback for posts with no story headings at all -- essays and the old
+  tutorials. Use their opening text, minus any title heading.
+{%- endcomment -%}
+{%- if lede_total == 0 -%}
+  {%- comment -%}
+    Prose needs more room than a headline slot, so the fallback gets its own
+    budget rather than reusing `words`.
+  {%- endcomment -%}
+  {%- assign _fw = include.fallback_words | default: 40 -%}
+  {%- assign _body = include.post.content | split: '</h1>' | last -%}
+  {%- assign lede_1 = _body | strip_html | strip_newlines | strip | truncatewords: _fw -%}
+{%- endif -%}

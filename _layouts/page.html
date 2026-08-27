@@ -3,16 +3,43 @@ layout: default
 ---
 
 <!-- Page Header -->
+{%- comment -%}
+  The hero image is a bright beach photo and the hero text is white, so without
+  a scrim the text was unreadable on the light half of the image. post.html
+  already supported page.header-mask; this mirrors it here, and _config.yml sets
+  a default so every page gets one. Set header-mask: 0 in a page's front matter
+  to opt out.
+{%- endcomment -%}
+<style type="text/css">
+  header.intro-header { position: relative; }
+  {% if page.header-mask %}
+  header.intro-header .header-mask {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, {{ page.header-mask }});
+  }
+  {% endif %}
+</style>
 <header
   class="intro-header"
   style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')"
 >
+  <div class="header-mask"></div>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="site-heading">
-          <!-- <h2>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h2>-->
-          <!--<hr class="small">-->
+          {%- comment -%}
+            The theme shipped this heading commented out, which meant a page's
+            own name never appeared on the page -- a series page showed its
+            description and its list of editions but never the series name. The
+            homepage is unaffected: index.html has no title, so this stays empty
+            there and only the hero markup below shows.
+          {%- endcomment -%}
+          {% if page.title %}<h2 class="page-heading">{{ page.title }}</h2>{% endif %}
           <!--
             page.hero carries hero markup that must NOT become the SEO meta
             description (see index.html). Pages that only need plain text keep
@@ -148,16 +175,6 @@ layout: default
 
             <!-- SNS Links -->
             <ul class="list-inline">
-              {% if site.RSS %}
-                <li>
-                  <a href="{{ '/feed.xml' | prepend: site.baseurl }}">
-                    <span class="fa-stack fa-lg">
-                      <i class="fa fa-circle fa-stack-2x"></i>
-                      <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-                    </span>
-                  </a>
-                </li>
-              {% endif %}
               {% if site.jianshu_username %}
                 <li>
                   <a target="_blank" href="https://www.jianshu.com/u/{{ site.jianshu_username }}">

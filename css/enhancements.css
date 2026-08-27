@@ -1,0 +1,152 @@
+/* Additions layered on top of hux-blog.min.css, which is generated from less/
+ * and should not be hand-edited. Everything here is scoped to classes that did
+ * not exist in the theme: series pages, the rebuilt post cards, the post TOC,
+ * the share row and the footer's secondary links. */
+
+/* ---- Series badge on post cards and post headers ---- */
+.post-series {
+  margin: 0 0 6px;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.post-series a { color: #0085a1; border: none; }
+.post-series a:hover { color: #00657b; }
+.post-heading .post-series a,
+.post-heading .post-series { color: #fff; opacity: .85; }
+
+/* ---- Post cards: story headlines instead of a truncated blob ---- */
+.post-stories {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 12px;
+}
+.post-stories li {
+  position: relative;
+  padding-left: 18px;
+  margin-bottom: 5px;
+  font-size: 16px;
+  line-height: 1.45;
+}
+.post-stories li:before {
+  content: "\2013";
+  position: absolute;
+  left: 0;
+  color: #aaa;
+}
+.post-stories li a { color: #404040; border: none; }
+.post-stories li a:hover { color: #0085a1; }
+.post-stories-more a { color: #0085a1; font-size: 14px; }
+.post-preview > a:hover .post-title { color: #0085a1; }
+
+/* ---- Series index cards ---- */
+.series-group {
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #999;
+  margin: 34px 0 14px;
+}
+.series-card {
+  padding: 16px 0 18px;
+  border-bottom: 1px solid #eee;
+}
+.series-card-title { margin: 0 0 2px; font-size: 24px; }
+/* The theme gives <p> a large bottom margin, which left the four lines of a
+ * card looking like four unrelated blocks. */
+.series-card p { margin: 0 0 3px; line-height: 1.45; }
+.series-card-desc { color: #666; }
+.series-card-latest { font-size: 15px; }
+.series-card-latest a { color: #404040; }
+.series-card-latest a:hover { color: #0085a1; }
+
+/* ---- Series page: dated list of editions ---- */
+.series-meta { margin-bottom: 8px; }
+.series-month {
+  font-size: 15px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #999;
+  margin: 28px 0 8px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #eee;
+}
+.series-list { list-style: none; padding: 0; margin: 0; }
+.series-list li { margin-bottom: 3px; }
+.series-link {
+  display: flex;
+  gap: 12px;
+  padding: 5px 0;
+  color: #404040;
+  border: none;
+  line-height: 1.4;
+}
+.series-link:hover { color: #0085a1; }
+.series-date {
+  flex: 0 0 52px;
+  color: #999;
+  font-size: 13px;
+  padding-top: 2px;
+  white-space: nowrap;
+}
+.series-lede { flex: 1 1 auto; }
+
+/* ---- In-post table of contents ---- */
+.post-toc {
+  margin: 0 0 30px;
+  padding: 14px 18px;
+  background: #fafafa;
+  border-left: 3px solid #0085a1;
+}
+.post-toc-title {
+  margin: 0 0 8px;
+  font-size: 13px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #999;
+}
+.post-toc ol { list-style: none; padding: 0; margin: 0; counter-reset: toc; }
+.post-toc li { margin-bottom: 4px; line-height: 1.4; }
+.post-toc a { color: #404040; }
+.post-toc a:hover { color: #0085a1; }
+.post-toc .toc-h3 { padding-left: 14px; font-size: 15px; }
+
+/* ---- Read-on blocks under a post ---- */
+.post-more { margin: 34px 0 0; }
+.post-more h5 {
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 10px;
+}
+.post-share { margin: 30px 0 0; }
+.post-share a {
+  display: inline-block;
+  margin: 0 14px 0 0;
+  font-size: 14px;
+  color: #666;
+}
+.post-share a:hover { color: #0085a1; }
+
+/* ---- Footer secondary links ---- */
+.footer-links { margin-bottom: 6px; }
+.footer-links li a { font-size: 14px; color: #999; }
+.footer-links li a:hover { color: #0085a1; }
+
+@media (max-width: 767px) {
+  .series-link { gap: 8px; }
+  .series-date { flex-basis: 44px; font-size: 12px; }
+  .post-stories li { font-size: 15px; }
+}
+
+/* Page hero heading, restored in _layouts/page.html. */
+.site-heading .page-heading {
+  margin: 0 0 6px;
+  font-size: 40px;
+  font-weight: 700;
+  color: #fff;
+}
+@media (max-width: 767px) {
+  .site-heading .page-heading { font-size: 30px; }
+}

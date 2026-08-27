@@ -3,6 +3,9 @@ timezone: "Asia/Singapore"
 
 # Site settings
 title: AI-driven Business Transformation | Consulting & Development
+# Short label for the navbar. site.title is a consulting strapline that wraps
+# onto three lines on a phone; it is still used for <title> and metadata.
+brand: AISeng Tech
 SEOTitle: AI Consultant | Enterprise Agentic AI | Tokenization payment
 header-img: image/rawa-sun-falling2-a
 email: goseng123@gmail.com
@@ -19,13 +22,40 @@ keyword: Enterprise Agentic AI, digital Transformation, Tokenization payment
 url: "https://aisengtech.com"
 github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git"
 
+# Navigation bar, in order.
+#
+# The nav used to loop over site.pages and print every page that had a title,
+# so link order was filesystem-dependent and any new page joined the bar
+# automatically -- which would now mean all 15 series pages. Listing the links
+# here keeps the bar deliberate. Peripheral pages (Resume, Privacy & Support)
+# moved to the footer rather than disappearing.
+nav:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series/
+  - title: Tags
+    url: /tags/
+  - title: About
+    url: /about/
+  - title: Services
+    url: "/products&services/"
+  - title: Search
+    url: /search/
+
+# Secondary links, footer only.
+nav_secondary:
+  - title: Resume
+    url: /resume/
+  - title: Privacy & Support
+    url: "/Privacy&Support/"
+
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: Artificial intelligence, Agentic AI, machine learning, data science, Expert Developers
 sidebar-avatar: /image/gs.jpg     
 
 # SNS settings
-RSS: false
 linkedin_username:    dlsheng 
 github_username:    aigaosheng
 
@@ -33,7 +63,7 @@ github_username:    aigaosheng
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 60
+paginate: 12
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "draft", "docs", "img"]
 anchorjs: true 
 
@@ -82,6 +112,10 @@ defaults:
       path: ""
     values:
       image: /image/rawa-sun-falling3.jpg
+      # Scrim opacity behind the white hero text. The hero photo is bright, so
+      # without this the title and subheading were unreadable over the sky.
+      # Override per page/post, or set 0 to remove.
+      header-mask: 0.45
 
 
 # Featured Tags

@@ -14,8 +14,25 @@ hero: '<div class="proverb"><p style="color:#FFF8E1">不积跬步，无以至千
 header-img: "image/rawa-sun-falling2-a.png"
 ---
 
+{%- comment -%}
+  Post cards.
+
+  The old preview was `post.content | strip_html | truncate:200`. Because every
+  brief opens with an H1 repeating its own title, each of the 60 cards on a page
+  printed the title, then the title again, then "Top Stories", then "1.", then
+  cut off mid-word -- 60 visually identical blocks. Cards now lead with what is
+  actually inside the edition: up to three story headlines pulled from the H3s.
+
+  NOTE: no Liquid tags inside these comments -- Liquid runs before HTML parsing.
+{%- endcomment -%}
 {% for post in paginator.posts %}
 <div class="post-preview">
+    {% if post.series %}
+    {%- assign series_page = site.pages | where: 'series', post.series | first -%}
+    <p class="post-series">
+        {% if series_page %}<a href="{{ series_page.url | prepend: site.baseurl }}">{{ post.series }}</a>{% else %}{{ post.series }}{% endif %}
+    </p>
+    {% endif %}
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
@@ -25,12 +42,36 @@ header-img: "image/rawa-sun-falling2-a.png"
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:200 }}
-        </div>
     </a>
+
+    {%- include post-lede.html post=post words=16 -%}
+    {% if lede_total > 0 %}
+    <ul class="post-stories">
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ lede_1 }}</a></li>
+        {%- if lede_2 != '' %}
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ lede_2 }}</a></li>
+        {%- endif %}
+        {%- if lede_3 != '' %}
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ lede_3 }}</a></li>
+        {%- endif %}
+        {%- assign more = lede_total | minus: 3 %}
+        {%- if more > 0 %}
+        <li class="post-stories-more">
+            <a href="{{ post.url | prepend: site.baseurl }}">+ {{ more }} more</a>
+        </li>
+        {%- endif %}
+    </ul>
+    {% else %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-content-preview">{{ lede_1 }}</div>
+    </a>
+    {% endif %}
+
     <p class="post-meta">
-        Posted on {{ post.date | date: "%B %d, %Y at %I:%M %p" }}
+        {{ post.date | date: "%-d %B %Y" }}
+        {%- assign words = post.content | number_of_words -%}
+        {%- assign mins = words | divided_by: 220 | plus: 1 %}
+        &middot; {{ mins }} min read
     </p>
 </div>
 <hr>

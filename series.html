@@ -1,0 +1,64 @@
+---
+layout: page
+title: "Series"
+description: "Every recurring column on the site, with its latest edition."
+hero: "Recurring columns. Follow the beats you care about instead of the whole firehose."
+permalink: /series/
+---
+
+{%- comment -%}
+  Data-driven index: it lists every page in series/ that declares a `series:`
+  key, so adding a column is one file, not an edit here too.
+
+  Liquid cannot sort by a computed value (post count per series), so instead of
+  faking an order with a hand-maintained weight that drifts out of date, columns
+  are split by whether they are still running and listed alphabetically inside
+  each group. "Still running" = an edition in the last 60 days.
+
+  NOTE: no Liquid tags inside these comments -- Liquid runs before HTML parsing,
+  so braces in a comment still execute.
+{%- endcomment -%}
+
+{%- assign cutoff = site.time | date: '%s' | plus: 0 | minus: 5184000 -%}
+{%- assign all_series = site.pages | where_exp: "p", "p.series" | sort: "series" -%}
+{%- comment -%}Liquid's for tag takes no filters on the iterable, hence the assign.{%- endcomment -%}
+{%- assign groups = "running,past" | split: "," -%}
+
+{%- for group in groups %}
+  {%- assign shown = 0 -%}
+  {%- capture body -%}
+    {%- for s in all_series -%}
+      {%- assign editions = site.posts | where: 'series', s.series -%}
+      {%- if editions.size == 0 -%}{%- continue -%}{%- endif -%}
+      {%- assign latest = editions.first.date | date: '%s' | plus: 0 -%}
+      {%- if group == "running" and latest <= cutoff -%}{%- continue -%}{%- endif -%}
+      {%- if group == "past" and latest > cutoff -%}{%- continue -%}{%- endif -%}
+      {%- assign shown = shown | plus: 1 %}
+      <div class="series-card">
+        <h2 class="series-card-title">
+          <a href="{{ s.url | prepend: site.baseurl }}">{{ s.series }}</a>
+        </h2>
+        <p class="series-card-desc">{{ s.description }}</p>
+        <p class="post-meta">
+          {{ editions.size }} edition{% if editions.size != 1 %}s{% endif %}
+          &middot; latest {{ editions.first.date | date: "%-d %b %Y" }}
+        </p>
+        <p class="series-card-latest">
+          {%- include post-lede.html post=editions.first words=20 -%}
+          <a href="{{ editions.first.url | prepend: site.baseurl }}">{{ lede_1 }}</a>
+        </p>
+      </div>
+    {%- endfor -%}
+  {%- endcapture -%}
+  {%- if shown > 0 %}
+    <h1 class="series-group">{% if group == "running" %}Still running{% else %}No longer updated{% endif %}</h1>
+    {{ body }}
+  {%- endif -%}
+{%- endfor %}
+
+<hr>
+<p class="post-meta">
+  Posts that are not part of a column are still on the
+  <a href="{{ site.baseurl }}/">front page</a> and under
+  <a href="{{ '/tags/' | prepend: site.baseurl }}">tags</a>.
+</p>

@@ -18,6 +18,8 @@ layout: default
         width: 100%;
         height: 100%;
         position: absolute;
+        top: 0;
+        left: 0;
         background: rgba(0,0,0, {{ page.header-mask }});
     }
     {% endif %}
@@ -29,6 +31,12 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
+                    {% if page.series %}
+                    {%- assign series_page = site.pages | where: 'series', page.series | first -%}
+                    <p class="post-series">
+                        {% if series_page %}<a href="{{ series_page.url | prepend: site.baseurl }}">{{ page.series }}</a>{% else %}{{ page.series }}{% endif %}
+                    </p>
+                    {% endif %}
                     <div class="tags">
                         {% for tag in page.tags %}
                         <a class="tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}" title="{{ tag }}">{{ tag }}</a>
@@ -59,28 +67,101 @@ layout: default
                 col-md-10 col-md-offset-1
                 post-container">
 
+                {%- comment -%}
+                    Table of contents. The theme shipped a .side-catalog block
+                    that looped over site.categories (all empty) and a JS file
+                    that only positioned the box, never filled it -- so the TOC
+                    was non-functional and was switched on for 6 of ~2,300 posts.
+                    This is built from the rendered headings by js/post-toc.js.
+
+                    NOTE: no Liquid tags inside these comments -- Liquid runs
+                    before HTML parsing, so braces here still execute.
+                {%- endcomment -%}
+                <nav class="post-toc" id="post-toc" hidden>
+                    <p class="post-toc-title">In this edition</p>
+                    <ol></ol>
+                </nav>
+
 				{{ content }}
 
                 <hr style="visibility: hidden;">
 
+                {%- comment -%}
+                    Previous/Next used page.previous / page.next, which walk the
+                    whole site chronologically. At roughly ten posts a day across
+                    fifteen columns that pager was effectively random -- "Next"
+                    from a Payment Brief landed on a Quantum Brief. When a post
+                    belongs to a column, step within that column instead.
+                {%- endcomment -%}
+                {%- assign prev_post = page.previous -%}
+                {%- assign next_post = page.next -%}
+                {%- assign nav_label = "" -%}
+                {%- if page.series -%}
+                  {%- assign editions = site.posts | where: 'series', page.series -%}
+                  {%- assign found = -1 -%}
+                  {%- for e in editions -%}
+                    {%- if e.url == page.url -%}{%- assign found = forloop.index0 -%}{%- break -%}{%- endif -%}
+                  {%- endfor -%}
+                  {%- if found >= 0 -%}
+                    {%- comment -%}site.posts is newest first, so index-1 is the newer edition.{%- endcomment -%}
+                    {%- assign newer_i = found | minus: 1 -%}
+                    {%- assign older_i = found | plus: 1 -%}
+                    {%- if newer_i >= 0 -%}{%- assign prev_post = editions[newer_i] -%}{%- else -%}{%- assign prev_post = nil -%}{%- endif -%}
+                    {%- if older_i < editions.size -%}{%- assign next_post = editions[older_i] -%}{%- else -%}{%- assign next_post = nil -%}{%- endif -%}
+                    {%- assign nav_label = page.series -%}
+                  {%- endif -%}
+                {%- endif %}
+
                 <ul class="pager">
-                    {% if page.previous.url %}
+                    {% if prev_post %}
                     <li class="previous">
-                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">
-                        Previous<br>
-                        <span>{{page.previous.title}}</span>
+                        <a href="{{ prev_post.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ prev_post.title }}">
+                        Newer{% if nav_label != "" %} in {{ nav_label }}{% endif %}<br>
+                        <span>{{ prev_post.date | date: "%-d %b %Y" }}</span>
                         </a>
                     </li>
                     {% endif %}
-                    {% if page.next.url %}
+                    {% if next_post %}
                     <li class="next">
-                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">
-                        Next<br>
-                        <span>{{page.next.title}}</span>
+                        <a href="{{ next_post.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ next_post.title }}">
+                        Older{% if nav_label != "" %} in {{ nav_label }}{% endif %}<br>
+                        <span>{{ next_post.date | date: "%-d %b %Y" }}</span>
                         </a>
                     </li>
                     {% endif %}
                 </ul>
+
+                {%- comment -%}More recent editions of the same column, and a share row.{%- endcomment -%}
+                {% if page.series %}
+                {%- assign siblings = site.posts | where: 'series', page.series -%}
+                {%- assign sib_shown = 0 -%}
+                <div class="post-more">
+                    <h5>
+                        More in
+                        {% if series_page %}<a href="{{ series_page.url | prepend: site.baseurl }}">{{ page.series }}</a>{% else %}{{ page.series }}{% endif %}
+                    </h5>
+                    <ul class="series-list">
+                        {%- for e in siblings -%}
+                          {%- if e.url == page.url or sib_shown >= 5 -%}{%- continue -%}{%- endif -%}
+                          {%- assign sib_shown = sib_shown | plus: 1 %}
+                        <li>
+                            <a class="series-link" href="{{ e.url | prepend: site.baseurl }}">
+                                <span class="series-date">{{ e.date | date: "%-d %b" }}</span>
+                                {%- include post-lede.html post=e words=16 -%}
+                                <span class="series-lede">{{ lede_1 }}</span>
+                            </a>
+                        </li>
+                        {%- endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+
+                {%- assign share_url = page.url | prepend: site.url -%}
+                <div class="post-share">
+                    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url | url_encode }}" target="_blank" rel="noopener noreferrer">Share on LinkedIn</a>
+                    <a href="https://twitter.com/intent/tweet?url={{ share_url | url_encode }}&amp;text={{ page.title | url_encode }}" target="_blank" rel="noopener noreferrer">Share on X</a>
+                    <a href="#" class="js-copy-link" data-url="{{ share_url }}">Copy link</a>
+                </div>
 
 
                 <!--Gitalk评论start  -->
@@ -116,27 +197,6 @@ layout: default
                 {% endif %}
 
             </div>  
-
-    <!-- Side Catalog Container -->
-        {% if page.catalog %}
-            <div class="
-                col-lg-2 col-lg-offset-0
-                visible-lg-block
-                sidebar-container
-                catalog-container">
-                <div class="side-catalog">
-                    <hr class="hidden-sm hidden-xs">
-                    <h5>
-                        <a class="catalog-toggle" href="#">CATALOG</a>
-                    </h5>
-        			{% for cat in site.categories %}
-            		    <li> {{ cat[0] }}  </li>
-    				{% endfor %}
-                    <ul class="catalog-body">
-                    </ul>
-                </div>
-            </div>
-        {% endif %}
 
     <!-- Sidebar Container -->
             <div class="
@@ -186,6 +246,8 @@ layout: default
 <!-- disqus 公共JS代码 end -->
 {% endif %}
 
+
+<script src="{{ "/js/post-toc.js" | prepend: site.baseurl }}"></script>
 
 {% if site.anchorjs %}
 <!-- async load function -->
