@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI Weekly Brief - Security Hardening, Image Model Updates, and GPT‑5.2‑Codex Expansion (Dec 21–27, 2025)"
+series: "AI Company Watch"
 date: 2025-12-27 22:31:00 +0800
 type: post
 published: true

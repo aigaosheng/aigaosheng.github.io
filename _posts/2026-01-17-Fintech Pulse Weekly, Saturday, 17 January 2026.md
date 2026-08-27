@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Pulse Weekly, Saturday, 17 January 2026"
+series: "AI & Fintech"
 date: 2026-01-17 20:49:00 +0800
 type: post
 published: true

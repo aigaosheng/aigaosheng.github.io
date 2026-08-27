@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Weekly Insight - AI & Search Advancements Driving Next‑Gen Platforms (Dec 06–12, 2025)"
+series: "AI Company Watch"
 date: 2025-12-13 21:53:00 +0800
 type: post
 published: true

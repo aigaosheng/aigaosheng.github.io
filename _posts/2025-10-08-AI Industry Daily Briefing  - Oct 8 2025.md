@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Industry Daily Briefing — October 8, 2025"
+series: "AI Industry News"
 date: 2025-10-08 22:43:00 +0800
 type: post
 published: true

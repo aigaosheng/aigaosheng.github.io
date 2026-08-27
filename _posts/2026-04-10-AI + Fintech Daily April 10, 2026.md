@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI + Fintech Daily April 10, 2026"
+series: "AI & Fintech"
 date: 2026-04-10 21:38:00 +0800
 type: post
 published: true

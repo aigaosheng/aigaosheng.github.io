@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI- Strategic Recalibration, Hardware & Talent Moves, and Policy Positioning (Weekly Update February 21, 2026)"
+series: "AI Company Watch"
 date: 2026-02-21 19:41:00 +0800
 type: post
 published: true

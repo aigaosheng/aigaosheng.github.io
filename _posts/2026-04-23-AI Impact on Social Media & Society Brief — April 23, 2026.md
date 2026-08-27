@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Impact on Social Media & Society Brief — April 23, 2026"
+series: "AI & Society"
 date: 2026-04-23 20:47:00 +0800
 type: post
 published: true

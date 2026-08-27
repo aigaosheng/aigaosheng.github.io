@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Qwen Weekly Insight Report Jan 31, 2026"
+series: "AI Company Watch"
 date: 2026-01-31 22:42:00 +0800
 type: post
 published: true

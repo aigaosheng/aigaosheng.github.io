@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Power Plays: Anthropic–Salesforce Alliance, Google’s Coral NPU, NVIDIA Sovereign AI, and More — Daily AI Industry Brief (Oct 15, 2025)"
+series: "AI Industry News"
 date: 2025-10-15 21:36:00 +0800
 type: post
 published: true

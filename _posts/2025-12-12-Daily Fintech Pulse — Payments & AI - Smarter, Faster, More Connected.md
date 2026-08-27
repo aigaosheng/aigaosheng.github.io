@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily Fintech Pulse — Payments & AI - Smarter, Faster, More Connected"
+series: "AI & Fintech"
 date: 2028-12-22 21:29:00 +0800
 type: post
 published: true

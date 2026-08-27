@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China AI Progress Brief — May 14, 2026"
+series: "US & China AI"
 date: 2026-05-14 21:00:00 +0800
 type: post
 published: true

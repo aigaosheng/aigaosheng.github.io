@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI & Cloud Brief — Key Product Releases (Oct 16–17, 2025): Agent Skills, Usage API, Cloud Ops & Data-Center Moves"
+series: "AI Industry News"
 date: 2025-10-17 20:58:00 +0800
 type: post
 published: true

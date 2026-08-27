@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft — 72-Hour Briefing - Copilot’s Personal Turn, Fabric for Higher-Ed, and Product + Sustainability Moves"
+series: "AI Company Watch"
 date: 2025-10-24 21:35:00 +0800
 type: post
 published: true

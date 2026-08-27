@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontiers Weekly — Valuations, Open Banking & IPO Watch"
+series: "AI & Fintech"
 date: 2026-01-03 21:20:00 +0800
 type: post
 published: true

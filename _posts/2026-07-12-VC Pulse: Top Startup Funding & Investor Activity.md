@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC Pulse Top Startup Funding & Investor Activity  — 2026-07-12"
+series: "Investment & Startups"
 date: 2026-07-12 17:41:00 +0800
 type: post
 published: true

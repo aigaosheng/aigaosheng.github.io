@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic Claude (Mar 15–21, 2026)- Strategic Weekly Insight Report"
+series: "AI Company Watch"
 date: 2026-03-21 20:46:00 +0800
 type: post
 published: true

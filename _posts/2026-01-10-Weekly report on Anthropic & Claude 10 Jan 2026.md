@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly report on Anthropic & Claude 10 Jan 2026"
+series: "AI Company Watch"
 date: 2026-01-10 19:57:00 +0800
 type: post
 published: true

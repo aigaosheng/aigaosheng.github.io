@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI — Weekly Briefing (Nov 22–29, 2025) - Product Push, Compliance Wins, and Crisis Response"
+series: "AI Company Watch"
 date: 2025-11-29 21:10:00 +0800
 type: post
 published: true

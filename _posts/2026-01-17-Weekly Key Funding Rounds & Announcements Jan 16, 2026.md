@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly VC & Startup Funding Tracker (Last 7 Days — updates to *Jan 17, 2026*)"
+series: "Investment & Startups"
 date: 2026-01-17 21:20:00 +0800
 type: post
 published: true

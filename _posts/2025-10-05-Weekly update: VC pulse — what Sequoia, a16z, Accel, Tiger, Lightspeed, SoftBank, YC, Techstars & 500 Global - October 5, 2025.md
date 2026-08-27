@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly update: VC pulse — what Sequoia, a16z, Accel, Tiger, Lightspeed, SoftBank, YC, Techstars & 500 Global - October 5, 2025"
+series: "Investment & Startups"
 date: 2025-10-05 17:30:00 +0800
 type: post
 published: true

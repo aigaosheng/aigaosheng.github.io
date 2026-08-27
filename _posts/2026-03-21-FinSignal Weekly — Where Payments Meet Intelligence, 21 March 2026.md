@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FinSignal Weekly — Where Payments Meet Intelligence, 21 March 2026"
+series: "Payments"
 date: 2026-03-21 19:48:00 +0800
 type: post
 published: true

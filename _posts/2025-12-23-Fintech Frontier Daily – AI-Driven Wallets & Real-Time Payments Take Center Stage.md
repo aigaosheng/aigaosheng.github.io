@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontier Daily – AI-Driven Wallets & Real-Time Payments Take Center Stage"
+series: "AI & Fintech"
 date: 2025-12-23 20:35:00 +0800
 type: post
 published: true

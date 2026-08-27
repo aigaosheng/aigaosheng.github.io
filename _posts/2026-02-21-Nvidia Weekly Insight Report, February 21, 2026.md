@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nvidia Weekly Insight Report, February 21, 2026"
+series: "AI Company Watch"
 date: 2026-02-21 20:33:00 +0800
 type: post
 published: true

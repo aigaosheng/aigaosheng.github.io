@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC & Startup Ecosystem Weekly Update (Top VC‑Backed Movements — Last 7 Days)"
+series: "Investment & Startups"
 date: 2025-12-20 20:29:00 +0800
 type: post
 published: true

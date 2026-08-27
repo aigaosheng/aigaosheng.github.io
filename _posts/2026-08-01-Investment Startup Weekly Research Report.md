@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Investment Startup Weekly Research Report — 2026-08-01"
+series: "Investment & Startups"
 date: 2026-08-01 22:37:00 +0800
 type: post
 published: true

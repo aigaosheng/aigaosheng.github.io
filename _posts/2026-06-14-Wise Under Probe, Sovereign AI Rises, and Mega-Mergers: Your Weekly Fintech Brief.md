@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wise Under Probe, Sovereign AI Rises, and Mega-Mergers - Your Weekly Fintech Brief"
+series: "AI Industry News"
 date: 2026-06-14 17:00:00 +0800
 type: post
 published: true

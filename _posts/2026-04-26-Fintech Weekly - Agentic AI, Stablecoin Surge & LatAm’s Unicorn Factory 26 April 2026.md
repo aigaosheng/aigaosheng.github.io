@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly - Agentic AI, Stablecoin Surge & LatAm’s Unicorn Factory 26 April 2026"
+series: "AI & Fintech"
 date: 2026-04-26 16:27:00 +0800
 type: post
 published: true

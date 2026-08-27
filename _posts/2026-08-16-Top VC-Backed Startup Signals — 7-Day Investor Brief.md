@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Top VC-Backed Startup Signals — Weekly Investor Brief"
+series: "Investment & Startups"
 date: 2026-08-16 20:14:00 +0800
 type: post
 published: true

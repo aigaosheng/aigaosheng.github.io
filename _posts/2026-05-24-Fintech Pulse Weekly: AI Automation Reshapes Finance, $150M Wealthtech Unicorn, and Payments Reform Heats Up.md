@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Pulse Weekly- AI Automation Reshapes Finance, $150M Wealthtech Unicorn, and Payments Reform Heats Up"
+series: "AI & Fintech"
 date: 2026-05-24 17:25:00 +0800
 type: post
 published: true

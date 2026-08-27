@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Governance Brief — May 11, 2026"
+series: "AI Governance & Regulation"
 date: 2026-05-11 20:06:00 +0800
 type: post
 published: true

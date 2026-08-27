@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agentic AI Weekly Research Report — 2026-08-01"
+series: "AI Research & Open Source"
 date: 2026-08-01 22:00:00 +0800
 type: post
 published: true

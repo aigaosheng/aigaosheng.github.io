@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Fintech Newsletter — 2026-07-12"
+series: "AI & Fintech"
 date: 2026-07-12 17:51:00 +0800
 type: post
 published: true

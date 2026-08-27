@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic - Strategic Partnerships, Infrastructure Build-out, and Alignment Research — Weekly Briefing (Nov 12–21, 2025)"
+series: "AI Company Watch"
 date: 2025-11-22 21:20:00 +0800
 type: post
 published: true

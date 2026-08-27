@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI Tech Research Update — 2025-12-06"
+series: "AI Research & Open Source"
 date: 2025-12-06 20:15:00 +0800
 type: post
 published: true

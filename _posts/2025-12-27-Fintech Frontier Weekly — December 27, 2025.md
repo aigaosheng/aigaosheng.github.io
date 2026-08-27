@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontier Weekly — December 27, 2025"
+series: "AI & Fintech"
 date: 2025-12-27 21:22:00 +0800
 type: post
 published: true

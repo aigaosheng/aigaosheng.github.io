@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MiniMax Weekly Insight Report (Jan 25 – Jan 31, 2026)"
+series: "AI Company Watch"
 date: 2026-01-31 22:46:00 +0800
 type: post
 published: true

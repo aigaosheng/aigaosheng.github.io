@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "weekly industry‑grade insight report on Qwen Jan 3 2026"
+series: "AI Company Watch"
 date: 2026-01-03 22:37:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Qwen AI Ecosystem Update – Official Qwen Announcements December 27 2025"
+series: "AI Company Watch"
 date: 2025-12-27 22:59:00 +0800
 type: post
 published: true

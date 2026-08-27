@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI / Tech Research Brief — selection of top papers, October 6, 2025"
+series: "AI Research & Open Source"
 date: 2025-10-06 21:15:00 +0800
 type: post
 published: true

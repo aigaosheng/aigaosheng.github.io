@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tech news Brief — 2026-05-27"
+series: "AI Industry News"
 date: 2026-05-27 21:39:00 +0800
 type: post
 published: true

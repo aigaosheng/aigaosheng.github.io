@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly updates of Hugging Face model and research - February 13, 2026"
+series: "AI Company Watch"
 date: 2026-02-13 20:48:00 +0800
 type: post
 published: true

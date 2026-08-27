@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Investment + AI Brief — April 29, 2026"
+series: "Investment & Startups"
 date: 2026-04-29 21:35:00 +0800
 type: post
 published: true

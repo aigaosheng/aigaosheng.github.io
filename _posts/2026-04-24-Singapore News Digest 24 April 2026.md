@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore News Digest 24 April 2026"
+series: "Singapore"
 date: 2026-04-24 22:44:00 +0800
 type: post
 published: true

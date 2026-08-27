@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Market — Daily Brief (last 24 hours — Oct 6, 2025)"
+series: "Market Reports"
 date: 2025-10-06 20:38:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft weekly - agentic models, privacy hardening, and product polish (Nov 22–29, 2025)"
+series: "AI Company Watch"
 date: 2025-11-29 21:42:00 +0800
 type: post
 published: true

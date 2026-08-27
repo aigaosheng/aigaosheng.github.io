@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Chinese Market Report – October 1, 2025"
+series: "Market Reports"
 date: 2025-10-01 22:40:00 +0800
 type: post
 published: true

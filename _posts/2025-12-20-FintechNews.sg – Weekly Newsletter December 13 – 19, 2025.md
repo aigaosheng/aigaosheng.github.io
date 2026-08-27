@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FintechNews.sg – Weekly Newsletter December 13 – 19, 2025"
+series: "Singapore"
 date: 2025-12-20 20:14:00 +0800
 type: post
 published: true

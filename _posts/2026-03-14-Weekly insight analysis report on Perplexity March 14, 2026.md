@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly insight analysis report on Perplexity March 14, 2026"
+series: "AI Company Watch"
 date: 2026-03-14 17:04:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI+Payment Newsletter April 3, 2026 "
+series: "Payments"
 date: 2026-04-03 21:40:00 +0800
 type: post
 published: true

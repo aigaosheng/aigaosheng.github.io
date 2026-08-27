@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Pulse Weekly- AI Agents Take the Wheel, Payments Sovereignty Heats Up"
+series: "AI & Fintech"
 date: 2026-05-31 20:45:00 +0800
 type: post
 published: true

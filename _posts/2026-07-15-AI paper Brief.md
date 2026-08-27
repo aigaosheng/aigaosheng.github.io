@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI paper Brief — 2026-07-15"
+series: "AI Research & Open Source"
 date: 2026-07-15 20:00:00 +0800
 type: post
 published: true

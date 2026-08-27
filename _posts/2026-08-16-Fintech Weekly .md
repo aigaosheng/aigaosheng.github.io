@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly — 16 August 2026"
+series: "AI & Fintech"
 date: 2026-08-16 19:54:00 +0800
 type: post
 published: true

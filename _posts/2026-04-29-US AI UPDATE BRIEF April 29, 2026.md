@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "US AI UPDATE BRIEF April 29, 2026"
+series: "US & China AI"
 date: 2026-04-29 21:49:00 +0800
 type: post
 published: true

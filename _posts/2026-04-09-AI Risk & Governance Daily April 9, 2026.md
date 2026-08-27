@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Risk & Governance Daily April 9, 2026"
+series: "AI Governance & Regulation"
 date: 2026-04-09 22:42:00 +0800
 type: post
 published: true

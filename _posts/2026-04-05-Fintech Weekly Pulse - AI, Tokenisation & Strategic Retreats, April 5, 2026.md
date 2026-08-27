@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly Pulse - AI, Tokenisation & Strategic Retreats, April 5, 2026"
+series: "AI & Fintech"
 date: 2026-04-05 17:33:00 +0800
 type: post
 published: true

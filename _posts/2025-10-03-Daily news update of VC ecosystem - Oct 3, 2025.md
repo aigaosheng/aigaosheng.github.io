@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily news update of VC ecosystem - Oct 3, 2025"
+series: "Investment & Startups"
 date: 2025-10-03 22:23:00 +0800
 type: post
 published: true

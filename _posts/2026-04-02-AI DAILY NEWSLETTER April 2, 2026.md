@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI DAILY NEWSLETTER April 2, 2026"
+series: "AI Industry News"
 date: 2026-04-02 20:23:00 +0800
 type: post
 published: true

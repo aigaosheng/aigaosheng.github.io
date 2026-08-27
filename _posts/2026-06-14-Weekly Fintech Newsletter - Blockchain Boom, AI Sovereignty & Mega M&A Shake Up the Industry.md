@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Fintech Newsletter - Blockchain Boom, AI Sovereignty & Mega M&A Shake Up the Industry"
+series: "AI & Fintech"
 date: 2026-06-14 17:33:00 +0800
 type: post
 published: true

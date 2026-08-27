@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Frontier AI Labs Intelligence Brief — 2026-05-03"
+series: "AI Industry News"
 date: 2026-05-03 19:46:00 +0800
 type: post
 published: true

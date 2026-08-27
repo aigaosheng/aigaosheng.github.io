@@ -2,6 +2,7 @@
 
 layout: post
 title: "Enterprise AI Weekly Research Report — 2026-08-01"
+series: "Enterprise AI"
 date: 2026-08-01 21:00:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Market Report – October 1, 2025"
+series: "Market Reports"
 date: 2025-10-01 22:50:00 +0800
 type: post
 published: true

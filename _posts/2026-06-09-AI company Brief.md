@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI company Brief — 2026-06-09"
+series: "AI Company Watch"
 date: 2026-06-09 21:19:00 +0800
 type: post
 published: true

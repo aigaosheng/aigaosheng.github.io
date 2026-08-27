@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Weekly Digest- Self-Improving Agents, Real-Time Robotics, and the Geopolitics of Open Source AI — March 2026"
+series: "AI Company Watch"
 date: 2026-03-21 20:39:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perplexity Weekly Innovation Strategy Report, December 13 2025"
+series: "AI Company Watch"
 date: 2025-12-13 21:35:00 +0800
 type: post
 published: true

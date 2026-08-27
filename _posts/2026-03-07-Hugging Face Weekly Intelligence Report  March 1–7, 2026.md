@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Weekly Intelligence Report  March 1–7, 2026"
+series: "AI Company Watch"
 date: 2026-03-07 17:50:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Governance & GRC Brief — May 14, 2026"
+series: "AI Governance & Regulation"
 date: 2026-05-14 20:30:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily Technology Report — 27 September 2025"
+series: "AI Industry News"
 date: 2025-09-27 22:21:00 +0800
 type: post
 published: true

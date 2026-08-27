@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hong Kong market report - October 1, 2025"
+series: "Market Reports"
 date: 2025-10-01 22:23:00 +0800
 type: post
 published: true

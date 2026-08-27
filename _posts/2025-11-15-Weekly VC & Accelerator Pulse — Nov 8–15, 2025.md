@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly VC & Accelerator Pulse — Nov 8–15, 2025"
+series: "Investment & Startups"
 date: 2025-11-15 21:53:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Payments & Digital Wallets Weekly"
+series: "Payments"
 date: 2026-08-09 16:51:00 +0800
 type: post
 published: true

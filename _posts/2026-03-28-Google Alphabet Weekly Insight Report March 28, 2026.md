@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Alphabet Weekly Insight Report March 28, 2026"
+series: "AI Company Watch"
 date: 2026-03-28 21:32:00 +0800
 type: post
 published: true

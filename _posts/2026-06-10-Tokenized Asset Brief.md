@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tokenized Asset Brief — 2026-06-10"
+series: "Tokenized Assets"
 date: 2026-06-10 20:49:00 +0800
 type: post
 published: true

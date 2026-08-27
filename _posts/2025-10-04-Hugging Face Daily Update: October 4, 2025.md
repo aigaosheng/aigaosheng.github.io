@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Daily Update: October 4, 2025"
+series: "AI Company Watch"
 date: 2025-10-04 21:23:00 +0800
 type: post
 published: true

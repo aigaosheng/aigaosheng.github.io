@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "PULSE Digest- FCA Probes Digital Wallets, AI Agents Get a Wallet, and Stablecoin Infrastructure Goes Mainstream"
+series: "Tokenized Assets"
 date: 2026-05-10 20:06:00 +0800
 type: post
 published: true

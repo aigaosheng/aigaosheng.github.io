@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Venture Pulse- AI Mega-Rounds, Fintech Revival & Crypto Infrastructure Surge "
+series: "Investment & Startups"
 date: 2026-05-17 21:18:00 +0800
 type: post
 published: true

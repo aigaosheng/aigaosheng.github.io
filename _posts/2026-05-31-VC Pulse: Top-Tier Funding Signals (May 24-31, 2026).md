@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC Pulse- Top-Tier Funding Signals (May 24-31, 2026)"
+series: "Investment & Startups"
 date: 2026-05-31 21:18:00 +0800
 type: post
 published: true

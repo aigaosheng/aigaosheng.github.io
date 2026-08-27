@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic Weekly Insight Report — Jan 18–25, 2026"
+series: "AI Company Watch"
 date: 2026-01-25 16:50:00 +0800
 type: post
 published: true

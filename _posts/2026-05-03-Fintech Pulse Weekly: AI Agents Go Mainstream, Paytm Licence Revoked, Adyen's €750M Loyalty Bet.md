@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Pulse Weekly- AI Agents Go Mainstream, Paytm Licence Revoked, Adyen €750M Loyalty Bet"
+series: "AI & Fintech"
 date: 2026-05-03 17:12:00 +0800
 type: post
 published: true

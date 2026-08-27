@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily Technology Report — arXiv snapshot, 29 Sep 2025"
+series: "AI Industry News"
 date: 2025-09-29 22:35:00 +0800
 type: post
 published: true

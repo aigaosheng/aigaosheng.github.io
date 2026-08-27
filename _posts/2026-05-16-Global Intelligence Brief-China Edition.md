@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2026-05-16 — Global Intelligence Brief — China Edition"
+series: "US & China AI"
 date: 2026-05-16 22:30:00 +0800
 type: post
 published: true

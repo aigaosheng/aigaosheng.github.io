@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI & Tech Daily Brief: OpenAI GPU Expansion, Enterprise AI Adoption, and Emerging Innovation – October 7, 2025"
+series: "AI Industry News"
 date: 2025-10-07 23:50:00 +0800
 type: post
 published: true

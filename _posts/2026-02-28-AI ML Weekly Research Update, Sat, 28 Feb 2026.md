@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI ML Weekly Research Update, Sat, 28 Feb 2026"
+series: "AI Research & Open Source"
 date: 2026-02-28 17:05:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Fintech Pulse- AI Agents, Mega-Deals & Regulatory Shifts"
+series: "AI & Fintech"
 date: 2026-05-03 17:02:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily Fintech Pulse — Stablecoins, AI Funding & Global Expansion"
+series: "AI & Fintech"
 date: 2025-12-22 21:05:00 +0800
 type: post
 published: true

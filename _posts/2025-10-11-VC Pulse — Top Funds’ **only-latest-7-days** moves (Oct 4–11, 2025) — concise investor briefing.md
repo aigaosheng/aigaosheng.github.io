@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC Pulse — Top Funds’ **only-latest-7-days** moves (Oct 4–11, 2025) — concise investor briefing"
+series: "Investment & Startups"
 date: 2025-10-11 21:28:00 +0800
 type: post
 published: true

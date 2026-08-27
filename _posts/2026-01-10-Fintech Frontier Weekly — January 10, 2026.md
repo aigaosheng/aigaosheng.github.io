@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontier Weekly — January 10, 2026"
+series: "AI & Fintech"
 date: 2026-01-10 17:05:00 +0800
 type: post
 published: true

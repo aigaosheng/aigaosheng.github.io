@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Pulse - Big Acquisitions, Funding Momentum & Strategic Shifts"
+series: "AI & Fintech"
 date: 2026-01-25 10:10:00 +0800
 type: post
 published: true

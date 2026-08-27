@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI impact on society Brief — 2026-07-17"
+series: "AI & Society"
 date: 2026-07-17 21:59:00 +0800
 type: post
 published: true

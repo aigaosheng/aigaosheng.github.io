@@ -2,6 +2,7 @@
 
 layout: post
 title: "Fintech AI Brief — 2026-08-20"
+series: "AI & Fintech"
 date: 2026-08-20 19:47:00 +0800
 type: post
 published: true

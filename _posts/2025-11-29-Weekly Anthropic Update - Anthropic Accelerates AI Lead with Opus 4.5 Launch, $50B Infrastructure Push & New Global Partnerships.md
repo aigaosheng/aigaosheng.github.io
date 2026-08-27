@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Anthropic Update - Anthropic Accelerates AI Lead with Opus 4.5 Launch, $50B Infrastructure Push & New Global Partnerships"
+series: "AI Company Watch"
 date: 2025-11-29 21:17:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Weekly Digest- Edge-Native AI, Agentic Workflows, and Multimodal Convergence May 3, 2026"
+series: "AI Company Watch"
 date: 2026-05-03 19:38:00 +0800
 type: post
 published: true

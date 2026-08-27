@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI & Tech Industry Insights: OpenAI, Anthropic, Meta, and Perplexity Updates – September 27, 2025"
+series: "AI Industry News"
 date: 2025-09-27 22:24:00 +0800
 type: post
 published: true

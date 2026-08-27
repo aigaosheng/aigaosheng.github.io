@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Fintech Pulse- AI Unicorns, Strategic Acquisitions & Regulatory Shifts, April 19, 2026"
+series: "AI & Fintech"
 date: 2026-04-19 17:48:00 +0800
 type: post
 published: true

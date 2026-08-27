@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontier Weekly — Stablecoins, AI‑Agents & Payments Policy Pulse, Friday, 16 January 2026"
+series: "AI & Fintech"
 date: 2026-01-17 21:02:00 +0800
 type: post
 published: true

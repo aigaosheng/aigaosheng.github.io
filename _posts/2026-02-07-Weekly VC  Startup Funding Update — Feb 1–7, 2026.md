@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly VC and Startup Funding Update — Feb 1–7, 2026"
+series: "Investment & Startups"
 date: 2026-02-07 18:00:00 +0800
 type: post
 published: true

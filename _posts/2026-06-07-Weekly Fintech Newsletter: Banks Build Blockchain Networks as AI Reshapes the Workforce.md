@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Fintech Newsletter- Banks Build Blockchain Networks as AI Reshapes the Workforce"
+series: "AI & Fintech"
 date: 2026-06-07 18:13:00 +0800
 type: post
 published: true

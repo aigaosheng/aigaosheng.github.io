@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontiers Weekly — Building the Future of Money January 3, 2026"
+series: "AI & Fintech"
 date: 2026-01-03 21:34:00 +0800
 type: post
 published: true

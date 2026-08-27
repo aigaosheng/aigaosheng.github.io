@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google DeepMind Weekly Intelligence Report March 7, 2026"
+series: "AI Company Watch"
 date: 2026-03-07 20:39:00 +0800
 type: post
 published: true

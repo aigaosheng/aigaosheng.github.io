@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic — Weekly Update Report Dec 6 2025"
+series: "AI Company Watch"
 date: 2025-12-06 20:35:00 +0800
 type: post
 published: true

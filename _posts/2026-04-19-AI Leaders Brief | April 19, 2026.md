@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Leaders Brief | April 19, 2026"
+series: "AI Industry News"
 date: 2026-04-19 21:00:00 +0800
 type: post
 published: true

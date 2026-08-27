@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Weekly- Medical RL Breakthroughs, VLA & Video‑Multimodal Research Surge Feb 21–Feb 28 2026"
+series: "AI Company Watch"
 date: 2026-02-28 17:14:00 +0800
 type: post
 published: true

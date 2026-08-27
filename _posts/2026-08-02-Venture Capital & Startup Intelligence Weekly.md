@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Venture Capital & Startup Intelligence Weekly 2026-08-02"
+series: "Investment & Startups"
 date: 2026-08-02 20:00:00 +0800
 type: post
 published: true

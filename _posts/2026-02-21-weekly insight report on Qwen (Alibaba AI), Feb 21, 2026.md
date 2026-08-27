@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "weekly insight report on Qwen (Alibaba AI), Feb 21, 2026"
+series: "AI Company Watch"
 date: 2026-02-21 20:06:00 +0800
 type: post
 published: true

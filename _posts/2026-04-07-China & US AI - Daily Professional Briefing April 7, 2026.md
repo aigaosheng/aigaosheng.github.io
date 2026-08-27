@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China & US AI - Daily Professional Briefing April 7, 2026"
+series: "US & China AI"
 date: 2026-04-07 22:14:00 +0800
 type: post
 published: true

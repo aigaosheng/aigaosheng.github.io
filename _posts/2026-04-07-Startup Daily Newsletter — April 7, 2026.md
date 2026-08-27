@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Startup Daily Newsletter — April 7, 2026"
+series: "Investment & Startups"
 date: 2026-04-07 21:44:00 +0800
 type: post
 published: true

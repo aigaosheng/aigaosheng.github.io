@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Finance and Market Brief — 2026-05-16"
+series: "Market Reports"
 date: 2026-05-16 21:01:00 +0800
 type: post
 published: true

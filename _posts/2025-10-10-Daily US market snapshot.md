@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily US market snapshot - October 10, 2025"
+series: "Market Reports"
 date: 2025-10-10 15:26:00 +0800
 type: post
 published: true

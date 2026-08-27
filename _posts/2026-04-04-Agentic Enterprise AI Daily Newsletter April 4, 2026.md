@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agentic Enterprise AI Daily Newsletter April 4, 2026"
+series: "Enterprise AI"
 date: 2026-04-04 21:00:00 +0800
 type: post
 published: true

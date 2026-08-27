@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly - Tokenised Money, AI Deals and a New Funding Wave, August 23 2026"
+series: "AI & Fintech"
 date: 2026-08-23 17:20:00 +0800
 type: post
 published: true

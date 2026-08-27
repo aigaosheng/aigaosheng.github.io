@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontier Weekly – AI, Unicorns & Reg-Tech Momentum, 30 January 2026"
+series: "AI & Fintech"
 date: 2026-01-31 21:05:00 +0800
 type: post
 published: true

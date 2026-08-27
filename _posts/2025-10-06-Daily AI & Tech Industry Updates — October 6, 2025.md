@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI & Tech Industry Updates — October 6, 2025"
+series: "AI Industry News"
 date: 2025-10-06 20:30:00 +0800
 type: post
 published: true

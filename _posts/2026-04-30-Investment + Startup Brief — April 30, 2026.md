@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Investment + Startup Brief — April 30, 2026"
+series: "Investment & Startups"
 date: 2026-04-30 21:23:00 +0800
 type: post
 published: true

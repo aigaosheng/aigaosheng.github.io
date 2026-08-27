@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Google Brief — Nov 16–22, 2025"
+series: "AI Company Watch"
 date: 2025-11-22 21:41:00 +0800
 type: post
 published: true

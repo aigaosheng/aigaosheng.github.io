@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Pulse- Payments, AI & Innovation — 07 Feb 2026"
+series: "AI & Fintech"
 date: 2026-02-07 17:27:00 +0800
 type: post
 published: true

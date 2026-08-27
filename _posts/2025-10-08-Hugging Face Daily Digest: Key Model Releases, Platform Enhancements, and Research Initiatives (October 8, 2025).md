@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Daily Digest: Key Model Releases, Platform Enhancements, and Research Initiatives (October 8, 2025)"
+series: "AI Company Watch"
 date: 2025-10-08 23:10:00 +0800
 type: post
 published: true

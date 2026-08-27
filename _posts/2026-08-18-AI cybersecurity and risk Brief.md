@@ -2,6 +2,7 @@
 
 layout: post
 title: "AI cybersecurity and risk Brief — 2026-08-18"
+series: "AI Security & Risk"
 date: 2026-08-18 19:55:00 +0800
 type: post
 published: true

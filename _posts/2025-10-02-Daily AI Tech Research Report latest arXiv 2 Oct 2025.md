@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI / Tech Research Report — latest arXiv (past 7 days) — 2 Oct 2025"
+series: "AI Research & Open Source"
 date: 2025-10-02 09:50:00 +0800
 type: post
 published: true

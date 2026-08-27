@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Qwen Momentum - Consumer Launches, Regional Partnerships, and Device Integration — Weekly Briefing (Nov 22–29, 2025)"
+series: "AI Company Watch"
 date: 2025-11-29 21:48:00 +0800
 type: post
 published: true

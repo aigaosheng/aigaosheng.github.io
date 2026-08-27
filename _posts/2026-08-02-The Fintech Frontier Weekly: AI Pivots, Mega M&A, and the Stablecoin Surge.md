@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Fintech Frontier Weekly- AI Pivots, Mega M&A, and the Stablecoin Surge Aug 2 2026"
+series: "AI & Fintech"
 date: 2026-08-02 17:23:00 +0800
 type: post
 published: true

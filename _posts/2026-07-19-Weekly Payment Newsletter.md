@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Payment Newsletter - 2026-07-19"
+series: "Payments"
 date: 2026-07-19 20:45:00 +0800
 type: post
 published: true

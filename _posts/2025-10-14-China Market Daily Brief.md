@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China Market Daily Brief - October 14 2025"
+series: "Market Reports"
 date: 2025-10-14 18:03:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 
 layout: post
 title: "Quantum computing Brief — 2026-08-18"
+series: "Quantum Computing"
 date: 2026-08-18 19:52:00 +0800
 type: post
 published: true

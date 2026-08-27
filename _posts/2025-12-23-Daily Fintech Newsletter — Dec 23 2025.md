@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily Fintech Newsletter — Dec 23 2025"
+series: "AI & Fintech"
 date: 2025-12-23 20:30:00 +0800
 type: post
 published: true

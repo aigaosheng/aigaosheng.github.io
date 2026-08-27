@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly Pulse- AI Shakeups, Crypto Regulation & Banking Reinvention"
+series: "AI & Fintech"
 date: 2026-07-05 19:52:00 +0800
 type: post
 published: true

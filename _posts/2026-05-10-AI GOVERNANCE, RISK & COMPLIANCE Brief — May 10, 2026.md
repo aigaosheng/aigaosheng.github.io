@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI GOVERNANCE, RISK & COMPLIANCE Brief — May 10, 2026"
+series: "AI Governance & Regulation"
 date: 2026-05-10 20:42:00 +0800
 type: post
 published: true

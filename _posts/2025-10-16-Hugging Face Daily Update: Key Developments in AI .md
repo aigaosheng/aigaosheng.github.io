@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Daily Update: Key Developments in AI "
+series: "AI Company Watch"
 date: 2025-10-16 22:15:00 +0800
 type: post
 published: true

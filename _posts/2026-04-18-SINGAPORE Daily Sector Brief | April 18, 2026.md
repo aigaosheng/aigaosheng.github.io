@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SINGAPORE Daily Sector Brief | April 18, 2026"
+series: "Singapore"
 date: 2026-04-18 23:49:00 +0800
 type: post
 published: true

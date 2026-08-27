@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China AI Update Intelligence Brief — April 30, 2026"
+series: "US & China AI"
 date: 2026-04-30 21:27:00 +0800
 type: post
 published: true

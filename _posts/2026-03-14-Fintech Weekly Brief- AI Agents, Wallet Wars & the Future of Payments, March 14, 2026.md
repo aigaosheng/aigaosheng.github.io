@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly Brief- AI Agents, Wallet Wars & the Future of Payments, March 14, 2026"
+series: "AI & Fintech"
 date: 2026-03-14 15:42:00 +0800
 type: post
 published: true

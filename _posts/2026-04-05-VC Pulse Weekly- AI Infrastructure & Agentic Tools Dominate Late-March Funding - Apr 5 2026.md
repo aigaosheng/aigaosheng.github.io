@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC Pulse Weekly- AI Infrastructure & Agentic Tools Dominate Late-March Funding - Apr 5 2026"
+series: "Investment & Startups"
 date: 2026-04-05 18:19:00 +0800
 type: post
 published: true

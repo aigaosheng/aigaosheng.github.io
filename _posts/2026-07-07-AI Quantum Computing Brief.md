@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Quantum Computing Brief — 2026-07-07"
+series: "Quantum Computing"
 date: 2026-07-07 20:00:00 +0800
 type: post
 published: true

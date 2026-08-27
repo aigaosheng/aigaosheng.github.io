@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Venture Capital Pulse — AI Infrastructure Dominates, Investors Chase Compute & Automation"
+series: "Investment & Startups"
 date: 2026-06-28 16:43:00 +0800
 type: post
 published: true

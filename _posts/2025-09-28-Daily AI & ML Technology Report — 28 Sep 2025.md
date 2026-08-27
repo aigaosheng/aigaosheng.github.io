@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI & ML Technology Report — 28 Sep 2025"
+series: "AI Industry News"
 date: 2025-09-28 16:50:00 +0800
 type: post
 published: true

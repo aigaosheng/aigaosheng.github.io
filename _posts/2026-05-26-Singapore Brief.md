@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Brief — 2026-05-26"
+series: "Singapore"
 date: 2026-05-26 21:17:00 +0800
 type: post
 published: true

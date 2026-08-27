@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Weekly Insights- Open Music AI & Robotics Policy Models Driving Multimodal Innovation, Feb 7, 2026"
+series: "AI Company Watch"
 date: 2026-02-07 20:47:00 +0800
 type: post
 published: true

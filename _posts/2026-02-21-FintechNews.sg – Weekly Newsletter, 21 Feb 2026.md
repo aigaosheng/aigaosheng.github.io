@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FintechNews.sg – Weekly Newsletter, 21 Feb 2026"
+series: "Singapore"
 date: 2026-02-21 17:48:00 +0800
 type: post
 published: true

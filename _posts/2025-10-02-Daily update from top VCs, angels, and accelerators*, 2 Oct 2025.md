@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily update from top VCs, angels, and accelerators*, 2 Oct 2025"
+series: "Investment & Startups"
 date: 2025-10-02 22:52:00 +0800
 type: post
 published: true

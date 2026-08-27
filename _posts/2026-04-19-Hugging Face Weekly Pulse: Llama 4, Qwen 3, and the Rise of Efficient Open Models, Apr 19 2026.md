@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Weekly Pulse- Llama 4, Qwen 3, and the Rise of Efficient Open Models, Apr 19 2026"
+series: "AI Company Watch"
 date: 2026-04-19 18:36:00 +0800
 type: post
 published: true

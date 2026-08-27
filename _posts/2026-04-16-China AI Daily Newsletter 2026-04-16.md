@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China AI Daily Newsletter 2026-04-16"
+series: "US & China AI"
 date: 2026-04-16 21:38:00 +0800
 type: post
 published: true

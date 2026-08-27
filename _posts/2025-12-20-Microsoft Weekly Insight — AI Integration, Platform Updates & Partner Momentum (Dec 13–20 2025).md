@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft Weekly Insight — AI Integration, Platform Updates & Partner Momentum (Dec 13–20 2025)"
+series: "AI Company Watch"
 date: 2025-12-20 21:32:00 +0800
 type: post
 published: true

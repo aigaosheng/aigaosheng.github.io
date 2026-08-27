@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI Strategic Pulse - Prompt‑Injection Defenses, Teen Safety, and GPT‑5.1 Personality Upgrade"
+series: "AI Company Watch"
 date: 2025-11-15 23:15:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Market Pulse: Tech Wobbles While Energy Surges Amid Geopolitical Jitters"
+series: "AI Industry News"
 date: 2025-09-30 17:43:00 +0800
 type: post
 published: true

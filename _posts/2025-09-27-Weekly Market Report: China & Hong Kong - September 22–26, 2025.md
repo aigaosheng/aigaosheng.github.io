@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Market Report: China & Hong Kong - September 22–26, 2025"
+series: "Market Reports"
 date: 2025-09-27 10:12:00 +0800
 type: post
 published: true

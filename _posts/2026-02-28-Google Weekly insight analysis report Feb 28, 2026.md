@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Weekly insight analysis report Feb 28, 2026"
+series: "AI Company Watch"
 date: 2026-02-28 17:32:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face: developer briefing October 6 2025"
+series: "AI Company Watch"
 date: 2026-10-01 23:23:00 +0800
 type: post
 published: true

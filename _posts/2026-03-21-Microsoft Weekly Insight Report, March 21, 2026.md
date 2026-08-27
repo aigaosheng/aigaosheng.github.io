@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft Weekly Insight Report, March 21, 2026"
+series: "AI Company Watch"
 date: 2026-03-21 20:57:00 +0800
 type: post
 published: true

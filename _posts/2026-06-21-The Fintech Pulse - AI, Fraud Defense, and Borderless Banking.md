@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Fintech Pulse - AI, Fraud Defense, and Borderless Banking"
+series: "AI & Fintech"
 date: 2026-06-21 17:30:00 +0800
 type: post
 published: true

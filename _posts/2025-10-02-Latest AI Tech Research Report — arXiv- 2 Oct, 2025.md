@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Latest AI/Tech Research Report — arXiv (industry brief) - 2 Oct, 2025"
+series: "AI Research & Open Source"
 date: 2025-10-02 23:04:00 +0800
 type: post
 published: true

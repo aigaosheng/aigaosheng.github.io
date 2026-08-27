@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Fintech Newsletter- Wise Faces AML Probe, OpenPayd Goes Public, and the AI Restructuring Wave"
+series: "AI & Fintech"
 date: 2026-06-07 18:00:00 +0800
 type: post
 published: true

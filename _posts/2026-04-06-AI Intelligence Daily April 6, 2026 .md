@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Intelligence Daily April 6, 2026 "
+series: "AI Industry News"
 date: 2026-04-06 20:32:00 +0800
 type: post
 published: true

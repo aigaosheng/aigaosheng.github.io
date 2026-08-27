@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly OpenAI Insight Report Jan 4 – Jan 10, 2026"
+series: "AI Company Watch"
 date: 2026-01-10 19:10:00 +0800
 type: post
 published: true

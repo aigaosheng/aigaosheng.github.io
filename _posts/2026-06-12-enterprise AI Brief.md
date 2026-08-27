@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Enterprise AI Brief — 2026-06-12"
+series: "Enterprise AI"
 date: 2026-06-12 19:50:00 +0800
 type: post
 published: true

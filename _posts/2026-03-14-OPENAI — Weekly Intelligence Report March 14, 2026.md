@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OPENAI — Weekly Intelligence Report March 14, 2026"
+series: "AI Company Watch"
 date: 2026-03-14 17:00:00 +0800
 type: post
 published: true

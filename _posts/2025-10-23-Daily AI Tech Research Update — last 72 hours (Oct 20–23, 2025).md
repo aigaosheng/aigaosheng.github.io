@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI Tech Research Update — last 72 hours (Oct 20–23, 2025)"
+series: "AI Research & Open Source"
 date: 2025-10-23 21:55:00 +0800
 type: post
 published: true

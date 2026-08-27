@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly OpenAI Update — official announcements (Nov 30 – Dec 6, 2025)"
+series: "AI Company Watch"
 date: 2025-12-06 20:30:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FinPulse Weekly- AI Agents Take the Wheel, March 1–7, 2026"
+series: "AI Research & Open Source"
 date: 2026-03-07 16:32:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Deep-Dive Brief 23 April 2026"
+series: "Singapore"
 date: 2026-04-23 21:23:00 +0800
 type: post
 published: true

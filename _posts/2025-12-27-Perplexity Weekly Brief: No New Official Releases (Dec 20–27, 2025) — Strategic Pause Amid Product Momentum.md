@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perplexity Weekly Brief - No New Official Releases (Dec 20–27, 2025) — Strategic Pause Amid Product Momentum"
+series: "AI Company Watch"
 date: 2025-12-27 22:43:00 +0800
 type: post
 published: true

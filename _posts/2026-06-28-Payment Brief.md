@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Payment Brief — 2026-06-28"
+series: "Payments"
 date: 2026-06-28 17:23:14 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Qwen Weekly Insight - Consumer AI Expansion & Deep Integration with Alibaba Ecosystem"
+series: "AI Company Watch"
 date: 2025-12-13 22:19:00 +0800
 type: post
 published: true

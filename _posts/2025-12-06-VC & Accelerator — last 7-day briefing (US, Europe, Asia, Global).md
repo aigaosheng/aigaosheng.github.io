@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC & Accelerator — last 7-day briefing (US, Europe, Asia, Global)"
+series: "Investment & Startups"
 date: 2025-12-06 19:46:00 +0800
 type: post
 published: true

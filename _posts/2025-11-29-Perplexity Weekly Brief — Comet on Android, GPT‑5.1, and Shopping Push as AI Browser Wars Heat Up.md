@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perplexity Weekly Brief — Comet on Android, GPT‑5.1, and Shopping Push as AI Browser Wars Heat Up"
+series: "AI Company Watch"
 date: 2025-11-29 21:13:00 +0800
 type: post
 published: true

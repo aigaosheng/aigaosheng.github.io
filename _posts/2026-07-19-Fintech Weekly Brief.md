@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly Brief - AI Agents, Stablecoins & the New Digital Finance Infrastructure — 2026-07-19"
+series: "AI & Fintech"
 date: 2026-07-19 20:35:00 +0800
 type: post
 published: true

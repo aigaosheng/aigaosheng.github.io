@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Venture Pulse Brief — 05.13.2026"
+series: "Investment & Startups"
 date: 2026-05-13 20:00:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 
 layout: post
 title: "Agentic AI Brief — 2026-08-05"
+series: "AI Research & Open Source"
 date: 2026-08-05 20:06:00 +0800
 type: post
 published: true

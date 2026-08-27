@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Weekly Intelligence Brief April 5, 2026"
+series: "AI Company Watch"
 date: 2026-04-05 20:12:00 +0800
 type: post
 published: true

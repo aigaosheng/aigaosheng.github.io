@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Weekly Update Report"
+series: "AI Company Watch"
 date: 2025-11-15 23:34:00 +0800
 type: post
 published: true

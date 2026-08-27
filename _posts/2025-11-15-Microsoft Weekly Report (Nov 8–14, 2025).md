@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft Weekly Report (Nov 8–14, 2025)"
+series: "AI Company Watch"
 date: 2025-11-15 23:38:00 +0800
 type: post
 published: true

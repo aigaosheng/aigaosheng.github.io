@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Plus by Sectors & Industries Brief — 2026-06-15"
+series: "Singapore"
 date: 2026-06-15 20:54:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Weekly Frontier- Real-Time Diffusion Models, Efficient Qwen Derivatives, and Semantic AI Advances Jan 25 2026"
+series: "AI Company Watch"
 date: 2026-01-25 16:00:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly AI Tech Research Intelligence Report - March 14, 2026"
+series: "AI Research & Open Source"
 date: 2026-03-14 16:30:00 +0800
 type: post
 published: true

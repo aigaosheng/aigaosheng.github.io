@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Payments Daily Newsletter April 4, 2026"
+series: "Payments"
 date: 2026-04-04 20:48:00 +0800
 type: post
 published: true

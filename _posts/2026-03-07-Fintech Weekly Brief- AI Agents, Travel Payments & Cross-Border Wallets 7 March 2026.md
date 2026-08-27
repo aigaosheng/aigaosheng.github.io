@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly Brief- AI Agents, Travel Payments & Cross-Border Wallets 7 March 2026"
+series: "AI & Fintech"
 date: 2026-03-07 16:45:00 +0800
 type: post
 published: true

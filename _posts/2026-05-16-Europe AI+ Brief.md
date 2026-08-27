@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Europe AI+ Brief — 2026-05-16"
+series: "AI Industry News"
 date: 2026-05-16 21:05:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Startup VC Intelligence Brief — 26 July 2026"
+series: "Investment & Startups"
 date: 2026-07-26 17:20:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI Weekly Pulse - GPT‑5.2, ChatGPT Images, and App Submission Expansion"
+series: "AI Company Watch"
 date: 2025-12-20 21:06:00 +0800
 type: post
 published: true

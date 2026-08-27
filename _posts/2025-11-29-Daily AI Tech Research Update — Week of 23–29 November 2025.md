@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily AI Tech Research Update — Week of 23–29 November 2025"
+series: "AI Research & Open Source"
 date: 2025-11-29 20:54:00 +0800
 type: post
 published: true

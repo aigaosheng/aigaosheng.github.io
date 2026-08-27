@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NVIDIA Weekly Update Jan 10, 2026"
+series: "AI Company Watch"
 date: 2026-01-10 20:19:00 +0800
 type: post
 published: true

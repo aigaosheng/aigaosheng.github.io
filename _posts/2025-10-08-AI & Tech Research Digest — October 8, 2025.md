@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI & Tech Research Digest — October 8, 2025"
+series: "AI Research & Open Source"
 date: 2025-10-08 22:50:00 +0800
 type: post
 published: true

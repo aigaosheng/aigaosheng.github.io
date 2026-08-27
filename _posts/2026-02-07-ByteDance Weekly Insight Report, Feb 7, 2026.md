@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ByteDance Weekly Insight Report, Feb 7, 2026"
+series: "AI Company Watch"
 date: 2026-02-07 21:17:00 +0800
 type: post
 published: true

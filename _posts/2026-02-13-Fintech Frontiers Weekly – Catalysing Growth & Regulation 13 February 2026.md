@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontiers Weekly – Catalysing Growth & Regulation 13 February 2026"
+series: "AI & Fintech"
 date: 2026-02-13 19:32:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly Fintech Intelligence Briefing, 28 March 2026"
+series: "AI & Fintech"
 date: 2026-03-28 19:34:00 +0800
 type: post
 published: true

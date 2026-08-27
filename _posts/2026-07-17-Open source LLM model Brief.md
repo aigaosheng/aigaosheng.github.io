@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Open source LLM model Brief — 2026-07-17"
+series: "AI Research & Open Source"
 date: 2026-07-17 21:55:14 +0800
 type: post
 published: true

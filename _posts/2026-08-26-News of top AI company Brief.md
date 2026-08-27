@@ -2,6 +2,7 @@
 
 layout: post
 title: "News of top AI company Brief — 2026-08-26"
+series: "AI Company Watch"
 date: 2026-08-26 20:55:00 +0800
 type: post
 published: true

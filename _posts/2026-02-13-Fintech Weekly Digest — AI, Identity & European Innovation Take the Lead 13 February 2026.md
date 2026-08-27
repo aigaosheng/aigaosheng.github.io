@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly Digest — AI, Identity & European Innovation Take the Lead 13 February 2026"
+series: "AI & Fintech"
 date: 2026-02-13 19:59:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Weekly update - Emerging Funding & VC Activity, Jan 3 2026"
+series: "Investment & Startups"
 date: 2026-01-03 21:52:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Global Venture & Accelerator Weekly Intelligence Report - Nov 2 – 9 2025"
+series: "Investment & Startups"
 date: 2025-11-09 09:43:00 +0800
 type: post
 published: true

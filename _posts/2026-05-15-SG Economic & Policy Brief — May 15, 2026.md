@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SG Economic & Policy Brief — May 15, 2026"
+series: "Singapore"
 date: 2026-05-15 21:13:00 +0800
 type: post
 published: true

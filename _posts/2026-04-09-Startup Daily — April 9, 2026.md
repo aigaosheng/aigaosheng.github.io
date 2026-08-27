@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Startup Daily — April 9, 2026"
+series: "Investment & Startups"
 date: 2026-04-09 21:49:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly Newsletter — AI Takes the Wallet- The Rise of Agentic Payments, February 20, 2026"
+series: "AI & Fintech"
 date: 2026-02-21 17:37:00 +0800
 type: post
 published: true

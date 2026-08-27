@@ -2,6 +2,7 @@
 
 layout: post
 title: "Open-source AI model Brief — 2026-06-27"
+series: "AI Research & Open Source"
 date: 2026-06-27 20:20:00 +0800
 type: post
 published: true

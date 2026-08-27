@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Research Daily Brief April 16, 2026"
+series: "AI Research & Open Source"
 date: 2026-04-16 20:58:00 +0800
 type: post
 published: true

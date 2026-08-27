@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Fintech Pulse- AI Agents Reshape Payments, Stablecoins Scale, and Regulatory Scrutiny Intensifies, April 5, 2026"
+series: "AI & Fintech"
 date: 2026-04-05 17:51:00 +0800
 type: post
 published: true
