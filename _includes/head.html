@@ -8,10 +8,29 @@
     <!--meta name="keywords" content="{{ page.keywords | join: ', ' }}"> -->
     <meta name="keywords" content="{{ page.keywords | join: ', ' }}">
     <meta name="theme-color" content="{{ site.chrome-tab-theme-color }}">
-    <meta name="description" content="{{ page.title }}, {{ page.keywords | join: ', ' }}">
 
     <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}
     </title>
+
+    <!--
+        jekyll-seo-tag. It was listed in _config.yml plugins but never invoked,
+        so the plugin did nothing: the site had no og: or twitter: tags at all
+        and shared links previewed bare.
+
+        title=false keeps the hand-written <title> above, so ~2,600 existing
+        page titles are left exactly as they were. Everything else comes from
+        the plugin: description, canonical, og:*, twitter:* and JSON-LD.
+
+        The hand-rolled tags it replaces were removed rather than kept, to
+        avoid emitting each one twice:
+          - meta name="description" was page.title followed by the keywords
+            list, i.e. a keyword list rather than a description.
+          - link rel="canonical" was built from site.url by hand.
+
+        NOTE: do not write Liquid tags in these comments. Liquid runs before
+        the HTML is parsed, so anything in braces here still executes.
+    -->
+    {% seo title=false %}
 
 
     <!-- Web App Manifest -->
@@ -23,8 +42,7 @@
     <!-- Safari Webpage Icon    by-BY -->
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/image/rawa-sun-falling3.jpg">
     
-    <!-- Canonical URL -->
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <!-- Canonical URL is emitted by the seo tag above, from site.url + page.url -->
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">

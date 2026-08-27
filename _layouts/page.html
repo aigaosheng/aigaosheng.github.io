@@ -13,7 +13,12 @@ layout: default
         <div class="site-heading">
           <!-- <h2>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h2>-->
           <!--<hr class="small">-->
-          <span class="subheading">{{ page.description }}</span>
+          <!--
+            page.hero carries hero markup that must NOT become the SEO meta
+            description (see index.html). Pages that only need plain text keep
+            using page.description for both.
+          -->
+          <span class="subheading">{% if page.hero %}{{ page.hero }}{% else %}{{ page.description }}{% endif %}</span>
         </div>
       </div>
     </div>

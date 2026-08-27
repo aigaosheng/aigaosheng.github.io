@@ -6,9 +6,17 @@ title: AI-driven Business Transformation | Consulting & Development
 SEOTitle: AI Consultant | Enterprise Agentic AI | Tokenization payment
 header-img: image/rawa-sun-falling2-a
 email: goseng123@gmail.com
-# description:  积少成多，集腋成裘
+author: Sheng Gao
+# Used by jekyll-seo-tag for <meta name="description">, og:description and
+# twitter:description on any page that does not supply its own. It was
+# commented out, so the feed had an empty <description> and there was no
+# site-level fallback anywhere.
+description: "Daily briefs and analysis on enterprise agentic AI, fintech and payments, tokenization, and AI governance, plus consulting and development services."
 keyword: Enterprise Agentic AI, digital Transformation, Tokenization payment
-url: "https://www.aisengtech.com"          
+# MUST match CNAME (aisengtech.com). This said https://www.aisengtech.com,
+# but www 301-redirects to the apex, so every canonical URL, sitemap entry
+# and feed link pointed at a redirect. robots.txt already used the apex.
+url: "https://aisengtech.com"
 github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git"
 
 # Sidebar settings
@@ -57,6 +65,24 @@ kramdown:
 # disqus:
 #   enable: False    #是否开启Disqus评论
 #   username: aigaosheng-github-io
+
+# Default og:image / twitter:image for every page.
+#
+# This has to go through front matter defaults, not a top-level `image:` key:
+# jekyll-seo-tag 2.8.0 reads page["image"] only (image_drop.rb) and has no
+# site-level fallback, so a bare site.image is silently ignored. Setting it as
+# a default gives every document a page.image that the plugin does pick up,
+# and any post can still override it in its own front matter.
+#
+# Supplying an image also upgrades twitter:card from "summary" to
+# "summary_large_image" and adds twitter:image (see the plugin's template.html).
+# Crawlers fetch this server-side, so its file size does not affect page weight.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /image/rawa-sun-falling3.jpg
+
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签

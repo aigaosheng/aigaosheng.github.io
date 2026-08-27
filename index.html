@@ -1,6 +1,16 @@
 ---
 layout: page
-description: <div class="proverb"><p style="color:#FFF8E1">不积跬步，无以至千里<br>不积小流，无以成江海<br><br></p></div><p style="color:#FFF8E1"><em>Great journeys begin with small steps;<br>mighty rivers grow from little streams.</em></p></div>
+# Hero markup, rendered by _layouts/page.html.
+#
+# This used to live in `description`, but jekyll-seo-tag uses `description`
+# for <meta name="description"> and og:description, which meant the homepage
+# advertised itself to search engines and social cards as the proverb text
+# followed by a stray "</div>". With no `description` here, the plugin falls
+# back to site.description instead.
+#
+# The trailing unbalanced </div> is also dropped: the old value opened one
+# <div> and closed two.
+hero: '<div class="proverb"><p style="color:#FFF8E1">不积跬步，无以至千里<br>不积小流，无以成江海<br><br></p></div><p style="color:#FFF8E1"><em>Great journeys begin with small steps;<br>mighty rivers grow from little streams.</em></p>'
 header-img: "image/rawa-sun-falling2-a.png"
 ---
 

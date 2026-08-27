@@ -9,12 +9,16 @@
          ~340 KB of sidebar wrapped around ~2.4 KB of article. Bounded now by
          featured-condition-size (threshold) and featured-tags-max (hard cap).
 
-      2. Unescaped fragments. href="/tags/#{{ tag[0] }}" emitted things like
-         "/tags/#computer program" for the ~2,500 tags containing spaces, so the
-         anchors never resolved. Both this file and tags.html now pipe the tag
-         through | slugify, so the href and the target id always agree.
+      2. Unescaped fragments. The href interpolated the raw tag name, emitting
+         things like "/tags/#computer program" for the ~2,500 tags containing
+         spaces, so the anchors never resolved. Both this file and tags.html
+         now pipe the tag through the slugify filter, so the href and the
+         target id always agree.
 
     Keep the slugify here in sync with tags.html.
+
+    NOTE: do not write Liquid tags in this comment. Liquid runs before the HTML
+    is parsed, so anything in braces here still executes.
 -->
 <div class="tags">
   {% assign shown = 0 %}
