@@ -42,7 +42,7 @@ permalink: /AI-Fintech-Brief-2026-06-12/
 ### 4. South Korea's Finda and Upstage Partner to Build Financial AI Agent Platform
 - **Source** · Pulse News (매일경제) · 2026-06-11
 - **Summary**: South Korean fintech company Finda has partnered with AI startup Upstage to develop an AI agent platform specifically for the financial industry. Finda will provide financial data and regulatory expertise, while Upstage will build the AI agent models based on its large language model, Solar .
-- **Why It Matters**: This deal highlights the global, regional nature of the AI+fintech trend, with specialized players forming partnerships to tackle local market nuances, including regulation and language. It shows that the financial AI market is not just for global giants but also for agile, specialized collaborations.
+- **Why It Matters**: This deal highlights the global, regional nature of the AI Fintech trend, with specialized players forming partnerships to tackle local market nuances, including regulation and language. It shows that the financial AI market is not just for global giants but also for agile, specialized collaborations.
 - **URL**: [Finda, Upstage partner to build AI agent platform for finance](https://pulse.mk.co.kr/m/news/english/12071263)
 
 ### 5. Visa Enhances Tokens to Power Trust in AI-Driven Commerce

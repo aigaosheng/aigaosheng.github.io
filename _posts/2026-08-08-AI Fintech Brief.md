@@ -65,6 +65,6 @@ permalink: /AI-Fintech-Brief-2026-08-08/
 
 ## Executive Takeaway
 
-**AI+Fintech is moving from pilots to institutional infrastructure.** The strongest signal this week is the size and strategic nature of bank commitments: Rabobank's potential €2 billion AI investment and ABN AMRO's partnership with Mistral AI point toward a European banking market where AI capability, sovereignty and deployment discipline are becoming competitive assets.
+**AI Fintech is moving from pilots to institutional infrastructure.** The strongest signal this week is the size and strategic nature of bank commitments: Rabobank's potential €2 billion AI investment and ABN AMRO's partnership with Mistral AI point toward a European banking market where AI capability, sovereignty and deployment discipline are becoming competitive assets.
 
 At the product level, the next frontier is **decision intelligence and agentic finance**—AI moving from answering questions to influencing financial decisions and eventually executing workflows. That makes governance, auditability, human oversight and transaction controls increasingly important alongside model capability.

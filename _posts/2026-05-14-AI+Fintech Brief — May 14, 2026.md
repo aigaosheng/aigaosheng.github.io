@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — May 14, 2026"
+title: "AI Fintech Brief — May 14, 2026"
 series: "AI & Fintech"
 date: 2026-05-14 20:09:00 +0800
 type: post
@@ -11,10 +11,10 @@ tags:
 - Agentic AI
 - Fintech Regulation
 keywords: [agentic AI, fintech regulation, generative AI ROI]
-permalink: /AI+Fintech Brief — May 14, 2026/
+permalink: /AI Fintech Brief — May 14, 2026/
 ---
 
-### AI+Fintech Brief — May 14, 2026
+### AI Fintech Brief — May 14, 2026
 
 ### Top Stories
 

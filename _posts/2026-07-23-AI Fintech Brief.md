@@ -12,7 +12,7 @@ tags:
 - Fintech
 - Financial Services
 keywords: [ai, fintech, financial-services]
-permalink: /AI+Fintech-Brief-2026-07-23/
+permalink: /AI Fintech-Brief-2026-07-23/
 ---
 
 # AI Fintech Brief — 2026-07-23

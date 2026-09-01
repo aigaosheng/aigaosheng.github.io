@@ -17,7 +17,7 @@ keywords: [AI, Fintech, Banking, Payments, Regulation]
 permalink: /AI-Fintech-Brief-2026-06-19/
 ---
 
-### AI+Fintech Brief — 2026-06-19
+### AI Fintech Brief — 2026-06-19
 
 ## Top Stories
 

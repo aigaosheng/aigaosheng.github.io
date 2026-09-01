@@ -12,7 +12,7 @@ tags:
 - Fintech
 - Financial Services
 keywords: [ai, fintech, financial-services]
-permalink: /AI+Fintech-Brief-2026-07-22/
+permalink: /AI Fintech-Brief-2026-07-22/
 ---
 
 # AI Fintech Brief — 2026-07-22
@@ -41,4 +41,4 @@ permalink: /AI+Fintech-Brief-2026-07-22/
 
 * AI adoption in fintech is increasingly shifting from experimentation toward commercialization, with payment firms and banks looking to package AI capabilities as customer-facing services.
 * Agentic AI is emerging as a strategic theme across payments, creating demand for new security models, compliance frameworks, and transaction authorization standards.
-* The competitive advantage in AI+Fintech is moving toward companies that combine proprietary financial data, trusted infrastructure, and regulatory capability.
+* The competitive advantage in AI Fintech is moving toward companies that combine proprietary financial data, trusted infrastructure, and regulatory capability.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-05-21"
+title: "AI Fintech Brief — 2026-05-21"
 series: "AI & Fintech"
 date: 2026-05-21 20:27:00 +0800
 type: post
@@ -16,7 +16,7 @@ keywords: [AI, Fintech, Banking, OpenAI, Stablecoins, Agentic AI, Digital Financ
 permalink: /AI-Fintech-Brief-2026-05-21/
 ---
 
-### AI+Fintech Brief — 2026-05-21
+### AI Fintech Brief — 2026-05-21
 
 ## Top Stories
 

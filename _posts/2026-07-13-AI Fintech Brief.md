@@ -77,5 +77,5 @@ permalink: /AI-Fintech-Brief-2026-07-13/
 ### 10. AI Makes Financial Ecosystem "Robust, Accessible" in Africa  
 - **ITWeb** · 2026-07-13  
 - **Summary**: At the Standard Bank Africa Unlocked conference, executives noted that financial services are the fastest adopters of AI in Africa, moving from experimentation to operational deployment. Standard Bank's Adam Ikdal emphasized that "the boring stuff" like governance and risk management is critical for scaling AI.  
-- **Why It Matters**: Africa represents a unique greenfield for AI+Fintech, where AI is being used to leapfrog traditional infrastructure and pull more people into the formal financial ecosystem.  
+- **Why It Matters**: Africa represents a unique greenfield for AI Fintech, where AI is being used to leapfrog traditional infrastructure and pull more people into the formal financial ecosystem.  
 - **URL**: [Read more](https://www.itweb.co.za/article/ai-makes-financial-ecosystem-robust-accessible/xnklOqz14D5M4Ymz)

@@ -18,7 +18,7 @@ permalink: /AI-Finance-Singapore-Brief-2026-08-31/
 
 ---
 
-# AI+Finance Singapore Brief — 2026-08-31
+# AI Finance Singapore Brief — 2026-08-31
 
 ## Top Stories 
 

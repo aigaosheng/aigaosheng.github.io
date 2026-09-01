@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-06-03"
+title: "AI Fintech Brief — 2026-06-03"
 series: "AI & Fintech"
 date: 2026-06-03 19:41:11 +0800
 type: post
@@ -14,7 +14,7 @@ keywords: [bank-regulation, agentic-commerce, insurance-tech, enterprise-ai, cyb
 permalink: /ai-fintech-brief-2026-06-03/
 ---
 
-### AI+Fintech Brief — 2026-06-03
+### AI Fintech Brief — 2026-06-03
 
 *Covering developments published in the 48h to 2026-06-03 19:41:11 (+0800).*
 

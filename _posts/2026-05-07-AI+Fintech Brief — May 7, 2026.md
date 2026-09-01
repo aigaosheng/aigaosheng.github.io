@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — May 7, 2026"
+title: "AI Fintech Brief — May 7, 2026"
 series: "AI & Fintech"
 date: 2026-05-07 19:12:00 +0800
 type: post
@@ -12,9 +12,9 @@ tags:
 - AI Banking
 - Fintech Infrastructure
 keywords: [AI fintech, financial AI agents, AI banking, enterprise AI finance, fintech infrastructure]
-permalink: /AI+Fintech Brief — May 7, 2026/
+permalink: /AI Fintech Brief — May 7, 2026/
 ---
-# AI+Fintech Brief — May 7, 2026
+# AI Fintech Brief — May 7, 2026
 
 > Validation complete: all stories below were verified to be published on or after **2026-05-06**. Items published before May 6, 2026 were removed.
 

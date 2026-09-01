@@ -79,7 +79,7 @@ permalink: /AI-Fintech-Brief-2026-08-11/
 
 ## Executive Takeaway
 
-**AI+Fintech is moving decisively from copilots toward agentic financial infrastructure.**
+**AI Fintech is moving decisively from copilots toward agentic financial infrastructure.**
 
 Three themes stand out today:
 

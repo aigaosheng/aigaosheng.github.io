@@ -81,4 +81,4 @@ Today's developments highlight three major trends shaping AI in financial servic
 * **AI governance and resilience**: Regulatory initiatives from MAS, the Bank of Thailand, and AMLA demonstrate growing emphasis on secure, trustworthy AI deployment in finance.
 * **Security-first AI investment**: As financial institutions automate more workflows with generative and agentic AI, investment is increasingly flowing toward AI-native cybersecurity and compliance solutions rather than productivity applications alone.
 
-Overall, 27 July's news indicates that the competitive frontier in AI+Fintech is no longer simply model capability—it is enterprise deployment, governance, cybersecurity, and regulatory readiness.
+Overall, 27 July's news indicates that the competitive frontier in AI Fintech is no longer simply model capability—it is enterprise deployment, governance, cybersecurity, and regulatory readiness.

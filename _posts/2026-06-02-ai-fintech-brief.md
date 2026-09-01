@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-06-02"
+title: "AI Fintech Brief — 2026-06-02"
 series: "AI & Fintech"
 date: 2026-06-02 20:27:52 +0800
 type: post
@@ -15,7 +15,7 @@ keywords: [banking-ai, wealthtech, financial-crime, compliance, agentic-ai]
 permalink: /ai-fintech-brief-2026-06-02/
 ---
 
-### AI+Fintech Brief — 2026-06-02
+### AI Fintech Brief — 2026-06-02
 
 *Covering developments published in the 24h to 2026-06-02 20:27:52 (+0800).*
 
@@ -30,7 +30,7 @@ permalink: /ai-fintech-brief-2026-06-02/
 ### 2. nCino warns banks face an AI execution gap
 - **FinTech Global** · 2026-06-02
 - **Summary**: nCino said banking leaders are confronting an AI execution gap, where strategic ambition is outrunning operational readiness. The piece highlights familiar constraints around data quality, workflow integration, governance, and change management as institutions try to industrialize AI use.
-- **Why It Matters**: This is one of the defining themes in AI+Fintech right now: the bottleneck is no longer awareness, but implementation inside regulated environments. Vendors that can bridge deployment, controls, and measurable ROI are likely to win disproportionate share.
+- **Why It Matters**: This is one of the defining themes in AI Fintech right now: the bottleneck is no longer awareness, but implementation inside regulated environments. Vendors that can bridge deployment, controls, and measurable ROI are likely to win disproportionate share.
 - **URL**: https://fintech.global/2026/06/02/banking-leaders-face-an-ai-execution-gap-ncino-warns/
 
 

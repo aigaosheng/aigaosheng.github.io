@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+FinTech Brief — May 5, 2026"
+title: "AI FinTech Brief — May 5, 2026"
 series: "AI & Fintech"
 date: 2026-05-05 20:20:00 +0800
 type: post
@@ -11,9 +11,9 @@ tags:
 - AI Fintech
 - AI Banking
 keywords: [AI fintech, AI banking, intelligent finance]
-permalink: /AI+FinTech Brief — May 5, 2026/
+permalink: /AI FinTech Brief — May 5, 2026/
 ---
-# **AI+FinTech Brief — May 5, 2026**
+# **AI FinTech Brief — May 5, 2026**
 
 ## **Top Stories**
 

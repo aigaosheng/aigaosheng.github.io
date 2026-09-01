@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-05-20"
+title: "AI Fintech Brief — 2026-05-20"
 series: "AI & Fintech"
 date: 2026-05-20 20:21:00 +0800
 type: post
@@ -17,7 +17,7 @@ keywords: [AI, Fintech, Payments, RegTech, Agentic AI, DORA]
 permalink: /AI-Fintech-Brief-2026-05-20/
 ---
 
-### AI+Fintech Brief — 2026-05-20
+### AI Fintech Brief — 2026-05-20
 
 ## Top Stories 
 
@@ -42,7 +42,7 @@ permalink: /AI-Fintech-Brief-2026-05-20/
 ### 4. Bretton AI Raises $75M as Agentic AI Moves into Compliance
 - **FinanceX Magazine** · 2026-05-19
 - **Summary**: Bretton AI has raised $75 million to build an agentic AI platform for financial crime compliance, targeting transaction analysis, KYC/KYB reviews, AML and sanctions investigations, and transaction monitoring. The funding coincides with the first real enforcement quarter of the EU's Digital Operational Resilience Act (DORA), which carries fines up to 2% of global turnover.
-- **Why It Matters**: Agentic AI systems that can autonomously plan, execute, and explain multi-step compliance tasks are rapidly becoming the default operating model for AML/KYC. With 62.7% of financial institutions planning to increase RegTech spending in 2026, compliance automation is emerging as one of the most commercially urgent AI+fintech subsectors.
+- **Why It Matters**: Agentic AI systems that can autonomously plan, execute, and explain multi-step compliance tasks are rapidly becoming the default operating model for AML/KYC. With 62.7% of financial institutions planning to increase RegTech spending in 2026, compliance automation is emerging as one of the most commercially urgent AI Fintech subsectors.
 - **URL**: [Agentic AI Eats the Compliance Stack: RegTech's Defining Week as DORA Goes Live](https://www.financexmagazine.com/post/agentic-ai-eats-the-compliance-stack-regtech-s-defining-week-as-dora-goes-live)
 
 ### 5. Moment Completes $78M Funding for AI Trading Infrastructure
@@ -78,5 +78,5 @@ permalink: /AI-Fintech-Brief-2026-05-20/
 ### 10. RegTech Survey: 95% of Financial Institutions Have Scaled Enterprise RegTech
 - **FinanceX Magazine** · 2026-05-19
 - **Summary**: The Global State of RegTech 2026 report, based on responses from 300 senior compliance decision-makers, found that 95% of financial institutions have scaled enterprise RegTech use across at least one regulatory domain, and 62.7% plan to increase RegTech spending in 2026. The market is projected to grow from $14.94 billion in 2024 to $106.92 billion by 2035 at a 19.59% CAGR.
-- **Why It Matters**: The survey provides concrete evidence that RegTech adoption has moved from pilot to scale across the financial industry. With nearly two-thirds of firms increasing spending and nearly half planning new vendor adoption, regulatory technology represents a sustained growth vector within AI+fintech.
+- **Why It Matters**: The survey provides concrete evidence that RegTech adoption has moved from pilot to scale across the financial industry. With nearly two-thirds of firms increasing spending and nearly half planning new vendor adoption, regulatory technology represents a sustained growth vector within AI Fintech.
 - **URL**: [Agentic AI Eats the Compliance Stack: RegTech's Defining Week as DORA Goes Live](https://www.financexmagazine.com/post/agentic-ai-eats-the-compliance-stack-regtech-s-defining-week-as-dora-goes-live)

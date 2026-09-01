@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-05-25"
+title: "AI Fintech Brief — 2026-05-25"
 series: "AI & Fintech"
 date: 2026-05-25 19:38:00 +0800
 type: post
@@ -17,7 +17,7 @@ keywords: [AI, Fintech, Agentic AI, Digital Banking, Neobank]
 permalink: /AI-Fintech-Brief-2026-05-25/
 ---
 
-### AI+Fintech Brief — 2026-05-25
+### AI Fintech Brief — 2026-05-25
 
 ## Top Stories 
 

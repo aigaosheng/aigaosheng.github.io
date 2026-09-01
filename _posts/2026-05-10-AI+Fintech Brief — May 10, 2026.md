@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — May 10, 2026"
+title: "AI Fintech Brief — May 10, 2026"
 series: "AI & Fintech"
 date: 2026-05-10 20:32:00 +0800
 type: post
@@ -10,10 +10,10 @@ categories: []
 tags:
 - Agentic AI Payments
 keywords: [agentic AI payments, AI fintech regulation 2026, AI cybersecurity financial stability]
-permalink: /AI+Fintech Brief — May 10, 2026/
+permalink: /AI Fintech Brief — May 10, 2026/
 ---
 
-### AI+Fintech Brief — May 10, 2026
+### AI Fintech Brief — May 10, 2026
 
 ### Top Stories
 

@@ -12,7 +12,7 @@ tags:
 - Fintech
 - Digital Finance
 keywords: [ai, fintech, digital-finance]
-permalink: /AI+Fintech-Brief-2026-08-01/
+permalink: /AI Fintech-Brief-2026-08-01/
 ---
 
 # AI Fintech Brief — 2026-08-01
@@ -74,7 +74,7 @@ Recent developments indicate that AI adoption in fintech has entered a new stage
 
 ## Executive Insight
 
-Three notable themes emerged from today's AI+Fintech news:
+Three notable themes emerged from today's AI Fintech news:
 
 * **Operational AI is now mainstream**, with fintech firms restructuring around measurable productivity improvements.
 * **Enterprise banking AI adoption continues accelerating**, moving beyond pilot projects into customer-facing operations.

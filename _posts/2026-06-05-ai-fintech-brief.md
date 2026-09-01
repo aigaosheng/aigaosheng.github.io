@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-06-05"
+title: "AI Fintech Brief — 2026-06-05"
 series: "AI & Fintech"
 date: 2026-06-05 20:02:16 +0800
 type: post
@@ -17,7 +17,7 @@ keywords: [agentic-ai, banking, lending, regtech, wealthtech]
 permalink: /ai-fintech-brief-2026-06-05/
 ---
 
-### AI+Fintech Brief — 2026-06-05
+### AI Fintech Brief — 2026-06-05
 
 *Covering developments published in the 36h to 2026-06-05 20:02:16 (+0800).*
 

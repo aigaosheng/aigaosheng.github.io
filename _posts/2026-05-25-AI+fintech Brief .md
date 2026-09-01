@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+fintech Brief — 2026-05-25"
+title: "AI Fintech Brief — 2026-05-25"
 series: "AI & Fintech"
 date: 2026-05-25 22:25:55 +0800
 type: post
@@ -12,10 +12,10 @@ tags:
 - Fintech
 - Payments
 keywords: [AI, fintech, payments]
-permalink: /AI+fintech-Brief-2026-05-25/
+permalink: /AI Fintech-Brief-2026-05-25/
 ---
 
-### AI+fintech Brief — 2026-05-25
+### AI Fintech Brief — 2026-05-25
 
 ## Top Stories
 

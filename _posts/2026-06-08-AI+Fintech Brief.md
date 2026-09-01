@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-06-08"
+title: "AI Fintech Brief — 2026-06-08"
 series: "AI & Fintech"
 date: 2026-06-08 21:14:00 +0800
 type: post
@@ -17,7 +17,7 @@ keywords: [AI Fintech, agentic payments, stablecoin, AML automation, MAS Pathfin
 permalink: /AI-Fintech-Brief-2026-06-08/
 ---
 
-### AI+Fintech Brief — 2026-06-08
+### AI Fintech Brief — 2026-06-08
 
 ## Top Stories
 

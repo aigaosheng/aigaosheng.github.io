@@ -17,7 +17,7 @@ keywords: [AI, Fintech, Agentic AI, HSBC, Google Cloud, Digital Fraud, Complianc
 permalink: /AI-Fintech-Brief-2026-06-18/
 ---
 
-### AI+Fintech Brief — 2026-06-18
+### AI Fintech Brief — 2026-06-18
 
 ## Top Stories
 

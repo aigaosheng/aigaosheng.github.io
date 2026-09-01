@@ -79,7 +79,7 @@ permalink: /AI-Fintech-Brief-2026-08-12/
 
 ## Strategic Takeaway
 
-**The AI+Fintech story is shifting from "AI features" to "AI-native financial infrastructure."**
+**The AI Fintech story is shifting from "AI features" to "AI-native financial infrastructure."**
 
 Three themes stand out today:
 
@@ -87,4 +87,4 @@ Three themes stand out today:
 2. **Agentic AI is becoming an operating-leverage technology** — fintech companies are beginning to evaluate AI by how much organisational capacity it can replace or multiply, not merely by chatbot usage.
 3. **AI is converging with new payment rails** — stablecoins, real-time payments and programmable financial infrastructure could provide the execution layer for increasingly autonomous AI-driven commerce.
 
-## The strategic implication is significant: **the winners in AI+Fintech may be companies that control both the intelligence layer and the financial execution layer**, with strong governance connecting the two.
+## The strategic implication is significant: **the winners in AI Fintech may be companies that control both the intelligence layer and the financial execution layer**, with strong governance connecting the two.

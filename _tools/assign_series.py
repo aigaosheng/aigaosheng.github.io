@@ -8,7 +8,7 @@ Why this exists
 ---------------
 Roughly ten briefs are published a day across ~15 recurring columns, but the
 same column has been titled many different ways over time -- "AI Fintech
-Brief", "AI+Fintech Brief", "AI + Fintech Brief" and "Fintech AI Brief" are all
+Brief", "AI Fintech Brief", "AI + Fintech Brief" and "Fintech AI Brief" are all
 one column. Readers had no way to follow a single beat, and `categories:` was
 `[]` on 2,260 of 2,325 posts.
 

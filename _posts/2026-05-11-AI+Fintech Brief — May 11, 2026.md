@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — May 11, 2026"
+title: "AI Fintech Brief — May 11, 2026"
 series: "AI & Fintech"
 date: 2026-05-11 19:50:00 +0800
 type: post
@@ -10,9 +10,9 @@ categories: []
 tags:
 - AI Agent Payments Infrastructure
 keywords: [AI agent payments infrastructure, fintech AI funding 2026, autonomous financial agents]
-permalink: /AI+Fintech Brief — May 11, 2026/
+permalink: /AI Fintech Brief — May 11, 2026/
 ---
-### AI+Fintech Brief — May 11, 2026
+### AI Fintech Brief — May 11, 2026
 
 ---
 

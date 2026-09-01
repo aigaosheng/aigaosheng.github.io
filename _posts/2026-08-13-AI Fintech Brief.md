@@ -72,6 +72,6 @@ permalink: /AI-Fintech-Brief-2026-08-13/
 
 ## Executive Takeaway
 
-The strongest AI+Fintech signal on August 13 is **the transition from AI assistance to governed financial action**. Today's banking and fintech agenda is increasingly centered on agentic workflows, AI-powered compliance, financial controls and investment discipline rather than generic chatbot adoption.
+The strongest AI Fintech signal on August 13 is **the transition from AI assistance to governed financial action**. Today's banking and fintech agenda is increasingly centered on agentic workflows, AI-powered compliance, financial controls and investment discipline rather than generic chatbot adoption.
 
 Three areas deserve particular attention: **agentic payments and finance operations**, **AI-native compliance/AML**, and **governance infrastructure for autonomous financial systems**. The winners are likely to be platforms that combine AI capabilities with trusted financial data, deterministic controls, auditability and regulated execution.

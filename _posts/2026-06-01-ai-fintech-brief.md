@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-06-01"
+title: "AI Fintech Brief — 2026-06-01"
 series: "AI & Fintech"
 date: 2026-06-01 20:51:03 +0800
 type: post
@@ -17,7 +17,7 @@ keywords: [agentic-ai, banking, fraud, fintech-funding, workforce]
 permalink: /ai-fintech-brief-2026-06-01/
 ---
 
-### AI+Fintech Brief — 2026-06-01
+### AI Fintech Brief — 2026-06-01
 
 *Covering developments published in the 24h to 2026-06-01 20:51:03 (+0800).*
 
@@ -40,7 +40,7 @@ permalink: /ai-fintech-brief-2026-06-01/
 ### 3. Jamie Dimon slams Coinbase CEO and warns banks won’t accept crypto bill
 - **Fortune** · 2026-06-01
 - **Summary**: Fortune reports that JPMorgan CEO Jamie Dimon sharply criticized Coinbase CEO Brian Armstrong and raised objections to proposed crypto legislation that could let exchanges offer deposit-like products. The dispute centers on whether crypto platforms should face bank-like rules if they begin competing more directly for customer balances.
-- **Why It Matters**: While framed as a crypto-policy clash, the issue is material to AI+Fintech because agentic payments, automated treasury, and AI-native financial services all depend on where regulated money sits and who controls customer relationships. The battle over bank versus exchange rules will shape how quickly AI-enabled financial products can scale.
+- **Why It Matters**: While framed as a crypto-policy clash, the issue is material to AI Fintech because agentic payments, automated treasury, and AI-native financial services all depend on where regulated money sits and who controls customer relationships. The battle over bank versus exchange rules will shape how quickly AI-enabled financial products can scale.
 - **URL**: https://fortune.com/2026/06/01/jamie-dimon-slams-coinbase-ceo-brian-armstrong-stable-deposits/
 
 ---

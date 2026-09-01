@@ -15,7 +15,7 @@ keywords: [ai, fintech, banking]
 permalink: /AI-fintech-Brief-2026-07-29/
 ---
 
-# AI+fintech Brief — 2026-07-29
+# AI Fintech Brief — 2026-07-29
 
 ## Top Stories
 

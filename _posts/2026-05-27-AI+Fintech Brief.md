@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-05-27"
+title: "AI Fintech Brief — 2026-05-27"
 series: "AI & Fintech"
 date: 2026-05-27 20:54:00 +0800
 type: post
@@ -17,7 +17,7 @@ keywords: [AI, Fintech, Agentic AI, Digital Payments, Banking Transformation]
 permalink: /AI-Fintech-Brief-2026-05-27/
 ---
 
-### AI+Fintech Brief — 2026-05-27
+### AI Fintech Brief — 2026-05-27
 
 ## Top Stories
 

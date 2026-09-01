@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-05-22"
+title: "AI Fintech Brief — 2026-05-22"
 series: "AI & Fintech"
 date: 2026-05-22 19:56:00 +0800
 type: post
@@ -17,14 +17,14 @@ keywords: [AI Fintech, Agentic AI, Open Banking, Financial Regulation, WealthTec
 permalink: /AI-Fintech-Brief-2026-05-22/
 ---
 
-### AI+Fintech Brief — 2026-05-22
+### AI Fintech Brief — 2026-05-22
 
 ## Top Stories
 
 ### 1. OpenAI Faces Consumer Trust Crisis Over Personal Finance Agent
 - **Analyst Opinion / Tech News** · 2026-05-21
 - **Summary**: OpenAI has launched a "Personal Finance Agent" for US Pro users, integrating with Plaid to connect to over 12,000 financial institutions. While the technology allows for automated asset classification, spend analysis, and financial modeling, it has triggered a wave of negative feedback, with over 82% of comments on social platforms rejecting the tool. Users cite deep-seated fears about data privacy, "algorithm aversion," and the lack of FINRA licensure, which absolves OpenAI of responsibility for bad advice.
-- **Why It Matters**: This launch represents a major test for "Agentic AI" in consumer finance. The backlash highlights a critical bottleneck in AI+Fintech: consumer trust and regulatory licensing, which may be harder to solve than the technology itself. It suggests that incumbents with established trust have a significant moat.
+- **Why It Matters**: This launch represents a major test for "Agentic AI" in consumer finance. The backlash highlights a critical bottleneck in AI Fintech: consumer trust and regulatory licensing, which may be harder to solve than the technology itself. It suggests that incumbents with established trust have a significant moat.
 - **URL**: [全网抵制！OpenAI又捅了马蜂窝](https://hao.cnyes.com/post/248120)
 
 ### 2. Australian Regulator (ASIC) Positions Nation for AI-Driven Finance
@@ -60,7 +60,7 @@ permalink: /AI-Fintech-Brief-2026-05-22/
 ### 7. Oaktree Capital Warns of Risks in AI-Fueled Debt Boom
 - **Bloomberg** · 2026-05-21
 - **Summary**: Danielle Poli of Oaktree Capital Management appeared on Bloomberg Open Interest to warn about the growing risks associated with the AI debt boom. As AI infrastructure requires massive capital expenditure, the debt markets are absorbing significant issuance, raising concerns about leverage and liquidity in the credit markets.
-- **Why It Matters**: The AI revolution is capital-intensive. A correction or "air pocket" in the AI debt market could trigger a broader fintech credit crunch, impacting startups dependent on venture debt for growth. This serves as a macro risk indicator for the AI+Fintech ecosystem.
+- **Why It Matters**: The AI revolution is capital-intensive. A correction or "air pocket" in the AI debt market could trigger a broader fintech credit crunch, impacting startups dependent on venture debt for growth. This serves as a macro risk indicator for the AI Fintech ecosystem.
 - **URL**: [AI Debt Boom Sparks Warnings](https://flipboard.com/@bloomberg/bloomberg-television-7u2t9r7fz/ai-debt-boom-sparks-warnings/a-OEby9uRVRYKejHPQrpj2jQ%3Aa%3A3195391-666bb5f54f%2Fbloomberg.com)
 
 ### 8. JPMorgan Rolls Out AI Tools Across Investment Banking Division

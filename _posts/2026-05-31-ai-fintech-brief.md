@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — 2026-05-31"
+title: "AI Fintech Brief — 2026-05-31"
 series: "AI & Fintech"
 date: 2026-05-31 20:13:28 +0800
 type: post
@@ -16,7 +16,7 @@ keywords: [agentic-ai, banking, payments, trade-finance, openai]
 permalink: /ai-fintech-brief-2026-05-31/
 ---
 
-### AI+Fintech Brief — 2026-05-31
+### AI Fintech Brief — 2026-05-31
 
 *Covering developments published in the 48h to 2026-05-31 20:13:28 (+0800).*
 

@@ -13,11 +13,11 @@ tags:
 - Fintech
 - Banking
 keywords: [ai, fintech, banking]
-permalink: /AI+fintech-Brief-2026-07-25/
+permalink: /AI Fintech-Brief-2026-07-25/
 
 ---
 
-# AI+Fintech Brief — 2026-07-25
+# AI Fintech Brief — 2026-07-25
 
 ## Top Stories
 

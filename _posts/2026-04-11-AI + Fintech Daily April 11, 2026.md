@@ -86,7 +86,7 @@ permalink: /AI + Fintech Daily April 11, 2026/
 
 **Source:** Fortune | **Published:** April 11, 2026
 **Summary:** Indonesia is highlighted as a potential leader in AI-driven economic growth, combining natural resources, digital scale, and capital deployment. Success will depend on aligning policy, capital, and execution. ([Fortune][7])
-**Why It Matters:** AI+Fintech leadership is increasingly tied to **national strategy**, with emerging markets competing to capture disproportionate value from AI adoption.
+**Why It Matters:** AI Fintech leadership is increasingly tied to **national strategy**, with emerging markets competing to capture disproportionate value from AI adoption.
 
 **URL:** [https://fortune.com/2026/04/11/indonesia-danantara-cio-ai-energy-economy-governance-pandu-sjahrir/](https://fortune.com/2026/04/11/indonesia-danantara-cio-ai-energy-economy-governance-pandu-sjahrir/)
 

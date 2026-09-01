@@ -17,7 +17,7 @@ keywords: [AI, Fintech, Agentic AI, Digital Banking, AI Regulation, Machine Paym
 permalink: /AI-Fintech-Brief-2026-06-22/
 ---
 
-### AI+Fintech Brief — 2026-06-22
+### AI Fintech Brief — 2026-06-22
 
 ## Top Stories
 

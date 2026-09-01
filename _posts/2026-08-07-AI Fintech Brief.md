@@ -12,7 +12,7 @@ tags:
 - Fintech
 - Payments
 keywords: [ai, fintech, payments]
-permalink: /AI+Fintech-Brief-2026-08-07/
+permalink: /AI Fintech-Brief-2026-08-07/
 ---
 
 # AI Fintech Brief — 2026-08-07

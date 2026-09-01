@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI+Fintech Brief — May 16, 2026"
+title: "AI Fintech Brief — May 16, 2026"
 series: "AI & Fintech"
 date: 2026-05-16 19:52:00 +0800
 type: post
@@ -12,7 +12,7 @@ tags:
 - Fintech
 - Agentic AI
 keywords: [AI in Financial Services, Agentic Banking, Stablecoin AI Payments]
-permalink: /AI+Fintech Brief — May 15, 2026/
+permalink: /AI Fintech Brief — May 15, 2026/
 ---
 
 ### Top Stories

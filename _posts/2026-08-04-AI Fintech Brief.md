@@ -11,7 +11,7 @@ tags:
 - AI
 - Fintech
 keywords: [ai, fintech, artificial-intelligence]
-permalink: /AI+Fintech-Brief-2026-08-04/
+permalink: /AI Fintech-Brief-2026-08-04/
 ---
 
 # AI Fintech Brief — 2026-08-04

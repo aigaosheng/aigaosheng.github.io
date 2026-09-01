@@ -12,7 +12,7 @@ tags:
 - Fintech
 - Banking
 keywords: [AI, Fintech, Banking, Payments]
-permalink: /AI+Fintech-plus-Brief-2026-06-27/
+permalink: /AI Fintech-plus-Brief-2026-06-27/
 ---
 
 ### AI Fintech plus Brief — 2026-06-27
