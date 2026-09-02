@@ -1,0 +1,64 @@
+---
+layout: null
+permalink: /sitemap.xml
+sitemap: false
+---
+{%- comment -%}
+  Hand-written sitemap, replacing jekyll-sitemap.
+
+  The plugin submitted 2,892 URLs, of which 220 were listing pages with no
+  content of their own: 219 paginated index pages (/page2/ ... /page220/) and
+  /search/. Google asks that those be kept out of a sitemap, and submitting
+  them spends crawl attention that these ~2,400 posts need.
+
+  The plugin has no exclusion hook for the paginated pages, because
+  jekyll-paginate clones index.html's front matter onto each one -- a
+  `sitemap: false` there would have dropped the homepage too. So the rule here
+  is a whitelist instead of a blacklist: a page is listed only if it declares a
+  `title`. index.html deliberately has none (its hero text lives in `hero`),
+  which excludes every paginated clone; 404.html, offline.html, feed.xml,
+  search-data.json and this file have none either. The homepage is added by
+  hand below.
+
+  site.sitemap_extra carries the static HTML that lives outside Jekyll's page
+  collection -- the deltabrief-site/ and wraith-site/ product pages, which have
+  no front matter and so never appear in site.pages. jekyll-sitemap did list
+  them, and delisting them would quietly change another product's indexing, so
+  they are named explicitly in _config.yml.
+
+  uri_escape then xml_escape reproduces the plugin's encoding: spaces become
+  %20, and the ampersands that 213 of these URLs contain become &amp; as XML
+  requires.
+
+  NOTE: no Liquid tags inside HTML comments in this repo -- Liquid runs before
+  HTML parsing, so braces there still execute. This is a Liquid comment block,
+  which is safe.
+{%- endcomment -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ site.url }}/</loc>
+    <lastmod>{{ site.posts.first.date | date_to_xmlschema }}</lastmod>
+  </url>
+{%- for post in site.posts %}
+  <url>
+    <loc>{{ post.url | uri_escape | prepend: site.url | xml_escape }}</loc>
+    <lastmod>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</lastmod>
+  </url>
+{%- endfor %}
+{%- for p in site.pages %}
+{%- if p.title and p.sitemap != false and p.url != "/" %}
+  <url>
+    <loc>{{ p.url | uri_escape | prepend: site.url | xml_escape }}</loc>
+{%- if p.last_modified_at %}
+    <lastmod>{{ p.last_modified_at | date_to_xmlschema }}</lastmod>
+{%- endif %}
+  </url>
+{%- endif %}
+{%- endfor %}
+{%- for extra in site.sitemap_extra %}
+  <url>
+    <loc>{{ extra | uri_escape | prepend: site.url | xml_escape }}</loc>
+  </url>
+{%- endfor %}
+</urlset>

@@ -1,0 +1,35 @@
+{%- comment -%}
+  One in-article AdSense unit.
+
+  Usage:  {% include ad-unit.html slot=site.adsense_slots.post_mid %}
+
+  Renders nothing at all unless BOTH site.adsense_client and the passed slot ID
+  are set, and unless the build is production. That matters for three reasons:
+
+    - An <ins class="adsbygoogle"> with no valid slot never fills, but it still
+      reserves vertical space, so an unconfigured unit would show as a blank gap
+      and count against Cumulative Layout Shift.
+    - The push() must run after its own <ins> exists in the document. The
+      previous attempt at this lived in <head>, before any slot, and could only
+      throw. Each unit here carries its own push immediately after its <ins>.
+    - Loading ads into a local `jekyll serve` preview is pointless and puts the
+      author's own page views into the ad request stream.
+
+  data-full-width-responsive="true" lets the unit use the whole column on
+  narrow screens; without it AdSense caps responsive units well below the
+  container width on mobile, which is where nearly all the fill is.
+
+  NOTE: do not write Liquid tags inside HTML comments in this repo. Liquid runs
+  before the HTML is parsed, so anything in braces there still executes.
+{%- endcomment -%}
+{%- if jekyll.environment == "production" and site.adsense_client and include.slot and include.slot != "" -%}
+<div class="post-ad" aria-label="Advertisement">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ site.adsense_client }}"
+       data-ad-slot="{{ include.slot }}"
+       data-ad-format="{{ include.format | default: 'auto' }}"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{%- endif -%}

@@ -6,8 +6,21 @@ title: AI-driven Business Transformation | Consulting & Development
 # Short label for the navbar. site.title is a consulting strapline that wraps
 # onto three lines on a phone; it is still used for <title> and metadata.
 brand: AISeng Tech
-SEOTitle: AI Consultant | Enterprise Agentic AI | Tokenization payment
-header-img: image/rawa-sun-falling2-a
+# Homepage / fallback <title>. Every other page now gets
+# "<page title> · <title_suffix>" instead of having this whole string appended
+# to it -- see _includes/head.html.
+SEOTitle: "AISeng Tech - Enterprise AI, Fintech & Payments Briefs"
+# Brand string appended to every page title. Keep it short: the SERP title cap
+# is around 60 characters and the page's own title has to fit first.
+title_suffix: "AISeng Tech"
+# The hero band behind the page title, on nearly every page of the site.
+#
+# This was "image/rawa-sun-falling2-a" -- extensionless, so GitHub Pages served
+# it as application/octet-stream, and a 1032x361 photo saved as PNG at 747 KB.
+# It was the single largest asset on every pageview and the dominant Largest
+# Contentful Paint cost. image/hero-beach.jpg is the same photograph, recropped
+# from the full-resolution original at 1600x560, progressive JPEG, 123 KB.
+header-img: image/hero-beach.jpg
 email: goseng123@gmail.com
 author: Sheng Gao
 # Used by jekyll-seo-tag for <meta name="description">, og:description and
@@ -20,6 +33,18 @@ keyword: Enterprise Agentic AI, digital Transformation, Tokenization payment
 # but www 301-redirects to the apex, so every canonical URL, sitemap entry
 # and feed link pointed at a redirect. robots.txt already used the apex.
 url: "https://aisengtech.com"
+# Explicitly empty. The site is served from the apex domain via CNAME, so there
+# is no path prefix. Left unset, jekyll-github-metadata guesses one -- locally
+# it inferred "/pages/aigaosheng" and every site.baseurl-prefixed asset URL,
+# including the publisher logo in the article JSON-LD, came out wrong. Setting
+# it here makes a local build byte-identical to the GitHub Pages build.
+baseurl: ""
+# Publisher logo. jekyll-seo-tag emits a publisher Organization (with this as
+# its logo) in the article JSON-LD only when site.logo is set; without it the
+# BlogPosting had an author but no publisher, which Google's article guidance
+# lists as recommended and Discover leans on. PLACEHOLDER: this is cropped from
+# the author photo. Replace it with a real wordmark when there is one.
+logo: /image/logo.png
 github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git"
 
 # Navigation bar, in order.
@@ -47,8 +72,14 @@ nav:
 nav_secondary:
   - title: Resume
     url: /resume/
-  - title: Privacy & Support
-    url: "/Privacy&Support/"
+  # Was "Privacy & Support" -> /Privacy&Support/. That page is the landing page
+  # for Wraith, a separate product: it describes an on-device iOS assistant and
+  # says nothing about this site's analytics or advertising, which AdSense's
+  # program policies require a publisher to disclose. The page itself is left
+  # in place and still reachable at its own URL, which is likely registered
+  # outside this repo; only this site's footer link moved.
+  - title: Privacy
+    url: /privacy/
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -69,13 +100,56 @@ anchorjs: true
 
 
 
+# Google Analytics 4 measurement ID and AdSense publisher ID.
+#
+# Both were hard-coded in _includes/head.html. They live here so that the
+# jekyll.environment gate in that file governs both, and so local previews stop
+# writing page_view hits into the live property.
+google_analytics: G-KTDMZH87NL
+adsense_client: ca-pub-8709587192438304
+
+# In-article ad slots, rendered by _includes/ad-unit.html into the post layout.
+#
+# Leave these blank until the units exist in AdSense (Ads -> By ad unit ->
+# Display ads). Nothing is rendered for a blank slot, so a missing ID degrades
+# to no ad rather than to a broken empty <ins> reserving vertical space.
+#
+# Why manual units at all, when Auto ads is already on: Auto ads places eight
+# 375x375 slots on mobile and exactly one collapsed 0x0 slot on desktop, so
+# desktop is effectively unmonetised while mobile is over-dense. Three
+# deliberate units cover both. After these are live, switch OFF Auto ads'
+# in-page placements in the AdSense dashboard and keep only the anchor,
+# otherwise both systems place ads and the page fills up with them.
+adsense_slots:
+  post_top: ""
+  post_mid: ""
+  post_end: ""
+
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
+#
+# jekyll-sitemap was dropped in favour of the hand-written sitemap.xml at the
+# repo root. The plugin has no way to exclude the 219 /pageN/ pagination pages
+# or /search/, all of which are listing pages with no content of their own;
+# submitting them spread crawl attention across 2,892 URLs and earns
+# "Indexed, though blocked" / "Crawled - currently not indexed" reports in
+# Search Console. The replacement lists posts and real pages only.
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-paginate
+
+# Static HTML that lives outside Jekyll's page collection (no front matter, so
+# it never appears in site.pages) but was listed by jekyll-sitemap and should
+# stay indexed. These belong to other products hosted from the same repo; the
+# files themselves are not to be modified.
+sitemap_extra:
+  - /deltabrief-site/
+  - /deltabrief-site/privacy.html
+  - /deltabrief-site/support.html
+  - /wraith-site/
+  - /wraith-site/privacy.html
+  - /wraith-site/support.html
 
 
 # Markdown settings
@@ -111,7 +185,11 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /image/rawa-sun-falling3.jpg
+      # og:image / twitter:image. Was rawa-sun-falling3.jpg: a 2016x1512 photo
+      # at 461 KB in a 4:3 aspect that every social crawler then letterboxes.
+      # og-default.jpg is the same scene at the 1200x630 that Facebook, X and
+      # LinkedIn all specify, at 110 KB.
+      image: /image/og-default.jpg
       # Scrim opacity behind the white hero text. The hero photo is bright, so
       # without this the title and subheading were unreadable over the sky.
       # Override per page/post, or set 0 to remove.

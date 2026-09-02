@@ -20,13 +20,17 @@
     It downloaded half a megabyte on every pageview and rendered nothing.
     Use an og:image meta tag instead (see _includes/head.html).
 -->
-<!-- Migrate from head to bottom, no longer block render and still work -->
+<!--
+    The commented-out AdSense loader and slot push that used to sit here were
+    removed rather than left in place. Commented markup still ships to every
+    reader, and this copy also contradicted the live one: it duplicated the
+    loader from _includes/head.html and pushed a slot that does not exist at
+    this point in the document.
 
-<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8709587192438304"
-     crossorigin="anonymous"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script> -->
+    The loader now lives once, in _includes/head.html, behind a production
+    check. Ad slots live in _layouts/post.html via _includes/ad-unit.html,
+    each with its own push directly after its own element.
+-->
 
 </body>
 

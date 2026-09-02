@@ -1,3 +1,15 @@
 User-agent: *
 Allow: /
+
+# The client-side search index embeds the full text of every post: 14 MB of
+# JSON that exists only for the JavaScript on /search/. Crawling it wastes
+# crawl budget on content already indexable at each post's own URL.
+Disallow: /search-data.json
+
+# /search/ itself is deliberately NOT disallowed here. It carries
+# <meta name="robots" content="noindex, follow">, and a crawler has to be able
+# to fetch the page to see that directive -- blocking it in robots.txt would
+# leave any already-indexed copy stuck as "Indexed, though blocked by
+# robots.txt" instead of dropping out.
+
 Sitemap: https://aisengtech.com/sitemap.xml

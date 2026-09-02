@@ -150,3 +150,44 @@
 @media (max-width: 767px) {
   .site-heading .page-heading { font-size: 30px; }
 }
+
+/* ---------------------------------------------------------------------------
+   In-article ad units (_includes/ad-unit.html).
+
+   min-height reserves the space a responsive unit will take once it fills, so
+   the article text below it does not jump when the creative arrives -- that
+   jump is exactly what Cumulative Layout Shift measures. 280px is the shortest
+   of the common responsive display heights; a taller creative grows downward
+   from an already-reserved box rather than shoving the page.
+
+   The label is required by AdSense policy wording only in some markets, but it
+   also stops readers mistaking a native-looking creative for editorial, which
+   is the thing that actually costs trust on a briefing site.
+   --------------------------------------------------------------------------- */
+.post-ad {
+    margin: 40px 0;
+    min-height: 280px;
+    text-align: center;
+}
+
+.post-ad::before {
+    content: "Advertisement";
+    display: block;
+    margin-bottom: 6px;
+    font-family: "Lora", "Times New Roman", serif;
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #b3b3b3;
+}
+
+.post-ad .adsbygoogle {
+    display: block;
+    width: 100%;
+}
+
+@media (max-width: 767px) {
+    .post-ad {
+        margin: 30px 0;
+    }
+}

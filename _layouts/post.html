@@ -82,7 +82,38 @@ layout: default
                     <ol></ol>
                 </nav>
 
-				{{ content }}
+                {% include ad-unit.html slot=site.adsense_slots.post_top %}
+
+                {%- comment -%}
+                    Content, with one ad unit spliced in partway down.
+
+                    A brief is a run of story headings, so the natural break is
+                    between stories rather than at a fixed pixel depth. The body
+                    is split on <h3 (the per-story heading level the brief
+                    template uses); the ad goes after the third story, which on
+                    a typical edition lands around 40% of the way down and is
+                    always between items rather than inside one.
+
+                    Posts with fewer than four story headings fall through to a
+                    plain {{ content }} and get no mid-article unit -- there is
+                    not enough body to earn one.
+
+                    NOTE: no Liquid tags inside these comments. Liquid runs
+                    before HTML parsing, so braces here still execute.
+                {%- endcomment -%}
+                {%- assign _chunks = content | split: '<h3' -%}
+                {%- if _chunks.size > 4 and site.adsense_slots.post_mid and site.adsense_slots.post_mid != "" -%}
+                    {%- for _chunk in _chunks -%}
+                        {%- if forloop.first -%}{{ _chunk }}{%- else -%}<h3{{ _chunk }}{%- endif -%}
+                        {%- if forloop.index == 4 -%}
+                            {% include ad-unit.html slot=site.adsense_slots.post_mid %}
+                        {%- endif -%}
+                    {%- endfor -%}
+                {%- else -%}
+                    {{ content }}
+                {%- endif -%}
+
+                {% include ad-unit.html slot=site.adsense_slots.post_end %}
 
                 <hr style="visibility: hidden;">
 
