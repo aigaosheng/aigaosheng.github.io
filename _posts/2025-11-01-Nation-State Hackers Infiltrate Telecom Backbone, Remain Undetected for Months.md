@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nation-State Hackers Infiltrate Telecom Backbone, Remain Undetected for Months"
+description: "What We Don’t Know (Yet)"
 date: 2025-11-01 21:52:00 +0800
 type: post
 published: true

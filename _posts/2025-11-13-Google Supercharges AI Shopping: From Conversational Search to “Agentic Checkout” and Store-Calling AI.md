@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Supercharges AI Shopping - From Conversational Search to “Agentic Checkout” and Store-Calling AI"
+description: "The Next Generation of AI Shopping · Conversational Shopping via Search · AI That Calls Stores for You"
 date: 2025-11-13 23:15:00 +0800
 type: post
 published: true

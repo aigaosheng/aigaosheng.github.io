@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MiniMax AI Open‑Source Multimodal Leap and Market Surge, Feb 7, 2026"
+description: "MiniMax AI’s Open‑Source Multimodal Leap and Market Surge, Feb 7, 2026"
 date: 2026-02-07 21:14:00 +0800
 type: post
 published: true

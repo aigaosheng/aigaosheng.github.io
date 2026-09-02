@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s AI Investment Pivot - From High-Flying Chips to Hard Assets"
+description: "Why Investors Are Moving From “Brain” to “Body” of AI · Where the New AI Money Is Going · AI Metals: Copper & Aluminum · Energy Storage & Backup Systems"
 date: 2025-11-16 17:48:00 +0800
 type: post
 published: true

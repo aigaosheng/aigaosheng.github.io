@@ -2,6 +2,7 @@
 layout: post
 title: "AI Leaders Brief | April 19, 2026"
 series: "AI Industry News"
+description: "Claude Design Launches: Visual Collaboration with Opus 4.7 · OpenAI Releases GPT-Rosalind for Life Sciences Research · Perplexity Launches Personal…"
 date: 2026-04-19 21:00:00 +0800
 type: post
 published: true

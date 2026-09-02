@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-15"
 series: "Investment & Startups"
+description: "SpaceX Completes Record-Breaking Nasdaq Listing, Setting Template for AI Giants · Wayve and Moneybox Explore London’s New ‘Pisces’ Market as IPO…"
 date: 2026-06-15 20:45:00 +0800
 type: post
 published: true

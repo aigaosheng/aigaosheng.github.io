@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Algorithm Will See You Now"
+description: "Why Radiology Was Supposed to Be the First Frontier · AI by the Numbers · Where the Hype Collides with Reality · Automation Can Create More Work"
 date: 2025-09-27 22:10:00 +0800
 type: post
 published: true

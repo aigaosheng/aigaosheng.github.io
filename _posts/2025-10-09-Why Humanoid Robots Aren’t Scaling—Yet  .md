@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Humanoid Robots Aren’t Scaling—Yet  "
+description: "The Unsexy (But Critical) Bottlenecks · Are Legs Even Worth It?"
 date: 2025-10-09 23:10:00 +0800
 type: post
 published: true

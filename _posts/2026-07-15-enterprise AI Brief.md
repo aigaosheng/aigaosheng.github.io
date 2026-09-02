@@ -2,6 +2,7 @@
 layout: post
 title: "enterprise AI Brief — 2026-07-15"
 series: "Enterprise AI"
+description: "Microsoft and 3M Form Strategic AI Infrastructure Partnership · Tencent Cloud Expands Enterprise AI Agent Platform into Indonesia · IBM's AI Spending…"
 date: 2026-07-15 21:00:00 +0800
 type: post
 published: true

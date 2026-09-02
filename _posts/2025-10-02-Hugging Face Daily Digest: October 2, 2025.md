@@ -2,6 +2,7 @@
 layout: post
 title: "Hugging Face Daily Digest: October 2, 2025"
 series: "AI Company Watch"
+description: "Implications for the AI Community"
 date: 2025-10-02 23:19:00 +0800
 type: post
 published: true

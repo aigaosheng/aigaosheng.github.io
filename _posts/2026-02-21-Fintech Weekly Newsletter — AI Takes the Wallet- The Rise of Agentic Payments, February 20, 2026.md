@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly Newsletter — AI Takes the Wallet- The Rise of Agentic Payments, February 20, 2026"
 series: "AI & Fintech"
+description: "In-Depth Highlight: Coinbase’s Agentic Wallets · Market & Industry Insight · AI-Powered Payments & Agentic Finance Are Going Live · Digital Wallets Evolve…"
 date: 2026-02-21 17:37:00 +0800
 type: post
 published: true

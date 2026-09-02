@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How a Wave That Paralyzed Him Sparked a High-Tech Fight for Mobility"
+description: "Glossary — Key Terms Explained"
 date: 2025-12-31 21:37:00 +0800
 type: post
 published: true

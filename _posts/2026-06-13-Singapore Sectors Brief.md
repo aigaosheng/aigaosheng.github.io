@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Sectors Brief — 2026-06-13"
 series: "Singapore"
+description: "Applied Materials Opens $600M Singapore Plant, Adding 1,000 AI Chip Jobs · Chips Still Dominate Singapore’s Exports as Non-Tech Rally Skips Republic…"
 date: 2026-06-13 20:19:00 +0800
 type: post
 published: true

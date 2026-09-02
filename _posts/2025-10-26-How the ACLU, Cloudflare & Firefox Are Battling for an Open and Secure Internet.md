@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How the ACLU, Cloudflare & Firefox Are Battling for an Open and Secure Internet"
+description: "Why This Matters Now · What Can Be Done"
 date: 2025-10-26 17:31:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-30"
 series: "AI & Fintech"
+description: "BSP Issues AI Governance Framework for Philippine Banks · NPCI Launches AI Pilot to Track Financial Fraud in Real Time · Agentic AI Reshapes Commercial…"
 date: 2026-06-30 20:02:00 +0800
 type: post
 published: true

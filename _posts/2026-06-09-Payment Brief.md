@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-09"
 series: "Payments"
+description: "Visa, Mastercard in Early Talks with Stripe and Coinbase to Form Stablecoin Alliance · The Next Money War: Legacy Cards vs. Crypto for AI Agent Commerce…"
 date: 2026-06-09 20:52:00 +0800
 type: post
 published: true

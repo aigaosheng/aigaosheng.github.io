@@ -3,6 +3,7 @@
 layout: post
 title: "AI Security and Risk Brief — 2026-08-26"
 series: "AI Security & Risk"
+description: "Gartner Forecasts the AI Security Market Will Reach $4.8 Billion in 2027 · AI Vulnerability Discovery Ranked the Highest-Impact Emerging Risk · Five Eyes…"
 date: 2026-08-26 20:25:00 +0800
 type: post
 published: true

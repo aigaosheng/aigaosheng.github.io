@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The New AI Space Race - 49 US Startups Secure $100M+ in 2025"
+description: "Key Funding Themes Shaping 2026 · The 49 U.S. AI Startups That Raised $100M+ in 2025 · What This Lineup Reveals"
 date: 2025-11-28 19:50:00 +0800
 type: post
 published: true

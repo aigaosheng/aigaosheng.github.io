@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Dispatch — May 13, 2026"
 series: "US & China AI"
+description: "1. DeepSeek’s $7.35B Funding Bid Signals Strategic Pivot to State-Backed Capital DeepSeek is reportedly seeking a financing round exceeding 50 billion yuan…"
 date: 2026-05-13 20:00:00 +0800
 type: post
 published: true

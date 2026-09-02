@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Canva’s AI Leap - Why Rivals Should Be Worried"
+description: "Why Rivals Should Be Nervous"
 date: 2025-11-02 20:39:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI governance, risk and compliance Brief — 2026-06-02"
 series: "AI Governance & Regulation"
+description: "WHO publishes new paper on governing AI in evidence-informed health policy · WIRED reports internal White House conflict over US AI regulatory direction…"
 date: 2026-06-02 20:27:52 +0800
 type: post
 published: true

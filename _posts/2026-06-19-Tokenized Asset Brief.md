@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-19"
 series: "Tokenized Assets"
+description: "MEXC Lists Nine Ondo Tokenized Stocks Covering AI, Semiconductors, and Optical Communications · SixThirty Ventures Invests in Range to Build Trust…"
 date: 2026-06-19 20:47:00 +0800
 type: post
 published: true

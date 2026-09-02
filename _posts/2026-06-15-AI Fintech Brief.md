@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-15"
 series: "AI & Fintech"
+description: "Visa and OpenAI Forge Strategic Partnership for Agentic Commerce Infrastructure · Mastercard Launches \"Agent Pay for Machines\" as Rival Payment Solution…"
 date: 2026-06-15 20:42:00 +0800
 type: post
 published: true

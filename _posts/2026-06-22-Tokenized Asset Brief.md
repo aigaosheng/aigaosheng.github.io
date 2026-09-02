@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-22"
 series: "Tokenized Assets"
+description: "Bitget Launches Dual Gateway to Tokenized US Stocks, Signaling Retail Push · DTCC Advances Toward Live Tokenization of Regulated Securities · RWA Market…"
 date: 2026-06-22 20:17:00 +0800
 type: post
 published: true

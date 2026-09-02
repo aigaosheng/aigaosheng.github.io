@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Big Four Audit Leap - Why PwC’s A$1.5 B AI Audit Push Comes With No Discounts"
+description: "In a bold move signalling the next stage of assurance services, PwC is rolling out an AI-powered audit platform set to cost more than A$1.5 billion — yet…"
 date: 2025-10-27 19:57:00 +0800
 type: post
 published: true

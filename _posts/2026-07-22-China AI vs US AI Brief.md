@@ -2,6 +2,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-07-22"
 series: "US & China AI"
+description: "OpenAI and Anthropic Push Washington on Risks From Open AI Models as Chinese Competitors Gain Ground · China’s Moonshot AI Gains Global Attention After…"
 date: 2026-07-22 20:48:00 +0800
 type: post
 published: true

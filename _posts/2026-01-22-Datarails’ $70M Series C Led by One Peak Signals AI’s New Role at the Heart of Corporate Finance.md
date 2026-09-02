@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Datarails’ $70M Series C Led by One Peak Signals AI’s New Role at the Heart of Corporate Finance"
+description: "From Spreadsheets to Smart Finance · Growth Momentum and Market Timing · Implications for the Industry"
 date: 2026-01-22 20:44:00 +0800
 type: post
 published: true

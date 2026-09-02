@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI's $10B AI Infrastructure Bet: How Its Deals with Broadcom and AMD Are Reshaping the Future of AI"
+description: "Welcome to the AI Arms Race: OpenAI's Strategic Hardware Gambit"
 date: 2025-10-17 21:28:00 +0800
 type: post
 published: true

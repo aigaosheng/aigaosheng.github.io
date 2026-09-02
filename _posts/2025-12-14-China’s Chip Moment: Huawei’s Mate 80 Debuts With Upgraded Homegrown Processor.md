@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China Chip Moment - Huawei Mate 80 Debuts With Upgraded Homegrown Processor"
+description: "What This Launch Means · Glossary: Key Terms Explained"
 date: 2025-12-14 21:59:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "China AI update Brief — 2026-06-06"
 series: "US & China AI"
+description: "China launches LangYa 2.0 marine AI forecasting model · China exchanges revamp major indices to tilt toward AI and chip stocks · China Daily highlights…"
 date: 2026-06-06 20:53:59 +0800
 type: post
 published: true

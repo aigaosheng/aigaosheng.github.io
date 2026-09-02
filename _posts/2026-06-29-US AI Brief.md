@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-29"
 series: "US & China AI"
+description: "US Government Eases Restrictions on Anthropic's Mythos 5 Model · Google Restricts Meta's Gemini Access Amid Computing Capacity Shortage · Rep. Moran…"
 date: 2026-06-29 19:47:00 +0800
 type: post
 published: true

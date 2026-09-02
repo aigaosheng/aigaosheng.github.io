@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Monetization Infra And Fintech Mega-Scaling Dominate Latest VC Moves"
+description: "Actionable insights for investors and analysts"
 date: 2025-11-29 20:37:00 +0800
 type: post
 published: true

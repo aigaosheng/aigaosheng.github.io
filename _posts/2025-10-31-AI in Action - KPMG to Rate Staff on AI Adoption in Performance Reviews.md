@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI in Action - KPMG to Rate Staff on AI Adoption in Performance Reviews"
+description: "Why Does It Matter?"
 date: 2025-10-31 21:44:00 +0800
 type: post
 published: true

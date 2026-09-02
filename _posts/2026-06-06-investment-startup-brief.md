@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+startup Brief — 2026-06-06"
 series: "Investment & Startups"
+description: "Ramp raises $750M at a $44B valuation · Helion secures $465M to push fusion commercialization"
 date: 2026-06-06 20:53:59 +0800
 type: post
 published: true

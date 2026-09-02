@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore AI Startup i10X Raises $1M Pre‑Seed Backed By Antler & Iterative — A New Contender in the AI Aggregator Space"
+description: "Solving the AI Fragmentation Problem · Global Footprint from Singapore and Berlin · Why Investors Are Paying Attention"
 date: 2026-01-06 19:56:00 +0800
 type: post
 published: true

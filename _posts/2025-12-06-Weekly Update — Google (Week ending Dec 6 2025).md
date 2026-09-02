@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Update — Google (Week ending Dec 6 2025)"
 series: "AI Company Watch"
+description: "Gemini 3 Launch — “A new era of intelligence” · Android 16 — AI Notifications + Better Customization & Controls · Google Cloud + AWS: Multicloud Networking…"
 date: 2025-12-06 20:00:00 +0800
 type: post
 published: true

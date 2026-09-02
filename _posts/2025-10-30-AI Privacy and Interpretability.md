@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paper reading - Language Models are Injective and Hence Invertible(arXiv:2510.15511"
+description: "Research topic & objective · Key findings & conclusions · Critical data & facts · Potential applications or implications"
 date: 2025-10-30 21:20:00 +0800
 type: post
 published: true

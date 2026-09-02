@@ -2,6 +2,7 @@
 layout: post
 title: "Venture Pulse- AI Mega-Rounds, Fintech Revival & Crypto Infrastructure Surge "
 series: "Investment & Startups"
+description: "Major VC / Accelerator Updates · Sector Trends (Last 7 Days) · AI Capital Concentration Accelerates · Defense Tech Becomes Institutionalized"
 date: 2026-05-17 21:18:00 +0800
 type: post
 published: true

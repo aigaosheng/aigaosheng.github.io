@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-11"
 series: "Enterprise AI"
+description: "TCS and Anthropic Form Strategic Partnership to Scale Enterprise AI · Nvidia Acquires Kumo AI to Bring Predictive Intelligence to Enterprise Data · Meta…"
 date: 2026-06-11 20:12:00 +0800
 type: post
 published: true

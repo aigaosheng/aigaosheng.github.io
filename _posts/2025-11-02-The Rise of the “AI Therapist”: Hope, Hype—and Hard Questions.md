@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Rise of the “AI Therapist” - Hope, Hype—and Hard Questions"
+description: "A New Kind of Therapy—At Scale · Why People Are Turning to Bots · The Cracks in the Mirror · Empathy, humanity and relational-depth"
 date: 2025-11-02 21:21:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NYU’s Breakthrough AI Architecture Redefines Speed and Quality in Image Generation"
+description: "A smarter way to generate images · The results: faster, lighter, smarter · Lessons for AI engineers and data scientists"
 date: 2025-11-08 20:22:00 +0800
 type: post
 published: true

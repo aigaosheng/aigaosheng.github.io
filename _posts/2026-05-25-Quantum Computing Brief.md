@@ -2,6 +2,7 @@
 layout: post
 title: "Quantum Computing Brief — 2026-05-25"
 series: "Quantum Computing"
+description: "U.S. Invests $2 Billion in Domestic Quantum Industry Under CHIPS Act · France Commits €1 Billion to Keep Pace with U.S. and China · S&P 500 Rallies on…"
 date: 2026-05-25 20:17:00 +0800
 type: post
 published: true

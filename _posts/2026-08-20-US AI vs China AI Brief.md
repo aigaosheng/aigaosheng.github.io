@@ -3,6 +3,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-08-20"
 series: "US & China AI"
+description: "China Eases NVIDIA H200 Restrictions as AI Race Intensifies · China's AI Boom Turns the STAR 50 Into a Strategic AI Investment Proxy · Unitree CEO Predicts…"
 date: 2026-08-20 19:55:00 +0800
 type: post
 published: true

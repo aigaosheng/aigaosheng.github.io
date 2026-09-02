@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Updates - 29 Sept 2025"
+description: "Trends in the AI Community · Rise of Multimodal Models · Advancements in Energy Efficiency · Influence of Chinese Open-Source AI Systems"
 date: 2025-09-29 23:23:00 +0800
 type: post
 published: true

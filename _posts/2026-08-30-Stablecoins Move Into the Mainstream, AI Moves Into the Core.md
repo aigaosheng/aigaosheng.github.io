@@ -3,6 +3,7 @@
 layout: post
 title: "Stablecoins Move Into the Mainstream, AI Moves Into the Core"
 series: "Fintech Weekly"
+description: "In-Depth Highlight: Stablecoins Move From Experiment to Payment Infrastructure · Market & Industry Insight · Stablecoins are becoming financial…"
 date: 2026-08-30 20:30:00 +0800
 type: post
 published: true

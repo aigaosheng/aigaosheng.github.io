@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-31"
 series: "Enterprise AI"
+description: "OpenAI Reportedly Expands Enterprise Services Organization With Global Consulting Partnerships · Identity Emerges as the Critical Control Layer for…"
 date: 2026-07-31 19:56:00 +0800
 type: post
 published: true

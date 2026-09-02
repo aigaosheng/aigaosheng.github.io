@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rails, Rulings & Real-Time Money — Fintech's Week in Full 12 April 2026"
+description: "Mastercard, Visa & Revolut lose UK legal battle over interchange fee caps · Swift's blockchain shared ledger to go live with real transactions in 2026…"
 date: 2026-04-12 20:42:00 +0800
 type: post
 published: true

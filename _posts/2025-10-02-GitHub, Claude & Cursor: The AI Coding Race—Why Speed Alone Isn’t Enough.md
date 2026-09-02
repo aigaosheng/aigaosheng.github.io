@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GitHub, Claude & Cursor: The AI Coding Race—Why Speed Alone Isn’t Enough"
+description: "The Speed Paradox: Fast Tools, Slow Adoption · Enterprise Preferences: Security Over Speed · Conclusion: Balancing Speed with Security"
 date: 2025-10-02 23:53:00 +0800
 type: post
 published: true

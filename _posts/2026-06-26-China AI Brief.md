@@ -2,6 +2,7 @@
 layout: post
 title: "China AI+ Brief — 2026-06-26"
 series: "US & China AI"
+description: "China to Further Align Power and Computing Resources in AI Push · Huawei Unveils AI-Centric Network Strategy at MWC Shanghai 2026 · ZTE Showcases…"
 date: 2026-06-26 21:30:00 +0800
 type: post
 published: true

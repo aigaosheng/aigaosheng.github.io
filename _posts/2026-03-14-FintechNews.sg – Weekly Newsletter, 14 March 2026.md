@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter, 14 March 2026"
 series: "Singapore"
+description: "Key Trends & Insights · AI in Finance / Payments · Digital Banking / Lending · Infrastructure / B2B Fintech"
 date: 2026-03-14 16:00:00 +0800
 type: post
 published: true

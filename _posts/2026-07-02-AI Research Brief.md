@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-07-02"
 series: "AI Research & Open Source"
+description: "UN Launches Global AI Governance Commission · Anthropic Launches “Claude Science” for Research Workflows · DeepMind Ethics Lead Highlights AGI Alignment…"
 date: 2026-07-02 20:00:00 +0800
 type: post
 published: true

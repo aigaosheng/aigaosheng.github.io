@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "One Console to Rule Them All — How GitHub’s Agent HQ is Turning AI Coding Chaos into Control"
+description: "What Agent HQ does · Governance, permissions & audit controls · Elevated risks & architecture trade-offs"
 date: 2025-10-29 21:30:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-05-23"
 series: "AI Governance & Regulation"
+description: "White House Pauses AI Executive Order, Officials Cite National Security Concerns · SailPoint, Proofpoint, CrowdStrike Integrate Anthropic's Claude…"
 date: 2026-05-23 19:20:00 +0800
 type: post
 published: true

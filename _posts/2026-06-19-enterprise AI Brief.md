@@ -2,6 +2,7 @@
 layout: post
 title: "enterprise AI Brief — 2026-06-19"
 series: "Enterprise AI"
+description: "Glean Expands into Financial Services to Turn AI Assistants into Compliance Assets · Deloitte Releases \"The State of AI in the Enterprise 2026\" Report · AI…"
 date: 2026-06-19 20:36:14 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "investment startup Brief — 2026-08-01"
 series: "Investment & Startups"
+description: "Indian Startup Funding Falls Sharply in July After June Surge · Korea Expands Global Startup Ambitions With New Founder Programs · Philippines Launches New…"
 date: 2026-08-01 20:35:00 +0800
 type: post
 published: true

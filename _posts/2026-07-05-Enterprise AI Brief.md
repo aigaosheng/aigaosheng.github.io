@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-05"
 series: "Enterprise AI"
+description: "AI Token Costs Force Enterprise AI Providers to Rethink Business Models · Tech Mahindra Deploys Perplexity AI Across Customer-Facing Teams · Booz Allen…"
 date: 2026-07-05 20:07:00 +0800
 type: post
 published: true

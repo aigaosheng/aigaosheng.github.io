@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Model Wars Heat Up Google’s Gemini 3.1 Flash-Lite vs OpenAI’s GPT-5.3 Instant – Speed, Cost & Practical Impact"
+description: "The New Contenders: What Was Announced · Why This Matters Now"
 date: 2026-03-04 20:04:00 +0800
 type: post
 published: true

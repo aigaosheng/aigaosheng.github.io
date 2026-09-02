@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized asset Brief — 2026-06-04"
 series: "Tokenized Assets"
+description: "Franklin Templeton and MoonPay link tokenized money market funds to institutional trading rails · Symbiotic launches instant-liquidity network for…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

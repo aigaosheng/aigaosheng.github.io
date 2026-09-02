@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-12"
 series: "Payments"
+description: "BRICS Explores CBDC and Instant-Payment Links to Reduce Cross-Border Costs · TurnStay Processes $61.5 Million in African Travel Payments in Six Months…"
 date: 2026-08-12 20:13:00 +0800
 type: post
 published: true

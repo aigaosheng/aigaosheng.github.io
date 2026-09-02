@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Chips Need to Chill Out — How the Semiconductor Industry Is Fighting Heat with Diamonds, Lasers and Liquid Baths"
+description: "Novel Cooling Strategies in Play · A Slight Reality Check · What to Watch Going Forward"
 date: 2025-11-01 22:43:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Daily Newsletter April 5, 2026"
 series: "AI & Fintech"
+description: "1️⃣ Generali Hong Kong Automates Health Claims with CoverGo's AI Agent · 2️⃣ XBTO Secures $217M to Scale Institutional Digital Asset Infrastructure · 3️⃣…"
 date: 2026-04-05 21:17:00 +0800
 type: post
 published: true

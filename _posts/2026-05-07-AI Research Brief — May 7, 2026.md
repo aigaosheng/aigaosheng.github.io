@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — May 7, 2026"
 series: "AI Research & Open Source"
+description: "Google Unveils Sweeping Gemini Upgrades, Expanding AI Agents Across Work, Health, and Defense ** At Google Cloud Next 2026, the company unveiled over 260…"
 date: 2026-05-07 19:48:00 +0800
 type: post
 published: true

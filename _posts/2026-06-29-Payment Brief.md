@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-29"
 series: "Payments"
+description: "City Bank Becomes Global First to Execute SWIFT's New Retail Payment Scheme · BPI to Permanently Waive InstaPay and PESONet Fees · SriLankan Airlines…"
 date: 2026-06-29 19:55:00 +0800
 type: post
 published: true

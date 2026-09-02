@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Startup funding updates from the past 7 days Dec 27 2025"
+description: "Startup Funding Snapshot (Last 7 Days) · Trends & Strategic Commentary · Market Potential & Risks · Outlook & Investor Playbook"
 date: 2025-12-27 22:00:00 +0800
 type: post
 published: true

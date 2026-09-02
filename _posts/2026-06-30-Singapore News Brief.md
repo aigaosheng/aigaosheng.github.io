@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-06-30"
 series: "Singapore"
+description: "Singapore Stocks Decline as Regional Markets Deliver Mixed Signals · Singapore Remains Key Gateway for Chinese Companies Expanding Overseas Under New…"
 date: 2026-06-30 20:27:00 +0800
 type: post
 published: true

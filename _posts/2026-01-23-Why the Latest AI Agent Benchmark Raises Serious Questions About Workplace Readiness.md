@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why the Latest AI Agent Benchmark Raises Serious Questions About Workplace Readiness"
+description: "From Hype to Hard Data: What APEX-Agents Reveals · What’s Behind the Struggles? · A Roadmap, Not a Roadblock · Glossary — Key Terms Explained"
 date: 2026-01-23 21:37:00 +0800
 type: post
 published: true

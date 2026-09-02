@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — May 15, 2026"
 series: "Investment & Startups"
+description: "TDB Begins Disbursal of $12 Billion RDI Fund to Deeptech Startups Source · The Economic Times · May 14, 2026 Summary · India’s Technology Development Board…"
 date: 2026-05-15 20:51:00 +0800
 type: post
 published: true

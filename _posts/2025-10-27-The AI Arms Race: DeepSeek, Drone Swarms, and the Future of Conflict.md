@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The AI Arms Race - DeepSeek, Drone Swarms, and the Future of Conflict"
+description: "Imagine a battlefield orchestrated not by generals and soldiers alone, but by algorithms, autonomous drones, and robotic quadrupeds moving with near-human…"
 date: 2025-10-27 21:27:00 +0800
 type: post
 published: true

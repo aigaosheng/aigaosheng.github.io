@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Is Quietly Transforming Accessibility — And Giving Disabled People Their Voices Back"
+description: "This is my voice.” · More Than Communication — It’s About Independence · The Big Limitation: Speed · Enter AI: A Practical, Not Hype-Driven, Revolution"
 date: 2025-11-19 21:46:00 +0800
 type: post
 published: true

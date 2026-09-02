@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Family Offices Bet Big on AI, Sideline Crypto and Gold- What JPMorgan’s 2026 Report Reveals"
+description: "AI Tops the Priority List — But Execution Lags · Crypto and Gold Nearly Disappear from Portfolios · Risk, Alternatives and the Wealth Migration Debate…"
 date: 2026-02-03 20:32:00 +0800
 type: post
 published: true

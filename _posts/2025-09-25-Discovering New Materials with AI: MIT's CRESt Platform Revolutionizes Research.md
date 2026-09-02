@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Discovering New Materials with AI: MIT's CRESt Platform Revolutionizes Research"
+description: "How Does CRESt Work?"
 date: 2025-09-25 23:20:00 +0800
 type: post
 published: true

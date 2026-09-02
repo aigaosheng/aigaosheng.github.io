@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "European Developers Sound the Alarm - Apple’s App Store Fees Still Flout New EU Tech Law"
+description: "Why Developers Are Pushing Back · Apple’s Position: Changes Are Coming — But Is It Enough? · High Stakes for the EU’s Digital Rulebook"
 date: 2025-12-16 20:35:00 +0800
 type: post
 published: true

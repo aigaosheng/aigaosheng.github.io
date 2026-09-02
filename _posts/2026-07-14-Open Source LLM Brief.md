@@ -2,6 +2,7 @@
 layout: post 
 title: "Open Source LLM Brief — 2026-07-14" 
 series: "AI Research & Open Source"
+description: "European Consortium Releases \"SOOFI S\" — A Powerful Open-Source LLM · AI Startup Reflection Secures $1B+ Compute Deal with Nebius · Cohere Launches North…"
 date: 2026-07-14 20:00:00 +0800 
 type: post 
 published: true 

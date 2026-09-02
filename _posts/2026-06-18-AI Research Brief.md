@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-18"
 series: "AI Research & Open Source"
+description: "AI Makes Unexpected Breakthrough in Pure Mathematics · OpenAI Poaches Google's Gemini Architect in Major Talent War · China Unveils \"World's First\" General…"
 date: 2026-06-18 21:14:00 +0800
 type: post
 published: true

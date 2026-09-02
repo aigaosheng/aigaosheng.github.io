@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Your Browser Becomes a Risk - The Hidden Dangers of AI-Agent Web Browsing"
+description: "Imagine letting your browser “think for you” — filter content, click links, summarise pages, book flights — while you sip your coffee. Sounds futuristic…"
 date: 2025-10-25 21:07:00 +0800
 type: post
 published: true

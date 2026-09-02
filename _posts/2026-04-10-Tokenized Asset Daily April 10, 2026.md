@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Daily April 10, 2026"
 series: "Tokenized Assets"
+description: "Stablecoins Projected to Reach $719 Trillion in Volume by 2035 · Tokenized RWA Market Expected to Reach $400B by 2030 · Securitize Integrates with TRON to…"
 date: 2026-04-10 22:32:00 +0800
 type: post
 published: true

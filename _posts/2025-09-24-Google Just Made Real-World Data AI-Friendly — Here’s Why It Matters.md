@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Just Made Real-World Data AI-Friendly — Here’s Why It Matters"
+description: "Why This Is Such a Smart Move · AI Craves Context (But Often Makes It Up) · Better Data = Better Training Pipelines · Proof in Action: The One Data Agent"
 date: 2025-09-24 23:44:00 +0800
 type: post
 published: true

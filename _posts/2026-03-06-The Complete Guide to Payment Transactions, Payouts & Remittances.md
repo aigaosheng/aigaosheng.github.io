@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Complete Guide to Payment Transactions, Payouts & Remittances"
+description: "Roles & Participants in the Payment Ecosystem · 1 The PayFac Model · Payment Transactions — Full Lifecycle · 1 Initiation & Data Capture"
 date: 2026-03-06 20:57:00 +0800
 type: post
 published: true

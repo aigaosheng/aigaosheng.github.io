@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "US Sector Update Brief — May 9, 2026"
+description: "Headline: S&P 500 & Nasdaq Hit Record Highs on Jobs Beat and Apple-Intel Chip Deal ** The S&P 500 rose 0.84% to 7,398.93, and the Nasdaq surged 1.71% to…"
 date: 2026-05-09 20:50:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI at Scale - Enterprise Momentum, Safety Frameworks, and Secure Localization (Nov 2–9, 2025)"
+description: "AWS and OpenAI Announce Multi-Year Strategic Partnership · Introducing IndQA: A Benchmark for Indian Languages and Culture · OpenAI Surpasses One Million…"
 date: 2025-11-09 15:44:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Google’s A2UI Is Redefining the Way AI Agents Speak to Users — Beyond Text to Rich UI Experiences"
+description: "What A2UI Actually Is · A2UI in the Wild"
 date: 2025-12-25 20:30:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-05-29"
 series: "Payments"
+description: "PayPal and WeChat Pay Unlock Cross-Border Integration · BIS and Global Banks Move to Trial Blockchain Cross-Border Payments · Executive Order Triggers…"
 date: 2026-05-29 20:56:00 +0800
 type: post
 published: true

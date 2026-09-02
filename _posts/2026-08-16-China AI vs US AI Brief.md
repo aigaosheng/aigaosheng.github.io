@@ -3,6 +3,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-16"
 series: "US & China AI"
+description: "Alibaba’s Qwen surpasses 3 billion downloads, challenging US open-model leadership · US pushes countries toward choosing between American and Chinese AI…"
 date: 2026-08-16 21:45 +0800
 type: post
 published: true

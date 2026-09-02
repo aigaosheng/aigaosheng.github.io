@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-24"
 series: "AI Research & Open Source"
+description: "Google Launches \"Gemini for Science\" Suite for End-to-End Discovery Workflows · Anthropic's Mythos Model Identifies Vulnerabilities in Classified US…"
 date: 2026-06-24 19:40:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Pulse- AI & Agent-Driven Innovation Take Centre Stage, 21 February 2026"
 series: "AI & Fintech"
+description: "DBS & Visa Unveil Agentic Commerce Trial in Asia Pacific · Market & Industry Insight · Company & Startup Spotlight · Lorikeet (Australian AI Fintech)"
 date: 2026-02-21 16:50:00 +0800
 type: post
 published: true

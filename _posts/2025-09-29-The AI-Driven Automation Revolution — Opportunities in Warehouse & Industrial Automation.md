@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The AI-Driven Automation Revolution — Opportunities in Warehouse & Industrial Automation"
+description: "III. Company Financial & Valuation Comparison · IV. Valuation & Target Ranges · VI. Portfolio Allocation & Strategy"
 date: 2025-09-29 09:23:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+startup Brief — 2026-05-30"
 series: "Investment & Startups"
+description: "Anthropic Raises $65B, Nears $1T Valuation Ahead of IPO · Corgi Reaches $2.6B Valuation With $106M Series B1 · Reactor Emerges From Stealth With $59M for…"
 date: 2026-05-30 21:00:26 +0800
 type: post
 published: true

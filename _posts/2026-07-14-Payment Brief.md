@@ -2,6 +2,7 @@
 layout: post 
 title: "Payment Brief — 2026-07-14" 
 series: "Payments"
+description: "ECB Selects 36 Payment Firms for Digital Euro Pilot · JCB Partners with Circle to Pilot USDC Stablecoin Payments in Japan · Chinese Payment Regulators…"
 date: 2026-07-14 20:12:00 +0800 
 type: post 
 published: true 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore’s dtcpay Raises $10M to Bring Stablecoin Payments Into the Mainstream"
+description: "A $10M Bet on Real-World Stablecoin Utility · Why This Matters: Stablecoins Move Beyond Speculation · Regulation as a Competitive Moat · Europe: The Next…"
 date: 2026-03-17 20:33:00 +0800
 type: post
 published: true

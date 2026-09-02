@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Alibaba Is Making “Research Agents” Cheap (No APIs Needed)"
+description: "Why Agentic AI Is the New Frontier · Agentic Continual Pre-training (Agentic CPT): The “Middle Stage” Magic · The Cost Killer: Offline Data Synthesis (No…"
 date: 2025-09-28 10:23:00 +0800
 type: post
 published: true

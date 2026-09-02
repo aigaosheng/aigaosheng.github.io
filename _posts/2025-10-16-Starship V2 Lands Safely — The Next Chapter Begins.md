@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Starship V2 Lands Safely — The Next Chapter Begins"
+description: "SpaceX just marked the final flight of Starship Version 2, and it went out with a splash — literally. After deploying mock payloads and testing critical…"
 date: 2025-10-16 22:36:00 +0800
 type: post
 published: true

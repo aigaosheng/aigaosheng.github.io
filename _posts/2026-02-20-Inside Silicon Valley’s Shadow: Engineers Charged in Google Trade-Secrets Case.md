@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside Silicon Valley’s Shadow- Engineers Charged in Google Trade-Secrets Case"
+description: "From Silicon Valley to the Federal Dock · Alleged Scheme and Legal Stakes · Security and National Implications"
 date: 2026-02-20 21:24:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perplexity’s Search API: The New Challenger to Google’s Search Monopoly"
+description: "What Makes Perplexity's Search API Stand Out? · Implications for Developers and the AI Ecosystem"
 date: 2025-09-26 23:38:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agentic Payments and the Future of Autonomous Commerce"
+description: "Background: The Evolution of Digital Payments · Architecture of AI Agent Payments · 1 Core Architecture Components · 2 Two Dominant Integration Approaches"
 date: 2026-03-05 20:25:00 +0800
 categories: []
 tags:

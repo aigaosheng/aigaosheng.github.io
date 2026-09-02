@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-10"
 series: "US & China AI"
+description: "OpenAI Files for IPO as AI Race Intensifies · Trump Orders Military to Accelerate AI Integration · AI Environmental Impacts Act Reintroduced in Congress…"
 date: 2026-06-10 20:18:00 +0800
 type: post
 published: true

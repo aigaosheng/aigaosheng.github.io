@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tech Giants’ AI Bet Fuels Bond Market Surge — and Investor Jitters"
+description: "Big Borrowings, Bigger Questions · Why Investors Are Concerned · What This Means Going Forward"
 date: 2025-11-21 21:44:00 +0800
 type: post
 published: true

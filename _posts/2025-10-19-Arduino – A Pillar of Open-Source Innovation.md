@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Arduino – A Pillar of Open-Source Innovation"
+description: "Market Growth and Trends · Qualcomm Acquisition: A New Chapter"
 date: 2025-10-19 21:52:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily Newsletter April 15, 2026"
 series: "Enterprise AI"
+description: "OpenAI Accelerates Enterprise Push with Aggressive M&A Strategy · OpenAI Internal Memo Signals All-In Enterprise Strategy · IBM Launches AI Security…"
 date: 2026-04-15 20:30:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Small but Mighty - Weibo’s VibeThinker-1.5B Redefines Efficiency in the AI Race"
+description: "A Lean Model with Outsized Impact · The Secret Sauce: The Spectrum-to-Signal Principle · Benchmark Results: Punching Above Its Weight · Why It Matters for…"
 date: 2025-11-13 23:25:00 +0800
 type: post
 published: true

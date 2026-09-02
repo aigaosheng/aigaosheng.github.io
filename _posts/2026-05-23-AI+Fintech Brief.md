@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-23"
 series: "AI & Fintech"
+description: "Revolut US CEO: AI Beats Humans at Transaction Monitoring · CrowdStrike Report: AI-Driven Cyber Attacks on Fintech Surge 43% · Mercury Valued at $5.2…"
 date: 2026-05-23 18:49:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — May 11, 2026"
 series: "AI & Society"
+description: "Delhi High Court Protects Aman Gupta’s Personality Rights, Orders AI Deepfake Takedowns · Presidential Politics Enters Synthetic Territory: Trump Shares AI…"
 date: 2026-05-11 20:38:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+Startup Plus Brief — 2026-06-28"
 series: "Investment & Startups"
+description: "Daybreak Raises $100 Million Fund to Back Early-Stage AI Startups · Indian Startup Funding Rebounds Above $1 Billion Weekly Level · VC Investors…"
 date: 2026-06-28 17:07:14 +0800
 type: post
 published: true

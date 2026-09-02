@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly insight analysis report on Perplexity March 14, 2026"
 series: "AI Company Watch"
+description: "Amazon Injunction: Legal Risk With Operational Impact · Personal Computer Launch: From Search to Autonomous Digital Workhorse · Ecosystem Integration &…"
 date: 2026-03-14 17:04:00 +0800
 type: post
 published: true

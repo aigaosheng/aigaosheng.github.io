@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-06"
 series: "AI & Society"
+description: "Meta rolls out a new AI creator assistant on Facebook · Meta’s Oversight Board says account bans lack due process, transparency"
 date: 2026-06-06 20:53:59 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Hong Kong Market — Daily Report (last 24 hours: Oct 9, 2025)"
 series: "Market Reports"
+description: "Market moves & data (snapshots) · Social media sentiment (Weibo, X, Reddit — last 24 hours) · Analysis — what it means (concise) · 3–5 Actionable watch…"
 date: 2025-10-09 21:23:00 +0800
 type: post
 published: true

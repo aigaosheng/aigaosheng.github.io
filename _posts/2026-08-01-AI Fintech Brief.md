@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-01"
 series: "AI & Fintech"
+description: "Chime Cuts 10% of Workforce as AI Drives Operational Efficiency · Standard Bank Prioritizes AI Across Business Banking · Kalshi's Rapid Growth Highlights…"
 date: 2026-08-01 20:51:00 +0800
 type: post
 published: true

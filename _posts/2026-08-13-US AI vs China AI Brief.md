@@ -2,6 +2,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-08-13"
 series: "US & China AI"
+description: "DeepSeek raises API prices sharply as AI demand strains capacity · Microsoft retreats in China while AI keeps a strategic foothold open · U.S. AI companies…"
 date: 2026-08-13 20:06 +0800
 type: post
 published: true

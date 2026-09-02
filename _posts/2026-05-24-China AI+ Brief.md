@@ -2,6 +2,7 @@
 layout: post
 title: "China AI+ Brief — 2026-05-24"
 series: "US & China AI"
+description: "NDRC to Unveil Supporting Policies for \"AI+\" Implementation, Advances AI Legislation Research · China Industrializes AI Compute with \"Token Factories\" and…"
 date: 2026-05-24 16:37:00 +0800
 type: post
 published: true

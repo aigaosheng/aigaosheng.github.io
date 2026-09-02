@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI at Work - How JPMorgan Cracked the Code for Mass Employee Adoption"
+description: "From Skepticism to Viral Adoption · Connectivity Over Models: The Real Competitive Edge · Building for Many Roles, Not One Tool · What It All Means"
 date: 2025-12-18 20:40:00 +0800
 type: post
 published: true

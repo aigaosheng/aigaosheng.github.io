@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-23"
 series: "Payments"
+description: "JCB and Fiuu Partner to Expand Merchant Acceptance Across Southeast Asia · Saudi Central Bank Licenses Malaa for Open Banking Payment Services · SUNMI…"
 date: 2026-07-23 20:50:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Research & Model Hub Insights- World Models, VLA, OCRVerse & Code Agents (Last 7 Days), Jan 31 2026"
+description: "World Models with Long‑Term Consistency · Vision‑Language‑Action (VLA) Foundation Model · Optimizing Long Contexts for Coding Agents · Holistic OCR for…"
 date: 2026-01-31 21:53:00 +0800
 type: post
 published: true

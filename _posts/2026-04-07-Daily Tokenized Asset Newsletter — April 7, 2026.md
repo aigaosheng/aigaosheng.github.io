@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Tokenized Asset Newsletter — April 7, 2026"
 series: "Tokenized Assets"
+description: "Broadridge Launches On‑Chain Governance for Tokenized Equities · Tokenized Asset Market Hits ~$330 B, Institutional Flow Dominates · Ondo Expands Tokenized…"
 date: 2026-04-07 21:56:00 +0800
 type: post
 published: true

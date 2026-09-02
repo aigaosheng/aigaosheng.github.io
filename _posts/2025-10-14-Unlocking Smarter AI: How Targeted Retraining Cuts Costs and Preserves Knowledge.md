@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Unlocking Smarter AI: How Targeted Retraining Cuts Costs and Preserves Knowledge"
+description: "The Problem: Catastrophic Forgetting · The Breakthrough: Narrow Retraining · The Impact: Cost Reduction and Efficiency"
 date: 2025-10-14 23:33:00 +0800
 type: post
 published: true

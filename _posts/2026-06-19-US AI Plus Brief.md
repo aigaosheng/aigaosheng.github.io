@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Plus Brief — 2026-06-19"
 series: "US & China AI"
+description: "Anthropic Restores Claude Fable 5 Access After 6-Day Government Shutdown · White House Refuses UK Fable 5 Carve-Out, Confirming Global Ban · G7 Leaders…"
 date: 2026-06-19 20:19:00 +0800
 type: post
 published: true

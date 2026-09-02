@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How AI Errors Shook the US Courts - Judges Sound Alarm on Automated Decisions"
+description: "AI on Trial: When Software Shapes Justice · Why Rapid Tech Adoption Brings Risks · What’s Next for Legal Tech"
 date: 2025-10-26 17:13:00 +0800
 type: post
 published: true

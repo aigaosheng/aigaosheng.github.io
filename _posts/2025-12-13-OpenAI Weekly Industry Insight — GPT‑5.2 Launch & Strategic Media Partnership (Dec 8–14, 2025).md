@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI Weekly Industry Insight — GPT‑5.2 Launch & Strategic Media Partnership (Dec 8–14, 2025)"
 series: "AI Company Watch"
+description: "GPT‑5.2 Official Launch — New Frontier Model for Professional Work · Landmark Entertainment Partnership — Disney & Sora · OpenAI for Australia — National…"
 date: 2025-12-13 21:44:00 +0800
 type: post
 published: true

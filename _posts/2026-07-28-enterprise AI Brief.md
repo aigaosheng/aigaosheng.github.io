@@ -2,6 +2,7 @@
 layout: post
 title: "enterprise AI Brief — 2026-07-28"
 series: "Enterprise AI"
+description: "Cyera to Acquire Oasis Security in $1 Billion AI Identity Security Deal · Open Secure AI Alliance Launches Following Hugging Face Security Incident…"
 date: 2026-07-28 20:02:00 +0800
 type: post
 published: true

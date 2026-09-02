@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-26"
 series: "AI & Fintech"
+description: "NYDFS Warns Financial Sector: Frontier AI Amplifies Cyber, Vendor, and Governance Risks · Fiserv Partners with OpenAI to Embed Frontier AI into Core…"
 date: 2026-05-26 20:56:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "US AI update Brief — 2026-06-02"
 series: "US & China AI"
+description: "The Trump administration is split over reviving an AI executive order · Anthropic confidentially files for a US IPO · Florida becomes the first US state to…"
 date: 2026-06-02 20:27:52 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Code Runs Amok - How Context Engineering Is the Fix"
+description: "The Challenge: Scale Without Sacrificing Quality · What Is “Context Engineering”? · The Impact at Monday.com"
 date: 2025-11-11 20:52:00 +0800
 type: post
 published: true

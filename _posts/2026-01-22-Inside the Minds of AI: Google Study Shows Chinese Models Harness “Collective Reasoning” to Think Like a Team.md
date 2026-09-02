@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside the Minds of AI- Google Study Shows Chinese Models Harness Collective Reasoning to Think Like a Team"
+description: "Artificial intelligence has long been framed as a solo thinker—processing your question and spitting out an answer. But a new study from Google’s Paradigms…"
 date: 2026-01-22 21:00:00 +0800
 type: post
 published: true

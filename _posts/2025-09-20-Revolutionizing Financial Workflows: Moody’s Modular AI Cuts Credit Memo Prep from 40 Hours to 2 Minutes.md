@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Revolutionizing Financial Workflows: Moody’s Modular AI Cuts Credit Memo Prep from 40 Hours to 2 Minutes"
+description: "The Evolution from Research Assistant to Agentic Solutions · Modular AI Architecture: The Key to Efficiency · Model-Agnostic Strategy: Flexibility and Cost…"
 date: 2025-09-20 10:40:00 +0800
 type: post
 published: true

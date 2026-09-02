@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-27"
 series: "Payments"
+description: "Swift Extends ISO 20022 Structured-Address Migration Deadline · UK Gives Bank of England a New Payments Innovation Objective · Australia Pushes for…"
 date: 2026-08-27 21:09:00 +0800
 type: post
 published: true

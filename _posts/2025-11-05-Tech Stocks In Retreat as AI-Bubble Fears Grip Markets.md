@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tech Stocks In Retreat as AI-Bubble Fears Grip Markets"
+description: "What to watch next · Implications for you, the investor/developer"
 date: 2025-11-05 22:13:00 +0800
 type: post
 published: true

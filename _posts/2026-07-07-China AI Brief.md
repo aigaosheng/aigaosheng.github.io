@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-07"
 series: "US & China AI"
+description: "DeepSeek Developing Its Own AI Inference Chip · Beijing Considering Restrictions on Overseas Access to Advanced AI Models · Chinese Enterprises Accelerate…"
 date: 2026-07-07 21:00:00 +0800
 type: post
 published: true

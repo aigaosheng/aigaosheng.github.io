@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Boom Floods U.S. High-Grade Bond Market, Triggering Caution at DoubleLine"
+description: "The debt-world is watching closely as tech giants press ahead with a borrowing spree to fuel the AI build-out—and one prominent bond firm warns the…"
 date: 2025-11-24 21:10:00 +0800
 type: post
 published: true

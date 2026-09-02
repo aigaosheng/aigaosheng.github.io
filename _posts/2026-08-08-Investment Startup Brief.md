@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-08"
 series: "Investment & Startups"
+description: "Startup World Cup Returns With a $1 Million Investment Prize · Sam Altman Highlights the Investment Value of Unpopular Ideas · Korean Healthtech Startups…"
 date: 2026-08-08 17:15:00 +0800
 type: post
 published: true

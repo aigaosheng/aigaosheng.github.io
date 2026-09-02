@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter March 28, 2026"
 series: "Singapore"
+description: "Crypto / Digital Assets · Infrastructure / B2B Fintech · Crypto / Digital Assets · Digital Banking / Lending"
 date: 2026-03-28 20:16:00 +0800
 type: post
 published: true

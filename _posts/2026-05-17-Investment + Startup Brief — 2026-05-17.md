@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — 2026-05-17"
 series: "Investment & Startups"
+description: "SpaceX Approves 5-for-1 Stock Split Ahead of Record $75 Billion IPO · AI Chip Unicorn Cerebras Surges 89% in Record $5.55 Billion Nasdaq Debut · European…"
 date: 2026-05-17 21:39:00 +0800
 type: post
 published: true

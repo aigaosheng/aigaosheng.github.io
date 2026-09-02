@@ -2,6 +2,7 @@
 layout: post
 title: "Daily news update of VC ecosystem - Oct 3, 2025"
 series: "Investment & Startups"
+description: "Brief commentary — trends & actionable insights (concise) · Deal scoring (quick, subjective)"
 date: 2025-10-03 22:23:00 +0800
 type: post
 published: true

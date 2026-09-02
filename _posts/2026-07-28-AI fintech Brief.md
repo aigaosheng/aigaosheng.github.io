@@ -2,6 +2,7 @@
 layout: post
 title: "AI fintech Brief — 2026-07-28"
 series: "AI & Fintech"
+description: "HSBC Expands Global AI Centre of Excellence in Singapore to Accelerate Wealth and Payments Innovation · Expense Management Vendors Push AI-Driven Finance…"
 date: 2026-07-28 19:53:00 +0800
 type: post
 published: true

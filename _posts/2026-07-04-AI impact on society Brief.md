@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-04"
 series: "AI & Society"
+description: "Children Are Adopting AI Far Faster Than Adults, Says UNICEF · Large Study Finds Long-Term Learning Trade-offs from AI-Assisted Education · New Research…"
 date: 2026-07-04 21:24:00 +0800
 type: post
 published: true

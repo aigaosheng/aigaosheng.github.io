@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Your Groceries Become a Gamble - How AI Pricing on Instacart Could Be Costing You More"
+description: "What the Study Found · How Instacart’s AI Pricing Works · What This Means for Everyday Shoppers · What Instacart Says — and the Pushback"
 date: 2025-12-10 21:06:00 +0800
 type: post
 published: true

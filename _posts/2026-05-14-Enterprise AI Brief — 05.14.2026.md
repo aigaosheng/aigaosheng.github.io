@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 05.14.2026"
 series: "Enterprise AI"
+description: "Headline: OpenAI Launches Deployment Company with $4B+ to Move Enterprise AI from Pilot to Production OpenAI has launched a standalone business unit—the…"
 date: 2026-05-14 20:14:00 +0800
 type: post
 published: true

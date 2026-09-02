@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-26"
 series: "AI & Society"
+description: "Google Finance Launches Dedicated Android App with AI-Powered \"Key Moments\" · ACM FAccT 2026 Conference Addresses AI’s Societal Challenges in Montreal…"
 date: 2026-06-26 20:25:00 +0800
 type: post
 published: true

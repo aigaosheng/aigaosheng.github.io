@@ -3,6 +3,7 @@
 layout: post
 title: "AI security Brief — 2026-08-28"
 series: "AI security"
+description: "Nearly 130 Tech and Security Firms Call for Global Surge in AI Cyber Defense · ServiceNow Patches Three Critical Vulnerabilities in Its AI Platform · AI…"
 date: 2026-08-28 20:49:00 +0800
 type: post
 published: true

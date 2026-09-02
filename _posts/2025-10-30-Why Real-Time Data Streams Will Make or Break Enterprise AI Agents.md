@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Real-Time Data Streams Will Make or Break Enterprise AI Agents"
+description: "The core problem: batch pipelines can’t keep up · Why “RAG” (retrieval-augmented generation) isn’t enough · The architecture shift: three layers to…"
 date: 2025-10-30 21:08:00 +0800
 type: post
 published: true

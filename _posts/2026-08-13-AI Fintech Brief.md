@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-13"
 series: "AI & Fintech"
+description: "Fintech Investment Shifts Toward AI, Emerging Markets and Regulated Opportunities · Temenos Puts AI-Powered Compliance at the Center of Financial-Crime…"
 date: 2026-08-13 19:59:00 +0800
 type: post
 published: true

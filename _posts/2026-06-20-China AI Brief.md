@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-20"
 series: "US & China AI"
+description: "Zai Founder Predicts China Will Achieve 'Mythos-Class' AI Sooner Than Expected · Nansen CEO Warns of AI 'Bubble Burst' as Chinese Models Gain Traction…"
 date: 2026-06-20 20:40:00 +0800
 type: post
 published: true

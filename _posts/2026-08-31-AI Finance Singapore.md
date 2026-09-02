@@ -3,6 +3,7 @@
 layout: post
 title: "AI Finance Singapore Brief — 2026-08-31"
 series: "AI Finance Singapore"
+description: "MAS Commits S$220 Million to Accelerate AI and FinTech Innovation · Singapore Expands State Support for AI Adoption Across Financial Services · Frontier AI…"
 date: 2026-08-31 20:44:00 +0800
 type: post
 published: true

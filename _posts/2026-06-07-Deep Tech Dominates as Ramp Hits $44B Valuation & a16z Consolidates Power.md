@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Deep Tech Dominates as Ramp Hits $44B Valuation & a16z Consolidates Power"
+description: "Top Funding Rounds & Market Movers (Last 7 Days) · Regional & Sector Spotlight · Commentary & Actionable Insights"
 date: 2026-06-07 18:08:00 +0800
 type: post
 published: true

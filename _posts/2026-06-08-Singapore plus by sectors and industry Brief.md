@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore plus by sectors and industry Brief — 2026-06-08"
 series: "Singapore"
+description: "Singapore plus by sectors / industry Brief — 2026-06-08 · AI Demand Drives Broad-Based Manufacturing Expansion · Singtel Secures Funding for AI-Enabled…"
 date: 2026-06-08 20:50:00 +0800
 type: post
 published: true

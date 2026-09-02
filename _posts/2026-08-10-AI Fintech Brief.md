@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-10"
 series: "AI & Fintech"
+description: "MVB Bank Taps Bretton AI for Automated Compliance and AML/KYC Screening · Ordway Raises $20M to Accelerate AI Agents for Billing and Financial Forecasting…"
 date: 2026-08-10 21:41:00 +0800
 type: post
 published: true

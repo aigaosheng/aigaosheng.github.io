@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI Debuts ‘Atlas’ AI Browser — A Bold Bid to Dethrone Google Chrome"
+description: "How it stacks up, and what the hurdles are · Implications & what to watch"
 date: 2025-10-22 22:14:00 +0800
 type: post
 published: true

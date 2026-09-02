@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Updat - Microsoft — Key Developments (Late Nov – Early Dec 2025)"
 series: "AI Company Watch"
+description: "Major Announcements This Week · Microsoft Launches Microsoft 365 Copilot Business for SMBs · Quarterly Dividend — 10% Increase to $0.91/share"
 date: 2025-12-06 21:00:00 +0800
 type: post
 published: true

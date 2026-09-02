@@ -2,6 +2,7 @@
 layout: post
 title: "AI fintech Brief — 2026-07-31"
 series: "AI & Fintech"
+description: "Global Fintech Growth Rebounds as AI Drives Industry Expansion · Guotai Haitong Highlights AI-Powered Capital Markets Strategy at WAIC 2026 · Delfi…"
 date: 2026-07-31 19:50:00 +0800
 type: post
 published: true

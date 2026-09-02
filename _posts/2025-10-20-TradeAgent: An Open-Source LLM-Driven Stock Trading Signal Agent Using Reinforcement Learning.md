@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "TradeAgent: An Open-Source LLM-Driven Stock Trading Signal Agent Using Reinforcement Learning"
+description: "TradeAgent is an open-source trading signal generator that combines reinforcement learning with LLM-based market reasoning. It is inspired by, and…"
 date: 2025-10-20 22:32:00 +0800
 type: post
 published: true

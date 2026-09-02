@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When a $400M Exit Missed Most Employees- The Inside Story of Koi’s Sale to Palo Alto Networks"
+description: "A Rapid Rise – and a Surprise for Many Employees · Founders Step In with Personal Compensation · Why Palo Alto Bought Koi · What This Means for Startup…"
 date: 2026-02-26 19:19:00 +0800
 type: post
 published: true

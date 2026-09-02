@@ -2,6 +2,7 @@
 layout: post
 title: "Hugging Face: developer briefing October 6 2025"
 series: "AI Company Watch"
+description: "What happened in the last 24 hours (concrete items) · Highlights — new model releases, platform enhancements, research initiatives (what the data says)…"
 date: 2026-10-01 23:23:00 +0800
 type: post
 published: true

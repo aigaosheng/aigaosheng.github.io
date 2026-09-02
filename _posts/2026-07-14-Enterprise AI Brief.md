@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-14"
 series: "Enterprise AI"
+description: "Google Cloud Expands Gemini Enterprise With No-Code AI Agent Development · Xebia Launches Agentic Enterprise Data Foundation for AI · Google Deepens…"
 date: 2026-07-14 20:20:00 +0800
 type: post
 published: true

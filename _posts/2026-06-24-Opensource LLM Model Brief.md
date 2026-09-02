@@ -2,6 +2,7 @@
 layout: post
 title: "Opensource LLM model Brief — 2026-06-24"
 series: "AI Research & Open Source"
+description: "Zhipu AI Hits $140B Valuation Peak Following GLM-5.2 Release · Europe's Sovereign AI Push: \"Soofi S\" Model Released · Multiverse Computing & NVIDIA Release…"
 date: 2026-06-24 10:30:00 +0800
 type: post
 published: true

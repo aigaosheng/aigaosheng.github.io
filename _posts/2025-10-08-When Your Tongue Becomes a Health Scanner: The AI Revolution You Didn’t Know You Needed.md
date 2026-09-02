@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Your Tongue Becomes a Health Scanner: The AI Revolution You Didn’t Know You Needed"
+description: "A Colorful Diagnosis: How It Works · The Roots: Traditional + Tech · Findings (Tongue → Disease Patterns)"
 date: 2025-10-08 22:01:00 +0800
 type: post
 published: true

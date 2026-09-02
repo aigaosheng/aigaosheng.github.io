@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Rise of Agent-First Web Why Agent Experience Optimization May Replace SEO"
+description: "The Old Web Was Built for Humans · The Rise of Agentic Browsing · From SEO to AEO: Optimizing for Machines · Why Agent Experience Matters"
 date: 2026-03-16 21:24:00 +0800
 type: post
 published: true

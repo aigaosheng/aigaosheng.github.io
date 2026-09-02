@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nobel Physics 2025: When Quantum Leaps Became Handheld"
+description: "From Microscopic Mystery to Macroscopic Reality"
 date: 2025-10-08 22:34:00 +0800
 type: post
 published: true

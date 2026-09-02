@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ready-Out-of-the-Box AI Hits the Enterprise Floor - How SAP’s RPT-1 Changes the Game"
+description: "Imagine not having to fine-tune a model just to get it doing something useful for your business. That’s the promise from SAP—and it might be more than just…"
 date: 2025-11-06 22:46:00 +0800
 type: post
 published: true

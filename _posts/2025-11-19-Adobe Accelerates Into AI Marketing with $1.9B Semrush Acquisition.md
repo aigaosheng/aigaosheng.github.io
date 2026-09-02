@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adobe Accelerates Into AI Marketing with $1.9B Semrush Acquisition"
+description: "Why this deal matters"
 date: 2025-11-19 22:17:00 +0800
 type: post
 published: true

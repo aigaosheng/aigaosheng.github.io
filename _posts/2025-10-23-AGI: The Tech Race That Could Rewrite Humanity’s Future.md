@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AGI: The Tech Race That Could Rewrite Humanity’s Future"
+description: "A New Breed of Intelligence: What Is AGI? · The Titans: OpenAI vs. Anthropic · Promise and Peril of AGI"
 date: 2025-10-23 21:35:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The $50M Signal- Why Insider Risk Is the Next Frontier in AI Cybersecurity"
+description: "The News: $50M to Tackle Insider Risk in the AI Era · Why Insider Risk Is Exploding · A Broader Industry Shift · What Makes This Startup Different"
 date: 2026-03-24 20:35:00 +0800
 type: post
 published: true

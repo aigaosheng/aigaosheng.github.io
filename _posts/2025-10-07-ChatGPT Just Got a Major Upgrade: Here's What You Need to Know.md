@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ChatGPT Just Got a Major Upgrade: Here's What You Need to Know"
+description: "big ripple effect on other startups that are building application layers · Shift in Business Model · 2×2 Strategic Framework: Startups vs ChatGPT Apps…"
 date: 2025-10-07 23:20:00 +0800
 type: post
 published: true

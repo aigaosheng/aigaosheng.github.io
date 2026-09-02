@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Behind the Curtain - How Agentic AI Systems Are Really Built"
+description: "Robustness Is Harder Than Intelligence · Evaluation: The Silent Challenge · Data Quality: The Real Differentiator · Where Agentic AI Goes Next"
 date: 2025-11-14 18:00:00 +0800
 type: post
 published: true

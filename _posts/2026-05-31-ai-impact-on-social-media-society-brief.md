@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-05-31"
 series: "AI & Society"
+description: "Vatican AI encyclical reframes the societal debate around who gets to shape AI"
 date: 2026-05-31 20:13:28 +0800
 type: post
 published: true

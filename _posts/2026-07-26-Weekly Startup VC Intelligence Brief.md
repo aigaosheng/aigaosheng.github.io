@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Startup VC Intelligence Brief — 26 July 2026"
 series: "Investment & Startups"
+description: "Coverage: US · Europe · Asia · Global Focus: Material updates from top-tier VCs, accelerators, unicorns, and high-growth startups only."
 date: 2026-07-26 17:20:00 +0800
 type: post
 published: true

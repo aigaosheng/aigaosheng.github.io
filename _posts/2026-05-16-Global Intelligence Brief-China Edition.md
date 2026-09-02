@@ -2,6 +2,7 @@
 layout: post
 title: "2026-05-16 — Global Intelligence Brief — China Edition"
 series: "US & China AI"
+description: "FEATURED STORY OF THE DAY · TOPIC 1: US MONETARY POLICY (RATE HIKE BETS) · LAYER 1 — NEWS (FACTUAL REPORTING ONLY) · LAYER 2 — ANALYSIS (MEANING & CONTEXT)"
 date: 2026-05-16 22:30:00 +0800
 type: post
 published: true

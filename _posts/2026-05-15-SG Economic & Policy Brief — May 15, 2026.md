@@ -2,6 +2,7 @@
 layout: post
 title: "SG Economic & Policy Brief — May 15, 2026"
 series: "Singapore"
+description: "4G Leadership Unveils Long-Term Economic Strategy to Navigate Global Fragmentation · Singapore Home Sales Surge to Six-Month High Despite Global Conflict…"
 date: 2026-05-15 21:13:00 +0800
 type: post
 published: true

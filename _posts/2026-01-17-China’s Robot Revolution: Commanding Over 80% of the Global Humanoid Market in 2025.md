@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s Robot Revolution - Commanding Over 80% of the Global Humanoid Market in 2025"
+description: "Expanding Industrial Use Cases · Market Momentum: What Comes Next · Commercial Challenges & Competition · Glossary: Key Terms Explained"
 date: 2026-01-17 20:34:00 +0800
 type: post
 published: true

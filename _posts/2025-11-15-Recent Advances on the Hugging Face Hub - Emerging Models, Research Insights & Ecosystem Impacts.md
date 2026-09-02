@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Recent Advances on the Hugging Face Hub - Emerging Models, Research Insights, Ecosystem Impacts"
+description: "Text Generation & Reasoning · Notable Recent Models & Research"
 date: 2025-11-15 23:08:00 +0800
 type: post
 published: true

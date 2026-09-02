@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-09-01"
 series: "Fintech AI"
+description: "India prepares UPI framework for AI agents to make payments · EMVCo proposes framework for secure, interoperable agentic card payments · Kyndryl, Incore…"
 date: 2026-09-01 20:13:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-06"
 series: "US & China AI"
+description: "China accelerates “embodied AI” push with humanoid robotics surge · UN warns AI is outpacing regulation, urges global governance coordination · China’s AI…"
 date: 2026-07-06 20:28:00 +0800
 type: post
 published: true

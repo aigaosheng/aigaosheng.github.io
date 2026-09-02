@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OpenWav - Empowering Artists to Take Back the Music Industry
+description: "A Platform Built for Artists · AI as a Creative and Business Assistant · Why OpenWav Could Reshape the Industry · CEO & Founder CV: Jaeson Ma"
 date: 2025-09-12 23:33:00 +0800
 type: post
 published: true

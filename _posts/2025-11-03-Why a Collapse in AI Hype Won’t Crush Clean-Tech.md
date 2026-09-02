@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why a Collapse in AI Hype Won’t Crush Clean-Tech"
+description: "Artificial intelligence dominates headlines, boardrooms, and investor portfolios. But what if the AI bubble bursts? One prominent voice says don’t panic—at…"
 date: 2025-11-03 21:51:00 +0800
 type: post
 published: true

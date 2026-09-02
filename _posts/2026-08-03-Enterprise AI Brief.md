@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-03"
 series: "Enterprise AI"
+description: "Airia Achieves AARM Conformance, Joins Select Group of Verified AI Runtime Security Platforms · HUMAIN Makes Strategic Investment in MOZN to Co-Build…"
 date: 2026-08-03 20:40:00 +0800
 type: post
 published: true

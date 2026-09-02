@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-29"
 series: "Enterprise AI"
+description: "Google Pushes AI Agents Deeper Into Regulated Banking · AI Agents Move From Assistants to Business Decision-Makers · Cisco Gives 90,000 Employees Their Own…"
 date: 2026-08-29 20:24:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Even the Smartest AI Falters — 200 Finance Experts Put GPT-5 Gemini 2.5 Pro and Claude Sonnet 4.5 to the Test"
+description: "The Scope — From Wall Street to Excel Sheets · Where Things Went Wrong — The Six Recurring Failure Patterns · Real Examples — What Went Wrong in Practice…"
 date: 2025-12-01 18:40:00 +0800
 type: post
 published: true

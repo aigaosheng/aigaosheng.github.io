@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI — Weekly Briefing (Nov 22–29, 2025) - Product Push, Compliance Wins, and Crisis Response"
 series: "AI Company Watch"
+description: "Item 1 — Introducing Shopping Research in ChatGPT · Item 2 — Expanding data residency access to business customers worldwide · Item 3 — Mixpanel security…"
 date: 2025-11-29 21:10:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-29"
 series: "AI & Society"
+description: "Meta to Automate 90% of Content Moderation with AI by Year-End · Google Restricts Meta's Access to Gemini AI Amid Compute Crunch · UN Women: AI Systems…"
 date: 2026-06-29 19:44:00 +0800
 type: post
 published: true

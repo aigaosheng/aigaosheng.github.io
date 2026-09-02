@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nvidia’s $100B AI Promise — Still Just a Promise, CEO Confirms"
+description: "What’s Behind the Hype? · Why It Still Matters"
 date: 2025-12-18 21:04:00 +0800
 type: post
 published: true

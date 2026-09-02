@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-01"
 series: "Enterprise AI"
+description: "Wall Street Demands Proof of AI Returns as Enterprise Spending Surges · Cloud Infrastructure Growth Continues to Accelerate on Enterprise AI Demand…"
 date: 2026-08-01 21:04:00 +0800
 type: post
 published: true

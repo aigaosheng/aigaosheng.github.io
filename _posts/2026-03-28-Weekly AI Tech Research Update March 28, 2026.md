@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update March 28, 2026"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by Novelty & Impact) · R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning · Agent Factories for High Level…"
 date: 2026-03-28 20:27:00 +0800
 type: post
 published: true

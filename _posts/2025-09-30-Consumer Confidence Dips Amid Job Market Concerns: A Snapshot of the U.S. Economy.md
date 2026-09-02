@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Consumer Confidence Dips Amid Job Market Concerns: A Snapshot of the U.S. Economy - 30 Sept 2025"
+description: "Consumer Confidence: A Five-Month Low · Job Openings: Stability Amidst Uncertainty · Impact on the Stock Market · Glossary of Key Terms"
 date: 2025-09-30 22:28:00 +0800
 type: post
 published: true

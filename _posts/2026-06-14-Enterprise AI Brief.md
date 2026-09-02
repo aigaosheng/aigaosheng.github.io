@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-14"
 series: "Enterprise AI"
+description: "SK Group Chairman Mandates \"One Agent Per Person\" Across Conglomerate · Enterprise AI Governance Emerges as Fastest-Growing Procurement Category · DXC…"
 date: 2026-06-14 17:15:00 +0800
 type: post
 published: true

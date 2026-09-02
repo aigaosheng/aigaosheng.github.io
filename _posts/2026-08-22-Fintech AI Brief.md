@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-22"
 series: "AI & Fintech"
+description: "Nuggets Launches Authority Control Plane for Autonomous AI Agents · Payhawk’s Agent Fetch Cuts Vendor Invoice Retrieval to Two Days"
 date: 2026-08-22 21:31 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post 
 title: "AI impact on society Brief — 2026-07-14" 
 series: "AI & Society"
+description: "Over 200 Economists and Tech Experts Warn of Rapid AI Disruption · United Nations Releases First Independent Global AI Assessment · Academic Paper…"
 date: 2026-07-14 20:20:00 +0800 
 type: post 
 published: true 

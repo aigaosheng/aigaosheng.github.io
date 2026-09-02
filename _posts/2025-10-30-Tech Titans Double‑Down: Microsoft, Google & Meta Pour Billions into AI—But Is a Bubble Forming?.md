@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tech Titans Double‑Down - Microsoft, Google & Meta Pour Billions into AI—But Is a Bubble Forming?"
+description: "What’s Driving the Spend? · The Risk: Are We Entering an AI Bubble? · Why This Matters for Investors & Industry"
 date: 2025-10-30 21:32:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-06-24"
 series: "Singapore"
+description: "Singapore Releases Final Economic Strategy Review Report with Detailed Proposals · Singapore Tech Stocks Resilient Amid Global AI-Led Sell-Off · Energy…"
 date: 2026-06-24 19:42:00 +0800
 type: post
 published: true

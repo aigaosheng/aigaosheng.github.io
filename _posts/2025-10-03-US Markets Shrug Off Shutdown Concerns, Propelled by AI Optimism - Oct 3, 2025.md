@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "US Markets Shrug Off Shutdown Concerns, Propelled by AI Optimism - Oct 3, 2025"
+description: "Top News from Bloomberg, WSJ, and CNBC"
 date: 2025-10-03 22:40:00 +0800
 type: post
 published: true

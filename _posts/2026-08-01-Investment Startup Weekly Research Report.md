@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Weekly Research Report — 2026-08-01"
 series: "Investment & Startups"
+description: "Generalist AI Reportedly Targets $3B Valuation as Physical AI Investment Accelerates · Intel Provides Chip Technology Access to Startup RosaicLabs…"
 date: 2026-08-01 22:37:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Microsoft – Weekly Insight Analysis Report, February 28, 2026"
 series: "AI Company Watch"
+description: "Strategic Context: Microsoft & OpenAI Partnership · Microsoft Gaming Leadership & Strategy Shift"
 date: 2026-02-28 17:35:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "SINGAPORE PLUS Brief & 2026-05-05"
 series: "Singapore"
+description: "ATxSummit 2026 Convenes Global AI Leaders in Singapore · Straits Times Morning Briefing: Labour, Geopolitics, Local Services · Singapore Market Update: STI…"
 date: 2026-05-05 21:03:00 +0800
 type: post
 published: true

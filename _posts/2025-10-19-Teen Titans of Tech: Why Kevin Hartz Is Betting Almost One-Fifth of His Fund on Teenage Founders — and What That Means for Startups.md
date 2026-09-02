@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Teen Titans of Tech: Why Kevin Hartz Is Betting Almost One-Fifth of His Fund on Teenage Founders — and What That Means for Startups"
+description: "What happened (quick summary) · Why VCs are leaning in (the thesis) · The trade-offs VCs and founders should consider · Bigger picture — why this matters…"
 date: 2025-10-19 17:35:00 +0800
 type: post
 published: true

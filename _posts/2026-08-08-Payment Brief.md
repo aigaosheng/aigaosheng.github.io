@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-08"
 series: "Payments"
+description: "India Keeps UPI Free for Consumers and Small Merchants Amid MDR Debate · Sudan Reactivates National Electronic Payment Switch After Years of War Disruption"
 date: 2026-08-08 17:03:00 +0800
 type: post
 published: true

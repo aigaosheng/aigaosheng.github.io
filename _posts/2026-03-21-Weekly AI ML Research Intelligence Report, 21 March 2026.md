@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI ML Research Intelligence Report, 21 March 2026"
 series: "AI Research & Open Source"
+description: "Top Papers — Ranked by Novelty & Deployment Impact · Paper 1: ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression…"
 date: 2026-03-21 20:14:00 +0800
 type: post
 published: true

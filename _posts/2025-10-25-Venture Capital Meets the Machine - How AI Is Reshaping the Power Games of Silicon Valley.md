@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Venture Capital Meets the Machine - How AI Is Reshaping the Power Games of Silicon Valley"
+description: "When Algorithms Call the Shots · Not Just About Returns · The Big Picture: A New Power Dynamic"
 date: 2025-10-25 21:54:00 +0800
 type: post
 published: true

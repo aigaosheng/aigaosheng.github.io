@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coinbase Agentic Wallets"
+description: "1 What Are Agentic Wallets? · 2 The x402 Protocol · 3 Security and Guardrails · Case Studies / Examples"
 date: 2026-02-21 21:49:00 +0800
 type: post
 published: true

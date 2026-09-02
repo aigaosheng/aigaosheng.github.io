@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-22"
 series: "Payments"
+description: "Walmart Finally Embraces Apple Pay and Google Pay · DBS and POSB Restore PayNow, FAST and SGQR Services After Disruption · Fintech Galaxy Wins UAE Approval…"
 date: 2026-08-22 21:40:00 +0800
 type: post
 published: true

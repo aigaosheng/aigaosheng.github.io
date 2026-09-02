@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Complete Guide to Payment Transactions, Payouts & Remittances - Interactive"
+description: "From Initiation to Settlement*"
 date: 2026-03-06 21:25:00 +0800
 type: post
 published: true

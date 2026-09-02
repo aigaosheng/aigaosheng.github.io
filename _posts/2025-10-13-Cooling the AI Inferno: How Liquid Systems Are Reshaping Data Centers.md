@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cooling the AI Inferno: How Liquid Systems Are Reshaping Data Centers"
+description: "The AI Heatwave: Cooling the Digital Beast"
 date: 2025-10-13 23:39:00 +0800
 type: post
 published: true

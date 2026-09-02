@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Anthropic Update - Anthropic Accelerates AI Lead with Opus 4.5 Launch, $50B Infrastructure Push & New Global Partnerships"
 series: "AI Company Watch"
+description: "Key Developments This Week · Claude Opus 4.5 — Anthropic’s new flagship model is live · Disrupting the first reported AI‑orchestrated cyber espionage…"
 date: 2025-11-29 21:17:00 +0800
 type: post
 published: true

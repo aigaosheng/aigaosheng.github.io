@@ -2,6 +2,7 @@
 layout: post
 title: "Venture Capital & Startup Intelligence Weekly 2026-08-02"
 series: "Investment & Startups"
+description: "AI Agents Dominate Early-Stage Venture Activity as Investors Shift Toward Vertical Automation · Investor Commentary & Market Signals · AI Agents Move From…"
 date: 2026-08-02 20:00:00 +0800
 type: post
 published: true

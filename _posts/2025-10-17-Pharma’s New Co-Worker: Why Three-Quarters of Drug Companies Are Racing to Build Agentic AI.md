@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pharma’s New Co-Worker: Why Three-Quarters of Drug Companies Are Racing to Build Agentic AI"
+description: "What the study found · The tradeoffs: speed vs. safety · What leaders should do now"
 date: 2025-10-17 20:34:00 +0800
 type: post
 published: true

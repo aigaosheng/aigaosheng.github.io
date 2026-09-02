@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-16"
 series: "Investment & Startups"
+description: "HCLTech Leads Sarvam AI's Series B, Valuing Indian GenAI Startup at $1.5 Billion · ARK Venture Fund Joins Hydra Host's $100M Series A for Distributed GPU…"
 date: 2026-06-16 20:36:00 +0800
 type: post
 published: true

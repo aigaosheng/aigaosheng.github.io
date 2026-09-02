@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-09"
 series: "Investment & Startups"
+description: "PhysicsX Hits $2.4 Billion Valuation After $300 Million Temasek-Led Round · UK Secures Playground Global's First Office Outside US With £150M Commitment…"
 date: 2026-06-09 21:04:00 +0800
 type: post
 published: true

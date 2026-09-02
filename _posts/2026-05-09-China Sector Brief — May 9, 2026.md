@@ -2,6 +2,7 @@
 layout: post
 title: "China Sector Brief — May 9, 2026"
 series: "US & China AI"
+description: "China Unveils Sweeping Regulations for AI Agents Across 33 Sectors · China’s Shipbuilding Sector Maintains Global Dominance in Q1 · Chinese Industry Bodies…"
 date: 2026-05-09 20:53:00 +0800
 type: post
 published: true

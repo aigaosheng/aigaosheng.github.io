@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-30"
 series: "US & China AI"
+description: "Meituan Launches LongCat-2.0, Claiming First Trillion-Parameter AI Model Trained Fully on Chinese Chips · China Expands AI Industrial Push as Manufacturing…"
 date: 2026-06-30 20:14:14 +0800
 type: post
 published: true

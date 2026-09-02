@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI Weekly Insight Report Feb 7, 2026"
 series: "AI Company Watch"
+description: "Strategic Product & Platform Moves · Usage & Market Signals · Organizational & Strategic Shifts · Model Lifecycle & User Impact"
 date: 2026-02-07 20:50:00 +0800
 type: post
 published: true

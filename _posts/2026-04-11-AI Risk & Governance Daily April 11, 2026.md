@@ -2,6 +2,7 @@
 layout: post
 title: "AI Risk & Governance Daily April 11, 2026"
 series: "AI Governance & Regulation"
+description: "Frontier AI Model Raises Major Cybersecurity Concerns · U.S. Government Expands Coordination on AI Cyber Threats · U.S. Treasury Engages Banks on AI-Driven…"
 date: 2026-04-11 21:00:00 +0800
 type: post
 published: true

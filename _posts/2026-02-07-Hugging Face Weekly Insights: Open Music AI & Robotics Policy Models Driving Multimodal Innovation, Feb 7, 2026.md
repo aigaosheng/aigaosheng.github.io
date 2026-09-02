@@ -2,6 +2,7 @@
 layout: post
 title: "Hugging Face Weekly Insights- Open Music AI & Robotics Policy Models Driving Multimodal Innovation, Feb 7, 2026"
 series: "AI Company Watch"
+description: "ACE‑Step v1.5 — Breakthrough in Open Music AI (Model + Paper) · NVIDIA Cosmos Policy for Advanced Robot Control (Blog & Research) · New Research Papers…"
 date: 2026-02-07 20:47:00 +0800
 type: post
 published: true

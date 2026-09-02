@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ukraine’s SkyFall Steals the Show at Dubai Airshow With New Drone Interceptor"
+description: "A Closer Look at the Breakthrough · Why This Matters for Global Defence"
 date: 2025-11-18 20:35:00 +0800
 type: post
 published: true

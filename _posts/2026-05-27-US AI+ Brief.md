@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-05-27"
 series: "US & China AI"
+description: "S&P 500 and Nasdaq Hit Record Highs on AI Optimism; Micron Joins $1 Trillion Club · Investors Hunt for AI Winners in Small-Cap US Tech Stocks · Goldman…"
 date: 2026-05-27 20:47:00 +0800
 type: post
 published: true

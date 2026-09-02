@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI Weekly Intelligence Report Apr 5, 2026"
 series: "AI Company Watch"
+description: "OpenAI Weekly Intelligence Report (Mar 31 – Apr 5, 2026) · Capital Scale: $122B Funding Round Redefines AI Market Structure · Product Strategy: Emergence…"
 date: 2026-04-05 20:04:00 +0800
 type: post
 published: true

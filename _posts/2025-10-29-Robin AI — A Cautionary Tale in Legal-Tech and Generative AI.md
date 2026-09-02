@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Robin AI — A Cautionary Tale in Legal-Tech and Generative AI"
+description: "Challenges and Operational Setbacks · Funding and Growth Shortfall · Strategic and Market Challenges · For the Legal-Tech and Enterprise AI Market"
 date: 2025-10-29 10:57:00 +0800
 type: post
 published: true

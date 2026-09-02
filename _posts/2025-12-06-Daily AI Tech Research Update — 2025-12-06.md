@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI Tech Research Update — 2025-12-06"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by novelty & impact) — TOP 10 · Iterative Tilting for Diffusion Fine-Tuning · Towards a unified framework for guided diffusion models…"
 date: 2025-12-06 20:15:00 +0800
 type: post
 published: true

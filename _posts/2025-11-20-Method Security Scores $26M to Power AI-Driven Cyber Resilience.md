@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Method Security Scores $26M to Power AI-Driven Cyber Resilience"
+description: "Strengthening Cyber Shield: What’s New with Method Security · What Does Method Actually Do? · Why This Matters: Cyber Resilience in an AI Era · Challenges…"
 date: 2025-11-20 21:08:00 +0800
 type: post
 published: true

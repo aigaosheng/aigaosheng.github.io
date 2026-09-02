@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly QWen insight report January 10, 2026"
 series: "AI Company Watch"
+description: "Alibaba Releases Qwen‑Image‑2512 — Next‑Gen Open‑Source Image Model"
 date: 2026-01-10 20:16:00 +0800
 type: post
 published: true

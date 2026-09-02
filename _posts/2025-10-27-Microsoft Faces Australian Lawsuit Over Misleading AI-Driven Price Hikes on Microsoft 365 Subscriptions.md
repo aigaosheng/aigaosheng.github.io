@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft Faces Australian Lawsuit Over Misleading AI-Driven Price Hikes on Microsoft 365 Subscriptions"
+description: "In a significant legal challenge, the Australian Competition and Consumer Commission (ACCC) has sued Microsoft Australia and its US parent company…"
 date: 2025-10-27 20:02:00 +0800
 type: post
 published: true

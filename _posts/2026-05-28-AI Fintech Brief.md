@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-28"
 series: "AI & Fintech"
+description: "Banks Face Urgent Threat as Consumers Embrace AI for Stock Picks and Savings · Fintech’s AI Boom Conceals a Growing Global Layoff Crisis · ASIC Signals…"
 date: 2026-05-28 19:55:00 +0800
 type: post
 published: true

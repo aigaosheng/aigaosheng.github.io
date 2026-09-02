@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-23"
 series: "Enterprise AI"
+description: "Shadow AI Emerges as Enterprise Security's Largest Blind Spot · Cognizant Partners with Gulf Edge to Expand Enterprise AI Across Southeast Asia · Spectro…"
 date: 2026-07-23 21:05:00 +0800
 type: post
 published: true

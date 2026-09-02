@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-16"
 series: "AI & Fintech"
+description: "Morgan Stanley Opens Trillion-Dollar Wealth Platform to External AI Agents · LTX Launches Agentic AI Capabilities in BondGPT for Corporate Bond Trading…"
 date: 2026-06-16 20:33:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Arming Yourself — Digitally - How the Cybercrime Economy Evolved and What That Means for Defense"
+description: "The New Face of Crime: From CaaS to RaaS · How AI Arms the Underdog · Economics and Mechanics: Why Crime Thrives · Defence: What Organisations Must Do Now"
 date: 2025-11-11 22:18:00 +0800
 type: post
 published: true

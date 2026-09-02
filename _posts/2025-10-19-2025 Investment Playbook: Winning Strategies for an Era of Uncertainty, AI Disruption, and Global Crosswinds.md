@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2025 Investment Playbook: Winning Strategies for an Era of Uncertainty, AI Disruption, and Global Crosswinds"
+description: "The Shifting Sands of Sector Leadership · International and Emerging Markets: New Frontiers · Navigating Volatility: Factor and Thematic Strategies…"
 date: 2025-10-19 20:37:00 +0800
 type: post
 published: true

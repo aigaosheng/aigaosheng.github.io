@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-06-28"
 series: "AI & Fintech"
+description: "BIS Warns AI Investment Boom Could Create New Financial Stability Risks"
 date: 2026-06-28 17:20:00 +0800
 type: post
 published: true

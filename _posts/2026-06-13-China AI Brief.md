@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-13"
 series: "US & China AI"
+description: "Nvidia Begins Selling Vera CPUs to Chinese Clients as U.S. Export Curbs Bite · China Deploys AI Anti-Corruption System for Public Bidding, Catching 324…"
 date: 2026-06-13 20:27:00 +0800
 type: post
 published: true

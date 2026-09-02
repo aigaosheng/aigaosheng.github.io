@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily Newsletter April 7, 2026"
 series: "Enterprise AI"
+description: "Uber Expands Enterprise AI with Amazon Custom Chips · Boomi Identifies “Data Activation” as the Missing Layer in Enterprise AI · AI Governance Moves to the…"
 date: 2026-04-07 21:23:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-13"
 series: "Investment & Startups"
+description: "Jeff Bezos' AI Startup Prometheus Valued at $41 Billion · Indian Startups Raised $225–246 Million in Second Week of June, Up 22% YoY · Coram AI Raises $35…"
 date: 2026-06-13 20:50:00 +0800
 type: post
 published: true

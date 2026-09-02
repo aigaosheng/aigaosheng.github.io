@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quantitative Assessment of the Oracle–OpenAI $300B Deal
+description: "Investment Report: Quantitative Assessment of the Oracle–OpenAI Deal · Present Value of Deal Revenues and Profits · EPS and Valuation Impact · Capex and…"
 date: 2025-09-14 17:47:00 +0800
 type: post
 published: true

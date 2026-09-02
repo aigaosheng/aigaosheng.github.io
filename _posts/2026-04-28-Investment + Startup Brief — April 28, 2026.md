@@ -2,6 +2,7 @@
 layout: post
 title: Investment + Startup Brief — April 28, 2026"
 series: "Investment & Startups"
+description: "AI Startup Ineffable Raises $1.1B at $5.1B Valuation · Northwestern Mutual Commits $150M to Fintech VC · China Blocks Meta’s $2B+ Acquisition of AI Startup…"
 date: 2026-04-28 20:46:00 +0800
 type: post
 published: true

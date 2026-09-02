@@ -2,6 +2,7 @@
 layout: post
 title: "AI DAILY NEWSLETTER April 2, 2026"
 series: "AI Industry News"
+description: "Thursday, April 2, 2026 | Edition #132 · TODAY’S TOP AI STORIES (Last 24 Hours) · Singapore Expands Crackdown on AI Chip Fraud · Gartner: Enterprises Will…"
 date: 2026-04-02 20:23:00 +0800
 type: post
 published: true

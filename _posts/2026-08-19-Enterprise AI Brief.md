@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-19"
 series: "Enterprise AI"
+description: "Snowflake Introduces Dynamic Model Routing to Improve Enterprise AI Economics · KT Launches Integrated On-Premises AI Server Using Korean Chips and LLMs…"
 date: 2026-08-19 20:30 +0800
 type: post
 published: true

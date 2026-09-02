@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Model Minimalism: How Lean AI Is Saving Companies Millions"
+description: "What is Model Minimalism? · Why Companies Are Going Lean · Faster & More Predictable · The Minimalist AI Strategy (Phased Approach)"
 date: 2025-09-23 22:00:00 +0800
 type: post
 published: true

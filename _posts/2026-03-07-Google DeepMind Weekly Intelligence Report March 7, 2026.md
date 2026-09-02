@@ -2,6 +2,7 @@
 layout: post
 title: "Google DeepMind Weekly Intelligence Report March 7, 2026"
 series: "AI Company Watch"
+description: "Gemini 3 Deep Think — Major Reasoning Upgrade · Gemini 3.1 Flash-Lite API Release · Google DeepMind Robotics Accelerator — Active Recruitment"
 date: 2026-03-07 20:39:00 +0800
 type: post
 published: true

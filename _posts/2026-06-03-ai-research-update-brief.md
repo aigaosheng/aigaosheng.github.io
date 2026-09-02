@@ -2,6 +2,7 @@
 layout: post
 title: "AI research update Brief — 2026-06-03"
 series: "AI Research & Open Source"
+description: "Visual Graph Scaffolds for Structural Reasoning in Large Language Models · AURA: Action-Gated Memory for Robot Policies at Constant VRAM · BehaviorBench…"
 date: 2026-06-03 19:41:11 +0800
 type: post
 published: true

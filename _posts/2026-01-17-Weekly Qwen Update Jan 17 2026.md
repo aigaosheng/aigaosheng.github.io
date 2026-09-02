@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Qwen Update Jan 17 2026"
 series: "AI Company Watch"
+description: "Alibaba’s Qwen AI App Upgraded to Perform Real-World Tasks — Food Orders, Travel Bookings Now Available In-Chat"
 date: 2026-01-17 22:18:00 +0800
 type: post
 published: true

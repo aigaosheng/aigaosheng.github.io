@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-05-21"
 series: "US & China AI"
+description: "White House to Issue Executive Order Strengthening Review of Frontier AI Models · OpenAI Claims Breakthrough: AI Model Solves 80-Year-Old Math Problem…"
 date: 2026-05-21 21:33:00 +0800
 type: post
 published: true

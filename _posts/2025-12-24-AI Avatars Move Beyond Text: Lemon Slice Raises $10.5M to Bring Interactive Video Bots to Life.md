@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Avatars Move Beyond Text - Lemon Slice Raises $10.5M to Bring Interactive Video Bots to Life"
+description: "From One Photo to a Live, Conversational Avatar · Safety First: Guardrails and Moderation Built In · Why This Matters Now"
 date: 2025-12-24 20:00:00 +0800
 type: post
 published: true

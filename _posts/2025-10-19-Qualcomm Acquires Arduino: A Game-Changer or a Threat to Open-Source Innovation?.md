@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Qualcomm Acquires Arduino: A Game-Changer or a Threat to Open-Source Innovation?"
+description: "What Does This Acquisition Mean?"
 date: 2025-10-19 21:55:00 +0800
 type: post
 published: true

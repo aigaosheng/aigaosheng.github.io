@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — May 2, 2026"
 series: "AI & Fintech"
+description: "Citi launches agentic AI platform “Arc” for enterprise finance workflows · AI-powered wealth advisory expands, but memory limitations persist · Most…"
 date: 2026-05-02 20:02:00 +0800
 type: post
 published: true

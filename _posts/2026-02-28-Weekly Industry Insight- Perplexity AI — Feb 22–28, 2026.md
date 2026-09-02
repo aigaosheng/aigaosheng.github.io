@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Industry Insight- Perplexity AI — Feb 22–28, 2026"
 series: "AI Company Watch"
+description: "Product Launch Detail: Perplexity Computer"
 date: 2026-02-28 17:26:00 +0800
 type: post
 published: true

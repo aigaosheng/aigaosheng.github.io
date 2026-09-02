@@ -3,6 +3,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-28"
 series: "China AI vs US AI"
+description: "Tencent unveils new open-source AI model targeting coding, research and finance · MiniMax raises Alibaba Cloud commitment to $1.2 billion as AI compute…"
 date: 2026-08-28 20:53:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Your Phone Can Do the Work Now - Zhipu AI’s AutoGLM Opens the Door to Fully Automated Smartphones"
+description: "What AutoGLM Does — and Why It’s a Big Deal · Why Now? And What It Says About the AI Race · But It’s Not Magic — Yet · What This Means — And What’s Next"
 date: 2025-12-09 21:20:00 +0800
 type: post
 published: true

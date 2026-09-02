@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — May 13, 2026"
 series: "AI & Fintech"
+description: "Headline: FIS Deploys Agentic AI for AML Compliance, Partnering with Anthropic ** Financial infrastructure giant FIS has announced an agentic AI financial…"
 date: 2026-05-13 19:40:00 +0800
 type: post
 published: true

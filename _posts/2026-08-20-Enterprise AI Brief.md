@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-20"
 series: "Enterprise AI"
+description: "Tech Mahindra and ServiceNow Expand Partnership for Production-Ready Enterprise AI · Alibaba Reports 45% Growth in AI Cloud and Compute Revenue · PLDT and…"
 date: 2026-08-20 19:57:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — April 27, 2026"
 series: "AI & Fintech"
+description: "Experian Launches AI Fraud Detection Platform with 200% Detection Boost · Adyen Acquires Talon.One for €750M to Expand AI-Driven Loyalty Capabilities · Ant…"
 date: 2026-04-27 21:08:00 +0800
 type: post
 published: true

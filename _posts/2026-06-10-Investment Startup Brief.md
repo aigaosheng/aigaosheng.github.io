@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-10"
 series: "Investment & Startups"
+description: "Anthropic Secures $35B Private Credit Financing from Apollo and Blackstone · DeepSeek Close to Sealing $7.4 Billion Funding in Historic AI Deal · GIC…"
 date: 2026-06-10 20:45:00 +0800
 type: post
 published: true

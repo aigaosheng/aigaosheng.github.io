@@ -2,6 +2,7 @@
 layout: post
 title: "Anthropic Claude (Mar 15–21, 2026)- Strategic Weekly Insight Report"
 series: "AI Company Watch"
+description: "Military & Regulatory Dynamics · Brand Visibility & Competitive Dynamics · Tech & Product Update · Claude Code Channels & Active Agents"
 date: 2026-03-21 20:46:00 +0800
 type: post
 published: true

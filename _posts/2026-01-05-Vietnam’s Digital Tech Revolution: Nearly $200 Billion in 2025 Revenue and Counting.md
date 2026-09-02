@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vietnam’s Digital Tech Revolution- Nearly $200 Billion in 2025 Revenue and Counting"
+description: "A Sector on the Upswing: Growth Drivers and Trends · Booming E-commerce and Export Markets · Beyond the Numbers: Strategic Implications"
 date: 2026-01-05 20:18:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-14"
 series: "AI & Fintech"
+description: "AI Agents Move from Pilot to Workforce in Bank Compliance · AI and Stablecoins Converge Around the Next Generation of Payments · Yuno Raises $45M Series B…"
 date: 2026-08-14 19:53:00 +0800
 type: post
 published: true

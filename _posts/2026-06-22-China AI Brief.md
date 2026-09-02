@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-22"
 series: "US & China AI"
+description: "Zhipu AI's Market Cap Surpasses HK$1 Trillion, Outpacing Major Tech Giants · 2026 Summer Davos Opens: AI and Robotics Top Agenda · ByteDance in Talks to…"
 date: 2026-06-22 20:28:00 +0800
 type: post
 published: true

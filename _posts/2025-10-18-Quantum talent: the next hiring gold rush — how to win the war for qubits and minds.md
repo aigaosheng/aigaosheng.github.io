@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Quantum talent: the next hiring gold rush — how to win the war for qubits and minds"
+description: "The future of work — shrunk to a qubit · Why this is different from previous tech hiring waves · What employers are doing (and should do) · Risks and blind…"
 date: 2025-10-18 22:57:00 +0800
 type: post
 published: true

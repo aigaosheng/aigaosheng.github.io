@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-05-26"
 series: "Singapore"
+description: "Singapore Maintains 2026 GDP Forecast at 2-4% Despite Global Headwinds · Economists Upgrade Growth Projections as AI Capex Boom Extends · Manufacturing…"
 date: 2026-05-26 21:17:00 +0800
 type: post
 published: true

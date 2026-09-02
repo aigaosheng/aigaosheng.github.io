@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Sectors+ Brief — 2026-05-20"
 series: "Singapore"
+description: "Singapore Unveils Major AI Ecosystem Push with OpenAI, NVIDIA, and Google · Singapore Exports Surge 24.5% in April, Fastest Growth in 14 Years · IMF…"
 date: 2026-05-20 21:05:00 +0800
 type: post
 published: true

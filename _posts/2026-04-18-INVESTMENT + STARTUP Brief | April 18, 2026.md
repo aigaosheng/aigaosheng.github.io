@@ -2,6 +2,7 @@
 layout: post
 title: "INVESTMENT + STARTUP Brief | April 18, 2026"
 series: "Investment & Startups"
+description: "OpenAI Acquires AI Personal Finance Startup Hiro · Hong Kong Grants First Stablecoin Licenses to HSBC, Standard Chartered JV · Creao AI Raises $10M to…"
 date: 2026-04-18 22:39:00 +0800
 type: post
 published: true

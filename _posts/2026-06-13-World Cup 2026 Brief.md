@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "World Cup 2026 Brief — 2026-06-13"
+description: "USA Dominates Paraguay 4-1 in Historic Home Opener · Mexico Breaks Opening Day Curse with Chaotic Win Against South Africa · FIFA Defends Attendance…"
 date: 2026-06-13 20:15:00 +0800
 type: post
 published: true

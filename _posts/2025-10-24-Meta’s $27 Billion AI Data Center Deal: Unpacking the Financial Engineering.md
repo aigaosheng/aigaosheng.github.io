@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meta’s $27 Billion AI Data Center Deal - Unpacking the Financial Engineering"
+description: "Understanding the $3 Billion Distribution · Strategic Implications for Meta · Market Reception and Analyst Perspectives"
 date: 2025-10-24 20:44:00 +0800
 type: post
 published: true

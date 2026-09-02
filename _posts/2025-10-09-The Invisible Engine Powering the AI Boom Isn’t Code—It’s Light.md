@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Invisible Engine Powering the AI Boom Isn’t Code—It’s Light"
+description: "ASML’s Massive Bet on the AI Era · Why This Matters Beyond Tech Circles"
 date: 2025-10-09 23:23:00 +0800
 type: post
 published: true

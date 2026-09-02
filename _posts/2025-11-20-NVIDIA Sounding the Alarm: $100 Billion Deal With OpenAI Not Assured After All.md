@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NVIDIA Sounding the Alarm - $100 Billion Deal With OpenAI Not Assured After All"
+description: "Just months after a headline‑grabbing announcement of a $100 billion partnership between NVIDIA and OpenAI, NVIDIA has quietly reminded investors that…"
 date: 2025-11-20 21:35:00 +0800
 type: post
 published: true

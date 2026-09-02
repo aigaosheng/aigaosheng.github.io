@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meta’s $2B AI Power Play - Why the Manus Acquisition Matters for the Future of AI Agents"
+description: "From Chatbots to Autonomous Action · What Meta Is Betting On · Signals for Enterprise AI Strategy"
 date: 2025-12-31 21:17:00 +0800
 type: post
 published: true

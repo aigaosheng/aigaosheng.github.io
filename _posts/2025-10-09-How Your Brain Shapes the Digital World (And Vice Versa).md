@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Your Brain Shapes the Digital World (And Vice Versa)"
+description: "Why Cyberpsychology Matters Today · Cybersecurity & Privacy: It’s All in Your Head · AI & VR: Tech That Understands You · The Future of Work: Burnout by…"
 date: 2025-10-09 23:18:00 +0800
 type: post
 published: true

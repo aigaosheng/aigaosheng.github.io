@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Mineral Power Play That’s Rocking the Global Chip Game"
+description: "Imagine the world’s most advanced chip factories… suddenly scrambling because a mineral in a remote mine halfway across the globe is locked behind new…"
 date: 2025-10-12 17:23:00 +0800
 type: post
 published: true

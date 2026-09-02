@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Veera’s $10M Boost - Inside the Singapore Crypto Startup Redefining On-Chain Finance"
+description: "From Pre-Seed to Promise: How Veera Secured Its Latest Raise · What Veera Is Building: A Consumer-Ready On-Chain Financial OS · Why This Matters: Bridging…"
 date: 2026-01-16 20:30:00 +0800
 type: post
 published: true

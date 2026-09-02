@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Insight Analysis- Singapore’s Payments Ecosystem at an Inflection Point"
+description: "From Adoption to Infrastructure Maturity · Real-Time Payments as the Default Economic Layer · Stablecoins: From Experimentation to Embedded Utility…"
 date: 2026-02-04 20:10:00 +0800
 type: post
 published: true

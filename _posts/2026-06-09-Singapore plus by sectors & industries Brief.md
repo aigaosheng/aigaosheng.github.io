@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore plus by sectors & industries Brief — 2026-06-09"
 series: "Singapore"
+description: "Singapore Retail Sales Surge in April, but Analysts Warn of Underlying Fragility · AI Demand Fuels Broad-Based Growth in Singapore Manufacturing · STI…"
 date: 2026-06-09 21:20:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "South Korea’s AI Law Set to Make History — and Stir Debate"
+description: "Big Changes on the AI Horizon · What This Means for Tech and Society · Glossary: Key Concepts Explained"
 date: 2025-12-15 21:15:00 +0800
 type: post
 published: true

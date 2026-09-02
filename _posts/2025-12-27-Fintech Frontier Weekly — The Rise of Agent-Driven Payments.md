@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Frontier Weekly — The Rise of Agent-Driven Payments"
 series: "AI & Fintech"
+description: "The Next Phase of Payments: Agentic AI Meets Digital Wallets and Real-Time Rails · Market & Industry Insight · Company & Startup Spotlight · Citi — Scaling…"
 date: 2025-12-27 21:43:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI company Brief — 2026-06-09"
 series: "AI Company Watch"
+description: "Meta Commits $115 Million to Skilled Trades Academy for AI Data Center Construction · WSJ Names NVIDIA Top \"Best Company for the Future\" as AI Readiness…"
 date: 2026-06-09 21:19:00 +0800
 type: post
 published: true

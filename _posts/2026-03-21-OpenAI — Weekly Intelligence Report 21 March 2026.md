@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI — Weekly Intelligence Report 21 March 2026"
 series: "AI Company Watch"
+description: "Strategic Context — From Consumer Dominance to Enterprise Urgency · Product Strategy — The “Superapp” as a Platform Play · Market Expansion — Government &…"
 date: 2026-03-21 20:34:00 +0800
 type: post
 published: true

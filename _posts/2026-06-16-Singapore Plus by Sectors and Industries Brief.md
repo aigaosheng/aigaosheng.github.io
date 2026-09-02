@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Plus by Sectors and Industries Brief — 2026-06-16"
 series: "Singapore"
+description: "Singapore Layoffs Hit Near Three-Year High Amid Restructuring · AI Reshapes Jobs More Than Headcount, Labour Market Shows Resilience · Singapore's…"
 date: 2026-06-16 20:44:00 +0800
 type: post
 published: true

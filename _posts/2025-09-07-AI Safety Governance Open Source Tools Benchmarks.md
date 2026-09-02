@@ -1,6 +1,7 @@
 ---
 layout: post
 title: AI Safety & Governance - Open-Source Tools & Benchmarks
+description: "A curated list of open-source GitHub repositories for evaluating large language models (LLMs) across various dimensions of safety, fairness, and…"
 date: 2025-09-07 16:01:00 +0800 
 type: post
 published: true

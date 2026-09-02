@@ -2,6 +2,7 @@
 layout: post
 title: "Open-source AI model Brief — 2026-06-30"
 series: "AI Research & Open Source"
+description: "Huawei Releases OpenPangu-2.0-Flash, a 92B-Parameter Open AI Model · Meituan Open-Sources LongCat-2.0, a Trillion-Parameter AI System Built on Domestic…"
 date: 2026-06-30 20:33:00 +0800
 type: post
 published: true

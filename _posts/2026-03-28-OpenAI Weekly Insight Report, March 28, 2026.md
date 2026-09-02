@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI Weekly Insight Report, March 28, 2026"
 series: "AI Company Watch"
+description: "Week of March 22–28, 2026 | Published: March 28, 2026 · Story 1: SoftBank's $40B Loan Points to Imminent OpenAI IPO · Story 2: ChatGPT Pivots Commerce…"
 date: 2026-03-28 21:26:00 +0800
 type: post
 published: true

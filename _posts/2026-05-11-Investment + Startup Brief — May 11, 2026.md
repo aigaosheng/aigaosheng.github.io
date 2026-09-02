@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — May 11, 2026"
 series: "Investment & Startups"
+description: "Digital Asset Seeks $2B Valuation in a16z Crypto-Led Funding KuCoin · May 11, 2026 Enterprise blockchain firm Digital Asset is reportedly raising a new…"
 date: 2026-05-11 20:13:00 +0800
 type: post
 published: true

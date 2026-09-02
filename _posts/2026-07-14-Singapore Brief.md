@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-07-14"
 series: "Singapore"
+description: "Singapore's Economy Expands 5.7% in Q2 2026 · AI Semiconductor Demand Continues to Drive Manufacturing Despite Slower Overall Growth · Chemicals and…"
 date: 2026-07-14 20:34:00 +0800
 type: post
 published: true

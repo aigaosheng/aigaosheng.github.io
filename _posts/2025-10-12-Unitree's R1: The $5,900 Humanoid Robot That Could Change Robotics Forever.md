@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Unitree's R1: The $5,900 Humanoid Robot That Could Change Robotics Forever"
+description: "What Is the R1? · Why Should You Care?"
 date: 2025-10-12 20:45:00 +0800
 type: post
 published: true

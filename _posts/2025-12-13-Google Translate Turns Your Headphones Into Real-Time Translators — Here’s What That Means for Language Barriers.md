@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Translate Turns Your Headphones Into Real-Time Translators — Here's What That Means for Language Barriers"
+description: "A Real-World Babel Fish — Powered by Gemini · Where It Works — And What’s Next"
 date: 2025-12-13 18:35:00 +0800
 type: post
 published: true

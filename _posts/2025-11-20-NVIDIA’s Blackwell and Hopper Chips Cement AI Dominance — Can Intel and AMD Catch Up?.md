@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NVIDIA’s Blackwell and Hopper Chips Cement AI Dominance — Can Intel and AMD Catch Up?"
+description: "In the race for artificial-intelligence supremacy, NVIDIA isn’t just running fast — it’s already nearly at the finish line. With its Hopper and…"
 date: 2025-11-20 21:29:00 +0800
 type: post
 published: true

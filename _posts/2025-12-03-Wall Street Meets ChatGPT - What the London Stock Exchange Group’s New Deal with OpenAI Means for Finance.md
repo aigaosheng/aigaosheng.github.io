@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wall Street Meets ChatGPT - What the London Stock Exchange Group’s New Deal with OpenAI Means for Finance"
+description: "Why It Matters – Implications for Finance & Markets · Democratizing access to high-quality data · Speed and efficiency boost for financial workflows · A…"
 date: 2025-12-03 21:47:00 +0800
 type: post
 published: true

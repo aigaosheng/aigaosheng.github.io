@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microbes Mining Copper? The AI-Powered Future of Sustainable Metal Extraction"
+description: "The Copper Crunch: AI's Hidden Cost · Enter Microbial Mining: Nature's Solution to a Modern Problem · The Role of AI in Microbial Mining · A Sustainable…"
 date: 2025-10-09 22:33:00 +0800
 type: post
 published: true

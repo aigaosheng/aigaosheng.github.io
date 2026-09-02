@@ -2,6 +2,7 @@
 layout: post
 title: "AI Risk & Governance Daily April 9, 2026"
 series: "AI Governance & Regulation"
+description: "AI Governance Integration Matures at IAPP Global Summit 2026 · Weak AI Governance Identified as Top Enterprise Automation Risk · Global AI Regulatory…"
 date: 2026-04-09 22:42:00 +0800
 type: post
 published: true

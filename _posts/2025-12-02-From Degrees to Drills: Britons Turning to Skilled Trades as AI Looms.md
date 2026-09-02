@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Degrees to Drills - Britons Turning to Skilled Trades as AI Looms"
+description: "What’s driving the shift · Why skilled trades matter more than ever · What this means for the future of work · What to watch next"
 date: 2025-12-02 21:00:00 +0800
 type: post
 published: true

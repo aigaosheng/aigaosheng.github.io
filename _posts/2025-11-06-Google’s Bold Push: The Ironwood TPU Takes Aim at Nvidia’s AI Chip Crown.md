@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google’s Bold Push - The Ironwood TPU Takes Aim at Nvidia’s AI Chip Crown"
+description: "Behind the scenes: Not just raw specs"
 date: 2025-11-06 23:21:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Quantum Computing Brief — 2026-07-08"
 series: "Quantum Computing"
+description: "Crypto Industry Accelerates Preparation for Quantum Computing Threat · European QUARTERNEXT Consortium Advances Quantum-Safe Communications · Rice…"
 date: 2026-07-08 20:00:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-26"
 series: "AI & Fintech"
+description: "Moody’s Integrates Decision-Grade Intelligence into Google Cloud’s Gemini Enterprise for Financial Services · Daloopa Integrates Verified Financial Data…"
 date: 2026-08-26 20:21:00 +0800
 type: post
 published: true

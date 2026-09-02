@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Standard Chartered Unveils Real-Time Blockchain Tokenized Deposits — A New Era in Corporate Treasury"
+description: "What’s New: Tokenized Deposits Go Live · Speed and Liquidity on Demand · Bridging Old and New Financial Worlds · Part of Regional Innovation Push"
 date: 2025-12-18 21:20:00 +0800
 type: post
 published: true

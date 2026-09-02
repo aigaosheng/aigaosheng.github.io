@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Ghost in the Wallet- Why Your Next Purchase Won't Be Made by You"
+description: "Takeaway from Stablecoin-linked Agentic Commerce and Payments (Industry Roundtable)"
 date: 2026-07-30 19:40:00 +0800
 type: post
 published: true

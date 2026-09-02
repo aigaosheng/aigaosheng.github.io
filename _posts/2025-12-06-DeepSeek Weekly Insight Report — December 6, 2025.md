@@ -2,6 +2,7 @@
 layout: post
 title: "DeepSeek Weekly Insight Report — December 6, 2025"
 series: "AI Company Watch"
+description: "Product Launch & Availability"
 date: 2025-12-06 20:53:00 +0800
 type: post
 published: true

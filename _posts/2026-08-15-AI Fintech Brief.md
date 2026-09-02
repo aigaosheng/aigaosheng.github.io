@@ -3,6 +3,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-15"
 series: "AI & Fintech"
+description: "AI Is Becoming a More Trusted Source of Financial Advice Than Banks in Malaysia · Wall Street's Biggest Banks Are Moving AI From Experiments Into Core…"
 date: 2026-08-15T20:48:00 +0800
 type: post
 published: true

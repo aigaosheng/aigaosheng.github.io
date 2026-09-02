@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-16"
 series: "Investment & Startups"
+description: "Space Startup Funding Nears Record Levels as SpaceX IPO Attracts New Investors · AI Startup Investing Becomes Harder as Market Floods with New Companies…"
 date: 2026-07-16 21:45:00 +0800
 type: post
 published: true

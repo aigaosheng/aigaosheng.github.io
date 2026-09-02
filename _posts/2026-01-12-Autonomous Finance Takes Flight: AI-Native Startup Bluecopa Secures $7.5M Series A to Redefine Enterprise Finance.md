@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Autonomous Finance Takes Flight - AI-Native Startup Bluecopa Secures $7.5M Series A to Redefine Enterprise Finance"
+description: "From Manual to Autonomous: Reinventing Finance Operations · Why Investors Bet Big"
 date: 2026-01-12 19:59:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "The Fintech Pulse- AI Unicorns, Strategic Acquisitions & Regulatory Shifts, April 19, 2026"
 series: "AI & Fintech"
+description: "In‑Depth Highlight: Slash Financial's $100M Series C & The Rise of AI Financial Agents · Market & Industry Insight: The Agentic AI Inflection Point…"
 date: 2026-04-19 17:48:00 +0800
 type: post
 published: true

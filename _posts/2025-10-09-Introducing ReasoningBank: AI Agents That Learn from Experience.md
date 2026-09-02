@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introducing ReasoningBank: AI Agents That Learn from Experience"
+description: "Imagine an AI assistant that doesn't just follow instructions but learns from every success and failure, refining its approach over time. That's the…"
 date: 2025-10-09 23:45:00 +0800
 type: post
 published: true

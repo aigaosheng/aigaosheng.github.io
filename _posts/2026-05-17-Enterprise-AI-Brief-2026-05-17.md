@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-17"
 series: "Enterprise AI"
+description: "SAP Restricts Third-Party AI Agent Access in Updated API Policy · H2O.ai Showcases AI Super Agents at Dell Technologies World · OpenAI Caps Microsoft…"
 date: 2026-05-17 21:32:00 +0800
 type: post
 published: true

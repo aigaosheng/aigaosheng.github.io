@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s Zhipu AI Nears Hong Kong IPO — A $300M Bet on Global AI Ambitions"
+description: "Why Hong Kong — and Why Now? · Fueling Expansion Amid Global Competition · What the IPO Means for Investors and the AI Sector"
 date: 2025-12-21 20:13:00 +0800
 type: post
 published: true

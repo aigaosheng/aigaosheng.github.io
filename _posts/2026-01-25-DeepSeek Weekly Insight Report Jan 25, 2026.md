@@ -2,6 +2,7 @@
 layout: post
 title: "DeepSeek Weekly Insight Report Jan 25, 2026"
 series: "AI Company Watch"
+description: "DeepSeek Publishes Breakthrough AI Architecture Paper (1 Jan 2026)"
 date: 2026-01-25 17:31:00 +0800
 type: post
 published: true

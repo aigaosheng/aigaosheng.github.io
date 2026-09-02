@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC Watch — Only Funds With Real Updates (Oct 11–18, 2025)"
+description: "Accelerators YC, Techstars, 500 Global were removed — no material updates this 7-day window."
 date: 2025-10-18 17:02:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Fintech Newsletter - Blockchain Boom, AI Sovereignty & Mega M&A Shake Up the Industry"
 series: "AI & Fintech"
+description: "In-Depth Highlight: Digital Asset's $355M Blockchain Bet · Market & Industry Insight: The Tokenization Revolution Accelerates · Company & Startup Spotlight"
 date: 2026-06-14 17:33:00 +0800
 type: post
 published: true

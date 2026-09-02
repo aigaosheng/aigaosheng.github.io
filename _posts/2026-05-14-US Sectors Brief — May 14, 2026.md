@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "US Sectors Brief — May 14, 2026"
+description: "Tech and Communication Services Lead While Rate-Sensitive Sectors Implode Amid Hot Inflation Source · Xinhua / Kalkine Media · May 14, 2026 / May 13, 2026…"
 date: 2026-05-14 21:17:00 +0800
 type: post
 published: true

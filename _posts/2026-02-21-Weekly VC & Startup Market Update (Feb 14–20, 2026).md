@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly VC & Startup Market Update Feb 14–20, 2026"
 series: "Market Reports"
+description: "Trend Commentary & Actionable Insights · Market Potential & Risks"
 date: 2026-02-21 18:05:00 +0800
 type: post
 published: true

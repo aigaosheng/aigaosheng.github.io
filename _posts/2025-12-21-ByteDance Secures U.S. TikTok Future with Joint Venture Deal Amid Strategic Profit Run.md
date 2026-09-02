@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ByteDance Secures U.S. TikTok Future with Joint Venture Deal Amid Strategic Profit Run"
+description: "ByteDance Finalizes Binding Agreements for U.S. TikTok Joint Venture · No Other Official ByteDance Announcements in the Week"
 date: 2025-12-21 20:11:00 +0800
 type: post
 published: true

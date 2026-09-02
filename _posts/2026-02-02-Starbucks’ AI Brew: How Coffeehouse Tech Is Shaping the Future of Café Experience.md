@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Starbucks’ AI Brew- How Coffeehouse Tech Is Shaping the Future of Café Experience"
+description: "A New Era of Coffeehouse Experience · Behind the Counter: Smart Operations and Inventory Tech · Tech Meets Human Touch · Industry Context: AI in Retail and…"
 date: 2026-02-02 20:05:00 +0800
 type: post
 published: true

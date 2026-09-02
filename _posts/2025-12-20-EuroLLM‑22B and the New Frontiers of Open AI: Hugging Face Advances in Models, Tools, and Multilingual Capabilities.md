@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "EuroLLM‑22B and the New Frontiers of Open AI - Hugging Face Advances in Models, Tools, and Multilingual Capabilities"
+description: "Hugging Face’s hub and blog continue to shape the open‑AI ecosystem, anchoring cutting‑edge multilingual models, infrastructure tooling, and…"
 date: 2025-12-20 20:29:00 +0800
 type: post
 published: true

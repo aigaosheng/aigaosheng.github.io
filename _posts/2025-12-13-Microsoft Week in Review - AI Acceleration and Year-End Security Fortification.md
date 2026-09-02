@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft Week in Review - AI Acceleration and Year-End Security Fortification"
+description: "GPT-5.2 Now Available in Microsoft 365 Copilot & Copilot Studio · December 2025 Patch Tuesday — 57 Vulnerabilities Patched (Including Zero-Days) · December…"
 date: 2025-12-13 22:05:00 +0800
 type: post
 published: true

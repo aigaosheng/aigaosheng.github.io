@@ -2,6 +2,7 @@
 layout: post
 title: "Open source AI model Brief — 2026-06-20"
 series: "AI Research & Open Source"
+description: "EU Commission Funds EUROPA Consortium to Build 400B-Parameter Open-Source AI Model · GLM-5.2 Closes Gap on Top Proprietary Models with Open-Source Release…"
 date: 2026-06-20 20:31:45 +0800
 type: post
 published: true

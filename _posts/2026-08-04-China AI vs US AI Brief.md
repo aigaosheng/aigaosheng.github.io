@@ -2,6 +2,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-04"
 series: "US & China AI"
+description: "Hugging Face CEO Warns China’s Open-Weight AI Strategy Could Challenge US Leadership · Alibaba Releases Qwen3.8-Max as China Pushes Frontier Open AI Models"
 date: 2026-08-04 20:02:00 +0800
 type: post
 published: true

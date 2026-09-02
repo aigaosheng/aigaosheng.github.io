@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-05-19"
 series: "Singapore"
+description: "IMF Projects Growth Slowdown for Singapore Amid Middle East Conflict · Singapore Exports Surge 24.5% in April, Driven by AI Demand · Singapore Launches…"
 date: 2026-05-19 20:34:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI research update Brief — 2026-06-05"
 series: "AI Research & Open Source"
+description: "The Meta-Agent Challenge asks whether agents can build agents · CHARM targets cascading hallucinations in agentic RAG pipelines · Sci-PRM brings…"
 date: 2026-06-05 20:02:16 +0800
 type: post
 published: true

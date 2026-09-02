@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DeepSeek OCR Breakthrough - Compressing Vision-Language Context for Enterprise Document AI"
+description: "Risks & Outstanding Questions · Forward Look (6–12 Months) · Recommended Actions for Execs / Builders"
 date: 2025-10-21 18:22:00 +0800
 type: post
 published: true

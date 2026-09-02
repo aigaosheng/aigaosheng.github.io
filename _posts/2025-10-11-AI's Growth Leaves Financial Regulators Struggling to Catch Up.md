@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI's Growth Leaves Financial Regulators Struggling to Catch Up"
+description: "Introduction"
 date: 2025-10-11 22:50:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Agents Are Here to Stay: G2 Data Debunks MIT's 95% Failure Myth"
+description: "Think AI projects are mostly doomed to fail? Think again. New data from G2 reveals that AI agents are not only thriving—they're becoming integral to…"
 date: 2025-10-09 23:40:00 +0800
 type: post
 published: true

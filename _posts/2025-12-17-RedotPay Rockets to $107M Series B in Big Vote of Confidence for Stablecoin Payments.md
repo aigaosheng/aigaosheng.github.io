@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RedotPay Rockets to $107M Series B in Big Vote of Confidence for Stablecoin Payments"
+description: "From Crypto Curiosity to Payments Powerhouse · Why Investors Are Betting Big · What’s Next for RedotPay"
 date: 2025-12-17 21:34:00 +0800
 type: post
 published: true

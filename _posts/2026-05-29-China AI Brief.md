@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-05-29"
 series: "US & China AI"
+description: "China Unveils National Legal Roadmap for AI and Data Rights · Embodied AI Market Set to Surpass $146 Billion by 2035 · China Advances AI Brain System for…"
 date: 2026-05-29 21:16:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ferrari Drives Into the Future - Crypto Token Auction for Le Mans-Winning Car"
+description: "A Turbocharged Link Between Motorsport and Web3 · What It Means — and Why It Matters · Why This Could Be a Template for Luxury + Crypto"
 date: 2025-10-25 21:27:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Daily Newsletter April 9, 2026"
 series: "AI & Fintech"
+description: "AI-Powered Fraud Detection Moves to Adaptive, Self-Learning Models · AI Supercharges Financial Scams as Regulators Scale Countermeasures · Revolut Launches…"
 date: 2026-04-09 20:09:00 +0800
 type: post
 published: true

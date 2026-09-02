@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 10, 2026"
 series: "Enterprise AI"
+description: "Headline: AICC Report: Enterprise Token Costs Drop 67% Year-Over-Year as Multi-Model AI Adoption Hits Record High ** An analysis of 2.4 billion API calls…"
 date: 2026-05-10 20:27:00 +0800
 type: post
 published: true

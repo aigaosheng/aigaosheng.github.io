@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SeaTown Raises US$900 Million in Bold Second Close — What It Means for Asia's Private Credit Boom"
+description: "What’s going on with PCF III · Why It Matters — For Asia and Beyond · What to Watch Ahead"
 date: 2025-12-10 21:27:00 +0800
 type: post
 published: true

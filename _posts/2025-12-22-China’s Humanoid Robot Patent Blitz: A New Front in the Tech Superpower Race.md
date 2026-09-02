@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s Humanoid Robot Patent Blitz: A New Front in the Tech Superpower Race"
+description: "In the high‑stakes world of advanced robotics, China isn’t just competing — it’s sprinting ahead."
 date: 2025-12-22 20:36:00 +0800
 type: post
 published: true

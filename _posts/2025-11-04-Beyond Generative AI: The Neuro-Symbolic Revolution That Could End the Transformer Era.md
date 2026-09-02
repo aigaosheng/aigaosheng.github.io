@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Beyond Generative AI - The Neuro-Symbolic Revolution That Could End the Transformer Era"
+description: "Why Transformers Fall Short in the Enterprise · Apollo-1 and the Neuro-Symbolic Breakthrough · Enterprise Implications: From Fluency to Reliability · Not…"
 date: 2025-11-04 20:51:00 +0800
 type: post
 published: true

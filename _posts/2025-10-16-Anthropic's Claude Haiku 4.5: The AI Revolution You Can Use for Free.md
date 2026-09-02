@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic's Claude Haiku 4.5: The AI Revolution You Can Use for Free"
+description: "The AI Game Just Changed—And It's Free"
 date: 2025-10-16 23:03:00 +0800
 type: post
 published: true

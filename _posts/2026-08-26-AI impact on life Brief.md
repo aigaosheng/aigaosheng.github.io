@@ -3,6 +3,7 @@
 layout: post
 title: "AI impact on life Brief — 2026-08-26"
 series: "AI & Society"
+description: "Bill Gates Warns That Society Is Unprepared for AI's Rapid Disruption · The Case for Keeping Some Jobs \"Human Reserved\" · China Grapples With AI Companions…"
 date: 2026-08-26 20:20:00 +0800
 type: post
 published: true

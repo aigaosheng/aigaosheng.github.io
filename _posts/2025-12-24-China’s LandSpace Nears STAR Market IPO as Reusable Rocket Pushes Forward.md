@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s LandSpace Nears STAR Market IPO as Reusable Rocket Pushes Forward"
+description: "A New Chapter for China’s ‘NewSpace’ Scene · Reusable Rocket Milestones and Setbacks · Glossary: Key Terms Simplified"
 date: 2025-12-24 20:12:00 +0800
 type: post
 published: true

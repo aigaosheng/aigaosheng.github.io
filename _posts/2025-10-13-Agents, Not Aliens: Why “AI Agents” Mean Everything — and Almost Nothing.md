@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agents, Not Aliens: Why “AI Agents” Mean Everything — and Almost Nothing"
+description: "What We Talk About When We Talk About “Agents” · Three Lenses to Understand AI Agents · The Digital ODD Problem · Why True Autonomy Is Still Far Away"
 date: 2025-10-13 22:50:00 +0800
 type: post
 published: true

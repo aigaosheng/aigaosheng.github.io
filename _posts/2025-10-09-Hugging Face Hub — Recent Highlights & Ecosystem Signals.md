@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face Hub — Recent Highlights & Ecosystem Signals - October 9 20025"
+description: "Trends & implications (based on these highlights) · Actionable recommendations & watch points"
 date: 2025-10-09 22:20:00 +0800
 type: post
 published: true

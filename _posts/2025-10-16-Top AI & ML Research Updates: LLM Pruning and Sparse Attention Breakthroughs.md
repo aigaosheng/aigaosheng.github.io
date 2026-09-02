@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Top AI & ML Research Updates: LLM Pruning and Sparse Attention Breakthroughs (Oct 16, 2025)"
+description: "Don’t Be Greedy, Just Relax! Pruning LLMs via Frank-Wolfe” · NOSA: Native and Offloadable Sparse Attention”"
 date: 2025-10-16 22:10:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore local update Brief — 2026-05-31"
 series: "Singapore"
+description: "East Coast Seafood Centre to be redeveloped; tenants told to vacate in 2026 · Shangri-La Dialogue helps countries reduce the chances of misunderstanding…"
 date: 2026-05-31 20:13:28 +0800
 type: post
 published: true

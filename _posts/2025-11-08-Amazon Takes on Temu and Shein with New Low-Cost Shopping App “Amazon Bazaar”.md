@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Amazon Takes on Temu and Shein with New Low-Cost Shopping App “Amazon Bazaar”"
+description: "The Launch: Amazon Goes Global on a Budget · What to Watch Next"
 date: 2025-11-08 20:03:00 +0800
 type: post
 published: true

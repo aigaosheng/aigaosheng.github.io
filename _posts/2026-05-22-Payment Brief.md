@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-05-22"
 series: "Payments"
+description: "Fed Proposes \"Narrowed\" Payment Accounts for Fintech and Crypto Access · Rift Between ECB and Banks Stalls Europe’s Payments Independence · Fed Memo…"
 date: 2026-05-22 20:04:00 +0800
 type: post
 published: true

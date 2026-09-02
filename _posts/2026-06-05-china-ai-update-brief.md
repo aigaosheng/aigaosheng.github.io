@@ -2,6 +2,7 @@
 layout: post
 title: "China AI update Brief — 2026-06-05"
 series: "US & China AI"
+description: "China bets on AI to promote President Xi Jinping’s ideology · Alibaba opens Qwen to KFC, Luckin Coffee, and airlines in AI agent push · AI intensifies…"
 date: 2026-06-05 20:02:16 +0800
 type: post
 published: true

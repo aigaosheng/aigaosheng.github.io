@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Your Browser Helps Too Much — and Gives Hackers a Helping Hand"
+description: "The Emerging Risk with AI Browser Agents · What’s the core danger? · Why traditional browser protections don’t work · Why This Matters Now"
 date: 2025-10-26 11:02:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+startup Brief — 2026-06-04"
 series: "Investment & Startups"
+description: "Ramp notches a $44 billion valuation in fresh financing · Impulse Space raises $500 million to expand spacecraft production · Merantix Capital closes a…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

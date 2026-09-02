@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nvidia Strategic Momentum - Quantum, Compute Demand & Capital Events (Week of Nov 17, 2025)"
+description: "Key Developments This Week · Supercomputing Centers Adopt NVQLink for Quantum-Classical Integration · Nvidia Reports Record Q3 FY 2026 Results · Nvidia…"
 date: 2025-11-22 21:54:00 +0800
 type: post
 published: true

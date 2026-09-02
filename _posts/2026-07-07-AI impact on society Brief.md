@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-07"
 series: "AI & Society"
+description: "Bank of England warns AI could create new financial stability risks · Australia warns AI systems are showing unintended behaviours, increasing pressure for…"
 date: 2026-07-07 21:14:00 +0800
 type: post
 published: true

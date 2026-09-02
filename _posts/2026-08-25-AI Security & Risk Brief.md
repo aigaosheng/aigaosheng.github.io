@@ -3,6 +3,7 @@
 layout: post
 title: "AI Security & Risk Brief — 2026-08-25"
 series: "AI Security & Risk"
+description: "OpenAI Pauses Astra Work After It Nears a “Critical” Cyber Capability Threshold · Unit 42 Finds AI-Enabled Malware Is Real — but Mostly Not Yet Operational"
 date: 2026-08-25 20:37:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agentic AI Meets Its Security Reckoning- NVIDIA’s Five-Layer Governance Blueprint"
+description: "Security, Finally Shipped at Launch · The Five-Layer Governance Framework · Identity & Access Control · Runtime & Cloud Security"
 date: 2026-03-18 21:35:00 +0800
 type: post
 published: true

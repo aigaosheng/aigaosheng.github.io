@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Weekly Brief — April 26, 2026"
 series: "AI & Fintech"
+description: "AI-native neobank Dave gains momentum with CashAI & DaveGPT · Robinhood invests $75M in OpenAI to expand retail access to AI · Piraeus Bank launches AI hub…"
 date: 2026-04-26 17:37:00 +0800
 type: post
 published: true

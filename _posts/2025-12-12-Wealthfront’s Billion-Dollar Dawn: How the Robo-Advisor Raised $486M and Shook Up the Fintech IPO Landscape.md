@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wealthfront’s Billion-Dollar Dawn - How the Robo-Advisor Raised $486M and Shook Up the Fintech IPO Landscape"
+description: "In a watershed moment for fintech in 2025, Palo Alto-based robo-advisor Wealthfront has officially entered the public markets — raising $486 million in its…"
 date: 2025-12-12 21:43:00 +0800
 type: post
 published: true

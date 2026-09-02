@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore’s Top University Sells US$500 Million to Manage Risk and Rebalance Investments"
+description: "Key take-aways for stakeholders"
 date: 2025-10-22 22:32:00 +0800
 type: post
 published: true

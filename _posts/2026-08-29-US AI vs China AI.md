@@ -3,6 +3,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-08-29"
 series: "US AI vs China AI"
+description: "China Is Building a Distinct Lead in AI Video Generation · US-China AI Rivalry Risks Splitting Global AI Governance · China's AI Competition Is…"
 date: 2026-08-29 20:40:00 +0800
 type: post
 published: true

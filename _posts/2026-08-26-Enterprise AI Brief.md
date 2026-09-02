@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-26"
 series: "Enterprise AI"
+description: "Gartner Forecasts the AI Security Market Will Reach $4.8 Billion in 2027 · Glean Launches New Enterprise AI Capabilities to Address Context, Cost and AI…"
 date: 2026-08-26 20:00 +0800
 type: post
 published: true

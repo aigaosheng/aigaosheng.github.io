@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-29"
 series: "US & China AI"
+description: "Nvidia Loses Ground to Huawei in China's AI Chip Market as Domestic Champions Rise · China Mandates \"Digital IDs\" for AI Agents with New National Standards"
 date: 2026-06-29 19:46:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-16"
 series: "AI & Fintech"
+description: "Wall Street’s Biggest Banks Are Turning AI Into a Core Operating Strategy · UK Financial SMEs Are Using AI as a Growth Engine, Not Just an Automation Tool…"
 date: 2026-08-16 20:33:00 +0800
 type: post
 published: true

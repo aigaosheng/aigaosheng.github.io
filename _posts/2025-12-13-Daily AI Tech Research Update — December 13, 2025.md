@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI Tech Research Update — December 13, 2025"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by novelty & impact) · When Refusals Fail: Unstable Safety Mechanisms in Long‑Context LLM Agents · Rectifying LLM Thought from Lens of…"
 date: 2025-12-13 21:05:00 +0800
 type: post
 published: true

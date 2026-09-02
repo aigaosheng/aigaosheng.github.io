@@ -2,6 +2,7 @@
 layout: post
 title: "AI research update Brief — 2026-05-30"
 series: "AI Research & Open Source"
+description: "MIT’s MeMo proposes a modular memory model for updating LLM knowledge without retraining the main model · AutoTTS automates test-time reasoning strategy…"
 date: 2026-05-30 21:00:26 +0800
 type: post
 published: true

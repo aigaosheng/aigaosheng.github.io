@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Top Startup Funding & VC Activity"
+description: "Commentary on Trends & Actionable Insights · Methodology & Source Validation"
 date: 2026-06-14 17:38:00 +0800
 type: post
 published: true

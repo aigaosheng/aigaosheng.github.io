@@ -2,6 +2,7 @@
 layout: post
 title: "Open-source AI model Brief — 2026-06-28"
 series: "AI Research & Open Source"
+description: "Zhipu AI’s GLM-5.2 Highlights China’s Rise in Open-weight Frontier Models · Chinese and Japanese Companies Launch New AI Models as Open Ecosystems Expand…"
 date: 2026-06-28 17:30:00 +0800
 type: post
 published: true

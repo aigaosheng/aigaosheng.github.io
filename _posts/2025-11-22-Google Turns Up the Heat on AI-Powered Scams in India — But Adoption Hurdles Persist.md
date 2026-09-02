@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Turns Up the Heat on AI-Powered Scams in India — But Adoption Hurdles Persist"
+description: "Google’s AI Scam Shield: What’s New · The Scale of the Fraud Problem · Google’s Wider Fraud-Fighting Strategy · Where the Gaps Are"
 date: 2025-11-22 17:50:00 +0800
 type: post
 published: true

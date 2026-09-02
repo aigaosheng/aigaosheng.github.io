@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI Lets Companies Pick Data-Hosting Location — A Big Win for Global Enterprise Compliance"
+description: "What’s New: Data Residency Options Expand · Why This Matters — Compliance, Trust, and Adoption · Compliance with Local Data Laws · Removing a Major Barrier…"
 date: 2025-11-26 22:54:00 +0800
 type: post
 published: true

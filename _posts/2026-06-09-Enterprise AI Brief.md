@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-09"
 series: "Enterprise AI"
+description: "NVIDIA Acquires Predictive AI Startup Kumo AI for Over $400 Million · Study Finds AI Scaling Stalls at Enterprises Due to Legacy Infrastructure · S&P…"
 date: 2026-06-09 20:55:00 +0800
 type: post
 published: true

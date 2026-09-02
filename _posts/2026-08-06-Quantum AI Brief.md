@@ -2,6 +2,7 @@
 layout: post
 title: "Quantum AI Brief — 2026-08-06"
 series: "Quantum Computing"
+description: "IBM Commits $50 Million in Quantum Compute Access for AI-Driven Scientific Discovery Mission · IonQ Reports Strong Revenue Growth as Quantum Computing…"
 date: 2026-08-06 21:42:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-31"
 series: "AI & Fintech"
+description: "May 2026: Top five AI stories of the month"
 date: 2026-05-31 20:13:28 +0800
 type: post
 published: true

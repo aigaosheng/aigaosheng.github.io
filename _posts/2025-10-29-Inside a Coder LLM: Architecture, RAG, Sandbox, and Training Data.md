@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside a Coder LLM - Architecture, RAG, Sandbox, and Training Data"
+description: "Product Scope & Core Features · API / Orchestration Layer · Retrieval & Context Store · Model Selection & Fine-Tuning"
 date: 2025-10-29 10:33:00 +0800
 type: post
 published: true

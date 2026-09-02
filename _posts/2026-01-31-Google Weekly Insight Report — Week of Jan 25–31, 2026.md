@@ -2,6 +2,7 @@
 layout: post
 title: "Google Weekly Insight Report — Week of Jan 25–31, 2026"
 series: "AI Company Watch"
+description: "Tech & Policy Angle · Product & Competitive Dynamics"
 date: 2026-01-31 22:22:00 +0800
 type: post
 published: true

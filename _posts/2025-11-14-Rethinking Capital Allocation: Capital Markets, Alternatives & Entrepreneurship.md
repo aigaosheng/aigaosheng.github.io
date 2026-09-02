@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rethinking Capital Allocation - Capital Markets, Alternatives & Entrepreneurship"
+description: "Macro Backdrop & Structural Shifts · 1 Global capital flows · 2 Rise of private markets · 3 Technology and new market infrastructure"
 date: 2025-11-14 17:54:00 +0800
 type: post
 published: true

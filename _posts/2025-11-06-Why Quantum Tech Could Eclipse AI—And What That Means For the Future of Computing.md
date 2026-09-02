@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Quantum Tech Could Eclipse AI—And What That Means For the Future of Computing"
+description: "Key Insights and Highlights · Deeper Reflections and Implications"
 date: 2025-11-06 22:54:00 +0800
 type: post
 published: true

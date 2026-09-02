@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-16"
 series: "US & China AI"
+description: "ByteDance in Advanced Talks to Buy AI Chips from Iluvatar CoreX, Baidu · Zhipu AI Shares Surge 48% as JPMorgan Names It a Winner · Huawei Cloud Unveils…"
 date: 2026-06-16 20:20:00 +0800
 type: post
 published: true

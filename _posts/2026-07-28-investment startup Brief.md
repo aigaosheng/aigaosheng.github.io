@@ -2,6 +2,7 @@
 layout: post
 title: "investment startup Brief — 2026-07-28"
 series: "Investment & Startups"
+description: "AI Chip Startup Etched Reaches $10.3 Billion Valuation in New Funding Round · ZuriQ Raises $25.5 Million to Advance Quantum Computing · DITTO Closes $6…"
 date: 2026-07-28 20:00:00 +0800
 type: post
 published: true

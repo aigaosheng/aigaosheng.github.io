@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sun Microsystems - The Rise and Fall of a Silicon Valley Icon
+description: "Beginnings in a Stanford Lab · The End of an Era"
 date: 2025-09-16 09:26:00 +0800
 type: post
 published: true

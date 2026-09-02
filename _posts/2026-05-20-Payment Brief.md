@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-05-20"
 series: "Payments"
+description: "Trump Executive Order Pushes Fed to Open Payment Rails to Fintechs · NMI Acquires Dwolla to Scale Account-to-Account Payments · Canada’s Real-Time Rail…"
 date: 2026-05-20 20:28:00 +0800
 type: post
 published: true

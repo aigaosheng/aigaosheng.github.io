@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The AI Bubble Takes Center Stage- Credit Investors Sound the Alarm"
+description: "What the Survey Found · Why Credit Markets Care"
 date: 2026-02-25 20:09:00 +0800
 type: post
 published: true

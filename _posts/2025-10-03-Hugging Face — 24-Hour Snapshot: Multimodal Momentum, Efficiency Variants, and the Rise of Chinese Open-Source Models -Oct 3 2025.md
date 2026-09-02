@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face — 24-Hour Snapshot: Multimodal Momentum, Efficiency Variants, and the Rise of Chinese Open-Source Models -Oct 3 2025"
+description: "New model releases / updates (last 24 hours) — what showed up · Platform / ecosystem items in the last 24 hours · Research initiatives / signals (24-hour…"
 date: 2025-10-03 23:23:00 +0800
 type: post
 published: true

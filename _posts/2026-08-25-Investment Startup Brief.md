@@ -3,6 +3,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-25"
 series: "Investment & Startups"
+description: "XPeng Robotics Raises More Than $900M at a $6.3B Valuation · Blackbird Closes Record A$1.05B Venture Fund · eComID Raises $17M Seed Round for AI-Powered…"
 date: 2026-08-25 20:33:00 +0800
 type: post
 published: true

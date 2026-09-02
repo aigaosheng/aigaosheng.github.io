@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-08"
 series: "AI & Fintech"
+description: "ABN AMRO Partners With Mistral AI to Develop Custom Banking AI · Rabobank Commits Up to €2 Billion to Scale AI · AI Moves From Experimentation Toward Core…"
 date: 2026-08-08 16:59 +0800
 type: post
 published: true

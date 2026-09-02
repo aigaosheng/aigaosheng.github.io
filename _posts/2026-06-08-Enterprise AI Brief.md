@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-08"
 series: "Enterprise AI"
+description: "Tencent Positions Engineering as Enterprise AI Battleground with WorkBuddy Launch · NTT DATA & Google Cloud Pledge 500 Agents to Bridge AI…"
 date: 2026-06-08 21:50:00 +0800
 type: post
 published: true

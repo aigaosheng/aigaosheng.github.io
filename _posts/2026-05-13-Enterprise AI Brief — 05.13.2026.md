@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 05.13.2026"
 series: "Enterprise AI"
+description: "OpenAI Launches $10B ‘Deployment Company’ to Embed AI Directly into Enterprise Workflows Source · AInvest · Publish Date: May 12, 2026 Summary · OpenAI has…"
 date: 2026-05-13 19:47:00 +0800
 type: post
 published: true

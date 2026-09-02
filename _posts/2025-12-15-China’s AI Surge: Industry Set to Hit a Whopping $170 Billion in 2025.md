@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s AI Surge - Industry Set to Hit a Whopping $170 Billion in 2025"
+description: "A Turning Point for AI Tech and Real-World Impact · Why China’s AI Roars Ahead"
 date: 2025-12-15 21:20:00 +0800
 type: post
 published: true

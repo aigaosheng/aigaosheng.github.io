@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Preparing the Web for Agentic AI: Charting the Shift from Human Clicks to Machine Intent"
+description: "What is Agentic AI and the Agentic Web · Why the Current Web Falls Short · What Needs to Change: Web Architecture & Strategy for Agentic AI · Semantic &…"
 date: 2025-10-27 20:38:00 +0800
 type: post
 published: true

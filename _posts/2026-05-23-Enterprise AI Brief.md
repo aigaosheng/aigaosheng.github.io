@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-23"
 series: "Enterprise AI"
+description: "Anthropic’s CEO Warns of SaaS Disruption; CIOs Told to Prepare for Shift · Microsoft and Uber Reveal the Harsh Economics of AI: Token Costs Outpace Labor…"
 date: 2026-05-23 19:11:00 +0800
 type: post
 published: true

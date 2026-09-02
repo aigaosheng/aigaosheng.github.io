@@ -2,6 +2,7 @@
 layout: post
 title: "Hugging Face Weekly- Medical RL Breakthroughs, VLA & Video‑Multimodal Research Surge Feb 21–Feb 28 2026"
 series: "AI Company Watch"
+description: "Medical Reinforcement Learning Emerges as a Leading Research Frontier · Regionally Adapted Language Models Gain Traction · Multimodal & Action‑Centered…"
 date: 2026-02-28 17:14:00 +0800
 type: post
 published: true

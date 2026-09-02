@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-22"
 series: "AI & Fintech"
+description: "JPMorgan Chase to Deploy Advanced AI Agents, Signaling Enterprise Shift · Mastercard and Aave Partner to Build Machine-Speed Payments Layer for AI Agents…"
 date: 2026-06-22 20:24:00 +0800
 type: post
 published: true

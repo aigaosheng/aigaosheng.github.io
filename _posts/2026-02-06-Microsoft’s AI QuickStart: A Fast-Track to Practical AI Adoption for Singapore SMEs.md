@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft’s AI QuickStart- A Fast-Track to Practical AI Adoption for Singapore SMEs"
+description: "Singapore’s small and medium-sized enterprises (SMEs) are getting a powerful new runway into practical artificial intelligence (AI). On 6 February 2026…"
 date: 2026-02-06 20:37:00 +0800
 type: post
 published: true

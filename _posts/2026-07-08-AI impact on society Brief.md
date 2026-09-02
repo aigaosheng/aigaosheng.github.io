@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-08"
 series: "AI & Society"
+description: "UN Launches Global Dialogue on AI Governance as Nations Push for Safer and More Inclusive AI · San Francisco’s AI Adoption Shows Uneven Impact Across…"
 date: 2026-07-08 21:12:00 +0800
 type: post
 published: true

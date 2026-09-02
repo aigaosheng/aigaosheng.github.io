@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-07-16"
 series: "Singapore"
+description: "Singapore’s AI-driven manufacturing surge strengthens 2026 growth outlook · GovTech begins multi-phase restructuring amid shift toward technical…"
 date: 2026-07-16 22:00:00 +0800
 type: post
 published: true

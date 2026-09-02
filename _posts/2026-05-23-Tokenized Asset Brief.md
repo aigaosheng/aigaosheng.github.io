@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-05-23"
 series: "Tokenized Assets"
+description: "SEC Delays Innovation Exemption for Tokenized Stocks Amid Industry Pushback · Commissioner Peirce Limits Scope of Tokenized Stock Exemption · Market Reacts…"
 date: 2026-05-23 19:41:00 +0800
 type: post
 published: true

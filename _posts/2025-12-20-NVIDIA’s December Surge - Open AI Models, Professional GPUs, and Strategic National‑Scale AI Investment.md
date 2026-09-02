@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NVIDIA December Surge - Open AI Models, Professional GPUs, and Strategic National‑Scale AI Investment"
+description: "NVIDIA Debuts Nemotron 3 Family of Open Models · NVIDIA RTX PRO 5000 72GB Blackwell GPU Now Generally Available · NVIDIA to Join U.S. DOE Genesis Mission…"
 date: 2025-12-20 21:35:00 +0800
 type: post
 published: true

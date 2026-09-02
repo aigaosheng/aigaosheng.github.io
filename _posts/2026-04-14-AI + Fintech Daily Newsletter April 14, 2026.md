@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Daily Newsletter April 14, 2026"
 series: "AI & Fintech"
+description: "OpenAI Acquires Personal Finance Startup Hiro · Primitive Launches AI Agent OS for Financial Institutions · Ratio Raises $15.8M to Scale AI-Powered B2B…"
 date: 2026-04-14 20:33:00 +0800
 type: post
 published: true

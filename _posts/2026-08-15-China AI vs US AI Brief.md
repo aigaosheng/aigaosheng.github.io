@@ -2,6 +2,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-15"
 series: "US & China AI"
+description: "U.S. Moves to Force Countries to Choose Between Its AI Coalition and China · Alibaba's Qwen Models Pass 3 Billion Downloads, Highlighting China's…"
 date: 2026-08-15 21:16 +0800
 type: post
 published: true

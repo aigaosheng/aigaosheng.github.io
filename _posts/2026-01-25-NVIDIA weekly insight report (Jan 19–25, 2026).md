@@ -2,6 +2,7 @@
 layout: post
 title: "NVIDIA weekly insight report (Jan 19–25, 2026)"
 series: "AI Company Watch"
+description: "GeForce NOW: Flight Controls Support & New Games · NVIDIA & Eli Lilly: AI Co‑Innovation Lab for Drug Discovery · GeForce NOW Weekly Community Update…"
 date: 2026-01-25 17:09:00 +0800
 type: post
 published: true

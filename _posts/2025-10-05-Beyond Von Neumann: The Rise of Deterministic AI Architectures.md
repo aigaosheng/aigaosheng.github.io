@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Beyond Von Neumann: The Rise of Deterministic AI Architectures"
+description: "What Is Deterministic Execution? · Why It Matters for Enterprise AI · A Path Forward for Enterprise Computing"
 date: 2025-10-05 18:25:00 +0800
 type: post
 published: true

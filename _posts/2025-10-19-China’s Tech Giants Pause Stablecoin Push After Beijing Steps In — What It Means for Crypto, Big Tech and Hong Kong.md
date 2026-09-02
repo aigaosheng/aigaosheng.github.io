@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s Tech Giants Pause Stablecoin Push After Beijing Steps In — What It Means for Crypto, Big Tech and Hong Kong"
+description: "The story in a paragraph · Key facts & takeaways · Deeper reflections — reading between the lines · What to watch next"
 date: 2025-10-19 18:20:00 +0800
 type: post
 published: true

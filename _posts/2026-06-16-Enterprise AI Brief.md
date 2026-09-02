@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-16"
 series: "Enterprise AI"
+description: "SK AX Unveils Vision for 'Agentic Enterprise' Powered by AI · Salesforce to Buy AI Agent Platform Fin for About $3.6 Billion · Dataiku Announces Cobuild…"
 date: 2026-06-16 20:35:14 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Surge Powers U.S. Economy - From Data Centers to Market Highs"
+description: "A quiet revolution is rippling through the U.S. economy — and it’s driven not by housing booms or consumer spending, but by the rise of artificial…"
 date: 2025-10-31 21:37:00 +0800
 type: post
 published: true

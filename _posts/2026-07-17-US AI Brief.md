@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-17"
 series: "US & China AI"
+description: "Anthropic Pushes U.S. States Toward Stronger Frontier AI Regulation · Alphabet Shares Fall After Gemini 3.5 Pro Delay · Google AI Delay Triggers Wider AI…"
 date: 2026-07-17 21:20:00 +0800
 type: post
 published: true

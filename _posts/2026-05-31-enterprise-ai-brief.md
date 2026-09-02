@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-31"
 series: "Enterprise AI"
+description: "Cyient agrees to acquire TAO Digital to deepen AI-native enterprise capabilities · Parloa expands its enterprise AI partnership network across SAP…"
 date: 2026-05-31 20:13:28 +0800
 type: post
 published: true

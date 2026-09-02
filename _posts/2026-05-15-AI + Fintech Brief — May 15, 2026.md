@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — May 15, 2026"
 series: "AI & Fintech"
+description: "Fiserv and OpenAI Partner to Bring Frontier AI to Banking with agentOS Launch · Alipay Launches AI-Powered Delegated Purchasing on Taobao · NowVertical…"
 date: 2026-05-15 20:32:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "“AI Denial” Is the Real Enterprise Threat - Why Calling Everything “Slop” Undermines How Far AI Has Come"
+description: "The “Slop” Dismissal: A Dangerous Oversimplification · Why This Denial Matters — Especially for Enterprises · What’s Really Changing — And Why Enterprises…"
 date: 2025-12-06 19:28:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Becomes a Mirror of the Mind — The Alarming Rise of “AI Psychosis” Complaints"
+description: "The Complaints: From Subscription Issues to Existential Crises · What Experts Say: Reinforcing the Vulnerable Mind · The Response from the AI Provider &…"
 date: 2025-10-26 17:59:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-05-18"
 series: "AI Governance & Regulation"
+description: "Australian Regulators Issue Urgent Calls for AI Cyber Resilience · EU AI Act Amendments Finalized: Timeline Relief and New Prohibitions · China Accelerates…"
 date: 2026-05-18 20:20:00 +0800
 type: post
 published: true

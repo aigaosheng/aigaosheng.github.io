@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC Radar-Week of March 8–14, 2026 — Mega-Rounds, Robotics Surge & Legal AI Unicorns"
+description: "Mind Robotics · $500M Series A · Mar 11 · Rhoda AI · $450M Series A · Mar 10 · Replit · $400M Series D · Mar 11 · Nebius · $2B Strategic Investment · Mar…"
 date: 2026-03-14 16:18:00 +0800
 type: post
 published: true

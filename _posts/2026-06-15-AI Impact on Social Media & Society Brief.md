@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-15"
 series: "AI & Society"
+description: "Canada Unveils Sweeping Digital Safety Bill Targeting Social Media and AI Chatbots · UK Bans Social Media for Under-16s, Restricts AI Chatbots · Zuckerberg…"
 date: 2026-06-15 20:51:00 +0800
 type: post
 published: true

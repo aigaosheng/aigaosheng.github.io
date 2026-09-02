@@ -2,6 +2,7 @@
 layout: post
 title: "US AI and China AI Brief — 2026-07-21"
 series: "US & China AI"
+description: "US and China Plan First Formal AI Talks Amid Rising Competition · Chinese AI Models Trigger New Debate Among US AI Leaders · China’s AI Progress Challenges…"
 date: 2026-07-21 21:23:14 +0800
 type: post
 published: true

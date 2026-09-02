@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-13"
 series: "AI & Fintech"
+description: "Visa Partners with OpenAI as Card Networks Race to Dominate Agentic Payments · Lloyds Bank Deploys Agentic AI to Fight Real-Time Fraud · The First Bank to…"
 date: 2026-06-13 20:25:00 +0800
 type: post
 published: true

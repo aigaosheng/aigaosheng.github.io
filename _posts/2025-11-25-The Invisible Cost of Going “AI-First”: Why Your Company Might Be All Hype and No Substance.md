@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Invisible Cost of Going “AI-First” - Why Your Company Might Be All Hype and No Substance"
+description: "The Illusion of Innovation · The “Great Reversal”: From Curiosity to Compliance · Two Types of Leaders — and Their Impact · Where AI Actually Works — and…"
 date: 2025-11-25 20:42:00 +0800
 type: post
 published: true

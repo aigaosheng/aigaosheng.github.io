@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI’s Productivity Promise Collides with “Workslop” - Lessons from Deloitte and the New Office Crisis"
+description: "The Deloitte Incident: When Major AI Goes Off the Rails · See the Difference: Workslop vs. High-Quality AI Output · Why This Matters: Trust, Training, and…"
 date: 2025-10-25 21:47:00 +0800
 type: post
 published: true

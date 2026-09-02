@@ -3,6 +3,7 @@
 layout: post
 title: "AI Research and Open-Source LLM Brief — 2026-08-26"
 series: "AI Research & Open Source"
+description: "Alibaba Releases Qwen3.8-Flash-Next as an Early Preview of Qwen4 Architecture · TamperBench Finds Safety Guardrails Can Be Defeated Across Tested…"
 date: 2026-08-26 20:46:00 +0800
 type: post
 published: true

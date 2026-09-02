@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Quiet Labor Shock - Why America’s “Low-Hire, Low-Fire” Era Is Ending"
+description: "The Era of Labor Limbo · Hiring Stalls, Layoffs Rise · Why You Should Care · The Forces Behind the Shift"
 date: 2025-11-03 21:45:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Unpacking Apple’s Local AI Revolution"
+description: "Real Apps, Real Use Cases · Why Local AI Matters (Now) · Challenges & Future Directions"
 date: 2025-09-26 23:15:00 +0800
 type: post
 published: true

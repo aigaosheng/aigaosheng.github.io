@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Most Enterprises Are Measuring the Wrong Part of RAG — And What They Should Focus On Instead"
+description: "The Core Problem: Misaligned Metrics · Treating Retrieval as Infrastructure"
 date: 2026-02-02 20:00:00 +0800
 type: post
 published: true

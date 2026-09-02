@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Israeli Venture Capital Stakes $250M on the Future of AI and Fintech Innovation"
+description: "Two Funds, One Strategic Ambition · Why This Matters Now · Glossary of Key Terms"
 date: 2025-12-16 21:07:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google's Virtual Try-On Shopping Tool Expands to More Countries and Now Lets You Try on Shoes"
+description: "In a significant move to enhance online shopping experiences, Google has expanded its AI-powered virtual try-on shopping tool to more countries, including…"
 date: 2025-10-08 23:23:00 +0800
 type: post
 published: true

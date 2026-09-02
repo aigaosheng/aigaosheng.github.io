@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Asia Tycoon Backs $1.5 B AI Push Through Private Credit Funds"
+description: "In a bold move that underscores growing confidence in artificial intelligence infrastructure — and a willingness to bypass traditional equity routes — one…"
 date: 2025-11-25 21:34:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Say It Twice - How a Dead‑Simple Prompt Trick Supercharges LLM Accuracy"
+description: "The Breakthrough: Prompt Repetition Works · Why Saying It Again Helps — The Causal Blind Spot · A “Free Lunch” With Minimal Latency Impact · Where It Helps…"
 date: 2026-01-15 20:29:00 +0800
 type: post
 published: true

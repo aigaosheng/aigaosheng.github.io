@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Funding Snapshot (Jan 18–25, 2026)"
 series: "Investment & Startups"
+description: "Market Outlook (Actionable Insights)"
 date: 2026-01-25 11:00:00 +0800
 type: post
 published: true

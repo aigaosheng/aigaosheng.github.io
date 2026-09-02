@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+Startup Brief — 2026-05-22"
 series: "Investment & Startups"
+description: "State-Backed Funds Pile Into China’s Top AI Startups · Viral Feud Exposes Frenzied State of AI Startup Funding · SMU Launches $10 Million Fund for Urban…"
 date: 2026-05-22 20:14:00 +0800
 type: post
 published: true

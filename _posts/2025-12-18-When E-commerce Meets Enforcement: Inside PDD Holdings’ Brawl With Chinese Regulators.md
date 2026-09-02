@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When E-commerce Meets Enforcement - Inside PDD Holdings’ Brawl With Chinese Regulators"
+description: "In an unprecedented escalation between China’s tech giants and government watchdogs, PDD Holdings Inc.—the parent company of popular platforms Pinduoduo…"
 date: 2025-12-18 21:14:00 +0800
 type: post
 published: true

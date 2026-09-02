@@ -2,6 +2,7 @@
 layout: post
 title: "Google Weekly Insight Report Feb 21, 2026"
 series: "AI Company Watch"
+description: "Gemini 3.1 Pro Launch — Strategic Leap in Core Reasoning · Creative Generative AI — Music & Workspace Integration · Broader Momentum: Upcoming Google I/O &…"
 date: 2026-02-21 19:50:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Daily Newsletter April 6, 2026"
 series: "Investment & Startups"
+description: "Ridge AI Emerges from Stealth with $2.6M Pre-Seed for AI-Native Analytics · SatLeo Labs Raises $2.2M Seed for Space-Based Thermal Intelligence · Market…"
 date: 2026-04-06 20:37:00 +0800
 type: post
 published: true

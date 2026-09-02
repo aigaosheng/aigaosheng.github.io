@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-10"
 series: "Tokenized Assets"
+description: "Securitize CEO Predicts $5 Trillion Market from Tokenized Stocks · Robinhood Document Confirms Ripple’s Hundreds of Millions in Tokenized Assets · Ripple…"
 date: 2026-06-10 20:49:00 +0800
 type: post
 published: true

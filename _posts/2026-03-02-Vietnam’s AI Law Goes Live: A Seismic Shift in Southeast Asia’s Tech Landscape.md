@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vietnam’s AI Law Goes Live- A Seismic Shift in Southeast Asia’s Tech Landscape"
+description: "From Draft to Reality: What Just Happened · Key Components of the Law · Human-Centred and Transparent Use · Innovation and Competitive Strategy"
 date: 2026-03-02 19:43:00 +0800
 type: post
 published: true

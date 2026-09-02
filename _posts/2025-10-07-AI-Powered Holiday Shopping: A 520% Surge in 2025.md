@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI-Powered Holiday Shopping: A 520% Surge in 2025"
+description: "The 2025 U.S. holiday shopping season is poised for a technological transformation. Adobe predicts that AI-assisted online shopping will experience a…"
 date: 2025-10-07 23:28:00 +0800
 type: post
 published: true

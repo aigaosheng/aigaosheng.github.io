@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-13"
 series: "AI & Society"
+description: "Canada Unveils Sweeping Legislation to Regulate Social Media and AI Chatbots · Meta’s Zuckerberg Admits “Mistakes” in AI Transformation · Anthropic Warns…"
 date: 2026-06-13 20:56:00 +0800
 type: post
 published: true

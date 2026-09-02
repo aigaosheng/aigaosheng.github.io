@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly VC & Accelerator Pulse — Nov 8–15, 2025"
 series: "Investment & Startups"
+description: "Key Deals & Investor Moves · Market Trends & Analyst Commentary · Flight Toward Revenue-Backed AI · Early-Stage AI: Virality vs. Depth"
 date: 2025-11-15 21:53:00 +0800
 type: post
 published: true

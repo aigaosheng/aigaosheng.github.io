@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — April 24, 2026"
 series: "Investment & Startups"
+description: "Cohere acquires Aleph Alpha in major European AI consolidation move · Jeff Bezos-backed AI lab Project Prometheus raises $10B · Legal AI startup Legora…"
 date: 2026-04-24 22:19:00 +0800
 type: post
 published: true

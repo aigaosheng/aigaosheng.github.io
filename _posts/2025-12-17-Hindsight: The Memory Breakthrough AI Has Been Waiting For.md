@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hindsight - The Memory Breakthrough AI Has Been Waiting For"
+description: "What Makes Hindsight Different?"
 date: 2025-12-17 20:59:00 +0800
 type: post
 published: true

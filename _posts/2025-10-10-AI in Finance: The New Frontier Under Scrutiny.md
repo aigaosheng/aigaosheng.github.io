@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI in Finance: The New Frontier Under Scrutiny"
+description: "Why Regulators Are Watching AI Closely · Emerging Risks: Cyberattacks and Fraud"
 date: 2025-10-10 23:44:00 +0800
 type: post
 published: true

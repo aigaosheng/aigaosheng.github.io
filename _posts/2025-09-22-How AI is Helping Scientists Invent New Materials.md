@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How AI is Helping Scientists Invent New Materials
+description: "Glossary (in plain language)"
 date: 2025-09-22 23:20:00 +0800
 type: post
 published: true

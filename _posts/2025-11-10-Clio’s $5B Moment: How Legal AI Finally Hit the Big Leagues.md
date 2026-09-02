@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Clio’s $5B Moment - How Legal AI Finally Hit the Big Leagues"
+description: "What to Watch Next"
 date: 2025-11-10 22:48:00 +0800
 type: post
 published: true

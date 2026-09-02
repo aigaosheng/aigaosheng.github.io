@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-12"
 series: "AI & Fintech"
+description: "Mastercard Launches Agent Pay for Machines, Enabling AI-to-AI Payments · Visa and OpenAI Partner to Embed Payments Directly into ChatGPT · Ripple Enters…"
 date: 2026-06-12 19:58:00 +0800
 type: post
 published: true

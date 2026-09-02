@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-20"
 series: "AI Research & Open Source"
+description: "AI Autonomously Disproves 80-Year-Old Mathematical Conjecture · AI Achieves \"Near-Autonomous\" Discovery in Chemistry · Anthropic's \"When AI Builds Itself\"…"
 date: 2026-06-20 20:46:00 +0800
 type: post
 published: true

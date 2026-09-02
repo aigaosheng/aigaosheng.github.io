@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-07"
 series: "US & China AI"
+description: "Trump Confirms Discussions on Government Taking Equity Stakes in AI Companies · US Accelerates AI Integration for National Security and Defense · AI Stocks…"
 date: 2026-06-07 10:30:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "11 Oddball Technology Records You Probably Didn’t Know"
+description: "The Computer That Never Sleeps · The Quietest Place on Earth · The Battery That Outlived Empires · Brain Typing at Lightning Speed"
 date: 2025-10-09 22:42:00 +0800
 type: post
 published: true

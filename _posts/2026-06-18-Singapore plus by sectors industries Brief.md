@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore plus by sectors industries Brief — 2026-06-18"
 series: "Singapore"
+description: "Singapore Reclaims Top Spot in IMD World Competitiveness Ranking · MAS Survey Shows Singapore's 2026 Growth Forecast Resilient at 3.5%, Driven by AI Demand"
 date: 2026-06-18 21:30:00 +0800
 type: post
 published: true

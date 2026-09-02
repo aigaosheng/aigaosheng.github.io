@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-28"
 series: "Fintech & AI"
+description: "Socure Reaches $5.2 Billion Valuation in AI-Driven Fraud and Compliance Push · Banks Adopt AI Faster Than They Measure Its Revenue Impact · Stripe and…"
 date: 2026-08-28 20:39:00 +0800
 type: post
 published: true

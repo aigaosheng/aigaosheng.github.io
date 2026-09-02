@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The End of Traditional Web Search? How Nimble’s Agentic Platform Is Powering AI’s Next Frontier"
+description: "From Humans to Machines: Why This Matters · How Agentic Search Works · Enterprise Adoption and Use Cases · What This Means for Web Search and AI"
 date: 2026-02-25 20:31:00 +0800
 type: post
 published: true

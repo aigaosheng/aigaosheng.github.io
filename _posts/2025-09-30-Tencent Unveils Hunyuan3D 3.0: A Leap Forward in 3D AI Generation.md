@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tencent Unveils Hunyuan3D 3.0: A Leap Forward in 3D AI Generation"
+description: "At the 2025 Tencent Global Digital Ecosystem Conference, the company introduced Hunyuan3D 3.0, a model boasting triple the precision and enhanced realism…"
 date: 2025-09-30 09:30:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: “Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations”
+description: "Research topic and objective · Key findings and conclusions · Critical data and facts · Potential applications or implications"
 date: 2025-10-01 21:23:00 +0800
 type: post
 published: true

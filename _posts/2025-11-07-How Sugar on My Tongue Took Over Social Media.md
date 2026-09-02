@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Sugar on My Tongue Took Over Social Media"
+description: "The Anatomy of a Trend · Beyond the Fridge: What It Reveals · Takeaways for Creators, Brands, and Analysts"
 date: 2025-11-07 21:38:00 +0800
 type: post
 published: true

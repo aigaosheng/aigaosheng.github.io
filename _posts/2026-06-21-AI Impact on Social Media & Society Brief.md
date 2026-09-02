@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-21"
 series: "AI & Society"
+description: "AI Slop Now Dominates TikTok Feeds, Report Finds · Tech Workers Shift from 'Tokenmaxxing' to 'Tokenminning' as AI Costs Soar · Canadian Conservative Party…"
 date: 2026-06-21 17:13:00 +0800
 type: post
 published: true

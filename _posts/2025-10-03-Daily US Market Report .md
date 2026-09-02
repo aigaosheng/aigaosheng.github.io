@@ -2,6 +2,7 @@
 layout: post
 title: "Daily US Market Report - Oct 3, 2025"
 series: "Market Reports"
+description: "Daily US Market Report — (only last 24 hours) · Companies in focus (what moved and why) · Breaking news (last 24 hours) · Social media sentiment (Reddit…"
 date: 2025-10-03 09:32:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Disrupts the Borrower Why Banks Are Rethinking Lending Risk"
+description: "AI Is Rewriting Business Models—and Risk Models · The Shock Is Already Reaching Financial Markets · AI’s Paradox for Finance · A New Era of Credit Risk"
 date: 2026-03-05 20:37:00 +0800
 type: post
 published: true

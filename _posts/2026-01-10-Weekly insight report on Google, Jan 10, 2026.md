@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Google insight report, Jan 10, 2026"
 series: "AI Company Watch"
+description: "Gmail Enters the Gemini Era — “AI Inbox” & AI Overviews (Official Google Blog, Jan 2026) · Gemini for Google TV — New AI Features Previewed at CES 2026…"
 date: 2026-01-10 20:05:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI governance, risk and compliance Brief — 2026-06-04"
 series: "AI Governance & Regulation"
+description: "OpenAI, Anthropic and other AI leaders back synthetic DNA screening rules · India’s Supreme Court circulates draft AI filing rules requiring disclosure of…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

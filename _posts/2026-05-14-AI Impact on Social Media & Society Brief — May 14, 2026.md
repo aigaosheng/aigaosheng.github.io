@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — May 14, 2026"
 series: "AI & Society"
+description: "Instagram Now Publicly Flags AI-Generated Accounts with \"AI Creator\" Badge Source · Sudor Apps · May 13, 2026 Instagram has begun publicly labeling…"
 date: 2026-05-14 20:55:00 +0800
 type: post
 published: true

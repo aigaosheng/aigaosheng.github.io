@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "$30 for Your Secrets? How a Top Social App is Selling Your Phone Calls to AI Companies"
+description: "The Allure of Quick Cash"
 date: 2025-09-25 23:12:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source LLM Brief — 2026-06-22"
 series: "AI Research & Open Source"
+description: "OpenAI Opens Codex to All Open-Source Models · Chinese Open-Source Model GLM-5.2 Ranks Third Globally · Comprehensive Comparison of Llama 3 vs. Mistral vs.…"
 date: 2026-06-22 20:35:31 +0800
 type: post
 published: true

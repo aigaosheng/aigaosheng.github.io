@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Are Companies Sleepwalking into Agentic AI Sprawl?"
+description: "The Rise of Agentic AI · Key Challenges Companies Face · How to Tame AI Sprawl 🛡️"
 date: 2025-09-25 23:10:00 +0800
 type: post
 published: true

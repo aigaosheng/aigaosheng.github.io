@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-20"
 series: "AI & Fintech"
+description: "LUMIQ Raises Strategic Funding to Scale Autonomous AI Decisioning in Financial Services · SBI Holdings Backs Pints AI for Compliance-First Agentic Platform"
 date: 2026-06-20 20:36:00 +0800
 type: post
 published: true

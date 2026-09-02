@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Daily Brief — 13 May 2026"
 series: "Singapore"
+description: "Headline: Singapore’s growth panel urges city-state to attract AI giants, expand energy hub role A government-established committee recommended that…"
 date: 2026-05-13 20:28:00 +0800
 type: post
 published: true

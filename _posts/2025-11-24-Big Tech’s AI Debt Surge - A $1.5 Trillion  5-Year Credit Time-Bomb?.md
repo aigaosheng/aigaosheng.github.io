@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Big Tech’s AI Debt Surge - A $1.5 Trillion  5-Year Credit Time-Bomb?"
+description: "Imagine the world’s largest tech companies borrowing tens of billions of dollars—not to acquire a rival or launch a new smartphone, but to build out vast…"
 date: 2025-11-24 21:22:00 +0800
 type: post
 published: true

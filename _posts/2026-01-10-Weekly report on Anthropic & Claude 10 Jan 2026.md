@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly report on Anthropic & Claude 10 Jan 2026"
 series: "AI Company Watch"
+description: "Anthropic Plans $10B Funding Round at $350B Valuation · Claude Code Adoption and “Infinite Vibe Coding” Narrative · Observations on Official Announcements…"
 date: 2026-01-10 19:57:00 +0800
 type: post
 published: true

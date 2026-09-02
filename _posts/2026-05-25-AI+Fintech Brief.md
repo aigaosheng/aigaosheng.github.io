@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-25"
 series: "AI & Fintech"
+description: "Mercury Hits $5.2B Valuation Fueled by AI Startup Boom · Primitive Launches AI Agent OS for Regulated Finance · HSBC CEO Urges Workforce to Embrace AI or…"
 date: 2026-05-25 19:38:00 +0800
 type: post
 published: true

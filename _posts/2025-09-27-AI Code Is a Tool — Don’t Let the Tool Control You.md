@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Code Is a Tool — Don’t Let the Tool Control You"
+description: "The New Competitive Capabilities · Problem Framing & System Thinking · Architecture & Design Mastery · Critical Judgment & Debugging"
 date: 2025-09-27 09:33:00 +0800
 type: post
 published: true

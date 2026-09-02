@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Choosing a Reranker - Cohere Rerank 3.5 vs Opensource Reranker LLM Model"
+description: "First, a benchmark caveat · The landscape: why these aren't all the same category · Context window vs the Bedrock per-document limit · How managed…"
 date: 2026-07-02 12:27:00 +0800
 type: post
 published: true

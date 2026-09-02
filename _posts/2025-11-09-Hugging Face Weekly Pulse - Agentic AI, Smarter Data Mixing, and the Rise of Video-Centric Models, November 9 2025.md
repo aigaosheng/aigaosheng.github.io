@@ -2,6 +2,7 @@
 layout: post
 title: "Hugging Face Weekly Pulse - Agentic AI, Smarter Data Mixing, and the Rise of Video-Centric Models, November 9 2025"
 series: "AI Company Watch"
+description: "Hugging Face Weekly Pulse: Agentic AI, Smarter Data Mixing, and the Rise of Video-Centric Models"
 date: 2025-11-09 10:51:00 +0800
 type: post
 published: true

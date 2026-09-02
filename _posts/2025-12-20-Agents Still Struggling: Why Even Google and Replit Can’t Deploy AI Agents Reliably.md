@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agents Still Struggling - Why Even Google and Replit Can’t Deploy AI Agents Reliably"
+description: "Why the Hype Isn’t Matching Reality · Cultural and Security Challenges · What This Means for the Future · Glossary of Key Terms"
 date: 2025-12-20 19:40:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly Digest — Pulse of Payments & AI — 25 January 2026"
 series: "AI & Fintech"
+description: "In-Depth Highlight — PayPal’s Push into Agentic Commerce*** · Market & Industry Insight · Company & Startup Spotlight · Regulatory & Policy Watch"
 date: 2026-01-25 10:30:00 +0800
 type: post
 published: true

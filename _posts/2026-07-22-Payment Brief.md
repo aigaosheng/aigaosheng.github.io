@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-22"
 series: "Payments"
+description: "Bir Partners With UnionPay to Expand Card Acceptance Across Azerbaijan · Zip Co Exits New Zealand BNPL Market After Strategic Review · Apple Reportedly…"
 date: 2026-07-22 20:20:00 +0800
 type: post
 published: true

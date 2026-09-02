@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ship Fast, Optimize Later - Why Top AI Engineers Don’t Care About Cost—Yet"
+description: "The New Reality of AI Deployment · Key Insights for AI Strategy · What This Means for Builders and Innovators"
 date: 2025-11-08 20:17:00 +0800
 type: post
 published: true

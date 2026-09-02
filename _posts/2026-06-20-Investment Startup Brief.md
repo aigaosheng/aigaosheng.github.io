@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-20"
 series: "Investment & Startups"
+description: "AI Startups Dominate as Mega-Rounds Reshape Venture Capital Landscape · Indian Startup Funding Surges 79% to $403 Million Led by Sarvam's $234 Million…"
 date: 2026-06-20 20:43:00 +0800
 type: post
 published: true

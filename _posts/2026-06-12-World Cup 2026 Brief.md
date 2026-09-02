@@ -2,6 +2,7 @@
 
 layout: post
 title: "World Cup 2026 Brief — 2026-06-12"
+description: "FIFA World Cup 2026 Officially Kicks Off in Mexico City · Visa Controversy Overshadows Opening Week · Somali Referee Denied Entry to World Cup Receives…"
 date: 2026-06-12 20:10:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Search Gets Smarter — and Riskier - The Changing Role of AI in How We Find Information"
+description: "What’s really going on · Why it matters (especially for you) · What to watch out for"
 date: 2025-10-29 22:20:00 +0800
 type: post
 published: true

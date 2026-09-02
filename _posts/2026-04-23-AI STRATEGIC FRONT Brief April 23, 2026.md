@@ -2,6 +2,7 @@
 layout: post
 title: "AI STRATEGIC FRONT Brief April 23, 2026"
 series: "AI Industry News"
+description: "Chinese Cybersecurity AI Matches Performance of US \"Claude Mythos\" Source + Publish Date: SecurityWeek | April 23, 2026 ** 360 Digital Security Group, a…"
 date: 2026-04-23 21:47:00 +0800
 type: post
 published: true

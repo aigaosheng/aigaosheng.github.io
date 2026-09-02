@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Telecoms Under Cyber Siege- What You Need to Know"
+description: "Strategic Targeting, Strategic Defence · Operation Cyber Guardian: Singapore’s Biggest Cyber Defence · Context: Global Telco Cyber Risks"
 date: 2026-02-09 19:56:00 +0800
 type: post
 published: true

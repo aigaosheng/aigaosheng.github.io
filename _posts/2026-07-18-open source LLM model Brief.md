@@ -2,6 +2,7 @@
 layout: post
 title: "open source LLM model Brief — 2026-07-18"
 series: "AI Research & Open Source"
+description: "Moonshot AI Releases Kimi K3, Signaling a New Phase for Open-Weight Frontier Models · Open-Source AI Becomes a Strategic Focus at 2026 World AI Conference…"
 date: 2026-07-18 21:36:14 +0800
 type: post
 published: true

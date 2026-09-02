@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Bulldozers Get Brains - How Caterpillar & Nvidia Are Bringing AI Into the Dirt"
+description: "At CES 2026, two unlikely partners turned heads with a vision that could redefine construction as we know it: Caterpillar, the century-old heavy machinery…"
 date: 2026-01-08 19:55:00 +0800
 type: post
 published: true

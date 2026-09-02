@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore’s Olea Secures $30M Series A, Backed by SC Ventures and Global Investors to Transform Trade Finance"
+description: "A Funding Round with a Strategic Cast · What’s Next for Olea"
 date: 2025-12-16 21:00:00 +0800
 type: post
 published: true

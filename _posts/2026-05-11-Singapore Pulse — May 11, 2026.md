@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Pulse — May 11, 2026"
 series: "Singapore"
+description: "UOB Kay Hian ‘Alpha Picks’ outperform STI in April; Oiltek in for May, Singtel out Source · The Business Times · May 11, 2026 Summary · The UOBKH Singapore…"
 date: 2026-05-11 20:56:00 +0800
 type: post
 published: true

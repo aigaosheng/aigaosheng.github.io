@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Latest (last 24 hours) arXiv picks — 3 Oct 2025"
+description: "1 KaVa: Latent Reasoning via Compressed KV-Cache Distillation · 2 Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject Fidelity · 3…"
 date: 2025-10-03 22:40:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agentic AI Is Rewriting Startup Logic: From “Building Tools” to “Delivering Outcomes”"
+description: "The Strategic Shift: From Features → Outcomes · Moats Are No Longer Static — They’re Kinetic · The Real Competitive Edge: Outspeeding, Not Outbuilding…"
 date: 2025-10-19 22:22:00 +0800
 type: post
 published: true

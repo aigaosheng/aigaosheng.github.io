@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 28 April 2026"
 series: "AI & Society"
+description: "South Africa withdraws AI policy after fake AI-generated citations found · Taylor Swift moves to trademark voice and image to combat AI deepfakes…"
 date: 2026-04-28 20:58:00 +0800
 type: post
 published: true

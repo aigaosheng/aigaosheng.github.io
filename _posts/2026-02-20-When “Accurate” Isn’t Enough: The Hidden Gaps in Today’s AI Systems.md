@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When “Accurate” Isn’t Enough: The Hidden Gaps in Today’s AI Systems"
+description: "Why AI That Gets the Facts Right Can Still Mislead — And How Enterprises Are Trying to Fix It · Accuracy Without Authority Can Be Misleading · From…"
 date: 2026-02-20 21:17:00 +0800
 type: post
 published: true

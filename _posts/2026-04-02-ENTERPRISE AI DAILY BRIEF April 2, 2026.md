@@ -2,6 +2,7 @@
 layout: post
 title: "ENTERPRISE AI DAILY BRIEF April 2, 2026"
 series: "Enterprise AI"
+description: "Thursday, April 2, 2026 · TODAY’S TOP ENTERPRISE AI STORIES · Gartner: Enterprises Will Abandon “Assistive AI” by 2028 · OutSystems Launches “Agentic…"
 date: 2026-04-02 20:53:00 +0800
 type: post
 published: true

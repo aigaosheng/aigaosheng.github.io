@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore’s Trust Bank Breaks Ground with In-App Fractional Trading of US Stocks & ETFs"
+description: "A Simpler Path to Global Markets · Meeting Investors Where They Are"
 date: 2026-01-20 20:19:00 +0800
 type: post
 published: true

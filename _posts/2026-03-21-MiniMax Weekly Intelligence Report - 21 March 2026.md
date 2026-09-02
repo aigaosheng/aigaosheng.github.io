@@ -2,6 +2,7 @@
 layout: post
 title: "MiniMax Weekly Intelligence Report - 21 March 2026"
 series: "AI Company Watch"
+description: "Story 1: M2.7 — The Self-Evolving Model · Story 2: The OpenClaw Rally — MiniMax as China's Agentic AI Proxy · Story 3: FY2025 Earnings — The Underlying…"
 date: 2026-03-21 21:34:00 +0800
 type: post
 published: true

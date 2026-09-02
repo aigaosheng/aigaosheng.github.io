@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Identity for Secure Enterprise Agentic AI"
+description: "Governing Non-Human Identities in the Age of Autonomous Agents"
 date: 2026-03-20 21:22:00 +0800
 type: post
 published: true

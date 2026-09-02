@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside Viking Global’s AI Leap: VikingGPT Shows Hedge Funds the Future—But Humans Still Call the Shots"
+description: "Vikings, Bots, & the New Trading Playbook · The Deeper Shift: Wall Street Wants Smart Machines, Not Smart Replacements"
 date: 2025-10-18 23:54:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI+Payment Newsletter April 3, 2026 "
 series: "Payments"
+description: "Visa Defines \"B2AI\": The Era Where AI Becomes the Customer · Consumer Trust in Autonomous AI Payments Remains a Hurdle · Visa Deploys Generative AI Tools…"
 date: 2026-04-03 21:40:00 +0800
 type: post
 published: true

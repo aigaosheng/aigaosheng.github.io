@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — May 15, 2026"
 series: "Tokenized Assets"
+description: "Global Tokenization Market Reaches $50 Billion as BOK Highlights Liquidity Risks Source · 조선일보 · May 14, 2026 Summary · The Bank of Korea (BOK) reported…"
 date: 2026-05-15 20:57:00 +0800
 type: post
 published: true

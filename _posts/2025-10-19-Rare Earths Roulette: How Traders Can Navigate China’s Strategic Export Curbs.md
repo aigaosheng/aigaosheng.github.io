@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rare Earths Roulette: How Traders Can Navigate China’s Strategic Export Curbs"
+description: "Rare Earths: The Hidden Power Behind Tech and Trade · Beyond Economics: The Geopolitical Chessboard · Tech and Auto Industries Feel the Heat · Navigating…"
 date: 2025-10-19 21:33:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Artificial Intelligence Is Revealing Antarctica’s Hidden Marine Life in Seconds"
+description: "Future Challenges and Discoveries"
 date: 2025-10-24 22:12:00 +0800
 type: post
 published: true

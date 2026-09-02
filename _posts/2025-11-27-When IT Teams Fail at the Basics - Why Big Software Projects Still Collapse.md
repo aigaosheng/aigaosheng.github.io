@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When IT Teams Fail at the Basics - Why Big Software Projects Still Collapse"
+description: "Phoenix payroll system (Canada, 2016 — ongoing) · Horizon EPOS system (UK Post Office, 1999 — ongoing) · Why It Keeps Happening · Why This Matters…"
 date: 2025-11-27 20:05:00 +0800
 type: post
 published: true

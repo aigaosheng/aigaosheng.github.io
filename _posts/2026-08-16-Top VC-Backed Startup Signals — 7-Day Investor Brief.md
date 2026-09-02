@@ -2,6 +2,7 @@
 layout: post
 title: "Top VC-Backed Startup Signals — Weekly Investor Brief"
 series: "Investment & Startups"
+description: "Coverage: August 10–16, 2026 Scope: US, Europe, Asia & global | Tracked investors: Sequoia, a16z, Accel, Tiger Global, Lightspeed, SoftBank, YC, Techstars…"
 date: 2026-08-16 20:14:00 +0800
 type: post
 published: true

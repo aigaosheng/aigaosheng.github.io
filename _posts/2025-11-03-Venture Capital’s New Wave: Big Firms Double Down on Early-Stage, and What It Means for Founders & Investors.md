@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Venture Capital’s New Wave - Big Firms Double Down on Early-Stage, and What It Means for Founders & Investors"
+description: "Sequoia’s $950M Early-Stage Push · Navan’s IPO: Signals for Enterprise SaaS + Liquidity Dynamics · Accelerators Adapt: Techstars & YC’s Moves · Strategic…"
 date: 2025-11-03 21:03:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 12, 2026"
 series: "Enterprise AI"
+description: "OpenAI Launches $4B Deployment Company to Accelerate Enterprise AI Adoption Protocol AI Lab · May 11, 2026 Summary — OpenAI announced a standalone…"
 date: 2026-05-12 20:33:00 +0800
 type: post
 published: true

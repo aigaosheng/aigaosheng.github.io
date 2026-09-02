@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-27"
 series: "US & China AI"
+description: "Summer Davos 2026: AI Emerges as Central Force for Global Economic Restructuring · All in AI\" at Summer Davos: Global Capital Favors China's Hardware-First…"
 date: 2026-06-27 20:24:14 +0800
 type: post
 published: true

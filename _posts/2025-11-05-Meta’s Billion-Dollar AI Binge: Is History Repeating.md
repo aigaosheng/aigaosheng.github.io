@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meta’s Billion-Dollar AI Binge - Is History Repeating?"
+description: "Key Facts and Insights"
 date: 2025-11-05 22:46:00 +0800
 type: post
 published: true

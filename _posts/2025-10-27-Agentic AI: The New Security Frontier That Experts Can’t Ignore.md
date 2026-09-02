@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agentic AI - The New Security Frontier That Experts Can’t Ignore"
+description: "Key Insights and Implications"
 date: 2025-10-27 21:57:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-01"
 series: "AI & Society"
+description: "UN Warns Unchecked AI Could Pose Catastrophic Global Risks · UN Report Highlights Both Enormous Benefits and Significant Risks of AI · UN Launches 'AI for…"
 date: 2026-07-01 19:35:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nvidia and OpenAI's $100 Billion Virtuous Circle Has an Ugly Side"
+description: "Introduction"
 date: 2025-09-26 23:30:00 +0800
 type: post
 published: true

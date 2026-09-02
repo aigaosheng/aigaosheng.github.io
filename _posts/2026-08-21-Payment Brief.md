@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-21"
 series: "Payments"
+description: "Liquid Group and PagBrasil Launch RoamQR-Pix Cross-Border QR Payments in Brazil · Natural Secures $100 Million Facility to Scale Agentic Payments…"
 date: 2026-08-21 21:00 +0800
 type: post
 published: true

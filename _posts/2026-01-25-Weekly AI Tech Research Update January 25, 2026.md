@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update January 25, 2026"
 series: "AI Research & Open Source"
+description: "Scope: arXiv AI/ML papers submitted in the last 7 days (≈ Jan 18–25, 2026) · Focus: Cutting‑edge AI/ML research with deployment, systems, and strategy…"
 date: 2026-01-25 15:44:00 +0800
 type: post
 published: true

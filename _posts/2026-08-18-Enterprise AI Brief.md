@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-18"
 series: "Enterprise AI"
+description: "Singapore Enterprise Adoption of Agentic AI More Than Doubles · Fractal Secures $17M+ Enterprise AI Transformation Deal in U.S. Healthcare · Fiserv Brings…"
 date: 2026-08-18 19:00:00 +0800
 type: post
 published: true

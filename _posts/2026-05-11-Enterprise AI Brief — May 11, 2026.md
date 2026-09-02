@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 11, 2026"
 series: "Enterprise AI"
+description: "【Scrutiny Stalemate: AI Venture Arms Race Clashes With Sobering Failure Odds】 • Source: AInvest · May 10, 2026 • Summary: A staggering $300 billion was…"
 date: 2026-05-11 19:56:00 +0800
 type: post
 published: true

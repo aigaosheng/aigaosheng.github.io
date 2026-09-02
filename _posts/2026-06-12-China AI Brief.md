@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-12"
 series: "US & China AI"
+description: "Nvidia Pitches Vera CPUs to Chinese Clients as US Export Curbs Bite · Huawei Assumes Nvidia's AI Mantle as Chinese Internet Giants Shift Workloads · China…"
 date: 2026-06-12 20:00:00 +0800
 type: post
 published: true

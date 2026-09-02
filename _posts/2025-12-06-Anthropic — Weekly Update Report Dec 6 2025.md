@@ -2,6 +2,7 @@
 layout: post
 title: "Anthropic — Weekly Update Report Dec 6 2025"
 series: "AI Company Watch"
+description: "Snowflake–Anthropic $200 M Deal to Embed Claude in Enterprise Data Infrastructure · Acquisition of Bun — Reinforcing Claude Code and Developer Tooling…"
 date: 2025-12-06 20:35:00 +0800
 type: post
 published: true

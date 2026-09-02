@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Government Spyware Is Going Mainstream — and That’s a Problem"
+description: "Once reserved for counterterrorism, government-grade spyware is now being used against ordinary people. Here’s why that’s alarming. · A Low Barrier to…"
 date: 2025-11-10 22:20:00 +0800
 type: post
 published: true

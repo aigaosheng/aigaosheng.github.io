@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance & regulation Brief — 2026-08-22"
 series: "AI Governance & Regulation"
+description: "Australia Reaffirms National AI Assurance Framework for Government · Indonesia and China Establish New Working Group Covering AI Cooperation · New…"
 date: 2026-08-22 21:00:00 +0800
 type: post
 published: true

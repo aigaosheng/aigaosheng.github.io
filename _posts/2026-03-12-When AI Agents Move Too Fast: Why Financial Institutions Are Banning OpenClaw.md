@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Agents Move Too Fast- Why Financial Institutions Are Banning OpenClaw"
+description: "The Rapid Rise of OpenClaw · Why Banks and Financial Institutions Are Banning It · Malware, Rogue Skills, and Prompt Injection · The Bigger Issue: Agentic…"
 date: 2026-03-12 21:40:00 +0800
 type: post
 published: true

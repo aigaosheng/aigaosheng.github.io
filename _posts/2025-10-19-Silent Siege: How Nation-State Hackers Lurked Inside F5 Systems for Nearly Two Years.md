@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Silent Siege: How Nation-State Hackers Lurked Inside F5 Systems for Nearly Two Years"
+description: "Key facts & timeline · Why this matters beyond F5 · Quick takeaways for security leaders"
 date: 2025-10-19 18:36:00 +0800
 type: post
 published: true

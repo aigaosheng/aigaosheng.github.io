@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Takes the Call Centre by Storm — But Human Agents Aren’t Out of the Game Yet"
+description: "Real-World Case: Netwealth’s AI Rollout · What This Means for Call Centres & Workers"
 date: 2025-11-03 22:11:00 +0800
 type: post
 published: true

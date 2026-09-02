@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI & ML Technology Report — 28 Sep 2025"
 series: "AI Industry News"
+description: "Top 5 arXiv picks (ranked by innovation & near-term impact; all papers submitted in the past 7 days) · SAGE — A Realistic Benchmark for Semantic…"
 date: 2025-09-28 16:50:00 +0800
 type: post
 published: true

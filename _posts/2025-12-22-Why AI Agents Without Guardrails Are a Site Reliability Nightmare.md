@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why AI Agents Without Guardrails Are a Site Reliability Nightmare"
+description: "Autonomy Isn’t Free: The Hidden Risks Behind AI Agents · Shadow AI Creates Blind Spots · Lack of Explainability False Confidence · Three Guardrails to Make…"
 date: 2025-12-22 20:06:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-02"
 series: "Payments"
+description: "Mastercard showcases next-generation AI-powered payment innovations in Singapore · Singapore fintech ecosystem spotlights Payments State of Play 2026 · MAS…"
 date: 2026-07-02 19:32:00 +0800
 type: post
 published: true

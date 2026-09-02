@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — May 5, 2026"
 series: "AI Governance & Regulation"
+description: "U.S. Expands Frontier AI Safety Testing With Pre-Deployment Oversight · Proofpoint: AI Adoption Outpaces Security & Compliance Readiness · India’s SEBI to…"
 date: 2026-05-05 20:34:00 +0800
 type: post
 published: true

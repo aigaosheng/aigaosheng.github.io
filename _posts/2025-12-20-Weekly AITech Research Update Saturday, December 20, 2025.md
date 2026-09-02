@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update Saturday, December 20, 2025"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by Novelty & Impact) · Quantifying Uncertainty in Machine Learning‑Based Pervasive Systems · Predictive Concept Decoders…"
 date: 2025-12-20 20:52:00 +0800
 type: post
 published: true

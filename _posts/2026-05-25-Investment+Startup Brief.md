@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+Startup Brief — 2026-05-25"
 series: "Investment & Startups"
+description: "BAI Capital Closes $600M First Tranche for New Fund · Mercury Hits $5.2 Billion Valuation with New $200 Million Round · AI Agents Drive $30M Round for…"
 date: 2026-05-25 19:53:00 +0800
 type: post
 published: true

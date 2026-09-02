@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI & Machine Learning Research Update - d Breakthroughs in Long-Context LLMs, Hybrid Diffusion, and Fairness (25–31 Oct 2025)"
 series: "AI Research & Open Source"
+description: "Emerging technologies / trends in this window · Investment & innovation implications"
 date: 2025-11-01 22:37:00 +0800
 type: post
 published: true

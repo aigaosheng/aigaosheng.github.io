@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-06"
 series: "AI & Society"
+description: "UN opens global push for AI governance amid safety concerns · AI surveillance systems raise concerns over “chilling effect” on society · UK warns AI could…"
 date: 2026-07-06 20:33:00 +0800
 type: post
 published: true

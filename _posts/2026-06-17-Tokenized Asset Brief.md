@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-17"
 series: "Tokenized Assets"
+description: "US SEC Poised to Allow Stock Token Trading in Potential Market Shakeup · Coinbase Announces Tokenized Stocks, Intensifying Competition in Emerging Market…"
 date: 2026-06-17 20:13:00 +0800
 type: post
 published: true

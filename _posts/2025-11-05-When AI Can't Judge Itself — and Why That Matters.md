@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Can't Judge Itself — and Why That Matters"
+description: "The Human Side of AI Judgement · Three lessons from the field · From Pilot to Production: The Real Impact · Action Plan: What Enterprises Can Do Now"
 date: 2025-11-05 21:28:00 +0800
 type: post
 published: true

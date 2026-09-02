@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-22"
 series: "Enterprise AI"
+description: "Google Unveils ‘Antigravity’ and New Gemini Models, Ushering in Agentic Era · EY and Microsoft Commit Over $1 Billion to Joint Enterprise AI Transformation"
 date: 2026-05-22 20:08:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Silicon Valley Pushes Back: Why AI Safety Turns Into a Corporate Cold War"
+description: "Why this matters — beyond the social-media mudfight · The stakes heading into 2026 · What to watch next"
 date: 2025-10-18 18:05:00 +0800
 type: post
 published: true

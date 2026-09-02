@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-24"
 series: "AI & Fintech"
+description: "Fintechs Report 86% Productivity Gains in Technology and Product Functions · ADIB Appoints Its First Chief AI Officer · AI-Native Finance Platform Rillet's…"
 date: 2026-08-24 19:00 +0800
 type: post
 published: true

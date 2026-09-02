@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-14"
 series: "US & China AI"
+description: "U.S. Government Orders Anthropic to Block Foreign Access to Latest AI Models · Amazon CEO Triggered Anthropic Export Controls by Reporting Model…"
 date: 2026-06-14 17:23:00 +0800
 type: post
 published: true

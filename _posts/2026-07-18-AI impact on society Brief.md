@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-18"
 series: "AI & Society"
+description: "AI Data Center Expansion Triggers Nationwide Community Backlash in the US · AI-Driven Workforce Disruption Raises Concerns About Career Longevity · AI…"
 date: 2026-07-18 21:00:00 +0800
 type: post
 published: true

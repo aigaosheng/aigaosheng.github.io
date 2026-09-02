@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Economic & Policy Brief — 2026-05-14"
 series: "Singapore"
+description: "Headline: S’pore must attract AI giants, expand its energy hub role, says growth panel A government-led growth committee has submitted 32 recommendations…"
 date: 2026-05-14 19:58:00 +0800
 type: post
 published: true

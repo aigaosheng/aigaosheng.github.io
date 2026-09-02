@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily Global Intelligence Brief — 2026-05-19"
+description: "1️⃣ US–China Tech Controls: Semiconductor Equipment Expansion · 2️⃣ Federal Reserve: Pause Extended Deep into 2026 · 3️⃣ US Energy Infrastructure: Cyber…"
 date: 2026-05-19 20:43 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-31"
 series: "Investment & Startups"
+description: "Commonwealth Fusion Systems Raises $1 Billion, Signaling Renewed Deep-Tech Investor Appetite · Zepto Delays IPO Plans and Seeks Additional Pre-IPO Funding…"
 date: 2026-07-31 20:00:00 +0800
 type: post
 published: true

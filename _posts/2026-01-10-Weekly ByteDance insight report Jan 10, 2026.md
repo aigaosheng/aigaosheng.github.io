@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly ByteDance insight report Jan 10, 2026"
 series: "AI Company Watch"
+description: "Market & Financial Update: HSG Continuation Fund to Value ByteDance at up to $370B · AI Infrastructure Strategy: ByteDance Plans Massive Nvidia Chip Spend…"
 date: 2026-01-10 20:23:00 +0800
 type: post
 published: true

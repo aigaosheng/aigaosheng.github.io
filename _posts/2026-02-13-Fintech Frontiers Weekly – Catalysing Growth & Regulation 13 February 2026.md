@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Frontiers Weekly – Catalysing Growth & Regulation 13 February 2026"
 series: "AI & Fintech"
+description: "In‑Depth Highlight: EU Parliament Backs Digital Euro Initiative · Market & Industry Insight · AI and Automation Reshape Fintech Workflows · CBDCs and…"
 date: 2026-02-13 19:32:00 +0800
 type: post
 published: true

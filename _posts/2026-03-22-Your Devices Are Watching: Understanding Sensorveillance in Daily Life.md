@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Your Devices-Are Watching: Understanding Sensorveillance in Daily Life"
+description: "Hook: When Your Tech Becomes the Detective · How Your Devices Became Digital Evidence · The Mechanics Behind the Monitoring · Reflections: Are We in…"
 date: 2026-03-22 11:14:00 +0800
 type: post
 published: true

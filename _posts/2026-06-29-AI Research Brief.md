@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-29"
 series: "AI Research & Open Source"
+description: "New Framework Aims to Open AI's 'Black Box' for Antibiotic Discovery · Turing Award Winner Joseph Sifakis Joins Chinese Mobility Firm as AI Advisor · AI…"
 date: 2026-06-29 20:02:00 +0800
 type: post
 published: true

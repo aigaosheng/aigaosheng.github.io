@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-22"
 series: "AI & Fintech"
+description: "OpenAI Faces Consumer Trust Crisis Over Personal Finance Agent · Australian Regulator (ASIC) Positions Nation for AI-Driven Finance · Singapore Banking…"
 date: 2026-05-22 19:56:00 +0800
 type: post
 published: true

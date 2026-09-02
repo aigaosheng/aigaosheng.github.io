@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-24"
 series: "Payments"
+description: "Visa and Lianlian Complete First Live AI Agent-to-Agent B2B Payment · Wise Shares Fall After U.S. Banking Licence Rejection · Pay10 Expands Bahrain…"
 date: 2026-07-24 19:29:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Huawei's AI Chips: A Global Web of Components"
+description: "Breaking Down the Components · Implications for Global Tech Dynamics"
 date: 2025-10-03 23:36:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Diffusion Reimagined - Startup Inception Raises $50 M to Transform Code & Text Generation"
+description: "Why Diffusion Models for Code/Text?"
 date: 2025-11-06 22:41:00 +0800
 type: post
 published: true

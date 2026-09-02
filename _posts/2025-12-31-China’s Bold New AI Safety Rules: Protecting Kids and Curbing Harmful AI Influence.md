@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s Bold New AI Safety Rules - Protecting Kids and Curbing Harmful AI Influence"
+description: "Safety First: What the New Rules Aim to Do"
 date: 2025-12-31 21:42:00 +0800
 type: post
 published: true

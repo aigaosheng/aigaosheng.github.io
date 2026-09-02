@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-17"
 series: "AI & Fintech"
+description: "Visa Partners with OpenAI to Enable Secure Agentic Commerce Payments · Worldline, ING, and Mastercard Execute Europe’s First Live Agentic Commerce…"
 date: 2026-06-17 20:17:00 +0800
 type: post
 published: true

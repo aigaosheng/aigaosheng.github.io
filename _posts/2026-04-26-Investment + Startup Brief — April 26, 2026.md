@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — April 26, 2026"
 series: "Investment & Startups"
+description: "Space Tech Funding Hits Record High on IPO Momentum · Bezos-Backed AI Startup Nears $38B Valuation · Sarvam AI Funding Signals Global Investor Appetite…"
 date: 2026-04-26 17:46:00 +0800
 type: post
 published: true

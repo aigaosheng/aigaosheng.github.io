@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — April 21, 2026"
 series: "AI & Fintech"
+description: "Standard Chartered & A*STAR Launch S$15M AI Banking Lab · Cloverleaf Launches AI Decision Intelligence Platform for Insurers · Pillar Raises $20M to…"
 date: 2026-04-21 21:33:00 +0800
 type: post
 published: true

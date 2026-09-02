@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Budget 2026- A Strategic Boost for AI Skills, Tools and Workforce Resilience"
+description: "Singapore’s Budget 2026: A Strategic Boost for AI Skills, Tools and Workforce Resilience · Turning Workforce Anxiety into Opportunity · More Than Skills: A…"
 date: 2026-02-12 20:00:00 +0800
 type: post
 published: true

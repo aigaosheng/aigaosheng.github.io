@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore AI Startup Diaflow Grabs Seed Funding, Aims to Redefine Workflow Automation with AI Agents"
+description: "From Rule-Based Tools to Intent-Driven AI Agents · Capital, Expansion, and Enterprise Focus"
 date: 2026-02-24 21:11:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Meets Pharma - China’s MindRank Launches Phase 3 Trial for AI-Designed Weight-Loss Drug"
+description: "In a milestone for biotech and artificial intelligence, Hangzhou-based startup MindRank has kicked off Phase 3 clinical trials in China for MDR-001, a…"
 date: 2026-01-04 20:25:00 +0800
 type: post
 published: true

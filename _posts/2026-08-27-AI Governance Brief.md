@@ -3,6 +3,7 @@
 layout: post
 title: "AI Governance Brief — 2026-08-27"
 series: "AI Governance & Regulation"
+description: "Boards Are Adding AI Expertise — But Governance Must Extend Beyond the Boardroom · U.S. AI Governance Faces a Regulatory Gap Around AI-Powered Influence…"
 date: 2026-08-27 21:14:00 +0800
 type: post
 published: true

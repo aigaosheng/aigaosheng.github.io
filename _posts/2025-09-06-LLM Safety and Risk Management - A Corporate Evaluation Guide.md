@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LLM Safety and Risk Management - A Corporate Evaluation Guide
+description: "Systematic Evaluation of Large Language Models Before Corporate Integration · Safety & Risk Assessment · Bias & Fairness Testing · Factuality & Reliability…"
 date: 2025-09-06 
 type: post
 published: true

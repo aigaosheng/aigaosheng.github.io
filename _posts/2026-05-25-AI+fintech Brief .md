@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-25"
 series: "AI & Fintech"
+description: "IOSCO publishes AI Supervisory Toolkit for capital markets · Primer raises $100 million Series C to bring AI to payments · Catena Labs raises $30 million…"
 date: 2026-05-25 22:25:55 +0800
 type: post
 published: true

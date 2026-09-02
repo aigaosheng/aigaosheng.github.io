@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — May 11, 2026"
 series: "AI & Fintech"
+description: "Circle Launches Circle Agent Stack — Open AI Infrastructure for the Agentic Economy · Circle Agent Stack — Extending Open Infrastructure for the Machine…"
 date: 2026-05-11 19:50:00 +0800
 type: post
 published: true

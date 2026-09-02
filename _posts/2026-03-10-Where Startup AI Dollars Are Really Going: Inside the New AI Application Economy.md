@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Where Startup AI Dollars Are Really Going- Inside the New AI Application Economy"
+description: "The AI Application Spending Report: What the Data Shows · Horizontal AI Tools Dominate Startup Budgets · Vertical AI Is Turning Into “AI Employees” · Vibe…"
 date: 2026-03-10 21:19:00 +0800
 type: post
 published: true

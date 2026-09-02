@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance and regulation Brief — 2026-08-30"
 series: "AI governance and regulation"
+description: "China’s AI Policy Approach Seeks Earlier Guardrails Without Repeating Past Tech Crackdowns"
 date: 2026-08-30 21:48:00 +0800
 type: post
 published: true

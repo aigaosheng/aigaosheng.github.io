@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Payment Newsletter -2026-07-12"
 series: "Payments"
+description: "Weekly Payment Newsletter: AI, Payments & Digital Wallets Accelerate Transformation · Banks to Pilot Live Transactions on Swift's Blockchain-Based Shared…"
 date: 2026-07-12 17:47:00 +0800
 type: post
 published: true

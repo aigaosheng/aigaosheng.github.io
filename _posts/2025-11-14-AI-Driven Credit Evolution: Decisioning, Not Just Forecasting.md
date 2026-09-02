@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI-Driven Credit Evolution - Decisioning, Not Just Forecasting"
+description: "What’s changing: from scorecards to decision platforms · Practical building blocks seen in the field · Evidence from the research frontier · Regulatory and…"
 date: 2025-11-14 17:57:00 +0800
 type: post
 published: true

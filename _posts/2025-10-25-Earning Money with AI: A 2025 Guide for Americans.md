@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Earning Money with AI - A 2025 Guide for Americans"
+description: "AI in the American Economy · Productivity Boosts & Financial Opportunities · Three Actionable Earning Strategies · Trends, Jobs, and Wage Growth"
 date: 2025-10-25 13:03:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore local update Brief — 2026-06-05"
 series: "Singapore"
+description: "Singaporean linked to Cambodia-based scam syndicate arrested · Singapore to ease restrictions on new hotels and hostels in heritage precincts · Fresh…"
 date: 2026-06-05 20:29:27 +0800
 type: post
 published: true

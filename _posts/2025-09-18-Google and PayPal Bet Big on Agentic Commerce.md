@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google and PayPal Bet Big on Agentic Commerce
+description: "From Browsing to Delegating · Supply Chain Ripple Effects · Social and Consumer Impact · Sidebar: Winners & Losers"
 date: 2025-09-18 23:39:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Brex Thinks the Future of AI Isn’t More Orchestration — It’s Less"
+description: "From Copilots to Autonomous Agents · What Makes an “Agent Mesh” Different · Built-In Safety and Visibility · Early Results — and Big Ambitions"
 date: 2026-01-08 20:04:00 +0800
 type: post
 published: true

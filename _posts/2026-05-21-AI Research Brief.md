@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-05-21"
 series: "AI Research & Open Source"
+description: "OpenAI AI Model Disproves 80-Year-Old Erdős Conjecture in Major Reasoning Breakthrough · Google DeepMind Unveils Gemini Omni for Multimodal Storytelling…"
 date: 2026-05-21 20:12:14 +0800
 type: post
 published: true

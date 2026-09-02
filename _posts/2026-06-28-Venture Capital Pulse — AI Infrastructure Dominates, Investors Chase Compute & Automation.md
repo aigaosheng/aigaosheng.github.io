@@ -2,6 +2,7 @@
 layout: post
 title: "Venture Capital Pulse — AI Infrastructure Dominates, Investors Chase Compute & Automation"
 series: "Investment & Startups"
+description: "Investor Commentary: Key Trends · AI Infrastructure Is Becoming the New “Picks-and-Shovels” Market · AI + Fintech Moves Toward Autonomous Operations · Web3…"
 date: 2026-06-28 16:43:00 +0800
 type: post
 published: true

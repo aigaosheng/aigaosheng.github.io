@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-21"
 series: "Investment & Startups"
+description: "1confirmation VC Fund Reports $317M in Cash Distributions, Surpassing Capital Raised · LEAP East Attracts Over 200 Investors with $2 Trillion AUM Ahead of…"
 date: 2026-06-21 18:00:00 +0800
 type: post
 published: true

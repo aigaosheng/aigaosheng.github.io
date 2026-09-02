@@ -2,6 +2,7 @@
 layout: post
 title: "AI × Entertainment Daily April 4, 2026"
 series: "AI Industry News"
+description: "Saturday, April 4, 2026 · Netflix Open-Sources VOID — Its First-Ever Public AI Model Rewrites Physics in Video · OpenAI Kills Sora — Disney Pulls Its $1…"
 date: 2026-04-04 21:32:00 +0800
 type: post
 published: true

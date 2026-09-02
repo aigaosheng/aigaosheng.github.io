@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Enterprise MCP Adoption Is Racing Ahead of Security Controls — A Growing Risk in AI Integration"
+description: "From Human-Centric Security to Autonomous Agents · Security Tools Aren’t Enough — Yet · Where Enterprises Go From Here"
 date: 2026-02-28 18:10:00 +0800
 type: post
 published: true

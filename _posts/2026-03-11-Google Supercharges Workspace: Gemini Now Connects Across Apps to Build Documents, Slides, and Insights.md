@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Supercharges Workspace- Gemini Now Connects Across Apps to Build Documents, Slides, and Insights"
+description: "Gemini Becomes the “Control Center” for Work · From “Help Me Write” to “Help Me Create” · Competing in the AI Productivity Wars · Why This Matters for…"
 date: 2026-03-11 20:23:00 +0800
 type: post
 published: true

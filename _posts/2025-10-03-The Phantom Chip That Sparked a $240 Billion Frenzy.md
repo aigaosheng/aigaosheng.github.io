@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Phantom Chip That Sparked a $240 Billion Frenzy"
+description: "The Rumor That Launched a Thousand Trades · The Bigger Picture: China's Tech Ambitions · The Market's Reaction: A Double-Edged Sword"
 date: 2025-10-03 23:33:00 +0800
 type: post
 published: true

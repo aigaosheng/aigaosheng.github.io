@@ -2,6 +2,7 @@
 layout: post
 title: "Agentic AI Brief — 2026-05-25"
 series: "AI Research & Open Source"
+description: "Google Unveils Information Agents and Agentic Coding in Major Search Overhaul · Anthropic Introduces “Dreaming” Capability for AI Agents · UAE Commits to…"
 date: 2026-05-25 19:48:00 +0800
 type: post
 published: true

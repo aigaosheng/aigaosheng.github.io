@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ant International’s AI-Driven Payments Near $2 Billion in 2025, Signaling a New Phase of Global Fintech"
+description: "AI at the Core of Payment Infrastructure · Scaling Through Partnerships, Not Isolation · Why the $2 Billion Figure Matters"
 date: 2026-01-13 20:10:00 +0800
 type: post
 published: true

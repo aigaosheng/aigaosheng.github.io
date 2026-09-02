@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Daily Newsletter, April 4, 2026"
 series: "AI Research & Open Source"
+description: "Top AI Research & Science Updates · UK’s Leading AI Institute Faces Major Strategic Overhaul · MIT Study Reframes AI’s Impact on Work · New Economic…"
 date: 2026-04-04 21:09:00 +0800
 type: post
 published: true

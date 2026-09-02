@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Snowflake’s Leap Beyond RAG - Enabling Analytics Across Thousands of Documents at Once"
+description: "The problem: RAG reaches its limits · Snowflake’s answer: Agentic Document Analytics & integrated platform · Implications for AI and data strategies"
 date: 2025-11-05 21:19:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-08-26"
 series: "US & China AI"
+description: "China’s Moonshot Negotiates Cloud Deals With Microsoft, Amazon and Google · Bill Gates Pushes for U.S.–China Cooperation on AI Safety · China Advances AI…"
 date: 2026-08-26 20:30:00 +0800
 type: post
 published: true

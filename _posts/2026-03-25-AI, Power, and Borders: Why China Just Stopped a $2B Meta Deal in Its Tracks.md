@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI, Power, and Borders-Why China Just Stopped a $2B Meta Deal in Its Tracks"
+description: "What Happened: A Deal Meets a Border · Why Manus Matters in the AI Race · The Real Story: AI Is Now Geopolitical Infrastructure · A New Reality for Global…"
 date: 2026-03-25 19:57:00 +0800
 type: post
 published: true

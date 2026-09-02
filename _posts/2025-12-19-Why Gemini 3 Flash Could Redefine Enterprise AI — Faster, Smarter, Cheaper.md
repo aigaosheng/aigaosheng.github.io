@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Gemini 3 Flash Could Redefine Enterprise AI — Faster, Smarter, Cheaper"
+description: "Fast and Affordable — A Rare AI Combo · Benchmarking and Early Impressions · Strategic Implications for AI Development"
 date: 2025-12-19 20:30:00 +0800
 type: post
 published: true

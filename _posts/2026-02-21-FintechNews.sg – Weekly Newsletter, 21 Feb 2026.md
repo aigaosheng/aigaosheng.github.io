@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter, 21 Feb 2026"
 series: "Singapore"
+description: "Various / Policy & Market · AI in Finance & Payments"
 date: 2026-02-21 17:48:00 +0800
 type: post
 published: true

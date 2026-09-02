@@ -3,6 +3,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-17"
 series: "Investment & Startups"
+description: "Bangladesh launches $330M Fund of Funds to catalyze startup investment · Azerbaijan reforms investment rules to build a technology and startup hub…"
 date: 2026-08-17 19:53:00 +0800
 type: post
 published: true

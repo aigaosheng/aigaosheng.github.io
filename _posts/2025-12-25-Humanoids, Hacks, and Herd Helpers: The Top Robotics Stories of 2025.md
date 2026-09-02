@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Humanoids, Hacks, and Herd Helpers - The Top Robotics Stories of 2025"
+description: "The Humanoid Hype Meets Reality · Cybersecurity Has Legs — and Vulnerabilities · Amazon’s Robots Outpace Human Hands · Learning to Behave (Better)"
 date: 2025-12-25 20:16:00 +0800
 type: post
 published: true

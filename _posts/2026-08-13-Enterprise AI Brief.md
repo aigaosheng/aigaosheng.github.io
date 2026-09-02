@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-13"
 series: "Enterprise AI"
+description: "IBM Partners With OpenAI to Accelerate Enterprise AI Deployment · TCS and Vodafone Business Join Forces on AI-Led Digital Transformation · Cloudera Survey…"
 date: 2026-08-13 20:03 +0800
 type: post
 published: true

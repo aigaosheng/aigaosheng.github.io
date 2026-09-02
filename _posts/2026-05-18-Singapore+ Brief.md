@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore+ Brief — 2026-05-18"
 series: "Singapore"
+description: "AI Demand Powers Singapore’s April Exports to Forecast-Beating 24.5% Surge · Singapore Stocks Edge Higher as ST Engineering Surges; STI closes at 4,996.75…"
 date: 2026-05-18 20:40:00 +0800
 type: post
 published: true

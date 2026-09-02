@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Daily Newsletter — April 7, 2026"
 series: "Investment & Startups"
+description: "U.S. Stock Futures Slide Ahead of Iran Strait Deadline · Oil Prices Rebound Above $110 Amid Middle East Risk · Equity Funds Record Consecutive Weekly…"
 date: 2026-04-07 21:51:00 +0800
 type: post
 published: true

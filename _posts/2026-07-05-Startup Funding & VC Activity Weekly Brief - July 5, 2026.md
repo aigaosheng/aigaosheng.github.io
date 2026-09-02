@@ -2,6 +2,7 @@
 layout: post
 title: "Startup Funding & VC Activity Weekly Brief - July 5, 2026"
 series: "Investment & Startups"
+description: "Title: AI Infrastructure Mega-Rounds Dominate as Capital Concentrates in Late-Stage Winners · Key Trends (Last 7 Days) · AI infrastructure > AI models…"
 date: 2026-07-05 20:16:00 +0800
 type: post
 published: true

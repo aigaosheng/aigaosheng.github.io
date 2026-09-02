@@ -2,6 +2,7 @@
 layout: post
 title: "Google Weekly Insight - AI & Search Advancements Driving Next‑Gen Platforms (Dec 06–12, 2025)"
 series: "AI Company Watch"
+description: "Report Summary: Official Google Announcements (Dec 6–12, 2025) · State‑of‑the‑Art Gemini Translation Enhancements · Improved Gemini Text‑to‑Speech Models…"
 date: 2025-12-13 21:53:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — April 29, 2026"
 series: "AI Governance & Regulation"
+description: "SAS Launches AI Navigator to Operationalize Enterprise AI Governance · Anthropic “Mythos” Model Raises Systemic Risk Concerns · Shadow AI Emerges as a…"
 date: 2026-04-29 21:27:00 +0800
 type: post
 published: true

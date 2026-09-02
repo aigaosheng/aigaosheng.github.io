@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-25"
 series: "AI & Fintech"
+description: "WEF Report: Financial Institutions Race to Scale AI Amid Trust and Governance Tests · BlackLine Establishes 'Trust Infrastructure' for AI-Powered Finance…"
 date: 2026-06-25 19:56:00 +0800
 type: post
 published: true

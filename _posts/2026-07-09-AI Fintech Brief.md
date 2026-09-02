@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-09"
 series: "AI & Fintech"
+description: "Monumint Launches AI Banking Agents After Pivot Toward Financial Services Automation · Titan Raises $3 Million to Build Banking-Native AI Infrastructure…"
 date: 2026-07-09 20:51:14 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google‘s “Quantum Echoes” Takes a Giant Leap for Quantum Computing"
+description: "From chip to algorithm: Why this matters · What it signals for tech and industry"
 date: 2025-10-23 21:07:00 +0800
 type: post
 published: true

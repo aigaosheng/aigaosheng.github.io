@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The AI Video Revolution - Why Americans Should Care"
+description: "Why it matters for the U.S. public · My take: Embrace, but be mindful"
 date: 2025-11-02 21:42:00 +0800
 type: post
 published: true

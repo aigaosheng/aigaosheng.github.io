@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Claude Trains a Robot Dog - Inside Anthropic’s Playful but Pivotal “Project Fetch”"
+description: "A Warehouse, a Robot Dog, and an AI Teammate · The Results: AI as a Robotics Force Multiplier · Surprises, Stumbles, and a Runaway Robot · A Small Study…"
 date: 2025-11-18 21:05:00 +0800
 type: post
 published: true

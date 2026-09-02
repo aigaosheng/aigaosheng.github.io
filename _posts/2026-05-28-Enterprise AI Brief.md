@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-28"
 series: "Enterprise AI"
+description: "Snowflake Acquires Natoma to Solve AI Agent Governance Crisis · Meta Forms Enterprise Solutions Team for Custom AI Services · HCLTech Launches Autonomous…"
 date: 2026-05-28 20:02:00 +0800
 type: post
 published: true

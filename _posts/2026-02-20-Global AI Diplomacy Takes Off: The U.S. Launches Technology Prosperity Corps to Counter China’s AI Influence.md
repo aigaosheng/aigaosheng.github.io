@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Global AI Diplomacy Takes Off: The U.S. Launches Technology Prosperity Corps to Counter China’s AI Influence"
+description: "From Peace Corps to Tech Corps: A Strategic Pivot · What the Tech Deployment Means · In the Context of U.S.–China AI Competition"
 date: 2026-02-20 21:29:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — May 8, 2026"
 series: "US & China AI"
+description: "China Unveils AI Agent Guidelines to Balance Innovation and Safety · U.S. and China Weigh Formal AI Dialogue Ahead of Trump–Xi Summit · DeepSeek V4…"
 date: 2026-05-08 21:09:00 +0800
 type: post
 published: true

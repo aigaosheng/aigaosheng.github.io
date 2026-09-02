@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — May 7, 2026"
 series: "AI & Fintech"
+description: "Anthropic Launches AI Agents for Financial Services · Anthropic Expands Wall Street Push With Finance-Focused AI Infrastructure · Singapore Emerges as a…"
 date: 2026-05-07 19:12:00 +0800
 type: post
 published: true

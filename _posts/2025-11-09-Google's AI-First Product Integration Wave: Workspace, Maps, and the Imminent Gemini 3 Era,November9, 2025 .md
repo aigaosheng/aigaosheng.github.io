@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google's AI-First Product Integration Wave - Workspace, Maps, and the Imminent Gemini 3 Era"
+description: "Announcement 1: Gemini Deep Research Integrates Google Workspace · Announcement 2: Google Maps Receives Conversational AI Navigation · Announcement 3…"
 date: 2025-11-09 16:02:00 +0800
 type: post
 published: true

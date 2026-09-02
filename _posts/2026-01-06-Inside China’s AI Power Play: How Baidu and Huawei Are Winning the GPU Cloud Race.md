@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside China’s AI Power Play- How Baidu and Huawei Are Winning the GPU Cloud Race"
+description: "In the high‑stakes world of artificial intelligence infrastructure, China’s tech giants are quietly rewriting the rules. According to a new Frost &…"
 date: 2026-01-06 20:00:00 +0800
 type: post
 published: true

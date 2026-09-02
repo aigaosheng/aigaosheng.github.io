@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Git Cheat Sheet
+description: "Ways to Refer to a Commit · Restore an Old File"
 date: 2025-09-17 09:33:00 +0800
 type: post
 published: true

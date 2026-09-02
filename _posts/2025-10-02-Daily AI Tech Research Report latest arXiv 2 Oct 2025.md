@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI / Tech Research Report — latest arXiv (past 7 days) — 2 Oct 2025"
 series: "AI Research & Open Source"
+description: "1 LLM-Assisted Emergency Triage Benchmark: Bridging Hospital-Rich and MCI-Like Field Simulation. ([arXiv][1]) · 2 MENLO: From Preferences to Proficiency…"
 date: 2025-10-02 09:50:00 +0800
 type: post
 published: true

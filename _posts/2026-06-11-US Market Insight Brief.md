@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "US Market Insight Brief — 2026-06-11"
+description: "Hot CPI Reading Hits Three-Year High as Energy Costs Surge · Tech Wreck Deepens: Nasdaq Futures Drop 1.3% as AI Supply Glut Fears Mount · US-Iran…"
 date: 2026-06-11 20:38:00 +0800
 type: post
 published: true

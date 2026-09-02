@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How AI Apps Finally Overtook Games- The Mobile Spending Revolution of 2025"
+description: "A Turning Point in Mobile Revenue · AI Apps Fuel Growth Beyond Entertainment · Why This Matters Now"
 date: 2026-01-21 20:12:00 +0800
 type: post
 published: true

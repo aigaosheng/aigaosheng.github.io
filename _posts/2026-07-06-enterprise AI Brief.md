@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-06"
 series: "Enterprise AI"
+description: "Enterprise AI moves from pilots to full-scale transformation programs · Enterprises tighten AI ROI controls as spending efficiency becomes critical"
 date: 2026-07-06 20:38:00 +0800
 type: post
 published: true

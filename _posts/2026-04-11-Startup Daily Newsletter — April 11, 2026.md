@@ -2,6 +2,7 @@
 layout: post
 title: "Startup Daily Newsletter — April 11, 2026"
 series: "Investment & Startups"
+description: "Global Startup Funding Remains Highly Concentrated in AI Megadeals · Fintech Funding Rises in Value but Falls in Deal Count · SiFive Secures $400M Ahead of…"
 date: 2026-04-11 21:22:00 +0800
 type: post
 published: true

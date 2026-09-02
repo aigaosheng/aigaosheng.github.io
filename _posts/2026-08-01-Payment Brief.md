@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-01"
 series: "Payments"
+description: "Toss Payments Selected for South Korea's Deposit Token Payment Infrastructure Pilot · Safaricom Raises Fee-Free Payment Threshold for Pochi la Biashara…"
 date: 2026-08-01 21:02:00 +0800
 type: post
 published: true

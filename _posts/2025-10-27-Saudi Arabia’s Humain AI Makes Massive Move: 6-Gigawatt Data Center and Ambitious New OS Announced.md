@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Saudi Arabia’s Humain AI Makes Massive Move - 6-Gigawatt Data Center and Ambitious New OS Announced"
+description: "The Big News: Mega-Scale for Regional AI · Key Insights and Implications"
 date: 2025-10-27 21:32:00 +0800
 type: post
 published: true

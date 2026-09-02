@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Daily Newsletter April 14, 2026"
 series: "Tokenized Assets"
+description: "Broadridge Launches Digital Asset Platform for Wealth Managers · Datavault AI Expands RWA Token Suite with Exchange Listings · Tokenization Moves Toward…"
 date: 2026-04-14 20:13:00 +0800
 type: post
 published: true

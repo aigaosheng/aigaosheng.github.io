@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-08"
 series: "US & China AI"
+description: "US Government Explores Taking Equity Stakes in Major AI Firms · White House Mandates Accelerated AI Adoption for National Security · AI Stocks Suffer…"
 date: 2026-06-08 21:00:00 +0800
 type: post
 published: true

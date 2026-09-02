@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meta’s SPICE Framework Sparks Breakthrough in Self‑Teaching AI - Machines That Create and Solve Their Own Tasks"
+description: "In a bold advance toward genuinely self‑improving artificial intelligence, Meta FAIR (Meta’s fundamental research arm) and researchers at National…"
 date: 2025-11-12 20:45:00 +0800
 type: post
 published: true

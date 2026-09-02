@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-14"
 series: "Investment & Startups"
+description: "Defense AI Startup Helsing Raises $1.8B, Reaching $18B Valuation · AI Agent Startup Nous Research Targets $1.5B Valuation in New Funding Round · PixVerse…"
 date: 2026-07-14 20:37:00 +0800
 type: post
 published: true

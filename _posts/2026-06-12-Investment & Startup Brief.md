@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — 2026-06-12"
 series: "Investment & Startups"
+description: "Jeff Bezos’ AI Startup Prometheus Hits $41 Billion Valuation · AI Platform Hypha Raises $50M Seed to Digitize Private Markets · Ex-Paisabazaar CEO Seeks…"
 date: 2026-06-12 19:47:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-15"
 series: "Tokenized Assets"
+description: "DTCC to Launch Tokenization Network in October, Aiming to Digitize Wall Street · Binance Launches bStocks: 1:1 Backed Tokenized Securities with…"
 date: 2026-06-15 20:50:00 +0800
 type: post
 published: true

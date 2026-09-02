@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When a Fake Photo Shuts Down the Rails - How One Viral Image Disrupted Britain’s Train Network"
+description: "The Trouble with One Fake Picture · What This Means for Info, Infrastructure — and All of Us"
 date: 2025-12-07 22:19:00 +0800
 type: post
 published: true

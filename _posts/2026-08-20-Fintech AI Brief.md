@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-20"
 series: "AI & Fintech"
+description: "Citi, HSBC and Standard Chartered adopt Ant International's forex AI tool · Stripe agrees to acquire OpenRouter in major AI infrastructure push · Ant…"
 date: 2026-08-20 19:47:00 +0800
 type: post
 published: true

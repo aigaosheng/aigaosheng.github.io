@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Payment Newsletter 2026-07-26"
 series: "Payments"
+description: "Weekly Payment Newsletter — Agentic Payments, AI Banking & the Next Digital Wallet Race · Mastercard expands tools for banks building mobile wallets · Visa…"
 date: 2026-07-26 16:30:00 +0800
 type: post
 published: true

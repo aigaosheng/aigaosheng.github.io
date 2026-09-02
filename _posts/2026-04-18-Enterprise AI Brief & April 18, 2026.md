@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief & April 18, 2026"
 series: "Enterprise AI"
+description: "ActionAI Raises $10M to Build Enterprise AI \"Trust Layer\" for Mission-Critical Workflows"
 date: 2026-04-18 22:23:00 +0800
 type: post
 published: true

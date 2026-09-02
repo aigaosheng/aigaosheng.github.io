@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 2, 2026"
 series: "Enterprise AI"
+description: "Hyperscalers Accelerate AI Spend to $725B, Raising Sustainability Questions · Salesforce Restructures Reporting Around AI Products · Nebius Acquires Eigen…"
 date: 2026-05-02 20:17:00 +0800
 type: post
 published: true

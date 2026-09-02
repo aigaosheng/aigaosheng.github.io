@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-05-22"
 series: "AI & Society"
+description: "U.S. Deepfake Takedown Law Takes Effect, Raising Censorship Concerns · Over 40% of Deezer's Uploaded Tracks Are AI-Generated · Media Analysis Links…"
 date: 2026-05-22 20:22:00 +0800
 type: post
 published: true

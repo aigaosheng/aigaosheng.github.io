@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Winter Is Coming to the Car Industry — Why Most Automakers Are Slashing AI Spending by 2029"
+description: "What’s Changing in the Automotive AI Race · What Automakers Still Get Right — and What’s at Risk · Where AI might stick · What’s likely to unravel"
 date: 2025-12-08 20:48:00 +0800
 type: post
 published: true

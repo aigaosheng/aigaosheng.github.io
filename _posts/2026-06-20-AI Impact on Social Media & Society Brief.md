@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-20"
 series: "AI & Society"
+description: "Reuters Institute Report: AI Chatbots and Video Drive Historic Shift in News Consumption · Canada Tables Legislation to Ban Social Media for Under-16s…"
 date: 2026-06-20 20:45:00 +0800
 type: post
 published: true

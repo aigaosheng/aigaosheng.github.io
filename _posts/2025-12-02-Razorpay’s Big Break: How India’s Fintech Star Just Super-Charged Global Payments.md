@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Razorpay’s Big Break - How India’s Fintech Star Just Super-Charged Global Payments"
+description: "What Just Happened — and Why It Matters · What It Enables — Real Benefits for Businesses · Broader Implications — A Fintech Shift in Motion · Glossary…"
 date: 2025-12-02 21:07:00 +0800
 type: post
 published: true

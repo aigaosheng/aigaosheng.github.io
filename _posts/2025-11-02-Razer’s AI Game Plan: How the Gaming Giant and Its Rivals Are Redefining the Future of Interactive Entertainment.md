@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Razer’s AI Game Plan - How the Gaming Giant and Its Rivals Are Redefining the Future of Interactive Entertainment"
+description: "Razer’s AI Strategy and Key Initiatives · AI Vision from the Top · Core AI Platforms and Products · Nvidia: The AI Powerhouse"
 date: 2025-11-02 21:01:00 +0800
 type: post
 published: true

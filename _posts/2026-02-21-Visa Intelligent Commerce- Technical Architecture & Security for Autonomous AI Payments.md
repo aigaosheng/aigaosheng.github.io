@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Visa Intelligent Commerce- Technical Architecture and Security for Autonomous AI Payments"
+description: "Visa Intelligent Commerce: Technical Architecture & Security for Autonomous AI Payments · 1 Agent‑Ready Credentials & Tokenization · 2 Authentication &…"
 date: 2026-02-21 20:57:00 +0800
 type: post
 published: true

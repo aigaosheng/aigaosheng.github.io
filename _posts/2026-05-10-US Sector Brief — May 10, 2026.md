@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "US Brief — May 10, 2026"
+description: "Apple and Intel Reach Preliminary Chip-Making Deal · Fed Flags AI and Geopolitical Risks, Calls Private Credit 'Manageable' · April Jobs Report Beats…"
 date: 2026-05-10 20:48:00 +0800
 type: post
 published: true

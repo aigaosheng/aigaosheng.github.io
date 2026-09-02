@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-05-20"
 series: "AI Governance & Regulation"
+description: "Survey: Over 60% of Risk Executives Expect Rise in AI-Related Corporate Litigation · EU Commission Releases Draft Guidance on AI Act Transparency…"
 date: 2026-05-20 20:38:00 +0800
 type: post
 published: true

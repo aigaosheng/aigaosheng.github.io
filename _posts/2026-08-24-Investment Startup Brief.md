@@ -3,6 +3,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-24"
 series: "Investment & Startups"
+description: "XPENG Robotics Raises More Than $900M at a $6.3B+ Valuation · Nvidia Reportedly Discusses New Perplexity Investment Above $30B Valuation · Alibaba Launches…"
 date: 2026-08-24 19:46:00 +0800
 type: post
 published: true

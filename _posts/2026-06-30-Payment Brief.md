@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-30"
 series: "Payments"
+description: "UK Regulator Moves to Open Apple and Google App Stores to Alternative Payments · India's UPI Expands to Greece · UPI's International Expansion Continues…"
 date: 2026-06-30 20:00:00 +0800
 type: post
 published: true

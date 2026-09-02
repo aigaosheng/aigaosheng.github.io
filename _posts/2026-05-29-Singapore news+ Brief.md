@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore news Brief — 2026-05-29"
 series: "Singapore"
+description: "Singapore Services Sector Grows 3.7% in Q1 Driven by Tech Demand · Singapore GDP Forecast Raised to 4.6% by Nomura on AI Demand · Foreign Minister…"
 date: 2026-05-29 21:21:00 +0800
 type: post
 published: true

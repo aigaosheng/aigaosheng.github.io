@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside Databricks’ Playbook for Safe, Trusted, and Measurable AI"
+description: "1 AI Governance Framework (DAGF) · 2 AI Security Framework (DASF) · Platform Capabilities for Safety, Trust & Measurability · 1 Platform Architecture &…"
 date: 2025-11-05 21:53:00 +0800
 type: post
 published: true

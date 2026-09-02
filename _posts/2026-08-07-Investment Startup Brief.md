@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-07"
 series: "Investment & Startups"
+description: "DeepSeek Resumes Major Funding Round as AI Startup Valuation Ambitions Rise · Former Andreessen Horowitz Partner Launches $100M AI-Focused Venture Fund…"
 date: 2026-08-07 19:58:00 +0800
 type: post
 published: true

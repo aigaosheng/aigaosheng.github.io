@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vietnam Bold Bid to Become Asia Next Tech Talent & Startup Powerhouse"
+description: "Why Vietnam Is Betting Big on Tech · What This Means for Startups & Talent · Where Vietnam Fits in the Regional Tech Map · Glossary (Quick Terms Explained)"
 date: 2025-12-15 21:31:00 +0800
 type: post
 published: true

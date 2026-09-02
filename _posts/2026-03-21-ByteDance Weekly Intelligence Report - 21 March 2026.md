@@ -2,6 +2,7 @@
 layout: post
 title: "ByteDance Weekly Intelligence Report - 21 March 2026"
 series: "AI Company Watch"
+description: "Story 1: The Malaysia Gambit — ByteDance Secures 36,000 Nvidia B200 Chips · Story 2: Seedance 2.0 — Copyright Storm Stalls Global Rollout · Strategic…"
 date: 2026-03-21 21:26:00 +0800
 type: post
 published: true

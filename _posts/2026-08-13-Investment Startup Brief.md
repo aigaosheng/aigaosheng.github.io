@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-13"
 series: "Investment & Startups"
+description: "Cognition reportedly targets $40B valuation in fresh funding talks · Jeff Dean's new AI startup reportedly discusses $1B financing at $10B valuation…"
 date: 2026-08-13 19:24:00 +0800
 type: post
 published: true

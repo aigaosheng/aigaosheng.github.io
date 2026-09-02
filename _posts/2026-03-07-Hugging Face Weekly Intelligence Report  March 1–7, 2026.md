@@ -2,6 +2,7 @@
 layout: post
 title: "Hugging Face Weekly Intelligence Report  March 1–7, 2026"
 series: "AI Company Watch"
+description: "Real-Time Video, Compact Reasoning, and the RL Training Revolution: What's Dominating Hugging Face This Week · Helios — Real-Time Long Video Generation at…"
 date: 2026-03-07 17:50:00 +0800
 type: post
 published: true

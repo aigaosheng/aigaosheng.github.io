@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The sandbox was the product"
+description: "One AI model spent a day trying to buy a phone number. Another spent 34 hours inventing people. Neither had escaped anything. · The thesis, and the thing…"
 date: 2026-08-10 10:00:00 +0800
 type: post
 published: true

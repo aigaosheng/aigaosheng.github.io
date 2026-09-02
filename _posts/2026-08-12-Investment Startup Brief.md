@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-12"
 series: "Investment & Startups"
+description: "Accel raises $550M for its ninth India-focused fund, with AI at the center · Accel raises $800M for ninth Europe and Israel early-stage fund · General…"
 date: 2026-08-12 20:20:00 +0800
 type: post
 published: true

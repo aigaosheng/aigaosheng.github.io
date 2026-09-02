@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Brain-Computer Breakthrough to Wall Street- China’s BrainCo Eyes Hong Kong IPO"
+description: "A Frontier Tech Player Goes Public"
 date: 2026-01-12 19:50:00 +0800
 type: post
 published: true

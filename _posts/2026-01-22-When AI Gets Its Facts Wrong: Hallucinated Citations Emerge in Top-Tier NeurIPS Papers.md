@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Gets Its Facts Wrong- Hallucinated Citations Emerge in Top-Tier NeurIPS Papers"
+description: "AI Slips Into the Bibliography of AI Research · Why It Matters — But Also Why It’s Not a Crisis… Yet · AI Assistance vs. Human Verification · Broader…"
 date: 2026-01-22 20:23:00 +0800
 type: post
 published: true

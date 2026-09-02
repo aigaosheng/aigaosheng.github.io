@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ex-Google Founders Raise US$15.5M to Power AI-Driven Business Automation"
+description: "Former Google engineers have secured US$15.5 million in funding for their startup, Automat, which builds artificial intelligence tools to automate business…"
 date: 2025-11-21 21:07:00 +0800
 type: post
 published: true

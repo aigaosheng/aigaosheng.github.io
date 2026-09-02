@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Aspire Brings Wise-Powered Global Payments to Hong Kong — A Game Changer for SMEs"
+description: "What’s New: Fast, Cheap, Transparent Transfers · Why It Matters: Empowering SMEs & Scaling Digital Finance · What This Means for Businesses"
 date: 2025-12-09 21:26:00 +0800
 type: post
 published: true

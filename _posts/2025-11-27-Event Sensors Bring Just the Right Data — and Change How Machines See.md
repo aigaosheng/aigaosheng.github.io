@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Event Sensors Bring Just the Right Data — and Change How Machines See"
+description: "Why Event Sensors Matter · Where They’re Already Making an Impact · The Technical Hurdle — and How It’s Being Overcome · What This Could Mean for the…"
 date: 2025-11-27 20:07:00 +0800
 type: post
 published: true

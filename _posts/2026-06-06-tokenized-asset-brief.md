@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized asset Brief — 2026-06-06"
 series: "Tokenized Assets"
+description: "Securitize clears a key SEC registration hurdle for its planned NYSE debut · SEC publishes notice advancing exchange rules for trading securities in…"
 date: 2026-06-06 20:53:59 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-23"
 series: "US & China AI"
+description: "China Tops Global Supercomputer Ranking with Domestic Chips, but AI Relevance Questioned · AI+\" Moves Toward Large-Scale Commercialization, Experts Cite…"
 date: 2026-06-23 19:50:00 +0800
 type: post
 published: true

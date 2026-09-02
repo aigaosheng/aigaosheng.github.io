@@ -2,6 +2,7 @@
 layout: post
 title: "China AI & US AI Brief — 2026-07-24"
 series: "US & China AI"
+description: "US-China AI Rivalry Escalates Over Model Security, IP and Safety Cooperation · White House Draws New AI Policy Line on China, Protecting Open Models While…"
 date: 2026-07-24 19:36:00 +0800
 type: post
 published: true

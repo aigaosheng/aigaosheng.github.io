@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Progress Brief — May 14, 2026"
 series: "US & China AI"
+description: "China Unveils First National Tiered Oversight System for AI Agents · Morgan Stanley: China AI Enters “Value Capture” Phase as AI+ Accelerates · Tencent…"
 date: 2026-05-14 21:00:00 +0800
 type: post
 published: true

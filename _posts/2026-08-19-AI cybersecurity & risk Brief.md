@@ -3,6 +3,7 @@
 layout: post
 title: "AI cybersecurity & risk Brief — 2026-08-19"
 series: "AI Security & Risk"
+description: "OpenAI Pauses Major Frontier Training Run Over Cybersecurity Risks · OpenAI Overhauls Security Controls After Hugging Face Incident · Prevalent AI Raises…"
 date: 2026-08-19 21:22:00 +0800
 type: post
 published: true

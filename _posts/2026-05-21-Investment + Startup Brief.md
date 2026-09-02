@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — 2026-05-21"
 series: "Investment & Startups"
+description: "AI Startups Absorb 81% of Global VC Funds in Record Q1 2026 · Y Combinator Launches Dedicated \"Crypto Deals\" Package for Startups · Fintech Mercury Raises…"
 date: 2026-05-21 21:24:00 +0800
 type: post
 published: true

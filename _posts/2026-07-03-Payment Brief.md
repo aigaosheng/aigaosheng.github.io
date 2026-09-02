@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-03"
 series: "Payments"
+description: "UK moves to open app store payment ecosystems to competition · Japan’s SBI Holdings expands crypto footprint via Bitbank acquisition · France completes…"
 date: 2026-07-03 22:15:00 +0800
 type: post
 published: true

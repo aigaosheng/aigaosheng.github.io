@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-07"
 series: "Tokenized Assets"
+description: "SEC Developing Formal Framework for Tokenized Securities Trading · Goldman Sachs Launches $4.2 Billion Tokenized Real Estate Fund on GS DAP · Tokenized…"
 date: 2026-06-07 21:34:00 +0800
 type: post
 published: true

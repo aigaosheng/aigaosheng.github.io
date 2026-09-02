@@ -2,6 +2,7 @@
 layout: post
 title: "China AI update Brief — 2026-06-04"
 series: "US & China AI"
+description: "DeepSeek nears first outside funding round at roughly $60 billion valuation · Alibaba opens Qwen to third-party services to push AI agents into real…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

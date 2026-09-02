@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google’s Opal Levels Up- AI Agents Now Turn Text Prompts Into Interactive Workflows"
+description: "From Static Prompts to Dynamic Intelligence · The Bigger Picture: Agents Everywhere"
 date: 2026-02-25 20:21:00 +0800
 type: post
 published: true

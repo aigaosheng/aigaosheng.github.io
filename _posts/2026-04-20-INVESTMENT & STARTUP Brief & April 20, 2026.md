@@ -2,6 +2,7 @@
 layout: post
 title: "INVESTMENT & STARTUP Brief & April 20, 2026"
 series: "Investment & Startups"
+description: "Faraday Future Secures $45M Institutional Financing for EAI Strategy · Surf Air Mobility Raises $30M via Direct Offering + Asset-Backed Loan · Vertical…"
 date: 2026-04-20 20:37:00 +0800
 type: post
 published: true

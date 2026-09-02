@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Talk to Your Windows 11 PC? Microsoft's New Vision for Voice Interaction"
+description: "The Future of Computing: Conversational Interfaces · What's New in Windows 11? · Voice Interaction: A Game Changer · Implications for the Future"
 date: 2025-10-16 22:30:00 +0800
 type: post
 published: true

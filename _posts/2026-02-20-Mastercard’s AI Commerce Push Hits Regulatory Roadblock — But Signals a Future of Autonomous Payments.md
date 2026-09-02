@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mastercard’s AI Commerce Push Hits Regulatory Roadblock — But Signals a Future of Autonomous Payments"
+description: "Why It Matters: AI Agents Are Changing How We Buy · The Road Ahead: From Sandbox to Mainstream"
 date: 2026-02-20 21:52:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-05-22"
 series: "Tokenized Assets"
+description: "SEC's Peirce Narrows Scope of Upcoming Tokenized Stock Exemption · Securitize Moves Forward with $1.25B SPAC Merger to Go Public · Zama Acquires TokenOps…"
 date: 2026-05-22 20:26:00 +0800
 type: post
 published: true

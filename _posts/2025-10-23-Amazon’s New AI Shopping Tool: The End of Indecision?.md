@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Amazon’s New AI Shopping Tool - The End of Indecision?"
+description: "What Is the “Help Me Decide” Tool?"
 date: 2025-10-23 21:25:00 +0800
 type: post
 published: true

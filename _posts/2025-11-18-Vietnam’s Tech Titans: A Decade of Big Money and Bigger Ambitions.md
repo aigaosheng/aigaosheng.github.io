@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Vietnam’s Tech Titans - A Decade of Big Money and Bigger Ambitions"
+description: "Vietnam’s Funding Surge: From Frontier to Powerhouse · The Heavyweights: Who Raised the Most? · What the Funding Tells Us · A More Balanced Ecosystem"
 date: 2025-11-18 20:56:00 +0800
 type: post
 published: true

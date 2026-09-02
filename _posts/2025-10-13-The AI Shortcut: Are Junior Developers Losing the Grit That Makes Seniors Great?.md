@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The AI Shortcut: Are Junior Developers Losing the Grit That Makes Seniors Great?"
+description: "Building, Not Just Shipping"
 date: 2025-10-13 23:02:00 +0800
 type: post
 published: true

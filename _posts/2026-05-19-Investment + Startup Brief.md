@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — 2026-05-19"
 series: "Investment & Startups"
+description: "Google & Blackstone Launch $5B AI Cloud Venture · Skyroot Aerospace Becomes India's First Spacetech Unicorn · Radar Hits $1B Valuation with $170M Series B…"
 date: 2026-05-19 20:02:00 +0800
 type: post
 published: true

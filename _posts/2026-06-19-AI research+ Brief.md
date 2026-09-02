@@ -2,6 +2,7 @@
 layout: post
 title: "AI research Brief — 2026-06-19"
 series: "AI Research & Open Source"
+description: "OpenAI Hires Noam Shazeer and Dean Ball Ahead of IPO · FERC Mandates Fast Lane for AI Data Centers to Connect to the Grid · General Intuition Raises $300M…"
 date: 2026-06-19 20:48:00 +0800
 type: post
 published: true

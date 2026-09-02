@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-05-27"
 series: "Tokenized Assets"
+description: "Bernstein: Tokenized RWA Market Hits $51B as Private Credit Takes the Lead · Standard Chartered Forecasts $4 Trillion Tokenized Assets by 2028 · BlackRock…"
 date: 2026-05-27 21:21:00 +0800
 type: post
 published: true

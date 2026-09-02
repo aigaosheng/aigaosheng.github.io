@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Atome Secures US$345M in Debt to Power Southeast Asia Expansion"
+description: "Fueling Regional Scale and Profitability · Strategic Lender Support and Market Implications · What This Means for Southeast Asia’s Fintech Landscape"
 date: 2026-01-13 20:47:00 +0800
 type: post
 published: true

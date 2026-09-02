@@ -2,6 +2,7 @@
 layout: post
 title: "nvestment & Startup Brief — May 6, 2026"
 series: "Investment & Startups"
+description: "ElevenLabs Surpasses $500M ARR, Raises New Funding at $11B Valuation · a16z Launches $2.2B Crypto Fund V · DeepSeek Eyes Up to $50B Valuation in First…"
 date: 2026-05-06 20:33:00 +0800
 type: post
 published: true

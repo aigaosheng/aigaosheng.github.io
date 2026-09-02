@@ -2,6 +2,7 @@
 layout: post
 title: "SINGAPORE PLUS Brief & April 18, 2026"
 series: "Singapore"
+description: "Illegal weaponisation of Hormuz sets dangerous precedent: PM Wong Prime Minister Lawrence Wong warned global leaders that the weaponisation of the Strait…"
 date: 2026-04-18 23:36:00 +0800
 type: post
 published: true

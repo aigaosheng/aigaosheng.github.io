@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Nitro Commerce Just Scored a $5M Boost — and What It Means for Marketing Automation in Asia"
+description: "From Campaign Chaos to Automated Precision · Why This Funding Matters · Glossary — Key Terms Explained"
 date: 2026-01-08 20:26:00 +0800
 type: post
 published: true

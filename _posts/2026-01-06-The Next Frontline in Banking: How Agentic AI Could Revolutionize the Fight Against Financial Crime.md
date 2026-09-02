@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Next Frontline in Banking- How Agentic AI Could Revolutionize the Fight Against Financial Crime"
+description: "Why Traditional Methods Aren’t Cutting It · Enter Agentic AI — The Game Changer · What This Looks Like in the Real World · Foundational Shifts You Can’t…"
 date: 2026-01-06 22:53:00 +0800
 type: post
 published: true

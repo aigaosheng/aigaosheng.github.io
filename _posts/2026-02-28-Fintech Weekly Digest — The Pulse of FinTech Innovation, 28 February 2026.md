@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly Digest — The Pulse of FinTech Innovation, 28 February 2026"
 series: "AI & Fintech"
+description: "In-Depth Highlight: Augmentum Fintech’s Strategic Buy-Out · Market & Industry Insight · Company & Startup Spotlight · Regulatory & Policy Watch"
 date: 2026-02-28 16:20:00 +0800
 type: post
 published: true

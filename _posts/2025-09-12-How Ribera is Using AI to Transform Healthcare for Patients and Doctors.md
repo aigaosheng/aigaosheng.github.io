@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How Ribera is Using AI to Transform Healthcare for Patients and Doctors
+description: "From Reactive to Proactive Care · The Technology Behind the Change · Addressing Risks and Ethics"
 date: 2025-09-12 23:20:00 +0800
 type: post
 published: true

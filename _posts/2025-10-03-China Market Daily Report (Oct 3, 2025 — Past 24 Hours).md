@@ -2,6 +2,7 @@
 layout: post
 title: "China Market Daily Report (Oct 3, 2025 — Past 24 Hours)"
 series: "Market Reports"
+description: "Top News (Last 24h) · Abnormal Events / Risks · Social Media Sentiment (Weibo / X / Zhihu, last 24h)"
 date: 2025-10-03 09:41:00 +0800
 type: post
 published: true

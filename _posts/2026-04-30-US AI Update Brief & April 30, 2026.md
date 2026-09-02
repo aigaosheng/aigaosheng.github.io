@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Update Brief & April 30, 2026"
 series: "US & China AI"
+description: "Google–Pentagon classified AI deal accelerates military AI integration · Internal backlash grows over US military AI adoption in Big Tech · US defense AI…"
 date: 2026-04-30 21:31:00 +0800
 type: post
 published: true

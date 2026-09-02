@@ -2,6 +2,7 @@
 layout: post
 title: "Perplexity Weekly Insight Report"
 series: "AI Company Watch"
+description: "Perplexity Launches Revamped iPad App (Official Product Update) · Market & Industry Context (Supplemental)"
 date: 2025-12-20 21:16:00 +0800
 type: post
 published: true

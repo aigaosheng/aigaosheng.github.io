@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Oasis Security Raises $120M- Why AI’s Identity Crisis Is Becoming Cybersecurity’s Next Battleground"
+description: "The Funding Signal: $120M for a New Security Layer · The Core Problem: Machines Outnumber Humans 82:1 · Oasis’s Approach: “Agentic Access Management” · Why…"
 date: 2026-03-20 20:42:00 +0800
 type: post
 published: true

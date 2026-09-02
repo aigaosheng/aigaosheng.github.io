@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-13"
 series: "US & China AI"
+description: "U.S. Government Orders Anthropic to Disable Top AI Models Over Foreign Access Concerns · Coalition of 42 State Attorneys General Launches Probe into OpenAI"
 date: 2026-06-13 20:31:00 +0800
 type: post
 published: true

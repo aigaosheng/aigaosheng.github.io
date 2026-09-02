@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nokia’s AI Payday - How Optical Networks and Cloud Deals Turned a Slow Year into a Market Rally"
+description: "What actually moved the needle · Why this matters (beyond the PR) · The immediate market reaction"
 date: 2025-10-23 21:27:00 +0800
 type: post
 published: true

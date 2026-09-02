@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Technology Report – September 28, 2025"
 series: "AI Industry News"
+description: "Eric Schmidt Warns U.S. Tech Firms on Remote Work · Credo Technology Group Receives \"Buy\" Rating Upgrade · Emerging AI Research: Dysfluency Detection and…"
 date: 2025-09-28 17:03:00 +0800
 type: post
 published: true

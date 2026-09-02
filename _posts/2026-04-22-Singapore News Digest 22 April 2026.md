@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Digest 22 April 2026"
 series: "Singapore"
+description: "Infrastructure / Real Estate / Transport · Society / Education / Environment"
 date: 2026-04-22 21:13:00 +0800
 type: post
 published: true

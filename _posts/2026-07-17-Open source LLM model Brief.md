@@ -2,6 +2,7 @@
 layout: post
 title: "Open source LLM model Brief — 2026-07-17"
 series: "AI Research & Open Source"
+description: "Moonshot AI Launches Kimi K3, a 2.8 Trillion-Parameter Open Model Challenging Frontier AI Systems · Kimi K3 Triggers New Debate Over Open Models and Global…"
 date: 2026-07-17 21:55:14 +0800
 type: post
 published: true

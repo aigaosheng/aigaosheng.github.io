@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Fintech — 2026-06-29"
+description: "AI Fintech Brief — 2026-06-29 · Brokers Expand AI Trading Tools as Automated Agents Gain Traction · WNSTN Joins Google Cloud Marketplace with Enterprise…"
 date: 2026-06-29 19:48:00 +0800
 type: post
 published: true

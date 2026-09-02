@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rick Perry's Fermi IPO: A $19B Bet on AI-Powered Energy Infrastructure"
+description: "In a bold fusion of politics, technology, and energy, former U.S. Energy Secretary Rick Perry's startup, Fermi Inc., has launched an ambitious initial…"
 date: 2025-10-17 21:44:00 +0800
 type: post
 published: true

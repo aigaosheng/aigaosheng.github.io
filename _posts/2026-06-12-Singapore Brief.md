@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-06-12"
 series: "Singapore"
+description: "Applied Materials Injects $643M into Singapore to Capture AI Chip Demand · Tech Sector Poised to Surpass S-Reits as Dominant Force on Key SGX Index…"
 date: 2026-06-12 20:08:00 +0800
 type: post
 published: true

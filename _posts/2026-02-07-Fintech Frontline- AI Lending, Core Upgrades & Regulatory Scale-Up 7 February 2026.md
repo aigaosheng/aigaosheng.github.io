@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontline- AI Lending, Core Upgrades & Regulatory Scale-Up 7 February 2026"
+description: "In-Depth Highlight: FCA’s New Fintech Scale-Up Initiative · Market & Industry Insight · Digital Banking & Challenger Growth · AI & Process Automation in…"
 date: 2026-02-07 17:00:00 +0800
 type: post
 published: true

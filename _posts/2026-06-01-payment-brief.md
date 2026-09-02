@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-01"
 series: "Payments"
+description: "American Banker spotlights JPMorgan’s Umar Farooq for pushing faster expansion of blockchain-based payments · Financial Express reports UPI now powers…"
 date: 2026-06-01 20:51:03 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Next Big Technology After AI and Investment Opportunities
+description: "Quantum Computing: The Next Frontier · Brain-Computer Interfaces (BCIs): Merging Mind and Machine · Programmable Matter: Shape-Shifting Materials…"
 date: 2025-09-20 10:30:00 +0800
 type: post
 published: true

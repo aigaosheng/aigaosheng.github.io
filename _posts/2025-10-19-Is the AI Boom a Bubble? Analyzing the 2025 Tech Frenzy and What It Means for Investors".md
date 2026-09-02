@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Is the AI Boom a Bubble? Analyzing the 2025 Tech Frenzy and What It Means for Investors"
+description: "Artificial intelligence (AI) is currently driving one of the most significant investment surges in technology history, with companies like Nvidia, OpenAI…"
 date: 2025-10-19 21:11:00 +0800
 type: post
 published: true

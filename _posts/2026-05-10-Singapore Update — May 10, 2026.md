@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Update — May 10, 2026"
+description: "Singapore Retail Sales Exceed Forecasts Amid Resilient Domestic Demand ** Singapore’s retail sales figures have surpassed market expectations, signaling…"
 date: 2026-05-10 20:52:00 +0800
 type: post
 published: true

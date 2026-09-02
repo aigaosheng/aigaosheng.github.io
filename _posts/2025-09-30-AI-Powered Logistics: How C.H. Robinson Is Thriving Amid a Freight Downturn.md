@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI-Powered Logistics: How C.H. Robinson Is Thriving Amid a Freight Downturn"
+description: "From Skepticism to Success: The Bozeman Era · AI at the Core: Automating the Future of Freight · Lean and Mean: A Workforce Transformation · Positioned for…"
 date: 2025-09-30 22:35:00 +0800
 type: post
 published: true

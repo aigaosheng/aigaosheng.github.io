@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GV Backs AI-Powered Compliance Startup Complyance with $20M Series A to Transform Enterprise Risk Automation"
+description: "From Manual Checklists to Continuous AI Support · Why Investors Are Paying Attention · Competitive Landscape and Innovation Frontier · What It Means for…"
 date: 2026-02-12 20:32:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China Ups the Ante - Ant Group Engineers Break Reinforcement Learning Bottlenecks with Ring-1T"
+description: "Inside Ring-1T’s Design Revolution · Industry & Global Implications"
 date: 2025-10-25 21:23:00 +0800
 type: post
 published: true

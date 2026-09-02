@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — May 4, 2026"
 series: "AI & Fintech"
+description: "MAS Launches AI Initiative for Pre-emptive Scam Detection · AI Adoption Drives Fintech Job Creation, Not Job Loss · Anthropic Nears $1.5B AI Integration…"
 date: 2026-05-04 19:50:00 +0800
 type: post
 published: true

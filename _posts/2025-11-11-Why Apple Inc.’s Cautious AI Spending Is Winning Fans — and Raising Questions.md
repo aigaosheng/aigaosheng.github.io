@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Apple Inc.’s Cautious AI Spending Is Winning Fans — and Raising Questions"
+description: "Why Some See This as Smart · But the Risk Is Real · Implications for Investors, Users and Tech Strategy"
 date: 2025-11-11 21:06:00 +0800
 type: post
 published: true

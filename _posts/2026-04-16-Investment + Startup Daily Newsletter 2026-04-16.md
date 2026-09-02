@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Daily Newsletter 2026-04-16"
 series: "Investment & Startups"
+description: "Global VC funding hits record $300B in Q1 2026 driven by AI megadeals · Late-stage VC boom intensifies with $23.6B raised in growth funds · Accel closes…"
 date: 2026-04-16 21:03:00 +0800
 type: post
 published: true

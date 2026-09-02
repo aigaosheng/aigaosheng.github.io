@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why AI Browsers May Never Be Fully Secure — and What That Means for the Future of the Web"
+description: "The Risk Beneath the Surface"
 date: 2025-12-23 19:58:00 +0800
 type: post
 published: true

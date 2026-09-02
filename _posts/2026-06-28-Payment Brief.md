@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-28"
 series: "Payments"
+description: "Philippines Tightens Payment Authentication Rules as Banks and E-Wallets Move Beyond OTPs"
 date: 2026-06-28 17:23:14 +0800
 type: post
 published: true

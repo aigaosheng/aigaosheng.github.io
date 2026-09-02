@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Agents in Action - Foundations for Evaluation and Governance"
+description: "Key Findings & Conclusions · Critical Data & Facts"
 date: 2025-12-01 18:28:00 +0800
 type: post
 published: true

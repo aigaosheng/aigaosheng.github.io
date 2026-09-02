@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-03"
 series: "US & China AI"
+description: "White House Nears Release of Voluntary Frontier AI Model Standards · Meta Reportedly Expands Into AI Cloud Infrastructure · June U.S. Jobs Report…"
 date: 2026-07-03 22:29:00 +0800
 type: post
 published: true

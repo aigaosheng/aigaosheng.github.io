@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-04"
 series: "Enterprise AI"
+description: "White House Engages Leading AI Companies on Voluntary Advanced AI Safety Testing · Google Expands AI Infrastructure Financing Strategy Around Anthropic…"
 date: 2026-08-04 19:51:00 +0800
 type: post
 published: true

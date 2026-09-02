@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-29"
 series: "Enterprise AI"
+description: "HP Expands OpenAI Partnership with Enterprise-Wide Frontier Deployment · Hexaware Becomes Authorized Reseller for Anthropic's Claude on Amazon Bedrock…"
 date: 2026-06-29 19:51:00 +0800
 type: post
 published: true

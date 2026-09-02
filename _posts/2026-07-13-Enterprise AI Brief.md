@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-13"
 series: "Enterprise AI"
+description: "LTM and Anthropic Forge Major Partnership to Scale Claude Across Enterprise Workflows · Samsung Electronics Deploys Gemini Enterprise to its DX Division in…"
 date: 2026-07-13 21:15:00 +0800
 type: post
 published: true

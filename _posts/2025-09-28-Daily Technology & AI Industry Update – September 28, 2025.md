@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Technology & AI Industry Update – September 28, 2025"
 series: "AI Industry News"
+description: "OpenAI & UAE Forge Strategic AI Partnership · Anthropic Expands Global Leadership in Enterprise AI · Perplexity AI Launches Massive Search API · Google…"
 date: 2025-09-28 17:05:00 +0800
 type: post
 published: true

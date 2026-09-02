@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-07-07"
 series: "Singapore"
+description: "Singapore Proposes Tougher Penalties for Dangerous Driving and New Road Safety Measures · US Companies Remain Committed to Singapore Despite Rising…"
 date: 2026-07-07 21:12:14 +0800
 type: post
 published: true

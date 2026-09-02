@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SBS Transit Teams Up with Univers to Build AI Platform Aimed at Smarter, Greener Mobility"
+description: "AI at the Core of Future Transit · Lower Costs and Lower Carbon · More Predictable, Reliable Service · A Blueprint for Urban Mobility"
 date: 2025-11-19 21:53:00 +0800
 type: post
 published: true

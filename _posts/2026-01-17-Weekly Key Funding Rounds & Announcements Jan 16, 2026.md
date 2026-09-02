@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly VC & Startup Funding Tracker (Last 7 Days — updates to *Jan 17, 2026*)"
 series: "Investment & Startups"
+description: "Key Deal & Strategic Update Table (Jan 11–17, 2026) · Verified Trend Commentary (Jan 2026) · Capital Accumulation by a16z Signals Upcoming Deployment · YC…"
 date: 2026-01-17 21:20:00 +0800
 type: post
 published: true

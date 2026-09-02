@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily Newsletter April 9, 2026"
 series: "Enterprise AI"
+description: "Gartner Warns of Rising Security Incidents in Enterprise GenAI · ServiceNow Embeds AI Governance with New Context Engine · C3 AI Launches “C3 Code” for…"
 date: 2026-04-09 21:32:00 +0800
 type: post
 published: true

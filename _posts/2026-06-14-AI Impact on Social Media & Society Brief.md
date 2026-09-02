@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-14"
 series: "AI & Society"
+description: "Zuckerberg Admits \"Mistakes\" in Meta's AI Workforce Transformation · Canada Introduces \"Safe Social Media Act\" (Bill C-34) Targeting AI Chatbots…"
 date: 2026-06-14 16:55:00 +0800
 type: post
 published: true

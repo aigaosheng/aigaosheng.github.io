@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Update — Daily Brief 2026-04-17"
 series: "US & China AI"
+description: "China AI capability gap continues to narrow vs US · China doubles down on national “AI+” industrial strategy · US–China AI rivalry intensifies in…"
 date: 2026-04-17 21:51:00 +0800
 type: post
 published: true

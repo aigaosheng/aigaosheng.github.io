@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — April 21, 2026"
 series: "Investment & Startups"
+description: "Global late-stage VC surge driven by AI mega-funds · Space sector investment hits record $7.95B amid IPO speculation · Anthropic commits $100B+ to Amazon…"
 date: 2026-04-21 21:46:00 +0800
 type: post
 published: true

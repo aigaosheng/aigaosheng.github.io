@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore’s DayOne Secures a Whopping US$2B Series C to Power Global Data Infrastructure Boom"
+description: "What This Funding Means · A Broader Industry Signal"
 date: 2026-01-06 19:48:00 +0800
 type: post
 published: true

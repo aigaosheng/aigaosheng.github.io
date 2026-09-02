@@ -3,6 +3,7 @@
 layout: post
 title: "AI research & open-source model Brief — 2026-08-29"
 series: "AI research & open-source model"
+description: "Z.ai Releases GLM-5.3 as an Open-Weight Frontier Coding Model · Open Models Face a New Security Frontier as Researchers Demonstrate Hardware-Level Backdoor…"
 date: 2026-08-29 20:47:00 +0800
 type: post
 published: true

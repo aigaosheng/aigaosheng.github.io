@@ -2,6 +2,7 @@
 layout: post
 title: "Startup Daily Newsletter — April 7, 2026"
 series: "Investment & Startups"
+description: "Cybersecurity Unicorn Torq in Talks to Acquire AI Security Startup Jit*** · Clean Energy Startup Ecoil Raises $2.5M in Funding · Indian AI Infra Startup…"
 date: 2026-04-07 21:44:00 +0800
 type: post
 published: true

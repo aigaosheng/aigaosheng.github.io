@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Insight Report — Anthropic & Claude AI Jan 31 2026"
 series: "AI Company Watch"
+description: "Anthropic Bolsters Enterprise AI with Cowork Plugins · Anthropic Officially Expands Footprint with Major San Francisco Lease · Claude Code Generates Viral…"
 date: 2026-01-31 22:17:00 +0800
 type: post
 published: true

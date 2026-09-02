@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-05-25"
 series: "AI Governance & Regulation"
+description: "NYDFS Warns Financial Sector: AI Amplifies Cyber, Vendor, and Governance Risks Under Existing Law · 97% Claim AI Governance, but 53% Source Models from…"
 date: 2026-05-25 19:51:00 +0800
 type: post
 published: true

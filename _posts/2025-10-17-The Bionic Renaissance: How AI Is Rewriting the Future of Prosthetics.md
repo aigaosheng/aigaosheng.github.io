@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Bionic Renaissance: How AI Is Rewriting the Future of Prosthetics"
+description: "Meet the World's First AI-Powered Bionic Arm Recipient"
 date: 2025-10-17 22:07:00 +0800
 type: post
 published: true

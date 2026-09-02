@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why No Technical Founder + A Crowded Market = Big Red Flags in AI Start‑ups"
+description: "Why these red flags matter · Technical depth as a moat · Market crowding + hype cycles = trouble · Implications for founders, investors — and observers…"
 date: 2025-11-01 22:42:00 +0800
 type: post
 published: true

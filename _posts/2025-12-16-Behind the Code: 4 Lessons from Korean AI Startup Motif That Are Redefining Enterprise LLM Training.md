@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Behind the Code - 4 Lessons from Korean AI Startup Motif That Are Redefining Enterprise LLM Training"
+description: "Data Alignment Trumps Model Size · Long-Context Learning Is an Infrastructure Challenge · Reinforcement Learning Fine-Tuning Demands Discipline · Memory…"
 date: 2025-12-16 20:30:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Humanoid Hype: Why We're Not Ready for Robots in Our Homes Yet"
+description: "Imagine a robot that can fold your laundry, cook dinner, or even play chess with you. Sounds like a scene from a futuristic movie, right? Well, some…"
 date: 2025-10-10 23:21:00 +0800
 type: post
 published: true

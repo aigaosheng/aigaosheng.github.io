@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Daily Brief, April 17, 2026"
 series: "AI Governance & Regulation"
+description: "Bank of England Conducts AI Systemic Risk Stress Testing · Regulators Raise Concerns Over Advanced AI Cyber Capabilities · India Establishes Central AI…"
 date: 2026-04-17 21:00:00 +0800
 type: post
 published: true

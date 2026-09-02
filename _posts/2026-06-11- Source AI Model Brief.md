@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source AI Model Brief — 2026-06-11"
 series: "AI Research & Open Source"
+description: "Google Debuts DiffusionGemma, an Open-Source Model That Generates Entire Paragraphs at Once · Apple to Open-Source Foundation Models Framework, Adds Claude…"
 date: 2026-06-11 19:43:00 +0800
 type: post
 published: true

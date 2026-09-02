@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — 2026-07-13"
 series: "Investment & Startups"
+description: "Defence Tech Startup Helsing Valued at $18 Billion in Series E · Paradigm Expands Beyond Crypto with $1.2 Billion Fund · Carlyle to Acquire Controlling…"
 date: 2026-07-13 21:40:00 +0800
 type: post
 published: true

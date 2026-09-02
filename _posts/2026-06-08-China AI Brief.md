@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-08"
 series: "US & China AI"
+description: "Moonshot AI Seeks $30 Billion Valuation in New Funding Round · World's First Prefabricated 'AI-Power Island' Unveiled in Qingdao · Alibaba Restructures…"
 date: 2026-06-08 21:05:00 +0800
 type: post
 published: true

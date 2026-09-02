@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DeepSeek Innovations October 23 2025 Update"
+description: "Executive Summary: DeepSeek has released multiple significant updates and product launches in the last 72 hours. These include the DeepSeek AI 2025 Update…"
 date: 2025-10-23 22:07:00 +0800
 type: post
 published: true

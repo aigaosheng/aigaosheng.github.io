@@ -3,6 +3,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-19"
 series: "US & China AI"
+description: "China pushes back against US pressure to choose sides in the global AI race · China eases restrictions on Nvidia H200 chips as domestic AI race intensifies"
 date: 2026-08-19 21:18 +0800
 type: post
 published: true

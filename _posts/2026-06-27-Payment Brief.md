@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-27"
 series: "Payments"
+description: "EMVCo Proposes Universal Standard for Verifiable Digital Payment Credentials · Bank of England Publishes Draft Rules for Systemic Stablecoins · Deluxe to…"
 date: 2026-06-27 20:10:00 +0800
 type: post
 published: true

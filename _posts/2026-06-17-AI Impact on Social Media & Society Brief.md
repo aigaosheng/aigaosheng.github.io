@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-17"
 series: "AI & Society"
+description: "G7 Leaders to Discuss AI and Social Media Security Risks · Campaigners Urge G7 to Act on AI Risks for Children · Anthropic Pledges $200M to Study AI's…"
 date: 2026-06-17 20:11:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Saudi Arabia’s Bold AI Bet - New Venture Fund to Supercharge 25 Startups"
+description: "Saudi Arabia is stepping up its push into the global artificial intelligence economy with the launch of a pioneering AI-focused venture fund designed to…"
 date: 2026-01-08 20:15:00 +0800
 type: post
 published: true

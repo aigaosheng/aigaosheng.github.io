@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-05-21"
 series: "Tokenized Assets"
+description: "Trump Signs Executive Order Directing Fed to Open Payment Access · Plume Secures Bermuda Class M Digital Asset License · Tokenized RWA Hits $27.5B as IMF…"
 date: 2026-05-21 21:28:00 +0800
 type: post
 published: true

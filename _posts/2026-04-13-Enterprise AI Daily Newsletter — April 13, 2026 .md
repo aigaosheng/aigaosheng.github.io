@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily Newsletter — April 13, 2026"
 series: "Enterprise AI"
+description: "OpenAI Sora Shutdown Forces Enterprise Migration Planning · OpenText Expands Enterprise AI to AWS European Sovereign Cloud · Agentic AI Adoption…"
 date: 2026-04-13 20:00:00 +0800
 type: post
 published: true

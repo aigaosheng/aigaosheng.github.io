@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-05-27"
 series: "AI Governance & Regulation"
+description: "EC-Council Launches AI Governance Framework with Input from Citi, Microsoft, and Salesforce · Forcepoint Extends AI Data Security to Claude Enterprise · EU…"
 date: 2026-05-27 21:09:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Anthropic Weekly Insight Report — Jan 18–25, 2026"
 series: "AI Company Watch"
+description: "Anthropic Publishes Updated ‘Claude Constitution’ · Anthropic Partners with Teach For All to Expand Claude in Education · Operational Resilience: Claude…"
 date: 2026-01-25 16:50:00 +0800
 type: post
 published: true

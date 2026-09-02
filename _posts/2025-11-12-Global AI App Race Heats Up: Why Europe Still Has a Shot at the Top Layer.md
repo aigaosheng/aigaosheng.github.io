@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Global AI App Race Heats Up - Why Europe Still Has a Shot at the Top Layer"
+description: "Europe and Israel are narrowing the gap · Apps are moving faster than ever · Models vs. Applications vs. Data — models aren’t the only game · The big…"
 date: 2025-11-12 20:05:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 7 May 2026"
 series: "US & China AI"
+description: "China–US Move Toward Formal AI Diplomacy Signals Strategic Shift · DeepSeek Nears Landmark $50B Valuation in Major China AI Funding Round · State-Backed…"
 date: 2026-05-07 19:32:00 +0800
 type: post
 published: true

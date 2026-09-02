@@ -2,6 +2,7 @@
 layout: post 
 title: "Payment Brief — 2026-07-13" 
 series: "Payments"
+description: "Mastercard Explores Sale of UK Payments Subsidiary Vocalink · Bottomline Integrates Stablecoin Management into CFO Suite · Tokenisation Seen as Key to…"
 date: 2026-07-13 21:14:00 +0800 
 type: post 
 published: true 

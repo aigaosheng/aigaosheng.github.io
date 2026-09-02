@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Open-weight momentum - what Hugging Face’s latest models, papers and posts mean for production ML"
+description: "Hugging Face’s hub activity over the last two days reinforces an industry shift toward production-ready open models, domain benchmarks, and infrastructure…"
 date: 2025-10-23 21:50:00 +0800
 type: post
 published: true

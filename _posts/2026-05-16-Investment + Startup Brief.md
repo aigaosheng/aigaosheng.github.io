@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — 2026-05-16"
 series: "Investment & Startups"
+description: "Microsoft eyes startup acquisitions to reduce OpenAI reliance · Rapido hits $3B valuation with $240M primary funding · AI research lab Nof1 secures $15M…"
 date: 2026-05-16 20:26:00 +0800
 type: post
 published: true

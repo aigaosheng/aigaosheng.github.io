@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paper reading - Huxley‑Gödel Machine - Human‑Level Coding Agent Development by an Approximation of the Optimal Self‑Improving Machine"
+description: "Research topic & objective · Key findings & conclusions · Critical data & facts · Potential applications or implications"
 date: 2025-10-30 21:26:00 +0800
 type: post
 published: true

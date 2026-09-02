@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Scientists Call for a Positive Vision to Steer AI Toward the Public Good"
+description: "The Stakes Are High · A Vision for What’s Possible · Why the Research Community Must Engage · Implications for the Field"
 date: 2025-10-29 22:15:00 +0800
 type: post
 published: true

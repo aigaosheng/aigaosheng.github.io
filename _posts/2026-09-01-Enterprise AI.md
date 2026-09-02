@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-09-01"
 series: "Enterprise AI"
+description: "Airrived Launches Sovereign AI Platform for Enterprises · Descope Brings Cross-App Access Controls to Enterprise AI Agents · AMBR Repositions Around…"
 date: 2026-09-01 20:16:00 +0800
 type: post
 published: true

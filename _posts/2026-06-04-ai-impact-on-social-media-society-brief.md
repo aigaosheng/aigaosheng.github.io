@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-04"
 series: "AI & Society"
+description: "Instagram scrambles after hackers exploited Meta’s AI support bot to seize accounts · Google moves to calm publishers over AI Overviews traffic losses…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

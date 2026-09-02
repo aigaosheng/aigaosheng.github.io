@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily April 11, 2026"
 series: "Enterprise AI"
+description: "Amazon Commits $200B to AI Infrastructure Expansion · SAP Warns AI Transformation Will Be Painful but Necessary · AI Agent Arms Race Accelerates Across…"
 date: 2026-04-11 20:00:00 +0800
 type: post
 published: true

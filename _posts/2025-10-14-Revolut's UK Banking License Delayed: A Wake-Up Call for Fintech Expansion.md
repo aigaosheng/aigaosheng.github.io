@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Revolut's UK Banking License Delayed: A Wake-Up Call for Fintech Expansion"
+description: "The Roadblock: Risk Management at Scale · Ambitious Growth Meets Regulatory Scrutiny"
 date: 2025-10-14 23:23:00 +0800
 type: post
 published: true

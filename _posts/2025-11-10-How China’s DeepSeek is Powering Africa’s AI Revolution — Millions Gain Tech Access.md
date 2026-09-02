@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How China’s DeepSeek is Powering Africa’s AI Revolution — Millions Gain Tech Access"
+description: "Key Facts and Insights · Deeper Reflections and Implications"
 date: 2025-11-10 22:39:00 +0800
 type: post
 published: true

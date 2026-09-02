@@ -2,6 +2,7 @@
 layout: post
 title: "US AI update Brief — 2026-06-06"
 series: "US & China AI"
+description: "Trump signs national security AI memorandum to accelerate defense and intelligence adoption · White House issues companion fact sheet framing AI as a core…"
 date: 2026-06-06 20:53:59 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Society Brief — 2026-07-02"
 series: "AI & Society"
+description: "AI adoption expands across U.S. firms, but job impact remains narrow · UN warns AI could deepen global inequality without coordinated governance…"
 date: 2026-07-02 20:07:00 +0800
 type: post
 published: true

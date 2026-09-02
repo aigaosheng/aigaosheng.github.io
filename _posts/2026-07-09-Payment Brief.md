@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-09"
 series: "Payments"
+description: "Big U.S. Banks Explore Payment Network Acquisition to Bypass Debit Fee Caps · Nium Acquires Cypher to Expand Fiat-to-Digital Payment Infrastructure…"
 date: 2026-07-09 20:53:00 +0800
 type: post
 published: true

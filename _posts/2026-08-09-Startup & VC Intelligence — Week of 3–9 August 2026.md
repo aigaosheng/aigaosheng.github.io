@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Startup & VC Intelligence — Week of 3–9 August 2026"
+description: "Startup & VC Intelligence — 3–9 August 2026 · VC / Accelerator Activity · Sequoia — strongest signal this week · a16z — broad exposure to the AI physical…"
 date: 2026-08-09 17:00:00 +0800
 type: post
 published: true

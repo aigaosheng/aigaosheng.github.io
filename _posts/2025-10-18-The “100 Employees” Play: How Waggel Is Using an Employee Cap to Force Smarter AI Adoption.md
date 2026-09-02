@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The “100 Employees” Play: How Waggel Is Using an Employee Cap to Force Smarter AI Adoption"
+description: "The nutshell: what happened · The facts you should know · Why this matters (beyond pet insurance) · A few pragmatic takeaways for leaders"
 date: 2025-10-18 23:20:00 +0800
 type: post
 published: true

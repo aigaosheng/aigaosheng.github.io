@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Brookfield Aims to Raise $10B for AI Infrastructure Push — Backed by Nvidia and KIA"
+description: "Building the AI Backbone: What Brookfield Plans · Why This Matters: Implications of the Fund · What This Means for the Future"
 date: 2025-11-19 21:05:00 +0800
 type: post
 published: true

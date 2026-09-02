@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-17"
 series: "Enterprise AI"
+description: "Salesforce Acquires AI Customer Service Platform Fin for $3.6 Billion · HCLTech Invests $150 Million in Sarvam AI for 10.46% Stake · Microsoft Launches…"
 date: 2026-06-17 20:15:00 +0800
 type: post
 published: true

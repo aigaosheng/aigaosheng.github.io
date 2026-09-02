@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Analysis of Claude can now create and edit files
+description: "Impact analysis: Claude can now create and use files"
 date: 2025-09-12 23:54:00 +0800
 type: post
 published: true

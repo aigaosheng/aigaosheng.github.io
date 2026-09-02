@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Static Classifiers to Reasoning Engines - How OpenAI’s New Content-Moderation Model Raises the Game"
+description: "What’s the big shift? · Why this matters for enterprises · Implications for the wider AI ecosystem"
 date: 2025-10-30 20:49:00 +0800
 type: post
 published: true

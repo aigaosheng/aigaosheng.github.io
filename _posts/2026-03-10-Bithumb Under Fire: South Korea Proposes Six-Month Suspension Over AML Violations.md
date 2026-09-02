@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bithumb Under Fire: South Korea Proposes Six-Month Suspension Over AML Violations"
+description: "A Regulatory Storm Hits Bithumb · What the Suspension Would Actually Mean · A Broader Crackdown on Crypto Compliance · Market Impact: Trust, Liquidity, and…"
 date: 2026-03-10 21:00:00 +0800
 type: post
 published: true

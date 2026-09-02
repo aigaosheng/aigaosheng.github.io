@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-07"
 series: "AI & Fintech"
+description: "OSL Launches AI Agent Payments Platform in Hong Kong · OneBill Introduces AI-First CPQ360.ai for Enterprise Billing · US Retains Global FinTech Leadership…"
 date: 2026-08-07 19:48:00 +0800
 type: post
 published: true

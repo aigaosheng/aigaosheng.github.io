@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-27"
 series: "AI & Fintech"
+description: "Alipay Launches World’s First AI Wallet for Agentic Payment Management · McKinsey Warns Banks: No Grace Period as Consumers Trust AI for Stock Picks…"
 date: 2026-05-27 20:54:00 +0800
 type: post
 published: true

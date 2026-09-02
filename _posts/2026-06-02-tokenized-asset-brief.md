@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized asset Brief — 2026-06-02"
 series: "Tokenized Assets"
+description: "Citi says tokenized securities could reach $5.5 trillion by 2030 · Symbiotic launches a liquidity network aimed at making tokenized assets easier to exit…"
 date: 2026-06-02 20:27:52 +0800
 type: post
 published: true

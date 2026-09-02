@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bots Are Hijacking Your Favorite Brands—and You’re the Audience"
+description: "When Brands Become Battlefields · How Brands Can Fight Back"
 date: 2025-09-26 23:28:00 +0800
 type: post
 published: true

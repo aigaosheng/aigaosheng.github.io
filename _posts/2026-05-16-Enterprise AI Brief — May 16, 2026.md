@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 16, 2026"
 series: "Enterprise AI"
+description: "The enterprise AI landscape is moving decisively from experimentation to execution this week, with major shifts in market leadership, infrastructure…"
 date: 2026-05-16 19:43:00 +0800
 type: post
 published: true

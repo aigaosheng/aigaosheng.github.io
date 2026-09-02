@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Papers Daily Newsletter April 3, 2026"
 series: "AI Research & Open Source"
+description: "Today's Top 10 AI Research Papers · Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models · The Self…"
 date: 2026-04-03 21:50:00 +0800
 type: post
 published: true

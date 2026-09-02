@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Game-Changer in Government Tech - AI Is Coming for Your Taxes"
+description: "AI Meets Public Sector Grit · Major League Backers Bet Big · Beyond Margins: Why This Matters"
 date: 2025-10-21 22:31:00 +0800
 type: post
 published: true

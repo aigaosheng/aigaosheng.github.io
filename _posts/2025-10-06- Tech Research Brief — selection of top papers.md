@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI / Tech Research Brief — selection of top papers, October 6, 2025"
 series: "AI Research & Open Source"
+description: "Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward · To Distill or Decide? Understanding the Algorithmic Trade-off…"
 date: 2025-10-06 21:15:00 +0800
 type: post
 published: true

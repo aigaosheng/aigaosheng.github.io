@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance Brief — 2026-09-01"
 series: "AI governance"
+description: "U.S. Pushes G20 Toward a Light-Touch Global AI Regulatory Model · Russia's First Dedicated AI Law Takes Effect · AI Governance Needs a Human-Judgment…"
 date: 2026-09-01 20:42:00 +0800
 type: post
 published: true

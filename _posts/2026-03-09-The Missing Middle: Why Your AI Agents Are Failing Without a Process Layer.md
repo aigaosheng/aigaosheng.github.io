@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Missing Middle- Why Your AI Agents Are Failing Without a Process Layer"
+description: "What a Process Layer Actually Does · The Three Infrastructure Gaps Killing Deployments · The Market Signal: Infrastructure Is Where Value Consolidates…"
 date: 2026-03-09 21:33:00 +0800
 type: post
 published: true

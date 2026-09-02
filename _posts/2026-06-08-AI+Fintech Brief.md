@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-08"
 series: "AI & Fintech"
+description: "Visa, Mastercard and Coinbase Battle Over $5T AI-Agent Payments Market · HSBC CEO: AI Is Everywhere, But Humans Remain Core to Banking · FIS Partners with…"
 date: 2026-06-08 21:14:00 +0800
 type: post
 published: true

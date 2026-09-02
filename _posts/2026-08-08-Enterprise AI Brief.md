@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-08"
 series: "Enterprise AI"
+description: "Enterprise AI Security Moves Toward Centralized Agent Governance · Atlassian Rovo Exposure Highlights the Security Challenge of Agentic Enterprise Software"
 date: 2026-08-08 17:13:00 +0800
 type: post
 published: true

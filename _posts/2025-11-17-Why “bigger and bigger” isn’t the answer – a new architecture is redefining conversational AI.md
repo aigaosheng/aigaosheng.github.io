@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why “bigger and bigger” isn’t the answer – a new architecture is redefining conversational AI"
+description: "Key insights for application"
 date: 2025-11-17 21:48:00 +0800
 type: post
 published: true

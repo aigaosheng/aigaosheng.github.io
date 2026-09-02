@@ -3,6 +3,7 @@
 layout: post
 title: "AI Finance in Singapore Brief — 2026-08-28"
 series: "AI Finance in Singapore"
+description: "Singapore Pushes AI Fluency Across the Accountancy and Finance Profession · Singapore Fintech Investment Falls Sharply as Capital Concentrates in Larger…"
 date: 2026-08-28 21:02:00 +0800
 type: post
 published: true

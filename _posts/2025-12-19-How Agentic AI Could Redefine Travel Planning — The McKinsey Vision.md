@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Agentic AI Could Redefine Travel Planning — The McKinsey Vision"
+description: "From Helper to Doer: What Makes Agentic AI Different · What This Means for Travelers · What It Means for the Travel Industry · Glossary — Key Terms"
 date: 2025-12-19 22:16:00 +0800
 type: post
 published: true

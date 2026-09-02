@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cohere Eyes Bold IPO, Taking on OpenAI in the AI Arms Race"
+description: "What’s Behind the Decision?"
 date: 2025-10-21 22:26:00 +0800
 type: post
 published: true

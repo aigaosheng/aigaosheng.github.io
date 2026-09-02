@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI’s GPT Image 1.5 Takes the Visual AI Crown — Enterprise-Ready, Faster, and Facing Down Google’s Nano Banana"
+description: "OpenAI just delivered a major upgrade to its AI image technology, rolling out GPT Image 1.5 across ChatGPT and its API — a release that’s turning heads in…"
 date: 2025-12-17 20:46:00 +0800
 type: post
 published: true

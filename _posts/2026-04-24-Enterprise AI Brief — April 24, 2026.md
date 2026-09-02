@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — April 24, 2026"
 series: "Enterprise AI"
+description: "Big Tech Doubles Down on AI, Reshaping Workforce Structures · Microsoft Expands Global AI Infrastructure with $18B Australia Investment · Cohere and Aleph…"
 date: 2026-04-24 21:38:00 +0800
 type: post
 published: true

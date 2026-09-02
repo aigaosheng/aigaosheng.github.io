@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Trillion-Dollar Gamble - AI’s Boom, Its Bubble, and the Battle for Supremacy"
+description: "A $15 Trillion AI Surge · Chips, Labs, and the Silicon Race · Beyond Chatbots: Energy, Ethics, and Accuracy · Lessons from History and the Road Ahead"
 date: 2025-11-20 21:52:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-05-27"
 series: "Singapore"
+description: "Economies raise Singapore’s 2026 GDP forecast on AI investment boom · Alibaba Cloud partners with NTUC and ST Telemedia to boost AI training · NTU…"
 date: 2026-05-27 20:50:00 +0800
 type: post
 published: true

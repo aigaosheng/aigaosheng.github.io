@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-23"
 series: "Enterprise AI"
+description: "AI Infrastructure Startup Baseten Hits $13B Valuation in Blockbuster $1.5B Series F · Attention Raises $30M Series B to Build Action-Oriented AI for…"
 date: 2026-06-23 20:00:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Build my first AI product taxi invoice metadata extraction
+description: "In the current era, AI is a fancy term, being talked everywhere. But when we visit and learn from SME in Singapore, it is a different scenaria. For…"
 date: 2025-08-15 
 type: post
 published: true

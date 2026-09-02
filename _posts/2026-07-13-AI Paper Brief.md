@@ -2,6 +2,7 @@
 layout: post  
 title: "AI Paper Brief — 2026-07-13"  
 series: "AI Research & Open Source"
+description: "Benchmarking AI-Generated vs. Human-Authored Scientific Papers · Study Reveals 22.5% of Computer Science Papers Show AI Content · The Silent Revolution…"
 date: 2026-07-13 21:45:14 +0800  
 type: post  
 published: true  

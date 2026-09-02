@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore local update Brief — 2026-06-02"
 series: "Singapore"
+description: "Woman and child locked on MBS balcony during robbery; three arrested after Shanghai-bound flight recalled · Singapore High Court dismisses Indonesian…"
 date: 2026-06-02 20:27:52 +0800
 type: post
 published: true

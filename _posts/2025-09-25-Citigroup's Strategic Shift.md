@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Citigroup's Strategic Shift: 1,000 Tech Jobs Move from China to India"
+description: "In a significant move that underscores the evolving dynamics of global business operations, Citigroup has transitioned nearly 1,000 technology positions…"
 date: 2025-09-25 23:21:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lean 4 - The Proof Engine Powering the Next Era of Trustworthy AI"
+description: "What Is Lean 4—and Why It Matters · Lean 4 as a Safety Net for LLMs · Building More Reliable & Secure Systems · Who’s Using Lean 4 — And Why It’s Gaining…"
 date: 2025-11-23 21:16:00 +0800
 type: post
 published: true

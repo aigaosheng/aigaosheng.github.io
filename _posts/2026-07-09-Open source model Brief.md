@@ -2,6 +2,7 @@
 layout: post
 title: "Open source model Brief — 2026-07-09"
 series: "AI Research & Open Source"
+description: "China Considers Tighter Controls on Open AI Models as Global Dependence Grows · Open Source AI Models Become Strategic Assets in the Global AI Race · Cost…"
 date: 2026-07-09 21:03:00 +0800
 type: post
 published: true

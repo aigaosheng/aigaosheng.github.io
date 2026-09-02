@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC & Accelerator — Latest 7-Day Report (Oct 18–25, 2025)"
+description: "Trends — Brief commentary & actionable insights"
 date: 2025-10-25 22:02:00 +0800
 type: post
 published: true

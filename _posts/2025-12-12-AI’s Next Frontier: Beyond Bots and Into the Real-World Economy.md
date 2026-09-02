@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI’s Next Frontier - Beyond Bots and Into the Real-World Economy"
+description: "Robotaxis: Driving a Trillion-Dollar Future · Healthcare: Smarter, Faster, More Precision · Copper & the Material Backbone of AI Infrastructure · Why This…"
 date: 2025-12-12 21:55:00 +0800
 type: post
 published: true

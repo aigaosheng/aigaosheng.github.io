@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AgiBot's Ambitious Leap: China's Humanoid Robotics Giant Eyes HK$50B IPO"
+description: "What Sets AgiBot Apart"
 date: 2025-10-10 23:47:00 +0800
 type: post
 published: true

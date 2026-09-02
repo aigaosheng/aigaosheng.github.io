@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-18"
 series: "Enterprise AI"
+description: "OpenAI Accelerates Enterprise Push as AI Reaches ‘Inflection Point’ in the Workplace · OpenAI and Anthropic Launch Dedicated ‘Deployment Companies’ to…"
 date: 2026-05-18 20:10:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Neon Debacle: A Stark Warning in the Age of AI"
+description: "Why Privacy & Security Are Critical in the AI Era · AI thrives on data—your data · Repercussions of a breach scale with intelligence · Users can’t…"
 date: 2025-09-26 23:02:00 +0800
 type: post
 published: true

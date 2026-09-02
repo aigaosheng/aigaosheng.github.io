@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-10"
 series: "Payments"
+description: "Nuvei and BlackLine Integrate Payments, Invoicing and Reconciliation · SeerBit Adds PayPal to Expand Cross-Border Payments for African Merchants · Botim…"
 date: 2026-08-10 21:46:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI/Tech Research Update — October 9 2025"
 series: "AI Research & Open Source"
+description: "Top papers (ranked by novelty / impact) · 1 h1: Bootstrapping LLMs to Reason over Longer Horizons via Reinforcement Learning · 2 Open ASR Leaderboard…"
 date: 2025-10-09 21:39:00 +0800
 type: post
 published: true

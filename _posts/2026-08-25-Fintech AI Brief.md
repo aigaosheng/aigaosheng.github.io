@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-25"
 series: "AI & Fintech"
+description: "Revolut Launches AI Research Unit and Develops Proprietary Financial Foundation Model · Starling Launches Agentic AI Assistant for Business Customers…"
 date: 2026-08-25 20:20:00 +0800
 type: post
 published: true

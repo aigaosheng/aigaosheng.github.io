@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-06"
 series: "Payments"
+description: "Ajman Bank and AFS Partner to Expand Digital Payment Services · Singapore Continues Financial Infrastructure Upgrades Around Real-Time Payments · Stripe…"
 date: 2026-07-06 20:35:00 +0800
 type: post
 published: true

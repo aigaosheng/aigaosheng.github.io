@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-20"
 series: "Payments"
+description: "UnionPay Expands E-Commerce Acceptance Across Nine African Markets · ShopeePay and TenPay Global Launch QR Payments for Southeast Asian Travelers in China…"
 date: 2026-08-20 19:51:00 +0800
 type: post
 published: true

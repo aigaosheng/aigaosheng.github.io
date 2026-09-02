@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SEC Gives Green Light for AI-Assisted Proxy Voting — A Quiet But Big Shift for Wall Street"
+description: "In a development that could reshape how trillions in shareholder votes are cast, a senior U.S. Securities and Exchange Commission official has signaled a…"
 date: 2026-01-09 20:23:00 +0800
 type: post
 published: true

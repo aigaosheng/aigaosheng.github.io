@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-22"
 series: "Investment & Startups"
+description: "Meta in Talks to Invest in India's CRED at $4B Valuation · Lime to Name Uber as Anchor Investor in IPO · SpaceX Surpasses Amazon as Fifth Most Valuable…"
 date: 2026-06-22 08:00:00 +0800
 type: post
 published: true

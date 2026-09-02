@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NASA’s New Space‑Watchdog Catches Tsunami Before It Hits Land"
+description: "The limitations and the path ahead · What this means for Singapore and similar coastal regions"
 date: 2025-11-11 21:41:00 +0800
 type: post
 published: true

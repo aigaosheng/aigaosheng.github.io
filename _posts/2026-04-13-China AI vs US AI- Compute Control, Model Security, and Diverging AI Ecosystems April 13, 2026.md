@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China AI vs US AI- Compute Control, Model Security, and Diverging AI Ecosystems April 13, 2026"
+description: "US Frontier AI Firms Coordinate on Model Security Against Copying Risks · Persistent GPU Supply Chain Leakage Despite Export Controls · AI Competition…"
 date: 2026-04-13 20:16:00 +0800
 type: post
 published: true

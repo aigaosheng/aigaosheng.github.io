@@ -3,6 +3,7 @@
 layout: post
 title: "investment startup Brief — 2026-08-19"
 series: "Investment & Startups"
+description: "KKR to Acquire 6% of BookMyShow in Bet on India’s Live-Entertainment Boom · Rivian Spinout Also Raises $150M for Autonomous Transportation · Relativity…"
 date: 2026-08-19 21:15 +0800
 type: post
 published: true

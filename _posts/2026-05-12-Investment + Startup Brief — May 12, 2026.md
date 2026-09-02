@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — May 12, 2026"
 series: "Investment & Startups"
+description: "Fun Raises $72M to Bridge Crypto and Traditional Payments Source · Qubit Capital · May 11, 2026 Summary — Crypto-fiat payments infrastructure startup Fun…"
 date: 2026-05-12 20:52:00 +0800
 type: post
 published: true

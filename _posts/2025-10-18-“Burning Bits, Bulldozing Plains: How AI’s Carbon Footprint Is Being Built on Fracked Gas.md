@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Burning Bits, Bulldozing Plains: How AI’s Carbon Footprint Is Being Built on Fracked Gas"
+description: "The AI–Fossil Fuel Nexus: What’s Going On · Motivations, Consequences, and Trade-offs · Humans, Power, and the AI Mirage · What This Means Going Forward"
 date: 2025-10-18 17:50:00 +0800
 type: post
 published: true

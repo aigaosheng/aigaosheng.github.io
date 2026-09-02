@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The AI Services Transformation: A VC Dream or a Corporate Nightmare?"
+description: "The VC Vision: AI-Powered Service Roll-Ups · The Reality Check: AI's Unintended Consequences · The Human Element: Balancing Automation with Expertise · The…"
 date: 2025-09-29 22:33:00 +0800
 type: post
 published: true

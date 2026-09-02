@@ -3,6 +3,7 @@
 layout: post
 title: "Tokenized asset Brief — 2026-08-20"
 series: "Tokenized Assets"
+description: "GSR: Tokenized Fixed Income Could Become Institutional Collateral · Injective Registers SEC Transfer Agent to Build Institutional Tokenization…"
 date: 2026-08-20 20:10 +0800
 type: post
 published: true

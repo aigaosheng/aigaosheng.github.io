@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ChemLex Raises US$45M, Launches Autonomous AI Lab in Singapore — A New Era for Drug Discovery"
+description: "What’s New: The Self-Driving Lab · Strategic Partnerships & Singapore’s Role · Why “AI-Powered Chemistry” Is Poised to Disrupt Pharma · Broader…"
 date: 2025-12-08 21:00:00 +0800
 type: post
 published: true

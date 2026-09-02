@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Frontier AI Labs Intelligence Brief — 2026-05-03"
 series: "AI Industry News"
+description: "Pentagon Expands AI Military Partnerships · Anthropic Refuses Pentagon Terms, Faces Exclusion · OpenAI Enables Multi-Cloud Distribution · DeepSeek Launches…"
 date: 2026-05-03 19:46:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IBM Granite 4.0 Nano - Tiny Open-Source AI Models Unlock Big Local Power"
+description: "Nano Models, Major Impact · How Granite 4.0 Nano Works · Trust, Privacy, and Community"
 date: 2025-10-29 21:35:00 +0800
 type: post
 published: true

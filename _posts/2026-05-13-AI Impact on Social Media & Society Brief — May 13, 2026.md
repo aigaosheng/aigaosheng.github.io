@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — May 13, 2026"
 series: "AI & Society"
+description: "EU Commission Chief Calls for ‘Social Media Delay’ to Protect Children Online Source · Bernama · May 13, 2026 Summary · Ursula von der Leyen urged stronger…"
 date: 2026-05-13 20:06:00 +0800
 type: post
 published: true

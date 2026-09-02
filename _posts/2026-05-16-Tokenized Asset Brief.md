@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-05-16"
 series: "Tokenized Assets"
+description: "NYSE Officially Files to Enable Tokenized Stock Trading in Landmark Pilot · Binance Research Pegs Tokenized Asset Market at $31.4B, Forecasts…"
 date: 2026-05-16 20:30:00 +0800
 type: post
 published: true

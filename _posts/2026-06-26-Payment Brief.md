@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-26"
 series: "Payments"
+description: "Zambia Completes Cheque Phase-Out, Ending Traditional Paper Payment Instrument · Bluefin and LANDI Global Partner on Direct-to-Processor P2PE Security…"
 date: 2026-06-26 20:23:00 +0800
 type: post
 published: true

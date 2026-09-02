@@ -2,6 +2,7 @@
 layout: post
 title: "US AI+ Brief — 2026-05-25"
 series: "US & China AI"
+description: "Trump Postpones AI Executive Order After Tech Adviser Pushback · Hedge Funds Boost Tech Exposure to Record Highs on AI Bet · StitcherAI Raises $3 Million…"
 date: 2026-05-25 20:10:00 +0800
 type: post
 published: true

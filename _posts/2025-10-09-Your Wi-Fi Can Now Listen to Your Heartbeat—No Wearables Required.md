@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Your Wi-Fi Can Now Listen to Your Heartbeat—No Wearables Required"
+description: "Imagine this: you’re lounging on your couch after a long day, and without strapping on a smartwatch or clipping on a pulse oximeter, your heartbeat is…"
 date: 2025-10-09 23:03:00 +0800
 type: post
 published: true

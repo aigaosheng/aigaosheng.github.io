@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-11"
 series: "Investment & Startups"
+description: "Lawn Tennis Association Enters Venture Capital to Back Sports Startups · Ashton Kutcher’s Decimal Capital Targets $500M Fund for Next-Generation Technology…"
 date: 2026-07-11 23:12:00 +0800
 type: post
 published: true

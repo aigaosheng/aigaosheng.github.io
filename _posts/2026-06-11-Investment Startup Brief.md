@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-11"
 series: "Investment & Startups"
+description: "Data Security Firm Cyera Raises $600M at $12B Valuation · Hark Launches with $700M Series A at $6B Valuation for AI Personalized Intelligence · Robinhood…"
 date: 2026-06-11 20:18:00 +0800
 type: post
 published: true

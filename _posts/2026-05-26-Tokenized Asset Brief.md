@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-05-26"
 series: "Tokenized Assets"
+description: "Ondo Finance Founder Dies Suddenly, Leadership Transitions to President · Bitget Launches \"Reality\" Platform for Regulated Tokenized Stocks · Brian…"
 date: 2026-05-26 21:14:00 +0800
 type: post
 published: true

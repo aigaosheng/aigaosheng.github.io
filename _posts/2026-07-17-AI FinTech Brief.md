@@ -2,6 +2,7 @@
 layout: post
 title: "AI FinTech Brief — 2026-07-17"
 series: "AI & Fintech"
+description: "Global FinTech Funding Climbs 23% as Investors Double Down on AI Infrastructure · Longbridge Launches World's First AI-Native Investing Platform · Oak…"
 date: 2026-07-17 21:33:00 +0800
 type: post
 published: true

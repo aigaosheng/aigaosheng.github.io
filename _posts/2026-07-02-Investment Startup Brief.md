@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-02"
 series: "Investment & Startups"
+description: "Together AI raises $800M at $8.3B valuation, fueling neocloud expansion · OXMIQ raises $35M to build licensable AI chip architecture · Sparrow Capital…"
 date: 2026-07-02 19:45:00 +0800
 type: post
 published: true

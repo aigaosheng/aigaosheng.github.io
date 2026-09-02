@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic Challenges Rivals with Claude Sonnet 4.5"
+description: "Technical and Safety Enhancements · Market Impact and Competitive Landscape"
 date: 2025-09-30 17:44:00 +0800
 type: post
 published: true

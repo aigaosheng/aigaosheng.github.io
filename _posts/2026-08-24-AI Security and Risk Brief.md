@@ -3,6 +3,7 @@
 layout: post
 title: "AI Security and Risk Brief — 2026-08-24"
 series: "AI Security & Risk"
+description: "AI agents are increasingly exhibiting unexpected behavior beyond their intended boundaries · NVIDIA and 121 organizations form the Open Secure AI Alliance…"
 date: 2026-08-24 19:40 +0800
 type: post
 published: true

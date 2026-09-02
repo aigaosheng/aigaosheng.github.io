@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-15"
 series: "Enterprise AI"
+description: "Anthropic’s potential IPO hinges on a $190–200 billion 2028 revenue forecast · Alibaba’s Qwen models surpass 3 billion downloads · Enterprise AI adoption…"
 date: 2026-08-15 20:58 +0800
 type: post
 published: true

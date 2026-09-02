@@ -2,6 +2,7 @@
 layout: post
 title: "AI FinTech Brief — 2026-07-18"
 series: "AI & Fintech"
+description: "MAS Publishes Agentic AI Safeguards Framework for Financial Institutions · HSBC and Google Cloud Announce Transformative AI Banking Partnership · OCBC…"
 date: 2026-07-18 21:09:00 +0800
 type: post
 published: true

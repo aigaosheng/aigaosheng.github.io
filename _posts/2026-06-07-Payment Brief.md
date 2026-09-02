@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-07"
 series: "Payments"
+description: "Agentic Payment Protocols Surge as AI Agents Drive Industry Standardization · B2B Stablecoin Payments Volume Surges 733% to $226 Billion · Mastercard…"
 date: 2026-06-07 08:00:00 +0800
 type: post
 published: true

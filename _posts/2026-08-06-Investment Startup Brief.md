@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-06"
 series: "Investment & Startups"
+description: "Piper Serica Raises ₹300 Crore First Close for DeepTech-Focused Bharat Tech Fund · HomeRun Raises $12 Million to Scale Construction Commerce Platform…"
 date: 2026-08-06 21:40:00 +0800
 type: post
 published: true

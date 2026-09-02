@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Small, Smart & Multimodal - A New Way to Train AI to See and Reason"
+description: "A new framework: OpenMMReasoner · What’s New — Compared to Previous AI Training · What It Means for Developers & the AI Ecosystem"
 date: 2025-12-03 21:09:00 +0800
 type: post
 published: true

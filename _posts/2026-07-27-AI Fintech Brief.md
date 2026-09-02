@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-27"
 series: "AI & Fintech"
+description: "HSBC Singapore Establishes Global AI Centre of Excellence Focused on Wealth and Payments · MAS and Bank of Thailand Deepen Cybersecurity Cooperation for…"
 date: 2026-07-27 19:30:00 +0800
 type: post
 published: true

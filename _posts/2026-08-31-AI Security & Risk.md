@@ -3,6 +3,7 @@
 layout: post
 title: "AI Security & Risk Brief — 2026-08-31"
 series: "AI Security & Risk"
+description: "More Than 100 Technology Companies Call for a Defensive Surge Against AI-Driven Cyberattacks · Financial Stability Board Warns AI-Driven Cyber Risk Could…"
 date: 2026-08-31 20:29:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update February 7, 2026"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by novelty & impact) · Self‑Hinting Language Models Enhance Reinforcement Learning · Accelerating Scientific Research with Gemini: Case…"
 date: 2026-02-07 20:37:00 +0800
 type: post
 published: true

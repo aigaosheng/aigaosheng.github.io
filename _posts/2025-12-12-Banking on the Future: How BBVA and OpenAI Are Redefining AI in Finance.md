@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Banking on the Future - How BBVA and OpenAI Are Redefining AI in Finance"
+description: "From Pilot Program to Enterprise Transformation · Smarter Banking for Customers and Staff"
 date: 2025-12-12 21:35:00 +0800
 type: post
 published: true

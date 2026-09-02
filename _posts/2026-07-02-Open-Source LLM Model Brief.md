@@ -2,6 +2,7 @@
 layout: post
 title: "Open-Source LLM Model Brief — 2026-07-02"
 series: "AI Research & Open Source"
+description: "China’s GLM-5.2 accelerates global open-model competition · Portugal launches “Amália,” its first national open-source LLM · Anthropic regains global…"
 date: 2026-07-02 20:00:00 +0800
 type: post
 published: true

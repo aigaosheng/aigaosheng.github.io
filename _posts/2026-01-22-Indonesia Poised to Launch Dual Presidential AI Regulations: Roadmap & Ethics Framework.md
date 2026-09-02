@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Indonesia Poised to Launch Dual Presidential AI Regulations- Roadmap & Ethics Framework"
+description: "A Strategic Pivot Toward Responsible AI Governance · Why This Matters for Indonesia’s Digital Future"
 date: 2026-01-22 20:52:00 +0800
 type: post
 published: true

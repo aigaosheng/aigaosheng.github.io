@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Terahertz Radar — The Next Big Leap in Vehicle Safety and Sensor Tech"
+description: "A New Sensor Era: How Terahertz Radar Works"
 date: 2025-11-21 22:12:00 +0800
 type: post
 published: true

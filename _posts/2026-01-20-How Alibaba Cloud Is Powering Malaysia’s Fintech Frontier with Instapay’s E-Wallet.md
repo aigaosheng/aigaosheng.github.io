@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Alibaba Cloud Is Powering Malaysia’s Fintech Frontier with Instapay’s E-Wallet"
+description: "Why This Matters: Financial Inclusion Meets Cutting-Edge Cloud Tech · Instapay’s Growth — And Malaysia’s Fintech Momentum · The Broader Fintech Narrative…"
 date: 2026-01-20 20:34:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "The Fintech Pulse- AI Agents Reshape Banking, Payments Go Account-First"
 series: "AI & Fintech"
+description: "In‑Depth Highlight: Fiserv's AgentOS – The Enterprise AI Operating System for Banking · Market & Industry Insight: The Rise of Agentic Commerce &…"
 date: 2026-05-17 21:09:00 +0800
 type: post
 published: true

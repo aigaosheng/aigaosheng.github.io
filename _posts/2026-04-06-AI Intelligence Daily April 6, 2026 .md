@@ -2,6 +2,7 @@
 layout: post
 title: "AI Intelligence Daily April 6, 2026 "
 series: "AI Industry News"
+description: "OpenAI CEO and CFO Are at Odds Over IPO Timing · What the Coming Big AI IPOs Mean for Tech Stocks · AI Start-Ups Are Attacking Retail's \"$849B Silent…"
 date: 2026-04-06 20:32:00 +0800
 type: post
 published: true

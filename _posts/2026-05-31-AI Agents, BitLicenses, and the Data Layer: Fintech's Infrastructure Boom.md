@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Agents, BitLicenses, and the Data Layer- Fintech's Infrastructure Boom"
+description: "Market & Industry Insight · Company & Startup Spotlight · Regulatory & Policy Watch · Quote of the Day"
 date: 2026-05-31 20:40:00 +0800
 type: post
 published: true

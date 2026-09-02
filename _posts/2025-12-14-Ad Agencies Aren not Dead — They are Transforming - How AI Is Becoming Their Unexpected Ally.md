@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ad Agencies Aren not Dead — They are Transforming - How AI Is Becoming Their Unexpected Ally"
+description: "From Wall Street Underperformers to Strategic Winners · Why Agencies Still Matter in the AI Era · Strategic Orchestration Across Channels · Lower Costs…"
 date: 2025-12-14 22:06:00 +0800
 type: post
 published: true

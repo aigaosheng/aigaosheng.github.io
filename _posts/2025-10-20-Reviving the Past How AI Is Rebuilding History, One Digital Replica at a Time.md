@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reviving the Past: How AI Is Rebuilding History, One Digital Replica at a Time"
+description: "Introduction: Imagine stepping into a virtual Notre Dame Cathedral, not as it stands today, but as it appeared centuries ago—its original spires, intricate…"
 date: 2025-10-20 23:07:00 +0800
 type: post
 published: true

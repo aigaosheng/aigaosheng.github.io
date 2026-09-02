@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — May 13, 2026"
 series: "Tokenized Assets"
+description: "JPMorgan Doubles Down, Files for Second Tokenized Money Market Fund Source · FA Mag · May 12, 2026 Summary · JPMorgan Chase's asset management arm has…"
 date: 2026-05-13 20:10:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI’s Power Shift- How Intelligence Technology Could Slash Global Energy Use by Up to 30%"
+description: "A Balancing Act: Demand vs. Efficiency · Real-World Optimizations: From HVAC to Grid Management · Why It Matters: Energy, Economy & Emissions"
 date: 2026-02-20 21:34:00 +0800
 type: post
 published: true

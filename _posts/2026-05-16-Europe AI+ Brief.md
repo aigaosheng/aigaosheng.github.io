@@ -2,6 +2,7 @@
 layout: post
 title: "Europe AI+ Brief — 2026-05-16"
 series: "AI Industry News"
+description: "Anthropic Expands European Presence, Aims to Power Next-Gen Startups · EU Launches GenAI4EU Initiative with €12.5M Blended Finance for Startups · AI…"
 date: 2026-05-16 21:05:00 +0800
 type: post
 published: true

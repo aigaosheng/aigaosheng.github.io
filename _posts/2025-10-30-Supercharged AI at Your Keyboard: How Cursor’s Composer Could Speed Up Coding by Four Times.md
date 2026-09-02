@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Supercharged AI at Your Keyboard - How Cursor’s Composer Could Speed Up Coding by Four Times"
+description: "What is Composer and why does it matter? · The deeper implications for developers and enterprise · Speed & responsiveness matter · Trained for real…"
 date: 2025-10-30 20:53:00 +0800
 type: post
 published: true

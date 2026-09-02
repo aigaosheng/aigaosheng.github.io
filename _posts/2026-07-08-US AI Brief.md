@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-08"
 series: "US & China AI"
+description: "US Clears Broader Rollout of OpenAI GPT-5.6 After Government Review · Microsoft Expands Use of In-House AI Models Inside Office Products · Nvidia Faces…"
 date: 2026-07-08 21:12:00 +0800
 type: post
 published: true

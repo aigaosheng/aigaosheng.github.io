@@ -3,6 +3,7 @@
 layout: post
 title: "AI research & open-source model Brief — 2026-08-24"
 series: "AI Research & Open Source"
+description: "Alibaba launches Wan3.0, expanding open-model competition into AI video · DeepSeek releases V4 Flash Vision Experimental for multimodal agents · NVIDIA…"
 date: 2026-08-24 19:51:00 +0800
 type: post
 published: true

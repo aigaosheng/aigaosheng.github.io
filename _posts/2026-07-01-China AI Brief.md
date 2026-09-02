@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-01"
 series: "US & China AI"
+description: "UBTECH Launches Mass-Produced Humanoid Robot Platform Targeting Consumer AI Companions · UBTECH Pushes Humanoid Robots From Factories Into Homes With…"
 date: 2026-07-01 20:08:00 +0800
 type: post
 published: true

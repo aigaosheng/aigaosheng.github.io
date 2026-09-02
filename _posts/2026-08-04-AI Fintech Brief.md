@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-04"
 series: "AI & Fintech"
+description: "Rabobank Commits €2 Billion to AI and Technology Transformation · Visa Agrees $2.4 Billion Acquisition of BioCatch to Expand AI Fraud Prevention · AI…"
 date: 2026-08-04 19:48:00 +0800
 type: post
 published: true

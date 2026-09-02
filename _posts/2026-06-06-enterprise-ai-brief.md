@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-06"
 series: "Enterprise AI"
+description: "IBM and Google Cloud launch a joint practice to push enterprise AI into production"
 date: 2026-06-06 20:53:59 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Baidu Takes Europe for a Spin - How China's Robotaxis Are Driving into Switzerland’s Future"
+description: "A Leap from Beijing to St. Gallen · China’s AI Giant Speeds Ahead"
 date: 2025-10-22 21:57:00 +0800
 type: post
 published: true

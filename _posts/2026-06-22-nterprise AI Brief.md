@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-22"
 series: "Enterprise AI"
+description: "OpenAI Lands Its Largest Enterprise Deployment with Samsung Electronics · Cyera Raises $600M at $12B Valuation to Secure Enterprise AI · Convey Secures…"
 date: 2026-06-22 20:22:00 +0800
 type: post
 published: true

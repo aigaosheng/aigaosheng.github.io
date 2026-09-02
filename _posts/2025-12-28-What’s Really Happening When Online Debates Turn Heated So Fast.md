@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "What’s Really Happening When Online Debates Turn Heated So Fast"
+description: "The Speed of Escalation · Why Outrage Travels Better Than Substance · The Role of Early Framing · Why This Feels Worse Now"
 date: 2025-12-28 18:30:00 +0800
 type: post
 published: true

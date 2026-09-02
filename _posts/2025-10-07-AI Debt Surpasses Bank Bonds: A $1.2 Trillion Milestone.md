@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Debt Surpasses Bank Bonds: A $1.2 Trillion Milestone"
+description: "The Rise of AI in the Debt Market · Performance and Investor Confidence · Potential Risks and Considerations"
 date: 2025-10-07 23:54:00 +0800
 type: post
 published: true

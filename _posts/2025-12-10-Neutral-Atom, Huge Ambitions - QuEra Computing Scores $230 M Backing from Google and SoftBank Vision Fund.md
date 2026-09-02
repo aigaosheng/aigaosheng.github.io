@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neutral-Atom, Huge Ambitions - QuEra Computing Scores $230 M Backing from Google and SoftBank Vision Fund"
+description: "Why This Round Matters · What QuEra Is Building: From Atoms to Quantum Engines · Broader Implications: Quantum Turns Commercial"
 date: 2025-12-10 21:39:00 +0800
 type: post
 published: true

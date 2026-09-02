@@ -2,6 +2,7 @@
 layout: post
 title: "China Market Daily Brief - October 14 2025"
 series: "Market Reports"
+description: "社交媒体情绪快照 | Social Media Sentiment Snapshot · 次日可操作观察清单 | Next-Day Actionable Checklist"
 date: 2025-10-14 18:03:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Policy Brief — May 12, 2026"
 series: "AI Governance & Regulation"
+description: "White House mulls pre-deployment AI vetting by intelligence agencies The Washington Post · May 12, 2026 The Trump administration is sharply divided over an…"
 date: 2026-05-13 20:19:00 +0800
 type: post
 published: true

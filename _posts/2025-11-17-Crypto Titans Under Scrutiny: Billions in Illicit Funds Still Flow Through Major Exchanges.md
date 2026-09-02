@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crypto Titans Under Scrutiny - Billions in Illicit Funds Still Flow Through Major Exchanges"
+description: "The Coin Laundry: How Crypto Giants Keep Moving Dirty Money Despite Crackdowns · What the Investigation Found"
 date: 2025-11-17 21:30:00 +0800
 type: post
 published: true

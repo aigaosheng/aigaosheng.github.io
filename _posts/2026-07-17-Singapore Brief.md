@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-07-17"
 series: "Singapore"
+description: "Singapore+ by sectors/industries Brief — 2026-07-17 · Singapore manufacturing expansion continues as AI-driven semiconductor demand supports growth…"
 date: 2026-07-17 21:35:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Writes Code: Hype, Reality, and the Future of Developers"
+description: "AI Adoption: From Experiment to Everyday · The Limits: Errors and Edge Cases · Security: The Hidden Risk · The 90% Claim: Bold but Unproven"
 date: 2025-09-26 22:48:00 +0800
 type: post
 published: true

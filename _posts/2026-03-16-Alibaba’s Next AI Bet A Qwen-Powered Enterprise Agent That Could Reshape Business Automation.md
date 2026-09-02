@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alibaba’s Next AI Bet- A Qwen-Powered Enterprise Agent That Could Reshape Business Automation"
+description: "The Rise of Enterprise AI Agents · Why Qwen Matters in Alibaba’s AI Strategy · Alibaba’s Enterprise AI Platform Vision · The Competitive AI Agent Race"
 date: 2026-03-16 21:12:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-16"
 series: "Enterprise AI"
+description: "Open-Weight AI Strengthens the Economics of Enterprise AI Infrastructure · Singapore Data-Centre REITs Benefit From Enterprise AI and Cloud Demand…"
 date: 2026-08-16 20:37 +0800
 type: post
 published: true

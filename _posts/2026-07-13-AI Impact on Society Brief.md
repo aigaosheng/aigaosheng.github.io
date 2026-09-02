@@ -2,6 +2,7 @@
 layout: post  
 title: "AI Impact on Society Brief — 2026-07-13"  
 series: "AI & Society"
+description: "UN Chief Opens Inaugural Global Dialogue with Stark Warnings on AI Speed and Power · UN Scientific Panel’s First Report Warns AI is Outpacing Scientific…"
 date: 2026-07-13 21:28:00 +0800  
 type: post  
 published: true  

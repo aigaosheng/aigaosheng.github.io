@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why 99% of Companies Fail at AI Integration — and How to Join the 1% That Succeed"
+description: "Start with the Right People Strategy · AI Is a Team Sport, Not a Tech Silo · Build Guardrails, Then Let People Play"
 date: 2025-09-29 23:10:00 +0800
 type: post
 published: true

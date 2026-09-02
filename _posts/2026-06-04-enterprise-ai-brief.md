@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-04"
 series: "Enterprise AI"
+description: "Meta launches enterprise AI business agents across WhatsApp, Instagram, and Messenger · Microsoft details Work IQ APIs for enterprise agents inside…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

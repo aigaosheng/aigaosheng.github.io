@@ -2,6 +2,7 @@
 layout: post
 title: "Startup Daily Newsletter April 15, 2026"
 series: "Investment & Startups"
+description: "OpenAI expands fintech footprint with Hiro acquisition · Instacart acquires Instaleap to expand enterprise logistics platform · Southeast Asia startup…"
 date: 2026-04-15 20:55:00 +0800
 type: post
 published: true

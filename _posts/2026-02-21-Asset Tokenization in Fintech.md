@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Asset Tokenization in Fintech"
+description: "1 What is Asset Tokenization? · 2 Historical Context and Evolution · Objective and Key Questions · 1 Distributed Ledger and Smart Contract Foundations"
 date: 2026-02-21 23:42:00 +0800
 type: post
 published: true

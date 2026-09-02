@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — May 7, 2026"
 series: "AI Governance & Regulation"
+description: "EU Reaches Provisional Deal to Simplify AI Act Rules · European Tech CEOs Push for Easier AI Compliance Rules · ServiceNow Calls for “Kill Switch” Controls…"
 date: 2026-05-07 19:21:00 +0800
 type: post
 published: true

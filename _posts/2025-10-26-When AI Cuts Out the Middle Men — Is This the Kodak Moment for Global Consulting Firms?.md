@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Cuts Out the Middle Men — Is This the Kodak Moment for Global Consulting Firms?"
+description: "The Situation: Consulting Firms vs. Client Self-Service · Why the “Kodak Moment” Metaphor Fits · What Are the Options — And Why They’re Tricky…"
 date: 2025-10-26 17:03:00 +0800
 type: post
 published: true

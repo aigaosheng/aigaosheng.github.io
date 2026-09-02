@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-03"
 series: "Payments"
+description: "Worldline Finalizes Sale of Indian Payment Activities to BillDesk · OwlTing Group Reports 107.6% MoM Surge in OwlPay Harbor Payment Volume · Bank of the…"
 date: 2026-08-03 20:30:00 +0800
 type: post
 published: true

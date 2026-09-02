@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — May 14, 2026"
 series: "Investment & Startups"
+description: "Theon International invests $3m in AI defense startup Twin Prime Source · Investing.com India · Published May 14, 2026 Summary · Theon International PLC…"
 date: 2026-05-14 20:41:00 +0800
 type: post
 published: true

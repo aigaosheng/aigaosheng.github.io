@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Qwen Turns Research Into Ready-Made Webpages and Podcasts — One Click to Publish"
+description: "Imagine finishing a research brief and, with a single click, having it live as a slick webpage and a two-voice podcast episode ready to share. That’s the…"
 date: 2025-10-22 21:45:00 +0800
 type: post
 published: true

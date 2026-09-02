@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Japan’s AI Turnaround - New National Plan Sets Sights on Growth and Safety"
+description: "A Strategic Pivot for Growth and Trust · Balancing Innovation with Risk Management"
 date: 2025-12-23 20:09:00 +0800
 type: post
 published: true

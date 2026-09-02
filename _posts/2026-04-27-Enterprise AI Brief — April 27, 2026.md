@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — April 27, 2026"
 series: "Enterprise AI"
+description: "AI Costs Surge, Challenging Enterprise ROI Assumptions · Enterprise AI Faces ROI Reality Check · Intel Pushes On-Device AI for Enterprise Efficiency · AI…"
 date: 2026-04-27 21:18:00 +0800
 type: post
 published: true

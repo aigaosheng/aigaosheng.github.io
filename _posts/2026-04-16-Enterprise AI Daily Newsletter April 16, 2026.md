@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily Newsletter April 16, 2026"
 series: "Enterprise AI"
+description: "Broadcom Launches Secure AI Agent Platform for Enterprises · Jane Street Signs $6B AI Cloud Deal with CoreWeave · IBM Launches AI-Powered Cybersecurity to…"
 date: 2026-04-16 20:37:00 +0800
 type: post
 published: true

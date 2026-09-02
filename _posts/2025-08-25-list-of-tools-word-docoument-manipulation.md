@@ -1,6 +1,7 @@
 ---
 layout: post
 title: List of Python tools to structurally manipulate word document 
+description: "Top Python Word-document Manipulation Tools · Choosing the Right Tool · Which Should You Use?"
 date: 2025-08-25 
 type: post
 published: true

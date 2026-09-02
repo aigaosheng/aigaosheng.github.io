@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Daily Newsletter April 15, 2026"
 series: "AI & Fintech"
+description: "OpenAI Acquires AI Personal Finance Startup Hiro · AI Agents Are Breaking Payments Infrastructure · AI-Driven ESG Platforms Transform Sustainable Finance…"
 date: 2026-04-15 20:24:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore+ — Industry and Sector Deep Dive Brief — 2026-05-16"
 series: "Singapore"
+description: "Singapore Unveils Major Economic Strategy Review With 32 Recommendations · DBS Forecasts 8th Straight Month of Export Growth Fueled by AI · Construction…"
 date: 2026-05-16 20:52:00 +0800
 type: post
 published: true

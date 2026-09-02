@@ -2,6 +2,7 @@
 layout: post
 title: "AI research Brief — 2026-07-10"
 series: "AI Research & Open Source"
+description: "New arXiv AI Research Releases Highlight Scientific Reasoning and AI-Assisted Discovery · ICML 2026 Researchers Focus on Continual Learning for Sustainable…"
 date: 2026-07-10 20:04:14 +0800
 type: post
 published: true

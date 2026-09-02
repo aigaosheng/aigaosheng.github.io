@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Israeli AI Startup Opti Raises $20M Seed to Reinvent Enterprise Identity Security"
+description: "Unlocking Access Intelligence with AI · Who Backed the Round"
 date: 2025-11-25 21:10:00 +0800
 type: post
 published: true

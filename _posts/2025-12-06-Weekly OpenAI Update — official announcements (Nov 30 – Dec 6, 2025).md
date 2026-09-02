@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly OpenAI Update — official announcements (Nov 30 – Dec 6, 2025)"
 series: "AI Company Watch"
+description: "OpenAI takes an ownership stake in Thrive Holdings · OpenAI expands enterprise partnership with Accenture (announcement package) · OpenAI collaborates with…"
 date: 2025-12-06 20:30:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Research Insights — Geometric Reasoning, Temporal Consistency, and Memory-Efficient Diffusion Models (Oct 14 2025 Update)"
+description: "Recent Papers Worth Attention · Emerging Trends & Themes (from this short window)"
 date: 2025-10-14 23:08:00 +0800
 type: post
 published: true

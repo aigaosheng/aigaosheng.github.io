@@ -3,6 +3,7 @@
 layout: post
 title: "Quantum Brief — 2026-08-24"
 series: "Quantum Computing"
+description: "Japan Puts Its First Full-Stack Neutral-Atom Quantum Computer Into Operation · China Names Quantum Technology as a Priority in Its 2026–2030 Cyber Industry…"
 date: 2026-08-24 19:49:00 +0800
 type: post
 published: true

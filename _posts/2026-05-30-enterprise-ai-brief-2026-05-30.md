@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-30"
 series: "Enterprise AI"
+description: "Anthropic releases Claude Opus 4.8 with stronger coding and knowledge-work performance · Asana acquires StackAI to expand cross-system enterprise agent…"
 date: 2026-05-30 21:00:26 +0800
 type: post
 published: true

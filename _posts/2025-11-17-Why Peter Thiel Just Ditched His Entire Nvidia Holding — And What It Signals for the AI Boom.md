@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Peter Thiel Just Ditched His Entire Nvidia Holding — And What It Signals for the AI Boom"
+description: "What It Might Mean · Implications for Investors & the Market"
 date: 2025-11-17 21:11:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — April 30, 2026"
 series: "Investment & Startups"
+description: "Ridgeline secures $180M fund backed by government to scale defense tech startups · SoftBank prepares IPO for new AI robotics venture “Roze” · Stock trading…"
 date: 2026-04-30 21:23:00 +0800
 type: post
 published: true

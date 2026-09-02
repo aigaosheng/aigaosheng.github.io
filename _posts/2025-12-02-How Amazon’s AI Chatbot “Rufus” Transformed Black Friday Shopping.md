@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Amazon’s AI Chatbot Rufus Transformed Black Friday Shopping"
+description: "Rufus drove a disproportionate share of Black Friday sales · Why Rufus resonated — and what it reveals about modern shopping · Bigger Picture: AI Isn’t…"
 date: 2025-12-02 20:16:00 +0800
 type: post
 published: true

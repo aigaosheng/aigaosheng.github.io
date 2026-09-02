@@ -2,6 +2,7 @@
 layout: post
 title: "Microsoft — 72-Hour Briefing - Copilot’s Personal Turn, Fabric for Higher-Ed, and Product + Sustainability Moves"
 series: "AI Company Watch"
+description: "Copilot gets personal — 12 new personalization features and agent improvements · Microsoft Fabric: bringing order to higher-education’s data storm…"
 date: 2025-10-24 21:35:00 +0800
 type: post
 published: true

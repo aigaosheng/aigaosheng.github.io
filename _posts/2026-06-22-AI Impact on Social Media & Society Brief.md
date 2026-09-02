@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-22"
 series: "AI & Society"
+description: "Microsoft CEO Nadella Warns Against AI Power Concentration · AI Training Workers Admit Using Chatbots to \"Cheat,\" Risking Model \"Collapse\" · Canadian…"
 date: 2026-06-22 20:15:00 +0800
 type: post
 published: true

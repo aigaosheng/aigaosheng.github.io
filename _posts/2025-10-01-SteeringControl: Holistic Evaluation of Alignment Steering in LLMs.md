@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SteeringControl: Holistic Evaluation of Alignment Steering in LLMs"
+description: "Key Findings & Data · Steering Methods and Their Effects · Potential Applications & Implications · Informed Steering Method Selection"
 date: 2025-10-01 10:01:00 +0800
 type: post
 published: true

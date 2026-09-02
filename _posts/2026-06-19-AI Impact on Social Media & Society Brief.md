@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-19"
 series: "AI & Society"
+description: "Meta Faces Security Breach and Leadership Exit Amid AI Transition · AI-Generated \"Down Syndrome\" Videos Exploit Empathy for Profit · Study Finds…"
 date: 2026-06-19 20:42:00 +0800
 type: post
 published: true

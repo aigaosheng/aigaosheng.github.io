@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-11"
 series: "Payments"
+description: "BRICS Explores Linking Fast-Payment Systems and CBDCs · ShopBack Extends Visa Rewards Into Singapore In-Store Payments · GLN Adds 500,000 Merchants to…"
 date: 2026-08-11 20:39:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Google Weekly Intelligence Brief April 5, 2026"
 series: "AI Company Watch"
+description: "Google Weekly Intelligence Brief: April 1-5, 2026 · Product Launch: Gemma 4 on Google Cloud"
 date: 2026-04-05 20:12:00 +0800
 type: post
 published: true

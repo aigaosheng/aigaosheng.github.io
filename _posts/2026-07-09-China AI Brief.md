@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-09"
 series: "US & China AI"
+description: "Beijing Considers Tighter Controls on Overseas Access to Advanced Chinese AI Models · Chinese AI Models Gain Momentum as Global Companies Seek Lower-Cost…"
 date: 2026-07-09 21:12:14 +0800
 type: post
 published: true

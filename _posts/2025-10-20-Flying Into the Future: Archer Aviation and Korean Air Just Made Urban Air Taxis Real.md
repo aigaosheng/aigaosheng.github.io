@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Flying Into the Future: Archer Aviation and Korean Air Just Made Urban Air Taxis Real"
+description: "Why This Deal Matters"
 date: 2025-10-20 23:33:00 +0800
 type: post
 published: true

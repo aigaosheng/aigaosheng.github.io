@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-18"
 series: "US & China AI"
+description: "字节跳动加速国产AI算力布局，拟采购天数智芯超5万颗芯片 · 微软通过Azure向中国巨头销售OpenAI模型，字节跳动年支出超10亿美元 · OpenAI私下抱怨微软未有效阻止中国公司进行“模型蒸馏” · 中国将举办2026世界人工智能大会暨全球AI治理高级别会议"
 date: 2026-06-18 21:10:00 +0800
 type: post
 published: true

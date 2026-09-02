@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "It’s Like Dodging Robots - Inside the Reddit Anxiety Around AI, Careers, and the Future of Work"
+description: "The Anxiety Isn’t Theoretical Anymore · Stories That Illustrate Real‑World Worry · Why This Wave Feels So Intense · A Feedback Loop of Fear Online"
 date: 2025-12-28 21:28:00 +0800
 type: post
 published: true

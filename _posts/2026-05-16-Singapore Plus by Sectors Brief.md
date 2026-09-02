@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore+ by industry and sector Brief — 2026-05-16"
 series: "Singapore"
+description: "Singapore Unveils 32-Point Economic Strategy to Build Global Leadership in AI and Trust-Based Services · Bold Investment in Emerging Tech Like Quantum and…"
 date: 2026-05-16 21:57:00 +0800
 type: post
 published: true

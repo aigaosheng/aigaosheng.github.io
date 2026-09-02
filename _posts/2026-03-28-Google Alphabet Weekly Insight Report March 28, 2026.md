@@ -2,6 +2,7 @@
 layout: post
 title: "Google Alphabet Weekly Insight Report March 28, 2026"
 series: "AI Company Watch"
+description: "Week of March 22–28, 2026 | Published: March 28, 2026 · Story 1: Search Live Goes Global — Powered by Gemini 3.1 Flash Live · Story 2: March 2026 Gemini…"
 date: 2026-03-28 21:32:00 +0800
 type: post
 published: true

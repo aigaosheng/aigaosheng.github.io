@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-09"
 series: "AI & Fintech"
+description: "S&P Global Expands AI Ecosystem Reach with Cohere to Power Trusted, Agentic Workflows · Goldman Sachs and JPMorgan Chase Explore Derivatives for GPU…"
 date: 2026-06-09 20:46:00 +0800
 type: post
 published: true

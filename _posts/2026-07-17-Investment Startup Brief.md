@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-17"
 series: "Investment & Startups"
+description: "Greenjets Raises £34M to Scale Drone Interceptor Technology · India Moves Toward Equity-Based Support Model for Semiconductor Startups · Delhi Approves…"
 date: 2026-07-17 21:48:00 +0800
 type: post
 published: true

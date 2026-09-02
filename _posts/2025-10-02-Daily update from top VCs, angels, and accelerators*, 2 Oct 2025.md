@@ -2,6 +2,7 @@
 layout: post
 title: "Daily update from top VCs, angels, and accelerators*, 2 Oct 2025"
 series: "Investment & Startups"
+description: "Brief commentary — trends, assessment & actionable insights · Trends observed (last 24 hours) · Market potential & risks (quick assessment) · Actionable…"
 date: 2025-10-02 22:52:00 +0800
 type: post
 published: true

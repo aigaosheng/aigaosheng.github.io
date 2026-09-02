@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VikingGPT: Viking Global Investors' In-House AI Strategy"
+description: "Building and Evaluating VikingGPT · Return on Investment (ROI)"
 date: 2025-10-21 10:05:00 +0800
 type: post
 published: true

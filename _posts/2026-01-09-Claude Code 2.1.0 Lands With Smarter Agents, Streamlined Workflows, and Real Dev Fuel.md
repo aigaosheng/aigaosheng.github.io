@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Claude Code 2.1.0 Lands With Smarter Agents, Streamlined Workflows, and Real Dev Fuel"
+description: "What’s New in Claude Code 2.1.0 · Hot-Reload and Forked Contexts"
 date: 2026-01-09 20:10:00 +0800
 type: post
 published: true

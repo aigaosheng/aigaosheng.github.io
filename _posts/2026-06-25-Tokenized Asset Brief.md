@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-25"
 series: "Tokenized Assets"
+description: "Antier Consolidates Full RWA Tokenization Lifecycle Under One Roof · WisdomTree Wins Dual Recognition at Future of Finance Awards 2026 · Origin Assets…"
 date: 2026-06-25 20:25:00 +0800
 type: post
 published: true

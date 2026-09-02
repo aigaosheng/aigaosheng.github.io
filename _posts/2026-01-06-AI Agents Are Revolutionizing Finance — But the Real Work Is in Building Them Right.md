@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Agents Are Revolutionizing Finance — But the Real Work Is in Building Them Right"
+description: "More Than Smart Chatbots: What AI Agents Actually Do · Challenges Unique to Financial Services · Legacy Systems Aren’t Plug-and-Play · Getting Started With…"
 date: 2026-01-06 23:00:00 +0800
 type: post
 published: true

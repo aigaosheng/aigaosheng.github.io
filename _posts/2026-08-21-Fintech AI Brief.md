@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-21"
 series: "AI & Fintech"
+description: "Natural Secures $100 Million Facility to Scale AI Agent Payments · Banks Prepare Their Payment Infrastructure for AI Commerce · ADIB Appoints a Chief AI…"
 date: 2026-08-21 21:00:00 +0800
 type: post
 published: true

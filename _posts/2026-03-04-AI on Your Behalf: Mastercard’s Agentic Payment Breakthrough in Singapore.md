@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI on Your Behalf- Mastercard’s Agentic Payment Breakthrough in Singapore"
+description: "What Happened in Singapore? · From Concept to Everyday Use"
 date: 2026-03-04 19:51:00 +0800
 type: post
 published: true

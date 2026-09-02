@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-06-11"
 series: "AI Governance & Regulation"
+description: "Anthropic Calls for Mandatory Government Oversight of Advanced AI Models · FSB Warns Agentic AI Poses Distinct Risks to Financial Stability · EU Publishes…"
 date: 2026-06-11 20:15:00 +0800
 type: post
 published: true

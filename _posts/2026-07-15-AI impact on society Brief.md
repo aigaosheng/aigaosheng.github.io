@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-15"
 series: "AI & Society"
+description: "Australia unveils national AI governance framework with new Office of AI and infrastructure rules · Australia targets AI data-centre impact on energy…"
 date: 2026-07-15 21:20:00 +0800
 type: post
 published: true

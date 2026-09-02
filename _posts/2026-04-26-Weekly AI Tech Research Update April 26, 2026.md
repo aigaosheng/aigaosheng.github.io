@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update April 26, 2026"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by Novelty & Impact) — All April 20–26, 2026 · Forage V2: Knowledge Evolution and Transfer in Autonomous Agent Organizations · RUBICON…"
 date: 2026-04-26 17:12:00 +0800
 type: post
 published: true

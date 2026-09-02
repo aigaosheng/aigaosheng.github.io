@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — April 23, 2026"
 series: "Investment & Startups"
+description: "Robinhood Opens Access to OpenAI via $75M Venture Investment · SpaceX Explores $10B Investment or Acquisition of AI Startup Cursor · Investors Shift Toward…"
 date: 2026-04-23 20:34:00 +0800
 type: post
 published: true

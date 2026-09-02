@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-21"
 series: "Tokenized Assets"
+description: "Citi, Mastercard, Visa and Top US Banks Accelerate Blockchain Tests for Stablecoin and Tokenized Assets · Securitize CEO Predicts $5T RWA Market Growth…"
 date: 2026-06-21 17:12:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "AI Finance Singapore Brief — 2026-09-01"
 series: "AI Finance Singapore"
+description: "UOB Has Put More Than 300 AI Use Cases Into Production · AMBR Launches as an Agentic AI Company Focused on Finance · Singapore Banks Finance S$6.6 Billion…"
 date: 2026-09-01 20:07:00 +0800
 type: post
 published: true

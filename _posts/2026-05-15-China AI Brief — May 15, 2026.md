@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — May 15, 2026"
 series: "US & China AI"
+description: "China Accelerates AI Agent Governance Amid Emerging Security Risks ** Chinese regulators, including the CAC and MIIT, have issued new guidelines for the…"
 date: 2026-05-15 21:07:00 +0800
 type: post
 published: true

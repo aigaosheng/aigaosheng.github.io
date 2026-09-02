@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "States Step Up to Curb “Smart” Pricing - What It Means for Consumers"
+description: "How U.S. states are moving against data-driven price hikes and algorithmic rental algorithms · The push-back on “smart” pricing systems"
 date: 2025-11-21 21:49:00 +0800
 type: post
 published: true

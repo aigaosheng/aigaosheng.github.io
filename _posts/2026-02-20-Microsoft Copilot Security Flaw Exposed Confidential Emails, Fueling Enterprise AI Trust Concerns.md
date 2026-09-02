@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft Copilot Security Flaw Exposed Confidential Emails, Fueling Enterprise AI Trust Concerns"
+description: "What Happened — A Quick Breakdown · Microsoft’s Response and What Comes Next"
 date: 2026-02-20 21:42:00 +0800
 type: post
 published: true

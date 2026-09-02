@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-23"
 series: "Payments"
+description: "Philippines Lifts Fee Moratorium on InstaPay and PESONet with New Pricing Rules · MoneyGram Joins Solana as Validator, Following Western Union · YeahPay…"
 date: 2026-06-23 19:50:00 +0800
 type: post
 published: true

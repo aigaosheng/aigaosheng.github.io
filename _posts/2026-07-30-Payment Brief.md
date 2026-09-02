@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-30"
 series: "Payments"
+description: "Visa Expands Visa Pay SDK Across Africa and Central Asia · Wise Connects Directly to Malaysia's National Payments Network · Zain Mart Introduces…"
 date: 2026-07-30 19:55:00 +0800
 type: post
 published: true

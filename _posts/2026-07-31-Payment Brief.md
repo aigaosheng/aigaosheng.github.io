@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-31"
 series: "Payments"
+description: "NTT DATA Payment Services Unveils Strategy to Take UPI Global · KamelPay Receives UAE Central Bank Payment Licenses · XTransfer Named Among CNBC's World's…"
 date: 2026-07-31 19:52:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From OpenCV to AI Filmmaker - How CraftStory Is Raising the Stakes in Long-Form Video Generation"
+description: "A Big Bet on Longer, More Human AI Video · How They Did It: Parallel Diffusion Architecture + High-Quality Data · What the User Experience Looks Like…"
 date: 2025-11-20 20:45:00 +0800
 type: post
 published: true

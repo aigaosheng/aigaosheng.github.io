@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Hidden Battlefield - Why CX Platforms Are the Next Cybersecurity Blind Spot"
+description: "AI’s Hidden Battlefield: Why CX Platforms Are the Next Cybersecurity Blind Spot · The AI Blind Spot We Didn’t See Coming · The Salesloft/Drift Breach: A…"
 date: 2026-02-20 21:08:00 +0800
 type: post
 published: true

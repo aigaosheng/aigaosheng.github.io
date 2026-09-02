@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-05-20"
 series: "US & China AI"
+description: "China unveils nationwide computing network and AI data initiative · Tax invoice data shows explosive AI sector growth in early 2026 · Nobel laureate…"
 date: 2026-05-20 20:52:00 +0800
 type: post
 published: true

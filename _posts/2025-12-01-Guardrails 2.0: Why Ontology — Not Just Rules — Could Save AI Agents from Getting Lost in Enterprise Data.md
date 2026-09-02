@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Guardrails 2.0 - Why Ontology — Not Just Rules — Could Save AI Agents from Getting Lost in Enterprise Data"
+description: "The Problem: Data Without Meaning · The Solution: Ontology as a “Single Source of Truth” · Why This Matters — Especially for Real-World Enterprise Use"
 date: 2025-12-01 20:50:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "TikTok’s American Makeover: Bye-Bye ByteDance, Hello U.S. Takeover?"
+description: "TikTok’s U.S. Shakeup: What’s Going Down · The Big Move: U.S. Investors to Take Over · For Users: A Forced Migration? · Why Were We Here?"
 date: 2025-09-26 23:11:00 +0800
 type: post
 published: true

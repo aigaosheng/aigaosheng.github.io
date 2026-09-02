@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why the Hard, Manual Work That Doesn’t Scale Is Exactly What Your Startup Needs"
+description: "Key Insights in the Essay · You build the engine before it has momentum · Focus on the very early user‑experience · Narrow your focus to fuel the fire"
 date: 2025-11-12 21:19:00 +0800
 type: post
 published: true

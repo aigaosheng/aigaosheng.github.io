@@ -2,6 +2,7 @@
 layout: post
 title: "China Market Daily — AI Surge Lifts Tech, Regulators Watch Closely - 4 Oct 2025"
 series: "Market Reports"
+description: "Analysis — news, market moves, and implications · Social-media sentiment — trends, mood, and trading implications · Actionable checklist — 3–5 watch points…"
 date: 2025-10-04 20:59:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic Isn’t Chasing the Consumer AI Race — It’s Positioning Claude as the New Bloomberg Terminal Layer"
+description: "Why Excel Matters More Than “AI Docs” · The Agent Shift: From “Chat” to Work Output · This Is a Verticalization Play Disguised as a Feature Drop · The Real…"
 date: 2025-10-28 22:08:00 +0800
 type: post
 published: true

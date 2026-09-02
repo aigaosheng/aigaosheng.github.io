@@ -2,6 +2,7 @@
 layout: post
 title: "AI governance, risk and compliance Brief — 2026-05-30"
 series: "AI Governance & Regulation"
+description: "Illinois moves toward first-in-the-nation frontier AI safety audit mandate · NIST expands AI consortium beyond safety into measurement, evaluation and…"
 date: 2026-05-30 21:00:26 +0800
 type: post
 published: true

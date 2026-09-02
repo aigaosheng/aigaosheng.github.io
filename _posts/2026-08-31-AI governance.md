@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance Brief — 2026-08-31"
 series: "AI governance"
+description: "EU Designates ChatGPT, Reddit and Roblox as Very Large Online Services · FSB Warns Frontier AI Could Become the Most Immediate Cyber Risk to Financial…"
 date: 2026-08-31 20:35:00 +0800
 type: post
 published: true

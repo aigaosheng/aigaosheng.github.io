@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI-Driven Compliance - The New Frontier for Banking Efficiency"
+description: "AI Use Case Matrix (Mapped to MAS Requirements) · Implementation Architecture (LLM + LangChain) · ROI Calculator (GRC AI Investment Justification) · Key…"
 date: 2025-11-22 16:54:00 +0800
 type: post
 published: true

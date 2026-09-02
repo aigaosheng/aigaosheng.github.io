@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ex‑Israeli Army Cyber Chief Raises a Whopping $75M to Fortify Cloud Security"
+description: "When defence‑grade cyber expertise meets venture capital, you get a headline‑making event: Tel Aviv‑based startup Sweet Security, founded by former senior…"
 date: 2025-11-12 21:07:00 +0800
 type: post
 published: true

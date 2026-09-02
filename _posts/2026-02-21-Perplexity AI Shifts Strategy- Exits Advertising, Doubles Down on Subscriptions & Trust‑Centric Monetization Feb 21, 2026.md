@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perplexity AI Shifts Strategy- Exits Advertising, Doubles Down on Subscriptions & Trust‑Centric Monetization Feb 21, 2026"
+description: "Product Launches / Forward Outlook"
 date: 2026-02-21 19:55:00 +0800
 type: post
 published: true

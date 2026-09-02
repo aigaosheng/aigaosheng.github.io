@@ -2,6 +2,7 @@
 layout: post
 title: "Startup Daily — April 9, 2026"
 series: "Investment & Startups"
+description: "Patlytics Raises $40M to Build AI‑Driven Patent Automation · London’s Photo‑OS Startup Picnic Acquired by MWM · Nava Secures $22M for AI Cloud…"
 date: 2026-04-09 21:49:00 +0800
 type: post
 published: true

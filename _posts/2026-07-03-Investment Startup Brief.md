@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-03"
 series: "Investment & Startups"
+description: "Global VC capital concentrates into AI infrastructure and deep tech mega-rounds · PlayBlue raises $2.7M seed round for omnichannel retail expansion · Vibe…"
 date: 2026-07-03 22:18:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "investment startup Brief — 2026-07-18"
 series: "Investment & Startups"
+description: "AI Chip Startup Etched Targets $20 Billion Valuation Amid Inference Hardware Boom · India Startup Funding Surges as AI Drives Venture Investment Activity…"
 date: 2026-07-18 21:32:00 +0800
 type: post
 published: true

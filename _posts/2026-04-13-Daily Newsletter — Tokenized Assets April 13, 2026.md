@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Newsletter — Tokenized Assets April 13, 2026"
 series: "Tokenized Assets"
+description: "Daily Newsletter — Tokenized Assets (RWA & Digital Securities) · Tokenized real-world asset market surges past $33B, marking institutional breakout phase…"
 date: 2026-04-13 20:25:00 +0800
 type: post
 published: true

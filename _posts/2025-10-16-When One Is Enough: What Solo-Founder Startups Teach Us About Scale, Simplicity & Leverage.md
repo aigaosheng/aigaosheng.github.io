@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When One Is Enough: What Solo-Founder Startups Teach Us About Scale, Simplicity & Leverage"
+description: "Summary Table: The 15 Solo-Founder Companies"
 date: 2025-10-16 21:34:00 +0800
 type: post
 published: true

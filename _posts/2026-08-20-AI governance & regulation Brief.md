@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance & regulation Brief — 2026-08-20"
 series: "AI Governance & Regulation"
+description: "AI agents expose the limits of “human-in-the-loop” oversight · AI compliance is becoming a new software and services market in Europe · Life-sciences…"
 date: 2026-08-20 20:01:00 +0800
 type: post
 published: true

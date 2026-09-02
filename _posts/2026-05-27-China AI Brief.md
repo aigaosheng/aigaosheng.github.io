@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-05-27"
 series: "US & China AI"
+description: "AI Plus Strategy Outlined as Blueprint for China’s Intelligent Economy · China to Refine AI Legal Framework, Data Rights Rules · China Expands AI Travel…"
 date: 2026-05-27 20:43:00 +0800
 type: post
 published: true

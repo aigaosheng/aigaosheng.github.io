@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-05-28"
 series: "AI Governance & Regulation"
+description: "EU Finalizes Omnibus Agreement, Delaying High-Risk AI Deadlines · Willis Warns of Dangerous Governance Gaps as AI Outpaces Oversight · New Banking Index…"
 date: 2026-05-28 20:05:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "AI research & open-source LLM Brief — 2026-08-31"
 series: "AI research & open-source LLM"
+description: "Zhipu AI Reports 400% Revenue Growth as Open-Model Competition Intensifies · Tencent's Hy4 Shows How Open Models Are Moving Toward Recursive AI Engineering"
 date: 2026-08-31 20:39:00 +0800
 type: post
 published: true

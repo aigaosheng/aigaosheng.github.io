@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google’s New Move to Make AI Agents Actually Useful at Work"
+description: "Why Workspace Studio Matters · How It Works — Simple, Flexible, Integrated · What This Means for Organizations — and What to Watch Out For · Why this could…"
 date: 2025-12-04 20:23:00 +0800
 type: post
 published: true

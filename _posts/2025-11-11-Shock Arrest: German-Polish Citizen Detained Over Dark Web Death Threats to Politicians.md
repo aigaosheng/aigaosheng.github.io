@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Shock Arrest - German-Polish Citizen Detained Over Dark Web Death Threats to Politicians"
+description: "Rise in Threats Against Public Figures · The Dark Web as a Weapon · What We Don’t Know (Yet)"
 date: 2025-11-11 20:59:00 +0800
 type: post
 published: true

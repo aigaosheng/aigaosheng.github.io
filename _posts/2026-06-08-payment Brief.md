@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-08"
 series: "Payments"
+description: "Visa, Mastercard in Talks with Stripe & Coinbase to Launch Major Stablecoin Alliance · Visa, Mastercard, and Coinbase Race to Control AI Agent Commerce…"
 date: 2026-06-08 21:39:00 +0800
 type: post
 published: true

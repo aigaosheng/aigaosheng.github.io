@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-19"
 series: "AI & Fintech"
+description: "Connie Health Closes $40M Series B, Acquires Clearlink Medicare Business · FrauDfense Check Launches After Year-Long Trial by Spain's Top Three Banks…"
 date: 2026-06-19 20:30:00 +0800
 type: post
 published: true

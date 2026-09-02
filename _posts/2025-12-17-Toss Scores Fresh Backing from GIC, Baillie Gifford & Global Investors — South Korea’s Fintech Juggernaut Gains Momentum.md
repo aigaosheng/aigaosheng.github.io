@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Toss Scores Fresh Backing from GIC, Baillie Gifford & Global Investors — South Korea’s Fintech Juggernaut Gains Momentum"
+description: "South Korea’s financial super-app Toss has just attracted a new wave of high-profile backing from global investors, giving the fintech powerhouse fresh…"
 date: 2025-12-17 21:12:00 +0800
 type: post
 published: true

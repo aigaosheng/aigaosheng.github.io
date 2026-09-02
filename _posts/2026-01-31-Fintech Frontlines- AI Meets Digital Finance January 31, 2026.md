@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fintech Frontlines- AI Meets Digital Finance January 31, 2026"
+description: "Finextra’s 2026 US Regulation Pulse Check: Fintech’s Compliance Compass · Market & Industry Insight · Payments, Digital Wallets, and AI — 2026’s Twin…"
 date: 2026-01-31 21:14:00 +0800
 type: post
 published: true

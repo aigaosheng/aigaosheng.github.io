@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-16"
 series: "Tokenized Assets"
+description: "Tokenized RWA Market Hits $31.8B, Up 589% Since Early 2025 · Bybit Adds PIMCO Tokenized Bond Funds, Expanding RWA Offerings · Solana Crosses $100M Daily…"
 date: 2026-06-16 20:37:14 +0800
 type: post
 published: true

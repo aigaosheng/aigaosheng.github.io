@@ -3,6 +3,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-12"
 series: "US & China AI"
+description: "Zuckerberg Warns China Could Gain an AI Edge as US Infrastructure Race Accelerates · Manus to Resume Independent Operations After China Blocks Meta…"
 date: 2026-08-12 20:17:00 +0800
 type: post
 published: true

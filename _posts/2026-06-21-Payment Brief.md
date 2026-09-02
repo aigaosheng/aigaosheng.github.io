@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-21"
 series: "Payments"
+description: "Mastercard and Aave Partner to Build Machine-Speed Payments Infrastructure · EU Finalizes PSD3 and Payment Services Regulation Rules · UK Government Moves…"
 date: 2026-06-21 18:14:00 +0800
 type: post
 published: true

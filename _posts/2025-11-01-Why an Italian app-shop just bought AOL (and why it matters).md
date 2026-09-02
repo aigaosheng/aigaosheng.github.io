@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why an Italian app-shop just bought AOL (and why it matters)"
+description: "What TechCrunch (and the market) wants you to know · The deeper implications — three ways this could shift media and M&A dynamics · What users and…"
 date: 2025-11-01 21:59:00 +0800
 type: post
 published: true

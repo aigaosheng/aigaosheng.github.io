@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC Signal Watch- AI Infrastructure, Sovereign Intelligence & Startup Creation, August 23 2026"
+description: "VC Signal Watch: The Startup & Venture Capital Signals That Matter This Week · Preview: Sequoia Bets on AI-Native Video Creation · Sequoia: Enterprises…"
 date: 2026-08-23 17:39:00 +0800
 type: post
 published: true

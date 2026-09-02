@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — May 2, 2026"
 series: "AI Governance & Regulation"
+description: "U.S. Defense Department expands classified AI deployment with major tech vendors · AI becomes central to U.S. defense procurement governance framework…"
 date: 2026-05-02 20:27:00 +0800
 type: post
 published: true

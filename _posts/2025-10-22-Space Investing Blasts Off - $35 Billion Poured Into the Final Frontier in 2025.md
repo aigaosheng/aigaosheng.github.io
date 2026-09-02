@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Space Investing Blasts Off - $35 Billion Poured Into the Final Frontier in 2025"
+description: "Expanding Beyond Big Names"
 date: 2025-10-22 22:24:00 +0800
 type: post
 published: true

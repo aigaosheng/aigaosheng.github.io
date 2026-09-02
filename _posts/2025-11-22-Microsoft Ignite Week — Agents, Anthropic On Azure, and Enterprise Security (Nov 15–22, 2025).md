@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft Ignite Week — Agents, Anthropic On Azure, and Enterprise Security (Nov 15–22, 2025)"
+description: "Microsoft, NVIDIA, and Anthropic announce strategic partnerships (AI / cloud) · Microsoft 365 / Ignite: “Copilot and agents built to power the frontier…"
 date: 2025-11-22 21:47:00 +0800
 type: post
 published: true

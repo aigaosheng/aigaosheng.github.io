@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "$43B Bitcoin Blunder- South Korea Escalates Probe into Bithumb Epic Error"
+description: "43B Bitcoin Blunder: South Korea Escalates Probe into Bithumb’s Epic Error” · The Error That Shook Crypto Markets · Market Impact & Recovery · Why…"
 date: 2026-02-10 19:54:00 +0800
 type: post
 published: true

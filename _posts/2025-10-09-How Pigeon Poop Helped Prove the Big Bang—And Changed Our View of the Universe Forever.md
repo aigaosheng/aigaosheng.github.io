@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Pigeon Poop Helped Prove the Big Bang—And Changed Our View of the Universe Forever"
+description: "The Accidental Discovery That Echoed Through Time · From Satellite Dreams to Cosmic Revelations · Saving a Piece of Cosmic History"
 date: 2025-10-09 23:14:00 +0800
 type: post
 published: true

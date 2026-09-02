@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Google Insight Report Dec 27 2025"
 series: "AI Company Watch"
+description: "Gemini 3 Flash: Frontier Intelligence Built for Speed · Year in Search 2025: Trends and Insights · Official Announcements in the Last 7 Days (Up to Dec 27…"
 date: 2025-12-27 22:48:00 +0800
 type: post
 published: true

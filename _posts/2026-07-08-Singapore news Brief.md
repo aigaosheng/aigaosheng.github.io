@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore news Brief — 2026-07-08"
 series: "Singapore"
+description: "Temasek's Net Portfolio Value Reaches S$518 Billion · Lazada Partners with Meta to Expand Social Commerce · Eromnet Receives Singapore Major Payment…"
 date: 2026-07-08 20:30:00 +0800
 type: post
 published: true

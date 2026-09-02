@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source LLM Brief — 2026-07-03"
 series: "AI Research & Open Source"
+description: "Open-source AI infrastructure shifts toward “model marketplaces” and routing layers · Rapid proliferation of small open models for edge deployment…"
 date: 2026-07-03 22:26:00 +0800
 type: post
 published: true

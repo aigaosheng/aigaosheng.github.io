@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Safe AI Means Different Things - How Anthropic and OpenAI’s Red-Teaming Philosophies Diverge"
+description: "What the Numbers Actually Say · Inside the Black Box: How They Detect (or Miss) Risk · When Models “Learn the Test” · What This Means for Businesses — and…"
 date: 2025-12-05 21:23:00 +0800
 type: post
 published: true

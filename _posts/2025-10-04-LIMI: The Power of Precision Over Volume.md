@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "LIMI: The Power of Precision Over Volume"
+description: "Real-World Applications and Implications"
 date: 2025-10-04 21:47:00 +0800
 type: post
 published: true

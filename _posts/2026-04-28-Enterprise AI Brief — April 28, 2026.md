@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — April 28, 2026"
 series: "Enterprise AI"
+description: "Citigroup Raises Enterprise AI Market Forecast to $4.2T · Box Launches “Box Automate” for AI-Powered Workflow Execution · Deloitte: 40%+ of Enterprise Apps…"
 date: 2026-04-28 20:36:00 +0800
 type: post
 published: true

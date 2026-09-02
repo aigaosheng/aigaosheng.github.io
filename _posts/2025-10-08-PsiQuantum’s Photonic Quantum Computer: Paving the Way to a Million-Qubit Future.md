@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "PsiQuantum’s Photonic Quantum Computer: Paving the Way to a Million-Qubit Future"
+description: "Research Topic and Objective · Key Findings and Conclusions · Critical Data and Facts · Potential Applications and Implications"
 date: 2025-10-08 23:16:00 +0800
 type: post
 published: true

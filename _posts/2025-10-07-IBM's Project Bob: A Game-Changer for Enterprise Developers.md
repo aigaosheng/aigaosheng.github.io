@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IBM's Project Bob: A Game-Changer for Enterprise Developers"
+description: "What Sets Project Bob Apart? · Bridging the Prototype-to-Production Gap · Real-Time Governance with AgentOps"
 date: 2025-10-07 23:45:00 +0800
 type: post
 published: true

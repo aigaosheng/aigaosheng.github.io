@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Plus Brief — 2026-06-26"
 series: "Investment & Startups"
+description: "Airwallex Secures $320M Series H at $11B Valuation to Power AI Finance · Seedcamp Closes $320M Fund VII to Expand US Footprint · Stark Defence Raises €500M…"
 date: 2026-06-26 20:45:00 +0800
 type: post
 published: true

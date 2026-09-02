@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Goal Without a Plan Is Just a Wish: Revolutionizing Long-Horizon Tasks with EAGLET"
+description: "Introduction"
 date: 2025-10-15 22:16:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Daily Newsletter April 8, 2026"
 series: "AI & Fintech"
+description: "Cyberhill Partners Secures $11M to Scale Enterprise AI in Finance · Cathay Financial Holdings Partners with OpenAI for Large-Scale AI Deployment · IBM and…"
 date: 2026-04-08 22:04:00 +0800
 type: post
 published: true

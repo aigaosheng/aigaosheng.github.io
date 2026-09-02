@@ -2,6 +2,7 @@
 layout: post
 title: "US AI+ Brief — 2026-05-23"
 series: "US & China AI"
+description: "Trump Delays AI Executive Order, Prioritizes US Lead Over Regulation · AI Spending Boom Drives Wall Street Rally · California Governor Newsom Orders AI…"
 date: 2026-05-23 19:35:00 +0800
 type: post
 published: true

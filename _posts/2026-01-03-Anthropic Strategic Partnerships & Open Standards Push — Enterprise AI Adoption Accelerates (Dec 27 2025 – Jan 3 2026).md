@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic Strategic Partnerships & Open Standards Push — Enterprise AI Adoption Accelerates(Dec 27 2025 – Jan 3 2026)"
+description: "Accenture & Anthropic Expand Multi‑Year Enterprise AI Partnership · Anthropic Donates the Model Context Protocol to Linux Foundation · Anthropic Launches…"
 date: 2026-01-03 22:33:00 +0800
 type: post
 published: true

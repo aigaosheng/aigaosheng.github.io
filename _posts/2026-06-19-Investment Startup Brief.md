@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-19"
 series: "Investment & Startups"
+description: "AI Inference Startup Baseten Raising $1.5B at $13B Valuation · General Intuition in Talks to Raise $300M for AI Agent Foundation Models · Israeli…"
 date: 2026-06-19 20:38:00 +0800
 type: post
 published: true

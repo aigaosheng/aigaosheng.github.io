@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Generic to Personal-Why Enterprise AI Is Finally Learning Who You Are"
+description: "The End of “Generic AI” · The Rise of AI That Knows You · Why This Shift Is Happening Now · Agentic AI Changes the Game"
 date: 2026-03-20 20:59:00 +0800
 type: post
 published: true

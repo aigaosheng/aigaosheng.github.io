@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-25"
 series: "US & China AI"
+description: "Z.ai's GLM-5.2 Challenges U.S. Frontier Models, Plans Dual Listing · Qualcomm to Develop Custom AI Chips for China Under Export Controls · China's…"
 date: 2026-06-25 19:57:00 +0800
 type: post
 published: true

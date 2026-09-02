@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society — Daily Intelligence Brief 2026-04-16"
 series: "AI & Society"
+description: "AI-generated “content flood” reshapes online information quality · AI-driven misinformation accelerates antisemitic propaganda online · AI automates large…"
 date: 2026-04-16 21:29:00 +0800
 type: post
 published: true

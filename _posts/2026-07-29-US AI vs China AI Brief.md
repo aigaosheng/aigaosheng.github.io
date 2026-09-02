@@ -2,6 +2,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-07-29"
 series: "US & China AI"
+description: "US-China AI Rivalry Escalates Over Alleged Model Distillation and IP Concerns · Meta CEO Warns Against Blocking Chinese AI Models as Competition…"
 date: 2026-07-29 21:38:00 +0800
 type: post
 published: true

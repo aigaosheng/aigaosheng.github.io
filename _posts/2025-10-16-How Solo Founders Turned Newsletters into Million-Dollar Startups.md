@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Solo Founders Turned Newsletters into Million-Dollar Startups"
+description: "The Rise of the One-Person Media Company · TLDR: The Tech Digest That Scales Without a Team · Justin Welsh: The LinkedIn Solo Empire · Digital Inspiration…"
 date: 2025-10-16 21:45:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Fintech Newsletter — 2026-07-12"
 series: "AI & Fintech"
+description: "Weekly Fintech Newsletter — AI, Stablecoins & Regulatory Momentum · Ripple receives full MiCA approval in Europe · Market & Industry Insight · Company &…"
 date: 2026-07-12 17:51:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "News of top AI company Brief — 2026-08-26"
 series: "AI Company Watch"
+description: "Meta’s AI-native workforce overhaul ran into resistance and weak productivity gains · SoftBank considers up to $20 billion bond sale tied to OpenAI…"
 date: 2026-08-26 20:55:00 +0800
 type: post
 published: true

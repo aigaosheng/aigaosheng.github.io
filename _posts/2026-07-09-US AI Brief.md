@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-09"
 series: "US & China AI"
+description: "OpenAI Loses Key Safety Executive as Leadership Changes Continue Ahead of IPO Plans · Nvidia AI Momentum Accelerates as Grok 4.5 Highlights Demand for…"
 date: 2026-07-09 20:45:00 +0800
 type: post
 published: true

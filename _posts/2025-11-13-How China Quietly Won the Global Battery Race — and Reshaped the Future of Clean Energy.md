@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How China Quietly Won the Global Battery Race — and Reshaped the Future of Clean Energy"
+description: "China’s Strategic Rise to Battery Dominance · Control of the Supply Chain · Domestic Demand as a Catalyst · Cost and Innovation Advantage"
 date: 2025-11-13 23:35:00 +0800
 type: post
 published: true

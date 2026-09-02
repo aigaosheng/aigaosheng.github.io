@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — 2026-05-24"
 series: "AI & Fintech"
+description: "Saudi Fintech Arib Raises $23.5M for Digital Financing Marketplace · Passion Capital Closes €46M Fund for AI and FinTech Startups in Europe"
 date: 2026-05-24 16:14:00 +0800
 type: post
 published: true

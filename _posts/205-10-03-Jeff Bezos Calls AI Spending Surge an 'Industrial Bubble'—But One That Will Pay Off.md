@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jeff Bezos Calls AI Spending Surge an 'Industrial Bubble'—But One That Will Pay Off"
+description: "The AI Gold Rush: Innovation or Illusion? · The Silver Lining: Societal Transformation"
 date: 2025-10-03 23:37:00 +0800
 type: post
 published: true

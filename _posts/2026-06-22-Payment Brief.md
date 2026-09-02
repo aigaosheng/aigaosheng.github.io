@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-22"
 series: "Payments"
+description: "Avalanche Launches Institutional Payments Collective With 28 Financial Giants · Nuvei Confirms $2.75B Acquisition of Payoneer · Mastercard and Aave Launch…"
 date: 2026-06-22 20:28:00 +0800
 type: post
 published: true

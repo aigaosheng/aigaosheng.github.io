@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Databricks This Week — Multi-AI Indemnity, Agent Bricks Enhancements, Free Edition Hackathon & Platform Releases, November 9, 2025"
+description: "Quick recommendations for stakeholders"
 date: 2025-11-09 16:27:00 +0800
 type: post
 published: true

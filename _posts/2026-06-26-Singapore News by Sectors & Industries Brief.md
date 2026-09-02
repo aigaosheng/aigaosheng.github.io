@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News by Sectors & Industries Brief — 2026-06-26"
 series: "Singapore"
+description: "Singapore Factory Output Rises 13% in May, Driven by AI-Linked Electronics · Lazada Cuts 5% of Southeast Asia Workforce, Including in Singapore · Singapore…"
 date: 2026-06-26 20:33:00 +0800
 type: post
 published: true

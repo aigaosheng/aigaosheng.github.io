@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Frontier Daily – AI-Driven Wallets & Real-Time Payments Take Center Stage"
 series: "AI & Fintech"
+description: "In-Depth Highlight — Agentic AI & Fintech Evolution*** · Market & Industry Insight · Company & Startup Spotlight · Regulatory & Policy Watch"
 date: 2025-12-23 20:35:00 +0800
 type: post
 published: true

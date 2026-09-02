@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-05"
 series: "US & China AI"
+description: "AI Investment Divergence Intensifies Between Chips and Big Tech · UN Warns AI Progress Is Outpacing Global Governance · US Considers Voluntary AI Model…"
 date: 2026-07-05 20:13:00 +0800
 type: post
 published: true

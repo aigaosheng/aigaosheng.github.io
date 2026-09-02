@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Update — Qwen (week ending Dec 6, 2025)"
 series: "AI Company Watch"
+description: "In‑Depth Analysis of This Week’s Key Updates · Qwen App Surges — Rapid Adoption Signals Chinese AI’s Consumer Pivot · Multimodal & Embedding Advances…"
 date: 2025-12-06 20:56:00 +0800
 type: post
 published: true

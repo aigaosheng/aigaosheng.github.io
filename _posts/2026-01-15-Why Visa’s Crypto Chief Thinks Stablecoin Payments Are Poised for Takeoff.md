@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Visa’s Crypto Chief Thinks Stablecoin Payments Are Poised for Takeoff"
+description: "Growth in Stablecoin Settlements · Bridging Crypto and Traditional Payments · The Broader Stablecoin Landscape · What It Means for the Future of Payments"
 date: 2026-01-15 20:46:00 +0800
 type: post
 published: true

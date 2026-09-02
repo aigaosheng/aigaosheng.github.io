@@ -2,6 +2,7 @@
 layout: post
 title: "OPENAI — Weekly Intelligence Report March 14, 2026"
 series: "AI Company Watch"
+description: "Story 1: GPT-5.4 — The Unified Agent Model · Story 2: Codex Security — AI Enters DevSecOps · Story 3: Promptfoo Acquisition — Buying Enterprise Trust…"
 date: 2026-03-14 17:00:00 +0800
 type: post
 published: true

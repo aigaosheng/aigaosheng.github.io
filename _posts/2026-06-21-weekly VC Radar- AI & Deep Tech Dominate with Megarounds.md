@@ -2,6 +2,7 @@
 layout: post
 title: "weekly VC Radar- AI & Deep Tech Dominate with Megarounds-2026-06-21"
 series: "Investment & Startups"
+description: "Commentary & Actionable Insights"
 date: 2026-06-21 17:43:00 +0800
 type: post
 published: true

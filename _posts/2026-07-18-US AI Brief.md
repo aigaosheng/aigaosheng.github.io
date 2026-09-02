@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-18"
 series: "US & China AI"
+description: "US Weighs FINRA-Style Independent Regulator for Advanced AI Models · HumansFirst Organizes Nationwide Protests Against AI Data Center Buildout · SpaceX in…"
 date: 2026-07-18 21:30:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Frontier Weekly – AI, Unicorns & Reg-Tech Momentum, 30 January 2026"
 series: "AI & Fintech"
+description: "In-Depth Highlight: Nubank’s U.S. National Bank Breakthrough · Market & Industry Insight · AI & Algorithmic Fintech Taking Centre Stage · Funding…"
 date: 2026-01-31 21:05:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "“Overview of AI and Communication for 6G Network: Fundamentals, Challenges, and Future Research Opportunities"
+description: "Research Topic and Objective · Key Findings and Conclusions · Critical Data and Facts · Potential Applications and Implications"
 date: 2025-10-12 10:19:00 +0800
 type: post
 published: true

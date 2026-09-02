@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "300,000 ChatGPT Credentials Stolen- What the IBM Cyber Threat Report Reveals About the Future of AI Security"
+description: "What Happened: Credentials on the Dark Web · More Than Just ChatGPT Accounts"
 date: 2026-03-04 19:45:00 +0800
 type: post
 published: true

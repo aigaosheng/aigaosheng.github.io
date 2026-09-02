@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-22"
 series: "Enterprise AI"
+description: "Graph Engineering Emerges as a New Layer for Governing Enterprise AI Agents · Enterprise AI Governance Is Moving From Policy Documents to Runtime Controls…"
 date: 2026-08-22 21:35 +0800
 type: post
 published: true

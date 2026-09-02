@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Fandom Becomes a Search Journey: Meet Lore, the Search Engine for Obsessive Fans"
+description: "From Tumblr Nights to Startup Dreams · What Lore Offers (or Promises) · Why Lore Might Matter (Especially Now) · Challenges & Questions Ahead"
 date: 2025-10-03 23:23:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s Zhipu Puts the Brakes on AI Coding Agents as Demand Explodes"
+description: "The Bigger Picture: China’s AI Push"
 date: 2026-01-21 20:46:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google’s FunctionGemma - Tiny AI, Big Impact for On-Device Intelligence"
+description: "Built for Developers and Privacy"
 date: 2025-12-20 19:57:00 +0800
 type: post
 published: true

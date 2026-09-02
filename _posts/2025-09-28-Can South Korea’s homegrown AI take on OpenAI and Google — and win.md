@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Can South Korea’s homegrown AI take on OpenAI and Google — and win?"
+description: "Korea’s AI Gamble: From Dependence to Defiance · Meet the Contenders: Korea’s AI Lineup · LG AI Research — Exaone 4.0 · SK Telecom — A.X"
 date: 2025-09-28 10:33:00 +0800
 type: post
 published: true

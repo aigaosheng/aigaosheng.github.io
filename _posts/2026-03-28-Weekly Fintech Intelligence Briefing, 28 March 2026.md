@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Fintech Intelligence Briefing, 28 March 2026"
 series: "AI & Fintech"
+description: "Fintech Frontlines: Banks Go AI-Native, Revolut Goes Global · In-Depth Highlight: Revolut — Ten Years In, Finally a Global Bank · Market & Industry…"
 date: 2026-03-28 19:34:00 +0800
 type: post
 published: true

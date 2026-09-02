@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-03"
 series: "US & China AI"
+description: "Kling AI Raises US$2.8 Billion From Alibaba, Tencent and Baidu · Alibaba Restricts Internal Use of Anthropic's Claude Code · Anthropic Tightens Controls…"
 date: 2026-07-03 22:28:00 +0800
 type: post
 published: true

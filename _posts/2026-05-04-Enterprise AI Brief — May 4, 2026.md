@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 4, 2026"
 series: "Enterprise AI"
+description: "SAP accelerates enterprise AI strategy with multiple acquisitions · Citigroup launches ‘Arc’ AI platform for enterprise workforce · Humain partners with…"
 date: 2026-05-04 19:56:00 +0800
 type: post
 published: true

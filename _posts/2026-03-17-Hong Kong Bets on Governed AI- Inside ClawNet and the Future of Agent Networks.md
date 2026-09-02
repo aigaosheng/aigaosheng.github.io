@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hong Kong Bets on Governed AI- Inside ClawNet and the Future of Agent Networks"
+description: "From Chatbots to Autonomous Agents—With Rules Built In · Why Governance Matters: The OpenClaw Effect · How ClawNet Works: A “Society” of AI Agents…"
 date: 2026-03-17 20:44:00 +0800
 type: post
 published: true

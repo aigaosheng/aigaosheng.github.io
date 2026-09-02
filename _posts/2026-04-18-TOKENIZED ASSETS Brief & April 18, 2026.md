@@ -2,6 +2,7 @@
 layout: post
 title: "TOKENIZED ASSETS Brief & April 18, 2026"
 series: "Tokenized Assets"
+description: "RWA On-Chain Market Value Reaches $29.72B as CLARITY Act Nears Finalization · South Korea Launches Tokenized Deposit Pilot for Government Spending…"
 date: 2026-04-18 23:00:00 +0800
 type: post
 published: true

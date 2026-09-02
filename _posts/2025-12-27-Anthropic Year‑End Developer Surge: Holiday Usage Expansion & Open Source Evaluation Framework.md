@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic Year‑End Developer Surge - Holiday Usage Expansion & Open Source Evaluation Framework"
+description: "Holiday Usage Limits Doubled for Claude Pro & Max Subscribers · Anthropic Releases Bloom — Open Source Behavioral Evaluation Tool · Anthropic’s Agent…"
 date: 2025-12-27 22:37:00 +0800
 type: post
 published: true

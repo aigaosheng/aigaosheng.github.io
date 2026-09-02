@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-25"
 series: "Payments"
+description: "Visa Joins MAS-Led BLOOM Initiative to Connect Traditional Payments and Stablecoin Networks · Navi Raises $100 Million From Prosus Ahead of Planned IPO…"
 date: 2026-08-25 20:30:00 +0800
 type: post
 published: true

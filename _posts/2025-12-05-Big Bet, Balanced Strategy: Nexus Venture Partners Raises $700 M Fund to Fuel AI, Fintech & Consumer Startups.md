@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Big Bet, Balanced Strategy - Nexus Venture Partners Raises $700 M Fund to Fuel AI, Fintech & Consumer Startups"
+description: "What’s the Strategy? A Dual Focus: AI + India’s Consumer Boom · Why It Matters: Riding AI Momentum Without Over-loading on Hype · Proven Track Record — and…"
 date: 2025-12-05 21:32:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-14"
 series: "US & China AI"
+description: "iFlytek Develops LLM Running on Huawei AI Chips, Bypassing Nvidia · Experts Say Parameter Scaling Alone No Longer Sufficient for AI Progress · Huawei’s…"
 date: 2026-06-14 17:22:00 +0800
 type: post
 published: true

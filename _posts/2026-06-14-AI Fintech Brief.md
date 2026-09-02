@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-14"
 series: "AI & Fintech"
+description: "South Korea Pushes Generative AI for Public Finance Efficiency · Ramp Raises $750M at $44B Valuation to Fuel AI-Driven Spend Management · US Regulators…"
 date: 2026-06-14 17:41:00 +0800
 type: post
 published: true

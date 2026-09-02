@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Entertainment Brief — 2026-05-16"
+description: "Galaxy Corp. to Open Robot-Themed K-pop Park in Seoul · Michael' Projected to Reclaim Box Office Throne in 4th Weekend · Obsession' Haunts Box Office with…"
 date: 2026-05-16 21:09:00 +0800
 type: post
 published: true

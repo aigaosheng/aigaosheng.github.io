@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore’s AI-Powered Biotech Gambit - Nanyang Biologics Races Toward a US$1.5B Nasdaq Debut"
+description: "From Six Years to Six Minutes: AI Takes the Lead · A Nasdaq Play Through SPAC · Tech Partnerships That Power the Vision · Meet the Minds Behind the…"
 date: 2025-11-17 21:39:00 +0800
 type: post
 published: true

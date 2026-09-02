@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-10"
 series: "AI & Society"
+description: "UK launches major AI workforce retraining initiative for financial services · UN AI for Good Summit highlights growing concern over equitable AI adoption…"
 date: 2026-07-10 19:50:00 +0800
 type: post
 published: true

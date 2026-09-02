@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Wellness to Wall Street - How Meta-Backed Hupo Is Redefining AI Sales Coaching with a $10M Series A Win"
+description: "A Strategic Pivot with Real-Time Impact · Why This Matters Now · What’s Next for Hupo"
 date: 2026-01-13 20:39:00 +0800
 type: post
 published: true

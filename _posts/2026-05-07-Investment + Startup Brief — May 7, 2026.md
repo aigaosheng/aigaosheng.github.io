@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — May 7, 2026"
 series: "Investment & Startups"
+description: "India’s Skyroot Becomes First Space-Tech Unicorn · Haun Ventures Raises $1B for Crypto and AI-Agent Economy · Khwarizmi Ventures Launches $70M Fund II…"
 date: 2026-05-07 19:29:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coupang’s Massive Data Breach Exposes Nearly All Korean Customers"
+description: "What Happened — And How Big Is It? · Growing Regulatory and Political Heat · Why This Breach Matters for E‑Commerce · What Customers Should Watch For"
 date: 2025-11-30 22:18:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — April 22, 2026"
 series: "AI Governance & Regulation"
+description: "Anthropic Expands Frontier AI to European Banks Amid Governance Concerns · Report Highlights Rising Identity Risks from AI Agents · UK FCA Elevates AI…"
 date: 2026-04-22 20:43:00 +0800
 type: post
 published: true

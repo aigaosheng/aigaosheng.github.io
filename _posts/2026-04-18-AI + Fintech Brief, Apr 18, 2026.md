@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief, Apr 18, 2026"
 series: "AI & Fintech"
+description: "OpenAI acquires AI personal finance startup Hiro · American Express to acquire Hyper for agentic AI expense automation · AI adoption rises in wealth…"
 date: 2026-04-18 21:51:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — 2026-05-20"
 series: "Investment & Startups"
+description: "Q1 2026: AI Captures 81% of Global VC Funds in Historic $297B Quarter · Decart Secures $300M at $4B Valuation, Nvidia and Amazon as Strategic Partners…"
 date: 2026-05-20 20:42:00 +0800
 type: post
 published: true

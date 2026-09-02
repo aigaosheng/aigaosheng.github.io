@@ -2,6 +2,7 @@
 layout: post
 title: "Quantum AI Brief — 2026-08-14"
 series: "Quantum Computing"
+description: "Quanta Computer and Quantinuum Build Industrial Foundation for Large-Scale Quantum Computing · Enterprise Quantum Spending Reaches an Inflection Point…"
 date: 2026-08-14 19:57:00 +0800
 type: post
 published: true

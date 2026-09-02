@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-20"
 series: "AI & Fintech"
+description: "Fiserv Partners with OpenAI to Embed AI Across Banking Platforms · Primer Raises $100M Series C for AI-Powered Payment Infrastructure · Australian…"
 date: 2026-05-20 20:21:00 +0800
 type: post
 published: true

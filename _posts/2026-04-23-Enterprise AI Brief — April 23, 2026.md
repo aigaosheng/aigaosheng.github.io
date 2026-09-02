@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — April 23, 2026"
 series: "Enterprise AI"
+description: "Google Pushes “Agentic AI” as the New Enterprise Standard · Google Launches 8th-Gen TPUs and Agent Platform to Rival Nvidia · Enterprise AI Market Expands…"
 date: 2026-04-23 20:18:00 +0800
 type: post
 published: true

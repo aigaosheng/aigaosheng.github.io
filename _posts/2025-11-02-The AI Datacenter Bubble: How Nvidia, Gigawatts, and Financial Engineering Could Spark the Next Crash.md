@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The AI Datacenter Bubble - How Nvidia, Gigawatts, and Financial Engineering Could Spark the Next Crash"
+description: "The Great Datacenter Rush · Nvidia’s World — We’re Just Living in It · The Billions Behind the Buzz · The Financial Engineering Nobody’s Talking About"
 date: 2025-11-02 21:25:00 +0800
 type: post
 published: true

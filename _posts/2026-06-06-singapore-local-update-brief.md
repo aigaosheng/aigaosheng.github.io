@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore local update Brief — 2026-06-06"
 series: "Singapore"
+description: "Singapore orders platforms to block 14 posts targeting the Indian community · Singapore to ease restrictions on new hotels and hostels in Boat Quay and…"
 date: 2026-06-06 20:53:59 +0800
 type: post
 published: true

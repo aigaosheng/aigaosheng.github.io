@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+Startup Brief — 2026-05-28"
 series: "Investment & Startups"
+description: "AI Mega-Startups Rewire Venture Capital and the Midas List · SpaceX Kicks Off Largest Stock Market Listing in History · Bajaj Finserv Commits $240 Million…"
 date: 2026-05-28 20:08:00 +0800
 type: post
 published: true

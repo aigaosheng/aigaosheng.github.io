@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-29"
 series: "Investment & Startups"
+description: "Thailand's Amity Launches Singapore AI Hub After $100M Series D · AI App-Builder Rocket in Talks for $40-50M Round at ~$500M Valuation · AirTrunk Nears…"
 date: 2026-06-29 19:50:00 +0800
 type: post
 published: true

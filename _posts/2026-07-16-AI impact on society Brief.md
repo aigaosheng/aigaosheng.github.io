@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-16"
 series: "AI & Society"
+description: "Study Warns AI Chatbots May Reproduce Government Speech Restrictions · China Positions AI Governance as a Global Diplomatic Priority · Workers and…"
 date: 2026-07-16 21:52:00 +0800
 type: post
 published: true

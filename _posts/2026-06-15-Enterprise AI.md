@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-15"
 series: "Enterprise AI"
+description: "OpenAI Acquires Ona to Give Codex Agents Persistent Cloud Workspaces · TCS Partners with Anthropic to Deploy Claude at Scale for Regulated Industries · LTM…"
 date: 2026-06-15 20:43:00 +0800
 type: post
 published: true

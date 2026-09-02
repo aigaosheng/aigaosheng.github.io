@@ -3,6 +3,7 @@
 layout: post
 title: "Quantum Brief — 2026-08-21"
 series: "Quantum Computing"
+description: "IBM Connects Modular Cryogenic Systems to Scale Fault-Tolerant Quantum Computing · Quantum Computing Moves Deeper Into Business Education · Study…"
 date: 2026-08-21 21:38 +0800
 type: post
 published: true

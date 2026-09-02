@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Indonesia Banks on the Defensive - How a Nearly $12M Payment Fraud Sparked a Cybersecurity Shake-Up"
+description: "Indonesia’s Banks on the Defensive: How a Nearly $12M Payment Fraud Sparked a Cybersecurity Shake-Up · What’s Driving the Crackdown"
 date: 2025-12-22 20:24:00 +0800
 type: post
 published: true

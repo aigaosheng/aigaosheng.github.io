@@ -2,6 +2,7 @@
 layout: post
 title: "AI paper Brief — 2026-07-09"
 series: "AI Research & Open Source"
+description: "Apple Researchers Introduce Structured Reasoning Training Framework for LLMs · Study Finds Self-Organizing LLM Agent Teams Still Struggle to Use Expert…"
 date: 2026-07-09 20:48:00 +0800
 type: post
 published: true

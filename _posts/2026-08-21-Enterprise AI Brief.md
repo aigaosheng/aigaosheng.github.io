@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-21"
 series: "Enterprise AI"
+description: "Google Expands Antigravity for Enterprise Customers · Slack Brings AI Coding Agents Into Collaborative Workspaces · AI Infrastructure Debt Reaches a New…"
 date: 2026-08-21 21:30:00 +0800
 type: post
 published: true

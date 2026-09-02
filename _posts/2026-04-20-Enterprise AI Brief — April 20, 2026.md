@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — April 20, 2026"
 series: "Enterprise AI"
+description: "Enterprise AI Still Struggles with Routine Workflows · AI Supply Chain Risk Exposed in Vercel Security Breach · Mozilla Introduces “Thunderbolt” for Open…"
 date: 2026-04-20 20:10:00 +0800
 type: post
 published: true

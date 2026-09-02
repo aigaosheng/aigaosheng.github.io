@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How an Open-Source Python Library Is Quietly Redefining Data Engineering"
+description: "The Old World of Data Engineering · Meet dlt: The “Data-Loading Toolkit” for Everyone · From Startup Tool to Enterprise Movement · Why This Matters for AI…"
 date: 2025-11-04 21:12:00 +0800
 type: post
 published: true

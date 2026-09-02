@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Canada Declares War on Online Scams with a New Financial Crimes Agencys"
+description: "A Digital Crisis Meets Its Match · The Mandate: Protect, Prevent, Prosecute"
 date: 2025-10-20 23:16:00 +0800
 type: post
 published: true

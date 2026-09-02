@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Bold Move: From Brasil to Blur — PicPay’s IPO Journey"
+description: "Why Now? Timing, Positioning & Ambition · Risks & Wild Cards · What This Means for Fintech & Latin America"
 date: 2025-10-12 11:19:00 +0800
 type: post
 published: true

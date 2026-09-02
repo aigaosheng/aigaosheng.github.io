@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Market Overview - October 8, 2025"
+description: "U.S. equities ended lower on Tuesday, snapping a seven-day winning streak. The S&P 500 declined by 0.4%, the Dow Jones Industrial Average fell 91 points…"
 date: 2025-10-08 09:45:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Behind the Scenes of the AI Boom - How Meta and xAI Are Raising Billions — Without Showing It on the Books"
+description: "The Story in a Nutshell · But What Are the Trade-Offs?"
 date: 2025-11-17 21:17:00 +0800
 type: post
 published: true

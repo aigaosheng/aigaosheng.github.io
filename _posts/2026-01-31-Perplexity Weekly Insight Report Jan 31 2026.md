@@ -2,6 +2,7 @@
 layout: post
 title: "Perplexity Weekly Insight Report Jan 31 2026"
 series: "AI Company Watch"
+description: "Technology & Product Angle"
 date: 2026-01-31 22:28:00 +0800
 type: post
 published: true

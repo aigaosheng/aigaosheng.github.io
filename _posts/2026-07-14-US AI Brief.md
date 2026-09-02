@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-14"
 series: "US & China AI"
+description: "New York Imposes First US Moratorium on Large Data Centers · Apple Benefits as Investors Rotate Away from AI Capex · US Tech Stocks Face $750 Billion AI…"
 date: 2026-07-14 20:26:00 +0800
 type: post
 published: true

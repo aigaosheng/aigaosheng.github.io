@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Strategic Pivot from Tesla's Dojo Project
+description: "Date: September 3, 2025"
 date: 2025-09-03 
 type: post
 published: true

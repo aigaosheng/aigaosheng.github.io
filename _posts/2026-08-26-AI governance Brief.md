@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance Brief — 2026-08-26"
 series: "AI Governance & Regulation"
+description: "Singapore Opens Consultation on AI’s Impact on Copyright and Patent Rules · China Says Nearly 200 Key AI Standards Have Been Formulated · Bill Gates Calls…"
 date: 2026-08-26 20:28:00 +0800
 type: post
 published: true

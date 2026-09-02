@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Agentic Browsing Isn’t Killing Google Chrome — Yet"
+description: "What Is Agentic Browsing — And Why It Matters · So Why Aren’t They Replacing Chrome (Yet)? · Agentic Browsers Are Still Rough Around the Edges · Security…"
 date: 2025-12-07 21:28:00 +0800
 type: post
 published: true

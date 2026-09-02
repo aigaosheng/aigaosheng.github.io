@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-16"
 series: "US & China AI"
+description: "China Positions AI Leadership and Governance as Strategic Priority Ahead of Shanghai AI Conference · Huawei to Showcase Domestic AI Computing Cluster as…"
 date: 2026-07-16 21:56:00 +0800
 type: post
 published: true

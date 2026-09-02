@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside the society of Thought- How AI’s Internal Debates Are Boosting Accuracy on Complex Tasks"
+description: "A New Frontier in AI Logic: Societies of Thought · How Internal Debate Works in Practice · Why Multi-Agent Reasoning Outperforms Linear Thinking…"
 date: 2026-01-30 20:20:00 +0800
 type: post
 published: true

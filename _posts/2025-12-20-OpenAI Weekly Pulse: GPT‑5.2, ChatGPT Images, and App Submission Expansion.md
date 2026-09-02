@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI Weekly Pulse - GPT‑5.2, ChatGPT Images, and App Submission Expansion"
 series: "AI Company Watch"
+description: "Headline: OpenAI Introduces GPT‑5.2 — Next‑Gen Model for Professional Knowledge Work · Headline: OpenAI Enhances Visual Generation with New ChatGPT…"
 date: 2025-12-20 21:06:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Airbnb Says “Not Yet” to ChatGPT—And What That Means for AI in Travel"
+description: "What Airbnb is doing (and not doing) · Why the cautious approach? · What the implications are (for travel, AI and users)"
 date: 2025-10-22 22:45:00 +0800
 type: post
 published: true

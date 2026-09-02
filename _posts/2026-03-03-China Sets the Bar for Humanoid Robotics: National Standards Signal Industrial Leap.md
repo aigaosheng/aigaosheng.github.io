@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China Sets the Bar for Humanoid Robotics- National Standards Signal Industrial Leap"
+description: "From Chaos to Consistency: What the Standards Cover · Why This Matters (and Not Just for China)"
 date: 2026-03-03 19:54:00 +0800
 type: post
 published: true

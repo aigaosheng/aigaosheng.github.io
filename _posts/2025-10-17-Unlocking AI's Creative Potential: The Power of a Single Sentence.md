@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Unlocking AI's Creative Potential: The Power of a Single Sentence"
+description: "The Hidden Potential of AI Prompts"
 date: 2025-10-17 18:16:00 +0800
 type: post
 published: true

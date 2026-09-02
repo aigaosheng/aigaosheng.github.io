@@ -2,6 +2,7 @@
 layout: post
 title: "Market Pulse: Tech Wobbles While Energy Surges Amid Geopolitical Jitters"
 series: "AI Industry News"
+description: "News & Sentiment Insights · Potential Scenarios for Tomorrow · Social Media Sentiment: Cautiously Bullish on Energy ⛽"
 date: 2025-09-30 17:43:00 +0800
 type: post
 published: true

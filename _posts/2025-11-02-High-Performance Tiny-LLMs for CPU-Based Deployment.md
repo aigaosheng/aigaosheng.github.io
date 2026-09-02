@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "High-Performance Tiny-LLMs for CPU-Based Deployment"
+description: "Industrial Importance of CPU-Based Tiny LLMs · Key Research Directions and Papers · A. Creating Competitive Small Models (Training & Compression) · B.…"
 date: 2025-11-02 20:14:00 +0800
 type: post
 published: true

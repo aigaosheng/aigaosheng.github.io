@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Unlocking AI Defenses – How OpenAI’s “Aardvark” Agent Is Redefining Software Security"
+description: "The Big Idea: Scaling Security with AI · How Aardvark Works: The Pipeline in Four Stages · Real-World Performance & Open Source Impact · Why It Matters…"
 date: 2025-10-31 21:29:00 +0800
 type: post
 published: true

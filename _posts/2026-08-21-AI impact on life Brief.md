@@ -3,6 +3,7 @@
 layout: post
 title: "AI impact on life Brief — 2026-08-21"
 series: "AI & Society"
+description: "AI Is Becoming a Workforce Policy Choice, Not Just a Technology Choice · AI-Powered Traffic Enforcement Moves Into Singapore’s Everyday Life · AI Is…"
 date: 2026-08-21 21:35:00 +0800
 type: post
 published: true

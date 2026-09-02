@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The One Telltale Sign You’re Watching an AI‑Generated Video"
+description: "How to put this into practice · Why this sign is more useful than obvious glitches"
 date: 2025-11-03 22:07:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-11"
 series: "Payments"
+description: "Mastercard Enables AI Agents to Pay Each Other with New \"Agent Pay for Machines\" · Visa and OpenAI Partner to Embed Payments Directly into ChatGPT · Visa…"
 date: 2026-06-11 20:00:00 +0800
 type: post
 published: true

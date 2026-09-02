@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-30"
 series: "Enterprise AI"
+description: "Meta Expands Enterprise AI Ambitions Beyond Consumer Products · Microsoft Azure AI Momentum Strengthens with Record Cloud Growth · Atlassian Highlights…"
 date: 2026-07-30 20:17:00 +0800
 type: post
 published: true

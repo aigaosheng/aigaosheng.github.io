@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tesla at a Crossroads: Balancing Margin Pressure with Bold Bets on AI and Energy"
+description: "Financial Results and Business Trends · Strategic Pivot: Where Tesla Is Placing Its Bets · Competitive Landscape & Market Context"
 date: 2025-10-01 10:00:00 +0800
 type: post
 published: true

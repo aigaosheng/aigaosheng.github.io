@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Grab’s Big Bet on Robotics - How a Chinese AI Startup Could Transform Delivery in Southeast Asia"
+description: "Meet Infermove: From Garage Startup to Robotics Player · From Pilot to Scale · Bigger Picture: Automation in Southeast Asia · Glossary: Key Terms Explained"
 date: 2026-01-07 20:27:00 +0800
 type: post
 published: true

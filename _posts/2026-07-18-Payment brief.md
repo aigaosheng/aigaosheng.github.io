@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-18"
 series: "Payments"
+description: "Stripe's $53B Bid for PayPal Reshapes Payment Infrastructure Race · Swift Expands Blockchain Settlement Network as Competition Intensifies · Visa Unveils…"
 date: 2026-07-18 21:12:00 +0800
 type: post
 published: true

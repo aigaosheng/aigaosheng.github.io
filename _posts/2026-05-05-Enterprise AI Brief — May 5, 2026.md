@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 5, 2026"
 series: "Enterprise AI"
+description: "Wall Street and Anthropic Launch $1.5B “AI-Native Consulting” Venture · IBM Defines the “AI Operating Model” for Enterprises · 78% of Enterprises Now Run…"
 date: 2026-05-05 20:28:00 +0800
 type: post
 published: true

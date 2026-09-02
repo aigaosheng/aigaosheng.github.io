@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Investors Revive Dotcom-Era Tactics to Navigate the AI Bubble"
+description: "As AI stocks soar and valuations reach dizzying heights, seasoned investors are dusting off a playbook from the late 1990s dotcom boom. The goal? Ride the…"
 date: 2025-10-24 22:03:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-05"
 series: "Enterprise AI"
+description: "IBM and Google Cloud launch a new global practice to push enterprise AI into production · Wolters Kluwer expands its OpenAI partnership for enterprise AI…"
 date: 2026-06-05 20:02:16 +0800
 type: post
 published: true

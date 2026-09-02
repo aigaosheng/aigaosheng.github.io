@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meet the Tiny Hopping Robot That Could Change the Way We Explore the World"
+description: "The Brains Behind the Bounce"
 date: 2025-09-22 22:50:00 +0800
 type: post
 published: true

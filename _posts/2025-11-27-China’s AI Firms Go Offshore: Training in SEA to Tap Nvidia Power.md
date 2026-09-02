@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s AI Firms Go Offshore - Training in SEA to Tap Nvidia Power"
+description: "Moving AI “Heavy Lifting” Overseas · Key Constraints and Trade-offs · What It Means Going Forward"
 date: 2025-11-27 19:52:00 +0800
 type: post
 published: true

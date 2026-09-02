@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-05-20"
 series: "Tokenized Assets"
+description: "SEC Finalizes \"Innovation Exemption\" Framework for Tokenized Stocks · Franklin Templeton Partners with DigiFT to Distribute Tokenized Funds in Asia · Trump…"
 date: 2026-05-20 20:47:00 +0800
 type: post
 published: true

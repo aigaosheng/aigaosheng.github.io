@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-21"
 series: "Enterprise AI"
+description: "HCLTech Report: 43% of Major Enterprise AI Initiatives Expected to Fail · Tribal Raises $10M Seed for Context-Aware Enterprise AI Agents · OpenAI…"
 date: 2026-05-21 21:17:00 +0800
 type: post
 published: true

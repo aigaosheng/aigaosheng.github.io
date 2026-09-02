@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "South Korea’s Big Broadcasters vs. OpenAI- A Legal Clash Over AI Training and Copyright"
+description: "Why This Case Matters · Copyright Meets AI Training · Fair Compensation and Licensing Models"
 date: 2026-02-23 20:56:00 +0800
 type: post
 published: true

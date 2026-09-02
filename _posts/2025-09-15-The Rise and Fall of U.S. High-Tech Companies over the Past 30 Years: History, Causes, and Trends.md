@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Rise and Fall of U.S. High-Tech Companies over the Past 30 Years - History, Causes, and Trends
+description: "II. Timeline of U.S. Tech Company Development · 1990–2000: Early Internet Era and Bubble Formation · 2000–2010: Bubble Burst and Restructuring · 2010–2020…"
 date: 2025-09-15 22:42:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Breaking the Ice- Why Global Corporate Treasuries Are Lagging in AI Adoption"
+description: "The Adoption Gap: AI Is Everywhere — Except in Treasury · Why Treasury Is Behind: Structural and Skills Barriers · What This Means for Finance Leaders…"
 date: 2026-02-27 20:09:00 +0800
 type: post
 published: true

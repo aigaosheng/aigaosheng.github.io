@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — May 8, 2026"
 series: "AI Governance & Regulation"
+description: "1. EU Reaches Provisional Deal to Simplify AI Act, Delay High‑Risk Rules ** The Council presidency and European Parliament negotiators reached a…"
 date: 2026-05-08 20:44:00 +0800
 type: post
 published: true

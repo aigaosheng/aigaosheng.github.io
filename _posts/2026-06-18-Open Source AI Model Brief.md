@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source AI Model Brief — 2026-06-18"
 series: "AI Research & Open Source"
+description: "Z.ai's GLM-5.2 Challenges Proprietary Coding Models · Baseten's $15B Valuation Reflects Shift to Open-Source AI · Alibaba and Renmin University Open-Source…"
 date: 2026-06-18 21:04:00 +0800
 type: post
 published: true

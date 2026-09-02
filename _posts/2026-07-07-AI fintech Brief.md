@@ -2,6 +2,7 @@
 layout: post
 title: "AI fintech Brief — 2026-07-07"
 series: "AI & Fintech"
+description: "ECB Orders Banks to Prepare for AI-Powered Cyberattacks · Bank of England Warns AI Could Threaten Financial Stability · Axos Financial to Acquire AI-Native…"
 date: 2026-07-07 20:00:00 +0800
 type: post
 published: true

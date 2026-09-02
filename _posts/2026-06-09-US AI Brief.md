@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-09"
 series: "US & China AI"
+description: "Trump Orders Rapid AI Integration Across US Military and Intelligence Agencies · OpenAI Files Confidentially for IPO as AI Race Heats Up · Trump…"
 date: 2026-06-09 21:11:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "AI research + open-source LLM Brief — 2026-08-27"
 series: "AI Research & Open Source"
+description: "Cantonese AI highlights the strategic value of open-weight models for underserved languages · Open-weight models close the capability gap with proprietary…"
 date: 2026-08-27 21:21:00 +0800
 type: post
 published: true

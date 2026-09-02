@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Razer’s $600M AI Play- From Gaming Gear to Global Innovation Powerhouse"
+description: "Why Razer Is Betting Big on AI · Singapore at the Heart of Razer’s AI Strategy · What It Means for the Gaming Industry · Glossary — Key Terms Explained"
 date: 2026-01-07 20:16:00 +0800
 type: post
 published: true

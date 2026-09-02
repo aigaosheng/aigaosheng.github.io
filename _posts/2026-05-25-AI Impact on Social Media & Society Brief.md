@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-05-25"
 series: "AI & Society"
+description: "South Korea Grapples with AI-Generated Reality Crisis · Nigeria Faces Deepfake Fraud Epidemic Without Legal Framework · Social Media's Text-Based Era…"
 date: 2026-05-25 20:04:00 +0800
 type: post
 published: true

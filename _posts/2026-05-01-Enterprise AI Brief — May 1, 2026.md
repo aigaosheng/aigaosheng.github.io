@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 1, 2026"
 series: "Enterprise AI"
+description: "Citi Launches Agentic AI Platform “Arc” for Enterprise Automation · Google Cloud AI Revenue Surges on Enterprise Demand · AWS AI Business Hits $15B Annual…"
 date: 2026-05-01 21:20:00 +0800
 type: post
 published: true

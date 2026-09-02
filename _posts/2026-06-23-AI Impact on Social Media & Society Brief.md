@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-23"
 series: "AI & Society"
+description: "Five Eyes Intelligence Alliance Issues Urgent AI Warning · UN Chief Demands Transparency on AI's Environmental Cost · UN Women: AI is \"Getting Women Wrong\"…"
 date: 2026-06-23 19:55:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Anthropic Weekly Intelligence Report April 5, 2026"
 series: "AI Company Watch"
+description: "Claude Code Leak: Security Breakdown with Strategic Implications · OpenClaw Restriction: Platform Control vs Ecosystem Growth · U.S. Government Conflict…"
 date: 2026-04-05 20:08:00 +0800
 type: post
 published: true

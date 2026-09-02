@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-29"
 series: "AI & Fintech"
+description: "Fiserv Partners with Cognition to Deploy AI Software Engineer ‘Devin’ for Core Modernization · ASIC Signals Collaborative Regulatory Shift for AI and…"
 date: 2026-05-29 20:40:00 +0800
 type: post
 published: true

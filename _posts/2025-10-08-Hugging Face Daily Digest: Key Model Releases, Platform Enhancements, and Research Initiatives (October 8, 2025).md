@@ -2,6 +2,7 @@
 layout: post
 title: "Hugging Face Daily Digest: Key Model Releases, Platform Enhancements, and Research Initiatives (October 8, 2025)"
 series: "AI Company Watch"
+description: "Rise of Multimodal Models · Advancements in Energy Efficiency · Influence of Chinese Open-Source AI Systems · Implications for the AI Community"
 date: 2025-10-08 23:10:00 +0800
 type: post
 published: true

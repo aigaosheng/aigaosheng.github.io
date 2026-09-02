@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-07"
 series: "Investment & Startups"
+description: "Chemistry Raises $500 Million Second Venture Fund to Back Early-Stage Software Startups · Google and XTX Invest in Proxima Fusion at $2.4 Billion Valuation"
 date: 2026-07-07 21:11:00 +0800
 type: post
 published: true

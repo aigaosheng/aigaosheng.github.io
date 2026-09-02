@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Is Flooding Work… But Killing Productivity"
+description: "Companies rushed to adopt generative AI, expecting instant efficiency gains. Reality check: 95% report no measurable ROI, even as AI usage doubled at work…"
 date: 2025-09-28 16:51:00 +0800
 type: post
 published: true

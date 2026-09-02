@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Payments Daily Brief April 2, 2026"
 series: "Payments"
+description: "Thursday, April 2, 2026 · SoFi Launches 24/7 Business Banking with Stablecoin Support · PayNearMe Pushes “Payment Experience Management” · Cross-Border…"
 date: 2026-04-02 20:44:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Open-source model momentum on Hugging Face - FLUX-2 in Diffusers, fast batching for Transformers, and 3D-aware VLM gains"
+description: "This week on Hugging Face the community sharpened two practical fronts — model runtime efficiency and domain-specialized releases — while research pushed…"
 date: 2025-11-29 21:00:00 +0800
 type: post
 published: true

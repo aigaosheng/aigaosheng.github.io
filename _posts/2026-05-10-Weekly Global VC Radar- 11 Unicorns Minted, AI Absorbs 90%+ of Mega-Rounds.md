@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Global VC Radar- 11 Unicorns Minted, AI Absorbs 90%+ of Mega-Rounds"
 series: "Investment & Startups"
+description: "Past-7-Day Global VC Radar: 11 Unicorns Minted, AI Absorbs 90%+ of Mega-Rounds · Trends & Actionable Takeaways · AI has bifurcated: \"Horizontal…"
 date: 2026-05-10 20:13:00 +0800
 type: post
 published: true

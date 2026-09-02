@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-23"
 series: "Enterprise AI"
+description: "Alibaba Raises $10.2 Billion to Fund Full-Stack AI Expansion · Philippine Enterprises Accelerate Practical AI Adoption Through AWS Partnership · China's…"
 date: 2026-08-23 20:51 +0800
 type: post
 published: true

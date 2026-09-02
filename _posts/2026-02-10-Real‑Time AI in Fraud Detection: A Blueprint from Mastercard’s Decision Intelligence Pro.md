@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Real‑Time AI in Fraud Detection- A Blueprint from Mastercard’s Decision Intelligence Pro"
+description: "Industry Problem: Speed Meets Scale · Mastercard’s Decision Intelligence Pro: How It Works · Advanced Capabilities and Defensive Techniques · Strategic…"
 date: 2026-02-10 20:20:00 +0800
 type: post
 published: true

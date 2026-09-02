@@ -3,6 +3,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-21"
 series: "US & China AI"
+description: "China’s AI gap with the US is narrowing through talent, open source and cost efficiency · Alibaba doubles down on AI infrastructure as proprietary chips…"
 date: 2026-08-21 21:32:00 +0800
 type: post
 published: true

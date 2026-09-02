@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-05-19"
 series: "US & China AI"
+description: "Chinese Premier Li Qiang Urges Deep Integration of AI and Advanced Manufacturing · China's AI Industry Drives Explosive Growth in Core Components · Tax…"
 date: 2026-05-19 20:22:00 +0800
 type: post
 published: true

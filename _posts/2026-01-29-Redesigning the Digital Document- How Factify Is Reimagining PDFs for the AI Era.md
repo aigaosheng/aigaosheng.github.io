@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Redesigning the Digital Document- How Factify Is Reimagining PDFs for the AI Era"
+description: "From Files to Intelligent Records · Why Now — and Why It Matters · A New Foundation for Post-AI Business"
 date: 2026-01-29 19:44:00 +0800
 type: post
 published: true

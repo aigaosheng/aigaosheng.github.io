@@ -2,6 +2,7 @@
 layout: post
 title: "investment startup Brief — 2026-07-30"
 series: "Investment & Startups"
+description: "LearnVector Launches With $100 Million Strategic Investment · Intel Grants Rare Chip Technology Access to New Startup RosaicLabs · Singapore Venture…"
 date: 2026-07-30 20:20:00 +0800
 type: post
 published: true

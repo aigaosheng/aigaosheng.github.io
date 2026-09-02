@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Plus Brief & 29 April 2026"
 series: "Singapore"
+description: "Home Team accelerates AI push with satellites and humanoid robotics roadmap · Bank of Singapore reshuffles senior wealth leadership · Payment disruptions…"
 date: 2026-04-29 22:03:00 +0800
 type: post
 published: true

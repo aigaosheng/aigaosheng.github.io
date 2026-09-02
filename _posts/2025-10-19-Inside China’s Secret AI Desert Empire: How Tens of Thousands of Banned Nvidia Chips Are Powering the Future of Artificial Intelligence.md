@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside China’s Secret AI Desert Empire: How Tens of Thousands of Banned Nvidia Chips Are Powering the Future of Artificial Intelligence"
+description: "Deep in China’s remote northwestern desert lies a secretive tech megacity construction that could reshape the artificial intelligence world—the sprawling…"
 date: 2025-10-19 21:23:00 +0800
 type: post
 published: true

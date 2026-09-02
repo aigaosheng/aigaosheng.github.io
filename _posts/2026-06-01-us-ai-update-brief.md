@@ -2,6 +2,7 @@
 layout: post
 title: "US AI update Brief — 2026-06-01"
 series: "US & China AI"
+description: "U.S. moves to block advanced AI chip sales to Chinese firms’ overseas units · Nvidia unveils a new PC AI chip aimed at running agents locally"
 date: 2026-06-01 20:51:03 +0800
 type: post
 published: true

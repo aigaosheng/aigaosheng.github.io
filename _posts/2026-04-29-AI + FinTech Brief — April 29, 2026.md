@@ -2,6 +2,7 @@
 layout: post
 title: "AI + FinTech Brief — April 29, 2026"
 series: "AI & Fintech"
+description: "Customers Bank Partners with OpenAI to Build “AI-Native” Bank · Citi Develops AI Wealth Advisor “Citi Sky” Amid Agent Limitations · Huawei Launches “4-Win”…"
 date: 2026-04-29 20:53:00 +0800
 type: post
 published: true

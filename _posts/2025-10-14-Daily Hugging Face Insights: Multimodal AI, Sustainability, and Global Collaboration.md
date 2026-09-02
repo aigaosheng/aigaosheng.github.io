@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Hugging Face Insights: Multimodal AI, Sustainability, and Global Collaboration"
 series: "AI Company Watch"
+description: "Implications for the AI Community"
 date: 2025-10-14 23:20:00 +0800
 type: post
 published: true

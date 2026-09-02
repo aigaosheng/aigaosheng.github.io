@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI's Latest Acqui-Hire: A Bold Step into Personalized Consumer AI"
+description: "In a strategic move that underscores its commitment to personalized AI experiences, OpenAI has acquired Roi, an AI-powered personal finance app. This…"
 date: 2025-10-04 21:40:00 +0800
 type: post
 published: true

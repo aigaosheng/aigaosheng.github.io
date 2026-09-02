@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief  — 2026-06-17"
 series: "AI Research & Open Source"
+description: "Singapore Launches First 8 National AI-for-Science Projects with S$120M Funding · KAIST-MIT-Microsoft Develop \"Upsample Anything\" with 16x GPU Memory…"
 date: 2026-06-17 20:20:00 +0800
 type: post
 published: true

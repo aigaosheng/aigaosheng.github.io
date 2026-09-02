@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Toaster-like Process Recovers Rare Earths From E-waste"
+description: "Breathing New Life into E-Waste · Why This Matters: The Bigger Picture · Challenges & Questions Ahead"
 date: 2025-10-09 22:28:00 +0800
 type: post
 published: true

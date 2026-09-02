@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI on the Trading Floor and in HR- Anthropic Pushes Claude Into Core Business Workflows"
+description: "Market and Competitive Lens · Implications for Businesses and Workers"
 date: 2026-02-25 20:25:00 +0800
 type: post
 published: true

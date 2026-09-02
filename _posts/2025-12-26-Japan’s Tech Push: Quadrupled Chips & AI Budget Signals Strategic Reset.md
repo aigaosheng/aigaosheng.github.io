@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Japan Tech Push - Quadrupled Chips & AI Budget Signals Strategic Reset"
+description: "Japan’s Tech Push: Quadrupled Chips & AI Budget Signals Strategic Reset · From Dormancy to Tech Ambition · Where the Money Will Go · Why This Matters Now"
 date: 2025-12-26 20:50:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ByteDance Pulls Back - Why Its Promising AI Phone Just Got Gimped"
+description: "What Happened: Features Don’t Work So Well Anymore · What It Means: Tech Promise Meets Platform Pushback · AI Isn’t Just Another App — It’s a New Kind of…"
 date: 2025-12-07 22:00:00 +0800
 type: post
 published: true

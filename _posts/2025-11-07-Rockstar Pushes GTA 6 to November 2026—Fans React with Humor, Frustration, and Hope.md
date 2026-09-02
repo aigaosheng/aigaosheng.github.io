@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rockstar Pushes GTA 6 to November 2026—Fans React with Humor, Frustration, and Hope"
+description: "A Legendary Legacy—and Rising Expectations · Fans React: From Memes to Support · Behind the Scenes: Labor Tensions at Rockstar"
 date: 2025-11-07 21:17:00 +0800
 type: post
 published: true

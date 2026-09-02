@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — April 23, 2026"
 series: "AI & Society"
+description: "1. OpenAI Launches ChatGPT Images 2.0 With Enhanced Text Rendering and Editing OpenAI introduced ChatGPT Images 2.0, featuring improved text rendering…"
 date: 2026-04-23 20:47:00 +0800
 type: post
 published: true

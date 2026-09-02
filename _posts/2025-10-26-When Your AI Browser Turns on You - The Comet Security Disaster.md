@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Your AI Browser Turns on You - The Comet Security Disaster"
+description: "A Browser That Acts … and Obeys · Why This Is a Big Deal · What Went Wrong with Comet · A Problem Bigger Than One Company"
 date: 2025-10-26 15:39:00 +0800
 type: post
 published: true

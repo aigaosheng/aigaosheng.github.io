@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-26"
 series: "US & China AI"
+description: "Google Loses 4 Senior AI Researchers to Anthropic in a Single Week · OpenAI and Broadcom Unveil 'Jalapeño', OpenAI's First Custom AI Chip · Anthropic…"
 date: 2026-06-26 21:09:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — May 14, 2026"
 series: "AI & Fintech"
+description: "Spinwheel Launches Credit Data AI Lab with Prove to Operationalize Agentic Lending Source · BusinessWire · May 13, 2026 Summary · Spinwheel has launched a…"
 date: 2026-05-14 20:09:00 +0800
 type: post
 published: true

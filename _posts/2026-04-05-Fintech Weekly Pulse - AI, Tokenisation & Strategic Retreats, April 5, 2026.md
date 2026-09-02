@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly Pulse - AI, Tokenisation & Strategic Retreats, April 5, 2026"
 series: "AI & Fintech"
+description: "Monzo exits US to refocus on Europe (FinTech Futures) · ICE injects $600M into Polymarket (FinTech Futures) · Swift advances tokenised deposit ledger…"
 date: 2026-04-05 17:33:00 +0800
 type: post
 published: true

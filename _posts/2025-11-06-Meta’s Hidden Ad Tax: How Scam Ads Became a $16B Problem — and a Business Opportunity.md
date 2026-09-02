@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meta’s Hidden Ad Tax - How Scam Ads Became a $16B Problem — and a Business Opportunity"
+description: "What to watch next"
 date: 2025-11-06 22:01:00 +0800
 type: post
 published: true

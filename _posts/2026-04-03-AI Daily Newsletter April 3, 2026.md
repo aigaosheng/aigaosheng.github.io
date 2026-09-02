@@ -2,6 +2,7 @@
 layout: post
 title: "AI Daily Newsletter April 3, 2026"
 series: "AI Industry News"
+description: "Microsoft Launches Three New Foundational AI Models · OpenAI Acquires TBPN, the Founder-Led Tech Talk Show · Cursor Launches Agent-Based Coding Workflows…"
 date: 2026-04-03 21:10:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-05-28"
 series: "AI & Society"
+description: "OpenAI Ramps Up Anti-Misinformation Efforts for Global Elections · LinkedIn Announces Crackdown on \"AI Slop\" to Prioritize Human Voices · New Study: AI…"
 date: 2026-05-28 20:11:00 +0800
 type: post
 published: true

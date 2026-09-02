@@ -2,6 +2,7 @@
 layout: post
 title: "Hong Kong Market Report – October 8, 2025"
 series: "Market Reports"
+description: "Top News (Last 24 Hours)"
 date: 2025-10-08 22:40:00 +0800
 type: post
 published: true

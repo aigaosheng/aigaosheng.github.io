@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Breaking the Bio-Tech Barrier: Artificial Neurons That Converse with Living Cells"
+description: "The Dawn of Bio-Hybrid Intelligence · The Science Behind the Breakthrough"
 date: 2025-10-13 23:30:00 +0800
 type: post
 published: true

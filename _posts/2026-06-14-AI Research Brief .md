@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-14"
 series: "AI Research & Open Source"
+description: "OpenAI’s AI System Cracks Decades-Old Math Problem, Redefining Discovery · AI-Designed ‘Universal’ Coronavirus Vaccine Passes First Human Trial · Rigorous…"
 date: 2026-06-14 17:06:00 +0800
 type: post
 published: true

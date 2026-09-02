@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MIT微型跳跃机器人：小身躯，能量大"
+description: "这款灵巧小机器人由研究生Nemo Hsiao和香港城市大学的Chirarattananon教授联合研发。他们的目标是打造一款能够模仿小动物动作的机器人——既能跳跃、穿越复杂地形，又能承载比自身重量更大的负载，同时能耗极低。"
 date: 2025-09-22 22:40:00 +0800
 type: post
 published: true

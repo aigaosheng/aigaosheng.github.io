@@ -2,6 +2,7 @@
 layout: post
 title: "Investor + Startup Daily Newsletter — April 14, 2026"
 series: "Investment & Startups"
+description: "India launches ₹10,000 crore Startup Fund of Funds 2.0 to accelerate deeptech growth · Collide Capital closes oversubscribed $95M Fund II in 13 months…"
 date: 2026-04-14 21:00:00 +0800
 type: post
 published: true

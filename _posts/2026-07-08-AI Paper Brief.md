@@ -2,6 +2,7 @@
 layout: post
 title: "AI Paper Brief — 2026-07-08"
 series: "AI Research & Open Source"
+description: "New Research Challenges the Effectiveness of Self-Organizing LLM Agent Teams · AI Research Community Highlights New Work on Automated AI Discovery and…"
 date: 2026-07-08 21:12:00 +0800
 type: post
 published: true

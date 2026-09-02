@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-23"
 series: "US & China AI"
+description: "Trump Reverses AI Executive Order on Safety Reviews · White House Explores Pathways for Public Stake in AI Firms · OpenAI & Anthropic IPOs Set to Generate…"
 date: 2026-06-23 19:52:00 +0800
 type: post
 published: true

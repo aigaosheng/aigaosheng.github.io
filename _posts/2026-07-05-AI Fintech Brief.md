@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-05"
 series: "AI & Fintech"
+description: "Shinhan Financial Accelerates Group-Wide AI Transformation · AI-Powered Fraud Escalates Across Asia-Pacific Financial Services · Pine Labs Expands…"
 date: 2026-07-05 20:07:00 +0800
 type: post
 published: true

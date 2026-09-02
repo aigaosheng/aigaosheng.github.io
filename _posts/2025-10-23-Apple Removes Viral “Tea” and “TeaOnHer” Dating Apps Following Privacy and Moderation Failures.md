@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Apple Removes Viral “Tea” and “TeaOnHer” Dating Apps Following Privacy and Moderation Failures"
+description: "Broader implications and takeaways"
 date: 2025-10-23 21:43:00 +0800
 type: post
 published: true

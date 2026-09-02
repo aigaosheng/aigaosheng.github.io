@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Inference Trap: How Cloud Providers Are Eating Your AI Margins"
+description: "The Cloud: A Double-Edged Sword · The Hidden Costs of “Ease” · Smart Workarounds: Hybrid Approaches"
 date: 2025-09-23 22:20:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — June 15, 2026"
 series: "Payments"
+description: "OpenAI and Visa Partner to Build Payment Infrastructure for AI Agents · China’s mBridge CBDC Platform Prepares for Commercial Launch · Russia Confirms…"
 date: 2026-06-15 20:58:00 +0800
 type: post
 published: true

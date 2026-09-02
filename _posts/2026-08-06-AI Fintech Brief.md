@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-06"
 series: "AI & Fintech"
+description: "JPMorgan CEO Jamie Dimon Says AI Investment Boom Will Deliver Long-Term Returns · Alphabet Pursues Up to $25 Billion Bond Sale to Finance AI Expansion"
 date: 2026-08-06 21:35:00 +0800
 type: post
 published: true

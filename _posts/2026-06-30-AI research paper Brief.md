@@ -2,6 +2,7 @@
 layout: post
 title: "AI research paper Brief — 2026-06-30"
 series: "AI Research & Open Source"
+description: "Self-Evolving World Models for LLM Agent Planning · DOPD: Dual On-policy Distillation · The Human Creativity Benchmark · Linguistic Firewall: Geometry as…"
 date: 2026-06-30 20:38:00 +0800
 type: post
 published: true

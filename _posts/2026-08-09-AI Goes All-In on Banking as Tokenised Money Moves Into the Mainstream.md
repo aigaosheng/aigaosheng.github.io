@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Goes All-In on Banking as Tokenised Money Moves Into the Mainstream — 2026-08-08"
+description: "Fintech Weekly — 9 August 2026 · Visa to acquire behavioural biometrics fintech BioCatch in $2.4bn deal — FinTech Futures · Rabobank commits €2bn to…"
 date: 2026-08-09 16:31:00 +0800
 type: post
 published: true

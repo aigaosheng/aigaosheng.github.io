@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-26"
 series: "Enterprise AI"
+description: "SAP Launches Ambitious Agentic AI Platform with 200+ Autonomous Agents · OpenAI’s Codex Hits 4M Weekly Users as Enterprise Push Intensifies Pre-IPO…"
 date: 2026-05-26 21:07:00 +0800
 type: post
 published: true

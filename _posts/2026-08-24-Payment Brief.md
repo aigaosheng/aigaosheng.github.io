@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-24"
 series: "Payments"
+description: "Walmart Begins Accepting Apple Pay and Google Pay Across US Stores · Klarna Expands In-Store Payments to GARAGE and DYNAMITE · Fasset Reaches $1 Billion…"
 date: 2026-08-24 19:10:00 +0800
 type: post
 published: true

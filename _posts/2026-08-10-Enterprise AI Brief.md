@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-10"
 series: "Enterprise AI"
+description: "Enterprise AI Adoption Is Accelerating, but ROI Measurement Is Becoming the Critical Bottleneck · C3 AI Named a Leader in AI Platforms · Enterprise…"
 date: 2026-08-10 21:50:00 +0800
 type: post
 published: true

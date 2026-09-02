@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When ChatGPT Can Call the Police"
+description: "AI is becoming a confidant, a safety monitor—and, in rare cases, a witness against its users. · The chatbot is not your therapist—and not quite your friend"
 date: 2026-08-22 16:50:00 +0800
 type: post
 published: true

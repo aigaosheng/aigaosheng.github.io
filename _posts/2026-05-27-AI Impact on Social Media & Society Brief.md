@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-05-27"
 series: "AI & Society"
+description: "Meta-Analysis Reveals Best Tactics to Fight AI Misinformation · Argentina Deploys AI 'Digital Twin' for Social Engineering · Fake WAG' Trend Blurs Reality…"
 date: 2026-05-27 21:28:00 +0800
 type: post
 published: true

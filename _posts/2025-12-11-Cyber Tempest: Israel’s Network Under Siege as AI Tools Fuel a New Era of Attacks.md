@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cyber Tempest - Israel’s Network Under Siege as AI Tools Fuel a New Era of Attacks"
+description: "Why the Surge Happens Now · The Double-Edged Sword of AI · From Defensive Necessity to Strategic Priority"
 date: 2025-12-11 21:25:00 +0800
 type: post
 published: true

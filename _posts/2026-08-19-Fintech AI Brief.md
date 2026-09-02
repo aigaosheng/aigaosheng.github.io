@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-19"
 series: "AI & Fintech"
+description: "Global Fintech Funding Falls 20% as AI-Enabled Digital Banking Remains a Bright Spot · Rentify Expands Its AI Workforce for Property and Financial…"
 date: 2026-08-19 20:40:00 +0800
 type: post
 published: true

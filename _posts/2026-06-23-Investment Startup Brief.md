@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-23"
 series: "Investment & Startups"
+description: "AI Infrastructure Startup Upscale AI Raises $190M at $2B Valuation · Meta Invests $900M in Indian Fintech CRED, Founder to Lead WhatsApp · Abu Dhabi's MGX…"
 date: 2026-06-23 19:54:00 +0800
 type: post
 published: true

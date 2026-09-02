@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter, 7 March 2026"
 series: "Singapore"
+description: "Digital Assets / Crypto · Infrastructure / B2B Fintech · AI in Finance / Funding · Crypto / Digital Assets"
 date: 2026-03-07 17:02:00 +0800
 type: post
 published: true

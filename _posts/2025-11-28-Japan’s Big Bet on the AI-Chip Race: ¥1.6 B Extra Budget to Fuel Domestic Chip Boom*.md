@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Japan’s Big Bet on the AI-Chip Race - ¥1.6 B Extra Budget to Fuel Domestic Chip Boom*"
+description: "What’s New: The Budget Boost · Why This Matters: Strategic Context & Signals · A comeback for domestic chipmaking · Preparing for the AI and generative-AI…"
 date: 2025-11-28 20:00:00 +0800
 type: post
 published: true

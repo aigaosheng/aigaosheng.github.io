@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Private-Market FOMO on AI Could Trigger Costly Mistakes — Says Top Deal-Maker"
+description: "The Risky Side of Private-Market AI Fever · Why Transparency and Discipline Matter — and Disappear under FOMO · The Broader Implications for the AI Boom"
 date: 2025-12-06 19:38:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "MiniMax Weekly Intelligence Report, Feb 21, 2026"
 series: "AI Company Watch"
+description: "Period: Feb 15 – 21, 2026"
 date: 2026-02-21 20:16:00 +0800
 type: post
 published: true

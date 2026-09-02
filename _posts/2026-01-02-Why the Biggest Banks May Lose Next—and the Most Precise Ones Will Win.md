@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why the Biggest Banks May Lose Next—and the Most Precise Ones Will Win"
+description: "The Paradox: Record Profits, Record Skepticism · Why Scale No Longer Saves You · Enter the Precision Toolbox · AI: The Opportunity—and the Trap"
 date: 2026-01-02 20:16:00 +0800
 type: post
 published: true

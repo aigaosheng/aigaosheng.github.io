@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-06-07"
 series: "AI Governance & Regulation"
+description: "UK Regulators Issue Joint Warning on Frontier Model Cyber Risks · EU Antitrust and Consumer Risks: A Compliance Playbook for AI Agents · Agentic AI Moves…"
 date: 2026-06-07 21:31:00 +0800
 type: post
 published: true

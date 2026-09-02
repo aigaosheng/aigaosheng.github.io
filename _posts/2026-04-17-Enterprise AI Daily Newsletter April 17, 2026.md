@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily Newsletter April 17, 2026"
 series: "Enterprise AI"
+description: "Stellantis & Microsoft Deepen Enterprise AI Partnership · Singapore Launches AI Innovation Center for Enterprises · Ericsson Expands Enterprise AI via 5G…"
 date: 2026-04-17 21:05:00 +0800
 type: post
 published: true

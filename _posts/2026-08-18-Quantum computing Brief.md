@@ -3,6 +3,7 @@
 layout: post
 title: "Quantum computing Brief — 2026-08-18"
 series: "Quantum Computing"
+description: "China Tests Quantum Technology in a Live Power-Grid Environment · Tantalum Thin Films Advance the Performance of Superconducting Quantum Devices · U.S.…"
 date: 2026-08-18 19:52:00 +0800
 type: post
 published: true

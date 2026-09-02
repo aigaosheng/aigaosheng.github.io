@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-01"
 series: "AI & Fintech"
+description: "Bank of England Signals New Rules for Agentic AI in Finance · Ant International Opens Global Development Centre in Malaysia · Ant International Expands AI…"
 date: 2026-07-01 12:00:00 +0800
 type: post
 published: true

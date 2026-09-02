@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly Brief- AI Agents, Travel Payments & Cross-Border Wallets 7 March 2026"
 series: "AI & Fintech"
+description: "Europe’s first AI-agent payment signals the rise of autonomous commerce · Market & Industry Insight · Agentic payments and automation are becoming the next…"
 date: 2026-03-07 16:45:00 +0800
 type: post
 published: true

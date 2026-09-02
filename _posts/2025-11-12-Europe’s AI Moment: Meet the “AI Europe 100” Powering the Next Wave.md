@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Europe’s AI Moment - Meet the “AI Europe 100” Powering the Next Wave"
+description: "Rapid Growth, Unparalleled Scale · Why Europe Could Be the Next Global Leader · Implications for Leaders, Investors and Talent"
 date: 2025-11-12 20:12:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Australia’s Tech Leap - Billionaire Ed Craven Pours A$30 Million Into ‘AI Factory’ to Build Sovereign AI Engine"
+description: "What’s next & caveats"
 date: 2025-10-27 20:07:00 +0800
 type: post
 published: true

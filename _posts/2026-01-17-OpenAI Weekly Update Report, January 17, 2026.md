@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI Weekly Update Report, January 17, 2026"
 series: "AI Company Watch"
+description: "OpenAI Announces Advertising Integration in ChatGPT · OpenAI Introduces ChatGPT Health and OpenAI for Healthcare · Trends & Forward Outlook"
 date: 2026-01-17 22:04:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Fintech Intelligence 2026-07-26"
 series: "AI & Fintech"
+description: "AI, Payments & Strategic Capital Reshape Global Fintech · Deutsche Bank launches global AI hackathon · Judge rejects Zelle's attempt to dismiss fraud…"
 date: 2026-07-26 16:00:00 +0800
 type: post
 published: true

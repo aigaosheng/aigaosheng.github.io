@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source AI Model Brief — 2026-06-21"
 series: "AI Research & Open Source"
+description: "GLM-5.2 Tops Google Models on Artificial Analysis Intelligence Index · Industry Shifts Away from GRPO for Long-Range Agent Tasks · GLM-5.2 Tops DeepSWE…"
 date: 2026-06-21 17:00:00 +0800
 type: post
 published: true

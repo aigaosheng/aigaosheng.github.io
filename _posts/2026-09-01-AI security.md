@@ -3,6 +3,7 @@
 layout: post
 title: "AI security Brief — 2026-09-01"
 series: "AI security"
+description: "AI Agents Enter the Offensive Security Training Loop in South Korea · Horizon3 Raises $250 Million as Autonomous AI Cyber Defense Gains Momentum · Aurora…"
 date: 2026-09-01 20:43:00 +0800
 type: post
 published: true

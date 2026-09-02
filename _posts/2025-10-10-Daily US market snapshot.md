@@ -2,6 +2,7 @@
 layout: post
 title: "Daily US market snapshot - October 10, 2025"
 series: "Market Reports"
+description: "Breaking / market-moving details · Analysis — what this means for the market · 3–5 actionable watch points"
 date: 2025-10-10 15:26:00 +0800
 type: post
 published: true

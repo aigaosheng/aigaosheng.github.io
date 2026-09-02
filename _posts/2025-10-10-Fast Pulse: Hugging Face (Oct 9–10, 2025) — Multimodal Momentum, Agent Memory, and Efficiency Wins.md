@@ -2,6 +2,7 @@
 layout: post
 title: "Fast Pulse: Hugging Face (Oct 9–10, 2025) — Multimodal Momentum, Agent Memory, and Efficiency Wins"
 series: "AI Company Watch"
+description: "Snapshot — what landed in the last 24 hours · Key trends surfaced (and why they matter) · Multimodal models are accelerating — now with native…"
 date: 2025-10-10 23:10:00 +0800
 type: post
 published: true

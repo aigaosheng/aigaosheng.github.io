@@ -3,6 +3,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-21"
 series: "Investment & Startups"
+description: "California Captures $366 Billion of U.S. Venture Capital in 2026 · Gravis Robotics Raises $200M as European Robotics Funding Accelerates · Japanese Rocket…"
 date: 2026-08-21 21:43:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Plus Brief — 2026-05-23"
 series: "AI Research & Open Source"
+description: "OpenAI Offers $445,000 Role to Prepare for AI That Trains Itself · Canada Pledges $24M for AI Research Expansion in Alberta · OpenAI Claims AI Solved Erdős…"
 date: 2026-05-23 20:00:00 +0800
 type: post
 published: true

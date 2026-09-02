@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Infrastructure Race Heats Up: OpenAI–Broadcom Chips, Salesforce–Anthropic Alliance, and NVIDIA DGX Spark Rollout"
+description: "OpenAI — OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators · Anthropic — Anthropic and…"
 date: 2025-10-14 22:56:00 +0800
 type: post
 published: true

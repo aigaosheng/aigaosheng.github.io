@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The state of Neuro‑Symbolic Artificial Intelligence (NSAI NeSy AI)"
+description: "Definitions & Conceptual Foundations · Key Drivers & Use‑Case Motivations · 1 Why the shift? · 2 Key use‑case domains"
 date: 2025-11-04 22:01:00 +0800
 type: post
 published: true

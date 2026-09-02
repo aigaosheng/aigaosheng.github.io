@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-11"
 series: "Investment & Startups"
+description: "Vecton AI Raises ₹6 Crore to Drive Enterprise AI Adoption in Financial Institutions · Investors Shift Consumer-Tech Bets Toward AI-Native Social…"
 date: 2026-08-11 20:46:00 +0800
 type: post
 published: true

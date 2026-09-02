@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Deep-Dive Brief 23 April 2026"
 series: "Singapore"
+description: "Finance & Economy — Inflation pressure meets controlled growth · Technology & AI — AI demand accelerates, but governance focus rising · Startups & Business…"
 date: 2026-04-23 21:23:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Google Weekly Tech & AI Update — Gemini 3 Flash Goes Global Jan 3 2026"
 series: "AI Company Watch"
+description: "The Latest Google AI News — December Recap · Gemini 3 Flash — Frontier AI Built for Speed"
 date: 2026-01-03 22:00:30 +0800
 type: post
 published: true

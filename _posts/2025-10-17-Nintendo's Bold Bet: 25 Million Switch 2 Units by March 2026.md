@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nintendo's Bold Bet: 25 Million Switch 2 Units by March 2026"
+description: "Nintendo is setting the stage for a record-breaking year in gaming. The company has instructed its suppliers to produce up to 25 million units of the…"
 date: 2025-10-17 21:35:00 +0800
 type: post
 published: true

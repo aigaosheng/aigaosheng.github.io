@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Technology Report — arXiv snapshot, 29 Sep 2025"
 series: "AI Industry News"
+description: "Top 5 arXiv picks (ranked by innovation & near-term applicability) · 1 LABELING COPILOT: A Deep Research Agent for Automated Data Curation · 2 RefAM…"
 date: 2025-09-29 22:35:00 +0800
 type: post
 published: true

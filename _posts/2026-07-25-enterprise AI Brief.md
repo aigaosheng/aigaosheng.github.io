@@ -3,6 +3,7 @@
 layout: post
 title: "enterprise AI Brief — 2026-07-25"
 series: "Enterprise AI"
+description: "Enterprise AI Market Shifts Toward Production-Ready Agent Systems and Proof Infrastructure · OpenAI Introduces Presence Platform for Enterprise AI Agents…"
 date: 2026-07-25 20:37:00 +0800
 type: post
 published: true

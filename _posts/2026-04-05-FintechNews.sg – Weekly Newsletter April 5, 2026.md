@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter April 5, 2026"
 series: "Singapore"
+description: "Digital Assets / Infrastructure · Digital Assets / Crypto · ℹ️ Sponsored / Industry Content · Sections with No Updates This Week"
 date: 2026-04-05 18:07:00 +0800
 type: post
 published: true

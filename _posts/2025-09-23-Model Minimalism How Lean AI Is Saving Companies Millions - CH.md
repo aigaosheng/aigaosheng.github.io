@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "模型极简主义：企业节省数百万的新AI策略"
+description: "SMART 框架：动态缩放 · JetMoE：一出生就高效 · AT\\&T：客服中心大升级"
 date: 2025-09-23 22:00:00 +0800
 type: post
 published: true

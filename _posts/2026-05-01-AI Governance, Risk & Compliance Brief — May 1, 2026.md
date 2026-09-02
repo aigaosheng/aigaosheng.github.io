@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — May 1, 2026"
 series: "AI Governance & Regulation"
+description: "Australia Regulator Warns Banks on AI Risk Controls · SAS Launches Governed AI Assistants for Enterprise Deployment · Continuous AI Labeling Rules Set to…"
 date: 2026-05-01 21:27:00 +0800
 type: post
 published: true

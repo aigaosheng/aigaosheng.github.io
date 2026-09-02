@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Banks Are Putting Tech Minds on the Boardroom Bench (and What That Means for Customers)"
+description: "Boards used to debate dividend policy. Now they’re arguing about zero-trust, AI governance and who owns the ransomware war plan."
 date: 2025-10-19 17:40:00 +0800
 type: post
 published: true

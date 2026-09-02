@@ -2,6 +2,7 @@
 layout: post
 title: "China AI update Brief — 2026-06-02"
 series: "US & China AI"
+description: "World does not want an “AI Iron Curtain,” People’s Daily commentary says · China’s new trade-secret rules tighten protection around AI and high-tech data…"
 date: 2026-06-02 20:27:52 +0800
 type: post
 published: true

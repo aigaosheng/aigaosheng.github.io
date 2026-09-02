@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-16"
 series: "AI & Fintech"
+description: "Longbridge launches AI-native investing platform · Europe advances digital euro pilot alongside tokenized finance initiatives · Stripe's reported PayPal…"
 date: 2026-07-16 21:30:00 +0800
 type: post
 published: true

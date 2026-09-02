@@ -2,6 +2,7 @@
 layout: post
 title: "Startup Daily — April 10, 2026"
 series: "Investment & Startups"
+description: "SiFive Raises $400M Series G at $3.65B Valuation Ahead of Potential IPO · AI Tax Startup Juno Raises $12M to Automate SMB Tax Preparation · Collide Capital…"
 date: 2026-04-10 22:48:00 +0800
 type: post
 published: true

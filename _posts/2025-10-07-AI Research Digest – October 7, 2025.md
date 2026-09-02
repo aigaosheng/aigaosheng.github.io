@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Digest – October 7, 2025"
 series: "AI Research & Open Source"
+description: "Paper2Video: Automatic Video Generation from Scientific Papers · Large Language Models Achieve Gold Medal Performance at International Astronomy &…"
 date: 2025-10-07 23:35:00 +0800
 type: post
 published: true

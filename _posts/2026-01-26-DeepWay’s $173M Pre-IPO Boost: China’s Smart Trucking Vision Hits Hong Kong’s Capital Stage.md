@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DeepWay’s $173M Pre-IPO Boost- China’s Smart Trucking Vision Hits Hong Kong’s Capital Stage"
+description: "Challenges and Opportunities Ahead · Glossary of Key Terms"
 date: 2026-01-26 19:56:00 +0800
 type: post
 published: true

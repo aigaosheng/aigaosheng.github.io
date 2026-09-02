@@ -2,6 +2,7 @@
 layout: post
 title: "MiniMax Weekly Insight Report (Jan 25 – Jan 31, 2026)"
 series: "AI Company Watch"
+description: "Open‑Source MiniMax‑01 Series — Foundation Models With Lightning Attention · Speech 2.5 — Next‑Gen Multilingual Voice Generation · Guangzhou AI & Robotics…"
 date: 2026-01-31 22:46:00 +0800
 type: post
 published: true

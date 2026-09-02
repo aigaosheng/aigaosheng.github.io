@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Trillion-Dollar Mirage: Is the AI Boom Headed for a Bust?"
+description: "The AI Spending Surge · Echoes of the Dot-Com Era"
 date: 2025-10-07 23:55:00 +0800
 type: post
 published: true

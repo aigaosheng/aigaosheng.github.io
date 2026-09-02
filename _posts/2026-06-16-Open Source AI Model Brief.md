@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source AI Model Brief — 2026-06-16"
 series: "AI Research & Open Source"
+description: "Cohere Launches 'North Mini Code' to Offer Developers Sovereignty and Control · AI Developer Releases Local-First Memory System 'Manas' · MiniMax M3 Tops…"
 date: 2026-06-16 20:39:00 +0800
 type: post
 published: true

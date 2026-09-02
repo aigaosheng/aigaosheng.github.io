@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How AI Boosted Naver to Dominate Korea’s Search Market with Over 62% Share"
+description: "AI Features Driving the Surge · Market Impact: Widening the Gap with Google · What This Means for Users and Businesses"
 date: 2026-01-05 20:13:00 +0800
 type: post
 published: true

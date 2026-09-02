@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly VC & Accelerator Intelligence Report - June 2026"
 series: "Investment & Startups"
+description: "Market Trends & Assessment · Actionable Insights for Investors"
 date: 2026-06-07 20:50:00 +0800
 type: post
 published: true

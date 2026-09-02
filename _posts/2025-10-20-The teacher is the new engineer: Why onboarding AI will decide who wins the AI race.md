@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The teacher is the new engineer: Why onboarding AI will decide who wins the AI race"
+description: "Why this matters now · What the article says · Glossary — quick definitions"
 date: 2025-10-20 22:43:00 +0800
 type: post
 published: true

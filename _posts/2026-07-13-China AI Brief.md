@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-13"
 series: "US & China AI"
+description: "Xi Jinping to Deliver Keynote at 2026 World AI Conference · China Positions WAIC 2026 as Global AI Governance Platform · Reuters: AI Demand Continues to…"
 date: 2026-07-13 21:33:00 +0800
 type: post
 published: true

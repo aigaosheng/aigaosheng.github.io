@@ -2,6 +2,7 @@
 layout: post
 title: "weekly AI tech intelligence brief on Qwen March 7, 2026"
 series: "AI Company Watch"
+description: "The past week has seen significant organizational turbulence and strategic recalibration around Alibaba’s flagship AI initiative, Qwen. Recent developments…"
 date: 2026-03-07 20:49:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-15"
 series: "AI Research & Open Source"
+description: "OpenAI Achieves Major Breakthrough: AI Solves 80-Year-Old Math Problem · U.S. Government Orders Anthropic to Restrict Access to Latest AI Models · China's…"
 date: 2026-06-15 20:13:00 +0800
 type: post
 published: true

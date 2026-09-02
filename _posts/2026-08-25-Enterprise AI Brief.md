@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-25"
 series: "Enterprise AI"
+description: "Enterprise AI Enters the Execution Phase, CompTIA Research Finds · Accenture Moves to Expand AI and SAP Capabilities for the Mid-Market · AI Model Routing…"
 date: 2026-08-25 20:28:00 +0800
 type: post
 published: true

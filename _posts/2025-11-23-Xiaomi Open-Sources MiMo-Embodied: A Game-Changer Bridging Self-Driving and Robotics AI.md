@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Xiaomi Open-Sources MiMo-Embodied - A Game-Changer Bridging Self-Driving and Robotics AI"
+description: "Breaking Down the Breakthrough · What Is MiMo-Embodied — And Why It’s Significant · Why This Matters — Bigger Picture"
 date: 2025-11-23 21:22:00 +0800
 type: post
 published: true

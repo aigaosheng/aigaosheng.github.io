@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-17"
 series: "AI & Fintech"
+description: "Fintech AI Infrastructure Is Becoming a Specialized Technology Stack · AI Economics Are Becoming a Core Question for Financial-Services Technology · The AI…"
 date: 2026-08-17 19:38 +0800
 type: post
 published: true

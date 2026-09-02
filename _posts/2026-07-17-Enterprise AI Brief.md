@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-17"
 series: "Enterprise AI"
+description: "Meta Expands AI Infrastructure Strategy as Demand for Enterprise Compute Accelerates · China Positions AI as Strategic Infrastructure for Global Enterprise…"
 date: 2026-07-17 21:12:14 +0800
 type: post
 published: true

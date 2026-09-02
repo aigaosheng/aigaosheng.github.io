@@ -2,6 +2,7 @@
 layout: post
 title: "AI Industry Daily Brief – October 1, 2025"
 series: "AI Industry News"
+description: "Sora 2 Released: Advancements in Reasoning and User Interaction · Claude Sonnet 4.5: Advancements in Coding and Agent Development · Introduction of…"
 date: 2025-10-01 22:23:00 +0800
 type: post
 published: true

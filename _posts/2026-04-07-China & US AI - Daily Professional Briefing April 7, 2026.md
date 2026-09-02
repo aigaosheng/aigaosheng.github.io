@@ -2,6 +2,7 @@
 layout: post
 title: "China & US AI - Daily Professional Briefing April 7, 2026"
 series: "US & China AI"
+description: "Chinese AI Models Dominate OpenRouter Global Usage Rankings · US AI Expansion Crippled by Power Shortages and Reliance on Chinese Components · China's…"
 date: 2026-04-07 22:14:00 +0800
 type: post
 published: true

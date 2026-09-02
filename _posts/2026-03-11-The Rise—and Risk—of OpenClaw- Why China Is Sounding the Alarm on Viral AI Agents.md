@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Rise—and Risk—of OpenClaw- Why China Is Sounding the Alarm on Viral AI Agents"
+description: "The Viral Rise of an AI “Super Agent” · Why China Is Concerned · Malware Distribution and Fake Installers · The Bigger Picture: AI Agents Are the Next…"
 date: 2026-03-11 20:10:00 +0800
 type: post
 published: true

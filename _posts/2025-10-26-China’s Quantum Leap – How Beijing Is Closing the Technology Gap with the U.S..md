@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China's Quantum Leap – How Beijing Is Closing the Technology Gap with the US"
+description: "The Race You’ve Not Heard Enough About · What China Is Doing—and How It’s Gaining Ground · Why This Matters — For Tech, Security and Global Power · But…"
 date: 2025-10-26 16:37:00 +0800
 type: post
 published: true

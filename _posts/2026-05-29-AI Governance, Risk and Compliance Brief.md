@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-05-29"
 series: "AI Governance & Regulation"
+description: "Willis Warns AI Adoption Outpacing Governance, Creating \"Dangerous Gap\" · EU Reaches Agreement on Digital Omnibus: AI Act Compliance Timelines Extended…"
 date: 2026-05-29 21:05:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-05"
 series: "Payments"
+description: "India Moves Closer to Reintroducing MDR for UPI Merchant Payments · MoonPay Launches Gasless Stablecoin Transactions on TRON · Dubai Duty Free Introduces…"
 date: 2026-08-05 19:45:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ethernet’s New Dawn: ESUN Aims to Reinvent Networking for Scale-Up AI"
+description: "Why ESUN Matters: Closing the Gap in AI Interconnects · Inside ESUN: What It Will (and Won’t) Tackle · What ESUN Focuses On · What ESUN Does Not Do"
 date: 2025-10-15 09:52:00 +0800
 type: post
 published: true

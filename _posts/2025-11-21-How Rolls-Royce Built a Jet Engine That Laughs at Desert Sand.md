@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Rolls-Royce Built a Jet Engine That Laughs at Desert Sand"
+description: "Operational resilience & cost savings · Environmental and regulatory factors · The deeper technical insight · Implications for airlines and the industry"
 date: 2025-11-21 21:33:00 +0800
 type: post
 published: true

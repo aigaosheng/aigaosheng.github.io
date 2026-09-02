@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Decoding Agentic AI - A Practical Framework to Navigate the Complexity"
+description: "A New Lens for Agentic AI Architecture · Four Strategic Approaches Explained · Tradeoffs: Cost, Flexibility, and Modularity · A Roadmap for Enterprise…"
 date: 2025-12-30 21:00:00 +0800
 type: post
 published: true

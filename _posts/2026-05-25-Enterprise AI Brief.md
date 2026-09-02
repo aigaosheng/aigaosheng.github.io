@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-25"
 series: "Enterprise AI"
+description: "Microsoft and Uber Face the Rising Costs of Enterprise AI Adoption · EY and Microsoft Form $1 Billion AI Scale-Up Alliance · Salesforce CEO Confirms Major…"
 date: 2026-05-25 19:45:00 +0800
 type: post
 published: true

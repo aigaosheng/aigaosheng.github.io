@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-21"
 series: "AI & Fintech"
+description: "Mercury Hits $5.2 Billion Valuation, Banks on AI-Native Startups · Deloitte Predicts Stablecoin Retail Payments to Exceed $200 Billion by 2030 · Klivvr…"
 date: 2026-05-21 20:27:00 +0800
 type: post
 published: true

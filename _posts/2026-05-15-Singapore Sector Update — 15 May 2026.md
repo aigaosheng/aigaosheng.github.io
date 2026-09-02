@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Sector Update — 15 May 2026"
+description: "Singapore Unveils Major Economic Strategy to Future-Proof Economy · Electronics Output Surges 30% as AI Drives Semiconductor Boom · Manufacturing PMI…"
 date: 2026-05-15 21:03:00 +0800
 type: post
 published: true

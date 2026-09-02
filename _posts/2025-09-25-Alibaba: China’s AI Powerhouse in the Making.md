@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alibaba: China’s AI Powerhouse in the Making"
+description: "In a remarkable surge, Alibaba's stock has soared nearly 50% in Hong Kong this month, outpacing every other company on the Hang Seng Tech Index. This…"
 date: 2025-09-25 23:23:00 +0800
 type: post
 published: true

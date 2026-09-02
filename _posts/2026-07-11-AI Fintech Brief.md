@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-11"
 series: "AI & Fintech"
+description: "Bank of England Highlights AI as an Emerging Financial Stability Risk · FinTech Magazine's Weekly Roundup Highlights AI, Payments and Banking Innovation…"
 date: 2026-07-11 23:31:00 +0800
 type: post
 published: true

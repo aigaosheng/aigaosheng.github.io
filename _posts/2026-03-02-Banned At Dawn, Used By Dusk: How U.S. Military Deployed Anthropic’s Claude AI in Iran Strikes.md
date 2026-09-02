@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Banned At Dawn, Used By Dusk- How U.S. Military Deployed Anthropic’s Claude AI in Iran Strikes"
+description: "A Strategic Coup Amid Controversy · Why Claude Was Still in the Cockpit · Political and Ethical Backdrop"
 date: 2026-03-02 19:32:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Golden Pipelines Might Be the Missing Link for Enterprise AI Success"
+description: "Why This Matters Now · What It Means for Enterprise AI"
 date: 2026-02-20 21:13:00 +0800
 type: post
 published: true

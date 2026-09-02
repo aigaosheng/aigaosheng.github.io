@@ -2,6 +2,7 @@
 layout: post
 title: "Google Weekly Update Report"
 series: "AI Company Watch"
+description: "Google Finance Adds AI‑Powered Deep Search & Live Earnings · November “Pixel Drop” Update — AI Features, Personalization, Security Enhancements · Gemini…"
 date: 2025-11-15 23:34:00 +0800
 type: post
 published: true

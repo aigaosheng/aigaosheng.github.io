@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-07-02"
 series: "Singapore"
+description: "Singapore growth outlook upgraded on AI investment and construction boom · Singapore office rents extend growth streak amid CBD supply constraints · Global…"
 date: 2026-07-02 19:48:00 +0800
 type: post
 published: true

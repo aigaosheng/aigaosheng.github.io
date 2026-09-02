@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Andreessen Horowitz Is Quietly Betting Against the AI Bubble (and Winning)"
+description: "Shifting Focus from Buzz to Building Blocks · A Strategic Bet on Reality, Not Hype · Why Infrastructure Matters More Than Ever · The Broader VC Context"
 date: 2026-01-19 20:36:00 +0800
 type: post
 published: true

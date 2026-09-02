@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore’s AI-RAN Disruptor - How SynaXG Raised Over US$20 Million to Power the Future of Wireless"
+description: "What SynaXG Is Building: AI-Native Wireless Infrastructure · What the Funding Means — and Who’s Backing It · Technical Ambitions & Why It Matters · Bigger…"
 date: 2025-12-03 21:33:00 +0800
 type: post
 published: true

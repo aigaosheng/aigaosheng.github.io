@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Daily Brief April 16, 2026"
 series: "AI Research & Open Source"
+description: "AI Expands Into Physical World: From Models to Machines · Accenture Backs “Physical AI” Robotics Research Platform · AI Nears “Research Intern” Capability…"
 date: 2026-04-16 20:58:00 +0800
 type: post
 published: true

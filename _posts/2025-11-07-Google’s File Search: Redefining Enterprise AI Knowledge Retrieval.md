@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google’s File Search - Redefining Enterprise AI Knowledge Retrieval"
+description: "A Paradigm Shift in Enterprise RAG · Implications for DIY RAG Builders"
 date: 2025-11-07 20:18:00 +0800
 type: post
 published: true

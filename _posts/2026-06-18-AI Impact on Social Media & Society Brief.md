@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-18"
 series: "AI & Society"
+description: "Big Tech Pre-Emptively Deploys Minor-Protection AI Amidst Global Regulatory Pressure · Meta Faces Internal Turmoil as Core AI Transformation Leader Departs"
 date: 2026-06-18 21:12:00 +0800
 type: post
 published: true

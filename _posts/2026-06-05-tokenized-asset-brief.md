@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized asset Brief — 2026-06-05"
 series: "Tokenized Assets"
+description: "Hong Kong forms expert group to scale tokenized bonds · Goldman Sachs teams with Apex and Archax on tokenized real estate fund · Major U.S. banks…"
 date: 2026-06-05 20:02:16 +0800
 type: post
 published: true

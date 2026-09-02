@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google's Gemini AI Now Integrates Live Google Maps Data — Here's What It Means for Developers"
+description: "Google has just given developers a powerful new tool: the ability to integrate live Google Maps data into Gemini-powered AI applications. This move not…"
 date: 2025-10-18 18:28:00 +0800
 type: post
 published: true

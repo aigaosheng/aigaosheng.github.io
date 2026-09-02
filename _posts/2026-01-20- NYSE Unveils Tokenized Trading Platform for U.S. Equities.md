@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wall Street Goes 24-7-NYSE Unveils Tokenized Trading Platform for U.S. Equities"
+description: "From T+1 to Near-Instant: What’s Changing · Why This Matters (and What It Means for Markets) · Faster Settlement = Lower Risk · A Shift Toward Digital…"
 date: 2026-01-20 20:43:00 +0800
 type: post
 published: true

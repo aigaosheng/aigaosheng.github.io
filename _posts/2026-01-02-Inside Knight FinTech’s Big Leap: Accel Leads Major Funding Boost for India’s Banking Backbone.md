@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside Knight FinTech’s Big Leap - Accel Leads Major Funding Boost for India’s Banking Backbone"
+description: "Funding That Turns Heads · What Knight FinTech Actually Builds · Growth Ambitions: From India to the World · What This Deal Means"
 date: 2026-01-02 20:30:00 +0800
 type: post
 published: true

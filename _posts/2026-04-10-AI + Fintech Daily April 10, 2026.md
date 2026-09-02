@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Daily April 10, 2026"
 series: "AI & Fintech"
+description: "Oracle Integrates AI Agents into Financial Crime Platform · Visa Launches Infrastructure for AI Agent Payments · Abound & NEAR AI Launch ‘Financial…"
 date: 2026-04-10 21:38:00 +0800
 type: post
 published: true

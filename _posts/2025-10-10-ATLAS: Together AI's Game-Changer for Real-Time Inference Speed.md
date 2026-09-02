@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ATLAS: Together AI's Game-Changer for Real-Time Inference Speed"
+description: "What Is ATLAS and Why It Matters · Think of It Like Intelligent Caching"
 date: 2025-10-10 23:31:00 +0800
 type: post
 published: true

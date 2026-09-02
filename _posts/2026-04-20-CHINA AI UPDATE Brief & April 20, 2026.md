@@ -2,6 +2,7 @@
 layout: post
 title: "CHINA AI UPDATE Brief & April 20, 2026"
 series: "US & China AI"
+description: "Humanoid Robot \"Lightning\" Wins Beijing Half Marathon, Sets New Benchmark · China Proposes First-Ever Regulations for AI \"Digital Humans\" · Beijing Robot…"
 date: 2026-04-20 20:51:00 +0800
 type: post
 published: true

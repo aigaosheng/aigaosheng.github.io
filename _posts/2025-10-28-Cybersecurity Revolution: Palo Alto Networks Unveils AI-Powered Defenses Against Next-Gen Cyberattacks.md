@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cybersecurity Revolution - Palo Alto Networks Unveils AI-Powered Defenses Against Next-Gen Cyberattacks"
+description: "In a move poised to shake up the cybersecurity landscape, Palo Alto Networks has announced a new suite of AI-driven security products designed to tackle…"
 date: 2025-10-28 22:22:00 +0800
 type: post
 published: true

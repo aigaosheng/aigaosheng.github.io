@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-12"
 series: "Tokenized Assets"
+description: "DBS to Offer Tokenized Physical Gold to Retail Customers in Singapore · DBS Tokenized Gold Launch Expands Retail Access to Precious Metals · Dinari Lists…"
 date: 2026-06-12 19:30:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI ML research preprints from Dec 28, 2025–Jan 3, 2026"
+description: "Top Papers (Ranked by Novelty & Impact) · Nested Learning: The Illusion of Deep Learning Architectures · Probabilistic Modelling is Sufficient for Causal…"
 date: 2026-01-03 21:59:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Singapore Market Report: September 27, 2025"
 series: "Market Reports"
+description: "Social Media Sentiment & Investor Discussions · Key Themes & Investor Sentiment"
 date: 2025-09-27 10:15:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Global VC Pulse (Last 7 Days) - AI Unicorns, Capital Resilience, and Regional Divergence"
 series: "Investment & Startups"
+description: "Key Funding & Ecosystem Updates (Last 7 Days) · United States: AI at Scale, Liquidity on the Horizon · Europe & UK: Specialization Over Scale · Asia…"
 date: 2025-12-13 21:18:00 +0800
 type: post
 published: true

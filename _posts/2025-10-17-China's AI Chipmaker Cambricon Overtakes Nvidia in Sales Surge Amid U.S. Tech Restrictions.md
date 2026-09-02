@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China's AI Chipmaker Cambricon Overtakes Nvidia in Sales Surge Amid U.S. Tech Restrictions"
+description: "The AI Chip Race Just Got a New Contender: Cambricon's Meteoric Rise"
 date: 2025-10-17 21:20:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI ML Research Report, March 7, 2026"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by Novelty & Industry Impact) · Sleeper Cell: Injecting Latent Malice via Temporal Backdoors into Tool-Using LLMs · Image-Based Prompt…"
 date: 2026-03-07 17:34:00 +0800
 type: post
 published: true

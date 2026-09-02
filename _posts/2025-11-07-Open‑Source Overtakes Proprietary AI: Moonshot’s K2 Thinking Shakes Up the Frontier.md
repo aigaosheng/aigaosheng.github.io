@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Open‑Source Overtakes Proprietary AI - Moonshot’s K2 Thinking Shakes Up the Frontier"
+description: "What’s the big deal? · Key features that set K2 Thinking apart"
 date: 2025-11-07 20:21:00 +0800
 type: post
 published: true

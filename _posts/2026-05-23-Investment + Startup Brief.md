@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — 2026-05-23"
 series: "Investment & Startups"
+description: "DeepSeek Seeks $10B at $45B Valuation, Prioritizing AGI Over Profit · Apple Acquires AR/AI Avatar Startup Animato in Asset & Talent Deal · MiRus ($1.5B)…"
 date: 2026-05-23 19:26:00 +0800
 type: post
 published: true

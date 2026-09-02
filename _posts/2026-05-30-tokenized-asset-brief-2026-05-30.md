@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized asset Brief — 2026-05-30"
 series: "Tokenized Assets"
+description: "Paxos secures SEC registration as a blockchain-native clearing agency · VanEck’s tokenized Treasury fund goes live on Euler as DeFi collateral · Orca…"
 date: 2026-05-30 21:00:26 +0800
 type: post
 published: true

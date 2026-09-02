@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-20"
 series: "Tokenized Assets"
+description: "US SEC Plans to Permit Stock Tokenization Trading, Signals Regulatory Shift · Solana Leads RWA Distribution with 285,971 Addresses Holding Tokenized SpaceX…"
 date: 2026-06-20 20:43:00 +0800
 type: post
 published: true

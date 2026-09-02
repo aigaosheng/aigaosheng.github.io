@@ -2,6 +2,7 @@
 layout: post
 title: "US AI plus Brief — 2026-06-22"
 series: "US & China AI"
+description: "Anthropic Caught in Crosshairs of U.S. National Security and AI Regulation · U.S. Regulators and Congress Grapple with a Fragmented AI Landscape · Wall…"
 date: 2026-06-22 20:26:14 +0800
 type: post
 published: true

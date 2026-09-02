@@ -2,6 +2,7 @@
 layout: post
 title: "AI & Tech Daily Brief: OpenAI GPU Expansion, Enterprise AI Adoption, and Emerging Innovation – October 7, 2025"
 series: "AI Industry News"
+description: "AMD Partnership: 6GW GPU Deployment · Deloitte Partnership: Claude Access Expansion · Comet Browser Now Free · CodeMender: AI Agent for Code Security"
 date: 2025-10-07 23:50:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Memory Wars, Real-Time Video, and Mutable Storage Hugging Face's Most Consequential Week of 2026 - March 14, 2026"
+description: "Hugging Face Launches Storage Buckets — A New Production Primitive · Helios — ByteDance's 14B Real-Time Video Generation Model · Microsoft…"
 date: 2026-03-14 16:41:00 +0800
 type: post
 published: true

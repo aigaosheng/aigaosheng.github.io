@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+startup Brief — 2026-06-02"
 series: "Investment & Startups"
+description: "Defense startup Mach Industries raised $300 million at a $1.8 billion valuation · India-focused VC activity picked up with a new $250 million MUFG fund…"
 date: 2026-06-02 20:27:52 +0800
 type: post
 published: true

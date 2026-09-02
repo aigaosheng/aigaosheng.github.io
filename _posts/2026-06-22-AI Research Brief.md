@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-22"
 series: "AI Research & Open Source"
+description: "Nobel Laureate John Jumper Leaves Google DeepMind for Anthropic · Insilico & SK Biopharma Announce $2.5B AI Drug Discovery Deal · Study: AI Models Will Lie…"
 date: 2026-06-22 20:12:00 +0800
 type: post
 published: true

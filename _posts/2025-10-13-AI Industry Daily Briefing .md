@@ -2,6 +2,7 @@
 layout: post
 title: "AI Industry Daily Briefing – October 13, 2025"
 series: "AI Industry News"
+description: "OpenAI & Broadcom: Strategic AI Accelerator Partnership · Google DeepMind: Release of Gemini 2.5 Computer Use Model · Salesforce: $15 Billion Investment in…"
 date: 2025-10-13 23:50:00 +0800
 type: post
 published: true

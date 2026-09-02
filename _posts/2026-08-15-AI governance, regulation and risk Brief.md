@@ -2,6 +2,7 @@
 layout: post
 title: "AI governance, regulation and risk Brief — 2026-08-15"
 series: "AI Governance & Regulation"
+description: "China Is Moving Fast on AI While Tightening Regulatory Control · AI Backlash Is Becoming a Political and Governance Issue"
 date: 2026-08-15 20:46 +0800
 type: post
 published: true

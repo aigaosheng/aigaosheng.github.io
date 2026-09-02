@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ByteDance’s Enterprise AI Goes Cinematic - Meet Seedance 1.5 Pro"
+description: "What Makes Seedance 1.5 Pro Stand Out"
 date: 2025-12-19 22:19:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Anthropic Weekly Insight Report — Feb 14–21, 2026"
 series: "AI Company Watch"
+description: "Claude Sonnet 4.6 — Tiered Model Innovation · Embedded Security – Claude Code Security · Geographic & Commercial Expansion — Bengaluru Office · Synthesis &…"
 date: 2026-02-21 19:47:00 +0800
 type: post
 published: true

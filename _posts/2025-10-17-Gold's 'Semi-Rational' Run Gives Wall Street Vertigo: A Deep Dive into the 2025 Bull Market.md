@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Gold's 'Semi-Rational' Run Gives Wall Street Vertigo: A Deep Dive into the 2025 Bull Market"
+description: "The Golden Paradox: Rationality in a Chaotic Market · Key Drivers Behind Gold's Resurgence · The Implications for Investors"
 date: 2025-10-17 21:52:00 +0800
 type: post
 published: true

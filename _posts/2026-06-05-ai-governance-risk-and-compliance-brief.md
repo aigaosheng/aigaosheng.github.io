@@ -2,6 +2,7 @@
 layout: post
 title: "AI governance, risk and compliance Brief — 2026-06-05"
 series: "AI Governance & Regulation"
+description: "Bipartisan U.S. House draft would create a national AI governance framework and pause most state rules for three years · Tanzania orders public servants to…"
 date: 2026-06-05 20:02:16 +0800
 type: post
 published: true

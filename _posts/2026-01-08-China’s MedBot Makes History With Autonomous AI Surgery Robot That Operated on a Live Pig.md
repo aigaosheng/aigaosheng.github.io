@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s MedBot Makes History With Autonomous AI Surgery Robot That Operated on a Live Pig"
+description: "A New Chapter in Surgical Robotics · How the AI “Brain” Works · What This Means for Healthcare"
 date: 2026-01-08 20:11:00 +0800
 type: post
 published: true

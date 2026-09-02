@@ -2,6 +2,7 @@
 layout: post
 title: "ByteDance Weekly Insight Report, February 28, 2026"
 series: "AI Company Watch"
+description: "Valuation Surge – Strategic Finance Context · AI Traction – Doubao’s Engagement Milestone · Dongchedi IPO Consideration – Ecosystem Extension"
 date: 2026-02-28 17:45:00 +0800
 type: post
 published: true

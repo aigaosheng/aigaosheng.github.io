@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — May 8, 2026"
 series: "AI Research & Open Source"
+description: "Headline: OpenAI Launches GPT-5.5-Cyber, a Specialized AI Model for Cybersecurity ** OpenAI introduced GPT-5.5‑Cyber, a specialized version of its latest…"
 date: 2026-05-08 21:29:00 +0800
 type: post
 published: true

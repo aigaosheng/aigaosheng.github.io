@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-05"
 series: "AI & Fintech"
+description: "Sumsub and Sumvin Partner to Enable KYC-Verified AI Agent Payments · Cloudflare Introduces Wallet Infrastructure for AI Agent Payments · Federal Reserve…"
 date: 2026-08-05 19:42:00 +0800
 type: post
 published: true

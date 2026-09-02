@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agentic AI report - McKinsey, Oct 2, 2025"
+description: "Seizing the Agentic AI Advantage · The Change Agent: Goals, Decisions, and Implications for CEOs in the Agentic Age · Reimagining Life Science Enterprises…"
 date: 2025-10-02 23:23:00 +0800
 type: post
 published: true

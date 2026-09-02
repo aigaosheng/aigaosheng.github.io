@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research+ Brief — 2026-05-25"
 series: "AI Research & Open Source"
+description: "Google Gemini Breaks Into Scientific Research with Two Nature Papers · First Fully Automated AI Scientist \"Robin\" Published in Nature · DeepMind's…"
 date: 2026-05-25 20:21:00 +0800
 type: post
 published: true

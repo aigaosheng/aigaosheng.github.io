@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Britain’s Spy Chief Warns: AI’s Real Peril Isn’t Apocalypse—It’s Power in the Wrong Hands"
+description: "The Real Threat: Concentration and Co-option · Global Reflection: Tech Giants, Responsibility, and Regulation · Why This Matters Now"
 date: 2025-10-20 23:39:00 +0800
 type: post
 published: true

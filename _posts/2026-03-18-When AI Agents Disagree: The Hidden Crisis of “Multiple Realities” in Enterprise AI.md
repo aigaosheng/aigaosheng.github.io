@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Agents Disagree- The Hidden Crisis of Multiple Realities in Enterprise AI"
+description: "The Problem: AI Agents Operating in “Different Realities” · Why This Matters: From Inconvenience to Enterprise Risk · Microsoft’s Answer: Fabric IQ as a…"
 date: 2026-03-18 21:30:00 +0800
 type: post
 published: true

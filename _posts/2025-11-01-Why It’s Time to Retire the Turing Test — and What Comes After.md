@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why It’s Time to Retire the Turing Test — and What Comes After"
+description: "The Case for “Sunsetting” the Turing Test · What Experts Suggest Instead · Implications for AI Research, Industry & Society · Glossary of Key Terms"
 date: 2025-11-01 22:50:00 +0800
 type: post
 published: true

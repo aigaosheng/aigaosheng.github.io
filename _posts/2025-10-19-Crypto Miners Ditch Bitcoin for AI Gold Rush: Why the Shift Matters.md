@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crypto Miners Ditch Bitcoin for AI Gold Rush: Why the Shift Matters"
+description: "The AI Pivot: Bitcoin Miners’ New Frontier"
 date: 2025-10-19 20:30:00 +0800
 type: post
 published: true

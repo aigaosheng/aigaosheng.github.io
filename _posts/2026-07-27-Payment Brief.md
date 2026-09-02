@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-27"
 series: "Payments"
+description: "Unlimit Expands Xiaomi GetApps Payments Partnership · Revolut Launches RevTag Payment Pass for Apple Wallet and Google Wallet · Lidl Selects Wero for…"
 date: 2026-07-27 19:27:00 +0800
 type: post
 published: true

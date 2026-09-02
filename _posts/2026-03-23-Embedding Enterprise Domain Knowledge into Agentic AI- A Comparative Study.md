@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Embedding Enterprise Domain Knowledge into Agentic AI- A Comparative Study"
+description: "The Core Problem: Context Loss at Scale · Tag / Linear RAG · Combining Approaches: Practical Enterprise Architecture · Domain-Specific Considerations…"
 date: 2026-03-23 20:24:00 +0800
 type: post
 published: true

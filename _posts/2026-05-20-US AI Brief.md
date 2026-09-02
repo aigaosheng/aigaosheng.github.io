@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-05-20"
 series: "US & China AI"
+description: "Trump Administration Plans Executive Order on AI Security and Cybersecurity · Public Backlash Forces Washington’s Major Pivot on AI Regulation…"
 date: 2026-05-20 20:59:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief by Sectors & Industries — 2026-06-29"
 series: "Singapore"
+description: "Singapore Manufacturing Growth Moderates in May, But AI-Driven Outlook Remains Robust · AirTrunk Nears Confidential Filing for Blockbuster S$1.9 Billion…"
 date: 2026-06-29 19:52:00 +0800
 type: post
 published: true

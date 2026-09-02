@@ -2,6 +2,7 @@
 layout: post
 title: "AI fintech Brief — 2026-07-08"
 series: "AI & Fintech"
+description: "Bank of England Warns AI Is Becoming a Financial Stability Risk · ECB Orders Banks to Prepare AI Cyber Defense Plans · FCA Mills Review Signals Major…"
 date: 2026-07-08 20:20:00 +0800
 type: post
 published: true

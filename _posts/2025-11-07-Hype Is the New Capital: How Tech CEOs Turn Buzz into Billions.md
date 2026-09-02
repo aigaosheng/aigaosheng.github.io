@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hype Is the New Capital - How Tech CEOs Turn Buzz into Billions"
+description: "The Power of Narrative · Why Hype Moves Markets · Implications: Opportunity or Risk? · Lessons for Investors, Founders, and Analysts"
 date: 2025-11-07 21:48:00 +0800
 type: post
 published: true

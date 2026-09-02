@@ -2,6 +2,7 @@
 layout: post  
 title: "US AI Brief — 2026-07-13"  
 series: "US & China AI"
+description: "White House to Expand AI Power Cost Pledge to Utilities and Data Centers · Senator Markey Unveils Comprehensive \"AI Accountability Agenda\" · Anthropic…"
 date: 2026-07-13 21:30:00 +0800  
 type: post  
 published: true  

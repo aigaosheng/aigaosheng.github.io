@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-07-06"
 series: "Singapore"
+description: "Singapore and Indonesia deepen energy cooperation with cross-border electricity deal · Singapore and Indonesia reaffirm maritime security cooperation over…"
 date: 2026-07-06 20:20:00 +0800
 type: post
 published: true

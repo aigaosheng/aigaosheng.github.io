@@ -2,6 +2,7 @@
 layout: post
 title: "China AI update Brief — 2026-05-31"
 series: "US & China AI"
+description: "China launches a national AI evaluation framework aimed at transparency and standards · China showcases large-scale AI and robotics deployment at World…"
 date: 2026-05-31 20:13:28 +0800
 type: post
 published: true

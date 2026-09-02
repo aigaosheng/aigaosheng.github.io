@@ -2,6 +2,7 @@
 layout: post 
 title: "Singapore News Brief — 2026-07-10" 
 series: "Singapore"
+description: "Singapore Tops Global Maritime Center Rankings for 13th Year · HDB Unveils Plans for Nature-Centric Housing at Gillman Barracks & Sunset Way · Tencent in…"
 date: 2026-07-10 20:12:14 +0800 
 type: post 
 published: true 

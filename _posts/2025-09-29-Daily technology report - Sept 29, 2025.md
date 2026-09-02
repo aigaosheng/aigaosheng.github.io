@@ -2,6 +2,7 @@
 layout: post
 title: "Daily technology report - Sept 29, 2025"
 series: "AI Industry News"
+description: "In-Depth Analysis (selected stories) · RL for LM Planning — Theory paper · Emerging Trends & Opportunities · Sentiment Insights (methodology + patterns)"
 date: 2025-09-29 21:30:00 +0800
 type: post
 published: true

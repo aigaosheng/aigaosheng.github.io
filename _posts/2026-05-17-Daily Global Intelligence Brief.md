@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Daily Global Intelligence Brief — 2026-05-17"
+description: "US Debt Ceiling Negotiations Enter Final Window · China Retaliates With Rare Earth Export Controls on US Defense Contractors · Fed Minutes Signal…"
 date: 2026-05-17 21:32:00 +0800
 type: post
 published: true

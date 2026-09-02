@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Gong’s Mission Andromeda - Redefining AI for Sales Teams"
+description: "From Insights to Real Impact · Open Standards and Strategic Choices · Early Signals and Market Position · What It Means for Sales Teams"
 date: 2026-02-27 20:20:00 +0800
 type: post
 published: true

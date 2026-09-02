@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter, February 13, 2026"
 series: "Singapore"
+description: "Key Trends / Insights · Regulation & Market Development · Crypto / Digital Assets"
 date: 2026-02-13 20:23:00 +0800
 type: post
 published: true

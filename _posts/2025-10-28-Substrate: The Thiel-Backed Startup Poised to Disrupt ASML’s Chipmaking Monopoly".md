@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Substrate - The Thiel-Backed Startup Poised to Disrupt ASML’s Chipmaking Monopoly"
+description: "The Breakthrough to Watch: Substrate’s Particle Acceleration · Why Now? Funding, Geopolitics, and the Tech Stakes · Can Substrate Pull It Off?"
 date: 2025-10-28 22:16:00 +0800
 type: post
 published: true

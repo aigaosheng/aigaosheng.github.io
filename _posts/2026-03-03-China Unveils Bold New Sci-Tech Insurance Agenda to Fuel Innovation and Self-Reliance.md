@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China Unveils Bold New Sci-Tech Insurance Agenda to Fuel Innovation and Self-Reliance"
+description: "What’s Driving the New Sci-Tech Insurance Push? · Key Policy Moves: What’s in the Guidelines? · Glossary: Key Terms Explained"
 date: 2026-03-03 19:50:00 +0800
 type: post
 published: true

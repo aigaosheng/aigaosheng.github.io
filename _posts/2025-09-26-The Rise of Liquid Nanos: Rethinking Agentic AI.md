@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Rise of Liquid Nanos: Rethinking Agentic AI"
+description: "What if less is the future of powerful AI? · From “one model to rule them all” → “many tiny agents” · What kinds of Nanos are already available? · The…"
 date: 2025-09-26 23:25:00 +0800
 type: post
 published: true

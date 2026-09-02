@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bell Labs - The Rise and Fall of the "Idea Factory"
+description: "Origins: Building the Future of Telephony · The Golden Age (1930s–1970s) · Bell Labs’ Nobel Prizes · Timeline of Key Milestones"
 date: 2025-09-16 09:38:00 +0800
 type: post
 published: true

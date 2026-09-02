@@ -2,6 +2,7 @@
 layout: post
 title: "Tech news Brief — 2026-05-27"
 series: "AI Industry News"
+description: "Micron Joins $1 Trillion Club as AI Memory Rally Intensifies · SpaceX Prepares for IPO Amid Pentagon Pricing Dispute · SoftBank Prepares Dual IPOs for SB…"
 date: 2026-05-27 21:39:00 +0800
 type: post
 published: true

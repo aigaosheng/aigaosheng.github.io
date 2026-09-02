@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-03"
 series: "Payments"
+description: "Mastercard rolls out support for stablecoin settlement · Thunes expands its global network with U.S. real-time payments · DBS launches tap-to-phone card…"
 date: 2026-06-03 19:41:11 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly Brief - AI Agents, Stablecoins & the New Digital Finance Infrastructure — 2026-07-19"
 series: "AI & Fintech"
+description: "Week Ending: 19 July 2026 · Airwallex targets agentic commerce after reaching $11B valuation · Stripe and Advent reportedly make $53B bid for PayPal…"
 date: 2026-07-19 20:35:00 +0800
 type: post
 published: true

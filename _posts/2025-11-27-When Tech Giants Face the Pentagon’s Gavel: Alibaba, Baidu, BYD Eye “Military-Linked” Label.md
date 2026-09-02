@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Tech Giants Face the Pentagon’s Gavel - Alibaba, Baidu, BYD Eye “Military-Linked” Label"
+description: "What’s at Stake — And Why It Matters · Reactions — and What’s at Stake for the Firms · Wider Implications for Global Tech, Trade & Decoupling"
 date: 2025-11-27 19:46:00 +0800
 type: post
 published: true

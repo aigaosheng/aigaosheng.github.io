@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Observational Memory- The AI Breakthrough Slashing Agent Costs and Outperforming RAG"
+description: "Why Observational Memory Matters · How It Works: Observer + Reflector · Performance and Real-World Use Cases · RAG vs Observational Memory: Not Always…"
 date: 2026-02-11 20:34:00 +0800
 type: post
 published: true

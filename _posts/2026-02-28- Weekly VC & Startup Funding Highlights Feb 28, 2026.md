@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly VC & Startup Funding Highlights Feb 28, 2026"
 series: "Investment & Startups"
+description: "Trends & Insights (Last 7 Days)"
 date: 2026-02-28 16:49:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-06-14"
 series: "AI Governance & Regulation"
+description: "U.S. State Attorneys General Launch Wide-Ranging Investigation into OpenAI · Drata Expands Platform to Govern Enterprise AI Agents · U.S. Banking…"
 date: 2026-06-14 17:11:00 +0800
 type: post
 published: true

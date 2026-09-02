@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Smart Taxi Reimbursement Assistant
+description: "🚖 TaxiClaim – 智能打车报销助手"
 date: 2025-10-17 22:20:00 +0800
 type: post
 published: true

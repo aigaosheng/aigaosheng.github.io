@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-12"
 series: "Enterprise AI"
+description: "TCS and Anthropic Announce Strategic Global Partnership to Scale Enterprise AI · DXC Technology and Anthropic Forge Multi-Year Mission-Critical AI Alliance"
 date: 2026-06-12 19:50:00 +0800
 type: post
 published: true

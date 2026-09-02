@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Revolutionizing Clinical Research: MIT's AI-Powered Imaging Tool"
+description: "What Is This New AI System? · How Does It Work?"
 date: 2025-09-25 23:14:00 +0800
 type: post
 published: true

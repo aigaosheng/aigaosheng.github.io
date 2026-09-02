@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Asia’s AI Boom Meets a Harsh Reality as Foreign Investors Retreat"
+description: "A Sudden Reversal in Foreign Flows · Why Investors Are Hitting the Brakes · Short-Term Pressure, Long-Term Potential · Implications for Analysts and…"
 date: 2025-11-14 22:44:00 +0800
 type: post
 published: true

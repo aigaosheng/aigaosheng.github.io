@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China Wants to Regulate Human-Like AI — And It's a Sign of What's Coming Next"
+description: "What Counts as “Human-Like” AI? · Timeline: How China’s AI Regulation Reached This Point · Mandatory Disclosure: “This Is an AI” · Content and Ideological…"
 date: 2025-12-28 17:23:00 +0800
 type: post
 published: true

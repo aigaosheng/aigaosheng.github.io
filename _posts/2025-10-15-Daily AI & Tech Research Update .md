@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI & Tech Research Update — Oct 15, 2025"
 series: "AI Research & Open Source"
+description: "Top papers (selected 8) · Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics · CARVQ: Corrective Adaptor…"
 date: 2025-10-15 21:56:00 +0800
 type: post
 published: true

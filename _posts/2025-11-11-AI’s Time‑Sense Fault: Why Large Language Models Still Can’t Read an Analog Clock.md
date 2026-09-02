@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI’s Time‑Sense Fault - Why Large Language Models Still Can’t Read an Analog Clock"
+description: "A surprising failure in full view · What’s really going wrong? · Why this matters beyond clocks"
 date: 2025-11-11 22:14:00 +0800
 type: post
 published: true

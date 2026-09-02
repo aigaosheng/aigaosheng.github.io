@@ -2,6 +2,7 @@
 layout: post
 title: "Microsoft Weekly Report (Nov 8–14, 2025)"
 series: "AI Company Watch"
+description: "Progress Report: Secure Future Initiative (SFI) · What’s New in Microsoft Sentinel – Nov 2025 · Copilot Studio: October 2025 Feature Update · Partner…"
 date: 2025-11-15 23:38:00 +0800
 type: post
 published: true

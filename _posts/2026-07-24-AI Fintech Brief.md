@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-24"
 series: "AI & Fintech"
+description: "IIRIS Consulting completes acquisition of listed fintech firm Dion Global Solutions · Citigroup expands AI and fintech investment banking leadership…"
 date: 2026-07-24 19:23:00 +0800
 type: post
 published: true

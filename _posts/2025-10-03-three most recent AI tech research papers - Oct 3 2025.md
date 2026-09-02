@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Three most recent AI research papers - Oct 3 2025"
+description: "NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality Estimation · Blueprint-Bench: Comparing Spatial Intelligence of LLMs, Agents, and Image…"
 date: 2025-10-03 10:01:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-24"
 series: "Tokenized Assets"
+description: "Crypto Critic Nouriel Roubini Launches Tokenized ETF · Uniswap Hits $9.1 Billion in RWA Swaps · Tokenized Assets Market Cap Surpasses $51 Billion · Kayan…"
 date: 2026-06-24 19:46:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-06-22"
 series: "Singapore"
+description: "Sea Ltd Expands AI Partnership with OpenAI · Pony.ai Launches Public Autonomous Ride-Hailing Service in Punggol · AI Inspection Startup H3 Zoom Secures…"
 date: 2026-06-22 20:10:00 +0800
 type: post
 published: true

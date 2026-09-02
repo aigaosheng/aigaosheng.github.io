@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore local update Brief — 2026-05-30"
 series: "Singapore"
+description: "17 countries launch Singapore-backed framework to protect critical underwater infrastructure · El Niño likely to bring hotter, drier weather and higher…"
 date: 2026-05-30 21:00:26 +0800
 type: post
 published: true

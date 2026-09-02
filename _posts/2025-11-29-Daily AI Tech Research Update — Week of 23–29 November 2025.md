@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI Tech Research Update — Week of 23–29 November 2025"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by novelty & impact) · 1 LoRaDA: Low‑Rank Direct Attention Adaptation for Efficient LLM Fine‑tuning · 2 Q‑MLLM: Vector Quantization for…"
 date: 2025-11-29 20:54:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Chinese AI Leaders Now Warn the U.S. Is Pulling Ahead — Even After a $1B IPO Week"
+description: "From IPO Excitement to Strategic Reality · Root Causes of the Competitive Gap · What This Means for the AI Race"
 date: 2026-01-11 18:20:00 +0800
 type: post
 published: true

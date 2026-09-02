@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Tokenisation Tipping Point & AI Regulated Reality"
+description: "The Tokenisation Tipping Point & AI's Regulated Reality · In-Depth Highlight: Spain's Big Three Banks Unite to Launch Industry-Wide Anti-Fraud Platform…"
 date: 2026-06-21 17:25:00 +0800
 type: post
 published: true

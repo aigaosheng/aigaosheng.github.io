@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s Open-Source AI Surge - A New Frontier in the Global AI Race"
+description: "From “Good Enough” to “World-Class” · Why This Matters Globally · Glossary: Key Terms Simplified"
 date: 2025-12-18 21:08:00 +0800
 type: post
 published: true

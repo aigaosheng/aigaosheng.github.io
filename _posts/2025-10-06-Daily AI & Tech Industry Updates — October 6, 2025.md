@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI & Tech Industry Updates — October 6, 2025"
 series: "AI Industry News"
+description: "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs · OpenAI — “Accelerating AI adoption in Europe” (Hacktivate AI report…"
 date: 2025-10-06 20:30:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nobel Chemistry 2025: The “Invisible Sponges” That Could Change Our Future"
+description: "The Scientists Behind the Breakthrough · Proven Capabilities (documented by Nobel & labs) · Promising Potentials (research stage, not yet widespread)"
 date: 2025-10-08 22:22:00 +0800
 type: post
 published: true

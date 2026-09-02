@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-11"
 series: "US & China AI"
+description: "China's AI Champions Race to Public Markets as IPO Window Opens · Ministry of Industry and Information Technology Mandates AI+ Communications Roadmap…"
 date: 2026-06-11 20:31:00 +0800
 type: post
 published: true

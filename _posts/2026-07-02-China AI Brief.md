@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-02"
 series: "US & China AI"
+description: "Zhipu AI’s GLM-5.2 emerges as global low-cost frontier contender · China tightens control over foreign AI-related investments amid tech rivalry · China…"
 date: 2026-07-02 20:02:00 +0800
 type: post
 published: true

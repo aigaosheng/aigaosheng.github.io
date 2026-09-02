@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter February 28, 2026"
 series: "Singapore"
+description: "Digital Banking & Security · Global & Regional Trends · WealthTech / Investment Products · Consumer & AI Insights"
 date: 2026-02-28 16:35:00 +0800
 type: post
 published: true

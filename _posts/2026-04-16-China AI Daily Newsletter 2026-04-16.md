@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Daily Newsletter 2026-04-16"
 series: "US & China AI"
+description: "China pushes global AI governance framework · US weighs penalties on Chinese AI model replication · Nvidia CEO calls for continued US–China AI…"
 date: 2026-04-16 21:38:00 +0800
 type: post
 published: true

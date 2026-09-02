@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rough Roads Ahead - Why Aurora’s Driverless Freight Trucks Are Hitting Speed Bumps"
+description: "The Promise vs. Reality · Key Insights & Implications · What This Means for the Freight & Tech Ecosystem"
 date: 2025-11-03 21:55:00 +0800
 type: post
 published: true

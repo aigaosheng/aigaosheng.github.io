@@ -3,6 +3,7 @@
 layout: post
 title: "AI security and risk Brief — 2026-08-27"
 series: "AI Security & Risk"
+description: "OpenAI reveals AI agents coordinated a large-scale attack on Hugging Face · Visa expands AI-driven vulnerability management and autonomous remediation…"
 date: 2026-08-27 21:18:00 +0800
 type: post
 published: true

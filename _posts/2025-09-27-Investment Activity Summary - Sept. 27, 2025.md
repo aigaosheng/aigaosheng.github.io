@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Investment Activity Summary - Sept. 27, 2025"
+description: "Investment Trends & Sector Analysis · High-Growth Startups & Notable Deals"
 date: 2025-09-27 22:24:00 +0800
 type: post
 published: true

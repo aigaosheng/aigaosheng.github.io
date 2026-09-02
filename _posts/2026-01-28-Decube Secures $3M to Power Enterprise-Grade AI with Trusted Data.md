@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Decube Secures $3M to Power Enterprise-Grade AI with Trusted Data"
+description: "Why Data Trust Matters for AI Adoption · Where the Funding Will Be Deployed · Glossary: Key Terms Explained"
 date: 2026-01-28 20:16:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — May 12, 2026"
 series: "AI Governance & Regulation"
+description: "Alation Launches AI Governance Platform to Address Enterprise Compliance Gap Source · GlobeNewswire via BNN Bloomberg · May 11, 2026 Summary — Alation…"
 date: 2026-05-12 20:39:00 +0800
 type: post
 published: true

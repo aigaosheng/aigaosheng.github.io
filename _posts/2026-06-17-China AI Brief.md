@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-17"
 series: "US & China AI"
+description: "China Accelerates Global AI Governance Push with New International Organization · U.S. Media Highlights China's Efficient, Open-Source AI Development Path…"
 date: 2026-06-17 20:16:00 +0800
 type: post
 published: true

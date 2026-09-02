@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Your Therapist Uses ChatGPT - AI Steps Into Mental Health"
+description: "Why AI Is Gaining Ground · The Emerging Hybrid Model"
 date: 2025-11-07 21:56:00 +0800
 type: post
 published: true

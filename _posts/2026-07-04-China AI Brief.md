@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-04"
 series: "US & China AI"
+description: "China expands maritime enforcement with AI-enabled coast guard operations near Taiwan · China tightens AI control across global maritime logistics…"
 date: 2026-07-04 21:12:14 +0800
 type: post
 published: true

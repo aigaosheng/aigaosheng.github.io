@@ -2,6 +2,7 @@
 layout: post
 title: "AI fintech Brief — 2026-07-29"
 series: "AI & Fintech"
+description: "Germany's Financial Regulator to Supervise AI Usage Across Banks and Insurers · HSBC Launches Global AI Centre of Excellence in Singapore · Fenergo…"
 date: 2026-07-29 21:31:00 +0800
 type: post
 published: true

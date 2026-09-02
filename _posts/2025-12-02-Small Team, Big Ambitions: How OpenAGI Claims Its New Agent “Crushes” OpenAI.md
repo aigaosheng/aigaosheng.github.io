@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Small Team, Big Ambitions - How OpenAGI Claims Its New Agent Crushes OpenAI"
+description: "What Is Lux — And What Makes It Stand Out · Why This Might Matter · Caution & What’s Still Unknown"
 date: 2025-12-02 20:36:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI paper Brief — 2026-07-15"
 series: "AI Research & Open Source"
+description: "Agent-Safety Evaluations as Load-Bearing Evidence: A Vendor-Neutral, Cross-Harness Reconstructability Metric · Vertical Standardisation for High-Risk AI…"
 date: 2026-07-15 20:00:00 +0800
 type: post
 published: true

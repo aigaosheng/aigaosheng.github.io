@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-02"
 series: "US & China AI"
+description: "US moves toward voluntary AI model standards with major labs · OpenAI in talks to give U.S. government equity stake · Trump administration redefines…"
 date: 2026-07-02 20:04:00 +0800
 type: post
 published: true

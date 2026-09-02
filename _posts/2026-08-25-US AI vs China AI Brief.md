@@ -3,6 +3,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-08-25"
 series: "US & China AI"
+description: "Nvidia Plans $6 Billion Push to Build a U.S. Alternative to Chinese Open AI · U.S. AI Boom Is Driving a Sharp Reversal in Gas-Power Construction Versus…"
 date: 2026-08-25 20:56:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "US Life & US Sports Brief — 2026-05-19"
+description: "Wembanyama’s Historic 41-24 Double-Double Lifts Spurs to 2OT Win in West Finals Opener · Three Killed in San Diego Mosque Shooting; Investigated as Hate…"
 date: 2026-05-19 20:37:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Robinhood’s Big Bet: How Gen Z 401(k)s and Trump’s America Are Changing the Future of Saving"
+description: "The New American Retirement Revolution: Why Robinhood Thinks Gen Z—and Trump—Will Rewrite the 401(k) Rulebook · Gen Z, Meet Your 401(k)—With a Twist…"
 date: 2025-10-19 20:43:00 +0800
 type: post
 published: true

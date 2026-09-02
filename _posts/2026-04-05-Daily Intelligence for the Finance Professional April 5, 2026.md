@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Intelligence for the Finance Professional April 5, 2026"
 series: "AI & Fintech"
+description: "The Fintech & Payments Pulse · Western Union Completes Acquisition of Singapore’s Dash · Klarna Commits to \\$1.7B Transaction to Scale US Lending · British…"
 date: 2026-04-05 18:00:00 +0800
 type: post
 published: true

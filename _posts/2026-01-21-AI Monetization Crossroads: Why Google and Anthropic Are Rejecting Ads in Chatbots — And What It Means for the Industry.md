@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Monetization Crossroads- Why Google and Anthropic Are Rejecting Ads in Chatbots — And What It Means for the Industry"
+description: "Trust Over Monetization: A Strategic Choice · Why the Divide Matters · User Trust and Experience · Financial Pressures and Competitive Dynamics"
 date: 2026-01-21 20:42:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Start‑Up CEO Pleads Guilty to Misleading Investors in Capital Raise Scheme"
+description: "In a stark reminder that hype does not substitute for honesty, the former head of AI marketing firm Metigy has admitted to deceiving investors…"
 date: 2025-11-04 22:51:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Hits the Newsroom - Europe’s Media Firms Face a Perfect Storm"
+description: "Ad Revenues Under AI Pressure · The Legal and Competitive Battleground"
 date: 2025-12-24 19:57:00 +0800
 type: post
 published: true

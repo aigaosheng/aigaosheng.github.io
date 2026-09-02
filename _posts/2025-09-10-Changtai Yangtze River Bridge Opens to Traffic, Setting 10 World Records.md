@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Changtai Yangtze River Bridge Opens to Traffic, Setting 10 World Records
+description: "The Changtai Yangtze River Bridge officially opened today after six years of construction, establishing itself as a new landmark in China’s transportation…"
 date: 2025-09-10 21:39:00 +0800
 type: post
 published: true

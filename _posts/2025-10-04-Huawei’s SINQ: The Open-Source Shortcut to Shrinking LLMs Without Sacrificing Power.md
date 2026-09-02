@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Huawei’s SINQ: The Open-Source Shortcut to Shrinking LLMs Without Sacrificing Power"
+description: "How Does It Work?"
 date: 2025-10-04 21:50:00 +0800
 type: post
 published: true

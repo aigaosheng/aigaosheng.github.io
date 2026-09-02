@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-18"
 series: "Tokenized Assets"
+description: "Tokenized Asset Market Surpasses $43 Billion, Signaling Institutional Maturation · Archax Launches $GOVY, the First 24/7 Perpetual Tokenized T-Bill…"
 date: 2026-06-18 21:11:00 +0800
 type: post
 published: true

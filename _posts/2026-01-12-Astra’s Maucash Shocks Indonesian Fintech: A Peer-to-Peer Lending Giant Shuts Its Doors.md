@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Astra's Maucash Shocks Indonesian Fintech - A Peer-to-Peer Lending Giant Shuts Its Doors"
+description: "From Growth Ambition to Strategic Exit · Broader Fintech Shakeup in Indonesia · What Happens Next for Customers and Lenders"
 date: 2026-01-12 20:07:00 +0800
 type: post
 published: true

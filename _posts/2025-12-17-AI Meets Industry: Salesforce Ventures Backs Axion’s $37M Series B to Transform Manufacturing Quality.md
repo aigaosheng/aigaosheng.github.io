@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Meets Industry - Salesforce Ventures Backs Axion’s $37M Series B to Transform Manufacturing Quality"
+description: "From Reactive Fixes to Proactive Intelligence"
 date: 2025-12-17 21:00:00 +0800
 type: post
 published: true

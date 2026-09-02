@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-04"
 series: "AI & Fintech"
+description: "Singapore tightens real-time safeguards for agentic AI in financial services · HDFC Bank builds proprietary AI fraud monitoring platform · Starling Bank…"
 date: 2026-07-04 21:38:00 +0800
 type: post
 published: true

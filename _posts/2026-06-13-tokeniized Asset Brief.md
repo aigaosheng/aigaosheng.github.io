@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-13"
 series: "Tokenized Assets"
+description: "SpaceX IPO Frenzy Exposes Critical Supply Gap for Tokenized Equities · Binance Offers $1M Compensation Following SpaceX Token Subscription Crash…"
 date: 2026-06-13 20:40:00 +0800
 type: post
 published: true

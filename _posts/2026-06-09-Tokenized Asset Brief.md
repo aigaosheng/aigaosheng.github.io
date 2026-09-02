@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-09"
 series: "Tokenized Assets"
+description: "Securitize Clears Key SEC Hurdle for NYSE Listing, Shareholder Vote Set for June 29 · SEC Outlines “Innovation Without Arbitrage” Framework for Tokenized…"
 date: 2026-06-09 20:40:00 +0800
 type: post
 published: true

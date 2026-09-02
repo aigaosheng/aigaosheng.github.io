@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Learning Models Go Dark - What the Gemma 3 Pull-Back by Google Means for Developers"
+description: "The implications for developers & enterprises · Model misuse & hallucinations · Lifecycle & access risk · Strategy for enterprise use"
 date: 2025-11-04 20:57:00 +0800
 type: post
 published: true

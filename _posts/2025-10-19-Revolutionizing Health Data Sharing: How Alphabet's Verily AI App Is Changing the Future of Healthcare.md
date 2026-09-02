@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Revolutionizing Health Data Sharing: How Alphabet's Verily AI App Is Changing the Future of Healthcare"
+description: "Imagine an app that not only consolidates all your scattered medical records but also empowers you with personalized health insights, AI companionship, and…"
 date: 2025-10-19 00:03:00 +0800
 type: post
 published: true

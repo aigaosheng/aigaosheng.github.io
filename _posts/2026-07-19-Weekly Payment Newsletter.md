@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Payment Newsletter - 2026-07-19"
 series: "Payments"
+description: "Fintech Weekly: AI Agents Move Money — The Rise of Intelligent Payments & Digital Wallets · Weekly Fintech Newsletter — 19 July 2026 · Mastercard rolls out…"
 date: 2026-07-19 20:45:00 +0800
 type: post
 published: true

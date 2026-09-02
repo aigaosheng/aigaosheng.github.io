@@ -2,6 +2,7 @@
 layout: post
 title: "MiniMax AI Weekly Update (Published Jan 19 – Jan 25 2026)"
 series: "AI Company Watch"
+description: "Agora and MiniMax Deepen Global Collaboration Following MiniMax IPO · Classover Announces Core Upgrade to Real‑Time AI Tutor with MiniMax Technology (Jan…"
 date: 2026-01-25 17:25:00 +0800
 type: post
 published: true

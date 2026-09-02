@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Real Secret to Cheap Flights - Data Beats the Old Myths"
+description: "Old Myths Versus Real Data · New Rules for Flight Deals · The Implication: Science, Not Superstition"
 date: 2025-10-25 22:30:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "OpenSource LLM Brief — 2026-06-26"
 series: "AI Research & Open Source"
+description: "No New Open-Source LLM Releases This Week · Hugging Face Introduces Service Accounts for Enterprise Organizations · Mistral OCR 4 Released for…"
 date: 2026-06-26 20:46:00 +0800
 type: post
 published: true

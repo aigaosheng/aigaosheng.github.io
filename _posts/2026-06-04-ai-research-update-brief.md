@@ -2,6 +2,7 @@
 layout: post
 title: "AI research update Brief — 2026-06-04"
 series: "AI Research & Open Source"
+description: "MIT unveils ChartNet, a large-scale dataset for teaching AI systems to read charts · New arXiv paper proposes pre-deployment certification for enterprise…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

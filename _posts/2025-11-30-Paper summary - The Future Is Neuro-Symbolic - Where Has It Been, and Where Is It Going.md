@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paper summary - The Future Is Neuro-Symbolic - Where Has It Been, and Where Is It Going"
+description: "Research topic and objective · Key findings and conclusions · Critical data, facts, and examples"
 date: 2025-11-30 22:49:00 +0800
 type: post
 published: true

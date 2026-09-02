@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Showdown - Google’s Deepest Research Agent Drops as OpenAI Unveils GPT-5.2"
+description: "The Race to Redefine AI Research and Productivity · GPT-5.2: A New Benchmark for AI Productivity"
 date: 2025-12-12 21:28:00 +0800
 type: post
 published: true

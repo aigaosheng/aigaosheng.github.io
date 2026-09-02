@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — May 5, 2026"
 series: "Investment & Startups"
+description: "AI startup Sierra raises $950M at $15B valuation · Cerebras targets up to $3.5B IPO amid AI chip demand · Autonomous vehicle funding concentrates among…"
 date: 2026-05-05 20:40:00 +0800
 type: post
 published: true

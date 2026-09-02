@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 7, 2026"
 series: "Enterprise AI"
+description: "Anthropic and OpenAI Move into Enterprise Services, Testing India’s IT Leaders ** Anthropic announced a $1.5 billion joint venture to embed engineers…"
 date: 2026-05-07 19:51:00 +0800
 type: post
 published: true

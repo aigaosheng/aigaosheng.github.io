@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Latest AI related papers update October 24, 2025"
+description: "ProCLIP: Progressive Vision–Language Alignment via LLM-based Embedder · The Formalism–Implementation Gap in Reinforcement Learning · Out-of-Distribution…"
 date: 2025-10-24 21:13:00 +0800
 type: post
 published: true

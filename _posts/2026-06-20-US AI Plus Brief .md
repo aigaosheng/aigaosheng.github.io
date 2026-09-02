@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Plus Brief — 2026-06-20"
 series: "US & China AI"
+description: "Trump Says Anthropic No Longer a National Security Threat After G7 Meeting · Anthropic Models Remained Disabled as Export Curbs Stay in Place · Trump…"
 date: 2026-06-20 17:02:00 +0800
 type: post
 published: true

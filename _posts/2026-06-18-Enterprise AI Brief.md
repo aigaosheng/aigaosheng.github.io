@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-18"
 series: "Enterprise AI"
+description: "Convey Raises $38M Series A Led by a16z to Automate Enterprise Operations with AI Teammates · Genspark Valued at $2.6B After $100M Extended Series B · AMD…"
 date: 2026-06-18 21:11:00 +0800
 type: post
 published: true

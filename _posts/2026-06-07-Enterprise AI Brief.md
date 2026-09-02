@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-07"
 series: "Enterprise AI"
+description: "IBM and Google Cloud Forge Strategic Partnership to Scale Enterprise AI Agents · Nvidia Acquires Predictive AI Startup Kumo AI for Over $400 Million…"
 date: 2026-06-07 21:30:00 +0800
 type: post
 published: true

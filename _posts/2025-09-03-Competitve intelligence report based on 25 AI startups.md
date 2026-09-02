@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Competitve intelligence report based on 25 AI startups
+description: "List of 25 AI startup companies: · A. Infrastructure & Developer Tools · B. Fintech & Enterprise Risk · C. Vertical AI Solutions"
 date: 2025-09-03 
 type: post
 published: true

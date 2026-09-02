@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-02"
 series: "Payments"
+description: "UK Payments Initiative launches to push account-to-account payments against card rails · REPAY completes KUBRA acquisition to expand consumer bill-payments…"
 date: 2026-06-02 20:27:52 +0800
 type: post
 published: true

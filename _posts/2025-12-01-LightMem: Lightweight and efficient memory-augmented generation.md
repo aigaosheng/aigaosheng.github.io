@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "LightMem - Lightweight and efficient memory-augmented generation"
+description: "Research topic and objective · Key findings and conclusions · Critical data and facts · Complexity and efficiency gains"
 date: 2025-12-01 18:00:00 +0800
 type: post
 published: true

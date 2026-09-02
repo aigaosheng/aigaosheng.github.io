@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-11"
 series: "US & China AI"
+description: "AI Infrastructure Boom Pushes US Toward Higher Energy and Cost Pressures · AWS and NVIDIA Expand Serverless AI Fine-Tuning Capabilities · US Export Policy…"
 date: 2026-07-11 23:12:00 +0800
 type: post
 published: true

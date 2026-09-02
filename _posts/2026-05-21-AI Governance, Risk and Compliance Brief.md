@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-05-21"
 series: "AI Governance & Regulation"
+description: "Trump to Sign Executive Order Introducing 90-Day Pre-Release AI Model Review · UK ICO Guidance Treats AI Security as an Existing Data Protection Duty, Not…"
 date: 2026-05-21 21:20:00 +0800
 type: post
 published: true

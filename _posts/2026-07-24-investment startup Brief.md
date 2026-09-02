@@ -2,6 +2,7 @@
 layout: post
 title: "investment startup Brief — 2026-07-24"
 series: "Investment & Startups"
+description: "AI-Native Social Startups Attract Renewed VC Interest as Investors Search for the Next Consumer Platforms · FreshTerra Launches Retail Venture With $9…"
 date: 2026-07-24 19:40:00 +0800
 type: post
 published: true

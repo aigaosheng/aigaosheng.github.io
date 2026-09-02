@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Daily Newsletter April 16, 2026"
 series: "AI & Fintech"
+description: "OpenAI Acquires AI Personal Finance Startup Hiro · Fintech Compliance Startup Spektr Raises $20M Series A · Agentic AI Reshapes Payments Strategy (Shopify…"
 date: 2026-04-16 20:28:00 +0800
 type: post
 published: true

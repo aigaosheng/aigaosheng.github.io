@@ -3,6 +3,7 @@
 layout: post
 title: "Open-source AI model Brief — 2026-06-27"
 series: "AI Research & Open Source"
+description: "U.S. Partially Lifts Restrictions on Anthropic's Frontier AI Model · OpenAI Delays GPT-5.6 Rollout Amid New U.S. AI Review Process · Financial Times…"
 date: 2026-06-27 20:20:00 +0800
 type: post
 published: true

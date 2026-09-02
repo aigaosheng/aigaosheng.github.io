@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-02"
 series: "AI & Fintech"
+description: "LinqAlpha Raises $22M to Build AI Layer for Institutional Investors · Global Central Bank Leaders Debate AI's Financial Stability Risks · Priority Acquires…"
 date: 2026-07-02 19:30:00 +0800
 type: post
 published: true

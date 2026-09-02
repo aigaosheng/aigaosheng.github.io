@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — May 8, 2026"
 series: "AI & Fintech"
+description: "Headline: Oobit Launches ‘Agent Cards,’ First Corporate Card Designed for AI Agents Oobit has introduced \"Agent Cards,\" a corporate card product built…"
 date: 2026-05-08 20:30:00 +0800
 type: post
 published: true

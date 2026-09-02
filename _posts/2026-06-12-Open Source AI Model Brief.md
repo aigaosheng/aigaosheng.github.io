@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source AI Model Brief — 2026-06-12"
 series: "AI Research & Open Source"
+description: "Google Unveils DiffusionGemma: A 26B MoE Open Model That Generates Text 4x Faster · Huawei Open-Sources Pangu 2.0: A 505B Model Built for Ascend Chips and…"
 date: 2026-06-12 19:40:00 +0800
 type: post
 published: true

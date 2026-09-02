@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugging Face This Week - hub v1.0, temporal multimodal editing, regional OSS momentum, and ethics-first tooling"
+description: "Hugging Face’s platform and community continue to shift from rapid iteration to production-grade infrastructure and modality-rich research — recent…"
 date: 2025-11-01 22:24:00 +0800
 type: post
 published: true

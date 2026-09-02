@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief – May 8, 2025"
 series: "Investment & Startups"
+description: "Welcome to our daily roundup of the most impactful moves in venture capital and startup ecosystems. Yesterday saw significant activity, from new European…"
 date: 2026-05-08 20:53:00 +0800
 type: post
 published: true

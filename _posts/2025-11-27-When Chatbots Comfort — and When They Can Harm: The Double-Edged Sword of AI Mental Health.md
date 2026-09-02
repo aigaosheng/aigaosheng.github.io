@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Chatbots Comfort and When They Can Harm The Double-Edged Sword of AI Mental Health"
+description: "The Promise: More Access, Less Stigma · The Risk: When AI Goes Beyond Its Lane · What Experts Recommend: Balance — Not Replacement"
 date: 2025-11-27 20:18:00 +0800
 type: post
 published: true

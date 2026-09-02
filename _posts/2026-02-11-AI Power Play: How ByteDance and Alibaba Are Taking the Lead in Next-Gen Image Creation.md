@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Power Play- How ByteDance and Alibaba Are Taking the Lead in Next-Gen Image Creation"
+description: "Two Titans, One Mission: Redefining AI-Driven Visual Creativity · Why This Matters: Competition, Creativity and China’s AI Strategy · Features in Focus…"
 date: 2026-02-11 20:47:00 +0800
 type: post
 published: true

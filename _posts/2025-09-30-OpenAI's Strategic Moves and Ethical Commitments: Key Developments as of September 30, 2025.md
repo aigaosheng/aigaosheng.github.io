@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI's Strategic Moves and Ethical Commitments: Key Developments as of September 30, 2025"
+description: "Parental Controls in Response to Tragic Incident · Launch of Sora 2: A Social App for AI-Generated Videos · Strategic Partnerships and Financial Growth…"
 date: 2025-09-30 18:10:00 +0800
 type: post
 published: true

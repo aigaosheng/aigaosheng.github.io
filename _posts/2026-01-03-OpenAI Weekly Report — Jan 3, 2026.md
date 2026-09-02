@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI Weekly Report — Jan 3, 2026"
 series: "AI Company Watch"
+description: "Apply to OpenAI Grove — AI Talent Program (Jan 2, 2026) · Updated OpenAI Terms of Use — Effective Jan 1, 2026"
 date: 2026-01-03 22:18:00 +0800
 type: post
 published: true

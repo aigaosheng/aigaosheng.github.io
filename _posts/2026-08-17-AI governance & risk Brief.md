@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance & risk Brief — 2026-08-17"
 series: "AI Governance & Regulation"
+description: "AI Governance Gaps Put Financial Firms at Examination Risk · SANS Survey Highlights Governance Lag Behind Cybersecurity AI Adoption · Financial Sector…"
 date: 2026-08-17 19:48:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s Public Shows Unprecedented Trust in AI — Far Surpassing Western Counterparts"
+description: "What's Driving This Trust Gap?"
 date: 2025-11-20 21:05:00 +0800
 type: post
 published: true

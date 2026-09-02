@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Frontier Weekly — Market Reset & Strategic Growth 28 February 2026"
 series: "AI & Fintech"
+description: "Market & Industry Insight · Company & Startup Spotlight · Regulatory & Policy Watch · Quote of the Week"
 date: 2026-02-28 16:29:00 +0800
 type: post
 published: true

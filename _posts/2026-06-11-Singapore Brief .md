@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-06-11"
 series: "Singapore"
+description: "Tech Stocks Poised to Overtake S-REITs on SGX Mid-Cap Index · Thailand's Minor Food Group Considers Singapore IPO Over Hong Kong · Office Landlord Battle…"
 date: 2026-06-11 20:26:00 +0800
 type: post
 published: true

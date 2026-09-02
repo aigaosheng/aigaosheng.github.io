@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance Brief — 2026-08-25"
 series: "AI Governance & Regulation"
+description: "Japan Urges AI Firms to Disclose Training Data and Methods · UN and Red Cross Call for Urgent Rules on Autonomous Weapons · Linux Foundation Puts Agentic…"
 date: 2026-08-25 20:40:00 +0800
 type: post
 published: true

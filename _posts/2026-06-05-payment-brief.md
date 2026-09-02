@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-05"
 series: "Payments"
+description: "Bank of America to launch cross-border real-time payments service · Cambodia becomes the ninth country where Indian travellers can use UPI · Klarna…"
 date: 2026-06-05 20:02:16 +0800
 type: post
 published: true

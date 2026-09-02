@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meta Draws the Line: WhatsApp Bans Third-Party Chatbots — Only Its Own Can Stay"
+description: "What Does This Mean? · Why Is Meta Making This Move? · What Does This Mean for Businesses and Developers?"
 date: 2025-10-20 23:50:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly OpenAI Insight Report Jan 4 – Jan 10, 2026"
 series: "AI Company Watch"
+description: "Introducing OpenAI for Healthcare · Strategic Partnership with SoftBank / SB Energy · Partnership: b.well as Health Data Connectivity Provider"
 date: 2026-01-10 19:10:00 +0800
 type: post
 published: true

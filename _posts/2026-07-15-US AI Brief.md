@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-15"
 series: "US & China AI"
+description: "US Creates AI–Cybersecurity Coordination Group to Defend Critical Infrastructure · OpenAI Faces Strategic Pressure as IPO Plans Meet Competitive and Legal…"
 date: 2026-07-15 21:12:14 +0800
 type: post
 published: true

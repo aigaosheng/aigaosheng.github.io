@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-17"
 series: "US & China AI"
+description: "US Military Confirms Elon Musk's Grok Used in Iran Strikes · US Holds Off Blacklisting DeepSeek and Over 100 Chinese Firms · G7 Summit Focuses on AI Future…"
 date: 2026-06-17 20:21:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Doctors Embrace AI — Just Not the Chatbot Doctor of the Future"
+description: "Doctors Appreciate AI — With Limits · The Right Role for AI in Medicine · Assisting Clinicians (Not Replacing Them) · Easing Patient Access Without Losing…"
 date: 2026-01-14 19:44:00 +0800
 type: post
 published: true

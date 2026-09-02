@@ -2,6 +2,7 @@
 layout: post
 title: "China & US AI – Daily Newsletter April 8, 2026"
 series: "US & China AI"
+description: "Chinese AI Models Dominate Global Usage Rankings · U.S. AI Firms Unite to Counter Chinese Model “Distillation” · Trump Administration Eyes Expanded Tech…"
 date: 2026-04-08 22:42:00 +0800
 type: post
 published: true

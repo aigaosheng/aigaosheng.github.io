@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Netflix Goes All-In on Generative AI - Efficiency for Creators — or a Trojan Horse for Hollywood Jobs?"
+description: "Why Netflix’s stance matters · Three likely near-term outcomes · Deeper reflection: creative augmentation vs creative substitution · What to watch next"
 date: 2025-10-22 21:36:00 +0800
 type: post
 published: true

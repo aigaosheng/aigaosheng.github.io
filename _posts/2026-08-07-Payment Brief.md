@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-07"
 series: "Payments"
+description: "Vietnam Expands Cross-Border QR Payments for International Tourists · Vietnam's NAPAS Connects VietQRGlobal with China's Weixin Pay · Nayax Files for U.S.…"
 date: 2026-08-07 19:43:00 +0800
 type: post
 published: true

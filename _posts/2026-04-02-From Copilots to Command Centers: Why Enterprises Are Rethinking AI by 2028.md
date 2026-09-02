@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Copilots to Command Centers: Why Enterprises Are Rethinking AI by 2028"
+description: "The Big Prediction: Assistive AI Will Fade Fast · From “Helping” to “Doing”: The Rise of Agentic AI · Why Assistive AI Falls Short · Weak Business Value…"
 date: 2026-04-02 20:31:00 +0800
 type: post
 published: true

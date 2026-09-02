@@ -2,6 +2,7 @@
 layout: post
 title: "Anthropic Weekly Insight Analysis - Feb 28, 2026"
 series: "AI Company Watch"
+description: "1️⃣ Strategic Context — National Security Clash with U.S. Government · 2️⃣ Market Impact — Turbulence in Tech Sentiment · 3️⃣ Technology & Product Updates…"
 date: 2026-02-28 17:23:00 +0800
 type: post
 published: true

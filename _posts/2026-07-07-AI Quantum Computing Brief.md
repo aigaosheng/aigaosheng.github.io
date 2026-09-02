@@ -2,6 +2,7 @@
 layout: post
 title: "AI Quantum Computing Brief — 2026-07-07"
 series: "Quantum Computing"
+description: "AI Discovers Two New Candidate Room-Temperature Superconductors · Pasqal and MegazoneCloud Partner to Expand Industrial Quantum Computing in South Korea…"
 date: 2026-07-07 20:00:00 +0800
 type: post
 published: true

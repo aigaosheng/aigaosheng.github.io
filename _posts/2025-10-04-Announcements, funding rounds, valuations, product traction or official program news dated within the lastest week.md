@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Announcements, funding rounds, valuations, product/traction or official program news dated within the lastest week (Sept 28 — Oct 4, 2025)"
+description: "Brief commentary — trends, assessment & actionable insights · Actionable items (investor playbook for next 7–30 days)"
 date: 2025-10-04 17:11:00 +0800
 type: post
 published: true

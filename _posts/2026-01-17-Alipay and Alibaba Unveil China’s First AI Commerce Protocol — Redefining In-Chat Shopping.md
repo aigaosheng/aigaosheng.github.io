@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alipay and Alibaba Unveil China’s First AI Commerce Protocol — Redefining In-Chat Shopping"
+description: "AI Moves From Chatting to Transacting · Qwen App: The AI That Gets Things Done · Why This Matters: A New Commerce Paradigm · Glossary: Key Terms Explained"
 date: 2026-01-17 20:28:00 +0800
 type: post
 published: true

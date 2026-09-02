@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "𝐓𝐡𝐞 𝐀𝐈 𝐑𝐞𝐩𝐨𝐫𝐭 𝐑𝐞𝐟𝐮𝐧𝐝 - 𝐃𝐞𝐥𝐨𝐢𝐭𝐭𝐞 has refunded part  of $440,000"
+description: "Deloitte's AI Gamble: Betting Big Despite a $10M Refund"
 date: 2025-10-11 22:40:00 +0800
 type: post
 published: true

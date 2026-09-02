@@ -2,6 +2,7 @@
 layout: post
 title: "PULSE Digest- FCA Probes Digital Wallets, AI Agents Get a Wallet, and Stablecoin Infrastructure Goes Mainstream"
 series: "Tokenized Assets"
+description: "Stablecoins Reach an Inflection Point — Three Deals in One Week Redraw the Infrastructure Map · Market & Industry Insight · AI Agents Get a Wallet — and a…"
 date: 2026-05-10 20:06:00 +0800
 type: post
 published: true

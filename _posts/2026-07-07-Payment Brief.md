@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-07"
 series: "Payments"
+description: "Major U.S. Banks Explore Acquisition of Fiserv's Debit Network · Fiserv Shares Surge Following Payment Network Sale Reports · Paysafe Expands Payment…"
 date: 2026-07-07 20:00:00 +0800
 type: post
 published: true

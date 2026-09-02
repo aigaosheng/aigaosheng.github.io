@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-16"
 series: "AI Research & Open Source"
+description: "Agentic AI’s Rapid Ascent: From Tools to Taskmasters · Game-Changing Chip Cooling Cuts AI Data Center Power Use by 90% · Google’s Manyika Calls for Reset…"
 date: 2026-06-16 20:30:00 +0800
 type: post
 published: true

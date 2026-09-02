@@ -2,6 +2,7 @@
 layout: post
 title: "Google AI Weekly Insights • Jan 19–25, 2026"
 series: "AI Company Watch"
+description: "Google Launches Personal Intelligence Across Gemini & AI Mode in Search · Answer Now Button Debuts for Faster Gemini Responses · Broader Coverage: Personal…"
 date: 2026-01-25 17:04:00 +0800
 type: post
 published: true

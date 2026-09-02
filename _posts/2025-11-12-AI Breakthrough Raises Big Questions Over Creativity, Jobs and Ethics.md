@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Breakthrough Raises Big Questions Over Creativity, Jobs and Ethics"
+description: "Key Insights & Implications"
 date: 2025-11-12 20:59:00 +0800
 type: post
 published: true

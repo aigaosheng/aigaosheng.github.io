@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Plus Brief — May 09, 2026"
 series: "Singapore"
+description: "Singapore reports record S$32.8 billion tourism revenue for 2025 Source · Hindustan Times · May 08, 2026 Summary · Singapore welcomed 16.9 million tourists…"
 date: 2026-05-09 20:42:00 +0800
 type: post
 published: true

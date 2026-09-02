@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-02"
 series: "AI & Fintech"
+description: "SBI partners with Anthropic on group-wide AI transformation · nCino warns banks face an AI execution gap · Emirates NBD tops regional banking AI maturity…"
 date: 2026-06-02 20:27:52 +0800
 type: post
 published: true

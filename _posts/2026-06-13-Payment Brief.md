@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-13"
 series: "Payments"
+description: "Visa embeds payment network into ChatGPT, enabling AI agents to shop independently · Mastercard launches Agent Pay for Machines with 30+ partners including…"
 date: 2026-06-13 20:30:00 +0800
 type: post
 published: true

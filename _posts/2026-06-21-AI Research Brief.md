@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-21"
 series: "AI Research & Open Source"
+description: "Sutton and Carmack Team Up to Let Robots Learn in the Real World · Kakao Launches AI Supercomputer Ranked Among World’s Top 30 · Anthropic Data Shows AI is…"
 date: 2026-06-21 17:15:14 +0800
 type: post
 published: true

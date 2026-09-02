@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-05-25"
 series: "Tokenized Assets"
+description: "a16z Report: Tokenized Asset Market Hits $34B, Yet Composability Remains Elusive · SEC Delays Tokenized Stock 'Innovation Exemption' Following Industry…"
 date: 2026-05-25 19:59:00 +0800
 type: post
 published: true

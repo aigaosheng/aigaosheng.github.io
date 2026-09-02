@@ -2,6 +2,7 @@
 layout: post
 title: "Venture Capital & Startup Intelligence Weekly Brief-2026-07-19"
 series: "Investment & Startups"
+description: "Venture Capital & Startup Intelligence Weekly Brief — AI Infrastructure Takes Center Stage (19 July 2026) · Investor Commentary: Key Trends · AI…"
 date: 2026-07-19 20:52:00 +0800
 type: post
 published: true

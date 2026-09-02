@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MIT Joins Forces to Build the Giant Magellan Telescope"
+description: "Why the GMT Matters · A Strategic Move for U.S. Leadership"
 date: 2025-09-30 22:35:00 +0800
 type: post
 published: true

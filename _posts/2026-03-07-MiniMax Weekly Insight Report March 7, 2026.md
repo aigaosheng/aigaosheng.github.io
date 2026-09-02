@@ -2,6 +2,7 @@
 layout: post
 title: "MiniMax Weekly Insight Report March 7, 2026"
 series: "AI Company Watch"
+description: "Key Official Developments (Last 7 Days) · FY2025 Financial Results — Strategic Leap Toward AI Platform · Launch of MaxClaw — Fully Managed AI Agent Service"
 date: 2026-03-07 20:57:00 +0800
 type: post
 published: true

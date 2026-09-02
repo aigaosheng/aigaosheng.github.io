@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-06-12"
 series: "AI Governance & Regulation"
+description: "M&A Due Diligence Shifts Following Trump’s AI Executive Order · US Bank Regulators Ramp Up Scrutiny of AI Governance and Kill Switches · HSCC Releases…"
 date: 2026-06-12 19:49:00 +0800
 type: post
 published: true

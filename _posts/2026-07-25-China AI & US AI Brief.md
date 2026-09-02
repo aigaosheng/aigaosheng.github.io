@@ -3,6 +3,7 @@
 layout: post
 title: "China AI & US AI Brief — 2026-07-25"
 series: "US & China AI"
+description: "US Tech Companies Urge Washington Not to Restrict Open-Weight AI Models · Trump Faces Pressure Following China's Rapid AI Progress · Jensen Huang Publicly…"
 date: 2026-07-25 20:00:00 +0800
 type: post
 published: true

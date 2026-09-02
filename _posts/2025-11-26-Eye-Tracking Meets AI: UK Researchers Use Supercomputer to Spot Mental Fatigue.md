@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Eye-Tracking Meets AI - UK Researchers Use Supercomputer to Spot Mental Fatigue"
+description: "What’s the study about · What’s Next & What to Watch"
 date: 2025-11-27 20:26:00 +0800
 type: post
 published: true

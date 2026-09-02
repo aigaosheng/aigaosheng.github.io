@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China AI Power Play - Zhipu AI & MiniMax Unveil Flagship Models Ahead of IPO Showdown"
+description: "China’s AI Power Play: Zhipu AI & MiniMax Unveil Flagship Models Ahead of IPO Showdown · New Tech on the Block: What’s Been Launched? · Why This Matters…"
 date: 2025-12-24 20:11:00 +0800
 type: post
 published: true

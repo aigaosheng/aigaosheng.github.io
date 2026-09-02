@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Newsletter April 14, 2026"
 series: "AI Governance & Regulation"
+description: "NIST Advances Sector-Specific Trustworthy AI Framework for Critical Infrastructure · Enterprise AI Governance Gap Widens as Adoption Outpaces Controls…"
 date: 2026-04-14 20:55:00 +0800
 type: post
 published: true

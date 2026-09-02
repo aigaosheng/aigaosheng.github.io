@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore plus by sectors and industries Brief — 2026-06-17"
 series: "Singapore"
+description: "Singapore's Non-Oil Exports Surge to 22-Year High on AI Demand · GIC Nears Deal to Offload US$2 Billion in Private Credit Stakes · Singapore Invests S$12…"
 date: 2026-06-17 20:30:00 +0800
 type: post
 published: true

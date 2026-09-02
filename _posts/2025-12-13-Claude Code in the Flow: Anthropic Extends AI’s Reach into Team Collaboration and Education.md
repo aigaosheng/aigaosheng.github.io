@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Claude Code in the Flow - Anthropic Extends AIs Reach into Team Collaboration and Education"
+description: "Headline: Claude Code Integrates Deeply with Slack — Beta Launch Unveiled · Headline: Anthropic and Iceland Launch One of the World’s First National AI…"
 date: 2025-12-13 21:49:00 +0800
 type: post
 published: true

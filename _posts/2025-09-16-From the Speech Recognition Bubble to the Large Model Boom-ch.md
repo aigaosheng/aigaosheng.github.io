@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 从语音识别泡沫到大模型热潮 - AI技术兴衰的二十年镜像
+description: "语音识别与NLP的黄金梦（1995–2005） · 2020年代：大模型热潮的当下 · 历史对比：2000年代 vs. 2020年代"
 date: 2025-09-16 22:39:00 +0800
 type: post
 published: true

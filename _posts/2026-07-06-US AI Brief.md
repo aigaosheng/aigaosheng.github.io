@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-06"
 series: "US & China AI"
+description: "UN pushes urgent global AI governance as risks accelerate · AI surveillance expansion sparks civil liberties concerns · AI becomes a geopolitical lever…"
 date: 2026-07-06 20:00:00 +0800
 type: post
 published: true

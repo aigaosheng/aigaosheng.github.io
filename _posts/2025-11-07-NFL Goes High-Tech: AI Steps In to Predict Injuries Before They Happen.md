@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NFL Goes High-Tech: AI Steps In to Predict Injuries Before They Happen"
+description: "Predicting Injuries Before They Happen · The Future of AI in Football"
 date: 2025-11-07 21:52:00 +0800
 type: post
 published: true

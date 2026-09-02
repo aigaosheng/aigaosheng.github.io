@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Too Burned Out to Travel? The New “Endless Summer” App Lets AI Create Your Vacation Photos — Here’s Why That Matters"
+description: "Why this is interesting (and slightly unnerving) · Business & UX signals to watch"
 date: 2025-10-19 17:51:00 +0800
 type: post
 published: true

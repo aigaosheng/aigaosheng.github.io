@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "India Wealthtech Scene Heats Up - PowerUp Money Raises $12M in Series A Led by Peak XV"
+description: "💰 India’s Wealthtech Scene Heats Up: PowerUp Money Raises $12M in Series A Led by Peak XV"
 date: 2025-12-22 20:20:00 +0800
 type: post
 published: true

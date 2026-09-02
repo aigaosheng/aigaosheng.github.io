@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Turning Chips on Their Side — U.S. Bets Big on 3D Heterogeneous Integration"
+description: "What’s the big idea? · Implications for you and the broader tech landscape"
 date: 2025-11-11 21:59:00 +0800
 type: post
 published: true

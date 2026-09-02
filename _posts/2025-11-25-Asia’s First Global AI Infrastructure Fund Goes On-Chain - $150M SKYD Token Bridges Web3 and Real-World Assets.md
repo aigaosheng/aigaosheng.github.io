@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Asia’s First Global AI Infrastructure Fund Goes On-Chain - $150M SKYD Token Bridges Web3 and Real-World Assets"
+description: "In a bold move that marries artificial intelligence with blockchain, Hong Kong’s Tykhe Capital and Malaysia’s Skyvast Digital have launched a US$150…"
 date: 2025-11-25 21:23:00 +0800
 type: post
 published: true

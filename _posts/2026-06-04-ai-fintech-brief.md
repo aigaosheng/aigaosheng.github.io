@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-04"
 series: "AI & Fintech"
+description: "Q2 launches Q2 Assistant to embed AI agents across banking operations · Aveni raises £12m to monitor AI-agent conduct risk in regulated financial services"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

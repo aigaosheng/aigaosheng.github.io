@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why 80% of AI Projects Fail — and How Salesforce Plans to Fix It"
+description: "Enter the Einstein GPT Trust Layer · Tools to Tackle Data Chaos"
 date: 2025-10-03 23:24:00 +0800
 type: post
 published: true

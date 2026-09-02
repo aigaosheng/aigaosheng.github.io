@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Breakthrough in Speech AI — Meta’s “Omnilingual ASR” Opens the World to 1,600 + Languages"
+description: "Under the hood: how it works · Implications for you (Sheng)"
 date: 2025-11-11 20:28:00 +0800
 type: post
 published: true

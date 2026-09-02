@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Baidu Unleashes Open-Source Multimodal AI That Claims to Beat GPT-5"
+description: "A Closer Look at ERNIE-4.5-VL-28B-A3B-Thinking · Why This Release Matters"
 date: 2025-11-12 20:32:00 +0800
 type: post
 published: true

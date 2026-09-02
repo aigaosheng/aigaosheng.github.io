@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-08-15"
 series: "AI & Society"
+description: "South Korea Proposes Making Employers Pay for AI-Driven Job Losses · India Plans to Train 10 Million Young People in AI Skills · AI Is Changing How College…"
 date: 2026-08-15 21:47 +0800
 type: post
 published: true

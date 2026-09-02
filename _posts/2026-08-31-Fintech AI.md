@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-31"
 series: "Fintech AI"
+description: "Singapore Commits S$220 Million to Accelerate Fintech and AI Adoption · Financial Stability Board Flags Frontier AI as Immediate Financial-System Cyber…"
 date: 2026-08-31 20:12:00 +0800
 type: post
 published: true

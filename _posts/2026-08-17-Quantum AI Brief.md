@@ -3,6 +3,7 @@
 layout: post
 title: "Quantum AI Brief — 2026-08-17"
 series: "Quantum Computing"
+description: "QpiAI Opens Quantum Chip Foundry in India, Targets 10,000-Qubit Processors · Researchers Push Quantum-Algorithm Benchmarks Toward Real-World Conditions"
 date: 2026-08-17T19:56:00 +0800
 type: post
 published: true

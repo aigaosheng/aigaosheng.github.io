@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Asia-Pacific Tech Deals Set to Roar into 2026 - UBS Predicts a Sustained Boom"
+description: "Why Asia-Pacific Is Defying Slowdown Fears · Balancing Optimism With Market Realities · Glossary: Key Terms Explained"
 date: 2025-12-13 19:05:00 +0800
 type: post
 published: true

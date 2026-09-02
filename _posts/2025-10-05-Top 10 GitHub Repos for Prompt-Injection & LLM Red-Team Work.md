@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Top 10 GitHub Repos for Prompt-Injection & LLM Red-Team Work"
+description: "Short intro (one line) · Ranked table — top 10 (prompt-injection topic) · Quick summary & recommended first steps · Caveats & safety note"
 date: 2025-10-05 17:05:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "FinTech Pulse Weekly, Week of 15–21 March 2026"
 series: "AI & Fintech"
+description: "Stablecoins Go Mainstream, Revolut Goes Full Bank, and Tokenised Finance Accelerates · In-Depth Highlight: Mastercard's $1.8B BVNK Deal Rewires the…"
 date: 2026-03-21 19:30:00 +0800
 type: post
 published: true

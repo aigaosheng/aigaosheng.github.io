@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+Startup Brief — 2026-05-27"
 series: "Investment & Startups"
+description: "AI Inference Startup Fireworks AI Targets $15 Billion Valuation · Peak XV and Activate in Talks to Back Voice AI Startup Wispr Flow at $2 Billion Valuation"
 date: 2026-05-27 21:15:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-24"
 series: "Investment & Startups"
+description: "Meta Invests $900M in Fintech Startup CRED, Appoints Founder to Lead WhatsApp · Menlo Ventures Raises Record $3B to Back AI Startups · AI Startup Baseten…"
 date: 2026-06-24 19:50:00 +0800
 type: post
 published: true

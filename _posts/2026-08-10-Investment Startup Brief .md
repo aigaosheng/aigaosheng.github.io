@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-10"
 series: "Investment & Startups"
+description: "Global New Unicorn Creation Surges Past Full-Year 2025 Levels · Aum Ventures Raises ₹225 Crore First Close for Deeptech Fund · Discovered Materials Raises…"
 date: 2026-08-10 22:02:00 +0800
 type: post
 published: true

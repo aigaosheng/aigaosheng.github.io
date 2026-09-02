@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-05-16"
 series: "US & China AI"
+description: "US, China to Discuss AI Guardrails During Presidential Visit · Nvidia Rally Boosts Markets as H200 Export Ban Lifts · Illinois Proposes \"De Facto National…"
 date: 2026-05-16 20:43:00 +0800
 type: post
 published: true

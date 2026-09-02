@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-27"
 series: "AI & Fintech"
+description: "DBS and Stripe Partner to Accelerate Agentic Commerce and Cross-Border Payments in Asia · Hong Kong Fintech Tests Identity Verification for AI-Initiated…"
 date: 2026-08-27 21:06:00 +0800
 type: post
 published: true

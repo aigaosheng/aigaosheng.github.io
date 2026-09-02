@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How one Essex home is being heated by a mini-data centre in the shed"
+description: "What to watch out for · Implications for broader sectors"
 date: 2025-11-17 20:49:00 +0800
 type: post
 published: true

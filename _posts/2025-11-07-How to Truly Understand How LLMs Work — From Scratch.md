@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to Truly Understand How LLMs Work — From Scratch"
+description: "For Those Who Love Low-Level Details · Hardware Isn’t a Barrier"
 date: 2025-11-07 16:26:00 +0800
 type: post
 published: true

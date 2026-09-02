@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft Week in Review - December 20–27, 2025 — Infrastructure Releases & AI‑Powered Platform Expansion"
+description: "On‑Premises Data Gateway: December 2025 Release · NET and .NET Framework: December 2025 Servicing Updates · Azure Databricks: Databricks Assistant Agent…"
 date: 2025-12-27 22:53:00 +0800
 type: post
 published: true

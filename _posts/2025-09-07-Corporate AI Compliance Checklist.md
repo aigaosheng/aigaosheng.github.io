@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Corporate AI Compliance Checklist
+description: "Privacy & Data Protection Compliance · AI-Specific Regulations & Standards"
 date: 2025-09-07 16:11:00 +0800
 type: post
 published: true

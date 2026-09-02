@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-05-20"
 series: "AI Research & Open Source"
+description: "Nature Publishes Google DeepMind and FutureHouse AI Research Assistants · Google I/O 2026: \"Gemini for Science\" Suite Announced · Incyte Partners with…"
 date: 2026-05-20 21:14:00 +0800
 type: post
 published: true

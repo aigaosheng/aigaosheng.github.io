@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-21"
 series: "US & China AI"
+description: "Zai Founder Predicts China Will Achieve \"Mythos-Class\" AI Sooner Than Expected · China Expedites Creation of a \"World Artificial Intelligence Cooperation…"
 date: 2026-06-21 17:07:00 +0800
 type: post
 published: true

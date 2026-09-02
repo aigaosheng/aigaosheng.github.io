@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI’s Safety Gap - Why Leading Labs Are Failing Global Standards"
+description: "A Wake-Up Call from the Experts · The Bigger Picture: Speed vs. Safety · Why This Matters to Everyone"
 date: 2025-12-03 21:50:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source LLM Model Brief — 2026-07-04"
 series: "AI Research & Open Source"
+description: "Leanstral 1.5 pushes open-source reasoning into formal verification frontier · DeepSeek raises API pricing pressure amid reported peak-hour adjustments…"
 date: 2026-07-04 21:28:00 +0800
 type: post
 published: true

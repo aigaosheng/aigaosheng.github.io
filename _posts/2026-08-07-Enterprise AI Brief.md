@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-07"
 series: "Enterprise AI"
+description: "Google Reshapes AI Leadership to Accelerate Enterprise AI Commercialization · Microsoft Opens Its Largest India Data Center Hub to Support Enterprise AI…"
 date: 2026-08-07 19:52:00 +0800
 type: post
 published: true

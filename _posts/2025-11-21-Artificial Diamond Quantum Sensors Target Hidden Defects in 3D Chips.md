@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Artificial Diamond Quantum Sensors Target Hidden Defects in 3D Chips"
+description: "What EuQlid is offering · Broader implications & challenges · What to watch next"
 date: 2025-11-21 22:10:00 +0800
 type: post
 published: true

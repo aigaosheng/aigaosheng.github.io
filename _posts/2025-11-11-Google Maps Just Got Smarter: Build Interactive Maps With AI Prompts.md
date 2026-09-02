@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Maps Just Got Smarter - Build Interactive Maps With AI Prompts"
+description: "What’s New: AI Tools That Build Maps for You"
 date: 2025-11-11 19:59:00 +0800
 type: post
 published: true

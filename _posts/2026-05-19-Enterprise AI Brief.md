@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-19"
 series: "Enterprise AI"
+description: "Dell and NVIDIA Unveil Major Expansions to AI Factory, Adding 1,000 New Enterprise Customers · Nvidia & Dell CEOs: AI Entering Enterprises at Scale…"
 date: 2026-05-19 19:47:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily Newsletter April 14, 2026"
 series: "Enterprise AI"
+description: "OpenAI Pushes Unified Platform Strategy for Enterprise · Goldman Sachs and Anthropic Examine AI Cybersecurity Risks · AI Becomes Core Enterprise…"
 date: 2026-04-14 20:45:00 +0800
 type: post
 published: true

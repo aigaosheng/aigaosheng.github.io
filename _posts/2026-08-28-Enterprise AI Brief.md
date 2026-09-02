@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-28"
 series: "Enterprise AI"
+description: "Cisco Gives All 90,000 Employees Their Own AI Agent · Tencent Releases New Open-Source AI Model for Coding, Research and Finance · Solace and SIOS Partner…"
 date: 2026-08-28 20:34:00 +0800
 type: post
 published: true

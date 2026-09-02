@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Fintech Newsletter (Payments, Digital Wallets & AI Automation)"
 series: "AI & Fintech"
+description: "FCA finalises crypto regulatory roadmap shaping EU-aligned digital asset rules · Addi secures $85M Series D to expand BNPL and regulated lending…"
 date: 2026-07-05 20:00:00 +0800
 type: post
 published: true

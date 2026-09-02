@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Beyond the Filter - How AI Influencers Are Redefining Social Media Fame"
+description: "The New Celebrities of the Digital Age · Brands Betting Big — and Getting Mixed Signals · The Economic Push — and the Ethical Pullback · Growing Pains…"
 date: 2025-12-28 17:54:00 +0800
 type: post
 published: true

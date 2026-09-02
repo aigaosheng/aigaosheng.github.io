@@ -2,6 +2,7 @@
 layout: post
 title: "Microsoft Weekly Insight Report — February 21, 2026"
 series: "AI Company Watch"
+description: "Strategic AI Investment and Global Equity · Trusted Tech Alliance: A Trust‑First Coalition · Leadership Transition in Gaming · Long‑Term Data Storage…"
 date: 2026-02-21 20:00:00 +0800
 type: post
 published: true

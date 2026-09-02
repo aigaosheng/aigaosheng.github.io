@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Hong Kong market report - October 10, 205"
 series: "Market Reports"
+description: "Market Summary & Context · Top Breaking / Recent News (last ~24h) · Social Media / Sentiment Snapshot"
 date: 2025-10-10 22:11:00 +0800
 type: post
 published: true

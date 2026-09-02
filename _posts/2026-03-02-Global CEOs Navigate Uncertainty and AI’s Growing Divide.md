@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Global CEOs Navigate Uncertainty and AI’s Growing Divide"
+description: "From Optimism to Realism: A Shift in CEO Sentiment · AI: Still Promising But Not Yet Profitable · External Risks Move to the Forefront · Reinvention: The…"
 date: 2026-03-02 20:16:00 +0800
 type: post
 published: true

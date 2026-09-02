@@ -2,6 +2,7 @@
 layout: post
 title: "China AI vs US AI Brief — 26 April 2026"
 series: "US & China AI"
+description: "China’s DeepSeek V4 intensifies model-level competition with US frontier AI · US escalates accusations of “industrial-scale AI theft” against China…"
 date: 2026-04-26 17:58:00 +0800
 type: post
 published: true

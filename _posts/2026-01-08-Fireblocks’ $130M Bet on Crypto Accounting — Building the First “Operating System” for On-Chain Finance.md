@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fireblocks’ $130M Bet on Crypto Accounting — Building the First “Operating System” for On-Chain Finance"
+description: "In a move that signals a new phase of maturity for institutional crypto infrastructure, Fireblocks has agreed to acquire TRES Finance, a blockchain…"
 date: 2026-01-08 20:23:00 +0800
 type: post
 published: true

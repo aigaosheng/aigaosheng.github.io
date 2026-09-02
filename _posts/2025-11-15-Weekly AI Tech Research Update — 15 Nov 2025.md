@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update — 15 Nov 2025"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by Novelty & Impact) · LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics · Data Descriptions from Large…"
 date: 2025-11-15 22:52:00 +0800
 type: post
 published: true

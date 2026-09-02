@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Intelligence Report- Microsoft Mar 7, 2026"
 series: "AI Company Watch"
+description: "AI Platform Expansion: GPT-5.3 Instant in Microsoft 365 Copilot · AI for Healthcare: Dragon Copilot Advancements · Next-Generation Gaming Strategy: Xbox…"
 date: 2026-03-07 20:44:00 +0800
 type: post
 published: true

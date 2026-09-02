@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FICO’s Answer to AI Risk: Foundation Models with a Built-In “Trust Score”"
+description: "What Did FICO Build? · Enter the “Trust Score”"
 date: 2025-09-24 23:44:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — April 20, 2026"
 series: "AI & Fintech"
+description: "AI Becomes Core Infrastructure for Fraud Detection and Compliance · AI to Disrupt Credit Underwriting and Collections in 2026 · AI-Powered Financial…"
 date: 2026-04-20 19:54:00 +0800
 type: post
 published: true

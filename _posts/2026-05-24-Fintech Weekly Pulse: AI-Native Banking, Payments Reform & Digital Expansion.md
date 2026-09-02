@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly Pulse- AI-Native Banking, Payments Reform & Digital Expansion"
 series: "AI & Fintech"
+description: "Mercury raises $200M at $5.2B valuation · SoFi acquires Peach Finance · Standard Chartered accelerates AI restructuring · AU Small Finance Bank expands…"
 date: 2026-05-24 17:10:00 +0800
 type: post
 published: true

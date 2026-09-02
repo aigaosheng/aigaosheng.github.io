@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-26"
 series: "Payments"
+description: "Basware to Acquire Trustpair, Adding Payment Account Validation to Invoice Assurance · Commonwealth Bank Launches PaidIt for Complex Payouts Ahead of…"
 date: 2026-08-26 20:10:00 +0800
 type: post
 published: true

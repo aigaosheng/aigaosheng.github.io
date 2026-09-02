@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Summary of the paper - OWL - Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+description: "Research Topic and Objective · Key Ideas and Method (What they propose) · Key Findings and Results · Critical Data and Facts"
 date: 2025-11-30 17:40:00 +0800
 type: post
 published: true

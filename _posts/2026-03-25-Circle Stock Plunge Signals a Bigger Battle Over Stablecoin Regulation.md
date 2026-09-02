@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Circle Stock Plunge Signals a Bigger Battle Over Stablecoin Regulation"
+description: "Circle’s 18% Stock Plunge Signals a Bigger Battle Over Stablecoin Regulation · A Sudden Sell-Off Shakes Crypto Markets · Why Yield Matters More Than It…"
 date: 2026-03-25 20:00:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly Pulse- AI Shakeups, Crypto Regulation & Banking Reinvention"
 series: "AI & Fintech"
+description: "In-Depth Highlight: HSBC’s Zing Failure and the $162M Lesson · Market & Industry Insight · Company & Startup Spotlight · HSBC (Global Banking Group)"
 date: 2026-07-05 19:52:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Takes the Helm - Pytho AI Accelerates Military Mission Planning at Disrupt 2025"
+description: "Why now? The defence-tech moment"
 date: 2025-10-28 21:30:00 +0800
 type: post
 published: true

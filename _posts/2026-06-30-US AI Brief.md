@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-30"
 series: "US & China AI"
+description: "California Expands Government AI Adoption Through Anthropic Partnership · AI Infrastructure Boom Drives Semiconductor Rally as US Tech Investment…"
 date: 2026-06-30 20:19:00 +0800
 type: post
 published: true

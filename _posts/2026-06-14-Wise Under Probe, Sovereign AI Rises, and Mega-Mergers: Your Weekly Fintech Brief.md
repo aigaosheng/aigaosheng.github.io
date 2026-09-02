@@ -2,6 +2,7 @@
 layout: post
 title: "Wise Under Probe, Sovereign AI Rises, and Mega-Mergers - Your Weekly Fintech Brief"
 series: "AI Industry News"
+description: "In-Depth Highlight: Wise Faces Intense AML Scrutiny in Europe · Market & Industry Insight: The Rise of Sovereign AI and Institutional Blockchain · Company…"
 date: 2026-06-14 17:00:00 +0800
 type: post
 published: true

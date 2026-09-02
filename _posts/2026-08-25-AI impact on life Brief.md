@@ -3,6 +3,7 @@
 layout: post
 title: "AI impact on life Brief — 2026-08-25"
 series: "AI & Society"
+description: "Singapore’s public healthcare workers can now build their own AI agents · AI is becoming a workplace confidence problem, not just a productivity tool…"
 date: 2026-08-25 20:49:00 +0800
 type: post
 published: true

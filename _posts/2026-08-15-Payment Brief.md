@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-15"
 series: "Payments"
+description: "Stripe and Advent Resume Talks to Acquire PayPal · Mastercard Payment Outage Disrupts Contactless Transactions in Australia · Malaysia Begins RM1.2 Billion…"
 date: 2026-08-15 20:51:00 +0800
 type: post
 published: true

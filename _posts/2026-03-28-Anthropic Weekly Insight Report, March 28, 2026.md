@@ -2,6 +2,7 @@
 layout: post
 title: "Anthropic Weekly Insight Report, March 28, 2026"
 series: "AI Company Watch"
+description: "Week of March 22–28, 2026 | Published: March 28, 2026 · Story 1: Claude Computer Use — Mac Autonomy, Dispatch Integration, and the Agentic Desktop Race…"
 date: 2026-03-28 21:33:00 +0800
 type: post
 published: true

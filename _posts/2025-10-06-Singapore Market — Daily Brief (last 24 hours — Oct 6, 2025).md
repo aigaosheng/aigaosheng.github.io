@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Market — Daily Brief (last 24 hours — Oct 6, 2025)"
 series: "Market Reports"
+description: "Top latest headlines (ONLY items published in the last 24 hours) · Companies in focus (why they matter today) · Breaking / market-moving items to watch…"
 date: 2025-10-06 20:38:00 +0800
 type: post
 published: true

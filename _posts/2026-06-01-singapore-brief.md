@@ -2,6 +2,7 @@
 layout: post
 title: "singapore Brief — 2026-06-01"
 series: "Singapore"
+description: "Senior Minister of State Dr Koh Poh Koon Resigns from Cabinet · DBS Bank to Open 18 New Asian Wealth Centres in Advisory Expansion · Shangri-La Dialogue…"
 date: 2026-06-01 11:42:36 +0800
 type: post
 published: true

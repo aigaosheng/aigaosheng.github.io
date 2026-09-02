@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside Indonesia’s $2.7M AI Customs Play - Trade AI Aims to Supercharge Border Enforcement"
+description: "What Trade AI Brings to the Table · A Broader Push Toward AI in Public Services"
 date: 2025-12-12 21:48:00 +0800
 type: post
 published: true

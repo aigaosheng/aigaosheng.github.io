@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 05.08.2026"
 series: "Enterprise AI"
+description: "The AI Infrastructure Boom is Coming for Enterprise Budgets ** As chipmakers raise forecasts and hyperscalers escalate infrastructure spending, enterprise…"
 date: 2026-05-08 20:35:00 +0800
 type: post
 published: true

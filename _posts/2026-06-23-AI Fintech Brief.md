@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-23"
 series: "AI & Fintech"
+description: "Backbase Acquires Kasisto to Lead Agentic Banking Shift · FINOS Launches AI Fund to Accelerate Responsible Agentic AI Adoption · Banco Santander and Getnet…"
 date: 2026-06-23 19:53:00 +0800
 type: post
 published: true

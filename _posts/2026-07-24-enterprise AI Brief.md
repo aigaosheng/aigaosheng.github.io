@@ -2,6 +2,7 @@
 layout: post
 title: "enterprise AI Brief — 2026-07-24"
 series: "Enterprise AI"
+description: "OpenAI Expands Enterprise AI Agent Deployment With Managed Engineering Support"
 date: 2026-07-24 19:32:00 +0800
 type: post
 published: true

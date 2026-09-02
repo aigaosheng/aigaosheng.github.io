@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hong Kong’s $8B Strategic Bet- Fueling Fintech, Aerospace & AI for the Next Tech Era"
+description: "Why Fintech, Aerospace & AI? · What This Means for Innovation in Asia"
 date: 2026-01-28 20:20:00 +0800
 type: post
 published: true

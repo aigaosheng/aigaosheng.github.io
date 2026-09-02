@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Amazon’s AI Shopping Tool Sparks Retailer Revolt - Consent Isn’t Optional"
+description: "Retailers Are Pushing Back · Amazon’s Defense and Strategy · What This Means for E-commerce"
 date: 2026-01-07 20:34:00 +0800
 type: post
 published: true

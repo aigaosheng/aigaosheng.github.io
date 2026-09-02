@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Microsoft Goes Influencer-Heavy to Make Copilot Cool - Betting on Alix Earle & Creator Culture to Close the ChatGPT Gap"
+description: "When it comes to making artificial intelligence appeal as a companion, not just a toolbox, Microsoft Corporation is leaning in hard on social media star…"
 date: 2025-11-10 22:34:00 +0800
 type: post
 published: true

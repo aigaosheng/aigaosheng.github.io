@@ -3,6 +3,7 @@
 layout: post
 title: "AI cybersecurity and risk Brief — 2026-08-18"
 series: "AI Security & Risk"
+description: "AI Agents Are Expanding Enterprise Attack Surfaces at Machine Speed · Fortinet Acquires Virtue AI to Expand AI Runtime Security · OpenAI Strengthens…"
 date: 2026-08-18 19:55:00 +0800
 type: post
 published: true

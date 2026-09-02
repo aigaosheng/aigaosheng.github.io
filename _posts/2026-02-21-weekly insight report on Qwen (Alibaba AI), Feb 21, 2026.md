@@ -2,6 +2,7 @@
 layout: post
 title: "weekly insight report on Qwen (Alibaba AI), Feb 21, 2026"
 series: "AI Company Watch"
+description: "In the past week, Alibaba has sharply escalated its AI strategy with the launch of Qwen 3.5, a next‑generation large language model designed for agentic…"
 date: 2026-02-21 20:06:00 +0800
 type: post
 published: true

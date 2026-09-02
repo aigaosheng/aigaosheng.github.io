@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Won’t Steal Your Job — It’s Selling the Course Instead: Why Pearson Is Betting on Upskilling, Not Apocalypse"
+description: "If you thought AI meant mass layoffs and obsolete degrees, Pearson’s CEO wants to sell you the opposite. The education giant says AI is a growth engine…"
 date: 2025-10-18 23:07:00 +0800
 type: post
 published: true

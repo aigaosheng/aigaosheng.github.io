@@ -3,6 +3,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-25"
 series: "AI & Fintech"
+description: "FinTech Profile Publishes Updated Global Fintech Event Calendar with Expanded AI-in-Finance Coverage · Industry Focus Shifts Toward AI-Native Banking…"
 date: 2026-07-25 20:30:00 +0800
 type: post
 published: true

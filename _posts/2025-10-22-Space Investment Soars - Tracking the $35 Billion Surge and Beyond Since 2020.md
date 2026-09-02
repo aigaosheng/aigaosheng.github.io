@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Space Investment Soars - Tracking the $35 Billion Surge and Beyond Since 2020"
+description: "2020–2021: The Boom Years · 2022–2023: Market Correction and Maturation · 2024–2025: Diversification and Global Expansion · Key Trends Since 2020"
 date: 2025-10-22 22:27:00 +0800
 type: post
 published: true

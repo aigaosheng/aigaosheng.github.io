@@ -1,6 +1,7 @@
 ---
 layout: post
 title: McKinsey reveals 6 lessons from 50+ agentic AI deployments
+description: "Six Lessons from Agentic AI Deployments · AI-Native Office Suite Trends"
 date: 2025-09-16 10:06:00 +0800
 type: post
 published: true

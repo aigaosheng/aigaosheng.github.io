@@ -3,6 +3,7 @@
 layout: post
 title: "Quantum Brief — 2026-08-25"
 series: "Quantum Computing"
+description: "KDDI Invests in OptQC to Accelerate Practical Optical Quantum Computing · RFI and Safeheron Launch Cross-Regional Post-Quantum Security Pilot for Digital…"
 date: 2026-08-25 20:45:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The 7 Phases of the Internet - From ARPANET to the Quantum Future"
+description: "Introduction"
 date: 2025-10-27 21:47:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Heidi’s AI Scribe Touches Down in Singapore — Lightening the Paperwork Load for Doctors"
+description: "A New Headquarters in Southeast Asia · How Heidi’s AI Helps Doctors · Bigger Picture: AI in Global Healthcare"
 date: 2025-11-20 20:57:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — May 10, 2026"
 series: "AI & Fintech"
+description: "SEC Signals Rulemaking for Onchain Markets and AI-Driven Finance ** The SEC is actively examining how federal securities laws apply to onchain trading…"
 date: 2026-05-10 20:32:00 +0800
 type: post
 published: true

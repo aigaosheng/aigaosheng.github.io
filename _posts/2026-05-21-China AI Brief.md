@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-05-21"
 series: "US & China AI"
+description: "State-Backed Funds Consolidate Around China’s Top AI Startups · China Unveils World’s First Statutory Framework for Agentic AI · U.S. and China Agree to…"
 date: 2026-05-21 21:30:00 +0800
 type: post
 published: true

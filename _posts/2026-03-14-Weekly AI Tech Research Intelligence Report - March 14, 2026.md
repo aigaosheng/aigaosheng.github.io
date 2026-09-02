@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Intelligence Report - March 14, 2026"
 series: "AI Research & Open Source"
+description: "Paper 1 — Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents · Paper 2 — Learning When to Sample: Confidence-Aware Self-Consistency for…"
 date: 2026-03-14 16:30:00 +0800
 type: post
 published: true

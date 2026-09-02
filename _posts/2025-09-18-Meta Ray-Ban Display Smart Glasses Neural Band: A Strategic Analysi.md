@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Meta’s Ray-Ban Display Smart Glasses & Neural Band - A Strategic Analysi
+description: "Supply Chain & Ecosystem Implications · Market & Stock Implications · Social & Regulatory Impact"
 date: 2025-09-18 23:12:00 +0800
 type: post
 published: true

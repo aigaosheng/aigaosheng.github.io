@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — April 21, 2026"
 series: "Enterprise AI"
+description: "Adobe launches “CX Enterprise” for agentic AI-driven customer experience · Enterprise AI security enters AI-vs-AI defense era (Palo Alto Networks) · Vercel…"
 date: 2026-04-21 21:38:00 +0800
 type: post
 published: true

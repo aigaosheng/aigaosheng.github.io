@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Sectors Brief — 2026-06-19"
 series: "Singapore"
+description: "Economists Lower Singapore's 2026 Growth Forecast to 3.5% Amid Global Uncertainties · Singapore to Advance AI Agenda as ASEAN Chair with Focus on…"
 date: 2026-06-19 20:20:00 +0800
 type: post
 published: true

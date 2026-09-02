@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — May 14, 2026"
 series: "Tokenized Assets"
+description: "NUVA Brings $19 Billion of Figure’s Tokenized Assets to Ethereum · Tokenized Treasuries Hit Record $15.35 Billion as Rate-Hike Fears Drive On-Chain Yield…"
 date: 2026-05-14 20:46:00 +0800
 type: post
 published: true

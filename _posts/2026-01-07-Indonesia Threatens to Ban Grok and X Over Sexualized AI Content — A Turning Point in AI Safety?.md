@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Indonesia Threatens to Ban Grok and X Over Sexualized AI Content — A Turning Point in AI Safety?"
+description: "From Trend to Legal Flashpoint"
 date: 2026-01-07 20:20:00 +0800
 type: post
 published: true

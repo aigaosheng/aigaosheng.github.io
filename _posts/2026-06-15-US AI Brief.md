@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-15"
 series: "US & China AI"
+description: "U.S. Government Imposes Unprecedented Foreign Access Ban on Anthropic’s Most Advanced AI Models · OpenAI Faces Mounting Legal Pressure Ahead of IPO…"
 date: 2026-06-15 20:26:00 +0800
 type: post
 published: true

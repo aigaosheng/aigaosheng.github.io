@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perplexity’s Dual-Thrust Expansion - U.S. Government Access and Comet’s Android Rollout"
+description: "Perplexity opens federal acquisition pipeline · Comet comes to Android · Technology & Product Analysis · Comet Browser (Android) — AI-Native by Design"
 date: 2025-11-22 21:30:00 +0800
 type: post
 published: true

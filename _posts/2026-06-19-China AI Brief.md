@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-19"
 series: "US & China AI"
+description: "China Unveils 17 Measures to Boost 'AI Plus Consumption' · China to Host 2026 World AI Conference in Shanghai This July · China Plans Mechanism to Evaluate…"
 date: 2026-06-19 20:32:14 +0800
 type: post
 published: true

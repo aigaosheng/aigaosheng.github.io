@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-20"
 series: "Enterprise AI"
+description: "Google Cloud Announces Major Agentic AI Push at London Summit, Secures Unilever Partnership · Zensar Technologies Launches ZenseAI.AgentMesh to Scale…"
 date: 2026-06-20 20:41:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "open-source LLM model plus Brief — 2026-07-01"
 series: "AI Research & Open Source"
+description: "NVIDIA Releases Nemotron-Labs-TwoTower Open-Weight Diffusion Language Model · GLM-5.2 Demonstrates Frontier Open-Weight Performance · Qwen 3.6 Local…"
 date: 2026-07-01 20:13:00 +0800
 type: post
 published: true

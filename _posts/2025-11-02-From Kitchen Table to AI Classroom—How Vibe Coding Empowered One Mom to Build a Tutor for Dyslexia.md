@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Kitchen Table to AI Classroom—How Vibe Coding Empowered One Mom to Build a Tutor for Dyslexia"
+description: "When Christina Gajilan’s son struggled with dyslexia, she didn’t wait for a tech company or educator to solve his challenges—she built the solution…"
 date: 2025-11-02 21:07:00 +0800
 type: post
 published: true

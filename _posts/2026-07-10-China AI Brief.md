@@ -2,6 +2,7 @@
 layout: post 
 title: "China AI Brief — 2026-07-10" 
 series: "US & China AI"
+description: "China Launches First Homegrown 100,000-Card AI Supercluster \"Dawning 8000\" - Source: CCTV · 2026-07-10 · APEC Digital and AI Ministerial Meeting to Be Held…"
 date: 2026-07-10 20:20:00 +0800 
 type: post 
 published: true 

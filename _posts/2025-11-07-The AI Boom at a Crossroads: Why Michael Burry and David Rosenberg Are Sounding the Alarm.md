@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The AI Boom at a Crossroads - Why Michael Burry and David Rosenberg Are Sounding the Alarm"
+description: "Burry Bets Against the AI Darlings · Rosenberg’s “Classic Bubble” Warning"
 date: 2025-11-07 20:37:00 +0800
 type: post
 published: true

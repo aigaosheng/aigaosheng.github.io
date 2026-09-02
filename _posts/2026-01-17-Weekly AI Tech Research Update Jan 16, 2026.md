@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update Jan 16, 2026"
 series: "AI Research & Open Source"
+description: "Daily AI/Tech Research Update — Jan 17, 2026 · Top Papers (Ranked by novelty & impact) · Improving Chain‑of‑Thought for Logical Reasoning via AAI · Can We…"
 date: 2026-01-17 22:02:00 +0800
 type: post
 published: true

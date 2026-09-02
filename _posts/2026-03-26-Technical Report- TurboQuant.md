@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Technical Report- TurboQuant"
+description: "Data, Benchmarks, and Evidence · 2 Impact on LLM Infrastructure · Case Studies and Applications · 1 Large Language Model Inference"
 date: 2026-03-26 20:07:00 +0800
 type: post
 published: true

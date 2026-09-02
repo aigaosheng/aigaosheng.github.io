@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "South Korea’s Bold AI Bet - Export‑Import Bank of Korea Pours US$13.6 B Into Domestic AI Push"
+description: "Implications & What to Watch"
 date: 2025-12-10 21:15:00 +0800
 type: post
 published: true

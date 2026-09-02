@@ -2,6 +2,7 @@
 layout: post
 title: "Latest AI/Tech Research Report — arXiv (industry brief) - 2 Oct, 2025"
 series: "AI Research & Open Source"
+description: "1 LongCodeZip: Compress Long Context for Code Language Models · 2 Eliciting Secret Knowledge from Language Models · 3 DecepChain: Inducing Deceptive…"
 date: 2025-10-02 23:04:00 +0800
 type: post
 published: true

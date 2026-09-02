@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Fintech Pulse — Stablecoins, AI Funding & Global Expansion"
 series: "AI & Fintech"
+description: "In‑Depth Highlight — SoFiUSD Stablecoin · Market & Industry Insight · AI’s Strategic Inflection Point · Stablecoins & Tokenisation: From Innovation to…"
 date: 2025-12-22 21:05:00 +0800
 type: post
 published: true

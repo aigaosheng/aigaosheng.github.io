@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alibaba Supercharges Qwen With Amap Integration — The AI That Plans Trips, Routes, and Restaurant Picks for You"
+description: "Alibaba is weaving its powerful AI chatbot Qwen deeper into real-world lifestyle services by integrating it with Amap, China’s dominant mapping and…"
 date: 2025-12-19 22:26:00 +0800
 type: post
 published: true

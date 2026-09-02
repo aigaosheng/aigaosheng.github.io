@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly update - Hugging Face Hub Signals New Model Momentum and Research Focus Jan 03 2026"
 series: "AI Company Watch"
+description: "New and Updated Models on the Hub · Trending Research and Long‑Form Content · Research Papers Community Activity"
 date: 2026-01-03 22:07:00 +0800
 type: post
 published: true

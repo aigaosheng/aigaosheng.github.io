@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly VC & Startup Funding Highlights (Jan 24–30, 2026)"
 series: "Investment & Startups"
+description: "Trend Commentary + Actionable Insights · AI Infrastructure & Compute Remain Dominant · Cybersecurity & Cloud Security Get Premium Valuations · Sector…"
 date: 2026-01-31 21:34:00 +0800
 type: post
 published: true

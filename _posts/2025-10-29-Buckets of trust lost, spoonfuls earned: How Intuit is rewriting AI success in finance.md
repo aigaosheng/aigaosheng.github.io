@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Buckets of trust lost, spoonfuls earned - How Intuit is rewriting AI success in finance"
+description: "Key lessons from Intuit’s approach · Real-data queries rather than generative responses · Explainability built-in, not an afterthought · Gradual UI/UX…"
 date: 2025-10-29 21:40:00 +0800
 type: post
 published: true

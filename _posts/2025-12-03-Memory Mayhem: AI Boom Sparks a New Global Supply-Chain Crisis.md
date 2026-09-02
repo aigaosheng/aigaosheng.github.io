@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Memory Mayhem - AI Boom Sparks a New Global Supply-Chain Crisis"
+description: "Why this matters — beyond AI · From convenience to crisis · Infrastructure delays and macroeconomic risk · A shakeout in the industry — winners and losers"
 date: 2025-12-03 21:44:00 +0800
 type: post
 published: true

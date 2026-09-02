@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-05-31"
 series: "Payments"
+description: "Visa outlines €500 million Europe investment as payments sovereignty debate intensifies · TrueLayer acquires In3 to combine pay-by-bank with consumer…"
 date: 2026-05-31 20:13:28 +0800
 type: post
 published: true

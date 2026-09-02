@@ -2,6 +2,7 @@
 layout: post 
 title: "Open Source LLM model Brief — 2026-07-13" 
 series: "AI Research & Open Source"
+description: "Meituan Open-Sources Trillion-Parameter LongCat-2.0, Trained on 50,000 Domestic Chips · Cohere Enters Coding Model Arena with Open-Source North Mini Code…"
 date: 2026-07-13 21:50:00 +0800 
 type: post 
 published: true 

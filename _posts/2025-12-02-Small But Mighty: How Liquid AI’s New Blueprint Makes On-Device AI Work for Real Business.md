@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Small But Mighty - How Liquid AI’s New Blueprint Makes On-Device AI Work for Real Business"
+description: "Why This Blueprint Is a Big Deal · What the Report Shows: Practical Design for Real Constraints · Post-Training Pipeline: From “Tiny Model” to Usable Agent"
 date: 2025-12-02 20:32:00 +0800
 type: post
 published: true

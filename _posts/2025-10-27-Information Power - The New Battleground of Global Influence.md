@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Information Power - The New Battleground of Global Influence"
+description: "The Evolution of Information Power · The Role of Computing in Modern Influence · Implications for Democracy and Society"
 date: 2025-10-27 22:03:00 +0800
 type: post
 published: true

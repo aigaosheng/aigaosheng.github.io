@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-17"
 series: "US & China AI"
+description: "Xi Jinping Unveils China's Vision for a New Global AI Order · China Calls for Global AI Cooperation, Criticizes Technology Restrictions · WAICO Officially…"
 date: 2026-07-17 21:30:00 +0800
 type: post
 published: true

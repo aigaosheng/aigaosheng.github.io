@@ -2,6 +2,7 @@
 layout: post
 title: "Quantum AI Brief — 2026-08-15"
 series: "Quantum Computing"
+description: "Quantum Computing Raises Urgency for a $2 Trillion Digital-Asset Migration · University of Guelph and Xanadu Partner to Build the Quantum Workforce…"
 date: 2026-08-15 21:22 +0800
 type: post
 published: true

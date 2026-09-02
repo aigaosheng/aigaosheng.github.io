@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Shadow AI：企业里正在悄悄“作乱”的 AI"
+description: "到了 2025 年，企业最大的数字化冲击，不是来自竞争对手，而是来自内部。 Shadow AI（影子 AI），指员工在未经批准的情况下使用 AI 工具提升效率，绕过公司传统系统。 它可能是生成式 AI、预测分析，也可能是自动化流程工具，悄悄运行在 IT 监管之外。"
 date: 2025-09-20 11:39:00 +0800
 type: post
 published: true

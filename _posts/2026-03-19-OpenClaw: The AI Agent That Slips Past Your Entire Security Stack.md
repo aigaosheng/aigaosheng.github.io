@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenClaw- The AI Agent That Slips Past Your Entire Security Stack"
+description: "The Invisible Threat: When AI Operates Inside Trust Boundaries · Why EDR, DLP, and IAM All Fail Together · Execution Inside Trusted Contexts · Semantic…"
 date: 2026-03-19 19:44:00 +0800
 type: post
 published: true

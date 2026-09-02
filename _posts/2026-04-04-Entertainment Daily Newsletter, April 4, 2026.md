@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Entertainment Daily Newsletter, April 4, 2026"
+description: "Zendaya & Robert Pattinson Lead New Film Buzz · Malcolm in the Middle” Revival Headlines Streaming Comebacks · Streaming Wars Intensify with Massive April…"
 date: 2026-04-04 21:20:00 +0800
 type: post
 published: true

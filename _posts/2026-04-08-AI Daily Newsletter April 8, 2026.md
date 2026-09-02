@@ -2,6 +2,7 @@
 layout: post
 title: "AI Daily Newsletter April 8, 2026"
 series: "AI Industry News"
+description: "Microsoft & Publicis Expand Partnership for “Agentic AI” Marketing · Grab Launches 13 AI-Powered Features at GrabX 2026 · Grab Bets on AI to Offset Rising…"
 date: 2026-04-08 22:13:00 +0800
 type: post
 published: true

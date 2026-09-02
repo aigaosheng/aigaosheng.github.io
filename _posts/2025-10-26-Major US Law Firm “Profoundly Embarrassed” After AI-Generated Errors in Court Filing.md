@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Major US Law Firm “Profoundly Embarrassed” After AI-Generated Errors in Court Filing"
+description: "Main Facts & Insights"
 date: 2025-10-26 16:54:00 +0800
 type: post
 published: true

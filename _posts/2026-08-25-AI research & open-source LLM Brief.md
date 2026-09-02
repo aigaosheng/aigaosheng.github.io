@@ -3,6 +3,7 @@
 layout: post
 title: "AI research & open-source LLM Brief — 2026-08-25"
 series: "AI Research & Open Source"
+description: "NVIDIA’s Poolside Deal Signals a Major Push Into Open-Weight Model Development · Nota AI’s MoE Quantization Research Wins EMNLP 2026 Recognition · Vahan.ai…"
 date: 2026-08-25T21:00:00 +0800
 type: post
 published: true

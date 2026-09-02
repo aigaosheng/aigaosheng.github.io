@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized asset Brief — 2026-06-03"
 series: "Tokenized Assets"
+description: "Franklin Templeton and MoonPay connect tokenized money market funds to stablecoin rails · Securitize expands Hamilton Lane’s tokenized private credit fund…"
 date: 2026-06-03 19:41:11 +0800
 type: post
 published: true

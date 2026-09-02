@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Great On-Chain Reset- SEC Charts Clearer Crypto Rules as AI Reshapes Finance From Core to Edge"
+description: "SEC Chairman Paul Atkins Charts a New Course for Crypto Regulation · Market & Industry Insight · The Agentic Economy Arrives: AI Agents Are Becoming the…"
 date: 2026-05-10 19:51:00 +0800
 type: post
 published: true

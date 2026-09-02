@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rolling Eyes, Everywhere - DHS Seeks to Deploy AI-Outlined Surveillance Trucks"
+description: "What the proposal actually involves · Caveats and unanswered questions"
 date: 2025-10-26 17:43:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DeepSeek Q3 2025 Product Synthesis- Hybrid Reasoning & Sparse Efficiency Redefine Open-Source LLM Competitiveness"
+description: "Report 1: DeepSeek-V3.1-Terminus Launch · Tech Angle: Hybrid Thinking Architecture · Report 2: DeepSeek-V3.2-Exp—Sparse Attention Revolution · Tech Angle…"
 date: 2025-11-09 16:21:00 +0800
 type: post
 published: true

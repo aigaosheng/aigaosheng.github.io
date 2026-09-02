@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI’s Big Moment - Why Nokia’s CEO Sees a 1990s-Style Boom — and Why We Shouldn’t Panic"
+description: "The story in a nutshell · Hook: A boom, not a bubble?"
 date: 2025-10-23 21:00:00 +0800
 type: post
 published: true

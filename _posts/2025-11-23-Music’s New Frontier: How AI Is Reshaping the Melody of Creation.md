@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Music’s New Frontier - How AI Is Reshaping the Melody of Creation"
+description: "The Beat of the Matter · Key Insights & Implications"
 date: 2025-11-23 21:31:00 +0800
 type: post
 published: true

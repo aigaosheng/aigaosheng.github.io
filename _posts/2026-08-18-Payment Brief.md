@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-18"
 series: "Payments"
+description: "GoTyme Becomes the Philippines’ First Digital Bank to Offer Apple Pay · Philippine Digital Payments Reach 64.69% of Retail Transaction Volume · Afriex…"
 date: 2026-08-18 19:47 +0800
 type: post
 published: true

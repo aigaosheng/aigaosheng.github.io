@@ -2,6 +2,7 @@
 layout: post
 title: "Quantum AI Brief — 2026-08-07"
 series: "Quantum Computing"
+description: "Quantum AI Summit 2026 Highlights Growing Convergence Between Quantum Computing and Artificial Intelligence · IonQ Reports Strong Revenue Growth as Quantum…"
 date: 2026-08-07 20:01:00 +0800
 type: post
 published: true

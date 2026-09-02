@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adobe on the Legal Hot Seat - Lawsuit Claims AI Was Trained on Pirated Books"
+description: "The Heart of the Dispute: AI, Data, and Copyright · A Broader Legal Landscape"
 date: 2025-12-18 21:00:00 +0800
 type: post
 published: true

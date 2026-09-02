@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to choose an AI-enabled CPU for gaming laptops"
+description: "Key Considerations for AI-Enabled Gaming CPUs · Top Choices & PCMag Advice"
 date: 2025-10-16 22:42:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-21"
 series: "Enterprise AI"
+description: "Microsoft Expands Partnership with Mistral to Accelerate European Enterprise AI · IBM Launches AI-First Enterprise Blueprint for Asia-Pacific · HCLTech…"
 date: 2026-07-21 21:14:00 +0800
 type: post
 published: true

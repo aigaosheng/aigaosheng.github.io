@@ -2,6 +2,7 @@
 layout: post
 title: "China AI update Brief — 2026-05-30"
 series: "US & China AI"
+description: "Embodied AI takes center stage at World Intelligence Expo 2026 in Tianjin · EngineAI opens Shenzhen humanoid-robot manufacturing base and starts T800…"
 date: 2026-05-30 21:00:26 +0800
 type: post
 published: true

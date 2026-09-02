@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ukraine’s Tech Arsenal - How Startups Are Redefining Modern Warfare"
+description: "In the heart of Lviv this past September, at the IT Arena tech gathering, one trend was impossible to ignore: Ukrainian innovation is being weaponized. A…"
 date: 2025-11-11 22:07:00 +0800
 type: post
 published: true

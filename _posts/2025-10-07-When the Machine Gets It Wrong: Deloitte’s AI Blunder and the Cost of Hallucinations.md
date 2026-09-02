@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When the Machine Gets It Wrong: Deloitte’s AI Blunder and the Cost of Hallucinations"
+description: "The Story: Deloitte’s Refund Over an AI-tainted Report · It’s a cautionary tale about overreliance on AI · Reputational and contractual risks are real…"
 date: 2025-10-07 10:20:00 +0800
 type: post
 published: true

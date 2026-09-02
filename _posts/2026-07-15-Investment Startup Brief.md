@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-15"
 series: "Investment & Startups"
+description: "DeepSeek Reportedly Targets $71B Valuation Ahead of Potential IPO · Health-Tech Startup Backed by Daniel Ek and Mark Zuckerberg Raises $700M · AI Drug…"
 date: 2026-07-15 21:20:00 +0800
 type: post
 published: true

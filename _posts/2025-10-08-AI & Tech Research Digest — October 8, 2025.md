@@ -2,6 +2,7 @@
 layout: post
 title: "AI & Tech Research Digest — October 8, 2025"
 series: "AI Research & Open Source"
+description: "TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular Reasoning · Simulating Fermions with Exponentially Lower Overhead · Learning Stabilizer…"
 date: 2025-10-08 22:50:00 +0800
 type: post
 published: true

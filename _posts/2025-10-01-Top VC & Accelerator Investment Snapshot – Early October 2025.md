@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Top VC & Accelerator Investment Snapshot – Early October 2025"
+description: "Brief commentary on trends (data-driven) · Actionable insights (for investors & scouts) · Quick deal scoring (summary view)"
 date: 2025-10-01 22:06:00 +0800
 type: post
 published: true

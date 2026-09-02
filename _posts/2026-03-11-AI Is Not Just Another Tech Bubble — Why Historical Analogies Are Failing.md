@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Is Not Just Another Tech Bubble — Why Historical Analogies Are Failing"
+description: "Why People Keep Calling AI a Bubble · The Fundamental Difference: AI Performs Cognitive Work · Why Traditional Market Models Struggle With AI · Where AI Is…"
 date: 2026-03-11 20:28:00 +0800
 type: post
 published: true

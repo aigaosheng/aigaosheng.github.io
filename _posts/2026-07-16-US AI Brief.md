@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-16"
 series: "US & China AI"
+description: "OpenAI, Google DeepMind and Anthropic Leaders Align on Frontier AI Regulation · OpenAI Develops GPT-Red to Scale AI Safety Testing · Google DeepMind…"
 date: 2026-07-16 21:58:00 +0800
 type: post
 published: true

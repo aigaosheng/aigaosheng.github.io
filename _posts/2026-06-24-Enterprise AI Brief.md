@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-24"
 series: "Enterprise AI"
+description: "Anthropic Debuts 'Claude Tag' AI Agent for Slack, Signaling Shift to Multiplayer AI · Infosys Chairman Asserts AI Will \"Amplify\" Rather Than Replace IT…"
 date: 2026-06-24 19:38:14 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "WestBridge Backs Finfactor $15M Push to Power India Open Finance Rails​"
+description: "Finfactor’s $15M bet on open finance · Inside Finvu’s data plumbing for BFSI · Why this round matters for India Stack"
 date: 2025-12-02 20:58:00 +0800
 type: post
 published: true

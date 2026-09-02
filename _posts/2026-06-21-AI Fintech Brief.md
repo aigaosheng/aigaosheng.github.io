@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-21"
 series: "AI & Fintech"
+description: "LUMIQ Secures Funding to Become AI Decision Layer for Financial Services · Morgan Stanley to Open Wealth Management Platform to External AI Agents…"
 date: 2026-06-21 17:04:00 +0800
 type: post
 published: true

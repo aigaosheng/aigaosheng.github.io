@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic doubles down on life sciences; Google wins IDC recognition for Gemini; NVIDIA expands cloud acceleration partnerships"
+description: "1 Anthropic — Claude for Life Sciences (Official announcement) · 2 Anthropic — Claude Code on the web (Official announcement)"
 date: 2025-10-21 18:15:00 +0800
 type: post
 published: true

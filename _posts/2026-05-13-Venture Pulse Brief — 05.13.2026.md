@@ -2,6 +2,7 @@
 layout: post
 title: "Venture Pulse Brief — 05.13.2026"
 series: "Investment & Startups"
+description: "Start-Up Amp Raises $1.3 Billion to Build an A.I. ‘Grid’ Source · The New York Times · May 12, 2026 Summary · Amp, a startup founded by former Andreessen…"
 date: 2026-05-13 20:00:00 +0800
 type: post
 published: true

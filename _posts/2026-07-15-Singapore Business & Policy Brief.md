@@ -2,6 +2,7 @@
 layout: post  
 title: "Singapore Business & Policy Brief — 2026-07-15"  
 series: "Singapore"
+description: "Singapore's Q2 GDP Growth Moderates to 5.7%, Beats Forecasts on AI Strength · Public Accounts Watchdog Flags Widespread Lapses Across Government Agencies…"
 date: 2026-07-15 22:00:00 +0800  
 type: post  
 published: true  

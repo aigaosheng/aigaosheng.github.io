@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ChatGPT Is No Longer Just a Chatbot — It’s a Shopping Mall, Assistant, and App Platform Wrapped Into One"
+description: "What happened (quick timeline you can skim) · Key facts and why they matter · Deeper reflections — three big implications"
 date: 2025-10-18 18:01:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-18"
 series: "US & China AI"
+description: "G7 Leaders Warn US Could \"Turn Off\" Access to American AI Models · Alex Stamos Leads Call to Lift Anthropic Export Ban, Calls It \"Vibes-Based Regulation\"…"
 date: 2026-06-18 21:16:00 +0800
 type: post
 published: true

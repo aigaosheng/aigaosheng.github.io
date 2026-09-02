@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI  Brief — 2026-07-02"
 series: "Enterprise AI"
+description: "U.S. Moves Toward Voluntary AI Model Standards · Cognizant Partners with Domyn to Deliver Sovereign AI Across EMEA · Dell Expands Sovereign AI Strategy…"
 date: 2026-07-02 19:27:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hedge Funds Double Down on AI Infrastructure: Goldman Sachs Reveals a “Hardware Renaissance”"
+description: "Market Moves: A Record Surge in AI Tech Exposure · Winners, Losers, and Strategic Shifts · Implications: The Next Phase of AI Growth"
 date: 2025-10-26 17:10:00 +0800
 type: post
 published: true

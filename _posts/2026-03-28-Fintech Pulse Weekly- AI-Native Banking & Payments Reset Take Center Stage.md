@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Pulse Weekly- AI-Native Banking & Payments Reset Take Center Stage"
 series: "AI & Fintech"
+description: "In‑Depth Highlight: Solaris's AI-Native Bank Pivot · Market & Industry Insight: The Agentic AI Payments Shift · Company & Startup Spotlight · Regulatory &…"
 date: 2026-03-28 20:00:00 +0800
 type: post
 published: true

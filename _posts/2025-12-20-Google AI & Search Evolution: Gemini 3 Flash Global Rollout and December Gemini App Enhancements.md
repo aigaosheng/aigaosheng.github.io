@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google AI & Search Evolution - Gemini 3 Flash Global Rollout and December Gemini App Enhancements"
+description: "Global Rollout of Gemini 3 Flash in Google Search AI Mode · Gemini Drops — December 2025 Feature Update Series"
 date: 2025-12-20 21:22:00 +0800
 type: post
 published: true

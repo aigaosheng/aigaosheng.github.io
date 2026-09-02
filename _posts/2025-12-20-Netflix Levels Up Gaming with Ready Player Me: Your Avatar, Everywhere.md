@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Netflix Levels Up Gaming with Ready Player Me - Your Avatar, Everywhere"
+description: "A New Chapter for Netflix Gaming · Glossary: Key Gaming & Tech Terms"
 date: 2025-12-20 19:30:00 +0800
 type: post
 published: true

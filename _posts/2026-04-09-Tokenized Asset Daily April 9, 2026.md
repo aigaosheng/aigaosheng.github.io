@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Daily April 9, 2026"
 series: "Tokenized Assets"
+description: "1️⃣ U.S. Treasury Proposes AML/Sanctions Framework for Stablecoin Issuers · 2️⃣ BitGo Powers AndX U.S. Launch With Regulated Digital Asset Infrastructure…"
 date: 2026-04-09 22:02:00 +0800
 type: post
 published: true

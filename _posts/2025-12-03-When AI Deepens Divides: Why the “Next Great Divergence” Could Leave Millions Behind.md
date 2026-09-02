@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Deepens Divides - Why the Next Great Divergence Could Leave Millions Behind"
+description: "A new “Great Divergence”? What the report warns · Who’s most at risk — and who stands to benefit · Potential Upsides — But Only With the Right Conditions…"
 date: 2025-12-03 21:26:00 +0800
 type: post
 published: true

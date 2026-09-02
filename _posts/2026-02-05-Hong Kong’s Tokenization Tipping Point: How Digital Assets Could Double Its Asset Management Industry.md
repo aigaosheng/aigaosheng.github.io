@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hong Kong’s Tokenization Tipping Point- How Digital Assets Could Double Its Asset Management Industry"
+description: "A New Growth Story Fueled by Token Tech · Regulatory & Market Momentum"
 date: 2026-02-05 21:11:00 +0800
 type: post
 published: true

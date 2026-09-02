@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Prompt Injection - The Silent Backdoor Threat Inside AI Systems"
+description: "Prompt-Injection: what it is (short definition) · How prompt-injection happens — the attack mechanics (red-team view) · Typical attack goals (real…"
 date: 2025-10-26 10:37:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neptune’s Rising - AI Robots Chart a Greener Future for Shipping"
+description: "Revolution at Sea: The Facts · Key Insights and Implications · Read the Full Source"
 date: 2025-10-25 18:07:00 +0800
 type: post
 published: true

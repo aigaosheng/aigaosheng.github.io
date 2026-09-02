@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-17"
 series: "Payments"
+description: "Airwallex Enables Wero Payments for European Merchants · Ecommpay Launches Self-Service Payments Platform for Small Businesses · JCB Partners with Circle…"
 date: 2026-07-17 21:35:00 +0800
 type: post
 published: true

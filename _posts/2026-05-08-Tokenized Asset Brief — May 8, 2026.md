@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — May 8, 2026"
 series: "Tokenized Assets"
+description: "Pantera Capital: Tokenization Market Hits $320.6B Across 593 Assets · Ripple, JPMorgan, Mastercard Complete First Cross‑Border Tokenized Treasury…"
 date: 2026-05-08 21:04:00 +0800
 type: post
 published: true

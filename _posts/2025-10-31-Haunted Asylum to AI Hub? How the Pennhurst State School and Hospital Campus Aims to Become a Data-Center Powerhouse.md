@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Haunted Asylum to AI Hub? How the Pennhurst State School and Hospital Campus Aims to Become a Data-Center Powerhouse"
+description: "From ghost stories to gigabytes · Why the relocation to Pennhurst? · What’s on the table · Local and historical complications"
 date: 2025-10-31 21:50:00 +0800
 type: post
 published: true

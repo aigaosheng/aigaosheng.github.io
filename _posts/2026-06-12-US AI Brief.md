@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-12"
 series: "US & China AI"
+description: "Bezos-backed Prometheus Hits $41 Billion Valuation in AI Funding Round · Anthropic Seeks Google Backing for 1GW+ Data Center Expansion · OpenAI Acquires…"
 date: 2026-06-12 20:01:00 +0800
 type: post
 published: true

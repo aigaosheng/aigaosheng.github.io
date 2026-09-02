@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Agentic Web Is Coming — and the Internet Won’t Recognize Itself"
+description: "Why it matters now · What’s next for businesses and users"
 date: 2025-10-13 23:23:00 +0800
 type: post
 published: true

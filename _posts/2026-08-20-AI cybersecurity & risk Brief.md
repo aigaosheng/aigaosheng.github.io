@@ -3,6 +3,7 @@
 layout: post
 title: "AI cybersecurity & risk Brief — 2026-08-20"
 series: "AI Security & Risk"
+description: "US Agencies Warn of AI-Assisted Attacks on Siemens Industrial Controllers · NTT DATA and Palo Alto Networks Form Global Alliance for Secure AI…"
 date: 2026-08-20 19:44:00 +0800
 type: post
 published: true

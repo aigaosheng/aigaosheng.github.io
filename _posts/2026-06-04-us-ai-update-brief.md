@@ -2,6 +2,7 @@
 layout: post
 title: "US AI update Brief — 2026-06-04"
 series: "US & China AI"
+description: "Trump signs a narrower AI executive order centered on voluntary pre-release government access · Sam Altman heads to Washington to argue against mandatory…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

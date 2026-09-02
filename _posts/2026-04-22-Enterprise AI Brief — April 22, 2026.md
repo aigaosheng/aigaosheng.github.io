@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — April 22, 2026"
 series: "Enterprise AI"
+description: "Google Bets Big on AI Agents for Enterprise Monetization · Google Launches Next-Gen TPUs to Power Enterprise AI · Anthropic Expands Enterprise AI Access to…"
 date: 2026-04-22 20:35:00 +0800
 type: post
 published: true

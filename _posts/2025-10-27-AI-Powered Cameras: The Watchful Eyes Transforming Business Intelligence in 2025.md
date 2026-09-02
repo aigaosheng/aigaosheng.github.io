@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI-Powered Cameras - The Watchful Eyes Transforming Business Intelligence in 2025"
+description: "Case Studies: Real-World Impact Across Sectors · From Security to Strategy: The New Role of Cameras"
 date: 2025-10-27 20:53:00 +0800
 type: post
 published: true

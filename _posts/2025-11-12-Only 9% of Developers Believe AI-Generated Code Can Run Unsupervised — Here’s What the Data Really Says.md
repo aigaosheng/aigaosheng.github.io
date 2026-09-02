@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Only 9% of Developers Believe AI-Generated Code Can Run Unsupervised — Here’s What the Data Really Says"
+description: "In the latest Q4 2025 “Dev Barometer” survey by BairesDev, a striking insight emerged: just 9% of developers believe that code produced by AI can be used…"
 date: 2025-11-12 20:40:00 +0800
 type: post
 published: true

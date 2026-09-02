@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-29"
 series: "Tokenized Assets"
+description: "Bullish Receives Gibraltar Approval to Offer Trading in Tokenized Securities · VARA Approves Tribe Tokenisation Platform in Dubai · Collector Crypt Revenue…"
 date: 2026-06-29 19:50:00 +0800
 type: post
 published: true

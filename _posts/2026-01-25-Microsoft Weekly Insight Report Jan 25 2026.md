@@ -2,6 +2,7 @@
 layout: post
 title: "Microsoft Weekly Insight Report Jan 25 2026"
 series: "AI Company Watch"
+description: "A New Era of AI Security: “AI Agents” Redefine Organizational Risk Posture · Microsoft Commits to Modernizing the United Nations with AI & Digital…"
 date: 2026-01-25 17:38:00 +0800
 type: post
 published: true

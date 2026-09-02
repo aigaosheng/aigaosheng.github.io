@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-05"
 series: "US & China AI"
+description: "China accelerates AI industrial deployment under national “AI+” strategy · China’s AI-driven robotics and embodied intelligence ecosystem expands rapidly…"
 date: 2026-07-05 20:04:00 +0800
 type: post
 published: true

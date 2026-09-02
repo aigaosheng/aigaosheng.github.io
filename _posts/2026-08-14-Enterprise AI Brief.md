@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-14"
 series: "Enterprise AI"
+description: "Microsoft Begins Unifying Copilot Into a Single AI Experience · Cisco Reports $9.3 Billion in AI Infrastructure Orders as Enterprise AI Spending Drives…"
 date: 2026-08-14 19:37 +0800
 type: post
 published: true

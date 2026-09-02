@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Training Robots in Real-World Environments—Virtually"
+description: "What Is Steerable Scene Generation? · How Does It Work?"
 date: 2025-10-10 23:40:00 +0800
 type: post
 published: true

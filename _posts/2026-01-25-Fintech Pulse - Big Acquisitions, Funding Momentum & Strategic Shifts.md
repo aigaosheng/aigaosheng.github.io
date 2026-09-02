@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Pulse - Big Acquisitions, Funding Momentum & Strategic Shifts"
 series: "AI & Fintech"
+description: "Capital One’s Strategic Acquisition of Brex · Market & Industry Insight · Funding Momentum and Strategic Growth Paths · Thematic Shifts in Payments and…"
 date: 2026-01-25 10:10:00 +0800
 type: post
 published: true

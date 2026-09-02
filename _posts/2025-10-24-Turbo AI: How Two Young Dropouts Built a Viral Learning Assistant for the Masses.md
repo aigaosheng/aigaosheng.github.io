@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Turbo AI - How Two Young Dropouts Built a Viral Learning Assistant for the Masses"
+description: "Turbo AI is turning heads — and transforming study sessions — with its blistering growth. Founded by two 20-year-old college dropouts, Rudy Arora and…"
 date: 2025-10-24 21:17:00 +0800
 type: post
 published: true

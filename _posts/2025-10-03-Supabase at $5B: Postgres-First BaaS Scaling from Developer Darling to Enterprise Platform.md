@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Supabase at $5B: Postgres-First BaaS Scaling from Developer Darling to Enterprise Platform"
+description: "1 Product & tech (what it actually is) · 2 ARR / Revenue estimates (defensible range & how I derived it) · 3 Enterprise traction & customer evidence · 4…"
 date: 2025-10-03 22:33:00 +0800
 type: post
 published: true

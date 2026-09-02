@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-05"
 series: "AI & Society"
+description: "China-linked influence claims intensify the politics around AI data centers · AI failures at major consumer brands become a social-media spectacle…"
 date: 2026-06-05 20:27:35 +0800
 type: post
 published: true

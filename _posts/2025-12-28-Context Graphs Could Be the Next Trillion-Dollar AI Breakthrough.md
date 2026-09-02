@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Context Graphs Could Be the Next Trillion-Dollar AI Breakthrough"
+description: "The Missing Layer: Decision Traces · Why This Could Be Bigger Than Current AI Bets"
 date: 2025-12-28 23:00:00 +0800
 type: post
 published: true

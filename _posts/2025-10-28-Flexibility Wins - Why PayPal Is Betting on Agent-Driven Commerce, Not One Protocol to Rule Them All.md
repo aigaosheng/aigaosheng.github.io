@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Flexibility Wins - Why PayPal Is Betting on Agent-Driven Commerce, Not One Protocol to Rule Them All"
+description: "The Play: PayPal’s “Agentic Commerce Services” · Why This Matters: Flexibility > Standards Right Now · Implications for Merchants, Brands & Consumers"
 date: 2025-10-28 21:47:00 +0800
 type: post
 published: true

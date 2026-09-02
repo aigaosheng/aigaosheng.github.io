@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-18"
 series: "AI & Fintech"
+description: "HSBC and Google Cloud Forge Landmark AI Partnership for Global Banking · AI Becomes Fintech's New Shield as Nigeria's Fraud Losses Mount · Visa and…"
 date: 2026-06-18 21:08:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-04"
 series: "Investment & Startups"
+description: "SoftBank’s AI Investment Strategy Faces Investor Scrutiny Ahead of Earnings · Enterprise AI CRM Startup Superleap Raises New Funding from Peak XV’s Surge…"
 date: 2026-08-04 19:57:00 +0800
 type: post
 published: true

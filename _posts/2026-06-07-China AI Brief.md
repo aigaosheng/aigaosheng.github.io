@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-07"
 series: "US & China AI"
+description: "Tencent Hires Former OpenAI Researcher as Chief AI Scientist in AGI Push · Huawei Cloud Unveils Autonomous Driving Cloud Solution · Shanghai Tightens…"
 date: 2026-06-07 21:42:00 +0800
 type: post
 published: true

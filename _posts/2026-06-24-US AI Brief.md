@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-24"
 series: "US & China AI"
+description: "Five Eyes’ Alliance Issues Urgent Call to Action on Frontier AI and Cyber Risks · US Pressures Meta to Agree to Voluntary AI Security Reviews · US…"
 date: 2026-06-24 19:56:14 +0800
 type: post
 published: true

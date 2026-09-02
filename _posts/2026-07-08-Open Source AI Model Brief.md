@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source AI Model Brief — 2026-07-08"
 series: "AI Research & Open Source"
+description: "Tencent’s Hunyuan Hy3 Becomes One of the Largest New Open-Source AI Model Releases · China Considers Restrictions on Overseas Access to Advanced AI Models…"
 date: 2026-07-08 21:12:14 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "China AI+ Brief — 2026-05-25"
 series: "US & China AI"
+description: "IDC Forecasts $77 Billion Chinese Robotics Market by 2029 as AI Shifts to Physical Economy · NDRC to Issue New “AI+” Implementation Rules, Pushes Domestic…"
 date: 2026-05-25 20:07:00 +0800
 type: post
 published: true

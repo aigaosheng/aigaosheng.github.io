@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-05-25"
 series: "Singapore"
+description: "Singapore Maintains GDP Forecast at 2-4% Despite Q1 Beat and Mideast Risks · Google Cloud Launches \"AI Corridor\" Linking Southeast Asia to Silicon Valley…"
 date: 2026-05-25 20:13:00 +0800
 type: post
 published: true

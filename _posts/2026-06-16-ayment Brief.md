@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-16"
 series: "Payments"
+description: "Nuvei to Acquire Payoneer for $2.75 Billion · Ripple Invests in Flutterwave to Boost Stablecoin Use in Africa · Visa and OpenAI Partner on Agentic Commerce"
 date: 2026-06-16 20:40:00 +0800
 type: post
 published: true

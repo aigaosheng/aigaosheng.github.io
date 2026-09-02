@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2025 Payments Landscape"
+description: "Strategic Briefing for Fintech CEOs · The Payments Industry at a Turning Point · Slowing Growth, Rising Complexity · Fragmentation Is Structural, Not…"
 date: 2025-12-21 20:43:00 +0800
 type: post
 published: true

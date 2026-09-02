@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI's New Consumer Doppelgänger: The End of Traditional Market Research"
+description: "The Rise of Synthetic Shoppers"
 date: 2025-10-14 23:25:00 +0800
 type: post
 published: true

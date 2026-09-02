@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-14"
 series: "Investment & Startups"
+description: "Alphabet’s Early SpaceX Investment Has Exploded to a $94 Billion Stake · Pony.ai and Uber Plan More Than 2,000 Robotaxis Across Europe · Code Metal Wins…"
 date: 2026-08-14 19:51:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ready or Not, Enterprises Are Betting Big on AI — And the Stakes Are High"
+description: "The Pitfalls of Premature AI Integration"
 date: 2025-10-12 20:29:00 +0800
 type: post
 published: true

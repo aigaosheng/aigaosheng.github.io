@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — May 15, 2026"
 series: "Enterprise AI"
+description: "Anthropic Expands PwC Partnership for Enterprise AI Rollout · Enterprises Face Growing “AI Agent Sprawl” Problem · Anthropic Overtakes OpenAI in Enterprise…"
 date: 2026-05-15 20:43:00 +0800
 type: post
 published: true

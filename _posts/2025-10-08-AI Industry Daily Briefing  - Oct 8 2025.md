@@ -2,6 +2,7 @@
 layout: post
 title: "AI Industry Daily Briefing — October 8, 2025"
 series: "AI Industry News"
+description: "Anthropic Expands Global Operations to India · Google DeepMind Releases Gemini 2.5 Computer Use Model · IBM Partners with Anthropic to Integrate Claude…"
 date: 2025-10-08 22:43:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China Cracks Down on Algorithmic Pricing- A New Era for Fair E-Commerce"
+description: "From Price Personalization to Regulatory Red Lines · What the New Rules Change"
 date: 2026-01-14 20:10:00 +0800
 type: post
 published: true

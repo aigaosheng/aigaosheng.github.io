@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alibaba’s Qwen3.5 Medium Models Just Shifted the AI Landscape — Open-Source, High-Performance, and Desktop-Ready"
+description: "A New Category of AI: Frontier Performance Without the Cloud · The Tech That Makes It Work · Mixture-of-Experts (MoE) + Gated Delta Networks · Performance…"
 date: 2026-02-26 19:41:00 +0800
 type: post
 published: true

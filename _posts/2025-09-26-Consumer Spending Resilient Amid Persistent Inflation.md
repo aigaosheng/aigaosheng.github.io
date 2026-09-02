@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Consumer Spending Resilient Amid Persistent Inflation"
+description: "In August 2025, U.S. consumer spending demonstrated remarkable resilience, rising by 0.4% after adjusting for inflation. This marks the third consecutive…"
 date: 2025-09-26 23:50:00 +0800
 type: post
 published: true

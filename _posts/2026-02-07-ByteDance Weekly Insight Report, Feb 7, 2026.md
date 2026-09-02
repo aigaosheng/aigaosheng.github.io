@@ -2,6 +2,7 @@
 layout: post
 title: "ByteDance Weekly Insight Report, Feb 7, 2026"
 series: "AI Company Watch"
+description: "Real‑Time Systems at Scale · Regulatory & Workforce Impact"
 date: 2026-02-07 21:17:00 +0800
 type: post
 published: true

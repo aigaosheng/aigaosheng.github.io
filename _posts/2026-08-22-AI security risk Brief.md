@@ -3,6 +3,7 @@
 layout: post
 title: "AI security risk Brief — 2026-08-22"
 series: "AI Security & Risk"
+description: "Chinese Hacker Uses DeepSeek and Hermes Agent to Launch Autonomous Cyberattacks · Z.ai Holds Back GLM 5.3 Weights After Strong Hacking Scores · AWS Strands…"
 date: 2026-08-22 21:43:00 +0800
 type: post
 published: true

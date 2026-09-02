@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-05-30"
 series: "AI & Society"
+description: "New study maps “dark patterns” in AI chatbots · Meta employee-tracking AI project raises EU privacy concerns · Meta turns paid social-app tiers into an AI…"
 date: 2026-05-30 21:00:26 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-06"
 series: "Investment & Startups"
+description: "B Capital launches $500M early-stage fund amid soaring startup valuations · UK startups raise record $17B in H1 2026, driven by AI boom · Quantum Systems…"
 date: 2026-07-06 20:26:00 +0800
 type: post
 published: true

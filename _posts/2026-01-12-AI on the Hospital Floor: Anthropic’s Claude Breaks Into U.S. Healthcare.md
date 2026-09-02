@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI on the Hospital Floor- Anthropic’s Claude Breaks Into U.S. Healthcare"
+description: "From Chatbot to Medical Assistant · Why Healthcare, Why Now? · A Balancing Act: Power Meets Privacy"
 date: 2026-01-12 20:26:00 +0800
 type: post
 published: true

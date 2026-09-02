@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Claude Code Goes Browser-Based - Anthropic's Bold Move to Democratize AI-Powered Development"
+description: "The Terminal Is Dead; Long Live the Browser"
 date: 2025-10-21 21:07:00 +0800
 type: post
 published: true

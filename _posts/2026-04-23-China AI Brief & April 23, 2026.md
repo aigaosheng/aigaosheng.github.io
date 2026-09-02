@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief & April 23, 2026"
 series: "US & China AI"
+description: "China Reports AI Computing Power at 1,882 Exaflops—Clarifying the Metric Gap · China's State Council Unveils $14 Trillion AI-Driven Service Sector…"
 date: 2026-04-23 21:12:00 +0800
 type: post
 published: true

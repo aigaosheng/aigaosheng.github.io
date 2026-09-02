@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agentic AI Security Breaches Are Coming - 7 Ways to Make Sure It's Not Your Firm"
+description: "Introduction"
 date: 2025-10-21 22:14:00 +0800
 type: post
 published: true

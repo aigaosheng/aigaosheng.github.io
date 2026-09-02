@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+Startup Brief — 2026-05-26"
 series: "Investment & Startups"
+description: "Former OpenAI Researcher’s AI Science Startup Targets $7.5 Billion Valuation · Synthetic Biology Startup StrainX Raises $13M to Scale Precision…"
 date: 2026-05-26 21:11:22 +0800
 type: post
 published: true

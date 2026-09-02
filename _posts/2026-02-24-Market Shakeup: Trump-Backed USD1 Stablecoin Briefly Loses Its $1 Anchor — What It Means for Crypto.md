@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Market Shakeup- Trump-Backed USD1 Stablecoin Briefly Loses Its $1 Anchor — What It Means for Crypto"
+description: "The Incident: A Brief Depeg, Fast Rebound · Stablecoin Dynamics: Why Price Deviations Matter · Political and Market Context"
 date: 2026-02-24 21:09:00 +0800
 type: post
 published: true

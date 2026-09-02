@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sun Microsystems - 硅谷传奇的崛起与陨落
+description: "\"科技帝国因创新而崛起，唯战略与应变才能长存。\""
 date: 2025-09-16 09:31:00 +0800
 type: post
 published: true

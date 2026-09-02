@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI Weekly Insight Report Feb 22 – 28 2026"
 series: "AI Company Watch"
+description: "Strategic Capital Infusion: $110 B Funding Round · U.S. Defense Integration: Classified AI Deployment · Internal Governance Highlight: Employee Firing"
 date: 2026-02-28 17:18:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Even Top AI Agents Struggle with Real‑World Enterprise Docs — OfficeQA Exposes a Major Gap"
+description: "The Benchmark: From Olympiads to Real‑World Complexity · How Leading AI Agents Fared — The Results Are Grim · The Core Problem: It’s Not Reasoning — It’s…"
 date: 2025-12-10 20:52:00 +0800
 type: post
 published: true

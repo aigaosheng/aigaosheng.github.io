@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When ChatGPT Becomes Your Life Coach - The New Era of AI Gut‑Checks"
+description: "The Rise of the AI “Gut‑Check” · Key Insights & Deeper Reflections"
 date: 2025-11-03 21:35:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-05-25"
 series: "Payments"
+description: "Fed Proposes \"Lightweight\" Payment Accounts for Non-Banks · Visa Report: Fraud Shifts to AI-Powered Social Engineering · Singapore Regulator Revokes…"
 date: 2026-05-25 19:41:00 +0800
 type: post
 published: true

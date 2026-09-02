@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI & Tech Industry Insights: OpenAI, Anthropic, Meta, and Perplexity Updates – September 27, 2025"
 series: "AI Industry News"
+description: "Title: Anthropic's Global Expansion and Strategic Partnerships Propel AI Leadership"
 date: 2025-09-27 22:24:00 +0800
 type: post
 published: true

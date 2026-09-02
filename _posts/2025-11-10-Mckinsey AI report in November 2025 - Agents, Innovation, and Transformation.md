@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mckinsey AI report in November 2025 - Agents, Innovation, and Transformation"
+description: "Key Insights by Theme · Adoption Plateau: Widespread but Not Deep · AI Agents: Hype Meets Reality · Value Creation: Early Signals, Not Enterprise Impact"
 date: 2025-11-10 11:08:00 +0800
 type: post
 published: true

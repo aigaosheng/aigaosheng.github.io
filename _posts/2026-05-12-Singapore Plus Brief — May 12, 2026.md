@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Plus Brief — May 12, 2026"
 series: "Singapore"
+description: "Singapore Police to Launch Dedicated Cyber Command in July Summary — Singapore will establish a dedicated Cyber Command under the Police Force to combat…"
 date: 2026-05-12 21:15:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Huawei Takes Aim at Nvidia - AI Chip Battle Heats Up in South Korea"
+description: "Chinese tech giant Huawei is gearing up to launch its latest AI chips and related data-center hardware in South Korea in 2026, aiming to challenge Nvidia’s…"
 date: 2025-12-26 20:40:00 +0800
 type: post
 published: true

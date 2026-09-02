@@ -2,6 +2,7 @@
 layout: post
 title: "AI Quantum Computing Brief — 2026-07-06"
 series: "Quantum Computing"
+description: "IBM demonstrates quantum-assisted fusion material simulation breakthrough · Microsoft accelerates post-quantum cryptography rollout amid…"
 date: 2026-07-06 20:48:00 +0800
 type: post
 published: true

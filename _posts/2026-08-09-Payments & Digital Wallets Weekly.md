@@ -2,6 +2,7 @@
 layout: post
 title: "Payments & Digital Wallets Weekly"
 series: "Payments"
+description: "AI, Stablecoins and the Race to Build the Next Payment Infrastructure · Visa agrees $2.4bn BioCatch acquisition · Rabobank commits €2bn to AI · Wells Fargo…"
 date: 2026-08-09 16:51:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-05-28"
 series: "US & China AI"
+description: "Bank of America: $3 Trillion AI Infrastructure Cycle Is Just Beginning · Micron Surpasses $1 Trillion Market Cap as AI Memory Demand Surges · Fireworks AI…"
 date: 2026-05-28 20:19:00 +0800
 type: post
 published: true

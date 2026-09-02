@@ -3,6 +3,7 @@
 layout: post
 title: "AI research and Open-source LLM Brief — 2026-08-28"
 series: "AI research and Open-source LLM"
+description: "Tencent Releases Hy4 Preview, a 770B-Parameter Open-Source MoE Model · LLMs Demonstrate the Ability to Design Near-Optimal Operations-Research Algorithms…"
 date: 2026-08-28 20:56:00 +0800
 type: post
 published: true

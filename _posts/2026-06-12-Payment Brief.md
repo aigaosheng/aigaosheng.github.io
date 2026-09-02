@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-12"
 series: "Payments"
+description: "Visa Partners with OpenAI, Embeds Payment Network into ChatGPT · Mastercard Launches \"Agent Pay for Machines\" with Ripple and Coinbase · Visa Unveils…"
 date: 2026-06-12 14:30:00 +0800
 type: post
 published: true

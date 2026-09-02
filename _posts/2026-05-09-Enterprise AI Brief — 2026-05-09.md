@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-09"
 series: "Enterprise AI"
+description: "Headline: OpenAI, Anthropic, and Google’s enterprise push with private equity giants threatens commoditised IT services work ** Frontier AI labs are moving…"
 date: 2026-05-09 21:00:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Visa's New Protocol Could Be the Key to Safe AI Shopping—Here's What You Need to Know"
+description: "The AI Shopping Surge Is Here—But Can We Trust It?"
 date: 2025-10-16 23:14:00 +0800
 type: post
 published: true

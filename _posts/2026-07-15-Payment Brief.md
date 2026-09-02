@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-15"
 series: "Payments"
+description: "Stripe and Advent Offer More Than $53 Billion to Acquire PayPal · Vietnam's NCB Launches Cross-Border QR Payments for International Travelers · Federal…"
 date: 2026-07-15 21:00:00 +0800
 type: post
 published: true

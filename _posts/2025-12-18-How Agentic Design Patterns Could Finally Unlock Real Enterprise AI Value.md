@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Agentic Design Patterns Could Finally Unlock Real Enterprise AI Value"
+description: "From “Cute Demo” to Reliable Enterprise Tool · Making Agents Trustworthy: Safety and Evaluation · Beyond Prompt Tricks: The Rise of Context Engineering"
 date: 2025-12-18 20:50:00 +0800
 type: post
 published: true

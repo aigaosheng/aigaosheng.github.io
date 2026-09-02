@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paper - Nested Learning - The Illusion of Deep Learning Architectures"
+description: "Detailed Breakdown of the Paper · 2 Nested Optimization Problems · 3 Optimizers as Learning Modules · Architecture Design via Nested Learning"
 date: 2025-11-25 21:49:00 +0800
 type: post
 published: true

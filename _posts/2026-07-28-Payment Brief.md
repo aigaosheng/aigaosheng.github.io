@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-28"
 series: "Payments"
+description: "PayPal Raises Full-Year Outlook After Strong Q2 Results · Checkout.com Receives UAE Stored Value Facility Licence Approval · Cross River to Power X Money…"
 date: 2026-07-28 19:56:00 +0800
 type: post
 published: true

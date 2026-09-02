@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The timeline of TSLA AI Pivot"
+description: "Tesla's AI Pivot: An Interactive Analysis · From Dojo to Hybrid AI"
 date: 2025-09-03
 categories: [Tesla, AI]
 tags:

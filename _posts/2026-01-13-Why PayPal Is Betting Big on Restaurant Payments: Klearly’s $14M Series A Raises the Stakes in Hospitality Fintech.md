@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why PayPal Is Betting Big on Restaurant Payments- Klearly’s $14M Series A Raises the Stakes in Hospitality Fintech"
+description: "Rewriting the Rules of Hospitality Payments · Where Klearly Fits in the Bigger Fintech Picture"
 date: 2026-01-13 20:33:00 +0800
 type: post
 published: true

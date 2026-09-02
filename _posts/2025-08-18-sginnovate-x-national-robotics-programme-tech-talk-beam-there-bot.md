@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Summary of SGInnovate national robotics programme tech talk
+description: "On Aug 18, 2025, I attended the robotic tech talk to learn the status and knowledge of roboic in Singapore. SGInnovate NRF tech talk. The take way from the…"
 date: 2025-08-18 
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Paper Brief — 2026-07-03"
 series: "AI Research & Open Source"
+description: "Distributed Attacks in Persistent-State AI Control · LACUNA: Evaluating Localization Precision for LLM Unlearning · Multi-Agent Teams Hold Experts Back…"
 date: 2026-07-03 22:24:14 +0800
 type: post
 published: true

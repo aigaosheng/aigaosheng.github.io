@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Autonomous Air Superiority - Shield AI Unveils Its Runway-Free AI Fighter Jet"
+description: "A new kind of fighter"
 date: 2025-10-22 22:38:00 +0800
 type: post
 published: true

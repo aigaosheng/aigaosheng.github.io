@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Plus April 19, 2026"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by Impact) · Creo: From One-Shot Image Generation to Progressive, Co-Creative Ideation · Agent-Aided Design for Dynamic CAD Models…"
 date: 2026-04-19 18:29:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside the Race to Build a Virtual Human Cell — How AI Could Put a Lab in Your Browser"
+description: "What a “virtual cell” actually means · Who’s building them — and why it matters · Deeper reflections — the good, the risky, the weird · Practical scenarios…"
 date: 2025-10-18 22:38:00 +0800
 type: post
 published: true

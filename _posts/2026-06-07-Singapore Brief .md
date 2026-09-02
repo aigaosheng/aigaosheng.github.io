@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-06-07"
 series: "Singapore"
+description: "One-Third of Singapore’s Domestic Exports to Face New 12.5% US Tariff · Singapore Anchors SEA’s $1.1 Billion Climate Tech Funding Surge · Singapore Retail…"
 date: 2026-06-07 21:50:00 +0800
 type: post
 published: true

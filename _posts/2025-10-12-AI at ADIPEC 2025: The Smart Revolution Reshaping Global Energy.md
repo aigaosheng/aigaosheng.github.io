@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI at ADIPEC 2025: The Smart Revolution Reshaping Global Energy"
+description: "The Future of Energy Is Smart—and It’s Here"
 date: 2025-10-12 20:40:00 +0800
 type: post
 published: true

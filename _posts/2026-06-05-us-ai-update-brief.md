@@ -2,6 +2,7 @@
 layout: post
 title: "US AI update Brief — 2026-06-05"
 series: "US & China AI"
+description: "U.S. House lawmakers release draft bill to limit state AI regulation · U.S. officials discuss possible government equity stakes in leading AI firms…"
 date: 2026-06-05 20:02:16 +0800
 type: post
 published: true

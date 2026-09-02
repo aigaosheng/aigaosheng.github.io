@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coinbase Cranks Up Competition With New Prediction Market to Take On Robinhood"
+description: "What to Watch Next"
 date: 2025-12-13 19:00:00 +0800
 type: post
 published: true

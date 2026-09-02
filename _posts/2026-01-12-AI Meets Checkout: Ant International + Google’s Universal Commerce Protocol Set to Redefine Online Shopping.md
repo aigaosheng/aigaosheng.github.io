@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Meets Checkout- Ant International + Google’s Universal Commerce Protocol Set to Redefine Online Shopping"
+description: "From “Search” to “Buy”: A New Standard for AI Shopping · What Ant International Brings to the Table · Merchant Control & Brand Integrity · Trust & Security…"
 date: 2026-01-12 20:16:00 +0800
 type: post
 published: true

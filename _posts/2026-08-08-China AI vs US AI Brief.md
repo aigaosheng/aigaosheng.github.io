@@ -2,6 +2,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-08"
 series: "US & China AI"
+description: "China’s AI race hits a new bottleneck: high-quality Chinese-language training data · The US–China AI race is increasingly becoming a race against the clock…"
 date: 2026-08-08 17:18:00 +0800
 type: post
 published: true

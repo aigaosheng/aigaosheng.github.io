@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI in Quantitative Research - Transforming the Street"
+description: "Leading Implementations in Quantitative AI · 1 AQR Capital Management: AI Augmenting Factor Research · 2 Man Group: Agentic AI for Autonomous Signal…"
 date: 2025-12-06 21:29:00 +0800
 type: post
 published: true

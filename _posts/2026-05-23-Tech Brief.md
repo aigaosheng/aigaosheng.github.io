@@ -2,6 +2,7 @@
 layout: post
 title: "Tech Brief — 2026-05-23"
 series: "AI Industry News"
+description: "U.S. Government Commits $2 Billion to Quantum Computing, Takes Equity Stakes · Intel Launches \"SuperClaw\" Hybrid AI Solution, Cutting Cloud Token Costs by…"
 date: 2026-05-23 20:03:00 +0800
 type: post
 published: true

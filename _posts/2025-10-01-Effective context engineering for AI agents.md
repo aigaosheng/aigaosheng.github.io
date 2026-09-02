@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Effective context engineering for AI agents"
+description: "The rise of context engineering · Why context matters (and dies) · Anatomy of a well-curated context · Context retrieval & “just-in-time” strategies"
 date: 2025-10-01 21:16:00 +0800
 type: post
 published: true

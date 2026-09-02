@@ -3,6 +3,7 @@
 layout: post
 title: "AI research & open-source LLM Brief — 2026-09-01"
 series: "AI research & open-source LLM"
+description: "DeepSeek releases V4 Flash Vision as an MIT-licensed open-weight multimodal model · Microsoft Research targets gray failures in large-scale MoE LLM serving"
 date: 2026-09-01T20:46:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sesame Raises $250M to Put Conversational AI in Fashionable Smartglasses — Beta Now Open"
+description: "What happened (the quick facts) · Why this matters (and why the hype makes sense) · The risks (be realistic) · The strategic playbook (what Sesame likely…"
 date: 2025-10-22 21:30:00 +0800
 type: post
 published: true

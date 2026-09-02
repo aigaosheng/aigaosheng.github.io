@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Scored 95% – But Humans Didn’t Believe It Was AI"
+description: "AI Excels — Until Bias Steps In · Why Skepticism Matters for AI Adoption · Reframing the AI Narrative in the Enterprise · Glossary: Key Terms Explained"
 date: 2025-12-11 21:11:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singtel & Ericsson Forge the Future of Connectivity- 5G Advanced Becomes AI-Powered Digital Platform"
+description: "What to Watch Next"
 date: 2026-03-03 20:19:00 +0800
 type: post
 published: true

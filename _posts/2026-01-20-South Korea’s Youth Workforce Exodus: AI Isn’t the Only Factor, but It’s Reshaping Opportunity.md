@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "South Korea’s Youth Workforce Exodus- AI Isn’t the Only Factor, but It’s Reshaping Opportunity"
+description: "Beyond Headline AI: What’s Happening on the Ground · The AI Question: Job Killer or Job Changer? · Why Young Koreans Are Hanging Up Their Job Search…"
 date: 2026-01-20 20:29:00 +0800
 type: post
 published: true

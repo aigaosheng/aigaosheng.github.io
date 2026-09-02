@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "KakaoBank Big Bet on Southeast Asia - Inside Its Superbank Power Play"
+description: "From Investment to Innovation · Beyond Indonesia: A Broader Southeast Asia Strategy · What This Means for the Fintech Landscape"
 date: 2025-12-15 21:27:00 +0800
 type: post
 published: true

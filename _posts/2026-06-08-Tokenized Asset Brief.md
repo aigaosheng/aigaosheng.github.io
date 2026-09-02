@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-08"
 series: "Tokenized Assets"
+description: "Securitize Clears Key SEC Hurdle for NYSE Listing via SPAC Merger · Bybit Launches \"IPO Express\" Offering Tokenized SpaceX Shares at Primary Market Price…"
 date: 2026-06-08 22:06:00 +0800
 type: post
 published: true

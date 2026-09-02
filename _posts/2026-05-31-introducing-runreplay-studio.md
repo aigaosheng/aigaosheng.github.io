@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "RunReplay Studio- Turn Your Apple Health Runs into Narrated Tour-Guide Videos"
+description: "It's a tour guide, not just a route animation · What's in the box · Your data never leaves your machine · A few honest notes"
 date: 2026-05-31 23:10:28 +0800
 type: post
 published: true

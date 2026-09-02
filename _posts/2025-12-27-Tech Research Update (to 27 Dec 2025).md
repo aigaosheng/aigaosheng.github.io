@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update (to 27 Dec 2025)"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by Novelty & Impact) · Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics · Secret mixtures of experts…"
 date: 2025-12-27 22:16:00 +0800
 type: post
 published: true

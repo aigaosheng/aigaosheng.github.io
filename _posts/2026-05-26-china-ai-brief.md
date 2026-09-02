@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-05-26"
 series: "US & China AI"
+description: "China reportedly expands overseas travel curbs for top private-sector AI talent · Alipay launches AI Wallet and Token Pay for agentic commerce · China…"
 date: 2026-05-26 20:27:36 +0800
 type: post
 published: true

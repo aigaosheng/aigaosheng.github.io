@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily April 10, 2026"
 series: "Enterprise AI"
+description: "OpenAI: Enterprise AI Now Drives 40% of Revenue · Amazon Doubles Down with $200B AI Infrastructure Bet · Enterprise AI Data Centers Shift On-Prem for…"
 date: 2026-04-10 21:48:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Traditional Singaporean Coffee Breakfast – A Delicious Everyday Meal for the People
+description: "A \\$2 Taste of Tradition: Singapore’s Classic Coffee Breakfast · How I Learned to Love Black Coffee · Coffee, the Singapore Way"
 date: 2025-09-13 10:55:00 +0800
 type: post
 published: true

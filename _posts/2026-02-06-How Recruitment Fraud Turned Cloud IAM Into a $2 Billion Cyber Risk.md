@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Recruitment Fraud Turned Cloud IAM Into a $2 Billion Cybeçr Risk"
+description: "The Scam That Breaks In Without Breaking In · A New Kind of Cloud Attack Chain · Why This Works So Well · Shifting the Security Paradigm: Identity, Not…"
 date: 2026-02-06 20:47:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meet Viven: The AI Digital Twin That Lets You Query Unavailable Coworkers"
+description: "Backed by Big Names"
 date: 2025-10-16 22:57:00 +0800
 type: post
 published: true

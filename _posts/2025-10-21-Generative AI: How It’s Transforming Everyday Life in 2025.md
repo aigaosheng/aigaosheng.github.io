@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Generative AI - How It’s Transforming Everyday Life in 2025"
+description: "Introduction: The AI Revolution at Your Fingertips · How Generative AI is Already Changing Daily Life · Personalized Art and Design · Why Generative AI is…"
 date: 2025-10-21 20:57:00 +0800
 type: post
 published: true

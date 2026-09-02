@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk, and Compliance Brief — May 15, 2026"
 series: "AI Governance & Regulation"
+description: "US Lawmakers Launch Probe into Five AI Giants Source · Congressman Mike Lawler (.gov) · May 15, 2026 Summary · A bipartisan letter from Representatives…"
 date: 2026-05-15 20:46:00 +0800
 type: post
 published: true

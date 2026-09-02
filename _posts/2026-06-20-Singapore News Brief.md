@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-06-20"
 series: "Singapore"
+description: "SpaceX Listing Draws Overwhelming Interest from Singapore Retail Investors · Therme Singapore Construction Begins, Marking Asia's First Large-Scale…"
 date: 2026-06-20 20:53:00 +0800
 type: post
 published: true

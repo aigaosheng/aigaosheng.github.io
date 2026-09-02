@@ -3,6 +3,7 @@
 layout: post
 title: "AI security Brief — 2026-08-21"
 series: "AI Security & Risk"
+description: "AI Threats Are Everywhere — CISOs Shift Toward Risk-First Security · Enterprise AI Adoption Is Outpacing Data-Security Enforcement · RAND Calls for Layered…"
 date: 2026-08-21 21:28:00 +0800
 type: post
 published: true

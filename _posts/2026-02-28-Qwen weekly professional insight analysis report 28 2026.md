@@ -2,6 +2,7 @@
 layout: post
 title: "Qwen weekly professional insight analysis report 28 2026"
 series: "AI Company Watch"
+description: "Major AI Model Update — Qwen3.5 Open‑Source Release · Qwen Consumer Hardware Signals"
 date: 2026-02-28 17:38:00 +0800
 type: post
 published: true

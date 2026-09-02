@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-06-25"
 series: "Singapore"
+description: "Singapore Targets Global Leadership in AI Solutions · Economic Review Calls for Faster Adaptation to AI-Driven World · Singapore Retains 'Best Global…"
 date: 2026-06-25 19:52:00 +0800
 type: post
 published: true

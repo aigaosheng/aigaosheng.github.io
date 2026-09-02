@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fast, Tiny, and Smart: The Rise of Small Language Models"
+description: "What Makes Jamba Reasoning 3B Stand Out? · Why Small Models Are the Future"
 date: 2025-10-08 23:33:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI Tech Research Update — last 72 hours (Oct 20–23, 2025)"
 series: "AI Research & Open Source"
+description: "Top papers (selected by novelty, relevance, impact) — up to 10 · Demonstrating Real Advantage of Machine-Learning-Enhanced Monte Carlo for Combinatorial…"
 date: 2025-10-23 21:55:00 +0800
 type: post
 published: true

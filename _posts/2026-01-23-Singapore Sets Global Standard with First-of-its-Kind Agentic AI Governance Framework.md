@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore Sets Global Standard with First-of-its-Kind Agentic AI Governance Framework"
+description: "Why This Matters: Moving from Generative to Agentic AI · Core Structure: Four Pillars of Responsible Deployment · Real-World Implications and Applications…"
 date: 2026-01-23 22:05:00 +0800
 type: post
 published: true

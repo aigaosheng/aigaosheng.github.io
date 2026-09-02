@@ -2,6 +2,7 @@
 layout: post
 title: "Anthropic Weekly Update Report — Nov 8–15, 2025"
 series: "AI Company Watch"
+description: "Anthropic invests $50 billion in American AI infrastructure · Anthropic & Iceland Launch National AI Education Pilot · New Offices in Paris & Munich…"
 date: 2025-11-15 23:24:00 +0800
 type: post
 published: true

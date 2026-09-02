@@ -2,6 +2,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-11"
 series: "US & China AI"
+description: "Meta Moves Back Into Open-Weight AI to Counter China’s Growing Lead · Chinese AI Intensifies Price Competition Among US Model Providers"
 date: 2026-08-11 20:11 +0800
 type: post
 published: true

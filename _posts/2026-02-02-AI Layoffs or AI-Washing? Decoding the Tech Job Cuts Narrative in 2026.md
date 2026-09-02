@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Layoffs or AI-Washing? Decoding the Tech Job Cuts Narrative in 2026"
+description: "The Layoff Wave: Facts on the Ground · AI-Washing: What It Is and Why It Matters · Beyond the Hype: Economic and Human Impacts · What Experts Are Watching"
 date: 2026-02-02 19:51:00 +0800
 type: post
 published: true

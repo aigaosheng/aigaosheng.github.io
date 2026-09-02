@@ -2,6 +2,7 @@
 layout: post
 title: "Perplexity Weekly Brief — Comet on Android, GPT‑5.1, and Shopping Push as AI Browser Wars Heat Up"
 series: "AI Company Watch"
+description: "Comet Browser Launch on Android · Integration of GPT‑5.1 for Pro/Max Users · Launch of AI-Powered Shopping with PayPal Checkout · Forward‑Looking Analysis…"
 date: 2025-11-29 21:13:00 +0800
 type: post
 published: true

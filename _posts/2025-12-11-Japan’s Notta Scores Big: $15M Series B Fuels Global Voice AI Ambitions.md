@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Japan’s Notta Scores Big - $15M Series B Fuels Global Voice AI Ambitions"
+description: "In a bold move that underscores Asia’s growing footprint in the generative AI boom, Japanese voice-AI startup Notta has just secured a US $15 million…"
 date: 2025-12-11 21:21:00 +0800
 type: post
 published: true

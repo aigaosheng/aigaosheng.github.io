@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "he Rise of Agentic Payments - AI Agents Move From Assistants to Autonomous Financial Actors"
+description: "AI Agents Enter the Payment Flow as Banks Test Agentic Commerce · Visa and Lianlian Complete China’s First B2B Agentic Transaction · Natural Raises $30M to…"
 date: 2026-08-02 17:28:00 +0800
 type: post
 published: true

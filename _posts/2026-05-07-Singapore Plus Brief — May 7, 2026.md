@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Plus Brief — May 7, 2026"
 series: "Singapore"
+description: "Amazon Singapore Expands International Store Strategy, Cuts Local Fulfilment Roles · MAS Moves to Harmonise Securities Laws for Dual Listings · Singapore…"
 date: 2026-05-07 19:08:00 +0800
 type: post
 published: true

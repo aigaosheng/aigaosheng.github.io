@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-11"
 series: "US & China AI"
+description: "Trump to Meet AI CEOs, Floats Public Wealth Sharing · Executive Order Establishes Voluntary AI Cybersecurity Review Framework · Anthropic CEO Calls for…"
 date: 2026-06-11 20:30:00 +0800
 type: post
 published: true

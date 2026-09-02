@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "谷歌 Play 商店大升级：AI 助力，更智能、更个性化"
+description: "💡 不用记住应用名称，只要告诉 AI 你的 需求："
 date: 2025-09-23 21:37:00 +0800
 type: post
 published: true

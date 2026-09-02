@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-27"
 series: "Enterprise AI"
+description: "Clearlake and Google Cloud Forge Full-Stack Enterprise AI Partnership · Uniphore and Tech Mahindra Launch an Enterprise Agentic AI Factory · fileAI Raises…"
 date: 2026-08-27 20:58:00 +0800
 type: post
 published: true

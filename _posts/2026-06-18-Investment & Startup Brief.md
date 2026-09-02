@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — 2026-06-18"
 series: "Investment & Startups"
+description: "SpaceX to Acquire AI Coding Startup Cursor for $60 Billion · Chinese AI Lab DeepSeek Completes First Funding Round at Over $50 Billion Valuation…"
 date: 2026-06-18 21:12:00 +0800
 type: post
 published: true

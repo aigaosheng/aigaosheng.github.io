@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-05"
 series: "Investment & Startups"
+description: "Global Startup Funding Reaches Record High in H1 2026 · Venture Funding Slows Sharply as Investors Become More Selective · Indian Tech Startups Now Average…"
 date: 2026-07-05 17:00:00 +0800
 type: post
 published: true

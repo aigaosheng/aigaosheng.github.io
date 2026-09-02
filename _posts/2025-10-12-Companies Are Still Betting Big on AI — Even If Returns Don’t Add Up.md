@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Companies Are Still Betting Big on AI — Even If Returns Don’t Add Up"
+description: "What the survey reveals (the hard facts) · Why this matters — the mechanics of a self-reinforcing bubble · Real consequences for firms, workers and markets"
 date: 2025-10-12 17:45:00 +0800
 type: post
 published: true

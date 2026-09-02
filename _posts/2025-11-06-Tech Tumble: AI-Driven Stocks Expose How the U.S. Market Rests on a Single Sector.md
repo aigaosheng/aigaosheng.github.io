@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tech Tumble - AI-Driven Stocks Expose How the U.S. Market Rests on a Single Sector"
+description: "The recent wobble in AI-linked stocks is sounding an important alarm: the U.S. equity market is more dependent than ever on the technology sector. That’s…"
 date: 2025-11-06 23:09:00 +0800
 type: post
 published: true

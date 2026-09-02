@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Google Update Report (Jan 11–17 2026)"
 series: "AI Company Watch"
+description: "Gmail Enters the Gemini Era · Search Canvas Tips for AI-Powered Trip Planning · Report Summary & Forward Outlook"
 date: 2026-01-17 22:13:00 +0800
 type: post
 published: true

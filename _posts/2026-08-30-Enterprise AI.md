@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-30"
 series: "Enterprise AI"
+description: "Glean Bets Enterprise AI Will Be Won on Context · Alibaba Pushes QwenWork Toward Paid Enterprise AI · Google Expands Gemini Enterprise Into Legal Workflows"
 date: 2026-08-30 21:39:00 +0800
 type: post
 published: true

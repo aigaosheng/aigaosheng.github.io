@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Report January 31, 2026"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by novelty & impact) · Textual Equilibrium Propagation for Deep Compound AI Systems · Partial Feedback Online Learning · A Separable…"
 date: 2026-01-31 21:47:00 +0800
 type: post
 published: true

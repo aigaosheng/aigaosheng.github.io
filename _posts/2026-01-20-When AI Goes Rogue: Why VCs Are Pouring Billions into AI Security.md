@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Goes Rogue- Why VCs Are Pouring Billions into AI Security"
+description: "The Alarming Incident That Triggered Alarm Bells · Enter Shadow AI: The Invisible Risk · VCs See a Massive Market Opportunity · What This Means for…"
 date: 2026-01-20 20:07:00 +0800
 type: post
 published: true

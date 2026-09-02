@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Market Analysis - Echoes of the Dot-Com Era in Today’s Market and Future Implications
+description: "Historical Precedent: The Dot-Com Bubble · Parallels to Today’s Market · Key Differences Between Then and Now · Future Market Trend Forecast"
 date: 2025-09-15 22:17:00 +0800
 type: post
 published: true

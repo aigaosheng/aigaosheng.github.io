@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Will Updating Your AI Agents Help or Hamper Their Performance? Raindrop's New Tool Experiments Tells You"
+description: "🔍 Introduction"
 date: 2025-10-11 22:48:00 +0800
 type: post
 published: true

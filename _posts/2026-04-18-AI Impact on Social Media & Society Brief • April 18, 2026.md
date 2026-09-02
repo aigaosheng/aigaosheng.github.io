@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief | April 18, 2026"
 series: "AI & Society"
+description: "AI-Generated \"Slopaganda\" Reshapes Information Warfare on Social Platforms AI-generated propaganda—\"slopaganda\"—is increasingly deployed across social…"
 date: 2026-04-18 23:09:00 +0800
 type: post
 published: true

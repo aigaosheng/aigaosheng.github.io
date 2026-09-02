@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-10"
 series: "Payments"
+description: "Payoneer Global Surges 24% on Reports of $2.7 Billion Nuvei Acquisition Offer · Bank of America: Surging Demand for AI-Led Treasury & FX Solutions in Asia…"
 date: 2026-06-10 20:33:00 +0800
 type: post
 published: true

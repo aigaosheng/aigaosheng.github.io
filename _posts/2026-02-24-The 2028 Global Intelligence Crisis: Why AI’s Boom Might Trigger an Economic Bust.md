@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The 2028 Global Intelligence Crisis- Why AI’s Boom Might Trigger an Economic Bust"
+description: "AI: Productivity Hero or Hidden Risk? · Not a Prediction — But a Provocative Lens · Glossary of Key Terms"
 date: 2026-02-24 21:24:00 +0800
 type: post
 published: true

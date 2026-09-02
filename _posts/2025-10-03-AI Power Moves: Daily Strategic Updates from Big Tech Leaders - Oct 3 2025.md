@@ -2,6 +2,7 @@
 layout: post
 title: "AI Power Moves: Daily Strategic Updates from Big Tech Leaders - Oct 3 2025"
 series: "AI Industry News"
+description: "OpenAI — Strategic collaboration with Japan’s Digital Agency · Perplexity — Comet browser now free and globally available · Google (Developers / Gemini)…"
 date: 2025-10-03 22:35:00 +0800
 type: post
 published: true

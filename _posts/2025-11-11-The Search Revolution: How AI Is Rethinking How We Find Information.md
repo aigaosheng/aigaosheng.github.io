@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Search Revolution - How AI Is Rethinking How We Find Information"
+description: "A Brief Walk through the Evolution of Search · Enter AI Search: Promise and Peril · What’s Next? Hybrid Models and the Path Forward · Why It Matters to You…"
 date: 2025-11-11 22:21:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Qwen Weekly Intelligence Report, March 21, 2026"
 series: "AI Company Watch"
+description: "Alibaba Token Hub: CEO-Led AI Consolidation · Wukong Enterprise AI Agent Platform Launch · Fun-CineForge Open-Sourced: Multimodal Cinematic Dubbing"
 date: 2026-03-21 21:10:00 +0800
 type: post
 published: true

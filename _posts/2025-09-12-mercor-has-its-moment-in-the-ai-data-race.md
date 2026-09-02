@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mercor Strategic Position in the AI Data Race - A Comparative Analysis
+description: "Mercor's Strategic Position in the AI Data Race - A Comparative Analysis"
 date: 2025-09-12 23:45:00 +0800
 type: post
 published: true

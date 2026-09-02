@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Brownie Recipe Problem- Why Real-World AI Needs Fine-Grained Context to Deliver Instant Results"
+description: "Beyond Intent: The Multidimensional Challenge of Real-World Context · Microagents and Modular AI: A New Pattern · Why Fine-Grained Context Matters in…"
 date: 2026-02-05 21:32:00 +0800
 type: post
 published: true

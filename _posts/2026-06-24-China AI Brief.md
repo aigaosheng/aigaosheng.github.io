@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-24"
 series: "US & China AI"
+description: "Chain Expo Debuts AI Zone, Signaling \"System Capability Competition\" · AI+ Enters Large-Scale Commercialization Phase · WSJ: China's AI+ Consumption Plan…"
 date: 2026-06-24 20:00:14 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update (Up to Today — 9 Jan 2026)"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by Novelty & Impact) · Optimal Lower Bounds for Online Multicalibration*** · Robust Reasoning as a Symmetry‑Protected Topological…"
 date: 2026-01-10 19:33:00 +0800
 type: post
 published: true

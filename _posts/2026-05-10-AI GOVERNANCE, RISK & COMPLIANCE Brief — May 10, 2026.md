@@ -2,6 +2,7 @@
 layout: post
 title: "AI GOVERNANCE, RISK & COMPLIANCE Brief — May 10, 2026"
 series: "AI Governance & Regulation"
+description: "1. China Issues Comprehensive Guidelines for AI Agent Governance Xinhua / Qiushi · May 9, 2026 The Cyberspace Administration of China, NDRC, and MIIT…"
 date: 2026-05-10 20:42:00 +0800
 type: post
 published: true

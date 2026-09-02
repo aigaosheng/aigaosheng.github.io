@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How will AI transform Retail
+description: "Historical Perspective: Eight Waves of Retail Transformation · Industrial Revolution to 20th Century · The AI Era: Five Transformative Concepts · Concept…"
 date: 2025-09-03 
 type: post
 published: true

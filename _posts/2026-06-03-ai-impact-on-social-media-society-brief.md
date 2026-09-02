@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-03"
 series: "AI & Society"
+description: "Hackers exploited Meta’s AI support flow to hijack Instagram accounts · India’s communications minister warned that AI and deepfakes are creating a…"
 date: 2026-06-03 19:41:11 +0800
 type: post
 published: true

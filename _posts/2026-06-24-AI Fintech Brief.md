@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-24"
 series: "AI & Fintech"
+description: "SoFi Acquires Composer to Launch AI-Powered Automated Investing Platform · Backbase Acquires Kasisto to Advance Agentic Banking · MoonPay Acquires AI…"
 date: 2026-06-24 19:52:00 +0800
 type: post
 published: true

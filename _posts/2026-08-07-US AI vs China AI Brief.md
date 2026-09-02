@@ -2,6 +2,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-08-07"
 series: "US & China AI"
+description: "U.S. Investigates Potential Chinese Access to Restricted Nvidia AI Chips · AI Export Boom Continues to Power China's Trade Growth · Chinese Markets Rise on…"
 date: 2026-08-07 19:56:00 +0800
 type: post
 published: true

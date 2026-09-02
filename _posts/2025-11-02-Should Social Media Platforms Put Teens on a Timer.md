@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Should Social Media Platforms Put Teens on a Timer? The Case for Screen‑Time Caps"
+description: "What the Numbers Say · Health & Well‑being Correlations · Regulatory & Platform Moves · The Debate: Pros & Cons"
 date: 2025-11-02 21:48:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Claude Sonnet 4.5 vs. GPT-5-Codex: A Deep Dive into the Future of AI Coding Assistants"
+description: "Benchmarking the Future of Coding · Case Study: Refactoring a Matrix Tool"
 date: 2025-10-17 16:21:00 +0800
 type: post
 published: true

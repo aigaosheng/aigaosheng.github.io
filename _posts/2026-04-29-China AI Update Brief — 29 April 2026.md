@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Update Brief — 29 April 2026"
 series: "US & China AI"
+description: "DeepSeek V4 triggers massive demand surge for Huawei AI chips · DeepSeek V4 strengthens China’s AI self-sufficiency push · China intensifies AI chip race…"
 date: 2026-04-29 21:41:00 +0800
 type: post
 published: true

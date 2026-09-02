@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-19"
 series: "Payments"
+description: "Visa Seeks New Stablecoin Settlement Partner After Mastercard’s BVNK Acquisition · MoMo Expands QR Payments to More Than 60 International Markets · Clearco…"
 date: 2026-08-19 21:10:00 +0800
 type: post
 published: true

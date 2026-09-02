@@ -3,6 +3,7 @@
 layout: post
 title: "Startup & VC Intelligence"
 series: "Startup & VC Intelligence"
+description: "Keenable: Building Search Infrastructure for AI Agents · a16z Doubles Down on the Physical AI Economy · LineWise: Vertical AI Moves Onto the Factory Floor…"
 date: 2026-08-30 22:10:00 +0800
 type: post
 published: true

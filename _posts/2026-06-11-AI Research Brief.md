@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-11"
 series: "AI Research & Open Source"
+description: "Google DeepMind Funds $10M Multi-Agent Safety Research Initiative · Reka and Moonvalley Merge to Advance Physical AI · AI Bots Raiding Open Scientific Data…"
 date: 2026-06-11 20:34:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bank of England Chief Warns of Potential AI-Bubble as Markets Price Hopes on Uncertain Returns"
+description: "The governor of the Bank of England (BoE), Andrew Bailey, has raised the alarm on the possibility of a bubble forming around artificial intelligence…"
 date: 2025-11-06 23:05:00 +0800
 type: post
 published: true

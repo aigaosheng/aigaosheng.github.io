@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Intuit Strikes $100M+ Deal with OpenAI — TurboTax Enters the ChatGPT Era"
+description: "A Deep Integration Across the Intuit Ecosystem · Consumers Get a Smarter Guide Through Financial Tasks · Intuit Expands Its Reach Beyond Its Apps · OpenAI…"
 date: 2025-11-18 21:16:00 +0800
 type: post
 published: true

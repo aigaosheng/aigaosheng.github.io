@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-10"
 series: "Enterprise AI"
+description: "Major IT Leaders Shift Production AI Workloads from Public to Private Cloud · KPMG and Microsoft Deploy Agent 365 and Copilot Across 276,000 Professionals…"
 date: 2026-06-10 20:37:00 +0800
 type: post
 published: true

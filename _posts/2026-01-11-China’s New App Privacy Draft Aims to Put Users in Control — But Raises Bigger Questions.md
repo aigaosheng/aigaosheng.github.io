@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China’s New App Privacy Draft Aims to Put Users in Control — But Raises Bigger Questions"
+description: "The Hook: Apps Under the Microscope · Key Rules on the Table · Why This Matters Beyond China"
 date: 2026-11-10 18:10:00 +0800
 type: post
 published: true

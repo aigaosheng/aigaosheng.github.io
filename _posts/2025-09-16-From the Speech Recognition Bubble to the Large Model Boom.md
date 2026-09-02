@@ -1,6 +1,7 @@
 ---
 layout: post
 title: From the Speech Recognition Bubble to the AI Boom - Two Decades of Hype, Collapse, and Resurrection
+description: "Introduction: When History Rhymes · The Golden Age of Speech Recognition (1995–2005) · Enter the 2020s: The Large Model Boom · Echoes of the Past"
 date: 2025-09-16 22:46:00 +0800
 type: post
 published: true

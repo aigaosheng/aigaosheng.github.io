@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Arm's Strategic Move: Expanding AI Licensing to Empower Edge Innovation"
+description: "In Brief: Arm Holdings is broadening its Flexible Access licensing program to encompass its Armv9 edge AI platform. This initiative aims to lower entry…"
 date: 2025-10-20 23:27:00 +0800
 type: post
 published: true

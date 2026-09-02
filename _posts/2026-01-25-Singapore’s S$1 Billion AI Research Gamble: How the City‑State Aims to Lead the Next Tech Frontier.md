@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore’s S$1 Billion AI Research Gamble- How the City‑State Aims to Lead the Next Tech Frontier"
+description: "From Strategy to Scale: What the Funding Targets · Why Now? Strategic Imperatives and Global Context · Implications for Industry and Innovation"
 date: 2026-01-25 17:47:00 +0800
 type: post
 published: true

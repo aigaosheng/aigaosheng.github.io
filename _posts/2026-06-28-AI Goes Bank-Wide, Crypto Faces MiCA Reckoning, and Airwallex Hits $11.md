@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Goes Bank-Wide, Crypto Faces MiCA Reckoning, and Airwallex Hits $11"
+description: "In-Depth Highlight: Airwallex's $11B Leap Into Agentic Commerce · Market & Industry Insight: The Great AI Deployment Phase · Company & Startup Spotlight…"
 date: 2026-06-28 16:48:00 +0800
 type: post
 published: true

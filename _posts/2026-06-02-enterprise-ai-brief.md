@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-02"
 series: "Enterprise AI"
+description: "Snowflake and Anthropic expand their enterprise AI partnership · NVIDIA broadens partnerships with enterprise software vendors to build AI agents"
 date: 2026-06-02 20:27:52 +0800
 type: post
 published: true

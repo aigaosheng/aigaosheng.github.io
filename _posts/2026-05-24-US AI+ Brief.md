@@ -2,6 +2,7 @@
 layout: post
 title: "US AI+ Brief — 2026-05-24"
 series: "US & China AI"
+description: "White House Approves Secret $9 Billion AI Push for Intelligence Agencies · The $1.35 Trillion Pivot: AI Trade Shifts from Software to Physical Atoms · New…"
 date: 2026-05-24 16:27:00 +0800
 type: post
 published: true

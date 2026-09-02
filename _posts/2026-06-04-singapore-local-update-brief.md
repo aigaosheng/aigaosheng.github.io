@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore local update Brief — 2026-06-04"
 series: "Singapore"
+description: "Singapore Airlines in talks to order at least 50 widebody jets · A US forced-labour tariff probe could affect Singapore-linked trade flows · Filipino woman…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

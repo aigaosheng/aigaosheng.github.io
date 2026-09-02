@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-04"
 series: "Payments"
+description: "Mastercard adds stablecoin and extended-hours settlement options to its network · Enfuce expands into Ireland through the Payac migration · National Bank…"
 date: 2026-06-04 19:45:43 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic's Enterprise Lock-In Strategy - Geographic Expansion & Developer Ecosystem Consolidation, November 2–9, 2025"
+description: "OFFICIAL ANNOUNCEMENTS & RELEASES · EUROPEAN EXPANSION: Paris & Munich Office Openings · PRODUCT ECOSYSTEM: Claude Code Web & Mobile Expansion…"
 date: 2025-11-09 15:46:00 +0800
 type: post
 published: true

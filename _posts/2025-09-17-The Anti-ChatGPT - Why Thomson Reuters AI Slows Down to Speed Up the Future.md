@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Anti-ChatGPT - Why Thomson Reuters AI Slows Down to Speed Up the Future
+description: "Why Law Needs the Anti-ChatGPT · ChatGPT vs. Deep Research"
 date: 2025-09-17 10:10:00 +0800
 type: post
 published: true

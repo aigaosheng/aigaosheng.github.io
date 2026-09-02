@@ -2,6 +2,7 @@
 layout: post
 title: "AI × FINTECH DAILY BRIEF, April 1, 2026"
 series: "AI & Fintech"
+description: "Wednesday, April 1, 2026 | Edition #132 · AI Supercharges Financial Scams — 72% Say Harder to Detect · Mastercard Executes First “Agentic AI Payment”…"
 date: 2026-04-01 21:34:00 +0800
 type: post
 published: true

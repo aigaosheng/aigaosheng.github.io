@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How AI is Helping Scientists Invent New Materials
+description: "当我们谈到人工智能（AI），很多人会想到聊天机器人、画图工具。但最近，麻省理工学院（MIT）的研究人员开发了一种新工具，让 AI 可以发明全新的材料——这些材料有可能成为未来量子计算机、更快电子产品或高效电池的基础。"
 date: 2025-09-22 23:20:00 +0800
 type: post
 published: true

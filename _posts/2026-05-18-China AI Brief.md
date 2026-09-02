@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-05-18"
 series: "US & China AI"
+description: "Three Chinese Ministries Issue First National Guidelines for AI Agent Development · China Confirms Comprehensive AI Law in Development for First Time…"
 date: 2026-05-18 20:30:00 +0800
 type: post
 published: true

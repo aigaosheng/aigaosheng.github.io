@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-24"
 series: "Payments"
+description: "Worldline First in Europe to Bring Click to Pay to Recurring Payments · Global Payments Executive Highlights Stablecoins' Role in Enterprise Infrastructure"
 date: 2026-06-24 19:58:00 +0800
 type: post
 published: true

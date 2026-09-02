@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-05-19"
 series: "AI & Fintech"
+description: "Standard Chartered to Cut 7,000 Roles as AI Reshapes Corporate Functions · DBS CEO: \"Even a CEO's Job Can Be Replaced by AI,\" Pushes Agentic AI Deployment…"
 date: 2026-05-19 19:40:00 +0800
 type: post
 published: true

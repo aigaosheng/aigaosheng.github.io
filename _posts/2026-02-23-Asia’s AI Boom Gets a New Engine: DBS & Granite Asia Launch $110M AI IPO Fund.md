@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Asia’s AI Boom Gets a New Engine-DBS & Granite Asia Launch $110M AI IPO Fund"
+description: "A Strategic Partnership to Fuel AI Scale-ups · Why This Matters Now"
 date: 2026-02-23 21:04:00 +0800
 type: post
 published: true

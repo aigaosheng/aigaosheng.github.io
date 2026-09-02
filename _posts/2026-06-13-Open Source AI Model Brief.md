@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source AI Model Brief — 2026-06-13"
 series: "AI Research & Open Source"
+description: "Huawei Issues OpenPangu 2.0 “Open Source Call”, Promises World Number One · Multi-trillion Parameter Model “M3” Opens the Era of Native Multi-modality…"
 date: 2026-06-13 20:48:00 +0800
 type: post
 published: true

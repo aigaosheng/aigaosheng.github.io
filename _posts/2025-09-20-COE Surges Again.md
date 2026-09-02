@@ -1,6 +1,7 @@
 ---
 layout: post
 title: COE Surges Again - Category A Hits S$119,003 as Buyers Rush Ahead of Policy Changes
+description: "Impact on everyday Singaporeans · Voices from the ground · Explainer: What is COE and PQP? · What is a COE?"
 date: 2025-09-20 09:40:00 +0800
 type: post
 published: true

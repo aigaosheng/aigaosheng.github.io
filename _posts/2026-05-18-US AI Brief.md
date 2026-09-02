@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-05-18"
 series: "US & China AI"
+description: "Anthropic and OpenAI Escalate Moves into Corporate and Government Markets · MAGA Allies Break with White House, Urge Mandatory Government AI Approval · Big…"
 date: 2026-05-18 20:31:00 +0800
 type: post
 published: true

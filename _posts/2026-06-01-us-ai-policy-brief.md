@@ -2,6 +2,7 @@
 layout: post
 title: "US AI policy Brief — 2026-06-01"
 series: "AI Governance & Regulation"
+description: "Illinois Passes Nation's First Law Mandating Third-Party Audits of Frontier AI · Anthropic Announces Mythos Rollout to All Customers, Reaching $965B…"
 date: 2026-06-01 10:59:20 +0800
 type: post
 published: true

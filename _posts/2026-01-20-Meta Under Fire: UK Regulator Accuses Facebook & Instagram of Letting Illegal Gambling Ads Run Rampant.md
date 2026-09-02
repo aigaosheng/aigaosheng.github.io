@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meta Under Fire- UK Regulator Accuses Facebook & Instagram of Letting Illegal Gambling Ads Run Rampant"
+description: "What the UK Gambling Commission Is Saying · Why This Matters: Harm, Compliance Gaps, and Public Trust"
 date: 2026-01-20 20:53:00 +0800
 type: post
 published: true

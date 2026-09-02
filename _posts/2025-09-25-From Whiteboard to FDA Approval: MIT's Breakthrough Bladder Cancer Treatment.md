@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Whiteboard to FDA Approval: MIT's Breakthrough Bladder Cancer Treatment"
+description: "The Genesis of an Idea · From Lab to Market · The MIT Ecosystem: A Catalyst for Innovation"
 date: 2025-09-25 23:20:00 +0800
 type: post
 published: true

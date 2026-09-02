@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized asset Brief — 2026-06-01"
 series: "Tokenized Assets"
+description: "Binance adds U.S. stocks and signals a new tokenized shares push · Citi projects tokenized securities could reach $5.5 trillion by 2030"
 date: 2026-06-01 20:51:03 +0800
 type: post
 published: true

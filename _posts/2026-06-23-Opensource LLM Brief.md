@@ -2,6 +2,7 @@
 layout: post
 title: "Opensource LLM Brief — 2026-06-23"
 series: "AI Research & Open Source"
+description: "Zhipu AI's GLM-5.2 Stuns Silicon Valley as an Open-Source \"Daily Driver\" · JetBrains Unveils Mellum: An Open-Source LLM for Ultra-Low-Latency Inference…"
 date: 2026-06-23 20:00:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Update- Google (21 Mar 2026)"
 series: "AI Company Watch"
+description: "Personal Intelligence Broadly Available in the U.S. · Search Opt‑Out Options in Development for UK · Search UI Experiment: AI‑Generated Headlines…"
 date: 2026-03-21 20:52:00 +0800
 type: post
 published: true

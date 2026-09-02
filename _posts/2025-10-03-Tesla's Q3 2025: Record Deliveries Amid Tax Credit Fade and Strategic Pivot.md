@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tesla's Q3 2025: Record Deliveries Amid Tax Credit Fade and Strategic Pivot"
+description: "Tesla Inc. (NASDAQ: TSLA) reported a record 497,099 vehicle deliveries in Q3 2025, marking a 7.4% year-over-year increase and surpassing analyst…"
 date: 2025-10-03 23:30:00 +0800
 type: post
 published: true

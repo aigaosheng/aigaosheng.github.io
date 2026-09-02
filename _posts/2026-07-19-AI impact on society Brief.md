@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-19"
 series: "AI & Society"
+description: "Australia Moves Toward Stronger AI Oversight for Public Services and Consumer Protection · Global AI Governance Debate Intensifies Around Human-Centered…"
 date: 2026-07-19 21:21:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — May 4, 2026"
 series: "Investment & Startups"
+description: "Deviation Capital Spins Out of Two Sigma, Targets $300M Fund · Autonomous Vehicle Funding Concentrates Among Market Leaders · AI Compute Startup Tsavorite…"
 date: 2026-05-04 20:08:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Mondelez’s AI Revolution - Oreo Maker Sets New Marketing Standard"
+description: "Highlights & Key Insights · Implications & Recommended Actions"
 date: 2025-10-25 21:32:00 +0800
 type: post
 published: true

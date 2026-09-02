@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Pulse Weekly- AI Agents Drive Payments Revolution as Stablecoins Go Mainstream April 26, 2026"
 series: "AI & Fintech"
+description: "In‑Depth Highlight: HSBC's Stablecoin Licence Marks Institutional Crypto Inflection Point · Market & Industry Insight: Agentic AI Transforms Finance…"
 date: 2026-04-26 16:55:00 +0800
 type: post
 published: true

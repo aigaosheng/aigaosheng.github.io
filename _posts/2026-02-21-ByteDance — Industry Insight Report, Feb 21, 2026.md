@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ByteDance — Industry Insight Report, Feb 21, 2026"
+description: "Product Launch & Operational Moves (Optional) · Strategic Outlook & Forward‑Looking Considerations"
 date: 2026-02-21 20:21:00 +0800
 type: post
 published: true

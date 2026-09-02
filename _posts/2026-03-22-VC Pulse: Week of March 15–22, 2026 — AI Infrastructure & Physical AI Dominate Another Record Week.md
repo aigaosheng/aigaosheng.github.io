@@ -2,6 +2,7 @@
 layout: post
 title: "VC Pulse- Week of March 15–22, 2026 — AI Infrastructure & Physical AI Dominate Another Record Week"
 series: "Investment & Startups"
+description: "Trend Commentary & Actionable Insights"
 date: 2026-03-22 10:41:00 +0800
 type: post
 published: true

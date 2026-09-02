@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly updates on OpenAI Jan 31, 2026"
 series: "AI Company Watch"
+description: "OpenAI Strategic Funding & IPO Signals"
 date: 2026-01-31 22:08:00 +0800
 type: post
 published: true

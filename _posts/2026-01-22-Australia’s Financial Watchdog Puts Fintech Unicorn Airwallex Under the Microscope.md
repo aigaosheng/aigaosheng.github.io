@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Australia’s Financial Watchdog Puts Fintech Unicorn Airwallex Under the Microscope"
+description: "Regulator Tightens the Screws on Compliance · Why This Matters for Fintech and Global Payments · Airwallex Responds With Assurance and Cooperation…"
 date: 2026-01-22 20:33:00 +0800
 type: post
 published: true

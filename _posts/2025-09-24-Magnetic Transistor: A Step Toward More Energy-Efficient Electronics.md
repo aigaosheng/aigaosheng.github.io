@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Magnetic Transistor: A Step Toward More Energy-Efficient Electronics"
+description: "What Did the Researchers Do? · Why Is This Important?"
 date: 2025-09-24 23:44:00 +0800
 type: post
 published: true

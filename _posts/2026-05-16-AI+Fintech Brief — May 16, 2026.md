@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — May 16, 2026"
 series: "AI & Fintech"
+description: "Fiserv and OpenAI Partner to Bring Agentic AI to Thousands of Banks · Adoption Explodes: 75% of Financial Services Now Use AI · Anthropic Unveils \"Claude…"
 date: 2026-05-16 19:52:00 +0800
 type: post
 published: true

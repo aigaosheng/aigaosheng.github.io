@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reality Check - Why AI Still Can’t Break 70% Factual Accuracy — And What That Means for Enterprise AI"
+description: "The Factuality Wall: What the FACTS Benchmark Reveals · Beyond the Buzzwords: Factuality in Focus"
 date: 2025-12-11 21:01:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-29"
 series: "Enterprise AI"
+description: "OpenAI Holds First Executive Summit in Korea, Signaling Aggressive Enterprise Push · The Rise of the \"Forward Deployed Engineer\" as Tech Giants Pour…"
 date: 2026-05-29 20:58:00 +0800
 type: post
 published: true

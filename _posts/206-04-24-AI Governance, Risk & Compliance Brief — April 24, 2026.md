@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — April 24, 2026"
 series: "AI Governance & Regulation"
+description: "U.K. Regulator Embraces AI for Supervisory Oversight · Diligent Launches AI Board Member & Agentic GRC Workforce · Autonomous AI Threats Raise Governance…"
 date: 2026-04-24 21:46:00 +0800
 type: post
 published: true

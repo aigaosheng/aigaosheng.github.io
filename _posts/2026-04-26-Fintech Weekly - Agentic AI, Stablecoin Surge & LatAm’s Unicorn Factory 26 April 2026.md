@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly - Agentic AI, Stablecoin Surge & LatAm’s Unicorn Factory 26 April 2026"
 series: "AI & Fintech"
+description: "Agentic AI Comes to Banking — But Who’s Watching the Models? · Market & Industry Insight · Fraud Is Winning — And That Should Scare Every Fintech Executive"
 date: 2026-04-26 16:27:00 +0800
 type: post
 published: true

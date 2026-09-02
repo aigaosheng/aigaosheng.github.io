@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Turning Billions of Chip Errors into Insights - How AI is Reshaping Chip Verification"
+description: "Imagine uncovering billions of potential defects in a next-generation chip layout—then resolving them in minutes rather than weeks. That’s not sci-fi. It’s…"
 date: 2025-10-31 22:20:00 +0800
 type: post
 published: true

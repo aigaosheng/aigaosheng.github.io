@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic Unveils Claude Marketplace- The Next Big Move in Enterprise AI Ecosystems"
+description: "A Marketplace for AI-Powered Enterprise Tools · Solving the Enterprise Procurement Problem · The Broader Strategy: From Model Provider to AI Platform · Why…"
 date: 2026-03-07 16:29:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore update by sectors Brief — 2026-05-28"
 series: "Singapore"
+description: "Manufacturing Output Surges 17.6% in April, Electronics Lead on AI Demand · Economists See AI Boom Sustaining Singapore's Growth Momentum · Singapore…"
 date: 2026-05-28 20:24:00 +0800
 type: post
 published: true

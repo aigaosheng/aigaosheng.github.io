@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-30"
 series: "Tokenized Assets"
+description: "MEXC Lists Ondo’s Tokenized Strategy Preferred Stock, Expanding Tokenized Equity Access · STOKR Secures Luxembourg Licences Ahead of MiCAR Deadline…"
 date: 2026-06-30 20:30:00 +0800
 type: post
 published: true

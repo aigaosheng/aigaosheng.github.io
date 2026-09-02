@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Daily Newsletter — April 11, 2026"
 series: "AI Research & Open Source"
+description: "AI Systems Move Closer to “Research Intern-Level” Capability · AI Safety Fellowship Expands Frontier Research Investment · Agentic AI Ecosystems Become…"
 date: 2026-04-11 21:54:00 +0800
 type: post
 published: true

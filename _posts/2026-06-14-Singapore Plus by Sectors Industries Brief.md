@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Plus by Sectors & Industries Brief — 2026-06-14"
 series: "Singapore"
+description: "Chips Remain King of Singapore’s Exports Despite Regional Non-Tech Recovery · Singapore Stocks Rally as STI Surges 1.5% to Close at 5,072.34…"
 date: 2026-06-14 17:27:00 +0800
 type: post
 published: true

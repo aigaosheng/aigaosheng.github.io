@@ -2,6 +2,7 @@
 layout: post
 title: "AI × FINTECH DAILY BRIEF March 31, 2026"
 series: "AI & Fintech"
+description: "Tuesday, March 31, 2026 | Edition #131 · TODAY'S TOP 10 STORIES · Bank of America & U.S. Bank Push AI Into Core Operations — on the Same Day · OpenBox AI…"
 date: 2026-03-31 22:00:00 +0800
 type: post
 published: true

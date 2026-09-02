@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When a $10,000 Card Shuffler Becomes a Crime Scene - The High-Tech Poker Scam Unveiled"
+description: "Why the Machine Matters · Sports & Crime Cross-Over · What It Means for Poker Players, Operators & Regulators"
 date: 2025-10-25 21:40:00 +0800
 type: post
 published: true

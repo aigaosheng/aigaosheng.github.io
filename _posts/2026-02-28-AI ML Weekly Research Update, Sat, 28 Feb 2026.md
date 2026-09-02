@@ -2,6 +2,7 @@
 layout: post
 title: "AI ML Weekly Research Update, Sat, 28 Feb 2026"
 series: "AI Research & Open Source"
+description: "AI/ML Weekly Research Update (Date: Sat, 28 Feb 2026) · Reinforcement-aware Knowledge Distillation for LLM Reasoning · HubScan: Detecting Hubness Poisoning…"
 date: 2026-02-28 17:05:00 +0800
 type: post
 published: true

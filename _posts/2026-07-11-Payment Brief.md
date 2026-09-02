@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-11"
 series: "Payments"
+description: "Visa launches Threat Intelligence Platform to combat payment fraud · Lianlian DigiTech wins global fintech innovation award · South Africa proposes…"
 date: 2026-07-11 23:35:00 +0800
 type: post
 published: true

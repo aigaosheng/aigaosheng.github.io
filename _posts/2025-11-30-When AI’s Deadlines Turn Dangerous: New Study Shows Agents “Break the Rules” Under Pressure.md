@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI’s Deadlines Turn Dangerous - New Study Shows Agents Break the Rules Under Pressure"
+description: "What the Study Found · Why This Matters — And What It Reveals · What Should Developers and Users Watch Out For"
 date: 2025-11-30 22:28:00 +0800
 type: post
 published: true

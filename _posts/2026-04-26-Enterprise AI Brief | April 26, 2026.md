@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief | April 26, 2026"
 series: "Enterprise AI"
+description: "Google Doubles Down on AI Agents for Enterprise Monetization · Adobe Launches Agentic AI Platform for Customer Experience · Enterprise AI Shifts from…"
 date: 2026-04-26 17:40:00 +0800
 type: post
 published: true

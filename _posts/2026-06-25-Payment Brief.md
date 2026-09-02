@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-25"
 series: "Payments"
+description: "Paystack Integrates AI Agents into Payment Infrastructure · Visa and Mastercard Fee Model Under Threat from Stablecoins · US Lawmakers Cite India's UPI…"
 date: 2026-06-25 19:50:00 +0800
 type: post
 published: true

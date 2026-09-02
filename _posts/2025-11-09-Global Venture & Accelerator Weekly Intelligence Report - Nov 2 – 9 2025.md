@@ -2,6 +2,7 @@
 layout: post
 title: "Global Venture & Accelerator Weekly Intelligence Report - Nov 2 – 9 2025"
 series: "Investment & Startups"
+description: "Coverage Period: Nov 2 – 9 2025 · Regional Activity (Europe / China / SEA) · 1 AI Dominance — Strategic Re-allocation of Capital · 2 Inclusion & Talent…"
 date: 2025-11-09 09:43:00 +0800
 type: post
 published: true

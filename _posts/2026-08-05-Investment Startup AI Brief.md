@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup AI Brief — 2026-08-05"
 series: "Investment & Startups"
+description: "AI Infrastructure Startup Volta Reaches $2.4B Valuation With Nvidia and Major VC Backing · Nvidia Makes First Investment in Indian AI Startup Sarvam AI…"
 date: 2026-08-05 20:01:00 +0800
 type: post
 published: true

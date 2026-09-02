@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paper summary - General Agentic Memory Via Deep Research"
+description: "Research topic and objective · What is GAM — how it works · Key findings and conclusions · Critical data & facts (especially experimental results)"
 date: 2025-12-01 12:50:00 +0800
 type: post
 published: true

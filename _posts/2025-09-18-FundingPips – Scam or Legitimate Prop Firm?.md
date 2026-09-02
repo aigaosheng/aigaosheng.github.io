@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FundingPips – Scam or Legitimate Prop Firm?
+description: "Public Perception and User Experiences · Regulatory Status and Transparency"
 date: 2025-09-19 00:01:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google's Gemini 2.5: The AI That Clicks, Scrolls, and Fills Forms for You"
+description: "What Is Gemini 2.5 Computer Use? · Limitations and Future Prospects"
 date: 2025-10-08 23:26:00 +0800
 type: post
 published: true

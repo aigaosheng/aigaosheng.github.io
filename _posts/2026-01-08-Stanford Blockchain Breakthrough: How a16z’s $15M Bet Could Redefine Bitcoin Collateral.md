@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Stanford Blockchain Breakthrough - How a16z’s $15M Bet Could Redefine Bitcoin Collateral"
+description: "In a move that spotlights the growing collision between deep academic research and real-world crypto innovation, Andreessen Horowitz’s crypto arm (a16z…"
 date: 2026-01-08 20:19:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Finance and Market Brief — 2026-05-16"
 series: "Market Reports"
+description: "Global Markets Tumble as Inflation Fears Trigger Bond Sell-Off · 30-Year US Treasury Yield Breaches 5% for First Time Since 2007 · Traders Now Pricing in…"
 date: 2026-05-16 21:01:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source LLM Model Brief — 2026-07-05"
 series: "AI Research & Open Source"
+description: "Mistral releases Leanstral 1.5 for formal verification and theorem proving · Mistral teases next-generation multimodal open-weight model · Portugal’s…"
 date: 2026-07-05 20:05:14 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "No Cloud 8 Ball - APRA Warns Banks of Concentration Risk as They Flock to U.S. Cloud Providers"
+description: "What Banks Should Be Doing"
 date: 2025-10-28 21:37:00 +0800
 type: post
 published: true

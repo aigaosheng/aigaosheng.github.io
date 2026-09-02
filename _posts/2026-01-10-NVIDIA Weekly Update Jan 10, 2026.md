@@ -2,6 +2,7 @@
 layout: post
 title: "NVIDIA Weekly Update Jan 10, 2026"
 series: "AI Company Watch"
+description: "NVIDIA Kicks Off Next‑Gen AI With Rubin — Six New Chips, One AI Supercomputer · NVIDIA Expands Global DRIVE Hyperion Ecosystem to Accelerate Full Autonomy…"
 date: 2026-01-10 20:19:00 +0800
 type: post
 published: true

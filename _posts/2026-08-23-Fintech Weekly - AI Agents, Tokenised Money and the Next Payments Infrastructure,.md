@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly - AI Agents, Tokenised Money and the Next Payments Infrastructure, August 23 2026"
 series: "AI & Fintech"
+description: "Visa and Mastercard back the Agentic Payments Alliance · Binance launches Agent OS for AI-driven trading and payments · Natural secures a $100 million…"
 date: 2026-08-23 17:30:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-25"
 series: "Investment & Startups"
+description: "Ex-Infosys CEO Vishal Sikka's AI Venture Hang Ten Raises $32 Million Seed Round · NUS Enterprise Partners with Playground Global & Matter Venture Partners…"
 date: 2026-06-25 19:55:00 +0800
 type: post
 published: true

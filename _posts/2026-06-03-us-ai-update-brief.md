@@ -2,6 +2,7 @@
 layout: post
 title: "US AI update Brief — 2026-06-03"
 series: "US & China AI"
+description: "Trump signs executive order creating pre-release review path for frontier AI models · White House publishes the text of its AI innovation and security…"
 date: 2026-06-03 19:41:11 +0800
 type: post
 published: true

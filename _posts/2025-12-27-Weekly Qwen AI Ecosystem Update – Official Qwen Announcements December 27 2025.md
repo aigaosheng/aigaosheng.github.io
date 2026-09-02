@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Qwen AI Ecosystem Update – Official Qwen Announcements December 27 2025"
 series: "AI Company Watch"
+description: "Official Announcements from Qwen (Past Week) · Headline: Qwen‑Image‑Edit‑2511 Released — Enhanced Consistency and Editing Capabilities"
 date: 2025-12-27 22:59:00 +0800
 type: post
 published: true

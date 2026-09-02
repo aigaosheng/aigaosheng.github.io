@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Frontier Weekly — January 10, 2026"
 series: "AI & Fintech"
+description: "Navigating Growth, Regulation, and Innovation in 2026 · In-Depth Highlight: Global Fintech Funding Rebound · Market & Industry Insight · Company & Startup…"
 date: 2026-01-10 17:05:00 +0800
 type: post
 published: true

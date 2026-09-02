@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Great Rewiring- How AI, Geopolitics, and Workforce Shifts Are Redefining the Organization in 2026"
+description: "Three Tectonic Forces Reshaping Organizations · Technology Disruption: The AI Infusion · Economic Disruption: Fragmentation and Geopolitical Strain…"
 date: 2026-02-27 20:38:00 +0800
 type: post
 published: true

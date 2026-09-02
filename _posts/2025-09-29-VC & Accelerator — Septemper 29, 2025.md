@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VC & Accelerator — Septemper 29, 2025"
+description: "Quick takeaways & thematic signals (concise) · Short deal scoring (scale 1–5; 5 = highest) · Actionable signals for an investor / scout · What I tracked…"
 date: 2025-09-29 22:31:00 +0800
 type: post
 published: true

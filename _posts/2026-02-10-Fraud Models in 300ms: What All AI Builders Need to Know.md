@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fraud Models in 300ms - What All AI Builders Need to Know"
+description: "The High Stakes of Instant Decisioning · Lessons for AI Builders Beyond Finance · Speed Is Not Optional — It’s Foundational · Think in Patterns, Not Just…"
 date: 2026-02-10 20:10:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Open-Source AI Just Leveled Up - How DeepSeek Unveiled Models That Rival GPT‑5"
+description: "The Big Reveal: V3.2 and V3.2-Speciale · Benchmark Domination: Math, Coding, Reasoning — DeepSeek Holds Its Own · Why It Matters: Efficient Reasoning &…"
 date: 2025-12-02 20:26:00 +0800
 type: post
 published: true

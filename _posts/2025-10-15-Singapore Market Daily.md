@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Market Daily — **15 Oct 2025**"
 series: "Market Reports"
+description: "Breaking / Market-moving item · Social-media sentiment snapshot (X / Reddit / LinkedIn — last 24 hrs) · Quick fact-check log (what I verified) · Analysis…"
 date: 2025-10-15 21:45:00 +0800
 type: post
 published: true

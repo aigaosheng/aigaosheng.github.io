@@ -2,6 +2,7 @@
 layout: post
 title: "FinSignal Weekly — Where Payments Meet Intelligence, 21 March 2026"
 series: "Payments"
+description: "Mastercard's $1.8B BVNK Acquisition: The Stablecoin Infrastructure Land Grab Begins · Market & Industry Insight · Stablecoins Move From Hype to…"
 date: 2026-03-21 19:48:00 +0800
 type: post
 published: true

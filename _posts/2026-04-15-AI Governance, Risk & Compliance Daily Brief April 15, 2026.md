@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Daily Brief April 15, 2026"
 series: "AI Governance & Regulation"
+description: "Global AI governance accelerates with new regulations across Asia and Europe · Most companies would fail an AI governance audit · Hidden enterprise risks…"
 date: 2026-04-15 20:46:00 +0800
 type: post
 published: true

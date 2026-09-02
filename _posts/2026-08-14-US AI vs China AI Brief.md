@@ -2,6 +2,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-08-14"
 series: "US & China AI"
+description: "Apple Builds China-Specific AI Model With Alibaba Support · China's AI Stocks Command Valuations Above U.S. Peers · China Pushes for AI Governance…"
 date: 2026-08-14 19:33 +0800
 type: post
 published: true

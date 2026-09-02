@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Frontiers Weekly — Valuations, Open Banking & IPO Watch"
 series: "AI & Fintech"
+description: "Trade Republic’s Blockbuster Valuation and Market Position · Market & Industry Insight · From Open Banking Maturity to Compliance Complexity · Company &…"
 date: 2026-01-03 21:20:00 +0800
 type: post
 published: true

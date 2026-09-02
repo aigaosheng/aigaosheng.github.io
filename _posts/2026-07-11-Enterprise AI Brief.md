@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-11"
 series: "Enterprise AI"
+description: "Palantir CEO Raises Concerns Over Enterprise AI Economics and Vendor Power · OpenAI Launches GPT-5.6 Family as Enterprise AI Competition Intensifies…"
 date: 2026-07-11 23:33:00 +0800
 type: post
 published: true

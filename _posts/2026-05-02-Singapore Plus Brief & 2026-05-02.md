@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Plus Brief & 2026-05-02"
 series: "Singapore"
+description: "Singapore warns of sharper disruption as AI reshapes economy · Tripartite system upgraded for AI-driven labour transition · AI becomes central force in…"
 date: 2026-05-02 21:08:00 +0800
 type: post
 published: true

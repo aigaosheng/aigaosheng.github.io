@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DeepSeek’s Long-Text Breakthrough Faces Fire from AI Research Community"
+description: "What Researchers Found: Visual Merit or Linguistic Shortcut?"
 date: 2026-01-20 20:25:00 +0800
 type: post
 published: true

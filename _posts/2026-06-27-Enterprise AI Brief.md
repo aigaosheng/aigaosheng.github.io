@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-27"
 series: "Enterprise AI"
+description: "Enterprise AI Moves Toward Real-World Industrial Deployment as Investment Shifts Beyond Software · Enterprise Software Market Reassesses AI Disruption…"
 date: 2026-06-27 20:32:00 +0800
 type: post
 published: true

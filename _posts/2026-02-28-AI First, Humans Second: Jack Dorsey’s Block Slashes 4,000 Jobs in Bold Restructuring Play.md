@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI First, Humans Second- Jack Dorsey’s Block Slashes 4,000 Jobs in Bold Restructuring Play"
+description: "A Strategic Reset, Not a Retreat"
 date: 2026-02-28 18:15:00 +0800
 type: post
 published: true

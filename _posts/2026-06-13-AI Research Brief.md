@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-13"
 series: "AI Research & Open Source"
+description: "Google DeepMind Introduces 'Model Diffing' Agents to Find Behavioral Differences Between LLMs · Microsoft CSO Warns AI Is Evolving Beyond Human…"
 date: 2026-06-13 20:11:00 +0800
 type: post
 published: true

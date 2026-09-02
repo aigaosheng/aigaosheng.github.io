@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-15"
 series: "US & China AI"
+description: "ByteDance in Advanced Talks to Buy AI Chips from Domestic Supplier Iluvatar CoreX · Huawei Cloud Unveils Agentic AI Infrastructure Strategy to Build…"
 date: 2026-06-15 20:30:00 +0800
 type: post
 published: true

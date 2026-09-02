@@ -2,6 +2,7 @@
 layout: post
 title: "China AI update Brief — 2026-06-01"
 series: "US & China AI"
+description: "US clarifies AI chip export ban covers Chinese firms’ overseas subsidiaries · China tightens outbound investment rules after the Meta-Manus dispute…"
 date: 2026-06-01 20:51:03 +0800
 type: post
 published: true

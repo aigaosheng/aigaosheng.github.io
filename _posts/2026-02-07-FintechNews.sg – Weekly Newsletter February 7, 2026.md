@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter February 7, 2026"
 series: "Singapore"
+description: "Period: February 1 – February 7, 2026"
 date: 2026-02-07 17:45:00 +0800
 type: post
 published: true

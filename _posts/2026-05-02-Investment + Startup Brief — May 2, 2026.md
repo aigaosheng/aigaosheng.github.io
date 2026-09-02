@@ -2,6 +2,7 @@
 layout: post
 title: "Investment + Startup Brief — May 2, 2026"
 series: "Investment & Startups"
+description: "Venture capital remains highly concentrated in AI and infrastructure · Coatue launches AI data-center land acquisition venture · Pentagon expands…"
 date: 2026-05-02 20:35:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Breaking Into the Quantum Boom - How to Land a Role in the Emerging Quantum‑Computing Workforce"
+description: "What’s driving the change · What kinds of roles are out there? · How to prepare — five actionable tips · Implications for you (Sheng)"
 date: 2025-10-29 22:09:00 +0800
 type: post
 published: true

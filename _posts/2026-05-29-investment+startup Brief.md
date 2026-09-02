@@ -2,6 +2,7 @@
 layout: post
 title: "investment+startup Brief — 2026-05-29"
 series: "Investment & Startups"
+description: "Insurance Startup Corgi Hits $2.6B Valuation Weeks After Unicorn Round · Kalshi Raises $1 Billion Series F Led by Coatue · Mercury Valued at $5.2 Billion…"
 date: 2026-05-29 21:08:00 +0800
 type: post
 published: true

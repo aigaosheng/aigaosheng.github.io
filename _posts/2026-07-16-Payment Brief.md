@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-16"
 series: "Payments"
+description: "Stripe and Advent Launch $53B Bid for PayPal · Analysts Say Stripe Could Raise Its Offer for PayPal · European Digital Euro Advances Toward Pilot Phase…"
 date: 2026-07-16 21:37:00 +0800
 type: post
 published: true

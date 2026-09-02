@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fed Cuts Rates: Why Your Mortgage, Credit Card, and Savings Rates Might Not Drop Right Away"
+description: "Introduction: The Federal Reserve's recent quarter-point interest rate cut has sparked hope among borrowers and savers alike. However, don't expect…"
 date: 2025-09-25 23:23:00 +0800
 type: post
 published: true

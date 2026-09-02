@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DeepSeek at the Crossroads - V3.2 Launch Meets U.S. Strategic Scrutiny"
+description: "Report — Weekly DeepSeek Insights (Dec 14–Dec 20, 2025) · Official Release: DeepSeek‑V3.2 — Reasoning‑First AI Models Now Live · U.S. Strategic Scrutiny…"
 date: 2025-12-20 21:26:00 +0800
 type: post
 published: true

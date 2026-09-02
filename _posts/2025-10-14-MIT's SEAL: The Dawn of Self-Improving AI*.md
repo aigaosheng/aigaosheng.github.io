@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MIT's SEAL: The Dawn of Self-Improving AI"
+description: "Introduction"
 date: 2025-10-14 23:35:00 +0800
 type: post
 published: true

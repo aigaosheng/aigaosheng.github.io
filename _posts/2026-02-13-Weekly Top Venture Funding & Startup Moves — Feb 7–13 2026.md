@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Top Venture Funding & Startup Moves — Feb 7–13 2026"
 series: "Investment & Startups"
+description: "Key Trends & Insights"
 date: 2026-02-13 20:25:00 +0800
 type: post
 published: true

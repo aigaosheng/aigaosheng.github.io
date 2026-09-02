@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-07-01"
 series: "Singapore"
+description: "Singapore Data Centre Operators Face Tougher Rules Under Proposed Digital Infrastructure Bill · BDx Data Centers Considers IPO as AI Demand Drives Asia…"
 date: 2026-07-01 20:20:00 +0800
 type: post
 published: true

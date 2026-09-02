@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance & regulation Brief — 2026-08-24"
 series: "AI Governance & Regulation"
+description: "FDA Signals Formal Regulatory Guidance for Generative AI Medical Devices · South Korea Adopts National AI Ethics Principles · Singapore Tightens Governance…"
 date: 2026-08-24 19:43:00 +0800
 type: post
 published: true

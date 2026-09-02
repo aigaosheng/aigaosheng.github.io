@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "LinkedIn’s AI Overhaul- How One LLM Replaced Five Systems—and Cut Costs by Two-Thirds"
+description: "From Fragmentation to a Unified AI Brain · Why LLMs Changed the Game · The Architecture Shift: Retrieval + Generative Ranking · Cutting Costs to One-Third"
 date: 2026-03-17 20:51:00 +0800
 type: post
 published: true

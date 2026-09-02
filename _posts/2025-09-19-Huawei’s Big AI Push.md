@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Huawei’s Big AI Push — What It Means for China, the Tech Industry, and Global Competition
+description: "What Huawei Just Announced · Why the Timing Matters · How Huawei Plans to Deliver at Scale · What This Means for Competitors"
 date: 2025-09-19 22:41:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Singapore’s Dyna.Ai Secures Eight-Figure Series A to Scale Enterprise-Grade AI Globally"
+description: "From Pilots to Production: The New Era of Enterprise AI · Why This Matters: Measurable Results Over Hype"
 date: 2026-03-03 20:24:00 +0800
 type: post
 published: true

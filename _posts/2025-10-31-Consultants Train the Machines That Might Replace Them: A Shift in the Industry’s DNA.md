@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Consultants Train the Machines That Might Replace Them - A Shift in the Industry’s DNA"
+description: "The Story & Key Facts"
 date: 2025-10-31 22:07:00 +0800
 type: post
 published: true

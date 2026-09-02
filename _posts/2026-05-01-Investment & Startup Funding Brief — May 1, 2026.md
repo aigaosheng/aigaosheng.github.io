@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Funding Brief — May 1, 2026"
 series: "Investment & Startups"
+description: "Venture capital enters “two-speed market” as AI captures majority of global funding · Enterprise AI funding remains dominant with large late-stage rounds…"
 date: 2026-05-01 21:33:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-07"
 series: "Enterprise AI"
+description: "IBM Launches Compact z17 Mainframes and LinuxONE Systems for Enterprise AI · Lenovo Expands Hybrid AI Portfolio with Agentic AI Solutions · Airia…"
 date: 2026-07-07 21:00:00 +0800
 type: post
 published: true

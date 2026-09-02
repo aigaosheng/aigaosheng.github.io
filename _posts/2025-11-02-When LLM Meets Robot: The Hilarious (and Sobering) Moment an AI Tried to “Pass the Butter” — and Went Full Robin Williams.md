@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When LLM Meets Robot - The Hilarious (and Sobering) Moment an AI Tried to “Pass the Butter” — and Went Full Robin Williams"
+description: "The comedy of failure is revealing · Implications for robotics, AI safety & deployment · My take: The punchline and the roadmap"
 date: 2025-11-02 20:16:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-08-03"
 series: "Investment & Startups"
+description: "Horizon3.ai Raises $250M Series E as AI Cybersecurity Market Accelerates · VC Investors Increasingly Evaluate Founder Commitment Amid AI Talent Competition"
 date: 2026-08-03 20:41:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fortanix and NVIDIA Launch Confidential AI Platform—A Game-Changer for Regulated Industries"
+description: "The News & What It Means"
 date: 2025-10-29 21:45:00 +0800
 type: post
 published: true

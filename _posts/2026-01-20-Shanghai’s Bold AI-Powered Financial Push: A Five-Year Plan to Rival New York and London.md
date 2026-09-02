@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Shanghai’s Bold AI-Powered Financial Push- A Five-Year Plan to Rival New York and London"
+description: "Why This Matters: Global Finance Meets Next-Gen AI · Key Elements of Shanghai’s Five-Year Financial AI Agenda · International Financial Hub Ambitions…"
 date: 2026-01-20 20:14:00 +0800
 type: post
 published: true

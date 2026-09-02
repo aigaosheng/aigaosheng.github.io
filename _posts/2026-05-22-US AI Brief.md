@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-05-22"
 series: "US & China AI"
+description: "Trump Postpones AI Executive Order Citing Concerns Over US-China Competitive Edge · Pentagon Tests Alternative AI Models After Anthropic Supply Chain…"
 date: 2026-05-22 19:53:00 +0800
 type: post
 published: true

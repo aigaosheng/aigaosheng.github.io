@@ -2,6 +2,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-07-30"
 series: "US & China AI"
+description: "EU Launches $11 Billion AI Gigafactory Plan to Compete With US and China · US Debate Intensifies Over Whether to Restrict Chinese Open AI Models · China’s…"
 date: 2026-07-30 20:24:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-23"
 series: "AI & Fintech"
+description: "ACCA Survey Finds Global Finance Professionals Remain Skeptical of AI-Generated Insights · calQrisk Enters FCA Sandbox to Build AI Regulatory Oversight…"
 date: 2026-07-23 21:00:00 +0800
 type: post
 published: true

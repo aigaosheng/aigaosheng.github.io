@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The AI Arms Race Hits the SOC - How CrowdStrike & NVIDIA Are Giving Defenders the Edge"
+description: "Autonomous agents built for scale · Open source is front and center · Responding to “machine-speed” adversaries · The bigger implication: scaling elite…"
 date: 2025-11-01 22:13:00 +0800
 type: post
 published: true

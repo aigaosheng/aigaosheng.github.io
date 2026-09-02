@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bank Lending Risk Report 2025: Trends, Insights, Strategies"
+description: "Nonbank Financial Institutions and Systemic Stability · Commercial Real Estate and Consumer Lending · Market Risks and Bank Performance · Outlook and…"
 date: 2025-10-18 23:47:00 +0800
 type: post
 published: true

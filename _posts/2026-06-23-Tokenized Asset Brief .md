@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-23"
 series: "Tokenized Assets"
+description: "Baillie Gifford Launches First Fully On-Chain Tokenized Fund in the UK · OKX and ICE Appoint Andrew Cuomo to Lead NYSE Tokenization Venture · Tokenized RWA…"
 date: 2026-06-23 19:55:00 +0800
 type: post
 published: true

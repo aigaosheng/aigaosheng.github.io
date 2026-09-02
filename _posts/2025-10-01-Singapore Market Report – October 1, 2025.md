@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Market Report – October 1, 2025"
 series: "Market Reports"
+description: "1. Straits Times Index (STI) Rises 0.7% The STI closed at 4,300.16, marking its third consecutive day of gains. The broader market saw 329 gainers and 249…"
 date: 2025-10-01 22:50:00 +0800
 type: post
 published: true

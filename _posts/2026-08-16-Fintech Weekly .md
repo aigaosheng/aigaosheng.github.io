@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly — 16 August 2026"
 series: "AI & Fintech"
+description: "The Fintech Week That Banking, Payments and Stablecoins Moved Closer to the Mainstream · Revolut's French Banking Licence Signals the Next Stage of…"
 date: 2026-08-16 19:54:00 +0800
 type: post
 published: true

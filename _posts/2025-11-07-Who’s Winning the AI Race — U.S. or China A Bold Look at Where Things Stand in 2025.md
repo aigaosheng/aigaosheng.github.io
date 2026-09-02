@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Who’s Winning the AI Race — U.S. or China? A Bold Look at Where Things Stand in 2025"
+description: "Key Insights & Implications · Verdict & Where Things Are Likely Headed"
 date: 2025-11-07 20:43:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-18"
 series: "AI & Fintech"
+description: "Razorpay Bets on Vulcan, a Payments-Specific AI Foundation Model · Agentic AI's Financial Services Value Proposition Moves Beyond Cost Reduction · FinCEN's…"
 date: 2026-08-18 19:40:00 +0800
 type: post
 published: true

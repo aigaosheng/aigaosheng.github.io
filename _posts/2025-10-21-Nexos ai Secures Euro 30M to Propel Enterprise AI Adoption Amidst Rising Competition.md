@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nexos AI Secures Euro 30M to Propel Enterprise AI Adoption Amidst Rising Competition"
+description: "You may enjoy reading"
 date: 2025-10-21 21:17:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-07"
 series: "AI & Fintech"
+description: "U.S. Lawmakers Propose National AI Regulation Structure with Harsher Penalties for Fraud · ChatGPT’s Banking Integration Signals a Quiet Reordering of…"
 date: 2026-06-07 21:19:00 +0800
 type: post
 published: true

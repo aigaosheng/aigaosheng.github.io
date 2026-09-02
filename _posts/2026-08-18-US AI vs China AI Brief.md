@@ -3,6 +3,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-08-18"
 series: "US & China AI"
+description: "Nvidia Backs OpenAI’s Hyperscale Compute Expansion as the U.S. Infrastructure Race Accelerates · Baidu’s Results Show the Pressure to Turn China’s AI…"
 date: 2026-08-18 19:45 +0800
 type: post
 published: true

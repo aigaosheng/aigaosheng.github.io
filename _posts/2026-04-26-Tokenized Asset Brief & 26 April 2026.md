@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief & 26 April 2026"
 series: "Tokenized Assets"
+description: "Tokenized RWA Market Expands to $29.27B as Institutional Demand Accelerates · Hong Kong Launches Regulatory Framework for Tokenized Secondary Markets…"
 date: 2026-04-26 17:50:00 +0800
 type: post
 published: true

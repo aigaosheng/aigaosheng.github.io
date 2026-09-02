@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why AI Freelancers Are Still Floundering - Study Shows Agents Only Earn ~1% of Freelance Work"
+description: "Think that AI agents are poised to replace freelancers overnight? Think again. A new benchmark by Scale AI and Center for AI Safety (CAIS) finds that even…"
 date: 2025-10-30 21:37:00 +0800
 type: post
 published: true

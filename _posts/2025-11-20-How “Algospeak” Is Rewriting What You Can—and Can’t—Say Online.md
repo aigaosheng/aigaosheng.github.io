@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How “Algospeak” Is Rewriting What You Can—and Can’t—Say Online"
+description: "The Secret Grammar of Social Media · Behind the Code: Why People Are Rewriting Their Speech · Real-World Examples: When “Music Festival” Isn’t About Music…"
 date: 2025-11-20 21:45:00 +0800
 type: post
 published: true

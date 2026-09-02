@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-01"
 series: "AI & Society"
+description: "Malaysia begins enforcing an under-16 social media ban"
 date: 2026-06-01 20:51:03 +0800
 type: post
 published: true

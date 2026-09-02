@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google Faces Legal and Regulatory Challenges Amid AI Innovations"
+description: "Legal and Regulatory Developments · U.S. Court Blocks Brazilian Video Removal Order · EU Antitrust Fine Looms Under Digital Markets Act · EU Investigates…"
 date: 2025-09-30 17:50:00 +0800
 type: post
 published: true

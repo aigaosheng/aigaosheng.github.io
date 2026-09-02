@@ -2,6 +2,7 @@
 layout: post
 title: "US AI and China AI Brief — 2026-07-23"
 series: "US & China AI"
+description: "NVIDIA CEO urges Washington to avoid overreacting to AI fears · OpenAI cyber incident intensifies debate over U.S. and Chinese AI models · Japan…"
 date: 2026-07-23 21:13:00 +0800
 type: post
 published: true

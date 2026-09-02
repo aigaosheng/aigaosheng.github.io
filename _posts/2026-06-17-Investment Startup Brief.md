@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-06-17"
 series: "Investment & Startups"
+description: "SpaceX to Acquire AI Coding Unicorn Cursor for $60B in All-Stock Deal · New SPAC Market Technology Acquisition Files for $200M IPO · Pegasus Tech Ventures…"
 date: 2026-06-17 20:14:00 +0800
 type: post
 published: true

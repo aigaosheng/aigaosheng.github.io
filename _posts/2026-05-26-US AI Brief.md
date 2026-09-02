@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-05-26"
 series: "US & China AI"
+description: "Trump Delays AI Executive Order Following Pushback from Musk, Zuckerberg · OpenAI Model Solves 80-Year-Old Mathematical Conundrum · White House Eyes $9…"
 date: 2026-05-26 21:08:00 +0800
 type: post
 published: true

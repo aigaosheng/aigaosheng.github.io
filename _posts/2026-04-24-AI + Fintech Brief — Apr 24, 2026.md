@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — Apr 24, 2026"
 series: "AI & Fintech"
+description: "EU Regulator Warns AI Is Accelerating Financial Cyber Risk · AI-Native Fintech Dave Scales with CashAI and DaveGPT · JPMorgan’s AI Cash Optimization Tool…"
 date: 2026-04-24 21:30:00 +0800
 type: post
 published: true

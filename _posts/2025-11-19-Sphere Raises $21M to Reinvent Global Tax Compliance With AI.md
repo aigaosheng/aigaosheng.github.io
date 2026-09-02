@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Sphere Raises $21M to Reinvent Global Tax Compliance With AI"
+description: "The Origin Story: A Founder’s Frustration → A New Compliance Engine · What Sphere Actually Does — And Why It’s Different · An AI-Native Tax Brain: TRAM…"
 date: 2025-11-19 21:32:00 +0800
 type: post
 published: true

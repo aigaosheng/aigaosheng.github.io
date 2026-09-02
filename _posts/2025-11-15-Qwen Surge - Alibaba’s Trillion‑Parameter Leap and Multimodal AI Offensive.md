@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Qwen Surge - Alibaba’s Trillion‑Parameter Leap and Multimodal AI Offensive"
+description: "Product Launch & Deployment"
 date: 2025-11-15 23:56:00 +0800
 type: post
 published: true

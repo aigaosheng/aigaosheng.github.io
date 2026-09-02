@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Google Update — Google’s November AI & Infrastructure Push - Gemini 3, Nano Banana Pro, and the Enterprise Cloud Offensive"
 series: "AI Company Watch"
+description: "From feature upgrades to full platform infrastructure · Doubling down on enterprise / sovereign customers · Evolving ad‑tech infrastructure under the hood…"
 date: 2025-11-29 21:39:00 +0800
 type: post
 published: true

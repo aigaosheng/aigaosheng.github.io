@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hidden Minds - How Language Models Are Gaining a Glimpse Into Their Own Thinking"
+description: "What did they find · Things to keep in mind (Limitations) · Implications for you (and the industry)"
 date: 2025-10-30 21:02:00 +0800
 type: post
 published: true

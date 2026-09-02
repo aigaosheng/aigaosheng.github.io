@@ -2,6 +2,7 @@
 layout: post
 title: "Quantum AI Brief — 2026-08-05"
 series: "Quantum Computing"
+description: "Israel Launches National Quantum Computer Tender to Build Domestic Quantum Capability · Quantum AI Research Gains Attention at Shenzhen Conference as…"
 date: 2026-08-05 20:11:00 +0800
 type: post
 published: true

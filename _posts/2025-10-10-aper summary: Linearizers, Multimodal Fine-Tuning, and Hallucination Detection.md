@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "3 Paper summary: Linearizers, Multimodal Fine-Tuning, and Hallucination Detection"
+description: "Who Said Neural Networks Aren’t Linear? (Linearizers) · Methods — what the paper proposes · How to Teach Large Multimodal Models New Skills (Selective…"
 date: 2025-10-10 22:41:00 +0800
 type: post
 published: true

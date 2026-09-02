@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-29"
 series: "Enterprise AI"
+description: "Modus Raises $10 Million to Build Enterprise AI Infrastructure · ITC Infotech and Google Cloud Expand Enterprise Agentic AI Partnership · Enterprise…"
 date: 2026-07-29 21:34:00 +0800
 type: post
 published: true

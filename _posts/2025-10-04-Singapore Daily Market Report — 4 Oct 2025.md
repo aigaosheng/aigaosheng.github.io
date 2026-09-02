@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Daily Market Report — 4 Oct 2025"
 series: "Market Reports"
+description: "Companies in focus (news / moves in last 24 hours) · Breaking / market-moving items (verified) · Social media sentiment (snapshot, last 24 hours) · Quick…"
 date: 2025-10-04 18:22:00 +0800
 type: post
 published: true

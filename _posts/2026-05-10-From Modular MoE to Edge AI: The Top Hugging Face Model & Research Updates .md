@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Modular MoE to Edge AI- The Top Hugging Face Model & Research Updates"
+description: "The Hugging Face ecosystem continues to accelerate at a remarkable pace, with this week's trends signaling a decisive shift from simply scaling raw…"
 date: 2026-05-10 20:19:00 +0800
 type: post
 published: true

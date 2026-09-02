@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Systematic Evaluation of Large Language Models Before Corporate Integration
+description: "Safety & Risk Assessment · Bias & Fairness Testing · Factuality & Reliability Checks · Human Oversight & Monitoring"
 date: 2025-09-07 15:40:00 +0800
 type: post
 published: true

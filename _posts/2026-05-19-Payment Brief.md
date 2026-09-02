@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-05-19"
 series: "Payments"
+description: "Apple Pay India Launch Delayed by Commission Standoff with Banks · Mastercard and JD.com Partner to Build AI-Powered Commerce Ecosystem · FCA Launches…"
 date: 2026-05-19 20:15:00 +0800
 type: post
 published: true

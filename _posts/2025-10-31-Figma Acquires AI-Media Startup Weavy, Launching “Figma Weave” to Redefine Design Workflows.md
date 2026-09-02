@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Figma Acquires AI-Media Startup Weavy, Launching “Figma Weave” to Redefine Design Workflows"
+description: "Key facts & insights · Implications for the design and creative ecosystem · Why this is a timely move"
 date: 2025-10-31 21:17:00 +0800
 type: post
 published: true

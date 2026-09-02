@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-17"
 series: "Payments"
+description: "Nuvei to Acquire Payoneer in $2.75 Billion Cross-Border Payments Megadeal · Industry Giants Race to Dominate New AI Payment Channel · Visa Partners with…"
 date: 2026-06-17 20:10:00 +0800
 type: post
 published: true

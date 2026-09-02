@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-01"
 series: "Enterprise AI"
+description: "SAFE launches an AI security posture management platform for enterprise AI tools · Persistent Systems and Kong partner on secure, scalable enterprise AI…"
 date: 2026-06-01 20:51:03 +0800
 type: post
 published: true

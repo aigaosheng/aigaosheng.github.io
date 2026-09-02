@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-24"
 series: "Enterprise AI"
+description: "SAP Positions Industry-Specific AI as the Path Toward Autonomous Enterprises · Google Adds New Enterprise Security Controls for Workspace Studio · Alibaba…"
 date: 2026-08-24 19:20 +0800
 type: post
 published: true

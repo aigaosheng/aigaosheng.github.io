@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From AI Hype to Real Impact- The Enterprise Playbook That Actually Moves the Needle"
+description: "The End of AI Theater · What Actually Drives Enterprise AI Impact · From Agents to Agentic Systems · Orchestration Is the New Differentiator"
 date: 2026-03-27 20:08:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Plus by Sectors & Industries Brief — 2026-06-15"
 series: "Singapore"
+description: "Singapore Labour Market Report: Resident Employment Up, AI Redesigns Jobs More Than Cuts · US-Iran Peace Deal Triggers Rally in STI; S-Reits and Aviation…"
 date: 2026-06-15 20:54:00 +0800
 type: post
 published: true

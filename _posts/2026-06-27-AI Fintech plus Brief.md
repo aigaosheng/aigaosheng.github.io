@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech plus Brief — 2026-06-27"
 series: "AI & Fintech"
+description: "AI Becomes a Core Tool for Financial Regulators Fighting Cyber and Compliance Risks · Fintech Funding Rebounds as CRED Drives Major Startup Investment…"
 date: 2026-06-27 20:12:00 +0800
 type: post
 published: true

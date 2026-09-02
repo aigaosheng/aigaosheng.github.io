@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Investments Are Fueling America’s Economy—But Who’s Getting Left Behind?"
+description: "Key Insights & Reflections"
 date: 2025-10-25 22:09:00 +0800
 type: post
 published: true

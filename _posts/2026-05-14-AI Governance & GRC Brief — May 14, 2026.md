@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance & GRC Brief — May 14, 2026"
 series: "AI Governance & Regulation"
+description: "Rapid7 Launches Cyber GRC Program to Connect Compliance with Live Risk Data · Alation Bids to Close AI Governance Gap with Board-Ready Compliance Posture…"
 date: 2026-05-14 20:30:00 +0800
 type: post
 published: true

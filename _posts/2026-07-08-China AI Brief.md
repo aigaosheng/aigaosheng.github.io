@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-08"
 series: "US & China AI"
+description: "Beijing Considers Restricting Overseas Access to China’s Advanced AI Models · China AI Ecosystem Faces New Debate Over Global Expansion and Technology…"
 date: 2026-07-08 10:00:00 +0800
 type: post
 published: true

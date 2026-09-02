@@ -3,6 +3,7 @@
 layout: post
 title: "News of Top AI companies Brief — 2026-08-25"
 series: "AI Company Watch"
+description: "OpenAI Faces Alabama Investigation Over Rogue AI Cyberattack · Nvidia Enters Earnings Test as Investors Question Sustainability of AI Spending · Nvidia…"
 date: 2026-08-25 21:06:00 +0800
 type: post
 published: true

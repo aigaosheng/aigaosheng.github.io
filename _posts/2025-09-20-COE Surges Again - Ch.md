@@ -1,6 +1,7 @@
 ---
 layout: post
 title: COE再创新高 - 小型车配额证突破11.9万新元，买家抢跑政策调整前夕
+description: "小科普：什么是COE和PQP？"
 date: 2025-09-20 09:48:00 +0800
 type: post
 published: true

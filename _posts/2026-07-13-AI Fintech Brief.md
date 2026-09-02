@@ -2,6 +2,7 @@
 layout: post  
 title: "AI Fintech Brief — 2026-07-13"  
 series: "AI & Fintech"
+description: "Wall Street Banks Ramp Up Digital Assistants in Productivity Race · Global Regulators Call for Innovation as AI Risks Mount · China's Fintech Race Enters…"
 date: 2026-07-13 21:00:00 +0800  
 type: post  
 published: true  

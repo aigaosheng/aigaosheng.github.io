@@ -3,6 +3,7 @@
 layout: post
 title: "AI research & LLM model Brief — 2026-08-17"
 series: "AI Research & Open Source"
+description: "OpenAI commits $2 million to independent AI policy and resilience research · Lanyon AI emerges with a formal-language approach to scientific AI · SAP…"
 date: 2026-08-17T20:02:00 +0800
 type: post
 published: true

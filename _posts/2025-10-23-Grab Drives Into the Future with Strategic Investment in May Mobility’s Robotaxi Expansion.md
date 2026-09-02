@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Grab Drives Into the Future with Strategic Investment in May Mobility’s Robotaxi Expansion"
+description: "A New Chapter for Robotaxis in Southeast Asia · Key Details to Know · Why You Should Care"
 date: 2025-10-23 20:51:00 +0800
 type: post
 published: true

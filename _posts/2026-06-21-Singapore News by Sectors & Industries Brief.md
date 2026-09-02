@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News by Sectors & Industries Brief — 2026-06-21"
 series: "Singapore"
+description: "AI Capex Cycle Drives Institutional Inflows and Gains for Singapore's Listed Tech Manufacturers · Jardine Group Signals Further Asset Sales After $13…"
 date: 2026-06-21 17:18:00 +0800
 type: post
 published: true

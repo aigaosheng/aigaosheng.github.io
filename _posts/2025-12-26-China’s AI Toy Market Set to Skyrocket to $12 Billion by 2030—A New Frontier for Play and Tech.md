@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "China AI Toy Market Set to Skyrocket to $12 Billion by 2030—A New Frontier for Play and Tech"
+description: "China’s AI Toy Market Set to Skyrocket to $12 Billion by 2030—A New Frontier for Play and Tech"
 date: 2025-12-26 21:00:00 +0800
 type: post
 published: true

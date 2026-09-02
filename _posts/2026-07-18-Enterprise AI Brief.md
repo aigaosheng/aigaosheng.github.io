@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-18"
 series: "Enterprise AI"
+description: "AI Governance Emerges as the New Competitive Advantage for Enterprise AI Adoption · Meta Expands AI Infrastructure Ambitions With AWS Executive Hire…"
 date: 2026-07-18 21:12:00 +0800
 type: post
 published: true

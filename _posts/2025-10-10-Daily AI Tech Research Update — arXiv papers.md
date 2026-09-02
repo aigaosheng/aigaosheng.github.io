@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI/Tech Research Update — arXiv papers"
 series: "AI Research & Open Source"
+description: "Who Said Neural Networks Aren’t Linear? — arXiv:2510.08570. ([arXiv][1]) · How to Teach Large Multimodal Models New Skills — arXiv:2510.08564. ([arXiv][2])"
 date: 2025-10-10 22:37:00 +0800
 type: post
 published: true

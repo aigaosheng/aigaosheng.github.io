@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-13"
 series: "Enterprise AI"
+description: "DXC and Anthropic Form Global Alliance to Embed Claude in Mission-Critical Systems · TCS Partners With Anthropic to Bring Claude to 50,000 Employees and…"
 date: 2026-06-13 20:37:00 +0800
 type: post
 published: true

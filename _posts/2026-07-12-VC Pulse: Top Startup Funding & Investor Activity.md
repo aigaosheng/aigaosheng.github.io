@@ -2,6 +2,7 @@
 layout: post
 title: "VC Pulse Top Startup Funding & Investor Activity  — 2026-07-12"
 series: "Investment & Startups"
+description: "VC Pulse: Top Startup Funding & Investor Activity (Last 7 Days) · AI Infrastructure Continues to Dominate · AI + Science Is Accelerating · Climate & Deep…"
 date: 2026-07-12 17:41:00 +0800
 type: post
 published: true

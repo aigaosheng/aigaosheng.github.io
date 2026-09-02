@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Top AI & Tech Research Highlights - October 11, 2025"
+description: "PEAR: Phase Entropy Aware Reward for Efficient Reasoning · From Ethical Declarations to Provable Independence: An Ontology-Driven Optimal-Transport…"
 date: 2025-10-11 22:23:00 +0800
 type: post
 published: true

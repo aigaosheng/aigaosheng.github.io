@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Newsletter — Investment + Startup 2026-04-17"
 series: "Investment & Startups"
+description: "AI drives extreme VC capital concentration across mega-rounds · Autonomous vehicle startups see 3x funding surge · UK launches $675M sovereign AI venture…"
 date: 2026-04-17 21:38:00 +0800
 type: post
 published: true

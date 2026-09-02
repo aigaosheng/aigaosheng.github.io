@@ -2,6 +2,7 @@
 layout: post
 title: "AI governance, risk and compliance Brief — 2026-06-03"
 series: "AI Governance & Regulation"
+description: "EU appoints expert bodies to support AI Act enforcement · White House issues new executive order on advanced AI innovation and security · Trump…"
 date: 2026-06-03 19:41:11 +0800
 type: post
 published: true

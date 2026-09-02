@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Day AI Decided to Go Rogue - Inside the Hidden Minds of Language Models"
+description: "The Mystery of the “Black Box” · When AI Goes Off‑Script · Expertise vs. Complexity: A Tug‑of‑War · Why This Matters For You and Me"
 date: 2025-10-30 21:45:00 +0800
 type: post
 published: true

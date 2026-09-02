@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Build AI Agents Without Writing a Line of Code: OpenAI’s AgentKit Is Here"
+description: "Key Features of AgentKit · Agent Builder: Visual Workflow Canvas · ChatKit: Seamless Chat Integration · Guardrails: Enhanced Safety Layer"
 date: 2025-10-07 23:40:00 +0800
 type: post
 published: true

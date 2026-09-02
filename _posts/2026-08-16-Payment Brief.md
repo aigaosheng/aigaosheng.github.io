@@ -3,6 +3,7 @@
 layout: post
 title: "Payment Brief — 2026-08-16"
 series: "Payments"
+description: "Visa brings phone-based contactless card acceptance to Philippine SMEs · Sarawak Metro partners with Revenue Group on tokenised digital payments · Bangla…"
 date: 2026-08-16 20:24 +0800
 type: post
 published: true

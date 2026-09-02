@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-18"
 series: "US & China AI"
+description: "Moonshot AI’s Kimi K3 Triggers New Global AI Competition Debate · China’s Open-Weight AI Strategy Challenges Closed-Model Dominance · Kimi K3 Release…"
 date: 2026-07-18 21:25:14 +0800
 type: post
 published: true

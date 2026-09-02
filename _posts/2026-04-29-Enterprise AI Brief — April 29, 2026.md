@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — April 29, 2026"
 series: "Enterprise AI"
+description: "SAP Pushes “Autonomous Enterprise” Vision · Amazon Expands OpenAI Partnership for Enterprise AI Agents · Citigroup: Enterprise AI to Drive $4.2T Market by…"
 date: 2026-04-29 21:21:00 +0800
 type: post
 published: true

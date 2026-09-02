@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Payments Daily Newsletter April 4, 2026"
 series: "Payments"
+description: "Stablecoins Move Toward Mainstream Payments · Money20/20 Asia Highlights New Payment Infrastructure Era · Emerging Markets Drive Fintech Payment Innovation"
 date: 2026-04-04 20:48:00 +0800
 type: post
 published: true

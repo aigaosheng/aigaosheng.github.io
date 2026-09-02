@@ -2,6 +2,7 @@
 layout: post
 title: "China AI+ Brief — 2026-05-23"
 series: "US & China AI"
+description: "NDRC to Accelerate ‘AI+’ Rollout with New Policies and Legislation · IDC: China Enters ‘Super Cycle’ Phase 2, Moving to Enterprise Application · Lenovo &…"
 date: 2026-05-23 19:31:00 +0800
 type: post
 published: true

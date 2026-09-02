@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-01"
 series: "Payments"
+description: "Turkey Seeks Entry into Europe's SEPA Payment Network · JCB Contactless Payments Launch on Taipei Metro · MTN MoMo Reinforces Digital Payment Strategy in…"
 date: 2026-07-01 19:47:00 +0800
 type: post
 published: true

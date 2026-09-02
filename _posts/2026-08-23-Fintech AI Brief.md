@@ -3,6 +3,7 @@
 layout: post
 title: "Fintech AI Brief — 2026-08-23"
 series: "AI & Fintech"
+description: "Stripe’s OpenRouter Deal Signals a New Economic Layer for AI"
 date: 2026-08-23 20:54:00 +0800
 type: post
 published: true

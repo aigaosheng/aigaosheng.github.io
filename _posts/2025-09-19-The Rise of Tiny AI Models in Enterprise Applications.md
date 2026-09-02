@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Rise of Tiny AI Models in Enterprise Applications
+description: "Meta's MobileLLM-R1: A Case Study in Tiny AI · Industry Landscape and Alternatives · Advantages of Tiny AI Models"
 date: 2025-09-19 00:09:00 +0800
 type: post
 published: true

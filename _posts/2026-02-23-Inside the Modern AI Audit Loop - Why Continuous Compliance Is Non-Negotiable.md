@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Inside the Modern AI Audit Loop - Why Continuous Compliance Is Non-Negotiable"
+description: "From Maintenance Mode to Continuous Governance · Shadow Mode: A Safe Sandbox for AI Compliance · Real-Time Drift & Misuse Detection: Staying Ahead of…"
 date: 2026-02-23 20:45:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance & regulation Brief — 2026-08-21"
 series: "AI Governance & Regulation"
+description: "Finance Sector Needs Its Own AI Rulebook, Study Says · AI Communications Governance Moves From Guardrails to Investigation and Remediation · Governance…"
 date: 2026-08-21 21:00 +0800
 type: post
 published: true

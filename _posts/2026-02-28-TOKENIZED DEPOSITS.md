@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "TOKENIZED DEPOSITS"
+description: "A Comprehensive Technical Report"
 date: 2026-02-28 21:37:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI impact on society Brief — 2026-07-09"
 series: "AI & Society"
+description: "New Report Calls for Slowing the Race Toward Superintelligent AI · AI’s Growing Role in Philanthropy Raises Questions About Global Impact · AI Companions…"
 date: 2026-07-09 21:00:00 +0800
 type: post
 published: true

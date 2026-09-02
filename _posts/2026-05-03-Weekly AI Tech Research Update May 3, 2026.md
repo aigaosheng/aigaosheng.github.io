@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly AI Tech Research Update May 3, 2026"
 series: "AI Research & Open Source"
+description: "Key Themes This Week · Top Papers (Ranked by Novelty & Deployment Impact) · 1: Exploration Hacking: Can LLMs Learn to Resist RL Training? · 2: Strait…"
 date: 2026-05-03 17:26:00 +0800
 type: post
 published: true

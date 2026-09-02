@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-13"
 series: "Payments"
+description: "Adyen Raises 2026 Revenue Outlook as Payment Volumes Accelerate · Adyen Reports H1 2026 Results and Maintains Long-Term Margin Ambition"
 date: 2026-08-13 19:31:00 +0800
 type: post
 published: true

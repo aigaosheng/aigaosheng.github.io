@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "企业 AI 战略必看：开放 + 封闭模型的混合玩法"
+description: "开放 vs 封闭模型：一图看懂 · TCO（总体拥有成本）现实"
 date: 2025-09-23 22:20:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI × Fintech Daily Newsletter April 12, 2026"
 series: "AI & Fintech"
+description: "Revolut Rolls Out AI Assistant “AIR” to Millions of Users · Lloyds Deploys AI “Board Bot” to Augment Executive Decisions · AI-Driven Fraud Threats Surge…"
 date: 2026-04-12 19:52:00 +0800
 type: post
 published: true

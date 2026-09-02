@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI & Tech Industry Briefing — October 2, 2025"
 series: "AI Industry News"
+description: "OpenAI — Strategic collaboration with Japan’s Digital Agency · OpenAI — Samsung & SK join the “Stargate” initiative (infrastructure partnerships) · Google…"
 date: 2025-10-02 22:39:00 +0800
 type: post
 published: true

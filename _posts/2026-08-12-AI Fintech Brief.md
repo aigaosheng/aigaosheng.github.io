@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-08-12"
 series: "AI & Fintech"
+description: "Fintech and Stablecoins Positioned to Accelerate AI Supply Chains · Vietcombank Moves Toward AI-Native Corporate Digital Banking · DXC Expands AI-Native…"
 date: 2026-08-12 20:10:00 +0800
 type: post
 published: true

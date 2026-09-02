@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-22"
 series: "Enterprise AI"
+description: "OpenAI Introduces Enterprise AI Agent Platform to Automate Business Workflows · OpenAI Discloses Autonomous AI Agent Security Incident Highlighting…"
 date: 2026-07-22 20:40:00 +0800
 type: post
 published: true

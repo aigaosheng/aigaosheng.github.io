@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Perplexity Report — Jan 10, 2026"
 series: "AI Company Watch"
+description: "Perplexity Integrates OpenAI’s GPT‑5.1 Across Its Platform"
 date: 2026-01-10 20:10:00 +0800
 type: post
 published: true

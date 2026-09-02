@@ -2,6 +2,7 @@
 layout: post
 title: "AI Daily Newsletter April 7, 2026"
 series: "AI Industry News"
+description: "Microsoft Commits $5.5B to AI Expansion in Singapore · Meta Prepares to Open-Source Next-Gen AI Models · OpenAI Launches AI Safety Fellowship Program…"
 date: 2026-04-07 21:12:00 +0800
 type: post
 published: true

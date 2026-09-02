@@ -3,6 +3,7 @@
 layout: post
 title: "investment startup Brief — 2026-07-25"
 series: "Investment & Startups"
+description: "AI Security Startup AegisAI Raises $36M to Defend Against AI-Driven Phishing Attacks · Robotics Startup Atoms Raises $1.7B in Funding Led by Andreessen…"
 date: 2026-07-25 20:40:00 +0800
 type: post
 published: true

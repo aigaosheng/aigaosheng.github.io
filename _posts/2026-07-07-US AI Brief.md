@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-07"
 series: "US & China AI"
+description: "Anthropic Signs Major AI Infrastructure Deal, Highlighting the Race for Compute Capacity · AI Investment Reshapes US Technology Workforce as Companies Cite…"
 date: 2026-07-07 21:12:00 +0800
 type: post
 published: true

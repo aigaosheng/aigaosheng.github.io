@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-05-22"
 series: "US & China AI"
+description: "China’s Telecom Giants Launch Token Packages, Signaling Shift to AI-as-Utility · IDC: China Is Widening Its Lead in the Global AI Supercycle · Nvidia’s…"
 date: 2026-05-22 19:44:00 +0800
 type: post
 published: true

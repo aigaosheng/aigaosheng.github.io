@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OpenAI Backs Sam Altman’s Merge Labs to Build Non-Invasive Brain-AI Interfaces"
+description: "A New Frontier in Human-Computer Interaction · Why This Matters — Beyond the Buzz · A Bet on Non-Surgical Neural Interfaces · Blending Biology, Devices…"
 date: 2026-01-16 20:20:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Opensource LLM model Brief — 2026-06-29"
 series: "AI Research & Open Source"
+description: "DeepReinforce Releases Ornith-1.0: Open-Source Agentic Coding Models Rivaling Claude Opus 4.7 · China's Z.ai Releases GLM-5.2, an Open-Weight Model for…"
 date: 2026-06-29 19:51:00 +0800
 type: post
 published: true

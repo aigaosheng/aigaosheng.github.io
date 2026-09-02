@@ -3,6 +3,7 @@
 layout: post
 title: "AI impact on life Brief — 2026-08-24"
 series: "AI & Society"
+description: "AI Glasses Move Toward Becoming the Next Personal Computing Platform · China's Workers Face Growing Disruption as AI Enters the Job Market · AI May Be…"
 date: 2026-08-24 19:54:00 +0800
 type: post
 published: true

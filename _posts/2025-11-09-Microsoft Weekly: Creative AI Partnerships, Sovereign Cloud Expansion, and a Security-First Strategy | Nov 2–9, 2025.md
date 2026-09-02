@@ -2,6 +2,7 @@
 layout: post
 title: "Microsoft Weekly - Creative AI Partnerships, Sovereign Cloud Expansion, and a Security-First Strategy | Nov 2–9, 2025"
 series: "AI Company Watch"
+description: "Microsoft and Pantone Partner to Advance Creative AI Integration · Azure Expands Sovereign Cloud Capabilities with New SAN Support · Microsoft Warns of…"
 date: 2025-11-09 16:10:00 +0800
 type: post
 published: true

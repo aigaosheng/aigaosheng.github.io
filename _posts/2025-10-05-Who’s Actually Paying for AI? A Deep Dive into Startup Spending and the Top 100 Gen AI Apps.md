@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Who’s Actually Paying for AI? A Deep Dive into Startup Spending and the Top 100 Gen AI Apps"
+description: "Hook: The AI Spend Party Is Just Getting Started · The Big Reveal: Who’s Paying for AI (and Where) · What It All Means (aka My Take)"
 date: 2025-10-05 17:58:00 +0800
 type: post
 published: true

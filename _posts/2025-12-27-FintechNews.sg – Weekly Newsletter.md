@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter"
 series: "Singapore"
+description: "Digital Assets / Blockchain · Crypto / Digital Assets · Crypto / Digital Assets"
 date: 2025-12-27 21:56:00 +0800
 type: post
 published: true

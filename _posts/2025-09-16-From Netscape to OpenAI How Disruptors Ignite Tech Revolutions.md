@@ -1,6 +1,7 @@
 ---
 layout: post
 title: From Netscape to OpenAI - How Disruptors Ignite Tech Revolutions
+description: "In 1994, the Internet was a curiosity for academics and tech enthusiasts. Then came Netscape Navigator, a browser that made the web accessible to everyone.…"
 date: 2025-09-16 22:46:00 +0800
 type: post
 published: true

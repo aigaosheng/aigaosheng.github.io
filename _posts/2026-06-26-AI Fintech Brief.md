@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-26"
 series: "AI & Fintech"
+description: "MoneyGram Becomes Solana Validator to Power Institutional Blockchain Infrastructure · BPI to Deactivate Robinsons Bank Digital Channels in Final Merger…"
 date: 2026-06-26 21:00:00 +0800
 type: post
 published: true

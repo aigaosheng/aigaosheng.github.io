@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Payment Daily Newsletter, April 3, 2026"
 series: "Payments"
+description: "Monzo Exits US Market to Double Down on UK/EU Growth 🇬🇧 · 9fin Hits Unicorn Status with $170M Series C 🦄 · Cross River Bank Raises $50M for Embedded…"
 date: 2026-04-03 21:27:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter, January 10, 2026"
 series: "Singapore"
+description: "Crypto / Digital Assets · Digital Assets / Payments (Thailand & APAC)"
 date: 2026-01-10 17:45:00 +0800
 type: post
 published: true

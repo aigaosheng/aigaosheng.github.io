@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When AI Becomes the Boss’s Best Friend and Worst Enemy"
+description: "How AI May Amplify the Dark Side of Management · The core argument: AI, management and the worst instincts · Why this matters now · Outlook: Risks &…"
 date: 2025-11-03 22:02:00 +0800
 type: post
 published: true

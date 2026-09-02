@@ -2,6 +2,7 @@
 layout: post
 title: "Investment+startup Brief — 2026-06-01"
 series: "Investment & Startups"
+description: "Mecka AI raises $60 million to build robotics training data infrastructure · Samsung launches a third 200 billion won life sciences venture fund · MokN…"
 date: 2026-06-01 20:51:03 +0800
 type: post
 published: true

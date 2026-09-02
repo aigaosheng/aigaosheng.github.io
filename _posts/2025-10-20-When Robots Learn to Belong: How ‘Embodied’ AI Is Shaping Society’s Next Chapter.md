@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Robots Learn to Belong: How ‘Embodied’ AI Is Shaping Society’s Next Chapter"
+description: "What humans teach us about robots · The challenge: Hierarchical planning and unpredictability · Why “now” is the moment · A Proposal: “Cultural Robotics”"
 date: 2025-10-20 22:58:00 +0800
 type: post
 published: true

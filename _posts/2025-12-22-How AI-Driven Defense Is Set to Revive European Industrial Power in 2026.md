@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How AI-Driven Defense Is Set to Revive European Industrial Power in 2026"
+description: "From Defense Budgets to Digital Factories · Why This Matters for European Industrials · Risks on the Horizon"
 date: 2025-12-22 20:15:00 +0800
 type: post
 published: true

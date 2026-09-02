@@ -2,6 +2,7 @@
 layout: post
 title: "OpenAI Weekly Intelligence Report, March 7, 2026"
 series: "AI Company Watch"
+description: "GPT-5.4 Launch — The New Frontier Model Standard · Product Launch — ChatGPT for Excel & Financial Data Integrations · Infrastructure — OpenAI–AWS $100B…"
 date: 2026-03-07 20:26:00 +0800
 type: post
 published: true

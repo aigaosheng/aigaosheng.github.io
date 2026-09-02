@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Plus Brief — 2026-06-16"
 series: "US & China AI"
+description: "U.S. Government Orders Anthropic to Block Foreign Access to Advanced AI Models · Cybersecurity Leaders Urge Trump Administration to Reverse Anthropic…"
 date: 2026-06-16 20:45:00 +0800
 type: post
 published: true

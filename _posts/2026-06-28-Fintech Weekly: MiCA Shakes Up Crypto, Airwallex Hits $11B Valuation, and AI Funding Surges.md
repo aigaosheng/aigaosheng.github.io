@@ -2,6 +2,7 @@
 layout: post
 title: "Fintech Weekly- MiCA Shakes Up Crypto, Airwallex Hits $11B Valuation, and AI Funding Surges"
 series: "AI & Fintech"
+description: "Market & Industry Insight · Company & Startup Spotlight · Regulatory & Policy Watch · Quote of the Day"
 date: 2026-06-28 16:38:00 +0800
 type: post
 published: true

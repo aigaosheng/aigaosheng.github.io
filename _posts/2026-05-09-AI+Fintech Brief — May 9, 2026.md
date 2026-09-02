@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — May 9, 2026"
 series: "AI & Fintech"
+description: "FIS Frames Tokenized Deposits as Banks’ Answer to Stablecoins Source · PYMNTS.com · 2026-05-08 Summary · During its Q1 earnings call, FIS outlined a…"
 date: 2026-05-09 20:56:00 +0800
 type: post
 published: true

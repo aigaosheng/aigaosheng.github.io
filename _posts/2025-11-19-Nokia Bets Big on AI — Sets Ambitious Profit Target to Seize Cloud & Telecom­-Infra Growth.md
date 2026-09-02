@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nokia Bets Big on AI — Sets Ambitious Profit Target to Seize Cloud & Telecom­-Infra Growth"
+description: "The Strategy: Why It Matters"
 date: 2025-11-19 22:16:00 +0800
 type: post
 published: true

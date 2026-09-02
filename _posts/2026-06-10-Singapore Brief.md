@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Brief — 2026-06-10"
 series: "Singapore"
+description: "Applied Materials Opens US$600M Singapore Plant, Adding 1,000 Jobs Amid AI Chip Boom · Singapore Brings Back 19th-Century District Cooling Tech to Beat…"
 date: 2026-06-10 20:13:00 +0800
 type: post
 published: true

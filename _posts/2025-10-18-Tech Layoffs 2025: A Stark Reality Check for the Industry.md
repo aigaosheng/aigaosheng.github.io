@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tech Layoffs 2025: A Stark Reality Check for the Industry"
+description: "The tech industry is facing a sobering reality in 2025, with over 22,000 job cuts reported so far this year. This follows a staggering 150,000 layoffs…"
 date: 2025-10-18 18:09:00 +0800
 type: post
 published: true

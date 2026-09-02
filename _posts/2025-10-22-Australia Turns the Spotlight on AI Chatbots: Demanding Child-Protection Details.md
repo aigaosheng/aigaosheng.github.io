@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Australia Turns the Spotlight on AI Chatbots - Demanding Child-Protection Details"
+description: "Australia’s digital safety regulator has pushed major chatbot makers to open up about how they protect the most vulnerable users—namely, children. With…"
 date: 2025-10-22 21:49:00 +0800
 type: post
 published: true

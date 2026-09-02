@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Hype Meets Havoc- How Clawdbot’s Security Model Collapsed in 48 Hours"
+description: "A Viral Launch — and Immediate Trouble · What Broke — and Why · Zero Authentication by Design · Unvetted Extensions & Supply Chain Risk"
 date: 2026-01-30 20:16:00 +0800
 type: post
 published: true

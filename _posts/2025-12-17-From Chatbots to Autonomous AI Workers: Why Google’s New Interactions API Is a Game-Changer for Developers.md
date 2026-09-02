@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "From Chatbots to Autonomous AI Workers - Why Google’s New Interactions API Is a Game-Changer for Developers"
+description: "Breaking Out of the “Stateless” Trap · Stateful Agents: AI That Can Actually Do Things · A Unified Interface for Models and Agents · Not Just Another API…"
 date: 2025-12-17 20:52:00 +0800
 type: post
 published: true

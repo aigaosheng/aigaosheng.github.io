@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "India’s Call-Center Shakeup: How AI Chatbots Are Replacing Headset Workers — and Who Wins"
+description: "The story in a paragraph · Key facts & headlines · On the ground: human stories and company math · Deeper reflection: how to avoid a one-sided outcome"
 date: 2025-10-19 00:16:00 +0800
 type: post
 published: true

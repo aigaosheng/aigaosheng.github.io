@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IBM’s Quantum Leap - Key Algorithm Now Runs on Conventional Chips"
+description: "Research and Product Implications"
 date: 2025-10-24 21:59:00 +0800
 type: post
 published: true

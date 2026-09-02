@@ -2,6 +2,7 @@
 layout: post
 title: "Anthropic Weekly - Strategic Partnerships, Open Standards, and Scientific AI Integration – December 13–20, 2025"
 series: "AI Company Watch"
+description: "Anthropic Makes “Skills” an Open Standard for AI Workflows · Anthropic Partners with U.S. Department of Energy in Scientific AI Initiative · U.S.…"
 date: 2025-12-20 21:11:00 +0800
 type: post
 published: true

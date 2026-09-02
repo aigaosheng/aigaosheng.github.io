@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-07-15"
 series: "US & China AI"
+description: "DeepSeek Targets $74 Billion Valuation Ahead of Potential Shanghai IPO · Apple Intelligence Gains China Regulatory Approval Through Local AI Partnerships…"
 date: 2026-07-15 21:30:00 +0800
 type: post
 published: true

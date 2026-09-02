@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nvidia Poised to Drop Up to $1 Billion into AI Coding Startup Poolside — What It Signals for the AI Arms Race"
+description: "Implications for key players"
 date: 2025-10-31 21:10:00 +0800
 type: post
 published: true

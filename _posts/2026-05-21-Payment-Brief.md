@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-05-21"
 series: "Payments"
+description: "Trump Orders Fed to Evaluate Fintech Access to Payment Rails · Visa Reports Fraud Shifts to AI-Powered Social Engineering · Agentic Commerce Faces…"
 date: 2026-05-21 21:30:00 +0800
 type: post
 published: true

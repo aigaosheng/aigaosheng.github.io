@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — 2026-06-09"
 series: "US & China AI"
+description: "Moonshot AI Seeks $30 Billion Valuation in New Fundraising Push · Huawei Cloud Unveils “Agentic Infra” Strategy, Pivots to Agentic AI · China Issues First…"
 date: 2026-06-09 21:07:00 +0800
 type: post
 published: true

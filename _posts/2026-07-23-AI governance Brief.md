@@ -2,6 +2,7 @@
 layout: post
 title: "AI governance Brief — 2026-07-23"
 series: "AI Governance & Regulation"
+description: "UN Experts Warn AI Development Is Outpacing Governance · WAICO Positions Itself as a New Global AI Governance Platform · Executives Face Rising Costs From…"
 date: 2026-07-23 21:10:00 +0800
 type: post
 published: true

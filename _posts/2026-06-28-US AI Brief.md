@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-28"
 series: "US & China AI"
+description: "U.S. Moves Toward Restoring Anthropic’s Public AI Model Access After Security Review · AI Investment Becomes a Major Driver of U.S. Economic Growth"
 date: 2026-06-28 17:12:14 +0800
 type: post
 published: true

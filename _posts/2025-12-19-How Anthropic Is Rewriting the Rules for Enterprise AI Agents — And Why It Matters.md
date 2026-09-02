@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Anthropic Is Rewriting the Rules for Enterprise AI Agents — And Why It Matters"
+description: "What Are Agent Skills — And Why They’re a Game Changer · Open Standard Means Platform Interoperability · Enterprise Tools and Eco-System Play"
 date: 2025-12-19 22:09:00 +0800
 type: post
 published: true

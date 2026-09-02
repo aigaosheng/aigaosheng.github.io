@@ -2,6 +2,7 @@
 layout: post
 title: "MiniMax Weekly Insight Report February 28, 2026"
 series: "AI Company Watch"
+description: "Product & Tech Angle (MaxClaw Launch)"
 date: 2026-02-28 17:53:00 +0800
 type: post
 published: true

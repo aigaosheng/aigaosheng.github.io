@@ -2,6 +2,7 @@
 layout: post
 title: "enterprise AI Brief — 2026-07-01"
 series: "Enterprise AI"
+description: "Gartner: $234 Billion of Enterprise Software Spend Is at Risk from Agentic AI · Amazon Expands Enterprise AI Push with $1 Billion Agentic AI Initiative…"
 date: 2026-07-01 19:40:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-05-16"
 series: "AI Governance & Regulation"
+description: "EU Negotiators Reach Deal to Delay High-Risk AI Act Compliance Deadlines · UK Regulators Issue Urgent Warning to Financial Firms on Frontier AI Cyber…"
 date: 2026-05-16 20:17:00 +0800
 type: post
 published: true

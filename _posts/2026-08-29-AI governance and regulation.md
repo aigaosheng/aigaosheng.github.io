@@ -3,6 +3,7 @@
 layout: post
 title: "AI governance and regulation Brief — 2026-08-29"
 series: "AI governance and regulation"
+description: "G20 Set to Debate a U.S.-Led Light-Touch Approach to AI Regulation · China Issues Ethical Guidelines for AI Medical Imaging · Legal Frameworks Struggle to…"
 date: 2026-08-29 20:31:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Learns to Click Its Way into CAD — Turning 2D Sketches Into 3D Models"
+description: "Implications for You (and for Design/Tech)"
 date: 2025-11-23 21:40:00 +0800
 type: post
 published: true

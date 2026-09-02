@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why Ray Dalio Tells Investors to Love Gold Right Now (and What It Says About America’s Risk)"
+description: "Ray Dalio just turned X into a market classroom: he’s answering crowdsourced questions about gold, warns that U.S. debt and political fractures are a real…"
 date: 2025-10-19 17:25:00 +0800
 type: post
 published: true

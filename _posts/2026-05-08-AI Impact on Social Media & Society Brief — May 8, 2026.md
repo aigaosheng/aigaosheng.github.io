@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — May 8, 2026"
 series: "AI & Society"
+description: "1. EU Agrees to Weakened AI Act, Delaying High-Risk Rules to 2027 ** EU countries and lawmakers have reached a provisional agreement to delay the…"
 date: 2026-05-08 20:57:00 +0800
 type: post
 published: true

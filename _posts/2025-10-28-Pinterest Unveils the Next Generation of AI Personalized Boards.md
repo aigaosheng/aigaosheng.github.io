@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pinterest Unveils the Next Generation of AI Personalized Boards"
+description: "Main Insights and Features · Balancing Innovation with Moderation"
 date: 2025-10-28 21:37:00 +0800
 type: post
 published: true

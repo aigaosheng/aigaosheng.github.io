@@ -2,6 +2,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-05"
 series: "US & China AI"
+description: "Global Markets Rally as AI Infrastructure Spending Continues to Accelerate · Commentary Highlights Diverging U.S. and China AI Strategies · AI Competition…"
 date: 2026-08-05 19:37:00 +0800
 type: post
 published: true

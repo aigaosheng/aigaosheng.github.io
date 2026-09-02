@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News+ Brief — 2026-05-24"
 series: "Singapore"
+description: "Foreign Minister Vivian Balakrishnan Embarks on Rare Five-Day North Asia Visit · Singapore Surges Past Indonesia as Largest Southeast Asian Stock Market…"
 date: 2026-05-24 16:42:00 +0800
 type: post
 published: true

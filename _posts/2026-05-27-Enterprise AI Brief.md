@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-27"
 series: "Enterprise AI"
+description: "Gartner Warns Uniform AI Agent Governance Will Drive 40% of Enterprises to Decommission Agents by 2027 · Persistent Systems and Kong Partner on Enterprise…"
 date: 2026-05-27 21:04:00 +0800
 type: post
 published: true

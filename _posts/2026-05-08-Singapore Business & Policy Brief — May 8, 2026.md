@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore Business & Policy Brief — May 8, 2026"
 series: "Singapore"
+description: "1. Singapore Posts Record Tourism Receipts in 2025 Xinhua · May 8, 2026 Singapore achieved its highest-ever tourism receipts in 2025, with international…"
 date: 2026-05-08 21:20:00 +0800
 type: post
 published: true

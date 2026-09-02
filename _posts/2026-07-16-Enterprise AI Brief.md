@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-16"
 series: "Enterprise AI"
+description: "Airbus Selects Scaleway for Sovereign Enterprise AI and Defense Workloads · Tencent Emerges as Enterprise AI Agent Leader, Analysts Say · Enterprise AI…"
 date: 2026-07-16 21:40:00 +0800
 type: post
 published: true

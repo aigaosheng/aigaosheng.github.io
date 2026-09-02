@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-08-31"
 series: "Enterprise AI"
+description: "Enterprises Shift From AI Adoption to Organizational Reinvention · Kyndryl and Google Cloud Demonstrate Agentic AI for Bank KYC · AMD, Cisco and HUMAIN…"
 date: 2026-08-31 20:25:00 +0800
 type: post
 published: true

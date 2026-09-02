@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Technology Company Updates — 29 Sep 2025"
+description: "OpenAI — OpenAI & NVIDIA strategic systems partnership · In-Depth Insight & Analysis · OpenAI — New parental controls for ChatGPT & teen safety resources…"
 date: 2025-09-29 22:00:00 +0800
 type: post
 published: true

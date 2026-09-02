@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Invisible Threat: How AI Could Help Hackers Plant Flaws in Computer Chips"
+description: "What the Study Found · What Can Be Done?"
 date: 2025-10-20 22:55:00 +0800
 type: post
 published: true

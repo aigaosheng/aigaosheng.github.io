@@ -2,6 +2,7 @@
 layout: post
 title: "Chinese AI vs US AI — Daily Newsletter April 9, 2026"
 series: "US & China AI"
+description: "American AI Sector Unites to Curb Chinese AI “Theft” · Alibaba Builds Massive 10,000‑Chip Chinese AI Cluster · FCC Poised to Ban Chinese Labs from U.S.…"
 date: 2026-04-09 21:38:00 +0800
 type: post
 published: true

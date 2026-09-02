@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-25"
 series: "Enterprise AI"
+description: "Anthropic Launches \"Claude Tag\" to Embed AI Agents in Slack Workflows · Vishal Sikka Launches Hang Ten Systems with $32M to Accelerate Enterprise AI…"
 date: 2026-06-25 19:53:00 +0800
 type: post
 published: true

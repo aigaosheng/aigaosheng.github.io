@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Brings Gemini to Chrome - The Dawn of Agentic Browsing
+description: "From Search to Action · The Engineering Challenge Behind the Scenes"
 date: 2025-09-19 22:16:00 +0800
 type: post
 published: true

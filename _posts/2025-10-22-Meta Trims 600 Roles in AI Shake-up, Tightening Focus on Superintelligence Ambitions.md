@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meta Trims 600 Roles in AI Shake-up, Tightening Focus on Superintelligence Ambitions"
+description: "A Strategic, Not Panicked, Restructuring · Meta’s Long-Term AI Bet"
 date: 2025-10-22 21:53:00 +0800
 type: post
 published: true

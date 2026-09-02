@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Robots Are the New Lab Assistants - Medra’s $52M Bet to Reinvent Drug Discovery"
+description: "Why This Matters Now · What Medra’s Technology Changes · Implications for the Future of R&D"
 date: 2025-12-11 21:35:00 +0800
 type: post
 published: true

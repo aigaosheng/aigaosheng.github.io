@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Unicorn Upgraded - How Imprint’s $150M Series D Led by Khosla Ventures Is Redefining Brand Loyalty and Payments"
+description: "Why This Matters: Beyond a Big Number · A Modern Take on Co-Brand Cards · Traction That Speaks in Percentages · Funding With a Strategy"
 date: 2025-12-18 21:25:00 +0800
 type: post
 published: true

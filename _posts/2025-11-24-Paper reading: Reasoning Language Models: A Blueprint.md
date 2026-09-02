@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paper reading - Reasoning Language Models - A Blueprint"
+description: "Date: 24 November 2025 · Primary Source: Reasoning Language Models: A Blueprint · 1 LLM Scaling → System 1 Ability · 2 Reinforcement Learning → Strategic…"
 date: 2025-11-24 21:33:00 +0800
 type: post
 published: true

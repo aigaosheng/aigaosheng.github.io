@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Update Brief — May 5, 2026"
 series: "US & China AI"
+description: "White House moves toward formal AI model review framework · Proposed U.S. law would require pre-release AI model screening · Anthropic’s “Mythos” model…"
 date: 2026-05-05 20:48:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-07-11"
 series: "Singapore"
+description: "Singapore reports fewer marriages in 2025 as couples marry and have children later · New initiatives launched to help foreign professionals integrate into…"
 date: 2026-07-11 23:25:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-29"
 series: "Payments"
+description: "PayPal Beats Q2 Expectations and Raises Full-Year Guidance · PayPal CEO Leaves Door Open to Strategic Alternatives Following Strong Earnings · Singapore…"
 date: 2026-07-29 21:27:00 +0800
 type: post
 published: true

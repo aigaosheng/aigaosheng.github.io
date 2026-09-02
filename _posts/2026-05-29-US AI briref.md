@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-05-29"
 series: "US & China AI"
+description: "Trump Postpones AI Executive Order Amid Internal White House Divisions · Treasury Secretary Bessent Declares US the Undisputed AI Leader · David Sacks…"
 date: 2026-05-29 21:17:00 +0800
 type: post
 published: true

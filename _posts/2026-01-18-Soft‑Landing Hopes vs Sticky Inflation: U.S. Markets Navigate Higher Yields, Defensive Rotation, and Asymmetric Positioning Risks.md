@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Soft‑Landing Hopes vs Sticky Inflation - U.S. Markets Navigate Higher Yields, Defensive Rotation, and Asymmetric Positioning Risks"
+description: "Macro environment and Fed policy · Cross‑asset performance: equities, rates, FX, commodities · Sector and industry dynamics · Current institutional sector…"
 date: 2026-01-18 20:40:00 +0800
 type: post
 published: true

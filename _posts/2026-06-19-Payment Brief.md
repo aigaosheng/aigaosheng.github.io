@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-19"
 series: "Payments"
+description: "HKEX and HKMA Launch Pilot Project for e-HKD CBDC in Derivatives Trading · Deluxe to Acquire Celero Commerce for $625 Million · Mollie Completes 30-Country…"
 date: 2026-06-19 20:13:00 +0800
 type: post
 published: true

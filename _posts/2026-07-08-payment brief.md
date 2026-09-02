@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-08"
 series: "Payments"
+description: "ECB Payment System Suffers Second Outage in One Week · Major Telstra Outage Disrupts Digital Payments Across Australia · Taptap Send Receives Three UAE…"
 date: 2026-07-08 20:53:00 +0800
 type: post
 published: true

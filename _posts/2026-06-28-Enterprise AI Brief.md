@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-28"
 series: "Enterprise AI"
+description: "Enterprise Advertisers Move Agentic AI From Pilots Into Core Business Operations · AI Infrastructure Race Expands Beyond Nvidia as Major AI Firms Build…"
 date: 2026-06-28 17:25:14 +0800
 type: post
 published: true

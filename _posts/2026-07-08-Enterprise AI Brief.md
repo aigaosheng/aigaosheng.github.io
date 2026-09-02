@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-07-08"
 series: "Enterprise AI"
+description: "Vultr and SUSE Launch NVIDIA-Validated Enterprise AI Platform · HTEC Launches OneLoopAI for Enterprise Production AI · EXL Study Finds UK Firms…"
 date: 2026-07-08 20:50:00 +0800
 type: post
 published: true

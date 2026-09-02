@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Cybersecurity in 2026- Samsung SDS Flags AI-Powered Attacks and Ransomware as Top Threats"
+description: "Key Cyber Threats Set to Dominate in 2026 · AI-Driven Attacks: The New Frontier · Cloud Vulnerabilities and Misconfigurations · Phishing and Account…"
 date: 2026-02-23 20:52:00 +0800
 type: post
 published: true

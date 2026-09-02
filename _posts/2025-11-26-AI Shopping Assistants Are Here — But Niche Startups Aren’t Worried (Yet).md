@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Shopping Assistants Are Here — But Niche Startups Aren’t Worried (Yet)"
+description: "What OpenAI and Perplexity Are Rolling Out · Why Small, Niche Startups Are Still Confident · What This Means for AI-Driven E-Commerce · Why This Matters to…"
 date: 2025-11-26 22:44:00 +0800
 type: post
 published: true

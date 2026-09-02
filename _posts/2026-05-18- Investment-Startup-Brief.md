@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — 2026-05-18"
 series: "Investment & Startups"
+description: "Nvidia in Talks to Lead $20M Round in AI Startup Simplismart · Eight SME IPOs Set to Open This Week on Dalal Street · Arkeus Raises $18M Series A for AI…"
 date: 2026-05-18 20:24:00 +0800
 type: post
 published: true

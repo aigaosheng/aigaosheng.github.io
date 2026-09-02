@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Two Melbourne AI Firms Merge in $15 Million Deal - Affinda Acquires Pathfindr"
+description: "A New AI Powerhouse in Australia · What This Means for the Industry · Key Insights and Implications"
 date: 2025-10-27 20:17:00 +0800
 type: post
 published: true

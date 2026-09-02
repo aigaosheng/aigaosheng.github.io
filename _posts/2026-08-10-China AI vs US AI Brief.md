@@ -2,6 +2,7 @@
 layout: post
 title: "China AI vs US AI Brief — 2026-08-10"
 series: "US & China AI"
+description: "Meta Reignites the Open-Weight AI Race Against China · ByteDance Signals a New Push to Build AI Without Relying on Distillation · China's AI Capital…"
 date: 2026-08-10 21:57:00 +0800
 type: post
 published: true

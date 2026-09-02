@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Andreessen Horowitz (a16z) Investment Report: Key 2024–2025 Sectors and Companies"
+description: "AI & Machine Learning"
 date: 2025-10-05 18:20:00 +0800
 type: post
 published: true

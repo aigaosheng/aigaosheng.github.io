@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-21"
 series: "Enterprise AI"
+description: "The AI Bill Arrives: Enterprises Shift from \"Tokenmaxxing\" to \"ROI-maxxing\" · Teramind Report Exposes AI Governance Gap Between Executives and Employees…"
 date: 2026-06-21 17:09:14 +0800
 type: post
 published: true

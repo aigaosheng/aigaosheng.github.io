@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Arms Race Piles Up Record-Breaking Tech Debt: Boom or Bubble?"
+description: "Debt for Innovation: A Strategic Shift · When Borrowing Becomes Business Strategy · Markets Are Taking Note · What’s Next? Bubble or Breakthrough?"
 date: 2025-12-23 20:13:00 +0800
 type: post
 published: true

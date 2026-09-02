@@ -3,6 +3,7 @@
 layout: post
 title: "Quantum Brief — 2026-08-22"
 series: "Quantum Computing"
+description: "U.S. Researchers Demonstrate a 13-Mile Free-Space Quantum Network Link · Frozen Optical Fiber Boosts Light–Sound Interaction by More Than 1,000× · Quantum…"
 date: 2026-08-22 21:58:00 +0800
 type: post
 published: true

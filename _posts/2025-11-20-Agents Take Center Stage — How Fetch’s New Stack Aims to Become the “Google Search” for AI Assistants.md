@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Agents Take Center Stage — How Fetch’s New Stack Aims to Become the “Google Search” for AI Assistants"
+description: "Key insights & implications"
 date: 2025-11-20 20:35:00 +0800
 type: post
 published: true

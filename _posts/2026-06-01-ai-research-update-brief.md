@@ -2,6 +2,7 @@
 layout: post
 title: "AI research update Brief — 2026-06-01"
 series: "AI Research & Open Source"
+description: "PsyPost reports study finding medical misinformation failures in leading chatbots · Nature publishes citation-network datasets for benchmarking spiking…"
 date: 2026-06-01 20:51:03 +0800
 type: post
 published: true

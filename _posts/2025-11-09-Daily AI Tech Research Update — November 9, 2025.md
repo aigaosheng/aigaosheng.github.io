@@ -2,6 +2,7 @@
 layout: post
 title: "Daily AI Tech Research Update — November 9, 2025"
 series: "AI Research & Open Source"
+description: "Top Papers (Ranked by novelty & impact) · Paper 2: Mercury — Ultra-Fast Diffusion Language Models · Paper 3: V-JEPA 2 — Scalable Video Understanding…"
 date: 2025-11-09 10:30:00 +0800
 type: post
 published: true

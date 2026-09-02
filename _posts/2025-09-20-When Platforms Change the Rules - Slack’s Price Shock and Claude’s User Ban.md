@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "When Platforms Change the Rules: Slack’s Price Shock and Claude’s User Ban"
+description: "Two stories lit up the tech world this week: Slack’s surprise billing hike and Anthropic’s sudden decision to block certain users from Claude, its AI…"
 date: 2025-09-20 10:15:00 +0800
 type: post
 published: true

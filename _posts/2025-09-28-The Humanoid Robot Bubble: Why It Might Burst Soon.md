@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Humanoid Robot Bubble: Why It Might Burst Soon"
+description: "Why Brooks Is Skeptical · What Could Work Instead"
 date: 2025-09-28 10:36:00 +0800
 type: post
 published: true

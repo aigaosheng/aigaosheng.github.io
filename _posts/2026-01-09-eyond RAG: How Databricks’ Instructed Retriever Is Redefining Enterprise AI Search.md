@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "eyond RAG- How Databricks’ Instructed Retriever Is Redefining Enterprise AI Search"
+description: "What’s the Problem with Traditional RAG? · What Makes Instructed Retriever Different? · Retriever vs. Contextual Memory · Real-World Impact for Enterprise…"
 date: 2026-01-09 20:19:00 +0800
 type: post
 published: true

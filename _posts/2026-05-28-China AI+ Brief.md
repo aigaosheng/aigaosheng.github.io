@@ -2,6 +2,7 @@
 layout: post
 title: "China AI+ Brief — 2026-05-28"
 series: "US & China AI"
+description: "China Unveils 5-Year Plan for AI and Data Rights Legal Framework · China's Industrial Profits Jump 24.7% in April, Driven by AI Export Boom · China…"
 date: 2026-05-28 20:15:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-27"
 series: "US & China AI"
+description: "Gemini 3.5 Pro Delayed to July 2026 · US Commerce Lifts Export Block on Anthropic's Mythos 5 · GPT-4.5 Officially Retires from ChatGPT · Google Loses 4…"
 date: 2026-06-27 20:23:00 +0800
 type: post
 published: true

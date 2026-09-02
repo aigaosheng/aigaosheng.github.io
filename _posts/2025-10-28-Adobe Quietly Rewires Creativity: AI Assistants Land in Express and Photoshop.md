@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Adobe Quietly Rewires Creativity - AI Assistants Land in Express and Photoshop"
+description: "In a bold move that signals the next frontier of design software, Adobe Inc. has announced the rollout of AI-powered assistants embedded within its…"
 date: 2025-10-28 21:27:00 +0800
 type: post
 published: true

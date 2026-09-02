@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Truth Serum -  Why the Latest from OpenAI Could Change How We Trust Chatbots"
+description: "What is “Confessions” — and Why Now? · How It Works (In a Nutshell) · What This Could Mean for AI Safety (and You) · But It’s Not Magic — Limitations…"
 date: 2025-12-05 21:00:00 +0800
 type: post
 published: true

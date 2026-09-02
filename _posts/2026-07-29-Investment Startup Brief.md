@@ -2,6 +2,7 @@
 layout: post
 title: "Investment Startup Brief — 2026-07-29"
 series: "Investment & Startups"
+description: "AI Chip Design Startup ChipAgents Raises $60M to Accelerate Autonomous Semiconductor Engineering · Corporate Venture Capital Enters a New Phase as…"
 date: 2026-07-29 21:36:00 +0800
 type: post
 published: true

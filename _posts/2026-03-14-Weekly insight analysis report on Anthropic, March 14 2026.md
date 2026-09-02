@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly insight analysis report on Anthropic, March 14 2026"
 series: "AI Company Watch"
+description: "Tech & Product Angle"
 date: 2026-03-14 16:56:00 +0800
 type: post
 published: true

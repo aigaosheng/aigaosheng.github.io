@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A concise threat-model checklist for LLM"
+description: "Browser Agent (agentic browser / extension / embedded agent) · Internal Knowledge-Base Connector (Drive/Slack/GitHub → LLM) · Enterprise Assistant (chatbot…"
 date: 2025-10-26 10:40:00 +0800
 type: post
 published: true

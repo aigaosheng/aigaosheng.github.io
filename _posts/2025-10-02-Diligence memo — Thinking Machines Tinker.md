@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Diligence memo — Thinking Machines / Tinker"
+description: "Key public facts / signals (most important claims) · Market size & monetization opportunity · Regulatory, safety & enterprise risk · Customer economics &…"
 date: 2025-10-02 22:55:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How Anthropic Is Turning Claude Into a True AI-Powered Work Hub"
+description: "The Big Shift: From Chatbot to Command Center · What’s Included in the New Workspace Experience · Why This Matters for Workflows · The Tech Behind It…"
 date: 2026-01-27 19:34:00 +0800
 type: post
 published: true

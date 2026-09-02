@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Asia’s Stablecoin Shift - How Japan and South Korea Are Redrawing the Crypto Map in 2025"
+description: "Asia’s digital finance landscape is undergoing a subtle but strategic revolution — one that’s not about Bitcoin prices or crypto memes, but about the very…"
 date: 2026-01-02 20:20:00 +0800
 type: post
 published: true

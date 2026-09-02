@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Brief — May 5, 2026"
 series: "US & China AI"
+description: "China Accelerates AI Chip Self-Sufficiency as Nvidia Share Hits Zero · China Pushes to Control AI Chip Supply Chain via Domestic Wafer Production…"
 date: 2026-05-05 20:43:00 +0800
 type: post
 published: true

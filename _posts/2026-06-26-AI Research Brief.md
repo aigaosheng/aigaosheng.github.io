@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-26"
 series: "AI Research & Open Source"
+description: "MIT’s 'Murakkab' System Slashes AI Agent Energy Use by 73% · AllenAI Reveals Hybrid Models Excel at Contextual Meaning, Not Copying · Gemini 3.5 Pro Launch…"
 date: 2026-06-26 20:26:00 +0800
 type: post
 published: true

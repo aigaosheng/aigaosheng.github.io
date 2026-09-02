@@ -2,6 +2,7 @@
 layout: post
 title: "AI Impact on Social Media & Society Brief — 2026-06-07"
 series: "AI & Society"
+description: "Trump Shares AI-Generated “Everybody Loves Trump” Video on Truth Social · AI Slop” Creates Authenticity Crisis for African Media and Social Platforms"
 date: 2026-06-07 21:37:00 +0800
 type: post
 published: true

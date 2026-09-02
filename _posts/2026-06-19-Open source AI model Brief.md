@@ -2,6 +2,7 @@
 layout: post
 title: "Open source AI model Brief — 2026-06-19"
 series: "AI Research & Open Source"
+description: "MiniMax M3 Open-Source Capitalizes on Fable 5 Ban With Frontier-Class Open Weights · Z.ai’s Open-Weights GLM-5.2 Tops Open-Weights AI Ranking as Coding…"
 date: 2026-06-19 20:12:14 +0800
 type: post
 published: true

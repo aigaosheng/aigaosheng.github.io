@@ -2,6 +2,7 @@
 layout: post
 title: "Daily Fintech Newsletter — Dec 23 2025"
 series: "AI & Fintech"
+description: "Mercury’s Bank Charter Bid: A Strategic Leap for Fintech Banking · Market & Industry Insight · Company & Startup Spotlight · Comviva & Global Money…"
 date: 2025-12-23 20:30:00 +0800
 type: post
 published: true

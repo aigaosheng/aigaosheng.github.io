@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hong Kong to Issue First Stablecoin Licenses in March 2026 — A New Chapter in Digital Finance"
+description: "Glossary of Key Terms"
 date: 2026-02-11 20:44:00 +0800
 type: post
 published: true

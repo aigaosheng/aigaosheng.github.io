@@ -2,6 +2,7 @@
 layout: post
 title: "Qwen AI Weekly Insight Report, March 14, 2026"
 series: "AI Company Watch"
+description: "Leadership Shake‑Up & Organizational Response · Deployment & Adoption Momentum · Strategic Acceleration: AI Task Force"
 date: 2026-03-14 17:13:00 +0800
 type: post
 published: true

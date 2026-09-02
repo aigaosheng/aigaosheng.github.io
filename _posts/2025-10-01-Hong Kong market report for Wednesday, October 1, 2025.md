@@ -2,6 +2,7 @@
 layout: post
 title: "Hong Kong market report - October 1, 2025"
 series: "Market Reports"
+description: "HKEX Trading Volumes Surge Amid Global Market Volatility The Hong Kong Stock Exchange (HKEX) reported a significant increase in trading volumes today…"
 date: 2025-10-01 22:23:00 +0800
 type: post
 published: true

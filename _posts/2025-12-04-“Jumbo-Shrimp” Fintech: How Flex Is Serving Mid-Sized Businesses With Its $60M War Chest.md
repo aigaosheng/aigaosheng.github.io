@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jumbo-Shrimp Fintech - How Flex Is Serving Mid-Sized Businesses With Its $60M War Chest"
+description: "Why Mid-Sized Firms Need Flex · What Flex Offers: One Platform, Many Tools · Traction and Reliability: Growth with Guardrails · What the New Funding Means…"
 date: 2025-12-04 20:56:00 +0800
 type: post
 published: true

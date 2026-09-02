@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI’s High-Stakes Bet - Will Tech Spending Sustain the Stock Market’s Hot Streak?"
+description: "The AI Boom: Capital Expenditure as the Market’s Backbone · Bubblicious” Flashbacks and Market Jitters · What’s at Stake: Profits and Perception"
 date: 2025-10-29 21:57:00 +0800
 type: post
 published: true

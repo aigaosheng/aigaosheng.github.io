@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Visa’s Big Crypto Pivot - Stablecoin Settlements Go Live for U.S. Banks on Solana"
+description: "In a milestone moment for the payments industry, Visa has opened its U.S. settlement network to stablecoin transactions, enabling banks and financial…"
 date: 2025-12-17 21:17:00 +0800
 type: post
 published: true

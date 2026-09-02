@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Daily Newsletter April 17, 2026"
 series: "AI & Fintech"
+description: "American Express Acquires AI Agent Startup Hyper to Transform Expense Management · OpenAI Acquires Personal Finance AI Startup Hiro · Fintechs Use AI to…"
 date: 2026-04-17 20:50:00 +0800
 type: post
 published: true

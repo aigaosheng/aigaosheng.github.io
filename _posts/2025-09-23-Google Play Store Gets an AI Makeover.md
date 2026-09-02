@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Play Store Gets an AI Makeover
+description: "Smarter Search with AI · New Tabs = Easier Navigation · Why It’s a Big Deal"
 date: 2025-09-23 21:37:00 +0800
 type: post
 published: true

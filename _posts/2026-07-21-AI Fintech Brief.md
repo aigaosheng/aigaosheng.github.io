@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-07-21"
 series: "AI & Fintech"
+description: "Ant International Raises US$1.2 Billion to Accelerate AI-Powered Cross-Border Payments · Singapore Launches New AI Data Governance and Cross-Border Privacy…"
 date: 2026-07-21 21:30:00 +0800
 type: post
 published: true

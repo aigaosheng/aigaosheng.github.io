@@ -2,6 +2,7 @@
 layout: post
 title: "tokenized asset Brief — 2026-07-01"
 series: "Tokenized Assets"
+description: "Bank of Korea Governor Proposes Tokenized Government Bonds · Invesco Files Tokenized Stablecoin Reserve Fund · MiCA Transition Ends as Crypto Firms…"
 date: 2026-07-01 19:50:00 +0800
 type: post
 published: true

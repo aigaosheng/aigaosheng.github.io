@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SoftBank’s Bold Move - Why Selling Its Entire Nvidia Stake Could Shake the AI Market"
+description: "A Bold Exit in a Changing Landscape · Why the Market is Paying Close Attention · Implications for Investors and the Tech Sector"
 date: 2025-11-12 19:56:00 +0800
 type: post
 published: true

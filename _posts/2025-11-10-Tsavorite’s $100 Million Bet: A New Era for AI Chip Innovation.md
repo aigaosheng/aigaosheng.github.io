@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tsavorite’s $100 Million Bet - A New Era for AI Chip Innovation"
+description: "Main Facts & Insights"
 date: 2025-11-10 22:52:00 +0800
 type: post
 published: true

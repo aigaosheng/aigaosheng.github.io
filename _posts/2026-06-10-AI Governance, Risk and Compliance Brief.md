@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk and Compliance Brief — 2026-06-10"
 series: "AI Governance & Regulation"
+description: "Global Watchdog FSB Calls for Tighter Controls on Agentic AI in Finance · IBM Warns of Widening AI Governance Gap as Enterprises Rush to Deploy Agents…"
 date: 2026-06-10 20:42:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source AI Model Brief — 2026-06-15"
 series: "AI Research & Open Source"
+description: "Rio de Janeiro's Municipal Government Releases World-Class Open Model · Zhipu AI Stock Surges as GLM-5.2 Open-Source Release Follows US Ban on Anthropic…"
 date: 2026-06-15 20:49:00 +0800
 type: post
 published: true

@@ -3,6 +3,7 @@
 layout: post
 title: "US AI vs China AI Brief — 2026-08-27"
 series: "US & China AI"
+description: "Zhipu’s GLM-5.3-Flash Demonstrates China Can Scale AI on Domestic Chips · Nvidia Ships First H200 AI Chips to China Under US Licensing Rules · US-China AI…"
 date: 2026-08-27 21:29:00 +0800
 type: post
 published: true

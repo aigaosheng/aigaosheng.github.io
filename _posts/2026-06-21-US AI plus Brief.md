@@ -2,6 +2,7 @@
 layout: post
 title: "US AI plus Brief — 2026-06-21"
 series: "US & China AI"
+description: "Trump Revises View on Anthropic, Says AI Firm No Longer a Security Threat · Federal Regulators Back Trump's Plan to Speed Power to Energy-Hungry AI Data…"
 date: 2026-06-21 17:03:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-04"
 series: "US & China AI"
+description: "Trump Signals Light-Touch AI Regulation While Stressing U.S. Leadership · AI Becomes Central Theme in U.S. Economic Outlook · AI-Powered Theodore Roosevelt…"
 date: 2026-07-04 21:23:00 +0800
 type: post
 published: true

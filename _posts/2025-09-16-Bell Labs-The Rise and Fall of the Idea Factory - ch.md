@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 贝尔实验室 - "创意工厂"的兴衰史
+description: "鼎盛时期，贝尔实验室拥有 25,000+ 员工，荣获 9 项诺贝尔奖，成为 数字时代的动力引擎。"
 date: 2025-09-16 09:37:00 +0800
 type: post
 published: true

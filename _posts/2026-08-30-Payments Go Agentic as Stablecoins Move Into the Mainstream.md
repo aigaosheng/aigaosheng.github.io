@@ -3,6 +3,7 @@
 layout: post
 title: "Payments Go Agentic as Stablecoins Move Into the Mainstream"
 series: "Payment weekly"
+description: "Fintech Weekly — 30 August 2026 · Stablecoins Move From Crypto Product to Payment Infrastructure · Market & Industry Insight · Company & Startup Spotlight"
 date: 2026-08-30 20:44:00 +0800
 type: post
 published: true

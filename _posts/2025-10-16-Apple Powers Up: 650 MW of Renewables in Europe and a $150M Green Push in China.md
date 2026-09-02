@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Apple Powers Up: 650 MW of Renewables in Europe and a $150M Green Push in China"
+description: "Apple's Green Surge: 650 MW in Europe and $150M for China"
 date: 2025-10-16 22:49:00 +0800
 type: post
 published: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Quantitative Investment Screening & Scoring Pipeline"
+description: "A Quantitative Framework for Identifying High-Potential Sectors and Companies · Industry & Sector Analysis · Macro & Cyclical Factors · Company Screening…"
 date: 2025-09-06 
 type: post
 published: true

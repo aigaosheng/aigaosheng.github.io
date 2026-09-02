@@ -2,6 +2,7 @@
 layout: post
 title: "Quantum AI Brief — 2026-08-13"
 series: "Quantum Computing"
+description: "SAP Quantum Chief: AI Will Commoditize Intelligence, Shifting Advantage Toward Decision Computing · Xanadu Partners With University of Alberta to Apply…"
 date: 2026-08-13 20:11:00 +0800
 type: post
 published: true

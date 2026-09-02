@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-06"
 series: "AI & Fintech"
+description: "Ramp hits $44 billion valuation on $750m raise · Lloyds rolls out Microsoft’s AI Frontier Suite across the bank · Aveni raises £12 million to build…"
 date: 2026-06-06 20:53:59 +0800
 type: post
 published: true

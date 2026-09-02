@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Don’t Panic — AI Isn’t Coming for All the Coders (Yet)"
+description: "The Allure vs. The Reality · Why Gates, Altman & Industry Leaders Say “Not Yet” · What This Means for Developers (and the Tech Industry) · Junior and…"
 date: 2025-10-06 21:35:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Daily Newsletter April 12, 2026"
 series: "Enterprise AI"
+description: "SAP Signals Painful but Necessary Enterprise AI Transition · Anthropic Revenue Surge Driven by Enterprise Adoption · Autonomous IT Gains Momentum in…"
 date: 2026-04-12 20:00:00 +0800
 type: post
 published: true

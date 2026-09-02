@@ -2,6 +2,7 @@
 layout: post
 title: "FintechNews.sg – Weekly Newsletter January 11 – January 17, 2026"
 series: "Singapore"
+description: "Payments / Digital Commerce"
 date: 2026-01-17 21:11:00 +0800
 type: post
 published: true

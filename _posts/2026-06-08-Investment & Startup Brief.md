@@ -2,6 +2,7 @@
 layout: post
 title: "Investment & Startup Brief — 2026-06-08"
 series: "Investment & Startups"
+description: "PhysicsX Hits $2.4 Billion Valuation in Temasek-Led Series C · Incyte Nears $2 Billion Acquisition of Blood Disorder Biotech Star · Riceberg Ventures…"
 date: 2026-06-08 21:58:00 +0800
 type: post
 published: true

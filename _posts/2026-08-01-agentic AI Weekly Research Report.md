@@ -2,6 +2,7 @@
 layout: post
 title: "Agentic AI Weekly Research Report — 2026-08-01"
 series: "AI Research & Open Source"
+description: "Microsoft Introduces Agentic Cybersecurity Capabilities With AI Security Agents · OCBC Deploys Agentic AI Platform to Accelerate Wealth Client Onboarding…"
 date: 2026-08-01 22:00:00 +0800
 type: post
 published: true

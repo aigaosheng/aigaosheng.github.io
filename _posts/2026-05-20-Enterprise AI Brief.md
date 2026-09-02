@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-05-20"
 series: "Enterprise AI"
+description: "Google and Blackstone Form $5 Billion AI Cloud Venture · IT Home Analyzes the Shift to True \"Enterprise AI Operating Systems\""
 date: 2026-05-20 20:34:00 +0800
 type: post
 published: true

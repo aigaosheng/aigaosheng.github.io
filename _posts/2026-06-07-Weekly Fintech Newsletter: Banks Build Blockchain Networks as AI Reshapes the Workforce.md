@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Fintech Newsletter- Banks Build Blockchain Networks as AI Reshapes the Workforce"
 series: "AI & Fintech"
+description: "In-Depth Highlight: US Banks Unite for Tokenized Deposit Network · Market & Industry Insight: The AI-Native Fintech Revolution · Company & Startup…"
 date: 2026-06-07 18:13:00 +0800
 type: post
 published: true

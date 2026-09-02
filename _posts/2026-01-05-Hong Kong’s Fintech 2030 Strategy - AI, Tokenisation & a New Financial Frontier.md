@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hong Kong’s Fintech 2030 Strategy - AI, Tokenisation & a New Financial Frontier"
+description: "A Vision for Tomorrow’s Finance · A Tokenised Financial Ecosystem · Glossary: Key Terms Explained"
 date: 2026-01-05 20:08:00 +0800
 type: post
 published: true

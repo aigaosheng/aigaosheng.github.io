@@ -2,6 +2,7 @@
 layout: post
 title: "Weekly Report - Updates on Perplexity AI — Week of December 5, 2025"
 series: "AI Company Watch"
+description: "Key Headlines This Week · Product / Business Moves (Recent & Upcoming) · Forward‑Looking Implications & What to Watch"
 date: 2025-12-06 20:43:00 +0800
 type: post
 published: true

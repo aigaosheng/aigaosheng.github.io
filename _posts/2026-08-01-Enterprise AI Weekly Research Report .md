@@ -3,6 +3,7 @@
 layout: post
 title: "Enterprise AI Weekly Research Report — 2026-08-01"
 series: "Enterprise AI"
+description: "Microsoft Introduces AI-Era Security Strategy and Project Perception · Enterprise AI Security Becomes a Core Infrastructure Category · AI Agent Evaluation…"
 date: 2026-08-01 21:00:00 +0800
 type: post
 published: true

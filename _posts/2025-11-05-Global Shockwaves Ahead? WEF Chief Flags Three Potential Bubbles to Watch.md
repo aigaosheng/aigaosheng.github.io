@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Global Shockwaves Ahead? WEF Chief Flags Three Potential Bubbles to Watch"
+description: "What to watch moving forward · Implications for individual investors & global watchers"
 date: 2025-11-05 22:38:00 +0800
 type: post
 published: true

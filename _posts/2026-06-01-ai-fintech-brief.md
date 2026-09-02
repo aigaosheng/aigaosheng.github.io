@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-01"
 series: "AI & Fintech"
+description: "Singapore resists direct intervention over AI-driven bank lay-offs · Financial fraud in an era of blockchain and AI · Jamie Dimon slams Coinbase CEO and…"
 date: 2026-06-01 20:51:03 +0800
 type: post
 published: true

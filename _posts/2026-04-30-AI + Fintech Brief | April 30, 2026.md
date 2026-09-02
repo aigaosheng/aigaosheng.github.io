@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief | April 30, 2026"
 series: "AI & Fintech"
+description: "Visa Signals AI Agents Will Drive Next Wave of Payments · Robinhood Expands AI Financial Advisory—but Keeps Humans in Loop · 160M Funding Signals Surge in…"
 date: 2026-04-30 21:09:00 +0800
 type: post
 published: true

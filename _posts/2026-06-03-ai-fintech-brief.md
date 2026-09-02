@@ -2,6 +2,7 @@
 layout: post
 title: "AI Fintech Brief — 2026-06-03"
 series: "AI & Fintech"
+description: "ECB presses banks on AI-linked operational and cyber risk · FinTech Futures spotlights AI-driven regulatory reporting as a competitive lever · SmartStream…"
 date: 2026-06-03 19:41:11 +0800
 type: post
 published: true

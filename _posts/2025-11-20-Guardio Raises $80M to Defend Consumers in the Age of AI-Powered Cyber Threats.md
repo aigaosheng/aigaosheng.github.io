@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Guardio Raises $80M to Defend Consumers in the Age of AI-Powered Cyber Threats"
+description: "What's Driving Guardio’s Vision · What the Funding Will Be Used For · A Shift in Cybersecurity Landscape"
 date: 2025-11-20 21:10:00 +0800
 type: post
 published: true

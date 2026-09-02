@@ -2,6 +2,7 @@
 layout: post  
 title: "AI Fintech Brief — 2026-07-14"  
 series: "AI & Fintech"
+description: "JPMorgan Signals \"End of Unchecked Experimentation\" with AI Cost Controls · Waton Financial Launches MoTA, a Multi-Agent Investment Platform · Jack Henry…"
 date: 2026-07-14 20:08:00 +0800  
 type: post  
 published: true  

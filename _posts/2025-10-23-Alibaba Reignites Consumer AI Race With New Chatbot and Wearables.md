@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alibaba Reignites Consumer AI Race With New Chatbot and Wearables"
+description: "A Chatbot for the Modern User · Raising the Stakes with Wearables · Implications: AI for All"
 date: 2025-10-23 21:05:00 +0800
 type: post
 published: true

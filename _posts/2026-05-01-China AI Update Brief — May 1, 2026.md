@@ -2,6 +2,7 @@
 layout: post
 title: "China AI Update Brief — May 1, 2026"
 series: "US & China AI"
+description: "China launches nationwide crackdown on AI misuse (“Qinglang” campaign) · US-China AI tensions escalate over model distillation allegations · China courts…"
 date: 2026-05-01 21:43:00 +0800
 type: post
 published: true

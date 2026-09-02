@@ -3,6 +3,7 @@
 layout: post
 title: "investment startup Brief — 2026-08-18"
 series: "Investment & Startups"
+description: "Reach Capital closes $265M fund focused on AI that augments human potential · Grounded raises $5M to pivot commercial van customization beyond EVs…"
 date: 2026-08-18 19:43:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-07-21"
 series: "Payments"
+description: "Ant International Raises $1.2 Billion to Accelerate Global Payments Expansion · Brazil’s Pix Payment System Becomes a Global Payments Geopolitical…"
 date: 2026-07-21 21:22:00 +0800
 type: post
 published: true

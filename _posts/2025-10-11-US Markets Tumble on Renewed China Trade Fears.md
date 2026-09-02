@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "US Markets Tumble on Renewed China Trade Fears"
+description: "Top News from the Day"
 date: 2025-10-11 22:05:00 +0800
 type: post
 published: true

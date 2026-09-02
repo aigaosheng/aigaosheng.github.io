@@ -2,6 +2,7 @@
 layout: post
 title: "Singapore News Brief — 2026-06-23"
 series: "Singapore"
+description: "Lazada Cuts ~5% of Workforce in Regional Restructuring · Applied Materials Expands in Singapore, Adding 1,000 Jobs · Singtel Raises ~S$1 Billion from Gulf…"
 date: 2026-06-23 20:00:00 +0800
 type: post
 published: true

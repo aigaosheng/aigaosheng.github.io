@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic Accelerates Compute Capacity and APAC Expansion, October 22-24  2025"
+description: "A. Google Cloud TPU Expansion — Anthropic (23 Oct 2025) · B. Seoul Office Announcement — Anthropic (23 Oct 2025) · Investor & Executive Takeaways · Key…"
 date: 2025-10-24 21:55:00 +0800
 type: post
 published: true

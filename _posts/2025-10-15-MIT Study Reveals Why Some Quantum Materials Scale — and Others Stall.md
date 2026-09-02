@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MIT Study Reveals Why Some Quantum Materials Scale — and Others Stall"
+description: "From Lab to Market: The Scaling Challenge in Quantum Materials · What This Means (Takeaways & Reflection)"
 date: 2025-10-15 22:08:00 +0800
 type: post
 published: true

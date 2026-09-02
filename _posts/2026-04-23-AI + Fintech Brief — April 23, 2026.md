@@ -2,6 +2,7 @@
 layout: post
 title: "AI + Fintech Brief — April 23, 2026"
 series: "AI & Fintech"
+description: "Norm AI Launches Legal AGI Lab for Financial Services · UK FCA Expands Live AI Testing with Major Banks · ClearBank Enters Singapore via Tazapay…"
 date: 2026-04-23 20:07:00 +0800
 type: post
 published: true

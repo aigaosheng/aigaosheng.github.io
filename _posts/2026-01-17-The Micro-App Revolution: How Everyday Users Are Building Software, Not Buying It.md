@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Micro-App Revolution: How Everyday Users Are Building Software, Not Buying It"
+description: "From Frustration to Function: The Rise of Micro-Apps · Why It Matters: Democratizing App Creation · Challenges Remain: Quality, Security, and…"
 date: 2026-01-17 20:15:00 +0800
 type: post
 published: true

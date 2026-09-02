@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-06"
 series: "Payments"
+description: "Visa explores private stablecoin settlement with Brale on Canton · Bank of America unveils cross-border real-time payments plan · Thunes launches real-time…"
 date: 2026-06-06 20:53:59 +0800
 type: post
 published: true

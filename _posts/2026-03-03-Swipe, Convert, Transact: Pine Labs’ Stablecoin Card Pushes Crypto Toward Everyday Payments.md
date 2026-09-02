@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Swipe, Convert, Transact- Pine Labs’ Stablecoin Card Pushes Crypto Toward Everyday Payments"
+description: "How It Works: Crypto Meets Everyday Spending · Why Nine Countries—and Not India or China? · A Strategic Expansion for Pine Labs"
 date: 2026-03-03 20:10:00 +0800
 type: post
 published: true

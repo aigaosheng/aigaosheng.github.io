@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "South Korea’s New AI Arsenal vs Unfair Crypto Trades- A Market-Defining Moment"
+description: "AI Meets Crypto Regulation: What’s New · Wider Context: Enforcement and Penalties · Implications for Traders and Markets"
 date: 2026-02-02 20:11:00 +0800
 type: post
 published: true

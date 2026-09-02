@@ -2,6 +2,7 @@
 layout: post
 title: "Enterprise AI Brief — 2026-06-26"
 series: "Enterprise AI"
+description: "Scaled Cognition Raises $100M Series A to Build Reliable Enterprise AI Agents · Anthropic Accuses Alibaba of Massive Fraudulent Campaign Against Claude AI…"
 date: 2026-06-26 20:36:00 +0800
 type: post
 published: true

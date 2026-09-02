@@ -2,6 +2,7 @@
 layout: post
 title: "Hugging Face Weekly Digest- Edge-Native AI, Agentic Workflows, and Multimodal Convergence May 3, 2026"
 series: "AI Company Watch"
+description: "Agentic Reasoning Gets Structural Support · Video Generation Integrates 3D Constraints · Geography & Community Dynamics Shift"
 date: 2026-05-03 19:38:00 +0800
 type: post
 published: true

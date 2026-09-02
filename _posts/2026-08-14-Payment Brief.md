@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-08-14"
 series: "Payments"
+description: "PSD3 Moves Closer to Reshaping Europe’s Payments Rulebook · Yuno Raises $45M to Scale Payment Orchestration and Agentic AI · Apple Pay Chief Jennifer…"
 date: 2026-08-14 19:43:00 +0800
 type: post
 published: true

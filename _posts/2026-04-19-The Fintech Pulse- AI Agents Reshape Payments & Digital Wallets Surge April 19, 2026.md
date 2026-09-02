@@ -2,6 +2,7 @@
 layout: post
 title: "The Fintech Pulse- AI Agents Reshape Payments Digital Wallets Surge April 19, 2026"
 series: "AI & Fintech"
+description: "In‑Depth Highlight: Agentic AI Takes Center Stage in Fintech · Market & Industry Insight: The Digital Wallet Convergence · Company & Startup Spotlight…"
 date: 2026-04-19 17:00:00 +0800
 type: post
 published: true

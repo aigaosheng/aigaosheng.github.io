@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Payments, Wallets & AI- The Race Moves from Rails to Agents 16 August 2026"
+description: "AI Agents Are Moving into the Financial Back Office · Market & Industry Insight · Company & Startup Spotlight · Regulatory & Policy Watch"
 date: 2026-08-16 20:00:00 +0800
 type: post
 published: true

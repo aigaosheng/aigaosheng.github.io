@@ -2,6 +2,7 @@
 layout: post
 title: "Tokenized Asset Brief — 2026-06-26"
 series: "Tokenized Assets"
+description: "WisdomTree Wins Dual Awards for Leadership in Tokenized Assets · Antier Launches Integrated End-to-End RWA Tokenization Model · Global Tokenized RWA Market…"
 date: 2026-06-26 20:10:00 +0800
 type: post
 published: true

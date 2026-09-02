@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-20"
 series: "Payments"
+description: "Avalanche Launches Global Payments Collective with 28 Industry Giants · Gomining Enters Bitcoin Payment Processing Market with GoBTC Pay · Philippine…"
 date: 2026-06-20 20:30:00 +0800
 type: post
 published: true

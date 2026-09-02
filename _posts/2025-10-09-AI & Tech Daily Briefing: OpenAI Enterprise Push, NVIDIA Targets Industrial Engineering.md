@@ -2,6 +2,7 @@
 layout: post
 title: "AI & Tech Daily Briefing: OpenAI Enterprise Push, NVIDIA Targets Industrial Engineering - October 9, 2025"
 series: "AI Industry News"
+description: "OpenAI — HiBob case study & community developer updates · NVIDIA — Developer livestream series (official livestream / forum post published today)"
 date: 2025-10-09 21:17:00 +0800
 type: post
 published: true

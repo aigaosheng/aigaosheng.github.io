@@ -2,6 +2,7 @@
 layout: post
 title: "AI Governance, Risk & Compliance Brief — May 6, 2026"
 series: "AI Governance & Regulation"
+description: "U.S. Expands Pre-Release AI Model Audits for National Security · U.S. Formalizes Government–Big Tech Agreements for AI Oversight · India Launches Task…"
 date: 2026-05-06 20:28:00 +0800
 type: post
 published: true

@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-06-23"
 series: "AI Research & Open Source"
+description: "UK Injects £60M into Fundamental AI Research to Boost Sovereignty · Five Eyes Alliance Warns AI Cyber Threats Are Months Away · AI for Science Unicorn…"
 date: 2026-06-23 19:57:00 +0800
 type: post
 published: true

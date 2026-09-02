@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alibaba Unveils AI That Puts You in the Video - Likeness & Voice Generation Goes Mainstream"
+description: "Glossary: Key Terms Explained"
 date: 2025-12-16 20:50:00 +0800
 type: post
 published: true

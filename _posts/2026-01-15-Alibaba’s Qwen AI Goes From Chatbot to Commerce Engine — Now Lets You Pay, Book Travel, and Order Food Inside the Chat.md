@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alibaba’s Qwen AI Goes From Chatbot to Commerce Engine — Now Lets You Pay, Book Travel, and Order Food Inside the Chat"
+description: "Alibaba has just taken a major step in its consumer‑AI strategy by upgrading its flagship Qwen AI application into a real‑world digital assistant that can…"
 date: 2026-01-15 20:44:00 +0800
 type: post
 published: true

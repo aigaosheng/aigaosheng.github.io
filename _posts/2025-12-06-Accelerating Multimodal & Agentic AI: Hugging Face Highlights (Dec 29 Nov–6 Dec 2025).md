@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Accelerating Multimodal & Agentic AI - Hugging Face Highlights (Dec 29 Nov–6 Dec 2025)"
+description: "This week’s activity on Hugging Face shows a clear push toward faster, deployable multimodal systems and agentic models that combine external-tool…"
 date: 2025-12-06 20:23:00 +0800
 type: post
 published: true

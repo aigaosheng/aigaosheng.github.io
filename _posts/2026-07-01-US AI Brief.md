@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-07-01"
 series: "US & China AI"
+description: "U.S. Lifts Export Controls on Anthropic's Frontier AI Models · White House Reverses AI Export Restrictions Following Security Agreement · UN Scientific…"
 date: 2026-07-01 20:10:00 +0800
 type: post
 published: true

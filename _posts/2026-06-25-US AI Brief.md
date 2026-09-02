@@ -2,6 +2,7 @@
 layout: post
 title: "US AI Brief — 2026-06-25"
 series: "US & China AI"
+description: "Micron & Qualcomm Forecasts Reassure AI Infrastructure Demand; Nasdaq Futures Jump · JPMorgan Warns of \"Extremely Crowded\" AI Trade Despite S&P 500 Target…"
 date: 2026-06-25 19:57:00 +0800
 type: post
 published: true

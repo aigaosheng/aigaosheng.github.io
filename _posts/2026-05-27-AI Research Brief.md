@@ -2,6 +2,7 @@
 layout: post
 title: "AI Research Brief — 2026-05-27"
 series: "AI Research & Open Source"
+description: "NBER Study Quantifies “Supercharged” Feedback Loop in AI R&D, Signaling Potential Economic Singularity · Open Source 7B Medical AI Beats GPT-5 and o3 by…"
 date: 2026-05-27 21:31:00 +0800
 type: post
 published: true

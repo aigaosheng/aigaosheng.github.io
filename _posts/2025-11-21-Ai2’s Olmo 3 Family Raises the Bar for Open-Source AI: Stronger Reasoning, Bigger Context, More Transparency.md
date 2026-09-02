@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ai2’s Olmo 3 Family Raises the Bar for Open-Source AI - Stronger Reasoning, Bigger Context, More Transparency"
+description: "What’s New with Olmo 3 · Why It Matters: Efficiency + Performance · Why This Could Be a Game-Changer for Enterprises"
 date: 2025-11-21 20:53:00 +0800
 type: post
 published: true

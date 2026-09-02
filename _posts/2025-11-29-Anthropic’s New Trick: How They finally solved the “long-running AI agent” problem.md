@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Anthropic’s New Trick - How They finally solved the “long-running AI agent” problem"
+description: "The Problem: Why AI Agents Lose Steam · The Solution: A Two-Part “Harness” That Mirrors Real Software Engineering · Why This Could Matter (Especially for…"
 date: 2025-11-29 20:35:00 +0800
 type: post
 published: true

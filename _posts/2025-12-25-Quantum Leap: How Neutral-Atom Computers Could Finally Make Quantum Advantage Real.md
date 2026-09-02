@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Quantum Leap - How Neutral-Atom Computers Could Finally Make Quantum Advantage Real"
+description: "More Than Another Qubit Race · From Lab Exoticism to Scalable Reality · Glossary: Quantum Terms Made Simple"
 date: 2025-12-25 20:06:00 +0800
 type: post
 published: true

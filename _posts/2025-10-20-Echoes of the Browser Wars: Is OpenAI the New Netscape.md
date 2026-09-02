@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Echoes of the Browser Wars - Is OpenAI the New Netscape"
+description: "When the Platform Crushed the Pioneer · Can the Story End Differently? · The Echo From the Past"
 date: 2025-10-20 09:47:00 +0800
 type: post
 published: true

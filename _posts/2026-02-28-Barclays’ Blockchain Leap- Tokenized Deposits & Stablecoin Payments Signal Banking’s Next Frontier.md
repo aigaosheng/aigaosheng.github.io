@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Barclays’ Blockchain Leap- Tokenized Deposits & Stablecoin Payments Signal Banking’s Next Frontier"
+description: "From Exploration to Execution: What Barclays Is Doing · Banking’s Digital Money Race · What It Means for the Future of Banking"
 date: 2026-02-28 18:03:00 +0800
 type: post
 published: true

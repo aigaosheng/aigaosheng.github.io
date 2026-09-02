@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SpectroGen: The AI Revolutionizing Material Quality Control"
+description: "In the fast-paced world of innovation, ensuring the quality of new materials is paramount. Enter SpectroGen, a groundbreaking AI tool developed by MIT…"
 date: 2025-10-14 23:40:00 +0800
 type: post
 published: true

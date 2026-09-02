@@ -2,6 +2,7 @@
 layout: post
 title: "Payment Brief — 2026-06-18"
 series: "Payments"
+description: "Nuvei to Acquire Payoneer for $2.75 Billion in Major Fintech Consolidation · HKEX and HKMA Launch Pilot for e-HKD in Derivatives After-Hours Trading…"
 date: 2026-06-18 21:00:00 +0800
 type: post
 published: true
