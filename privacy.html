@@ -1,0 +1,136 @@
+---
+layout: page
+title: "Privacy Policy"
+description: "How aisengtech.com uses cookies, Google Analytics and Google AdSense, and what choices you have."
+hero: "What this site collects, who it shares it with, and how to opt out."
+permalink: /privacy/
+---
+
+<!--
+    DRAFT -- review before relying on it.
+
+    This is a factual description of what the site actually does, written to
+    satisfy the disclosure that Google AdSense's program policies require of
+    every publisher: that the site discloses third-party cookie and ad-serving
+    use, names Google, and links to Google's own controls. It is not legal
+    advice and it has not been reviewed by a lawyer. If the site starts
+    collecting anything else -- a newsletter signup, a contact form, an
+    account -- this page has to be updated to match.
+
+    Why it exists at all: the footer's "Privacy & Support" link pointed at
+    Privacy&Support.html, which is the landing page for Wraith, a separate
+    product. It described an on-device iOS assistant and said nothing about
+    this site's analytics or advertising. That page is deliberately left
+    untouched -- its URL is likely registered outside this repo -- and this is
+    a new page rather than a rewrite of it.
+
+    NOTE: do not write Liquid tags inside these comments. Liquid runs before
+    the HTML is parsed, so anything in braces here still executes.
+-->
+
+<p><em>Last updated: {{ site.time | date: "%-d %B %Y" }}</em></p>
+
+<p>
+  This policy covers <strong>aisengtech.com</strong>: the daily briefs, the
+  series pages, and the pages describing consulting and development services.
+  Other products whose pages are hosted on this domain publish their own
+  policies, linked from their own pages.
+</p>
+
+<h2>What this site asks you for</h2>
+
+<p>
+  Nothing. There is no account, no newsletter signup, no comment box and no
+  contact form. The site never asks you to type anything except a search term,
+  and search runs entirely in your own browser &mdash; the index is a static
+  file your browser downloads, and what you type into it is never sent
+  anywhere.
+</p>
+
+<h2>What is collected automatically</h2>
+
+<h3>Google Analytics 4</h3>
+
+<p>
+  This site uses Google Analytics 4 to count visits and see which briefs get
+  read. It sets cookies in your browser and reports to Google: the page you are
+  on, the page that referred you, your approximate location (derived from your
+  IP address, which Google truncates before storing), your device type,
+  browser and screen size, and how far down the page you scroll. IP addresses
+  are not stored in a form that identifies you, and the data is not used to
+  build an advertising profile of you here.
+</p>
+
+<h3>Google AdSense</h3>
+
+<p>
+  This site shows ads served by Google AdSense. Google and its advertising
+  partners use cookies and similar technologies to serve those ads, to measure
+  whether they were seen, and &mdash; where you have consented, or where local
+  law permits it &mdash; to personalise them based on your previous visits to
+  this and other websites. Google's use of advertising cookies is described in
+  <a href="https://policies.google.com/technologies/ads" rel="noopener noreferrer" target="_blank">Google's advertising policy</a>,
+  and its handling of data from sites that use its services in the
+  <a href="https://policies.google.com/technologies/partner-sites" rel="noopener noreferrer" target="_blank">Google Privacy &amp; Terms partner-sites notice</a>.
+</p>
+
+<p>
+  Third-party vendors and ad networks other than Google may also serve ads
+  here. Where they do, they may set their own cookies.
+</p>
+
+<h3>Hosting</h3>
+
+<p>
+  The site is served as static files by GitHub Pages. GitHub logs requests,
+  including IP addresses, as part of operating the service; see the
+  <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement" rel="noopener noreferrer" target="_blank">GitHub Privacy Statement</a>.
+  Some page assets &mdash; icon fonts, the search library &mdash; are loaded
+  from public CDNs (cdnjs and jsDelivr), which see your IP address as part of
+  delivering the file.
+</p>
+
+<h2>Your choices</h2>
+
+<ul>
+  <li>
+    Turn off personalised advertising across the web at
+    <a href="https://myadcenter.google.com/" rel="noopener noreferrer" target="_blank">Google My Ad Center</a>.
+    You will still see ads here; they just will not be based on your browsing
+    history.
+  </li>
+  <li>
+    Opt out of third-party vendors' use of cookies for personalised ads at
+    <a href="https://optout.aboutads.info/" rel="noopener noreferrer" target="_blank">aboutads.info</a>
+    or <a href="https://www.youronlinechoices.eu/" rel="noopener noreferrer" target="_blank">Your Online Choices</a> (EU/UK).
+  </li>
+  <li>
+    Block or delete cookies in your browser settings. Nothing on this site
+    depends on them.
+  </li>
+  <li>
+    Install Google's
+    <a href="https://tools.google.com/dlpage/gaoptout" rel="noopener noreferrer" target="_blank">Analytics opt-out browser add-on</a>
+    to stop Google Analytics on every site, including this one.
+  </li>
+</ul>
+
+<h2>Children</h2>
+
+<p>
+  This site is written for professional readers and is not directed at children
+  under 13. It does not knowingly collect information from them.
+</p>
+
+<h2>Changes</h2>
+
+<p>
+  If what the site collects changes, this page changes with it, and the date at
+  the top is updated.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+  Questions about this policy: <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+</p>
