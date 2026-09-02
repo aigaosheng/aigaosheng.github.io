@@ -214,7 +214,11 @@ featured-tags-max: 40
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+#
+# Colour Chrome/Android paint the browser chrome with. Was pure black, which
+# read as a different brand from every icon and hero on the site; this is the
+# navy ground of the mark in image/logo.png.
+chrome-tab-theme-color: "#0f1a26"
 service-worker: true
 
 

@@ -79,15 +79,33 @@
     <!-- Web App Manifest -->
     <!-- <link rel="manifest" href="{{ site.baseurl }}/pwa/manifest.json"> -->
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ site.baseurl }}/image/favicon.ico">
-
     <!--
-        Safari / iOS home-screen icon. This pointed at rawa-sun-falling3.jpg:
-        a 2016x1512 photo weighing 461 KB, which iOS downloads in full and then
-        squashes into a square. image/apple-touch-icon.png is the same subject
-        pre-cropped to the 180x180 iOS expects, at 44 KB.
+        Icon set, all drawn from geometry by _tools/make_logo.py.
+
+        favicon.ico held a single 256x256 image, which left every browser to
+        downscale it to 16px itself -- and browser ICO downscaling is poor. It
+        now embeds 16, 32 and 48 drawn individually at their own optical size:
+        below 32px the nodes of the mark are dropped and the strokes thickened,
+        because at tab size the detailed version goes translucent and the
+        counter inside the A fills in.
+
+        The PNG links come first in preference for browsers that read them; the
+        .ico stays for Windows shortcuts and older clients. rel="shortcut icon"
+        was dropped -- it has never been part of any specification and "icon"
+        alone is what browsers actually match on.
+
+        apple-touch-icon is deliberately opaque with square corners. iOS applies
+        its own rounded mask, so baking corners in produces a double-rounded
+        icon with dark slivers showing at the edges. It previously pointed at a
+        461 KB photograph, then briefly at a 44 KB crop of one; it is now the
+        brand mark at 6.9 KB.
+
+        NOTE: do not write Liquid tags inside these comments. Liquid runs before
+        the HTML is parsed, so anything in braces here still executes.
     -->
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/image/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/image/favicon-16x16.png">
+    <link rel="icon" href="{{ site.baseurl }}/image/favicon.ico" sizes="any">
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/image/apple-touch-icon.png">
     
     <!-- Canonical URL is emitted by the seo tag above, from site.url + page.url -->
