@@ -42,8 +42,12 @@ baseurl: ""
 # Publisher logo. jekyll-seo-tag emits a publisher Organization (with this as
 # its logo) in the article JSON-LD only when site.logo is set; without it the
 # BlogPosting had an author but no publisher, which Google's article guidance
-# lists as recommended and Discover leans on. PLACEHOLDER: this is cropped from
-# the author photo. Replace it with a real wordmark when there is one.
+# lists as recommended and Discover leans on.
+#
+# The mark is an uppercase A drawn as a three-node graph, rendered from geometry
+# by _tools/make_logo.py -- run that to re-export at any size rather than
+# upscaling the PNG. Transparent rounded corners, so it sits correctly on light
+# and dark grounds and platform icon masks have nothing to fight.
 logo: /image/logo.png
 github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git"
 
