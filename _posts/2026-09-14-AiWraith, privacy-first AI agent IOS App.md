@@ -2,7 +2,7 @@
 layout: post
 title: "AiWraith, privacy-first AI agent IOS App"
 description: "AiWraith: Your AI. On your iPhone. Private by design. · What can AiWraith do?"
-date: 2026-08-26 21:00:00 +0800
+date: 2026-09-14 21:50:00 +0800
 type: post
 published: true
 status: publish
@@ -16,7 +16,7 @@ keywords: [AiWraith, chatbot, agent, open-source, on-device AI]
 permalink: /AiWraith, privacy-first AI agent IOS App/
 ---
 
-## AiWraith: Your AI. On your iPhone. Private by design.
+## [AiWraith: Your AI. On your iPhone. Private by design](<https://apps.apple.com/us/app/aiwraith/id6797142575)>)
 
 Meet [**AiWraith**](/wraith-site/index.html), a private AI assistant that runs directly on your iPhone.
 
