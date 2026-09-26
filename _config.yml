@@ -71,6 +71,8 @@ nav:
     url: "/products&services/"
   - title: Search
     url: /search/
+  - title: CV
+    url: /resume/
 
 # Secondary links, footer only.
 nav_secondary:
