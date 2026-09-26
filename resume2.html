@@ -1,0 +1,423 @@
+---
+
+layout: page
+title: "Resume"
+header-img: "image/hero-beach.jpg"
+permalink: "/resume/"
+
+---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1B2430;
+    --ink-soft:#3A4454;
+    --muted:#5B6472;
+    --paper:#EEF1F6;
+    --paper-raised:#FFFFFF;
+    --line:#D3D8E2;
+    --accent:#0e7c7ab5;
+    --accent-ink:#FFFFFF;
+    --gold:#9C6B12;
+    --radius:3px;
+    --serif: "Literata", Georgia, "Times New Roman", serif;
+    --sans: "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --ink:#E7ECF3;
+      --ink-soft:#C7CFDC;
+      --muted:#8B93A4;
+      --paper:#10131C;
+      --paper-raised:#171B26;
+      --line:#2B3242;
+      --accent:#3FBAB5;
+      --accent-ink:#0A1412;
+      --gold:#E0AA4E;
+    }
+  }
+  html[data-theme="light"]{
+    --ink:#1B2430; --ink-soft:#3A4454; --muted:#5B6472;
+    --paper:#EEF1F6; --paper-raised:#FFFFFF; --line:#D3D8E2;
+    --accent:#0E7C7B; --accent-ink:#FFFFFF; --gold:#9C6B12;
+  }
+  html[data-theme="dark"]{
+    --ink:#E7ECF3; --ink-soft:#C7CFDC; --muted:#8B93A4;
+    --paper:#10131C; --paper-raised:#171B26; --line:#2B3242;
+    --accent:#3FBAB5; --accent-ink:#0A1412; --gold:#E0AA4E;
+  }
+
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  @media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto;} *{transition:none !important; animation:none !important;} }
+
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-size:16px;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  a{ color:var(--accent); text-decoration-thickness:1px; text-underline-offset:2px; }
+  a:hover{ text-decoration-thickness:2px; }
+  :focus-visible{ outline:2px solid var(--accent); outline-offset:3px; }
+
+  .wrap{ max-width:760px; margin:0 auto; padding:0 1.5rem; }
+
+  /* nav */
+  nav{
+    position:sticky; top:0; z-index:10;
+    background:color-mix(in srgb, var(--paper) 88%, transparent);
+    backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--line);
+  }
+  nav .wrap{ display:flex; align-items:center; justify-content:space-between; gap:1rem; padding-top:.85rem; padding-bottom:.85rem; }
+  .nav-links{ display:flex; flex-wrap:wrap; gap:1.15rem; font-size:.85rem; }
+  .nav-links a{ color:var(--ink-soft); }
+  .nav-links a:hover{ color:var(--accent); }
+  #theme-toggle{
+    font-family:var(--mono); font-size:.78rem; color:var(--ink-soft);
+    background:transparent; border:1px solid var(--line); border-radius:var(--radius);
+    padding:.3rem .55rem; cursor:pointer;
+  }
+  #theme-toggle:hover{ border-color:var(--accent); color:var(--accent); }
+
+  /* header */
+  header.masthead{ padding:3.2rem 0 2.2rem; }
+  h1.name{
+    font-family:var(--serif); font-weight:600; font-style:italic;
+    font-size:clamp(2.1rem, 4.6vw + 1rem, 3.2rem);
+    margin:0 0 .35rem;
+    letter-spacing:-.01em;
+  }
+  p.role{ font-size:1.05rem; color:var(--ink-soft); margin:0 0 .9rem; font-weight:600; }
+  p.tagline{ max-width:56ch; color:var(--muted); font-size:1rem; margin:0 0 1.6rem; }
+
+  .contact-row{ display:flex; flex-wrap:wrap; gap:0; font-size:.9rem; }
+  .contact-row a{
+    padding:.15rem 1rem .15rem 0; margin-right:1rem;
+    border-right:1px solid var(--line);
+    color:var(--ink-soft);
+  }
+  .contact-row a:last-child{ border-right:none; }
+  .contact-row a:hover{ color:var(--accent); }
+
+  /* at-a-glance strip */
+  .glance{
+    display:grid; grid-template-columns:repeat(4,1fr);
+    border-top:1px solid var(--line); border-bottom:1px solid var(--line);
+    margin:1.6rem 0 3rem;
+  }
+  .glance div{ padding:1.1rem 1rem; border-left:1px solid var(--line); }
+  .glance div:first-child{ border-left:none; padding-left:0; }
+  .glance .fig{ font-family:var(--mono); color:var(--gold); font-weight:600; font-size:1.15rem; display:block; margin-bottom:.3rem; }
+  .glance .lbl{ color:var(--muted); font-size:.82rem; line-height:1.35; }
+
+  /* sections */
+  section{ padding:2.6rem 0; scroll-margin-top:4.5rem; }
+  section + section{ border-top:1px solid var(--line); }
+  h2.section-title{
+    font-family:var(--serif); font-weight:500; font-size:1.4rem;
+    margin:0 0 1.4rem; padding-bottom:.6rem;
+    border-bottom:2px solid var(--accent);
+    display:inline-block;
+  }
+
+  blockquote.summary{
+    margin:0; padding-left:1.15rem; border-left:2px solid var(--accent);
+    font-family:var(--serif); font-style:italic; font-size:1.08rem;
+    color:var(--ink-soft); max-width:64ch;
+  }
+
+  /* expertise */
+  .skill-group{ margin-bottom:1.5rem; }
+  .skill-group:last-child{ margin-bottom:0; }
+  .skill-group h3{
+    font-family:var(--serif); font-style:italic; font-weight:500;
+    font-size:.98rem; color:var(--muted); margin:0 0 .65rem;
+  }
+  .tags{ display:flex; flex-wrap:wrap; gap:.5rem; }
+  .tags span{
+    font-family:var(--mono); font-size:.8rem; color:var(--ink-soft);
+    border:1px solid var(--line); border-radius:var(--radius);
+    padding:.25rem .55rem;
+  }
+
+  /* experience */
+  .entry{
+    display:grid; grid-template-columns:120px 1fr; gap:1.75rem;
+    padding:1.9rem 0; border-top:1px solid var(--line);
+  }
+  .entry:first-child{ border-top:none; padding-top:0; }
+  .entry .when{ font-family:var(--mono); font-size:.82rem; color:var(--muted); padding-top:.2rem; }
+  .entry .role-title{ font-family:var(--serif); font-size:1.15rem; font-weight:600; margin:0 0 .1rem; }
+  .entry .company{ display:block; color:var(--accent); font-weight:600; font-size:.92rem; margin-bottom:.85rem; }
+  .entry ul{ margin:0; padding-left:1.1rem; }
+  .entry li{ margin-bottom:.55rem; color:var(--ink-soft); }
+  .entry li:last-child{ margin-bottom:0; }
+  .metric{ font-family:var(--mono); color:var(--gold); font-weight:600; }
+
+  /* earlier career */
+  .earlier-item{ display:grid; grid-template-columns:120px 1fr; gap:1.75rem; padding:1rem 0; border-top:1px solid var(--line); }
+  .earlier-item:first-child{ border-top:none; padding-top:0; }
+  .earlier-item .when{ font-family:var(--mono); font-size:.82rem; color:var(--muted); }
+  .earlier-item .role-title{ font-weight:600; color:var(--ink); }
+  .earlier-item p{ margin:.25rem 0 0; color:var(--muted); font-size:.92rem; }
+
+  /* education */
+  .edu-item{ padding:1rem 0; border-top:1px solid var(--line); }
+  .edu-item:first-child{ border-top:none; padding-top:0; }
+  .edu-item .degree{ font-family:var(--serif); font-weight:600; margin:0 0 .2rem; }
+  .edu-item .meta{ color:var(--muted); font-size:.9rem; margin:0; }
+
+  footer{ padding:2.6rem 0 3.5rem; border-top:1px solid var(--line); }
+  footer .contact-row{ margin-bottom:.9rem; }
+  footer p{ color:var(--muted); font-size:.85rem; margin:0; }
+
+  @media (max-width:600px){
+    .entry, .earlier-item{ grid-template-columns:1fr; gap:.4rem; }
+    .glance{ grid-template-columns:repeat(2,1fr); }
+    .glance div:nth-child(3){ border-left:none; }
+    .glance div:nth-child(odd){ border-left:none; }
+    .contact-row a{ margin-right:.7rem; padding-right:.7rem; }
+  }
+
+  @media print{
+    nav{ display:none; }
+    section{ padding:1.2rem 0; }
+    body{ background:#fff; color:#111; }
+    a{ color:#111; text-decoration:none; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="wrap">
+    <div class="nav-links">
+      <a href="#summary">Summary</a>
+      <a href="#expertise">Expertise</a>
+      <a href="#experience">Experience</a>
+      <a href="#education">Education</a>
+      <a href="#contact">Contact</a>
+    </div>
+    <button id="theme-toggle" type="button" aria-label="Toggle color theme">Dark / Light</button>
+  </div>
+</nav>
+
+<div class="wrap">
+
+  <header class="masthead" id="top">
+    <h1 class="name">Sheng Gao</h1>
+    <p class="role">Enterprise AI Lead, MatchMove</p>
+    <p class="tagline">20+ years building GenAI, NLP, and multimodal systems for fintech, e-commerce, and media, from acoustic models at A*STAR to agentic AI platforms at MatchMove.</p>
+    <div class="contact-row">
+      <a href="mailto:goseng123@gmail.com">Email</a>
+      <a href="https://www.linkedin.com/in/dlsheng" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/aigaosheng" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://scholar.google.com/citations?user=pNVyMb0AAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://aisengtech.com" target="_blank" rel="noopener">Website</a>
+    </div>
+  </header>
+
+  <div class="glance">
+    <div><span class="fig">50M×60M</span><span class="lbl">SKU product matching at 92%+ accuracy, Lazada</span></div>
+    <div><span class="fig">97%+</span><span class="lbl">precision music search across 10M tracks, A*STAR</span></div>
+    <div><span class="fig">50%</span><span class="lbl">CTR lift from ad optimization models, MediaCorp</span></div>
+    <div><span class="fig">30+</span><span class="lbl">published papers in multimedia and NLP research</span></div>
+  </div>
+
+  <section id="summary">
+    <h2 class="section-title">Summary</h2>
+    <blockquote class="summary">
+      Visionary AI/ML leader with 20+ years of experience delivering scalable GenAI, NLP, and multimodal systems across fintech, e-commerce, and media. Proven track record building high-impact products that drive measurable business growth and user engagement. Expert in LLMs, deep learning, and AI productization, bridging cutting-edge research with real-world deployment.
+    </blockquote>
+  </section>
+
+  <section id="expertise">
+    <h2 class="section-title">Expertise</h2>
+
+    <div class="skill-group">
+      <h3>Models &amp; LLMs</h3>
+      <div class="tags">
+        <span>OpenAI</span><span>Anthropic</span><span>Perplexity</span><span>DeepSeek</span><span>Qwen</span><span>Gemini</span>
+      </div>
+    </div>
+
+    <div class="skill-group">
+      <h3>Frameworks &amp; orchestration</h3>
+      <div class="tags">
+        <span>Claude Code</span><span>LangChain</span><span>LangGraph</span><span>LangSmith</span><span>Airflow</span>
+      </div>
+    </div>
+
+    <div class="skill-group">
+      <h3>Core ML / DL</h3>
+      <div class="tags">
+        <span>PyTorch</span><span>TensorFlow</span><span>Scikit-learn</span><span>NLP</span><span>GenAI</span><span>Multimodal AI</span><span>Computer Vision</span>
+      </div>
+    </div>
+
+    <div class="skill-group">
+      <h3>Engineering &amp; infra</h3>
+      <div class="tags">
+        <span>Python</span><span>SQL</span><span>AWS</span><span>ML Ops</span><span>Prompt Engineering</span><span>API Design</span><span>Real-Time Systems</span>
+      </div>
+    </div>
+  </section>
+
+  <section id="experience">
+    <h2 class="section-title">Experience</h2>
+
+    <div class="entry">
+      <div class="when">Dec 2025 —<br>Now</div>
+      <div>
+        <p class="role-title">Enterprise AI Lead</p>
+        <span class="company">MatchMove</span>
+        <ul>
+          <li>Partnered with CXOs to define and execute enterprise AI strategy across the digital payments ecosystem.</li>
+          <li>Led the architecture and delivery of an enterprise agentic AI platform for a MAS-regulated Banking-as-a-Service fintech operating across <span class="metric">five APAC markets</span>, including an AWS-based medallion lakehouse and hybrid RAG infrastructure integrating Freshdesk, Confluence, Google Workspace, Monday.com, and Slack.</li>
+          <li>Built an enterprise chatbot platform from scratch with Claude: an ingestion pipeline turning heterogeneous ERP data into a structured database, an AI agent harness (skills, tools, chunking, RAG and indexing, caching, memory, fusion), a personal agent and chatbot UX, an auto-tuning agent system, and a dashboard for visualizing and validating data, spanning retrieval, audit logging, query execution flow, and query-response feedback to score quality and surface issues.</li>
+          <li>Built an AI-driven lead generation tool (Claude Skill + MCP) that generates a ranked list of high-quality Ideal Customer Profiles in one click, improving the marketing team's targeting and efficiency by +XXX%.</li>
+          <li>Built an AI-driven business support report generator: ticket data is fetched, processed and structured, used to auto-fill forms, and turned into a formatted report, with an auto-tuning system that compares algorithm-generated reports against human-generated ones to improve accuracy over time.</li>
+          <li>Automated chargeback processing end-to-end in a single console: a user uploads supporting documents, the system processes them and generates a report, and a human reviewer audits and approves it, improving efficiency by +XXX%.</li>
+          <li>Automated Suspicious Transaction Report (STR) generation.</li>
+          <li>Built a reconciliation platform for payment and network cost allocation and optimization.</li>
+          <li>Built an AI-driven post-alert system for fraud/AML investigation.</li>
+          <li>Led AI automation for card management and KYC/KYB systems, and drove cross-functional collaboration on responsible AI governance, risk, and compliance.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="when">Apr 2024 —<br>May 2025</div>
+      <div>
+        <p class="role-title">Senior LLM Developer</p>
+        <span class="company">ATTIX</span>
+        <ul>
+          <li>Spearheaded development of PilotAI, an AI-driven fintech assistant integrating OpenAI, Anthropic, and Perplexity LLMs, accelerating investment productivity.</li>
+          <li>Built a real-time AI agent-based trading signal generation engine, reducing API latency and improving model responsiveness, to support <span class="metric">10K US equity</span>.</li>
+          <li>Delivered personalized portfolio insights, increasing user retention through contextual chat and dynamic profiling.</li>
+          <li>Designed and launched a user profiling feature to support the PilotAI and TradeGPT products.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="when">Nov 2019 —<br>Jan 2024</div>
+      <div>
+        <p class="role-title">Vice President</p>
+        <span class="company">Lazada (Alibaba Group)</span>
+        <ul>
+          <li>Developed a generative fashion model using LoRA + Stable Diffusion, enabling virtual try-ons on mannequin images, reducing seller operation cost and increasing conversion.</li>
+          <li>Built a product matching system (<span class="metric">50M × 60M SKUs</span>) with <span class="metric">92%+</span> accuracy, optimizing pricing and assortment strategies across SEA markets.</li>
+          <li>Created multilingual multimodal deep learning toolkits (CLIP, ViT, ResNet, MoCo; distributed GPU training, inference, and embedding), lifting product match AUC by <span class="metric">11.2%</span>.</li>
+          <li>Launched an image quality evaluation and white-image generation API pipeline, increasing product conversion.</li>
+          <li>Launched product category classification (<span class="metric">2K+</span> categories) using multilingual BERT-based classifiers at <span class="metric">90%+</span> accuracy.</li>
+          <li>Built a personalized voucher recommendation engine, lifting voucher collection and conversion rates by <span class="metric">10%+</span>.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="when">Jul 2018 —<br>Nov 2019</div>
+      <div>
+        <p class="role-title">Lead Data Scientist</p>
+        <span class="company">MediaCorp</span>
+        <ul>
+          <li>Directed a <span class="metric">5-person</span> data science team; developed ad optimization models boosting CTR by <span class="metric">50%</span>.</li>
+          <li>Launched audience segmentation models across age, gender, and ethnicity using NLP and metadata.</li>
+          <li>Deployed forecasting models (API) for news article, podcast, and video traffic to optimize ad inventory.</li>
+          <li>Launched a multilingual (English, Chinese, Tamil, Malay) news article tag system for ad tech.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="when">Jan 2003 —<br>Jul 2018</div>
+      <div>
+        <p class="role-title">Senior Scientist</p>
+        <span class="company">Institute for Infocomm Research, A*STAR</span>
+        <ul>
+          <li>Led multimedia content analysis research and launched the Baidu Music search engine with <span class="metric">97%+</span> precision over <span class="metric">10M</span> songs.</li>
+          <li>Built NLP pipelines for UGC opinion mining, summarization, and normalization.</li>
+          <li>Led the team to <span class="metric">2nd place</span> (auto run) in the ImageCLEF 2007 image retrieval challenge.</li>
+          <li>Published <span class="metric">30+</span> papers in multimedia content understanding and retrieval, acoustic modeling, and NLP.</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3 style="font-family:var(--serif); font-style:italic; font-weight:500; color:var(--muted); margin:2.4rem 0 0;">Earlier career</h3>
+
+    <div class="earlier-item">
+      <div class="when">2002</div>
+      <div><span class="role-title">Research Fellow</span>, National University of Singapore<p>Speech recognition &amp; retrieval research.</p></div>
+    </div>
+    <div class="earlier-item">
+      <div class="when">2001</div>
+      <div><span class="role-title">Invited Researcher</span>, ATR Japan<p>Acoustic modeling for large-vocabulary Chinese speech recognition.</p></div>
+    </div>
+    <div class="earlier-item">
+      <div class="when">1998 —<br>2001</div>
+      <div><span class="role-title">Research Assistant</span>, CAS Institute of Automation<p>Built real-time ASR systems and APIs.</p></div>
+    </div>
+    <div class="earlier-item">
+      <div class="when">1999</div>
+      <div><span class="role-title">Research Assistant</span>, CUHK<p>Studied Mandarin vs. Cantonese acoustic models.</p></div>
+    </div>
+  </section>
+
+  <section id="education">
+    <h2 class="section-title">Education</h2>
+    <div class="edu-item">
+      <p class="degree">Ph.D., Pattern Recognition &amp; Machine Learning</p>
+      <p class="meta">Chinese Academy of Sciences (1998–2001)</p>
+    </div>
+    <div class="edu-item">
+      <p class="degree">M.Eng., Communication Engineering</p>
+      <p class="meta">Beijing University of Posts and Telecommunications (1993–1996)</p>
+    </div>
+    <div class="edu-item">
+      <p class="degree">B.Eng., Electrical Engineering</p>
+      <p class="meta">Northwestern Polytechnical University (1989–1993)</p>
+    </div>
+  </section>
+
+</div>
+
+<footer id="contact">
+  <div class="wrap">
+    <div class="contact-row">
+      <a href="mailto:goseng123@gmail.com">Email</a>
+      <a href="https://www.linkedin.com/in/dlsheng" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/aigaosheng" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://scholar.google.com/citations?user=pNVyMb0AAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://aisengtech.com" target="_blank" rel="noopener">Website</a>
+    </div>
+    <p>Sheng Gao</p>
+  </div>
+</footer>
+
+<script>
+  (function(){
+    var root = document.documentElement;
+    var btn = document.getElementById('theme-toggle');
+    try{
+      var saved = localStorage.getItem('theme');
+      if(saved) root.setAttribute('data-theme', saved);
+    }catch(e){}
+    btn.addEventListener('click', function(){
+      var current = root.getAttribute('data-theme');
+      var isDark = current ? current === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+      var next = isDark ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try{ localStorage.setItem('theme', next); }catch(e){}
+    });
+  })();
+</script>

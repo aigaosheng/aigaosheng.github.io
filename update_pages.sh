@@ -11,5 +11,5 @@ git add .
 git commit -m "update home pages"
 git push
 
-bundle exec jekyll serve
+bundle exec jekyll serve --incremental
 
