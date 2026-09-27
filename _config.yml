@@ -140,10 +140,27 @@ adsense_slots:
 # submitting them spread crawl attention across 2,892 URLs and earns
 # "Indexed, though blocked" / "Crawled - currently not indexed" reports in
 # Search Console. The replacement lists posts and real pages only.
-plugins:
+plugins: &plugins
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  # Enabled by default on GitHub Pages; listed so local builds match it now
+  # that the Gemfile no longer uses the github-pages gem.
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+# GitHub Pages defaults, made explicit for local builds (see Gemfile). Safe mode
+# skips _plugins/ exactly as GitHub Pages does.
+theme: jekyll-theme-primer
+safe: true
+whitelist: *plugins
 
 # Static HTML that lives outside Jekyll's page collection (no front matter, so
 # it never appears in site.pages) but was listed by jekyll-sitemap and should
@@ -166,6 +183,8 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    default_lang: plaintext             # GitHub Pages default
 
 
 
