@@ -2,7 +2,7 @@
 layout: post
 title: "AiWraith, privacy-first AI agent IOS App"
 description: "AiWraith: Your AI. On your iPhone. Private by design. · What can AiWraith do?"
-date: 2026-09-29 22:02:00 +0800
+date: 2026-09-30 20:57:00 +0800
 type: post
 published: true
 status: publish
