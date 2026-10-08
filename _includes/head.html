@@ -85,9 +85,9 @@
         favicon.ico held a single 256x256 image, which left every browser to
         downscale it to 16px itself -- and browser ICO downscaling is poor. It
         now embeds 16, 32 and 48 drawn individually at their own optical size:
-        below 32px the nodes of the mark are dropped and the strokes thickened,
-        because at tab size the detailed version goes translucent and the
-        counter inside the A fills in.
+        below 64px the glass mark is swapped for a flat, heavy "AS" with no
+        robot head or effects, because at tab size that detail turns to noise
+        and the thin leg of the A disappears.
 
         The PNG links come first in preference for browsers that read them; the
         .ico stays for Windows shortcuts and older clients. rel="shortcut icon"
@@ -98,7 +98,7 @@
         its own rounded mask, so baking corners in produces a double-rounded
         icon with dark slivers showing at the edges. It previously pointed at a
         461 KB photograph, then briefly at a 44 KB crop of one; it is now the
-        brand mark at 6.9 KB.
+        brand mark at about 19 KB.
 
         NOTE: do not write Liquid tags inside these comments. Liquid runs before
         the HTML is parsed, so anything in braces here still executes.
