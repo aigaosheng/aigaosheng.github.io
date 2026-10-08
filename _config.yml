@@ -27,7 +27,7 @@ author: Sheng Gao
 # twitter:description on any page that does not supply its own. It was
 # commented out, so the feed had an empty <description> and there was no
 # site-level fallback anywhere.
-description: "Daily briefs and analysis on enterprise agentic AI, fintech and payments, tokenization, and AI governance, plus consulting and development services."
+description: "AI consulting, AI and digital transformation delivery, and AI workflow automation, plus daily briefs on enterprise AI, fintech, payments and AI governance."
 keyword: Enterprise Agentic AI, digital Transformation, Tokenization payment
 # MUST match CNAME (aisengtech.com). This said https://www.aisengtech.com,
 # but www 301-redirects to the apex, so every canonical URL, sitemap entry
@@ -90,7 +90,7 @@ nav_secondary:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: Artificial intelligence, Agentic AI, machine learning, data science, Expert Developers
+sidebar-about-description: "AI consulting · AI & digital transformation delivery · AI workflow automation"
 sidebar-avatar: /image/gs.jpg     
 
 # SNS settings
