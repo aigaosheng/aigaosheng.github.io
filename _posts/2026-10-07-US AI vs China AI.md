@@ -8,7 +8,7 @@ date: 2026-10-07 20:14 +0800
 type: post
 published: true
 status: publish
-categories: [briefing]
+categories: []
 tags:
 
 - us-ai
