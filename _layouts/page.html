@@ -40,6 +40,7 @@ layout: default
             there and only the hero markup below shows.
           {%- endcomment -%}
           {% if page.title %}<h2 class="page-heading">{{ page.title }}</h2>{% endif %}
+          {% if page.h1 %}<h1 class="home-heading">{{ page.h1 }}</h1>{% endif %}
           <!--
             page.hero carries hero markup that must NOT become the SEO meta
             description (see index.html). Pages that only need plain text keep

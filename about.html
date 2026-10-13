@@ -1,24 +1,32 @@
 ---
 layout: page
 title: "About"
-description: "Welcome to Sheng's blog"
+description: "Sheng Gao: 20+ years in machine learning and NLP, now leading enterprise AI in Singapore fintech. How the AISeng Tech briefs are made."
 header-img: "image/hero-beach.jpg"
 permalink: "/about/"
 ---
 
 <div class="zh post-container">
 <blockquote><p>keep curious. Never stop learning<br>活到老，学到老</p></blockquote>
-<p>Welcome to <strong>gao sheng's (GS)</strong> homepage.</p>
-<p> <a href="/resume">
-  (CV) A builder: enterprise AI, digital transformation, workflow automation, machine learning models, deep learning models
-</a> </p>
+
+<p>I'm <strong>Sheng Gao</strong>, a builder in enterprise AI. I have spent more than 20 years in machine learning, NLP and speech recognition, with 40+ publications and a PhD from the Institute of Automation, Chinese Academy of Sciences.</p>
+
+<p>I was a senior scientist at A*STAR I2R, was lead data scientist at MediaCorp and was a VP at Lazada. Today I lead enterprise AI at a Singapore-regulated fintech. <a href="/resume/">Full CV</a></p>
+
+<h5>What this site covers</h5>
+<p>Daily briefs on enterprise AI, fintech, payments and AI governance, with a focus on Singapore and Asia. Browse them by <a href="/series/">series</a>.</p>
+
+<h5>How the briefs are made</h5>
+<p>Briefs are drafted with AI from the linked sources and reviewed by me before publishing. Always check the original source. Views here are my own and not those of any employer.</p>
 
 <p>Loves jogging, cooking, and Kindle.</p>
 
 <h5>Find me @</h5>
 <ul>
-    <li><a href="https://www.linkedin.com/in/dlsheng/">LinkedIn</a></li>
-    <li><a href="https://github.com/aigaosheng">GitHub</a></li> 
+    <li><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}/">LinkedIn</a></li>
+    <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+    <li><a href="/feed.xml">RSS feed</a></li>
+    <li><a href="/products&amp;services/">Work with me</a></li>
 </ul>
 </div>
 
@@ -61,25 +69,4 @@ permalink: "/about/"
     marker.bindPopup(`<strong>${loc.popup}</strong><br/><em>${loc.visited}</em>`);
   });
 
-  map.locate({ setView: false, maxZoom: 12 });
-
-  map.on('locationfound', function(e) {
-    const radius = e.accuracy.toFixed(0);
-    const userPopup = `你在这里 (精度: ${radius} 米)`;
-
-    L.marker(e.latlng).addTo(map)
-      .bindPopup(userPopup)
-      .openPopup();
-
-    L.circle(e.latlng, {
-      color: 'blue',
-      fillColor: '#3f51b5',
-      fillOpacity: 0.2,
-      radius: e.accuracy
-    }).addTo(map);
-  });
-
-  map.on('locationerror', function(e) {
-    console.warn("无法获取位置: " + e.message);
-  });
 </script>

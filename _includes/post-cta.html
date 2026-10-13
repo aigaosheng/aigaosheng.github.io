@@ -1,0 +1,16 @@
+{%- comment -%}
+  End-of-post call to action, included once from _layouts/post.html above the
+  pager. Gives a reader who finished a brief somewhere to go next: follow the
+  briefs, or talk about consulting work.
+{%- endcomment -%}
+<aside class="post-cta">
+    <p>
+        <strong>Get the next brief:</strong>
+        {% if site.linkedin_username %}<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}/" target="_blank" rel="noopener">follow on LinkedIn</a> ·{% endif %}
+        <a href="{{ site.baseurl }}/feed.xml">RSS</a>
+    </p>
+    <p>
+        <strong>Need help putting AI to work?</strong>
+        <a href="{{ site.baseurl }}/products&amp;services/">See services &rarr;</a>
+    </p>
+</aside>
