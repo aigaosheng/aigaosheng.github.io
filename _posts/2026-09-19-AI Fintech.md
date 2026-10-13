@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-19"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "A high-signal briefing on AI-driven financial services, agentic payments, banking governance, and the emerging infrastructure required for autonomous financial activity."
 date: 2026-09-19 20:14:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI finance in Singapore Brief — 2026-10-07"
-series: "AI finance in Singapore"
+series: "Singapore"
 description: "Singapore tightens AI governance for financial institutions while banks and fintechs push agentic AI, tokenised deposits and new finance talent."
 date: 2026-10-07 20:09:00 +0800
 type: post

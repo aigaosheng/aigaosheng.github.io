@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Finance in Singapore Brief — 2026-10-06"
-series: "AI Finance in Singapore"
+series: "Singapore"
 description: "Singapore's banks are scaling AI across wealth, corporate banking and agentic finance as policymakers push investment and adoption."
 date: 2026-10-06 21:06:00 +0800
 type: post

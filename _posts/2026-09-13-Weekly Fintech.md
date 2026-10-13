@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Fintech Brief — AI Agents, Stablecoins and Tokenised Money Move from Experiment to Infrastructure"
-series: "Weekly Fintech"
+series: "AI & Fintech"
 description: "A weekly executive briefing on the fintech industry's biggest developments across AI agents, payments, stablecoins, tokenised money, digital banking and financial infrastructure — with key implications for banks, fintechs, investors and payment leaders."
 date: 2026-09-13 20:40:00 +0800
 type: post

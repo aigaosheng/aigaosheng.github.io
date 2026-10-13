@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security & risk Brief — 2026-08-29"
-series: "AI security & risk"
+series: "AI Security & Risk"
 description: "AI Giants Warn That the Window to Prepare for AI-Driven Cyberattacks Is Closing · OpenAI CEO Calls AI Cyber Defense a “Critically Important Moment”…"
 date: 2026-08-29T20:36:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-09-30"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI-assisted ransomware is accelerating data theft while enterprises expand controls for prompt injection, RAG, agents and MCP security."
 date: 2026-09-30 20:39 +0800
 type: post

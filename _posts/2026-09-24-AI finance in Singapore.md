@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI finance in Singapore Brief — 2026-09-24"
-series: "AI finance in Singapore"
+series: "Singapore"
 description: "A high-signal daily briefing on artificial intelligence, financial services, fintech and AI-enabled finance developments in Singapore."
 date: 2026-09-24 20:01 +0800
 type: post

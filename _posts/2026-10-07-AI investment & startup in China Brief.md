@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-10-07"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China's AI funding market is concentrating capital around DeepSeek while AI-driven valuations and infrastructure demand reshape the startup ecosystem."
 date: 2026-10-07 20:17:00 +0800
 type: post

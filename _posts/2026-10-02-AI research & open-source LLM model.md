@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-10-02"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Today’s research brief covers open MoE infrastructure, adaptive LLM reasoning, and evidence on AI disclosure in code review."
 date: 2026-10-02 19:50:00 +0800
 type: post

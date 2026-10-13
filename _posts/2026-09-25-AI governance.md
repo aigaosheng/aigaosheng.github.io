@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-09-25"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance is moving from principles to operational controls as Australia, financial regulators, boards and global institutions respond to agentic AI risks."
 date: 2026-09-25 20:35:00 +0800
 type: post

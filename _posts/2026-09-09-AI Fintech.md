@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-09"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "Daily intelligence on agentic AI, payments, banking automation, fraud prevention and AI-driven financial services."
 date: 2026-09-09 19:42:00 +0800
 type: post

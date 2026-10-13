@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Governance Brief — 2026-10-11"
-series: "AI Governance"
+series: "AI Governance & Regulation"
 description: "Malaysia advances its AI Nation initiatives under Budget 2027 while the UN highlights human-centric digital governance."
 date: 2026-10-11 21:00:00 +0800
 type: post

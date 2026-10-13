@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-09-28"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance shifts from policy documents toward embedded controls, stronger oversight, and operational accountability for increasingly autonomous systems."
 date: 2026-09-28 19:48 +0800
 type: post

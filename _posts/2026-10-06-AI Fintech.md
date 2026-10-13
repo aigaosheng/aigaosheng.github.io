@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-10-06"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "AI fintech developments in credit scoring, automated collections, agent-driven insurance shopping, and financial cybersecurity."
 date: 2026-10-06 20:57:00 +0800
 type: post

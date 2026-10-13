@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Governance and Regulation Brief — 2026-08-28"
-series: "AI Governance"
+series: "AI Governance & Regulation"
 description: "U.S. Judge Blocks Pentagon’s Blacklisting of Anthropic · Europe’s AI Act Moves From Policy Design to Real-World Enforcement · Indonesia Calls for Stronger…"
 date: 2026-08-28 20:45:00 +0800
 type: post

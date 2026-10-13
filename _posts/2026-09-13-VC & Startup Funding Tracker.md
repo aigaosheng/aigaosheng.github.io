@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Investment & Startup Brief — VC & Startup Funding Tracker"
-series: "Weekly Investment & Startup"
+series: "Investment & Startups"
 description: ""
 date: 2026-09-13 21:19:00 +0800
 type: post

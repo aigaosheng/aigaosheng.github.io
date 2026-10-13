@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Research & Open-Source LLM Model Brief — 2026-10-06"
-series: "AI Research & Open-Source LLM Model"
+series: "AI Research & Open Source"
 description: "Open-weight AI competition intensifies as Mistral unveils a new frontier model while US and Chinese labs push efficient, deployable LLMs."
 date: 2026-10-06 21:06:00 +0800
 type: post

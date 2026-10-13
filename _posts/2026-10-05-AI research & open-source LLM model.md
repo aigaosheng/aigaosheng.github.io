@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-10-05"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Open LLM research is moving toward faster inference, human-feedback training, and reproducible tooling as researchers push beyond model releases."
 date: 2026-10-05 21:08:00 +0800
 type: post

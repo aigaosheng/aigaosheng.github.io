@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-17"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "A high-signal briefing on major AI startup financing, strategic capital flows, and emerging investment themes in China."
 date: 2026-09-17 19:58 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-10-05"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China’s AI investment signal is shifting toward commercial scale, industrial AI and robotics, while Zhipu’s valuation gains sharpen investor focus."
 date: 2026-10-05 21:13:00 +0800
 type: post

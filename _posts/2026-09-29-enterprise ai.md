@@ -2,7 +2,7 @@
 
 layout: post
 title: "enterprise ai Brief — 2026-09-29"
-series: "enterprise ai"
+series: "Enterprise AI"
 description: "Enterprise AI shifts toward governed agents, sovereign infrastructure, and massive compute commitments as deployment moves deeper into business operations."
 date: 2026-09-29 20:55:00 +0800
 type: post

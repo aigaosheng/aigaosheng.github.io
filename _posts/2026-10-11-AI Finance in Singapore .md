@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Finance in Singapore Brief — 2026-10-11"
-series: "AI Finance in Singapore"
+series: "Singapore"
 description: "Singapore's evolving AI governance framework puts responsible deployment, risk oversight, and third-party AI accountability at the center of financial services compliance."
 date: 2026-10-11 21:23:00 +0800
 type: post

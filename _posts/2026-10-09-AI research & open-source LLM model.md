@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-10-09"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Public safety disclosures across Chinese AI model releases remain rare as misuse concerns prompt an open-source AI agent to go closed-source."
 date: 2026-10-09 21:08:00 +0800
 type: post

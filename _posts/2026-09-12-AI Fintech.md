@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-12"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: High-signal daily briefing on AI, banking, payments, fraud, and financial technology
 date: 2026-09-12 19:59:00 +0800
 type: post

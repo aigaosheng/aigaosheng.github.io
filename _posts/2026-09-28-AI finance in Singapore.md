@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI finance in Singapore Brief — 2026-09-28"
-series: "AI finance in Singapore"
+series: "Singapore"
 description: "Singapore's finance ecosystem is applying AI to risk, embedded finance and digital transformation while strengthening cross-border infrastructure."
 date: 2026-09-28 19:35:00 +0800
 type: post

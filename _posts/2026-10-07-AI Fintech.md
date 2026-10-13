@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-10-07"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "Singapore tightens AI risk oversight while tokenised deposits and AI-native finance platforms push financial infrastructure toward greater automation."
 date: 2026-10-07 19:58:00 +0800
 type: post

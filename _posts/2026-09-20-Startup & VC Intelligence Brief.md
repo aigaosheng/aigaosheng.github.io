@@ -2,7 +2,7 @@
 
 layout: post
 title: "Startup & VC Intelligence Brief — September 20, 2026"
-series: "Weekly Startup & VC Intelligence"
+series: "Investment & Startups"
 description: "A data-driven review of major startup funding, valuations, traction and strategic developments involving leading global venture investors."
 date: 2026-09-20 17:30:00 +0800
 type: post

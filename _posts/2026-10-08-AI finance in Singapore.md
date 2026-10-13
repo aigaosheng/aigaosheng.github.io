@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI finance in Singapore Brief — 2026-10-08"
-series: "AI finance in Singapore"
+series: "Singapore"
 description: "Singapore finance is moving from AI experimentation toward workforce redesign, deeper fintech investment, and AI-agent operating models."
 date: 2026-10-08 20:44:00 +0800
 type: post

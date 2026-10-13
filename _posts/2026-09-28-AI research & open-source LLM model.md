@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-09-28"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Today’s brief covers a new 1M-context open-weight model and research on reasoning efficiency, LoRA composition, self-training, and LLM inference."
 date: 2026-09-28 19:24:00 +0800
 type: post

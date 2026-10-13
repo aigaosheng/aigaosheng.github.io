@@ -2,7 +2,7 @@
 
 layout: post
 title: "Quantum progress in research and industry Brief — 2026-09-30"
-series: "Quantum progress in research and industry"
+series: "Quantum Computing"
 description: "Quantum hardware trade-offs are moving into mainstream business strategy while quantum companies strengthen long-term execution."
 date: 2026-09-30 20:30 +0800
 type: post

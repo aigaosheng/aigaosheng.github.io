@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Research and Open-Source LLM Brief — 2026-10-12"
-series: "AI Research and Open-Source LLM"
+series: "AI Research & Open Source"
 description: "Daily intelligence on AI research and open-weight LLMs, focusing on adoption, competitive positioning, and deployment economics."
 date: 2026-10-12 20:53:00 +0800
 type: post

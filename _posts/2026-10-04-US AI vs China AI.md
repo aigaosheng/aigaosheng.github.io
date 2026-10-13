@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-10-04"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "The US doubles down on AI leadership while China expands AI education and deployment, sharpening the competition over talent and adoption."
 date: 2026-10-04 21:03:00 +0800
 type: post

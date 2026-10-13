@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Payment Brief — The Agentic Payments Race Accelerates as Stablecoins Move Into Banking Infrastructure"
-series: "Weekly Payment"
+series: "Payments"
 description: "A weekly executive brief on the fintech landscape, covering agentic payments, stablecoins, digital wallets, tokenised deposits, AI in finance, and the regulatory developments shaping the future of financial services."
 date: 2026-09-13 20:53:00 +0800
 type: post

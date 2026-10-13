@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Governance Brief — 2026-10-06"
-series: "AI Governance"
+series: "AI Governance & Regulation"
 description: "Daily AI governance briefing on UK healthcare AI regulation, lifecycle oversight, and accountability for AI-related security incidents in Australia."
 date: 2026-10-06 20:57:00 +0800
 type: post

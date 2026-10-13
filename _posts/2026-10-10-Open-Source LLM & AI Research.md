@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open-Source LLM & AI Research Daily Briefing — 2026-10-10"
-series: "Open-Source LLM & AI Research"
+series: "AI Research & Open Source"
 description: "Daily briefing on open-weight model releases, AI research breakthroughs, model economics, and emerging open-source LLM strategies."
 date: 2026-10-10 21:48:00 +0800
 type: post

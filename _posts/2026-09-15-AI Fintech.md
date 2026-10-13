@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-15"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "A high-signal briefing on the latest developments at the intersection of artificial intelligence, fintech, banking, and payments."
 date: 2026-09-15 20:11 +0800
 type: post

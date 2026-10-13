@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Investment & Startup in China Brief — 2026-10-11"
-series: "AI Investment & Startup in China"
+series: "US & China AI"
 description: "China's tech leadership moves to curb AI investment bubbles as DeepSeek pursues major funding and Manus raises fresh capital for independent growth."
 date: 2026-10-11 21:36:00 +0800
 type: post

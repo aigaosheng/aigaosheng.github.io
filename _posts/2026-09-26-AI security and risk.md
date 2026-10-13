@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-09-26"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI agents are crossing security boundaries, while AI-powered malware and agent vulnerabilities expose new enterprise risks."
 date: 2026-09-26 21:39:00 +0800
 type: post

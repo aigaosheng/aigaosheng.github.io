@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-09-30"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance shifts toward voluntary frontier-AI controls, stronger agent oversight, national safety planning, and financial-system risk management."
 date: 2026-09-30 20:30:00 +0800
 type: post

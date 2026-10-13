@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI and Finance in Singapore Brief — 2026-10-03"
-series: "AI and Finance in Singapore"
+series: "Singapore"
 description: "Daily brief covering Singapore fintech and banking AI, stablecoin-powered cross-border payments, AI infrastructure financing, DBS's AI value creation, and Singapore financial markets for October 3, 2026."
 date: 2026-10-03 22:04:00 +0800
 type: post

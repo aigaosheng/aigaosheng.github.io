@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-09-29"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Open-weight models and agent research advance rapidly, while new evidence highlights the growing importance of self-improvement, safety, and local AI."
 date: 2026-09-29 23:03:00 +0800
 type: post

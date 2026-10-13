@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-10-04"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI-driven financial attacks, frontier-lab safety concerns, and new agent security controls sharpen the enterprise AI risk picture."
 date: 2026-10-04 20:57:00 +0800
 type: post

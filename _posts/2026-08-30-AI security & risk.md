@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security & risk Brief — 2026-08-30"
-series: "AI security & risk"
+series: "AI Security & Risk"
 description: "More Than 100 Technology Companies Warn That AI Is Narrowing the Cyber Defense Window · Singapore’s AI Security Guidance Puts Agentic AI Governance in the…"
 date: 2026-08-30 21:42:00 +0800
 type: post

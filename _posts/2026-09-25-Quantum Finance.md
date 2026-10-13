@@ -2,7 +2,7 @@
 
 layout: post
 title: "Quantum Finance Brief — 2026-09-25"
-series: "Quantum Finance"
+series: "Quantum Computing"
 description: "Quantum-finance activity today centers on post-quantum trust infrastructure and cryptographic readiness for financial systems."
 date: 2026-09-25 21:02 +0800
 type: post

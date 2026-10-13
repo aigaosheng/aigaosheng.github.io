@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI fintech Brief — 2026-09-29"
-series: "AI fintech"
+series: "AI & Fintech"
 description: "AI is moving into core banking workflows and payment execution, with agentic banking, fraud controls and AI-enabled commerce emerging as key themes."
 date: 2026-09-29 20:51:00 +0800
 type: post

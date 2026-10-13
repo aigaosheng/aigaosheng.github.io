@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-06"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "A daily intelligence brief on the intersection of artificial intelligence, banking, payments, fintech infrastructure, and agentic finance."
 date: 2026-09-06 17:05:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-11"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: China’s AI capital market accelerates, with Z.AI raising $5 billion, Enflame surging on debut, and major early-stage funding reinforcing AI infrastructure and embodied intelligence.
 date: 2026-09-11 20:07 +0800
 type: post

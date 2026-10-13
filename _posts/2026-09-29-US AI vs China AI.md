@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-09-29"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "US-China AI competition is intensifying across frontier models, safety, infrastructure, adoption and strategic technology leadership."
 date: 2026-09-29 21:04:00 +0800
 type: post

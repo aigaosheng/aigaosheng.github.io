@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Fintech Newsletter — September 6, 2026"
-series: "Weekly Fintech Newsletter"
+series: "AI & Fintech"
 description: "Weekly fintech news covering AI commerce, tokenised money, stablecoins, digital banking, payments, and financial regulation."
 date: 2026-09-06 15:42:18 +0800
 type: post

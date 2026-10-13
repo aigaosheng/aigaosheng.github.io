@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI and finance in Singapore Brief — 2026-09-29"
-series: "AI and finance in Singapore"
+series: "Singapore"
 description: "Singapore’s financial sector is scaling AI adoption, workforce skills and agentic-finance governance while AI-powered payments move toward production."
 date: 2026-09-29 21:00:00 +0800
 type: post

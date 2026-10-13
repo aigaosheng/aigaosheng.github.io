@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-09-28"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI agent security is shifting toward enforceable runtime controls, identity, policy enforcement and hardware-level isolation."
 date: 2026-09-28 19:40:00 +0800
 type: post

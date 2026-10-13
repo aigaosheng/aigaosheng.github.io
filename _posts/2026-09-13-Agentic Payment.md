@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Agentic Payment Brief — 2026-09-13"
-series: "Agentic Payment"
+series: "Payments"
 description: "A high-signal briefing on the latest developments in agentic payments, covering AI-agent identity, merchant infrastructure, consumer trust, and autonomous payment adoption."
 date: 2026-09-13 21:55:00 +0800
 type: post

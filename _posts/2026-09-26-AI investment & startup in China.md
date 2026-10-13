@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-26"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China’s AI investment cycle faces a sharper focus on valuation discipline, commercial traction and the economic impact of rapid AI adoption."
 date: 2026-09-26 21:51:00 +0800
 type: post

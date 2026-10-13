@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-10-03"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "AI agents are moving into payments while banks tighten AI governance and confront a new wave of AI-enabled fraud and fintech investment."
 date: 2026-10-03 20:46:00 +0800
 type: post

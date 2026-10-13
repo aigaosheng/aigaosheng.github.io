@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fintech Weekly- AI Governance, Payment Resilience and the Future of Digital Money"
-series: "Weekly Payment"
+series: "AI & Fintech"
 description: "This week in fintech: Singapore strengthens AI risk governance, Mastercard advances offline payments, and open banking and stablecoin infrastructure attract investment."
 date: 2026-10-11 20:37:00 +0800
 type: post

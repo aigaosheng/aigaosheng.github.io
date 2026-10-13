@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-10-08"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Open-model research shifts toward zero-token evaluation, with Darwin-27B-ZTC showing a faster path to calibrated LLM judging."
 date: 2026-10-08 21:09:00 +0800
 type: post

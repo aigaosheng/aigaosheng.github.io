@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Industry Weekly — Issue 2026-09-27 - Agents Move Into Production"
-series: "AI Industry Weekly"
+series: "AI Industry News"
 description: "This week, agent reliability, cheaper frontier models, and open local inference point to AI shifting from models toward operational systems."
 date: 2026-09-27 08:00:00 +0800
 type: post

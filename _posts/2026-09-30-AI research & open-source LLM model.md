@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-09-30"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "DeepSeek expands open AI infrastructure for Huawei Ascend chips while China Telecom releases a 1.2B document-parsing model."
 date: 2026-09-30 20:48:00 +0800
 type: post

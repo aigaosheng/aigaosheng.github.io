@@ -2,7 +2,7 @@
 
 layout: post
 title: "enterprise AI Brief — 2026-09-08"
-series: "enterprise AI"
+series: "Enterprise AI"
 description: "A daily executive briefing on enterprise AI adoption, agentic workflows, governance, infrastructure resilience, and production deployment."
 date: 2026-09-08 20:46 +0800
 type: post

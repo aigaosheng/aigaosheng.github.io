@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-09-03"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "A daily intelligence brief on the intensifying US-China competition across AI models, infrastructure, regulation, chips, and global influence."
 date: 2026-09-03 20:17 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-09-28"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "US-China AI competition is tightening around compute access, regulation, agent safety, and the strategic balance between openness and control."
 date: 2026-09-28 19:17 +0800
 type: post

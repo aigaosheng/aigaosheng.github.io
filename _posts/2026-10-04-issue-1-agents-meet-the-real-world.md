@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Industry Weekly — Issue 2026-10-04 - Agents Meet the Real World"
-series: "AI Industry Weekly"
+series: "AI Industry News"
 description: "This week, agent reliability, frontier-model deployment, and open tooling point AI toward measurable execution rather than benchmark theater."
 date: 2026-10-04 17:30:00 +0800
 type: post

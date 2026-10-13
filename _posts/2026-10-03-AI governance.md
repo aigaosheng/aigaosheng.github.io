@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-10-03"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "Today’s AI governance brief tracks the U.S. shift toward voluntary safety commitments and China’s move toward formal bank-level AI oversight."
 date: 2026-10-03T20:54:00 +0800
 type: post

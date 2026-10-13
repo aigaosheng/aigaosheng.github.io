@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment and startup in China Brief — 2026-09-29"
-series: "AI investment and startup in China"
+series: "US & China AI"
 description: "China’s AI startup market sees fresh capital, tighter talent controls and rising scrutiny of commercialization and AI-agent risk."
 date: 2026-09-29 21:12:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI fintech Brief — 2026-09-30"
-series: "AI fintech"
+series: "AI & Fintech"
 description: "AI moves deeper into fintech infrastructure, from core migration and payment routing to fraud prevention and risk-compliance investment."
 date: 2026-09-30 20:25:00 +0800
 type: post

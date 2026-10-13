@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Investment & Startup in China Brief — 2026-10-12"
-series: "AI Investment & Startup in China"
+series: "US & China AI"
 description: "Tencent considers a $4.5B bond sale to fund AI expansion, while multimodal AI and humanoid robotics attract fresh capital and strategic investment."
 date: 2026-10-12 20:31:00 +0800
 type: post

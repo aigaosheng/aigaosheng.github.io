@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-09-26"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI agent incidents and emerging liability expectations are pushing governance toward stronger accountability, oversight and operational controls."
 date: 2026-09-26 21:33 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-09-26"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "US-China AI competition is shifting toward crisis coordination as Chinese models gain global developer adoption on cost and performance."
 date: 2026-09-26 21:46 +0800
 type: post

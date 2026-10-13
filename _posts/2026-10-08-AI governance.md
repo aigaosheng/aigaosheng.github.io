@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-10-08"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance is shifting toward enforceable safety processes, accountable deployment, and risk controls across frontier AI and financial services."
 date: 2026-10-08 20:30:00 +0800
 type: post

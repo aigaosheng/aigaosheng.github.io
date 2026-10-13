@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-10-06"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "US and Chinese AI developers are converging on capability while competing on open models, compute efficiency, capital and ecosystem control."
 date: 2026-10-06 21:06:00 +0800
 type: post

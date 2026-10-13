@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Finance in Singapore Brief — 2026-10-12"
-series: "AI Finance in Singapore"
+series: "Singapore"
 description: "Singapore's AI finance landscape: agentic AI permissions, consumer financial risk and the economic implications of AI adoption."
 date: 2026-10-12 20:44:00 +0800
 type: post

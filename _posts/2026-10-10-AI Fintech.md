@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Fintech Brief — 2026-10-10"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "AI adoption in financial operations faces a trust gap, with measurable returns, human oversight and controlled autonomy emerging as key priorities."
 date: 2026-10-10 21:16:00 +0800
 type: post

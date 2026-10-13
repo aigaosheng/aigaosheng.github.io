@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-10-08"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China’s AI capital market stays active as Manus raises $500M+, Biren seeks $510M, and new US investment rules raise cross-border risk."
 date: 2026-10-08 21:13:00 +0800
 type: post

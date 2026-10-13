@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Payment Newsletter — Agentic Commerce, Stablecoins and the Race for Payment Infrastructure"
-series: "Weekly Payment"
+series: "Payments"
 description: "Weekly payment technology briefing covering agentic commerce, stablecoins, cross-border payments, digital euro infrastructure, BNPL and payment infrastructure developments."
 date: 2026-09-20 17:14:00 +0800
 type: post

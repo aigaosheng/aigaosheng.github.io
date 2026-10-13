@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-10-07"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Open-weight models are intensifying competition with proprietary AI, while lightweight decision and embedding models broaden self-hosted AI."
 date: 2026-10-07 20:17:00 +0800
 type: post

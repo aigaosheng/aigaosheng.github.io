@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI quantum Brief — 2026-09-24"
-series: "AI quantum"
+series: "Quantum Computing"
 description: "Key developments at the intersection of AI and quantum computing, spanning research, enterprise applications, and emerging hybrid architectures."
 date: 2026-09-24 20:36 +0800
 type: post

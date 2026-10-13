@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-09-25"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "US-China AI competition is entering a dialogue phase, with both sides discussing cooperation while retaining sharply different guardrail approaches."
 date: 2026-09-25 20:51 +0800
 type: post

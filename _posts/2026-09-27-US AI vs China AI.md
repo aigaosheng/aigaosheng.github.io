@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-09-27"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "US-China AI competition shifts toward managed strategic dialogue as both sides establish AI risk channels while China expands its open-source ecosystem."
 date: 2026-09-27 20:38:00 +0800
 type: post

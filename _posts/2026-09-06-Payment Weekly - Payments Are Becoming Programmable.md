@@ -2,7 +2,7 @@
 
 layout: post
 title: "Payment Weekly - Payments Are Becoming Programmable"
-series: "Weekly Payment Newsletter"
+series: "Payments"
 description: "Weekly fintech analysis covering agentic payments, digital wallets, AI in finance, stablecoins, blockchain settlement, tokenization, and payment infrastructure."
 date: 2026-09-06 15:52:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-09-25"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI-agent security shifts toward runtime controls, cryptographic identity, and defenses against autonomous misuse and poisoned AI answers."
 date: 2026-09-25 20:43 +0800
 type: post

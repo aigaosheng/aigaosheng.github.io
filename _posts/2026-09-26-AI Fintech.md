@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-26"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "Banks and regulators are moving AI in finance from experimentation toward customer-facing agents, fraud controls, and governed deployment."
 date: 2026-09-26T21:24:00 +0800
 type: post

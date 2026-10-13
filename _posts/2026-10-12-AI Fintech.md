@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-10-12"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "AI-powered compliance, automated accounts-payable controls, and a €35m investment in AI-driven pricing highlight fintech's focus on operational execution."
 date: 2026-10-12 20:34:00 +0800
 type: post

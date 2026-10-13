@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-10-08"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "China is accelerating AI infrastructure while US controls tighten, sharpening the race over compute, capital, security and global adoption."
 date: 2026-10-08 20:47:00 +0800
 type: post

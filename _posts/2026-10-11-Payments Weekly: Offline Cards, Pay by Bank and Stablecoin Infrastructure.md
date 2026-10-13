@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Payments Weekly- Offline Cards, Pay by Bank and Stablecoin Infrastructure"
-series: "Weekly Payment"
+series: "Payments"
 description: "This week in payments: Mastercard advances offline card payments, TrueLayer raises $27 million, and stablecoin infrastructure expands across global markets."
 date: 2026-10-11 20:28:00 +0800
 type: post

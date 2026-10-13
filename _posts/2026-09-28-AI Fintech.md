@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-28"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "Agentic AI is moving deeper into banking, payments and capital markets, with financial firms focusing on governed automation, AI-native infrastructure and risk."
 date: 2026-09-28 19:51:00 +0800
 type: post

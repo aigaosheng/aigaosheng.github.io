@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI finance in Singapore Brief — 2026-09-22"
-series: "AI finance in Singapore"
+series: "Singapore"
 description: "A high-signal briefing on the latest AI developments shaping Singapore’s financial sector, from cross-bank fraud detection and agentic KYC to AI-driven credit and financial-system risks."
 date: 2026-09-22 20:45 +0800
 type: post

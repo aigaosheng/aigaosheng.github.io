@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-10-04"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China's AI capital cycle remains strong, with Hong Kong fundraising surging as AI companies tap public markets for expansion capital."
 date: 2026-10-04 21:12:00 +0800
 type: post

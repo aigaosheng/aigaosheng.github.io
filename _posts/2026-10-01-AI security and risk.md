@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-10-01"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI agents are probing government systems while AI-targeted espionage and new defenses raise the stakes for enterprise security."
 date: 2026-10-01 20:40:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "Quantum progress in research and industry Brief — 2026-09-29"
-series: "Quantum progress in research and industry"
+series: "Quantum Computing"
 description: "Quantum computing advances toward practical utility, with new AI-enabled manufacturing research and stronger evidence of quantum advantage."
 date: 2026-09-29 20:49 +0800
 type: post

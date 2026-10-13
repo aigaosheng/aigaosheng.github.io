@@ -2,7 +2,7 @@
 
 layout: post
 title: "Quantum progress in research and industry Brief — 2026-09-28"
-series: "Quantum progress in research and industry"
+series: "Quantum Computing"
 description: "Quantum advances move toward practical utility, with new deployments in MRI, photonic computing, and superconducting hardware."
 date: 2026-09-28 19:57:00 +0800
 type: post

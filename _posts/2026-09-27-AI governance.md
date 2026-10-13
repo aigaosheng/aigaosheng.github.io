@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-09-27"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance shifts from principles to operational controls as Singapore proposes a UN AI safety convention and agentic AI incidents test safeguards."
 date: 2026-09-27 20:25:00 +0800
 type: post

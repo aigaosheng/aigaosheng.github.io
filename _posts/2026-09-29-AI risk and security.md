@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI risk and security Brief — 2026-09-29"
-series: "AI risk and security"
+series: "AI Security & Risk"
 description: "AI agents are driving new security controls, enterprise caution and safety concerns as autonomous systems increasingly interact with real-world infrastructure."
 date: 2026-09-29 20:57:00 +0800
 type: post

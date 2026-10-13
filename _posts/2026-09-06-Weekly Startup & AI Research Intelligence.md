@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Startup & AI Research Intelligence — September 6, 2026"
-series: "Weekly Startup & AI Research Intelligence"
+series: "Investment & Startups"
 description: "Weekly intelligence covering startup funding, venture capital, agentic AI, enterprise AI, AI security, infrastructure and the latest AI research."
 date: 2026-09-06 16:00:00 +0800
 type: post

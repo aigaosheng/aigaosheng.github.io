@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-25"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "Agentic commerce, bank AI economics, AI governance and fraud infrastructure dominated today’s AI fintech agenda."
 date: 2026-09-25 20:31 +0800
 type: post

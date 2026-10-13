@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-10"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: China's AI investment market accelerates across frontier models, embodied AI, AI infrastructure, and model evaluation, while IPO pipelines deepen.
 date: 2026-09-10 20:26:00 +0800
 type: post

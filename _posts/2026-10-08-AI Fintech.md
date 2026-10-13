@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-10-08"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "Agentic banking moves toward production as Backbase launches governed AI actions, TODAY raises €2.8M, and StraitsX advances agentic payments."
 date: 2026-10-08 20:20:00 +0800
 type: post

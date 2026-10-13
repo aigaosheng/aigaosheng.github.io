@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-30"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China’s AI capital cycle shows renewed momentum, with strategic funding and policy support flowing into automotive AI and hard-tech startups."
 date: 2026-09-30 20:53:00 +0800
 type: post

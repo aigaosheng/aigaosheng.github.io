@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-10-02"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance is shifting toward tighter state oversight, voluntary industry safety commitments, and new scrutiny of frontier-model risks."
 date: 2026-10-02 19:23:00 +0800
 type: post

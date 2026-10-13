@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-10-01"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "AI agents are moving deeper into payments and banking as transaction intelligence, agentic banking, and AI compliance gain momentum."
 date: 2026-10-01 20:28:00 +0800
 type: post

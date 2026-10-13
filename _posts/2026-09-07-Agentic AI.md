@@ -2,7 +2,7 @@
 
 layout: post
 title: "Agentic AI Brief — 2026-09-07"
-series: "Agentic AI"
+series: "AI Research & Open Source"
 description: "A daily executive brief on the latest developments in autonomous AI agents, enterprise adoption, governance, security, and market implications."
 date: 2026-09-07 20:08 +0800
 type: post

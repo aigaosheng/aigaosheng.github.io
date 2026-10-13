@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-09-27"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Qwen published new open-weight streaming guard checkpoints, extending real-time safety moderation to lightweight LLM deployments."
 date: 2026-09-27 20:41:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-10-08"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI agents are moving from experimental risk to operational security exposure, driving new attacks, regulatory scrutiny, and containment controls."
 date: 2026-10-08 20:31:00 +0800
 type: post

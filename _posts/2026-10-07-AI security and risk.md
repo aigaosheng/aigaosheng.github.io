@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-10-07"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI-driven attacks, agent misuse and tighter security controls are moving from theoretical risks into operational concerns for enterprises."
 date: 2026-10-07 20:09:00 +0800
 type: post

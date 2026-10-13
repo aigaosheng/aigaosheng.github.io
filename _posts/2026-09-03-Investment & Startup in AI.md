@@ -2,7 +2,7 @@
 
 layout: post
 title: "Investment & Startup in AI Brief — 2026-09-03"
-series: "Investment & Startup in AI"
+series: "Investment & Startups"
 description: "Daily intelligence briefing on AI startup funding, venture capital, strategic investments, and emerging AI companies."
 date: 2026-09-03 20:24:00 +0800
 type: post

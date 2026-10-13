@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Research & Open-Source LLM Model Brief — 2026-10-11"
-series: "AI Research & Open-Source LLM Model"
+series: "AI Research & Open Source"
 description: "Developments in AI research verification, open-weight decision models, constrained decoding, and foundation-model data protection."
 date: 2026-10-11 21:30:00 +0800
 type: post

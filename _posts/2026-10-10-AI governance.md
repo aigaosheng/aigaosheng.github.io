@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI governance Brief — 2026-10-10"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance briefing on US industry self-regulation, safety commitments, and the accountability challenges facing frontier AI developers."
 date: 2026-10-10 21:23:00 +0800
 type: post

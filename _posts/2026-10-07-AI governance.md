@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-10-07"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance is moving toward enforceable accountability, with Singapore setting financial-sector controls and US lawmakers pushing liability rules."
 date: 2026-10-07 19:58:00 +0800
 type: post

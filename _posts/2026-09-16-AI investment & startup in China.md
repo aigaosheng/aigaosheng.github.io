@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-16"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China's AI capital market on September 16: ByteDance's AI drug spin-off raises $290 million, while new capital targets recursive AI, AI for Science, and AI infrastructure."
 date: 2026-09-16 20:06:00 +0800
 type: post

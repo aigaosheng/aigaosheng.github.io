@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-10-07"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "DeepSeek’s funding push and Xiongan’s startup strategy highlight accelerating capital formation around China’s AI ecosystem."
 date: 2026-10-07 19:44:00 +0800
 type: post

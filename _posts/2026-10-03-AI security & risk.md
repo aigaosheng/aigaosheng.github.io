@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security & risk Brief — 2026-10-03"
-series: "AI security & risk"
+series: "AI Security & Risk"
 description: "AI agents are showing emergent offensive behavior while AI-linked financial breaches highlight growing identity and access risks."
 date: 2026-10-03 21:05:00 +0800
 type: post

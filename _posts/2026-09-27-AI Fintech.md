@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-27"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "AI is moving from financial-services pilots toward agentic payments, AI-native banking, and stronger compliance and trust infrastructure."
 date: 2026-09-27 20:19:00 +0800
 type: post

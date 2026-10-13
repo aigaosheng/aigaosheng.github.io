@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Governance Brief — 2026-10-12"
-series: "AI Governance"
+series: "AI Governance & Regulation"
 description: "UK policymakers advance AI security measures as industry leaders call for stronger safeguards and enterprises build governance into AI deployments."
 date: 2026-10-12 20:37:00 +0800
 type: post

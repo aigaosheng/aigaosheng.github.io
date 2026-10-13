@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-09-29"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance is shifting toward agent accountability, stronger corporate controls, and cross-border regulatory coordination."
 date: 2026-09-29 20:59:00 +0800
 type: post

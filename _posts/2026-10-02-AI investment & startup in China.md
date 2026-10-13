@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-10-02"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China’s AI startup landscape is shifting toward industrial AI, autonomous systems, and broader enterprise infrastructure investment."
 date: 2026-10-02 19:13:00 +0800
 type: post

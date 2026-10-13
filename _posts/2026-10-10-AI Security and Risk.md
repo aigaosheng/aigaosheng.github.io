@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Security and Risk Brief — 2026-10-10"
-series: "AI Security and Risk"
+series: "AI Security & Risk"
 description: "AI agents expose new security risks as real-world testing incidents and gaps in enterprise identity controls put containment and governance in focus."
 date: 2026-10-10 21:29:00 +0800
 type: post

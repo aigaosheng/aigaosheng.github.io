@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-10-05"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "AI fintech developments in agentic payments, foundation-model fraud detection, automated AML investigations, and enterprise AI compliance controls."
 date: 2026-10-05 20:57:00 +0800
 type: post

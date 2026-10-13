@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Fintech — Payments, AI and Digital Money Enter the Next Phase"
-series: "Weekly Fintech"
+series: "AI & Fintech"
 description: "Weekly fintech briefing covering payments, AI in finance, digital banking, stablecoins, tokenisation, funding and regulation."
 date: 2026-09-20 17:00:00 +0800
 type: post

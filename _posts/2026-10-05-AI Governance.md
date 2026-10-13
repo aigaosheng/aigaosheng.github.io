@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Governance Brief — 2026-10-05"
-series: "AI Governance"
+series: "AI Governance & Regulation"
 description: "AI governance developments on oversight, safety commitments, enterprise accountability, and the evolving economics of AI regulation."
 date: 2026-10-05 20:54:00 +0800
 type: post

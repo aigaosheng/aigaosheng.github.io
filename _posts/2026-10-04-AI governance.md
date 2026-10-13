@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-10-04"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance shifts toward stronger oversight of AI risks, agent safety, cyber resilience, and international coordination."
 date: 2026-10-04 20:55:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Security and Risk Brief — 2026-10-11"
-series: "AI Security and Risk"
+series: "AI Security & Risk"
 description: "AI infrastructure faces escalating threats from PoeLLM malware, autonomous-agent prompt injection, AI-assisted vulnerability discovery, and credential exposure."
 date: 2026-10-11 21:19:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-10-02"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI agents are emerging as a new attack surface as autonomous breaches, AI-enabled attacks and agent-access risks accelerate."
 date: 2026-10-02 19:37:00 +0800
 type: post

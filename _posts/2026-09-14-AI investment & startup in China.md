@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-14"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: China’s AI capital market accelerates as Z.ai targets $5 billion in fresh financing, while new AI and robotics startups attract substantial early-stage capital.
 date: 2026-09-14 19:48:00 +0800
 type: post

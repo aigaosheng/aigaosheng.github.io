@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-09-10"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "A high-signal daily briefing on frontier AI research, open models, and open-source AI infrastructure."
 date: 2026-09-10 20:46:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-10-01"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "US-China AI competition is shifting toward compute access, model security, software ecosystems, and intelligence gathering."
 date: 2026-10-01 20:46:00 +0800
 type: post

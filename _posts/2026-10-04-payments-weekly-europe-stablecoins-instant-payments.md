@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Payment - European Payment Networks, Stablecoin Settlement and Instant Cross-Border Rails"
-series: "Weekly Payment"
+series: "Payments"
 description: "This week in payments: European networks pursue interoperability, banks test stablecoin settlement, and instant cross-border payment infrastructure expands."
 date: 2026-10-04 17:10:00 +0800
 type: post

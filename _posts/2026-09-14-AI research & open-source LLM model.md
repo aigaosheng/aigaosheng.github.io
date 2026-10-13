@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-09-14"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: High-signal daily briefing on open-weight models, AI research, inference economics, and the strategic shift toward sovereign and community-driven AI.
 date: 2026-09-14 19:25:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "Quantum Brief — 2026-10-06"
-series: "Quantum"
+series: "Quantum Computing"
 description: "Quantum moves closer to industrial scale as photonic manufacturing, neutral-atom infrastructure and quantum-secure systems advance."
 date: 2026-10-06 21:16:00 +0800
 type: post

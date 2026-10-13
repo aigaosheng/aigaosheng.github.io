@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-10-04"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "AI-fintech coverage on October 4 is limited, with new AI-native banking and financial-services developments emerging across the sector."
 date: 2026-10-04 20:50:00 +0800
 type: post

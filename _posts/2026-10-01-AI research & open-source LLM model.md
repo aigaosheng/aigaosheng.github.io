@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-10-01"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "New research targets better agent memory and automated defenses for code-generating LLMs, highlighting context and security as key research fronts."
 date: 2026-10-01T20:51:00 +0800
 type: post

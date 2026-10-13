@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-12"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: China AI investment, startup funding, AI infrastructure and capital-market developments on September 12, 2026
 date: 2026-09-12 19:54:00 +0800
 type: post

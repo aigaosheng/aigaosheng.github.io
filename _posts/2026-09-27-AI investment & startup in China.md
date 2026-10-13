@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-27"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China’s AI funding remains concentrated in physical AI, AI applications and infrastructure as investors reassess models and commercialization."
 date: 2026-09-27 20:13:00 +0800
 type: post

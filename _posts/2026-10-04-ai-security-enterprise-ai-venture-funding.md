@@ -2,7 +2,7 @@
 
 layout: post
 title: "Weekly Startup Funding - AI Agents, Cybersecurity and Enterprise AI"
-series: "Weekly Startup Funding"
+series: "Investment & Startups"
 description: "Weekly venture capital intelligence covering AI agents, cybersecurity, enterprise AI funding, investor activity and strategic opportunities across global startup markets."
 date: 2026-10-04 16:53:00 +0800
 type: post

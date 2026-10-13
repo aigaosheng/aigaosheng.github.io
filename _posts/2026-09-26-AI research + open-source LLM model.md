@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-09-26"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Liquid AI advances open VLM inference with speculative decoding, while new AI-agent research highlights faster, more autonomous model workflows."
 date: 2026-09-26 21:18:00 +0800
 type: post

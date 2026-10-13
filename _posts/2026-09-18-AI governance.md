@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-09-18"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "A high-signal briefing on the latest AI governance, safety, regulatory, and institutional developments shaping the global AI ecosystem."
 date: 2026-09-18 21:06 +0800
 type: post

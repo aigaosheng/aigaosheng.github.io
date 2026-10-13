@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI finance in Singapore Brief — 2026-09-23"
-series: "AI finance in Singapore"
+series: "Singapore"
 description: Singapore AI finance developments spanning banking, digital wealth, payments, capital markets and AI infrastructure.
 date: 2026-09-23 20:26:00 +0800
 type: post

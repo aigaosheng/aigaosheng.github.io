@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-09-11"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: AI and fintech developments spanning agentic payments, financial services AI, payment security, interoperability, and regulatory strategy.
 date: 2026-09-11 19:51:00 +0800
 type: post

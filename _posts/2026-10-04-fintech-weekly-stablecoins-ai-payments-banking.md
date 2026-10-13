@@ -2,7 +2,7 @@
 
 layout: post
 title: "Fintech Weekly - Stablecoins, AI Payments and the Future of Banking"
-series: "Weekly Fintech"
+series: "AI & Fintech"
 description: "Fintech weekly briefing covering stablecoin adoption, instant payments, agentic AI, embedded finance, banking technology and regulatory developments."
 date: 2026-10-04 17:00:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-10-03"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China’s AI capital story is increasingly centered on compute infrastructure and a higher commercial bar for embodied-AI startups."
 date: 2026-10-03 20:37 +0800
 type: post

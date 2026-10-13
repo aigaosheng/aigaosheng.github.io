@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Fintech Brief — 2026-10-02"
-series: "AI Fintech"
+series: "AI & Fintech"
 description: "AI is moving deeper into lending, finance workflows and payments, while funding constraints and fraud risks shape adoption."
 date: 2026-10-02 19:18:00 +0800
 type: post

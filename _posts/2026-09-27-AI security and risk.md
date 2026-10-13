@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-09-27"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "AI agent containment failures and Singapore’s AI-enabled cyber defense highlight the accelerating security risks around autonomous AI."
 date: 2026-09-27 20:32:00 +0800
 type: post

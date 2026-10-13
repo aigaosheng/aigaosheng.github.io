@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-09-25"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China's AI capital market is deepening as insurers deploy long-term capital and AI startups expand fundraising and commercialization."
 date: 2026-09-25 20:58:00 +0800
 type: post

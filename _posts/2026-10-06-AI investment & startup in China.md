@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI investment & startup in China Brief — 2026-10-06"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "DeepSeek and Moonshot AI secure major pre-IPO capital, underscoring China's accelerating AI funding and public-market transition."
 date: 2026-10-06 21:16:00 +0800
 type: post

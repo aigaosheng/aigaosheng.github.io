@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Security and Risk Brief — 2026-10-09"
-series: "AI Security and Risk"
+series: "AI Security & Risk"
 description: "AI-enabled cyberattacks, agent misuse and gaps in model safety transparency put defensive readiness and AI governance in focus."
 date: 2026-10-09 21:00:00 +0800
 type: post

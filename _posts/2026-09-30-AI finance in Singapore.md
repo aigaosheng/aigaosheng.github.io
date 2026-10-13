@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI finance in Singapore Brief — 2026-09-30"
-series: "AI finance in Singapore"
+series: "Singapore"
 description: "Singapore’s financial sector is pushing AI from experimentation toward scaled adoption, with DBS highlighting AI-driven finance and investment transformation."
 date: 2026-09-30 20:41:00 +0800
 type: post

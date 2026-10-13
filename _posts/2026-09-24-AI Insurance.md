@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Insurance Brief — 2026-09-24"
-series: "AI Insurance"
+series: "AI & Fintech"
 description: "A daily intelligence brief on AI adoption, insurance operations, emerging AI risks, underwriting, claims, cyber coverage, and insurance infrastructure."
 date: 2026-09-24 20:14:00 +0800
 type: post

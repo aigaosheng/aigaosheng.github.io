@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-10-01"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: "AI governance shifts toward enterprise sovereignty, stronger public-sector accountability, and new security challenges from autonomous AI agents."
 date: 2026-10-01 20:31:00 +0800
 type: post

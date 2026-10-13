@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Governance Brief — 2026-10-09"
-series: "AI Governance"
+series: "AI Governance & Regulation"
 description: "Daily AI governance briefing covering China's AI oversight, US federal safety coordination, and emerging safeguards for autonomous AI systems."
 date: 2026-10-09 20:51:00 +0800
 type: post

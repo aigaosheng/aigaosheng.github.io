@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Security and Risk Brief — 2026-10-05"
-series: "AI Security and Risk"
+series: "AI Security & Risk"
 description: "Daily AI security briefing on rogue agents, healthcare data exposure, and the growing challenge of securing AI-generated code and credentials."
 date: 2026-10-05 21:00:00 +0800
 type: post

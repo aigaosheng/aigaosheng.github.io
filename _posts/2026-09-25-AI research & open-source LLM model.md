@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI research & open-source LLM model Brief — 2026-09-25"
-series: "AI research & open-source LLM model"
+series: "AI Research & Open Source"
 description: "Open-model research is shifting toward agentic systems, decision models, production observability, and more efficient deployment."
 date: 2026-09-25 20:54:00 +0800
 type: post

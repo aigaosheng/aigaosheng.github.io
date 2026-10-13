@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI governance Brief — 2026-09-05"
-series: "AI governance"
+series: "AI Governance & Regulation"
 description: Daily intelligence brief on regulatory, geopolitical, and enterprise AI governance policy developments.
 date: 2026-09-05 20:00:00 +0800
 type: post

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enterprise AI Intelligence Brief — 2026-10-10"
-series: "Enterprise AI Intelligence"
+series: "Enterprise AI"
 description: "Enterprise AI briefing on agent ecosystems, GPU neoclouds, edge infrastructure, model routing, agent security, and AI training data."
 date: 2026-10-10 21:48:00 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-10-07"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "China narrows the AI gap through global model adoption while the US focuses on frontier leadership, security, and strategic competition."
 date: 2026-10-07 20:14 +0800
 type: post

@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI Investment & Startup in China Brief — 2026-10-09"
-series: "AI investment & startup in China"
+series: "US & China AI"
 description: "China tightens oversight of AI investment and industrial expansion, highlighting the balance between strategic funding, commercialization, and financial discipline."
 date: 2026-10-09 21:12:00 +0800
 type: post

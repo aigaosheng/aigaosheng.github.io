@@ -2,7 +2,7 @@
 
 layout: post
 title: "AI security and risk Brief — 2026-09-18"
-series: "AI security and risk"
+series: "AI Security & Risk"
 description: "A high-signal briefing on the latest AI security threats, agentic risk, AI-enabled attacks, and enterprise security developments."
 date: 2026-09-18 21:10 +0800
 type: post

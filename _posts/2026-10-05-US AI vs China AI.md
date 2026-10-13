@@ -2,7 +2,7 @@
 
 layout: post
 title: "US AI vs China AI Brief — 2026-10-05"
-series: "US AI vs China AI"
+series: "US & China AI"
 description: "China’s AI gap with the US narrows to 3%, while Washington doubles down on AI leadership and Chinese hardware gains reshape the race."
 date: 2026-10-05 21:08:00 +0800
 type: post

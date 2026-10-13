@@ -2,7 +2,7 @@
 
 layout: post
 title: "Fintech AI Brief — 2026-08-29"
-series: "Fintech AI"
+series: "AI & Fintech"
 description: "YES BANK Uses AI Fest to Accelerate Enterprise AI Adoption · ToxicPanda 2.0 Highlights Growing AI-Era Fraud Challenge for Banks · Fintech AI Adoption Is…"
 date: 2026-08-29 20:19:00 +0800
 type: post
