@@ -41,12 +41,13 @@ name, slug or fixed tag.
 | TOPIC | SERIES | TOPIC_SLUG | FIXED_TAGS | IN SCOPE | NOT IN SCOPE (belongs elsewhere) |
 |---|---|---|---|---|---|
 | AI Finance in Singapore | Singapore | ai-finance-singapore | Singapore, Fintech, Artificial Intelligence | AI at Singapore banks, insurers, fintechs; MAS and Singapore government AI/finance moves | Fintech news with no Singapore angle (AI Fintech) |
-| AI Fintech | AI & Fintech | ai-fintech | Fintech, AI Fintech, Banking | AI in banking, lending, insurance, wealth, payments, outside Singapore | Singapore-specific stories (AI Finance in Singapore) |
+| AI Fintech | AI & Fintech | ai-fintech | Fintech, AI Fintech, Banking | AI in banking, lending, insurance, wealth, outside Singapore | Singapore-specific stories (AI Finance in Singapore); payments and stablecoins (Payments) |
 | AI Governance | AI Governance & Regulation | ai-governance | AI Governance, AI Regulation, AI Policy | AI laws, regulation, standards, enforcement, policy | Attacks, breaches, vulnerabilities (AI Security & Risk) |
 | AI Investment & Startup in China | US & China AI | china-ai-investment-startup | China AI, Startups, Venture Capital | Funding rounds, IPOs, valuations, startup launches in China AI | Chips, export controls, US-China rivalry (US AI vs China AI) |
 | AI Research & Open-Source LLM | AI Research & Open Source | ai-research-open-source-llm | AI Research, Open Source AI, LLM | Model releases, papers, benchmarks, open-weight models | Funding and business deals (Enterprise AI, China investment) |
 | AI Security & Risk | AI Security & Risk | ai-security-and-risk | AI Security, Cybersecurity, AI Safety | Attacks on or with AI, vulnerabilities, AI fraud, safety incidents | New laws and regulation (AI Governance) |
 | Enterprise AI | Enterprise AI | enterprise-ai | Enterprise AI, Agentic AI, AI Agents | Enterprise adoption, vendor platforms, partnerships, deployments | Model research and benchmarks (AI Research) |
+| Payments | Payments | payments | Payments, Stablecoins, Digital Payments | Payment rails, cards, wallets, cross-border and real-time payments, stablecoins, tokenised deposits, agentic commerce; global and Asia, incl. Singapore | AI in banking, lending, insurance, wealth (AI Fintech); AI-driven attacks and breaches (AI Security & Risk) |
 | Quantum | Quantum Computing | quantum | Quantum Computing, Deep Tech | Quantum hardware, research, companies, funding, post-quantum security | Non-quantum AI news |
 | US AI vs China AI | US & China AI | us-ai-vs-china-ai | China AI, US AI, Geopolitics | Chips, export controls, national AI strategies, US-China model competition | China startup funding (AI Investment & Startup in China) |
 

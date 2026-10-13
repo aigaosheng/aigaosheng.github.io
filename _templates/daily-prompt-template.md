@@ -36,12 +36,13 @@ Find the exact row matching [TOPIC]. Copy its SERIES, TOPIC_SLUG and FIXED_TAGS 
 | TOPIC | SERIES | TOPIC_SLUG | FIXED_TAGS | IN SCOPE | NOT IN SCOPE |
 |---|---|---|---|---|---|
 | AI Finance in Singapore | Singapore | ai-finance-singapore | Singapore, Fintech, Artificial Intelligence | AI at Singapore banks, insurers, fintechs; MAS and Singapore government AI/finance moves | Fintech news without a Singapore angle; belongs to AI Fintech |
-| AI Fintech | AI & Fintech | ai-fintech | Fintech, AI Fintech, Banking | AI in banking, lending, insurance, wealth and payments outside Singapore | Singapore-specific stories; belongs to AI Finance in Singapore |
+| AI Fintech | AI & Fintech | ai-fintech | Fintech, AI Fintech, Banking | AI in banking, lending, insurance and wealth outside Singapore | Singapore-specific stories, belong to AI Finance in Singapore; payments and stablecoins, belong to Payments |
 | AI Governance | AI Governance & Regulation | ai-governance | AI Governance, AI Regulation, AI Policy | AI laws, regulation, standards, enforcement and policy | Attacks, breaches and vulnerabilities; belong to AI Security & Risk |
 | AI Investment & Startup in China | US & China AI | china-ai-investment-startup | China AI, Startups, Venture Capital | Funding rounds, IPOs, valuations and startup launches in China AI | Chips, export controls and US-China rivalry; belong to US AI vs China AI |
 | AI Research & Open-Source LLM | AI Research & Open Source | ai-research-open-source-llm | AI Research, Open Source AI, LLM | Model releases, papers, benchmarks and open-weight models | Funding and business deals; belong to Enterprise AI or China investment |
 | AI Security & Risk | AI Security & Risk | ai-security-and-risk | AI Security, Cybersecurity, AI Safety | Attacks on or with AI, vulnerabilities, AI fraud and safety incidents | New laws and regulation; belong to AI Governance |
 | Enterprise AI | Enterprise AI | enterprise-ai | Enterprise AI, Agentic AI, AI Agents | Enterprise adoption, vendor platforms, partnerships and deployments | Model research and benchmarks; belong to AI Research |
+| Payments | Payments | payments | Payments, Stablecoins, Digital Payments | Payment rails, cards, wallets, cross-border and real-time payments, stablecoins, tokenised deposits and agentic commerce; global and Asia, including Singapore | AI in banking, lending, insurance and wealth; belong to AI Fintech. AI-driven attacks and breaches; belong to AI Security & Risk |
 | Quantum | Quantum Computing | quantum | Quantum Computing, Deep Tech | Quantum hardware, research, companies, funding and post-quantum security | Non-quantum AI news |
 | US AI vs China AI | US & China AI | us-ai-vs-china-ai | China AI, US AI, Geopolitics | Chips, export controls, national AI strategies and US-China model competition | China startup funding; belongs to AI Investment & Startup in China |
 
