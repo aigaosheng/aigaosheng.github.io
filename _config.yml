@@ -37,7 +37,7 @@ url: "https://aisengtech.com"
 # is no path prefix. Left unset, jekyll-github-metadata guesses one -- locally
 # it inferred "/pages/aigaosheng" and every site.baseurl-prefixed asset URL,
 # including the publisher logo in the article JSON-LD, came out wrong. Setting
-# it here makes a local build byte-identical to the GitHub Pages build.
+# it here keeps local and CI builds from guessing different prefixes.
 baseurl: ""
 # Publisher logo. jekyll-seo-tag emits a publisher Organization (with this as
 # its logo) in the article JSON-LD only when site.logo is set; without it the
@@ -102,7 +102,11 @@ github_username:    aigaosheng
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
 paginate: 12
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "draft", "docs", "img"]
+# wdpress/assets is ~394 MB of WordPress-export images, about two thirds of the
+# built site. Nothing loads them: the imported posts link to /assets/YYYY/...,
+# not /wdpress/assets/YYYY/..., so those links already 404. Excluding them
+# keeps the files in git while the links are sorted out.
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "draft", "docs", "img", "wdpress/assets"]
 anchorjs: true 
 
 
@@ -145,8 +149,8 @@ plugins: &plugins
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
-  # Enabled by default on GitHub Pages; listed so local builds match it now
-  # that the Gemfile no longer uses the github-pages gem.
+  # Plugins classic GitHub Pages enabled implicitly. Listed explicitly since
+  # the site is built by .github/workflows/pages.yml from the Gemfile.
   - jekyll-coffeescript
   - jekyll-commonmark-ghpages
   - jekyll-gist
@@ -157,8 +161,8 @@ plugins: &plugins
   - jekyll-default-layout
   - jekyll-titles-from-headings
 
-# GitHub Pages defaults, made explicit for local builds (see Gemfile). Safe mode
-# skips _plugins/ exactly as GitHub Pages does.
+# Settings carried over from classic GitHub Pages. Safe mode skips _plugins/,
+# as classic Pages did; the Actions build could run them, but none are relied on.
 theme: jekyll-theme-primer
 safe: true
 whitelist: *plugins

@@ -1,0 +1,107 @@
+# Build the site with the Gemfile's Jekyll 4.3 and publish it to GitHub Pages.
+#
+# This replaces the classic "Deploy from a branch" build, which ran GitHub's
+# own Jekyll 3.10 instead of the Gemfile's 4.3 (so local builds never matched
+# production) and was taking 4-8 minutes against a 10-minute timeout.
+#
+# Takes effect only once Settings -> Pages -> Source is set to "GitHub Actions".
+# Until then this workflow's deploy job fails harmlessly and the classic build
+# keeps publishing.
+name: Deploy site to Pages
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deploy at a time. A newer push queues behind a running deploy rather than
+# cancelling it, so a deploy is never cut off halfway.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      # Ruby version comes from .ruby-version (3.3.6), the same one local
+      # builds use. Gemfile.lock is gitignored; setup-ruby resolves the
+      # Gemfile and caches the installed gems keyed on that resolution.
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+          # jekyll-github-metadata queries the API for repo details; without a
+          # token it falls back to unauthenticated calls and warns.
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+  # Internal links, images and scripts in the built site; external sites are
+  # not fetched. Runs beside deploy, not before it: it takes ~5 minutes over
+  # ~3,300 pages and must not hold up publishing.
+  #
+  # Non-blocking for now. The site has known failures: the WordPress imports
+  # link to /assets/YYYY/ instead of /wdpress/assets/YYYY/, and some posts link
+  # to other posts by title instead of by URL. Drop continue-on-error once the
+  # report is clean.
+  check-links:
+    needs: build
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+
+      - name: Unpack built site
+        run: mkdir _site && tar -xf artifact.tar -C _site
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      # Without a UTF-8 locale html-proofer cannot read pages containing
+      # non-ASCII text, skips them, and still reports success.
+      - name: Run html-proofer
+        env:
+          LC_ALL: C.UTF-8
+          LANG: C.UTF-8
+        run: |
+          gem install html-proofer --version '~> 5.0' --no-document
+          # --ignore-urls: the protocol-relative Font Awesome URL in
+          # _includes/head.html is on every page and would bury everything else.
+          htmlproofer _site \
+            --disable-external \
+            --checks Links,Images,Scripts \
+            --ignore-missing-alt \
+            --allow-missing-href \
+            --no-enforce-https \
+            --ignore-urls '/^\/\/cdnjs\.cloudflare\.com\//' \
+            --swap-urls '^https\://aisengtech\.com:'
