@@ -2,7 +2,7 @@
 layout: post
 title: "How Suno’s Sound Became Silicon’s Latest Billion-Dollar Beat — and Why the Music Industry Is Nervous"
 description: "Why this matters — three threads to watch · Deeper reflections — not just a funding headline · What to watch next"
-date: 2026-10-18 23:07:00 +0800
+date: 2025-10-18 23:07:00 +0800
 type: post
 published: true
 status: publish
