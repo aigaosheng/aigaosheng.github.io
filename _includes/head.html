@@ -53,6 +53,7 @@
     <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
     <link rel="preconnect" href="https://www.googletagmanager.com">
     <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
+    <link rel="preconnect" href="https://fundingchoicesmessages.google.com">
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
 
     <!--
@@ -173,6 +174,17 @@
 {% if site.adsense_client %}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}"
      crossorigin="anonymous"></script>
+
+<!--
+    AdSense ad blocking recovery tag, as issued by AdSense (Privacy & messaging
+    -> Ad blocking recovery). It loads from a different host than the AdSense
+    loader above, so it still runs when an ad blocker has blocked that loader,
+    and shows the recovery message configured in the AdSense dashboard.
+    The publisher ID is derived from adsense_client by dropping the ca- prefix.
+    The second script signals to the message that the tag is present.
+-->
+<script async src="https://fundingchoicesmessages.google.com/i/{{ site.adsense_client | remove_first: 'ca-' }}?ers=1"></script>
+<script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
 {% endif %}
 {% endif %}
 
