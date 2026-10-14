@@ -89,7 +89,11 @@
                     {% endif %}
                 </ul>
                 <p class="copyright text-muted">
-                    Copyright &copy; {{ site.brand | default: site.title }} {{ site.time | date: '%Y' }}
+                    Copyright &copy; 2017&ndash;{{ site.time | date: '%Y' }} {{ site.author }} &middot; {{ site.brand | default: site.title }}
+                    <br>
+                    Content licensed under
+                    <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
+                    &middot; Code under MIT
                     <br>
                     Theme on <a href="{{ site.github_repo }}">GitHub</a> |
                     <iframe

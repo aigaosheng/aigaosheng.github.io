@@ -1,6 +1,38 @@
+This repository contains two kinds of material under different licences.
+
+================================================================================
+1. CONTENT -- Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+================================================================================
+
+Copyright (c) 2017-2026 Sheng Gao (https://aisengtech.com)
+
+All written content and original media on this site -- including blog posts
+and briefs (_posts/, wdpress/), series and page text, and images authored by
+Sheng Gao -- is licensed under the Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License
+(CC BY-NC-ND 4.0).
+
+You may share this content unchanged, with credit and a link to the original,
+for non-commercial purposes only. You may not use it commercially or
+distribute modified versions without written permission.
+
+Full licence text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+Summary:           https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+For permissions beyond this licence, contact goseng123@gmail.com.
+
+================================================================================
+2. CODE -- MIT License
+================================================================================
+
+The site's source code (layouts, includes, CSS, LESS, JavaScript, scripts and
+configuration) is based on the BY Blog / Hux Blog Jekyll theme and remains
+under the MIT License below. Third-party libraries bundled in this repository
+keep their own licences.
+
 MIT License
 
-Copyright (c) 2017 BY 
+Copyright (c) 2017 BY
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
