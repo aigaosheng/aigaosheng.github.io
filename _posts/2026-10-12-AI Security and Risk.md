@@ -65,7 +65,7 @@ Speaking at the DBS Asia Future Forward Conference in Singapore, TikTok CEO Shou
 
 **Why it matters:** Agent security is becoming an identity and access-management problem as much as a model-safety problem. Organizations should apply least-privilege access, restrict financial and sensitive-data permissions, require approval for consequential actions, and maintain auditable activity logs.
 
-🔗 [Read the full story]([https://www.businessinsider.com/tiktok-ceo-shou-zi-](https://www.businessinsider.com/tiktok-ceo-shou-zi-) chew-not-understanding-ai-agent-permissions-2026-10)
+🔗 [Read the full story](https://www.businessinsider.com/tiktok-ceo-shou-zi-chew-not-understanding-ai-agent-permissions-2026-10)
 
 ---
 

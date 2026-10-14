@@ -10,7 +10,7 @@ categories: []
 tags:
 - Hybrid Reasoning Architecture
 keywords: [DeepSeek API pricing 2025,Sparse attention large language models,Open-source reasoning models]
-permalink: /DeepSeek Q3 2025 Product Synthesis- Hybrid Reasoning & Sparse Efficiency Redefine Open-Source LLM Competitiveness"/
+permalink: /DeepSeek Q3 2025 Product Synthesis- Hybrid Reasoning & Sparse Efficiency Redefine Open-Source LLM Competitiveness/
 ---
 **DeepSeek Q3 2025 Product Synthesis: Hybrid Reasoning & Sparse Efficiency Redefine Open-Source LLM Competitiveness"**
 

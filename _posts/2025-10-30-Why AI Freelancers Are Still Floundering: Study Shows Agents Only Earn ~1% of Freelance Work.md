@@ -11,7 +11,7 @@ tags:
 - AI Agents
 - Automation
 keywords: [AI automation, remote labor, generative AI]
-permalink: /Why AI Freelancers Are Still Floundering - Study Shows Agents Only Earn ~1% of Freelance Work/
+permalink: /Why AI Freelancers Are Still Floundering - Study Shows Agents Only Earn ~1 percent of Freelance Work/
 ---
 
 **Why AI Freelancers Are Still Floundering: Study Shows Agents Only Earn ~1% of Freelance Work**

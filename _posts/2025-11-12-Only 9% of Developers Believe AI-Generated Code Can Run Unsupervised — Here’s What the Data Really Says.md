@@ -10,7 +10,7 @@ categories: []
 tags:
 - Software Engineering Trends
 keywords: [AI code, developer survey, software development 2026]
-permalink: /Only 9% of Developers Believe AI-Generated Code Can Run Unsupervised — Here’s What the Data Really Says/
+permalink: /Only 9 percent of Developers Believe AI-Generated Code Can Run Unsupervised — Here’s What the Data Really Says/
 ---
 
 **Only 9% of Developers Believe AI-Generated Code Can Run Unsupervised — Here’s What the Data Really Says**

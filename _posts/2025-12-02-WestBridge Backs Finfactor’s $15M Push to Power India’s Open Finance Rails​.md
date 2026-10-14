@@ -10,7 +10,7 @@ categories: []
 tags:
 - Open Finance
 keywords: [fintech, India Stack, BFSI]  
-permalink: /WestBridge Backs Finfactor’s $15M Push to Power India’s Open Finance Rails​/
+permalink: /WestBridge Backs Finfactor’s $15M Push to Power India’s Open Finance Rails/
 ---
 
 **WestBridge Backs Finfactor’s $15M Push to Power India’s Open Finance Rails​**

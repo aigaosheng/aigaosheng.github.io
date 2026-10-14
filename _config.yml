@@ -102,11 +102,7 @@ github_username:    aigaosheng
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
 paginate: 12
-# wdpress/assets is ~394 MB of WordPress-export images, about two thirds of the
-# built site. Nothing loads them: the imported posts link to /assets/YYYY/...,
-# not /wdpress/assets/YYYY/..., so those links already 404. Excluding them
-# keeps the files in git while the links are sorted out.
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "draft", "docs", "img", "wdpress/assets"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "draft", "docs", "img"]
 anchorjs: true 
 
 

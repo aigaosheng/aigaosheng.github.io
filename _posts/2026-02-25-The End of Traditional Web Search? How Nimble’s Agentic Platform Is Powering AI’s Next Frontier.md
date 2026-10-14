@@ -10,7 +10,7 @@ categories: []
 tags:
 - Enterprise AI
 keywords: [AI search, structured web data, autonomous agents]
-permalink: /The End of Traditional Web Search? How Nimble’s Agentic Platform Is Powering AI’s Next Frontier/
+permalink: /The End of Traditional Web Search How Nimble’s Agentic Platform Is Powering AI’s Next Frontier/
 ---
 
 ## The End of Traditional Web Search? How Nimble’s Agentic Platform Is Powering AI’s Next Frontier

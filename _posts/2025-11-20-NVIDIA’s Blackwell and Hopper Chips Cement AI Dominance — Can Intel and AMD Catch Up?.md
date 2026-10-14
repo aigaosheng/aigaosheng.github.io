@@ -10,7 +10,7 @@ categories: []
 tags:
 - AI Chips
 keywords: [NVIDIA, AI accelerator, Blackwell]
-permalink: /NVIDIA’s Blackwell and Hopper Chips Cement AI Dominance — Can Intel and AMD Catch Up?/
+permalink: /NVIDIA’s Blackwell and Hopper Chips Cement AI Dominance — Can Intel and AMD Catch Up/
 ---
 **NVIDIA’s Blackwell and Hopper Chips Cement AI Dominance — Can Intel and AMD Catch Up?**
 

@@ -39,7 +39,7 @@ permalink: "/2024/03/18/fine-tuning-whisper-model-for-speech-recognition/"
 <p>Although OpenAI open-sourced multi-lingual Whisper model, <a href="https://github.com/openai/whisper">https://github.com/openai/whisper</a>, achived the state-of-art results in the benchmark dataset, there are many scenaria the pretrained models donot work well. For example, the languages not covered in the pretrained model. Whisper-V3 support 100 languages. Thus, the model must be re-trained in order to support new language. For the minority languages, even they are covered in the pretrained model, the accuracy is often worse and need to collect more data to adapt the pretrained model in order to reduce word error rate. In the post, huggingface implemented whisper version is used to fine-tune the Chinese language (It is just for testing training code functionality rather than training a product version model. No computing resource. As soon as resources (computing and data) ready, SOTA model can be trained). You can refer <a href="https://github.com/openai/whisper">Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers</a> . The following figure shows the logic flow for model training.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":2194,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/assets/2024/03/whisper_flow_img.png?w=677" alt="" class="wp-image-2194"></figure>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/wdpress/assets/2024/03/whisper_flow_img.png" alt="" class="wp-image-2194"></figure>
 <p><!-- /wp:image --></p>
 <p><!-- wp:list --></p>
 <ul>

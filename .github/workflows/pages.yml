@@ -67,14 +67,11 @@ jobs:
   # not fetched. Runs beside deploy, not before it: it takes ~5 minutes over
   # ~3,300 pages and must not hold up publishing.
   #
-  # Non-blocking for now. The site has known failures: the WordPress imports
-  # link to /assets/YYYY/ instead of /wdpress/assets/YYYY/, and some posts link
-  # to other posts by title instead of by URL. Drop continue-on-error once the
-  # report is clean.
+  # The report was clean when this job was made blocking. A failure marks the
+  # run red but cannot stop the deploy job, which does not depend on this one.
   check-links:
     needs: build
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
       - uses: actions/download-artifact@v4
         with:
@@ -82,6 +79,20 @@ jobs:
 
       - name: Unpack built site
         run: mkdir _site && tar -xf artifact.tar -C _site
+
+      # A "?", "#", "%" or quote in a permalink builds a page that no plain
+      # link can reach: the browser cuts the URL at "?" or "#", and a bare "%"
+      # is a 400. html-proofer still finds the file on disk, so it misses this.
+      - name: Check for unreachable page paths
+        env:
+          LC_ALL: C.UTF-8
+        run: |
+          bad=$(find _site | grep -P '[?#%"\x{200B}\x{FEFF}]' || true)
+          if [ -n "$bad" ]; then
+            echo "Pages whose URL cannot be linked to (fix the permalink):"
+            echo "$bad"
+            exit 1
+          fi
 
       - uses: ruby/setup-ruby@v1
         with:

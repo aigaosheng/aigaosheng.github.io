@@ -10,7 +10,7 @@ categories: []
 tags:
 - AI Spending
 keywords: [AI investment, data center, bull market]
-permalink: /AI’s High-Stakes Bet - Will Tech Spending Sustain the Stock Market’s Hot Streak?/
+permalink: /AI’s High-Stakes Bet - Will Tech Spending Sustain the Stock Market’s Hot Streak/
 ---
 
 ## AI’s High-Stakes Bet: Will Tech Spending Sustain the Stock Market’s Hot Streak?

@@ -10,7 +10,7 @@ categories: []
 tags:
 - Key Enterprise AI
 keywords: [AI adoption, generative AI, enterprise automation]
-permalink: /When AI Scored 95% – But Humans Didn’t Believe It Was AI/
+permalink: /When AI Scored 95 percent – But Humans Didn’t Believe It Was AI/
 ---
 **When AI Scored 95% – But Humans Didn’t Believe It Was AI**
 

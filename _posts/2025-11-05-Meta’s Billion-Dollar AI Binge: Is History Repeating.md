@@ -10,7 +10,7 @@ categories: []
 tags:
 - Investor Reaction
 keywords: [Meta Platforms, artificial intelligence, stock]
-permalink: /Meta’s Billion-Dollar AI Binge - Is History Repeating?/
+permalink: /Meta’s Billion-Dollar AI Binge - Is History Repeating/
 ---
 **Meta’s Billion-Dollar AI Binge: Is History Repeating?**
 

@@ -10,7 +10,7 @@ categories: []
 tags:
 - AI Energy Efficiency
 keywords: [energy, AI, sustainability]
-permalink: /AI’s Power Shift- How Intelligence Technology Could Slash Global Energy Use by Up to 30%/
+permalink: /AI’s Power Shift- How Intelligence Technology Could Slash Global Energy Use by Up to 30 percent/
 ---
 # 🚀 AI’s Power Shift: How Intelligence Technology Could Slash Global Energy Use by Up to 30%
 

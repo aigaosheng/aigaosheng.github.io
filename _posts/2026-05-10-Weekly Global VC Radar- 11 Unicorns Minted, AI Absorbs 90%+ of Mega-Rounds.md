@@ -11,7 +11,7 @@ categories: []
 tags:
 - Vertical AI
 keywords: [AI funding trends, VC investment strategy, unicorn valuation 2026]
-permalink: /Weekly Global VC Radar- 11 Unicorns Minted, AI Absorbs 90%+ of Mega-Rounds/
+permalink: /Weekly Global VC Radar- 11 Unicorns Minted, AI Absorbs 90 percent+ of Mega-Rounds/
 ---
 ## 📌 **Past-7-Day Global VC Radar: 11 Unicorns Minted, AI Absorbs 90%+ of Mega-Rounds**
 

@@ -10,7 +10,7 @@ categories: []
 tags:
 - AI
 keywords: [global economy market bubble, artificial intelligence]
-permalink: /Global Shockwaves Ahead? WEF Chief Flags Three Potential Bubbles to Watch/
+permalink: /Global Shockwaves Ahead WEF Chief Flags Three Potential Bubbles to Watch/
 ---
 
 **Global Shockwaves Ahead? WEF Chief Flags Three Potential Bubbles to Watch**

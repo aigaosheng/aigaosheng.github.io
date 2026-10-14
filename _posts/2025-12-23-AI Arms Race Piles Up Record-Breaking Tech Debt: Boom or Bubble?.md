@@ -10,7 +10,7 @@ categories: []
 tags:
 - Tech Debt Explosion
 keywords: [AI investment, tech debt, global bonds]
-permalink: /AI Arms Race Piles Up Record-Breaking Tech Debt - Boom or Bubble?/
+permalink: /AI Arms Race Piles Up Record-Breaking Tech Debt - Boom or Bubble/
 ---
 
 # **AI Arms Race Piles Up Record-Breaking Tech Debt: Boom or Bubble?**

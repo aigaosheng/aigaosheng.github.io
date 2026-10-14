@@ -10,7 +10,7 @@ categories: []
 tags:
 - AI Investment
 keywords: [AI, economy, GDP]
-permalink: /AI Investments Are Fueling America’s Economy—But Who’s Getting Left Behind?/
+permalink: /AI Investments Are Fueling America’s Economy—But Who’s Getting Left Behind/
 ---
 
 ***AI Investments Are Fueling America’s Economy—But Who’s Getting Left Behind?***

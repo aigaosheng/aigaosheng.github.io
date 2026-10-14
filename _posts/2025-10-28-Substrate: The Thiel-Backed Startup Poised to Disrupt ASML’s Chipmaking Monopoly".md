@@ -10,7 +10,7 @@ categories: []
 tags:
 - Chipmaking
 keywords: [semiconductor, lithography, particle accelerator]
-permalink: /Substrate - The Thiel-Backed Startup Poised to Disrupt ASML’s Chipmaking Monopoly"/
+permalink: /Substrate - The Thiel-Backed Startup Poised to Disrupt ASML’s Chipmaking Monopoly/
 ---
 **Substrate: The Thiel-Backed Startup Poised to Disrupt ASML’s Chipmaking Monopoly**
 

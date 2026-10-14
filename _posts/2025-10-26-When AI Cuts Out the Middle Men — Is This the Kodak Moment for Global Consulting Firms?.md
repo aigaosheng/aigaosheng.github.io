@@ -10,7 +10,7 @@ categories: []
 tags:
 - Artificial Intelligence Disruption
 keywords: [AI consulting, digital transformation, consultancy disruption]
-permalink: /When AI Cuts Out the Middle Men — Is This the Kodak Moment for Global Consulting Firms?/
+permalink: /When AI Cuts Out the Middle Men — Is This the Kodak Moment for Global Consulting Firms/
 ---
 **When AI Cuts Out the Middle Men — Is This the Kodak Moment for Global Consulting Firms?**
 

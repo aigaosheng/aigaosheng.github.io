@@ -10,7 +10,7 @@ categories: []
 tags:
 - AI Factual Accuracy
 keywords: [factual accuracy, AI benchmarking, enterprise AI]
-permalink: /Reality Check - Why AI Still Can’t Break 70% Factual Accuracy — And What That Means for Enterprise AI/
+permalink: /Reality Check - Why AI Still Can’t Break 70 percent Factual Accuracy — And What That Means for Enterprise AI/
 ---
 **🧠 Reality Check: Why AI Still Can’t Break 70% Factual Accuracy — And What That Means for Enterprise AI**
 

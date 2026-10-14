@@ -82,4 +82,4 @@ Source: [Reuters article](https://www.reuters.com/business/retail-consumer/nokia
 
 - [Market Analysis Echoes of the Dot-Com Era in Today’s Market and Future Implications/]({{ site.baseurl }}/Market Analysis Echoes of the Dot-Com Era in Today’s Market and Future Implications/)
 
-- [Is the AI Boom a Bubble? Analyzing the 2025 Tech Frenzy and What It Means for Investors]({{ site.baseurl }}/Is the AI Boom a Bubble? Analyzing the 2025 Tech Frenzy and What It Means for Investors/)
+- [Is the AI Boom a Bubble? Analyzing the 2025 Tech Frenzy and What It Means for Investors]({{ site.baseurl }}/Is the AI Boom a Bubble Analyzing the 2025 Tech Frenzy and What It Means for Investors/)
