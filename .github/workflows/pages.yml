@@ -52,6 +52,11 @@ jobs:
           # token it falls back to unauthenticated calls and warns.
           JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Search index for /search/, written to _site/pagefind/. Pinned so a
+      # new release can't change search without a commit here.
+      - name: Build search index
+        run: npx -y pagefind@1.5.2 --site _site
+
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _site

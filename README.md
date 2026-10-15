@@ -9,7 +9,7 @@ GitHub Actions workflow.
 
 ## Run it locally
 
-Needs Ruby 3.3.6 (see `.ruby-version`).
+Needs Ruby 3.3.6 (see `.ruby-version`), and Node.js for the search index.
 
 ```bash
 bundle install
@@ -19,17 +19,22 @@ bundle exec jekyll serve
 Then open http://127.0.0.1:4000. A local build skips Google Analytics and
 AdSense; they load only when `JEKYLL_ENV=production`.
 
-For a full production build, the same one the deploy runs:
+For a full production build with working search, the same steps the deploy
+runs:
 
 ```bash
 JEKYLL_ENV=production bundle exec jekyll build
+npx -y pagefind@1.5.2 --site _site --serve
 ```
+
+`jekyll serve` alone has no search index, so `/search/` finds nothing there.
 
 ## Publishing
 
 Push to `master`. [`.github/workflows/pages.yml`](.github/workflows/pages.yml)
-checks new post permalinks, builds the site, checks internal links, and
-deploys only if both checks pass. Old URLs that move are kept working with
+checks new post permalinks, builds the site, builds the search index with
+[Pagefind](https://pagefind.app), checks internal links, and deploys only if
+both checks pass. Old URLs that move are kept working with
 `redirect_from:` in the page's front matter. Day-to-day work happens on `dev`.
 
 GitHub Settings → Pages → Source must be set to **GitHub Actions**.
@@ -42,6 +47,7 @@ GitHub Settings → Pages → Source must be set to **GitHub Actions**.
 | `series/` | One page per recurring column; a post joins a column through its `series:` value |
 | `wdpress/` | Posts and images imported from the old WordPress blog |
 | `_layouts/`, `_includes/` | Page templates |
+| `_plugins/site_index.rb` | Build-time helpers: series links, sidebar tags, marking Chinese posts `lang: zh-CN`, and dropping an opening heading that repeats the title |
 | `css/enhancements.css` | Site styles layered on the theme. `css/hux-blog.min.css` is generated from `less/`, so don't edit it by hand |
 | `_templates/` | Post template and drafting prompts |
 | `_tools/` | Maintenance scripts (below) |

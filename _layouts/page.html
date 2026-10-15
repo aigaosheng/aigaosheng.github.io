@@ -39,7 +39,7 @@ layout: default
             homepage is unaffected: index.html has no title, so this stays empty
             there and only the hero markup below shows.
           {%- endcomment -%}
-          {% if page.title %}<h2 class="page-heading">{{ page.title }}</h2>{% endif %}
+          {% if page.title %}<h1 class="page-heading" data-pagefind-meta="title">{{ page.title }}</h1>{% endif %}
           {% if page.h1 %}<h1 class="home-heading">{{ page.h1 }}</h1>{% endif %}
           <!--
             page.hero carries hero markup that must NOT become the SEO meta
@@ -62,7 +62,9 @@ layout: default
 
       <!-- PostList Container -->
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 postlist-container">
+        <div{% if page.search %} data-pagefind-body{% endif %}>
         {{ content }}
+        </div>
       </div>
 
       <!-- Sidebar Container -->
@@ -108,7 +110,9 @@ layout: default
           postlist-container
         "
       >
+        <div{% if page.search %} data-pagefind-body{% endif %}>
         {{ content }}
+        </div>
       </div>
 
       <!-- Sidebar Container -->

@@ -1,103 +1,61 @@
 ---
-layout: default
+layout: page
 title: Search
+description: "Search every brief and article on the site."
 permalink: "/search/"
-# A client-side search box has no content of its own to rank, and it pulls a
-# 14 MB JSON index on load. Keeping it out of the index and the sitemap stops
-# Google spending crawl budget on it; `follow` still lets any links through.
+# A search box has no content of its own to rank. Keeping it out of the index
+# and the sitemap stops Google spending crawl budget on it; `follow` still
+# lets any links through.
 noindex: true
 sitemap: false
 ---
 
-<div style="max-width: 800px; margin: 40px auto; padding: 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-  <h1>Search the Site</h1>
-  <input type="text" id="search-input" placeholder="Type to search..." style="width: 100%; padding: 12px; font-size: 1rem; border: 1px solid #ddd; border-radius: 6px; margin-bottom: 30px;" autocomplete="off" />
+{%- comment -%}
+  Pagefind (https://pagefind.app). The deploy workflow runs it over the built
+  site, which writes the index to /pagefind/ in small pieces, and this page
+  fetches only the pieces a query needs -- a few hundred KB instead of the
+  16 MB search-data.json that the previous Lunr search downloaded up front.
 
-  <div id="search-results">
-    <p id="result-count" style="font-weight: bold; margin-bottom: 10px;"></p>
-    <ul id="results-list" style="list-style: none; padding: 0; margin: 0;"></ul>
-  </div>
-</div>
+  What gets indexed is marked in the layouts with data-pagefind-body: post
+  bodies, plus pages with `search: true`. Pagefind keeps one index per page
+  language, so Chinese posts (lang zh-CN, see _plugins/site_index.rb) are in
+  their own index; mergeIndex below searches both at once.
 
-<!-- Load Lunr.js from CDN -->
-<script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js"></script>
+  Locally, `jekyll serve` has no index. Build, then run Pagefind:
+    JEKYLL_ENV=production bundle exec jekyll build
+    npx -y pagefind@1.5.2 --site _site --serve
+{%- endcomment -%}
 
+<link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" rel="stylesheet">
+<style>
+  #search {
+    --pagefind-ui-primary: #0085a1;
+    --pagefind-ui-text: #404040;
+    --pagefind-ui-border: #ddd;
+    --pagefind-ui-tag: #eef6f8;
+    --pagefind-ui-font: inherit;
+    margin: 10px 0 40px;
+  }
+</style>
+
+<div id="search"></div>
+<noscript><p>Search needs JavaScript. Browse by <a href="{{ '/series/' | relative_url }}">series</a> or <a href="{{ '/tags/' | relative_url }}">tag</a> instead.</p></noscript>
+
+<script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}"></script>
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  const searchInput = document.getElementById('search-input');
-  const resultList = document.getElementById('results-list');
-  const resultCount = document.getElementById('result-count');
-
-  // Load search index — safe for subdirectory sites
-  fetch('{{ "/search-data.json" | relative_url }}')
-    .then(response => {
-      if (!response.ok) throw new Error('Network response was not ok');
-      return response.json();
-    })
-    .then(data => {
-      // Build Lunr index
-      const idx = lunr(function () {
-        this.ref('id');
-        this.field('title', { boost: 20 });
-        this.field('content', { boost: 5 });
-        this.field('url');
-
-        data.index.forEach(doc => {
-          this.add(doc);
-        });
-      });
-
-      // Map ID back to original document
-      const documents = {};
-      data.index.forEach(doc => {
-        documents[doc.id] = doc;
-      });
-
-      // Handle search
-      searchInput.addEventListener('keyup', function() {
-        const query = this.value.trim();
-        resultList.innerHTML = '';
-        resultCount.textContent = '';
-
-        if (!query) return;
-
-        const results = idx.search(query);
-        resultCount.textContent = `${results.length} result(s) found`;
-
-        if (results.length === 0) {
-          resultList.innerHTML = '<li style="padding: 12px; color: #666;">No results found. Try another keyword.</li>';
-          return;
-        }
-
-        results.forEach(result => {
-          const doc = documents[result.ref];
-          const li = document.createElement('li');
-          li.style.padding = '12px 0';
-          li.style.borderBottom = '1px solid #eee';
-
-          const a = document.createElement('a');
-          a.href = doc.url;
-          a.innerHTML = `<strong>${doc.title}</strong>`;
-          a.style.textDecoration = 'none';
-          a.style.color = '#0366d6';
-          a.style.display = 'block';
-          a.style.marginBottom = '4px';
-
-          const excerpt = document.createElement('p');
-          excerpt.textContent = doc.content.substring(0, 150) + '...';
-          excerpt.style.color = '#555';
-          excerpt.style.fontSize = '0.9rem';
-          excerpt.style.margin = '0';
-
-          li.appendChild(a);
-          li.appendChild(excerpt);
-          resultList.appendChild(li);
-        });
-      });
-    })
-    .catch(err => {
-      console.error('Failed to load search index:', err);
-      resultList.innerHTML = '<li style="color: red;">⚠️ Search index failed to load. Check console for details.</li>';
+  window.addEventListener('DOMContentLoaded', function () {
+    var ui = new PagefindUI({
+      element: '#search',
+      showSubResults: true,
+      showImages: false,
+      resetStyles: false,
+      // The Chinese posts' index lives in the same /pagefind/ folder. The
+      // full URL is deliberate: Pagefind skips a merge whose path starts like
+      // its own ("/pagefind/"), which would leave Chinese posts unsearchable.
+      mergeIndex: [{ bundlePath: new URL('{{ "/pagefind/" | relative_url }}', window.location.href).href, language: 'zh-cn' }]
     });
-});
+    // /search/?q=... opens with that query, so search results can be linked.
+    var q = new URLSearchParams(window.location.search).get('q');
+    if (q) ui.triggerSearch(q);
+  });
 </script>

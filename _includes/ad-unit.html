@@ -23,7 +23,7 @@
   before the HTML is parsed, so anything in braces there still executes.
 {%- endcomment -%}
 {%- if jekyll.environment == "production" and site.adsense_client and include.slot and include.slot != "" -%}
-<div class="post-ad" aria-label="Advertisement">
+<div class="post-ad" aria-label="Advertisement" data-pagefind-ignore>
   <ins class="adsbygoogle"
        style="display:block"
        data-ad-client="{{ site.adsense_client }}"

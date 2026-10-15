@@ -51,7 +51,7 @@ permalink: /series/
     {%- endfor -%}
   {%- endcapture -%}
   {%- if shown > 0 %}
-    <h1 class="series-group">{% if group == "running" %}Still running{% else %}No longer updated{% endif %}</h1>
+    <h2 class="series-group">{% if group == "running" %}Still running{% else %}No longer updated{% endif %}</h2>
     {{ body }}
   {%- endif -%}
 {%- endfor %}

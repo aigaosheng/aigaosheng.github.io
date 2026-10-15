@@ -20,19 +20,19 @@
     NOTE: do not write Liquid tags in this comment. Liquid runs before the HTML
     is parsed, so anything in braces here still executes.
 -->
+{%- comment -%}
+  site.data.featured_tags is picked once per build by _plugins/site_index.rb,
+  applying featured-condition-size and featured-tags-max. Walking all ~2,500
+  tags here on every page took 30 s of an 86 s build.
+{%- endcomment %}
 <div class="tags">
-  {% assign shown = 0 %}
-  {% for tag in site.tags %}
-    {% if tag[1].size > site.featured-condition-size %}
-      {% if shown >= site.featured-tags-max %}{% break %}{% endif %}
+  {% for tag in site.data.featured_tags %}
       <a
-        href="{{ site.baseurl }}/tags/#{{ tag[0] | slugify }}"
-        title="{{ tag[0] }}"
-        rel="{{ tag[1].size }}"
+        href="{{ site.baseurl }}/tags/#{{ tag.name | slugify }}"
+        title="{{ tag.name }}"
+        rel="{{ tag.count }}"
       >
-        {{ tag[0] }}
+        {{ tag.name }}
       </a>
-      {% assign shown = shown | plus: 1 %}
-    {% endif %}
   {% endfor %}
 </div>

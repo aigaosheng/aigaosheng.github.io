@@ -1,10 +1,9 @@
 User-agent: *
 Allow: /
 
-# The client-side search index embeds the full text of every post: 14 MB of
-# JSON that exists only for the JavaScript on /search/. Crawling it wastes
-# crawl budget on content already indexable at each post's own URL.
-Disallow: /search-data.json
+# The search index for /search/ (Pagefind): thousands of small files holding
+# post text that is already indexable at each post's own URL.
+Disallow: /pagefind/
 
 # /search/ itself is deliberately NOT disallowed here. It carries
 # <meta name="robots" content="noindex, follow">, and a crawler has to be able

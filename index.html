@@ -31,9 +31,8 @@ header-img: "image/hero-beach.jpg"
 {% for post in paginator.posts %}
 <div class="post-preview">
     {% if post.series %}
-    {%- assign series_page = site.pages | where: 'series', post.series | first -%}
     <p class="post-series">
-        {% if series_page %}<a href="{{ series_page.url | prepend: site.baseurl }}">{{ post.series }}</a>{% else %}{{ post.series }}{% endif %}
+        {% if post.series_url %}<a href="{{ post.series_url | prepend: site.baseurl }}">{{ post.series }}</a>{% else %}{{ post.series }}{% endif %}
     </p>
     {% endif %}
     <a href="{{ post.url | prepend: site.baseurl }}">

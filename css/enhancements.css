@@ -163,14 +163,17 @@
 }
 
 /* Page hero heading, restored in _layouts/page.html. */
-.site-heading .page-heading {
+/* Now an <h1> (was <h2>); .intro-header raises this above the theme's
+   ".intro-header .site-heading h1" (50px / 80px). */
+.intro-header .site-heading .page-heading {
   margin: 0 0 6px;
+  line-height: 1.1;
   font-size: 40px;
   font-weight: 700;
   color: #fff;
 }
 @media (max-width: 767px) {
-  .site-heading .page-heading { font-size: 30px; }
+  .intro-header .site-heading .page-heading { font-size: 30px; }
 }
 
 /* ---------------------------------------------------------------------------
@@ -232,4 +235,15 @@
   width: 1.2em;
   height: 1.2em;
   fill: #fff;
+}
+
+/* ---- Post title ----
+ * The title in the post header is now the page's <h1> (it was an <h3>). The
+ * theme sizes .post-heading h1 at 30px / 55px, which is too big for long brief
+ * titles, so this keeps the size the <h3> had. */
+.intro-header .post-heading h1.post-title {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 20px 0 10px;
 }

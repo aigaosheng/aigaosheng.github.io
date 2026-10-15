@@ -31,6 +31,9 @@ keywords: [keyword one, keyword two]
 # with the same permalink make Jekyll warn "Conflict: The following
 # destination is shared by multiple files" and silently publish only one.
 permalink: /title-words-yyyy-mm-dd/
+# Optional. Mainly-Chinese posts get `lang: zh-CN` automatically
+# (_plugins/site_index.rb); set `lang:` here only to override that.
+# lang: zh-CN
 ---
 
 Body starts here.

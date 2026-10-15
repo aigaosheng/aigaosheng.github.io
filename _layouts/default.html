@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+{%- comment -%}
+  page.lang is zh-CN on mainly-Chinese posts (set by _plugins/site_index.rb,
+  or by a post's own front matter); everything else is English.
+{%- endcomment -%}
+<html lang="{{ page.lang | default: 'en' }}">
 
 {% include head.html %}
 

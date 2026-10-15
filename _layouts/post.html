@@ -31,10 +31,14 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
+                    {%- comment -%}
+                        page.series_url, series_newer, series_older and
+                        series_recent are set once per build by
+                        _plugins/site_index.rb.
+                    {%- endcomment %}
                     {% if page.series %}
-                    {%- assign series_page = site.pages | where: 'series', page.series | first -%}
                     <p class="post-series">
-                        {% if series_page %}<a href="{{ series_page.url | prepend: site.baseurl }}">{{ page.series }}</a>{% else %}{{ page.series }}{% endif %}
+                        {% if page.series_url %}<a href="{{ page.series_url | prepend: site.baseurl }}">{{ page.series }}</a>{% else %}{{ page.series }}{% endif %}
                     </p>
                     {% endif %}
                     <div class="tags">
@@ -42,8 +46,15 @@ layout: default
                         <a class="tag" href="{{ site.baseurl }}/tags/#{{ tag | slugify }}" title="{{ tag }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
-                    <h3>{{ page.title }}</h3>
-                    <h4 class="subheading">{{ page.subtitle }}</h4>
+                    {%- comment -%}
+                        The title is the page's one <h1>. It was an <h3>, while
+                        about 1,000 posts opened their body with an <h1> that
+                        repeated it; _plugins/site_index.rb now drops that
+                        repeat. Styled as before (see .post-title in
+                        css/enhancements.css).
+                    {%- endcomment %}
+                    <h1 class="post-title" data-pagefind-meta="title">{{ page.title }}</h1>
+                    {% if page.subtitle %}<h2 class="subheading">{{ page.subtitle }}</h2>{% endif %}
                 
                     <span class="meta">
                     Posted on {{ page.date | date: "%B %d, %Y at %I:%M %p" }}
@@ -102,6 +113,16 @@ layout: default
                     NOTE: no Liquid tags inside these comments. Liquid runs
                     before HTML parsing, so braces here still execute.
                 {%- endcomment -%}
+                {%- comment -%}
+                    data-pagefind-body: only this block is indexed for /search/,
+                    so the nav, sidebar, pager and "More in" list stay out of
+                    results. Title comes from the header h1; date and series
+                    are attached here for display, sorting and filtering.
+                {%- endcomment %}
+                <div data-pagefind-body
+                     data-pagefind-meta="date:{{ page.date | date: '%-d %B %Y' }}"
+                     data-pagefind-sort="date:{{ page.date | date: '%Y-%m-%d' }}"
+                     {%- if page.series %} data-pagefind-filter="series:{{ page.series | escape }}"{% endif %}>
                 {%- assign _chunks = content | split: '<h3' -%}
                 {%- if _chunks.size > 4 and site.adsense_slots.post_mid and site.adsense_slots.post_mid != "" -%}
                     {%- for _chunk in _chunks -%}
@@ -113,6 +134,7 @@ layout: default
                 {%- else -%}
                     {{ content }}
                 {%- endif -%}
+                </div>
 
                 {% include ad-unit.html slot=site.adsense_slots.post_end %}
 
@@ -129,19 +151,9 @@ layout: default
                 {%- assign next_post = page.next -%}
                 {%- assign nav_label = "" -%}
                 {%- if page.series -%}
-                  {%- assign editions = site.posts | where: 'series', page.series -%}
-                  {%- assign found = -1 -%}
-                  {%- for e in editions -%}
-                    {%- if e.url == page.url -%}{%- assign found = forloop.index0 -%}{%- break -%}{%- endif -%}
-                  {%- endfor -%}
-                  {%- if found >= 0 -%}
-                    {%- comment -%}site.posts is newest first, so index-1 is the newer edition.{%- endcomment -%}
-                    {%- assign newer_i = found | minus: 1 -%}
-                    {%- assign older_i = found | plus: 1 -%}
-                    {%- if newer_i >= 0 -%}{%- assign prev_post = editions[newer_i] -%}{%- else -%}{%- assign prev_post = nil -%}{%- endif -%}
-                    {%- if older_i < editions.size -%}{%- assign next_post = editions[older_i] -%}{%- else -%}{%- assign next_post = nil -%}{%- endif -%}
-                    {%- assign nav_label = page.series -%}
-                  {%- endif -%}
+                  {%- assign prev_post = page.series_newer -%}
+                  {%- assign next_post = page.series_older -%}
+                  {%- assign nav_label = page.series -%}
                 {%- endif %}
 
                 {% include post-cta.html %}
@@ -167,17 +179,13 @@ layout: default
 
                 {%- comment -%}More recent editions of the same column, and a share row.{%- endcomment -%}
                 {% if page.series %}
-                {%- assign siblings = site.posts | where: 'series', page.series -%}
-                {%- assign sib_shown = 0 -%}
-                <div class="post-more">
+                <div class="post-more" data-pagefind-ignore>
                     <h5>
                         More in
-                        {% if series_page %}<a href="{{ series_page.url | prepend: site.baseurl }}">{{ page.series }}</a>{% else %}{{ page.series }}{% endif %}
+                        {% if page.series_url %}<a href="{{ page.series_url | prepend: site.baseurl }}">{{ page.series }}</a>{% else %}{{ page.series }}{% endif %}
                     </h5>
                     <ul class="series-list">
-                        {%- for e in siblings -%}
-                          {%- if e.url == page.url or sib_shown >= 5 -%}{%- continue -%}{%- endif -%}
-                          {%- assign sib_shown = sib_shown | plus: 1 %}
+                        {%- for e in page.series_recent %}
                         <li>
                             <a class="series-link" href="{{ e.url | prepend: site.baseurl }}">
                                 <span class="series-date">{{ e.date | date: "%-d %b" }}</span>

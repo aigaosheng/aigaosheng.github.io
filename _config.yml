@@ -159,10 +159,12 @@ plugins: &plugins
   - jekyll-default-layout
   - jekyll-titles-from-headings
 
-# Settings carried over from classic GitHub Pages. Safe mode skips _plugins/,
-# as classic Pages did; the Actions build could run them, but none are relied on.
+# Settings carried over from classic GitHub Pages. Safe mode is off so that
+# _plugins/ runs: site_index.rb precomputes series links and featured tags,
+# marks Chinese posts, and drops duplicate title headings. The Actions build
+# runs it; classic GitHub Pages would not.
 theme: jekyll-theme-primer
-safe: true
+safe: false
 whitelist: *plugins
 
 # jekyll-redirect-from also writes /redirects.json by default; nothing reads it.
