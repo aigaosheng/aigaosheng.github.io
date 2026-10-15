@@ -28,8 +28,9 @@ JEKYLL_ENV=production bundle exec jekyll build
 ## Publishing
 
 Push to `master`. [`.github/workflows/pages.yml`](.github/workflows/pages.yml)
-builds the site, checks internal links, and deploys it only if the check
-passes. Day-to-day work happens on `dev`.
+checks new post permalinks, builds the site, checks internal links, and
+deploys only if both checks pass. Old URLs that move are kept working with
+`redirect_from:` in the page's front matter. Day-to-day work happens on `dev`.
 
 GitHub Settings → Pages → Source must be set to **GitHub Actions**.
 
@@ -49,16 +50,20 @@ GitHub Settings → Pages → Source must be set to **GitHub Actions**.
 ## Writing a post
 
 Copy [`_templates/post-template.md`](_templates/post-template.md) into
-`_posts/` as `YYYY-MM-DD-short-title.md` and fill in the front matter. Keep the
-file name to letters, digits and hyphens: the name becomes the URL, and spaces,
-`&`, `?` or `#` make URLs that are hard to share or cannot be linked at all.
+`_posts/` as `YYYY-MM-DD-short-title.md` and fill in the front matter.
+
+Every post dated 2026-10-16 or later must set `permalink:` to lowercase
+letters, digits and hyphens, such as `/payments-brief-2026-10-16/`. The deploy
+runs `_tools/check_permalinks.py` first and stops if a new post breaks this
+rule. Never change the permalink of a post that is already live.
 
 ## Maintenance scripts
 
-Each script dry-runs by default; read its header before using `--apply`.
+The scripts that change files dry-run by default; read a script's header before using `--apply`.
 
 | Script | What it does |
 | --- | --- |
+| `_tools/check_permalinks.py` | Checks new posts have a clean permalink (runs in the deploy) |
 | `_tools/assign_series.py` | Sets `series:` on briefs from their titles |
 | `_tools/write_descriptions.py` | Writes a `description:` for posts that have none |
 | `_tools/resize_wdpress.py` | Shrinks WordPress images and fixes links to them |

@@ -14,6 +14,8 @@ gem "jekyll-feed", "~> 0.18.0"
 
 gem "jekyll-paginate", "~> 1.1"
 
+gem "jekyll-redirect-from", "~> 0.16.0"
+
 gem "jekyll-coffeescript", "~> 2.0"
 
 gem "jekyll-commonmark-ghpages", "~> 0.1.0"

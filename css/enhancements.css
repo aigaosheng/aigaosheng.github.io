@@ -213,3 +213,23 @@
         margin: 30px 0;
     }
 }
+
+/* ---- Social icons (footer and sidebar) ----
+ * Inline SVG in _includes/social-links.html, replacing Font Awesome's
+ * fa-stack: a white glyph on a circle in the link colour, the same size as
+ * the old "fa-stack fa-lg" (2em of a 1.333em box). */
+.social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.667em;
+  height: 2.667em;
+  border-radius: 50%;
+  background-color: currentColor;
+  vertical-align: middle;
+}
+.social-icon svg {
+  width: 1.2em;
+  height: 1.2em;
+  fill: #fff;
+}

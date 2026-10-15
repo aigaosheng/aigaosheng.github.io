@@ -29,6 +29,11 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      # Posts dated from 2026-10-16 must set a lowercase, hyphenated
+      # permalink. Older, already-live URLs are not checked or changed.
+      - name: Check new post permalinks
+        run: python3 _tools/check_permalinks.py
+
       # Ruby version comes from .ruby-version (3.3.6), the same one local
       # builds use. Gemfile.lock is gitignored; setup-ruby resolves the
       # Gemfile and caches the installed gems keyed on that resolution.
@@ -105,13 +110,10 @@ jobs:
           LANG: C.UTF-8
         run: |
           gem install html-proofer --version '~> 5.0' --no-document
-          # --ignore-urls: the protocol-relative Font Awesome URL in
-          # _includes/head.html is on every page and would bury everything else.
           htmlproofer _site \
             --disable-external \
             --checks Links,Images,Scripts \
             --ignore-missing-alt \
             --allow-missing-href \
             --no-enforce-https \
-            --ignore-urls '/^\/\/cdnjs\.cloudflare\.com\//' \
             --swap-urls '^https\://aisengtech\.com:'

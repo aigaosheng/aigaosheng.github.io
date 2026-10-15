@@ -24,6 +24,8 @@ keywords: [keyword one, keyword two]
 # No spaces, "&", ":", apostrophes, em-dashes or Chinese characters: they turn
 # into %20-style escapes in the URL that look broken in search results and
 # when shared. Never change the permalink of a post that is already live.
+# Enforced for posts dated 2026-10-16 onward: _tools/check_permalinks.py runs
+# in the deploy and stops it if this is missing or not in that form.
 #
 # Also keep the FILENAME free of ":" (breaks on Windows checkouts). Two files
 # with the same permalink make Jekyll warn "Conflict: The following

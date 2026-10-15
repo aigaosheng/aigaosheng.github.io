@@ -69,7 +69,7 @@ nav:
   - title: About
     url: /about/
   - title: Services
-    url: "/products&services/"
+    url: /services/
   - title: Search
     url: /search/
   - title: CV
@@ -80,12 +80,10 @@ nav:
 # Resume is not repeated here: it is already "CV" in the top bar, and the
 # same page under two names in two places read as two different pages.
 nav_secondary:
-  # Was "Privacy & Support" -> /Privacy&Support/. That page is the landing page
-  # for Wraith, a separate product: it describes an on-device iOS assistant and
-  # says nothing about this site's analytics or advertising, which AdSense's
-  # program policies require a publisher to disclose. The page itself is left
-  # in place and still reachable at its own URL, which is likely registered
-  # outside this repo; only this site's footer link moved.
+  # Was "Privacy & Support" -> /Privacy&Support/, the landing page for Wraith,
+  # a separate product, which said nothing about this site's analytics or
+  # advertising as AdSense's program policies require. That old address now
+  # redirects to /wraith-site/ (see wraith-redirect.html).
   - title: Privacy
     url: /privacy/
 
@@ -146,6 +144,9 @@ plugins: &plugins
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  # Old URLs that moved keep working: a page lists them under `redirect_from`
+  # and the plugin writes a small redirect page at each one.
+  - jekyll-redirect-from
   # Plugins classic GitHub Pages enabled implicitly. Listed explicitly since
   # the site is built by .github/workflows/pages.yml from the Gemfile.
   - jekyll-coffeescript
@@ -163,6 +164,10 @@ plugins: &plugins
 theme: jekyll-theme-primer
 safe: true
 whitelist: *plugins
+
+# jekyll-redirect-from also writes /redirects.json by default; nothing reads it.
+redirect_from:
+  json: false
 
 # Static HTML that lives outside Jekyll's page collection (no front matter, so
 # it never appears in site.pages) but was listed by jekyll-sitemap and should

@@ -1,0 +1,25 @@
+{%- comment -%}
+  Social profile links as <li> items, for the footer and the sidebar.
+
+  Icons are inline SVG. They were Font Awesome 4.6.3 from cdnjs: a 30 KB
+  stylesheet plus a 75 KB font, fetched on every page to draw two glyphs.
+  Only the networks set in _config.yml are offered; the theme's Jianshu,
+  Zhihu, Weibo, Facebook and Twitter blocks were never configured.
+
+  The GitHub mark is GitHub's own (Octicons, MIT). The LinkedIn "in" is drawn
+  from basic shapes.
+{%- endcomment -%}
+{%- if site.linkedin_username %}
+<li>
+    <a class="social-icon" target="_blank" rel="noopener" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="5" r="2.25"/><rect x="3" y="9" width="4" height="12"/><path d="M10 9h3.8v1.8c.6-1.1 2-2.1 4-2.1 4 0 4.7 2.6 4.7 6V21h-4v-5.6c0-1.4 0-3.1-1.9-3.1s-2.2 1.5-2.2 3V21H10z"/></svg>
+    </a>
+</li>
+{%- endif %}
+{%- if site.github_username %}
+<li>
+    <a class="social-icon" target="_blank" rel="noopener" href="https://github.com/{{ site.github_username }}" aria-label="GitHub">
+        <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+    </a>
+</li>
+{%- endif %}
