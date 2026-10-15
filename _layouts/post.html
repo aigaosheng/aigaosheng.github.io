@@ -189,8 +189,8 @@ layout: default
                         <li>
                             <a class="series-link" href="{{ e.url | prepend: site.baseurl }}">
                                 <span class="series-date">{{ e.date | date: "%-d %b" }}</span>
-                                {%- include post-lede.html post=e words=16 -%}
-                                <span class="series-lede">{{ lede_1 }}</span>
+                                {%- comment -%}Filled in by _plugins/site_index.rb once every post is converted.{%- endcomment -%}
+                                <span class="series-lede"><!--lede:{{ e.url }}--></span>
                             </a>
                         </li>
                         {%- endfor %}

@@ -116,7 +116,12 @@
     padding: 3px 8px;
     border-radius: 2px;
   }
-  h1 {
+  /* Was a bare h1 rule: embedded in a post, it also restyled the post's own
+     title, which is the page's main heading. Now scoped to this guide's
+     header, whose title is an h2 so the post title stays the only h1.
+     (No angle-bracket tag names in this comment: the build reads "<h" as a
+     heading when picking preview headlines.) */
+  .header-left h2 {
     font-family: var(--display);
     font-size: 32px;
     letter-spacing: 0.04em;
@@ -785,7 +790,7 @@
     .step-detail { grid-template-columns: 1fr; }
     .rail-row { grid-template-columns: 120px 1fr; }
     .rail-val { display: none; }
-    h1 { font-size: 22px; }
+    .header-left h2 { font-size: 22px; }
   }
 </style>
 </head>
@@ -794,7 +799,7 @@
 <header>
   <div class="header-left">
     <div class="logo-tag">FINTECH EDU</div>
-    <h1>PAYMENT SYSTEMS</h1>
+    <h2>PAYMENT SYSTEMS</h2>
   </div>
   <div class="header-meta"><span class="live-dot"></span>INTERACTIVE LEARNING GUIDE — 6 MODULES</div>
   <div class="theme-toggle" onclick="toggleTheme()" id="theme-toggle" title="Switch theme">

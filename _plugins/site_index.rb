@@ -142,9 +142,94 @@ module AisengSite
     end
   end
 
+  # A post's preview headlines: the story headings of a brief, or for a post
+  # without any, its opening text. Read by _includes/post-lede.html (homepage
+  # cards, series pages) and filled into each post's "More in" list.
+  #
+  # This was all Liquid in post-lede.html, run ~14,000 times a build (8.5 s).
+  # It is the same logic, using Liquid's own filters so the text comes out
+  # identical, but computed once per post, right after the post is converted
+  # to HTML. Sets post.data["lede"] = { "total", "items" (first three, full
+  # length), "fallback" (opening text, full length) }; callers truncate.
+  module Lede
+    SKIP_IN = ["top stories", "top story", "top headlines", "executive summary", "key takeaways",
+               "table of contents", "at a glance", "in this edition", "quick hits", "in brief",
+               "editor note", "editors note"].freeze
+    SKIP_EQ = ["headlines", "summary", "highlights", "overview", "takeaways", "contents",
+               "introduction", "intro", "news", "stories", "other news", "also in the news"].freeze
+    NUMBERED = (1..9).map { |n| "#{n}. " }.freeze
+
+    class Filters
+      include Liquid::StandardFilters
+    end
+    F = Filters.new
+
+    # "Fintech AI Brief - 2026-08-27" and "Fintech+AI Brief - 2026-08-27" are
+    # the same once spaces, '+', '&', dashes and ':,.' are dropped.
+    SQUASH = [" ", "+", "&", "-", "—", "–", ":", ",", "."].freeze
+
+    def self.squash(text)
+      SQUASH.reduce(text) { |t, ch| t.gsub(ch, "") }
+    end
+
+    def self.extract(html, title)
+      title_n = squash(title.to_s.downcase.strip)
+      total = 0
+      items = []
+      html.to_s.split("<h").drop(1).each do |part|
+        next unless %w(1 2 3 4).include?(part[0, 1])
+
+        text = F.strip_newlines(F.strip_html("<h#{part}".split("</h").first.to_s)).strip
+        text = text.sub(text[0, 3], "").strip if NUMBERED.include?(text[0, 3])
+        next if text.empty?
+
+        lower = text.downcase
+        next if SKIP_EQ.include?(lower)
+        next if SKIP_IN.any? { |s| lower.include?(s) }
+
+        squashed = squash(lower)
+        next if squashed.empty? || title_n.include?(squashed) || squashed.include?(title_n)
+
+        total += 1
+        items << text if items.size < 3
+      end
+      fallback = total.zero? ? F.strip_newlines(F.strip_html(html.to_s.split("</h1>").last.to_s)).strip : ""
+      { "total" => total, "items" => items, "fallback" => fallback }
+    end
+
+    # lede_1 as post-lede.html sets it: first headline at `words`, or the
+    # opening text at 40 words when there are no headlines.
+    def self.first_line(lede, words)
+      return "" unless lede
+      return F.truncatewords(lede["items"].first, words) if lede["total"].positive?
+
+      F.truncatewords(lede["fallback"], 40)
+    end
+  end
+
   Jekyll::Hooks.register :posts, :post_convert do |post|
+    next unless post.is_a?(Jekyll::Document)
+
     match = post.content.match(LeadHeading::OPENING_H1)
     post.content = match.post_match if match && LeadHeading.restates?(match[1], post.data["title"])
     post.content = HeadingLevels.shift(post.content)
+    post.data["lede"] = Lede.extract(post.content, post.data["title"])
+  end
+
+  # Fills each post's "More in <series>" list. A post renders before the newer
+  # editions it lists have been converted, so the layout leaves a marker,
+  # <!--lede:URL-->, and this swaps in that edition's headline once every post
+  # has been rendered. (Reading the editions' content from Liquid instead gave
+  # their raw Markdown for 8,811 of 10,818 entries.)
+  MORE_IN_MARKER = /<!--lede:(.*?)-->/.freeze
+
+  Jekyll::Hooks.register :site, :post_render do |site|
+    by_url = {}
+    site.posts.docs.each { |post| by_url[post.url] = post.data["lede"] }
+    site.posts.docs.each do |post|
+      next unless post.output&.include?("<!--lede:")
+
+      post.output = post.output.gsub(MORE_IN_MARKER) { Lede.first_line(by_url[Regexp.last_match(1)], 16) }
+    end
   end
 end

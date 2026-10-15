@@ -12,7 +12,7 @@ tags:
 published: true
 ---
 
-# Tesla's AI Pivot: An Interactive Analysis
+## Tesla's AI Pivot: An Interactive Analysis
 
 <p class="text-center text-lg text-gray-600">
 An interactive breakdown of Tesla's decision to end its ambitious in-house supercomputer project and its potential impact on the company's future in AI and robotics.
@@ -47,7 +47,7 @@ An interactive breakdown of Tesla's decision to end its ambitious in-house super
 
 ---
 
-## 🚀 Dojo Project Timeline
+### 🚀 Dojo Project Timeline
 
 <div class="relative max-w-3xl mx-auto">
   <!-- Vertical line -->
@@ -94,7 +94,7 @@ An interactive breakdown of Tesla's decision to end its ambitious in-house super
 
 ---
 
-## 🔄 From Dojo to Hybrid AI
+### 🔄 From Dojo to Hybrid AI
 
 | Old Strategy (Dojo) | New Strategy (AI5/AI6 + Partners) |
 |----------------------|-----------------------------------|
@@ -105,7 +105,7 @@ An interactive breakdown of Tesla's decision to end its ambitious in-house super
 
 ---
 
-## 📊 Market Impact
+### 📊 Market Impact
 
 <div class="text-center mb-4">
   <button id="bullish-btn" class="px-4 py-2 rounded-l bg-blue-600 text-white">Bullish</button>
@@ -121,7 +121,7 @@ An interactive breakdown of Tesla's decision to end its ambitious in-house super
 
 ---
 
-## 🔮 Future Outlook
+### 🔮 Future Outlook
 
 - 🤖 **Optimus Robot** – AI5/AI6 chips will power onboard autonomy.  
 - 🚕 **Robotaxi Network** – Accelerated FSD deployment for revenue.  
