@@ -57,8 +57,8 @@ github_repo: "https://github.com/aigaosheng/aigaosheng.github.io.git"
 # The nav used to loop over site.pages and print every page that had a title,
 # so link order was filesystem-dependent and any new page joined the bar
 # automatically -- which would now mean all 15 series pages. Listing the links
-# here keeps the bar deliberate. Peripheral pages (Resume, Privacy & Support)
-# moved to the footer rather than disappearing.
+# here keeps the bar deliberate. Peripheral pages (Privacy) live in the
+# footer rather than disappearing.
 nav:
   - title: Home
     url: /
@@ -76,9 +76,10 @@ nav:
     url: /resume/
 
 # Secondary links, footer only.
+#
+# Resume is not repeated here: it is already "CV" in the top bar, and the
+# same page under two names in two places read as two different pages.
 nav_secondary:
-  - title: Resume
-    url: /resume/
   # Was "Privacy & Support" -> /Privacy&Support/. That page is the landing page
   # for Wraith, a separate product: it describes an on-device iOS assistant and
   # says nothing about this site's analytics or advertising, which AdSense's

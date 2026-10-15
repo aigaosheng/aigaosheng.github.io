@@ -1,8 +1,11 @@
 ---
 layout: default
-description: "你来到了没有知识的荒原 🙊"
+title: "Page not found"
+description: "This page doesn't exist or has moved."
 header-img: "image/404-bg.jpg"
 permalink: /404.html
+noindex: true
+sitemap: false
 ---
 
 
@@ -13,7 +16,12 @@ permalink: /404.html
 			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 				<div class="site-heading" id="tag-heading">
 					<h1>404</h1>
-					<span class="subheading">{{ page.description }}</span>
+					<span class="subheading">
+						{{ page.description }}<br>
+						<a href="{{ site.baseurl }}/" style="color:#fff; text-decoration:underline;">Go to the homepage</a>
+						&middot;
+						<a href="{{ '/search/' | prepend: site.baseurl }}" style="color:#fff; text-decoration:underline;">Search the site</a>
+					</span>
 				</div>
 			</div>
 		</div>

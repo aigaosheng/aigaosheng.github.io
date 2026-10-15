@@ -7,8 +7,15 @@
 <body ontouchstart="">
 
 
+{%- comment -%}
+  Mermaid, only on pages that contain a mermaid code block (two posts as of
+  Oct 2026). It used to load on every page from a floating "@11" tag, so each
+  pageview fetched the library and a new release could change rendering with
+  no commit here. Pinned to an exact version; bump it deliberately.
+{%- endcomment -%}
+{% if content contains 'language-mermaid' %}
 <script type="module">
-  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11.17.2/dist/mermaid.esm.min.mjs";
 
   mermaid.initialize({
     startOnLoad: false,
@@ -32,6 +39,7 @@
     });
   });
 </script>
+{% endif %}
 
     {% include nav.html %}
 

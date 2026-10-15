@@ -4,9 +4,7 @@
 # own Jekyll 3.10 instead of the Gemfile's 4.3 (so local builds never matched
 # production) and was taking 4-8 minutes against a 10-minute timeout.
 #
-# Takes effect only once Settings -> Pages -> Source is set to "GitHub Actions".
-# Until then this workflow's deploy job fails harmlessly and the classic build
-# keeps publishing.
+# Requires Settings -> Pages -> Source = "GitHub Actions" (set Oct 2026).
 name: Deploy site to Pages
 
 on:
@@ -53,8 +51,10 @@ jobs:
         with:
           path: _site
 
+  # Waits for check-links: a broken internal link, image or script, or an
+  # unreachable page path, stops the deploy and the live site stays as it was.
   deploy:
-    needs: build
+    needs: [build, check-links]
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -64,11 +64,10 @@ jobs:
         uses: actions/deploy-pages@v4
 
   # Internal links, images and scripts in the built site; external sites are
-  # not fetched. Runs beside deploy, not before it: it takes ~5 minutes over
-  # ~3,300 pages and must not hold up publishing.
-  #
-  # The report was clean when this job was made blocking. A failure marks the
-  # run red but cannot stop the deploy job, which does not depend on this one.
+  # not fetched. Runs before deploy and gates it, so a new post reaches the
+  # live site about 5 minutes later than it would otherwise (~3,300 pages).
+  # To publish urgently while a link is broken, fix the link; or run the
+  # workflow by hand after temporarily removing check-links from deploy.needs.
   check-links:
     needs: build
     runs-on: ubuntu-latest

@@ -16,9 +16,10 @@ sitemap: false
   `sitemap: false` there would have dropped the homepage too. So the rule here
   is a whitelist instead of a blacklist: a page is listed only if it declares a
   `title`. index.html deliberately has none (its hero text lives in `hero`),
-  which excludes every paginated clone; 404.html, offline.html, feed.xml,
-  search-data.json and this file have none either. The homepage is added by
-  hand below.
+  which excludes every paginated clone; offline.html, feed.xml,
+  search-data.json and this file have none either. A titled page can still opt
+  out with `sitemap: false`, as 404.html and search.html do. The homepage is
+  added by hand below.
 
   site.sitemap_extra carries the static HTML that lives outside Jekyll's page
   collection -- the deltabrief-site/ and wraith-site/ product pages, which have

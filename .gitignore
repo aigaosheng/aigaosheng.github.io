@@ -3,3 +3,6 @@ Gemfile.lock
 # Python bytecode from the scripts in _tools/
 __pycache__/
 *.pyc
+
+# macOS Finder metadata
+.DS_Store
