@@ -168,6 +168,14 @@
 {% if site.adsense_client and _ads %}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}"
      crossorigin="anonymous"></script>
+<!--
+    Auto ads anchor: bottom of the screen only. A top anchor is a fixed bar
+    over the top of the viewport, and on phones the navbar is absolutely
+    positioned at top 0, so the ad sat right on top of the menu button and
+    readers could not find the menu. overlays.bottom keeps the anchor at the
+    bottom. Pushed once per page; a second enable_page_level_ads push throws.
+-->
+<script>(adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "{{ site.adsense_client }}", enable_page_level_ads: true, overlays: {bottom: true}});</script>
 
 <!--
     AdSense ad blocking recovery tag, as issued by AdSense (Privacy & messaging
