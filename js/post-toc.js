@@ -96,7 +96,31 @@
     });
   }
 
-  function init() { build(); copyLink(); }
+  // A "#" link on each heading in the post body, shown on hover, so a reader
+  // can copy a link to one section. Replaces anchor-js 1.1.1 (2015), which
+  // was loaded from cdnjs on every post for the same job. Runs after build()
+  // so the "#" doesn't end up in the table of contents. Off when the layout
+  // omits data-heading-anchors (site.anchorjs: false).
+  function headingAnchors() {
+    var body = document.querySelector('[data-heading-anchors]');
+    if (!body) { return; }
+    var used = {};
+    Array.prototype.forEach.call(document.querySelectorAll('[id]'), function (el) { used[el.id] = true; });
+
+    Array.prototype.forEach.call(body.querySelectorAll('h1, h2, h3, h4, h5, h6'), function (h) {
+      var text = (h.textContent || '').trim();
+      if (!text) { return; }
+      if (!h.id) { h.id = slugify(text, used); }
+      var a = document.createElement('a');
+      a.className = 'heading-anchor';
+      a.href = '#' + h.id;
+      a.setAttribute('aria-label', 'Link to this section: ' + text);
+      a.textContent = '#';
+      h.appendChild(a);
+    });
+  }
+
+  function init() { build(); headingAnchors(); copyLink(); }
 
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);

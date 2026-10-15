@@ -104,7 +104,9 @@ module AisengSite
   # other. An opening <h1> that is something else ("Investment Whitepaper" on
   # "How will AI transform Retail") is kept.
   module LeadHeading
-    OPENING_H1 = %r{\A\s*<h1\b[^>]*>(.*?)</h1>\s*}m
+    # Leading horizontal rules are skipped: some posts open with "---" above
+    # the title heading. They go with it, as decoration of the old title.
+    OPENING_H1 = %r{\A\s*(?:<hr\b[^>]*>\s*)*<h1\b[^>]*>(.*?)</h1>\s*}m
 
     def self.normalize(text)
       CGI.unescapeHTML(text.to_s.gsub(/<[^>]+>/, "")).downcase.gsub(/[^\p{L}\p{N}]+/, "")
@@ -120,10 +122,29 @@ module AisengSite
     end
   end
 
+  # Moves every heading in a post body down one level (h1 -> h2 ... h5 -> h6)
+  # when the body still has an <h1> after LeadHeading has run.
+  #
+  # About 220 posts were written with "#" for their section headings, so each
+  # section was a top-level heading competing with the title. Shifting the
+  # whole outline, rather than only the h1s, keeps the sections' own
+  # sub-headings beneath them. Posts with their own <style> or <script> (the
+  # interactive guides) are skipped, since their CSS and JS may target
+  # specific heading levels.
+  module HeadingLevels
+    TAG = %r{<(/?)h([1-6])\b}
+
+    def self.shift(html)
+      return html unless html.match?(/<h1\b/)
+      return html if html.match?(/<(?:style|script)\b/)
+
+      html.gsub(TAG) { "<#{Regexp.last_match(1)}h#{[Regexp.last_match(2).to_i + 1, 6].min}" }
+    end
+  end
+
   Jekyll::Hooks.register :posts, :post_convert do |post|
     match = post.content.match(LeadHeading::OPENING_H1)
-    next unless match && LeadHeading.restates?(match[1], post.data["title"])
-
-    post.content = match.post_match
+    post.content = match.post_match if match && LeadHeading.restates?(match[1], post.data["title"])
+    post.content = HeadingLevels.shift(post.content)
   end
 end

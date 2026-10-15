@@ -119,7 +119,7 @@ layout: default
                     results. Title comes from the header h1; date and series
                     are attached here for display, sorting and filtering.
                 {%- endcomment %}
-                <div data-pagefind-body
+                <div data-pagefind-body{% if site.anchorjs %} data-heading-anchors{% endif %}
                      data-pagefind-meta="date:{{ page.date | date: '%-d %B %Y' }}"
                      data-pagefind-sort="date:{{ page.date | date: '%Y-%m-%d' }}"
                      {%- if page.series %} data-pagefind-filter="series:{{ page.series | escape }}"{% endif %}>
@@ -273,39 +273,8 @@ layout: default
 
 <script src="{{ "/js/post-toc.js" | prepend: site.baseurl }}"></script>
 
-{% if site.anchorjs %}
-<!-- async load function -->
-<script>
-    function async(u, c) {
-      var d = document, t = 'script',
-          o = d.createElement(t),
-          s = d.getElementsByTagName(t)[0];
-      o.src = u;
-      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
-      s.parentNode.insertBefore(o, s);
-    }
-</script>
-<!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
-<script>
-    async("//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.1.1/anchor.min.js",function(){
-        // BY Fix:去除标题前的‘#’ issues:<https://github.com/qiubaiying/qiubaiying.github.io/issues/137>
-        // anchors.options = {
-        //   visible: 'always',
-        //   placement: 'right',
-        //   icon: '#'
-        // };
-        anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
-    })
-</script>
-<style>
-    /* place left on bigger screen */
-    @media all and (min-width: 800px) {
-        .anchorjs-link{
-            position: absolute;
-            left: -0.75em;
-            font-size: 1.1em;
-            margin-top : -0.1em;
-        }
-    }
-</style>
-{% endif %}
+{%- comment -%}
+    Removed: anchor-js 1.1.1 from cdnjs. Heading links are now added by
+    js/post-toc.js (see headingAnchors there), switched by site.anchorjs
+    through the data-heading-anchors attribute on the post body.
+{%- endcomment -%}

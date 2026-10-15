@@ -47,7 +47,7 @@ GitHub Settings → Pages → Source must be set to **GitHub Actions**.
 | `series/` | One page per recurring column; a post joins a column through its `series:` value |
 | `wdpress/` | Posts and images imported from the old WordPress blog |
 | `_layouts/`, `_includes/` | Page templates |
-| `_plugins/site_index.rb` | Build-time helpers: series links, sidebar tags, marking Chinese posts `lang: zh-CN`, and dropping an opening heading that repeats the title |
+| `_plugins/site_index.rb` | Build-time helpers: series links, sidebar tags, marking Chinese posts `lang: zh-CN`, dropping an opening heading that repeats the title, and moving `#` section headings down a level |
 | `css/enhancements.css` | Site styles layered on the theme. `css/hux-blog.min.css` is generated from `less/`, so don't edit it by hand |
 | `_templates/` | Post template and drafting prompts |
 | `_tools/` | Maintenance scripts (below) |

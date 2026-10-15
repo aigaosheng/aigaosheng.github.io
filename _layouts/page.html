@@ -23,8 +23,12 @@ layout: default
   }
   {% endif %}
 </style>
+{%- comment -%}
+  header-style: compact gives a short banner, for pages where the content
+  (a search box, say) should be visible without scrolling.
+{%- endcomment %}
 <header
-  class="intro-header"
+  class="intro-header{% if page.header-style == 'compact' %} intro-header--compact{% endif %}"
   style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')"
 >
   <div class="header-mask"></div>

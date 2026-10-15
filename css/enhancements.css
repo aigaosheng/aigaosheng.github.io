@@ -247,3 +247,41 @@
   line-height: 1.1;
   margin: 20px 0 10px;
 }
+
+/* ---- Heading links (js/post-toc.js headingAnchors) ----
+ * A "#" after each heading in a post, shown on hover or keyboard focus.
+ * On wide screens it sits in the left margin, as anchor-js placed it. */
+.heading-anchor {
+  margin-left: .3em;
+  color: #0085a1;
+  font-weight: 400;
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity .15s;
+}
+h1:hover > .heading-anchor, h2:hover > .heading-anchor, h3:hover > .heading-anchor,
+h4:hover > .heading-anchor, h5:hover > .heading-anchor, h6:hover > .heading-anchor,
+.heading-anchor:focus {
+  opacity: 1;
+  text-decoration: none;
+}
+@media (min-width: 800px) {
+  [data-heading-anchors] h1, [data-heading-anchors] h2, [data-heading-anchors] h3,
+  [data-heading-anchors] h4, [data-heading-anchors] h5, [data-heading-anchors] h6 {
+    position: relative;
+  }
+  .heading-anchor {
+    position: absolute;
+    left: -0.9em;
+    margin-left: 0;
+  }
+}
+
+/* ---- Compact page banner (front matter header-style: compact) ----
+ * The standard hero is ~450px tall on desktop (padding on both .site-heading
+ * and .page-heading), which pushed the search box below the fold. */
+.intro-header--compact .site-heading { padding: 80px 0 24px; }
+.intro-header--compact .site-heading .page-heading { padding: 0; }
+@media only screen and (min-width: 768px) {
+  .intro-header--compact .site-heading { padding: 100px 0 36px; }
+}
