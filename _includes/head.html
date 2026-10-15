@@ -50,10 +50,18 @@
         AdSense and GA hosts are discovered late (they are async scripts at the
         end of head), so the TCP + TLS handshake lands in the middle of render.
     -->
-    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+    {%- comment -%}
+        Ads are on by default. A page with `ads: false` in its front matter
+        gets no AdSense code at all -- no loader, so no Auto ads either, and no
+        ad-blocking recovery message. Used on Services, About and Resume, so
+        the consulting pages read as a business site rather than an ad page.
+    {%- endcomment -%}
+    {%- assign _ads = true -%}
+    {%- if page.ads == false -%}{%- assign _ads = false -%}{%- endif %}
+    {% if _ads %}<link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>{% endif %}
     <link rel="preconnect" href="https://www.googletagmanager.com">
-    <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
-    <link rel="preconnect" href="https://fundingchoicesmessages.google.com">
+    {% if _ads %}<link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
+    <link rel="preconnect" href="https://fundingchoicesmessages.google.com">{% endif %}
 
     <!--
         jekyll-seo-tag. It was listed in _config.yml plugins but never invoked,
@@ -157,7 +165,7 @@
 </script>
 {% endif %}
 
-{% if site.adsense_client %}
+{% if site.adsense_client and _ads %}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense_client }}"
      crossorigin="anonymous"></script>
 
