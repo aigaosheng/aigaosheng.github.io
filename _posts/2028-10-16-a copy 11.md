@@ -18,18 +18,6 @@ permalink: /aa/
 
 ---
 
-Payment
-AI+Fintech
-AI governance
-Enterprise AI
-AI security and risk
-AI finance in Singapore
-US AI vs China AI
-AI research & open-source LLM model
-AI investment & startup in China
-
----
-
 - AI Finance in Singapore
 - AI Fintech
 - AI Governance
