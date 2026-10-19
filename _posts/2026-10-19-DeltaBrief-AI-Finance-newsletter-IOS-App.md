@@ -15,7 +15,7 @@ tags:
 - Newsletter
 - fintech
 keywords: [DeltaBrief, AI news, technology news, enterprise AI, fintech, payments, AI research, LLM, startups, technology briefing, Singapore]
-permalink: /DeltaBrief-AI-Finance-newsletter-IOS-App/
+permalink: /deltabrief-ai-finance-newsletter-ios-app/
 
 ---
 
