@@ -4,7 +4,7 @@ layout: post
 title: "DeltaBrief — Daily Technology Briefing for AI, Fintech & Enterprise Tech"
 series: "AI & Fintech"
 description: "DeltaBrief is a daily technology briefing covering AI, enterprise AI, fintech, payments, AI research, policy, startups, and the latest technology worth knowing."
-date: 2026-10-08 21:14:00 +0800
+date: 2026-10-19 21:14:00 +0800
 published: true
 status: publish
 categories: []
