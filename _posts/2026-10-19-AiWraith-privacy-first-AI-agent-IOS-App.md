@@ -13,7 +13,7 @@ tags:
 - Open Source
 - On-Device AI
 keywords: [AiWraith, chatbot, agent, open-source, on-device AI]
-permalink: /AiWraith, privacy-first AI agent IOS App/
+permalink: /AiWraith-privacy-first-AI-agent-IOS-App/
 ---
 
 ## [AiWraith: Your AI. On your iPhone. Private by design](<https://apps.apple.com/us/app/aiwraith/id6797142575)>)
