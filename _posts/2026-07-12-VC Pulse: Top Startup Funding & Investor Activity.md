@@ -81,4 +81,4 @@ Institutional investors are demonstrating renewed interest in long-duration tech
 * **Capital is concentrating.** Mega-rounds continue flowing to category leaders, making strong technical differentiation and enterprise traction increasingly important for startups seeking growth financing. ([techstartups.com][1])
 
 
-[1]: https://techstartups.com/2026/07/09/venture-capital-startup-funding-roundup-july-9-2026-sequoia-khosla-ventures-y-combinator-a16z-accel/?utm_source=chatgpt.com "Venture capital & startup funding roundup, July 9, 2026: Sequoia, Khosla Ventures, Y Combinator, A16Z, and Accel - Tech Startups"
+[1]: https://techstartups.com/2026/07/09/venture-capital-startup-funding-roundup-july-9-2026-sequoia-khosla-ventures-y-combinator-a16z-accel/ "Venture capital & startup funding roundup, July 9, 2026: Sequoia, Khosla Ventures, Y Combinator, A16Z, and Accel - Tech Startups"

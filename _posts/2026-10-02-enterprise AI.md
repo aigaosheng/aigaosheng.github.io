@@ -35,7 +35,7 @@ The Singapore Engineering Center is positioned as Google's flagship product-deve
 
 **Why it matters:** Regional engineering capacity is becoming part of the enterprise AI infrastructure race, particularly as customers demand products adapted to local data, regulatory and operational requirements.
 
-🔗 [Read the full story](https://www.frontier-enterprise.com/google-eyes-export-of-enterprise-cloud-ai-thru-singapore-engineering-centre/?utm_source=chatgpt.com)
+🔗 [Read the full story](https://www.frontier-enterprise.com/google-eyes-export-of-enterprise-cloud-ai-thru-singapore-engineering-centre/)
 
 ---
 
@@ -49,7 +49,7 @@ Red Hat CTO Chris Wright argues that model-level safeguards alone are insufficie
 
 **Why it matters:** Autonomous agents turn AI security into an infrastructure and access-control problem as well as a model-safety problem, raising the importance of runtime governance for production deployments.
 
-🔗 [Read the full story](https://www.redhat.com/en/blog/friday-five-october-2-2026-red-hat?utm_source=chatgpt.com)
+🔗 [Read the full story](https://www.redhat.com/en/blog/friday-five-october-2-2026-red-hat)
 
 ---
 
@@ -63,7 +63,7 @@ The platform updates described by OneTrust include an AI Control Plane, Governan
 
 **Why it matters:** Enterprise buyers are increasingly treating governance as an operational control plane for AI rather than a documentation exercise, particularly as agents begin taking actions on corporate systems.
 
-🔗 [Read the full story](https://smbtech.au/news/onetrust-rolls-out-platform-overhaul-to-tackle-ai-governance-at-enterprise-scale/?utm_source=chatgpt.com)
+🔗 [Read the full story](https://smbtech.au/news/onetrust-rolls-out-platform-overhaul-to-tackle-ai-governance-at-enterprise-scale/)
 
 ---
 
@@ -77,7 +77,7 @@ The 2026 Enterprise AI Maturity Index cited by FutureCIO puts Singapore's AI mat
 
 **Why it matters:** The figures point to a widening distinction between deploying AI tools and actually restructuring business processes around them, making workflow integration and operating-model change central enterprise AI priorities.
 
-🔗 [Read the full story](https://futurecio.tech/podchats-for-futurecio-escape-the-chaos-gap-to-achieve-ai-powered-business-reinvention/?utm_source=chatgpt.com)
+🔗 [Read the full story](https://futurecio.tech/podchats-for-futurecio-escape-the-chaos-gap-to-achieve-ai-powered-business-reinvention/)
 
 ---
 
@@ -91,7 +91,7 @@ The demonstrations include Microsoft Copilot for 35,000 government employees and
 
 **Why it matters:** Large-scale deployments in government and industrial environments provide a clearer test of enterprise AI's value because adoption depends on integration with existing workflows, systems and operational constraints.
 
-🔗 [Read the full story](https://www.itp.net/ai-automation/microsoft-vdura-and-ifs-to-showcase-ai-at-ai-everything-abu-dhabi-2026?utm_source=chatgpt.com)
+🔗 [Read the full story](https://www.itp.net/ai-automation/microsoft-vdura-and-ifs-to-showcase-ai-at-ai-everything-abu-dhabi-2026)
 
 ---
 
@@ -105,7 +105,7 @@ The Sustainable Tropical Data Centre Testbed Phase 2.0 brings together industry,
 
 **Why it matters:** Enterprise AI expansion is increasing demand for data-center capacity while making energy efficiency and cooling increasingly important constraints on regional AI infrastructure.
 
-🔗 [Read the full story](https://en.antaranews.com/amp/news/433844/yokogawa-to-assist-the-scale-up-of-tropical-climate-ai-data-center-testbed-into-a-multi-megawatt-pilot-facility?utm_source=chatgpt.com)
+🔗 [Read the full story](https://en.antaranews.com/amp/news/433844/yokogawa-to-assist-the-scale-up-of-tropical-climate-ai-data-center-testbed-into-a-multi-megawatt-pilot-facility)
 
 ---
 
@@ -119,6 +119,6 @@ The Industrial Cyber Resilience Center will provide cybersecurity assessment, tr
 
 **Why it matters:** As enterprise AI reaches operational technology and industrial environments, cyber resilience becomes intertwined with AI deployment, particularly where system compromise can affect physical operations and production continuity.
 
-🔗 [Read the full story](https://www.frontier-enterprise.com/yokogawa-launches-industrial-cyber-resilience-center-in-se-asia/?utm_source=chatgpt.com)
+🔗 [Read the full story](https://www.frontier-enterprise.com/yokogawa-launches-industrial-cyber-resilience-center-in-se-asia/)
 
 ---

@@ -54,4 +54,4 @@ China’s AI ecosystem is entering a new maturity phase: **large-scale capital f
 
 ([Reuters][1])
 
-[1]: https://www.reuters.com/legal/transactional/chinas-deepseek-raise-fresh-capital-74-billion-valuation-ahead-onshore-ipo-2026-07-15/?utm_source=chatgpt.com "China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say"
+[1]: https://www.reuters.com/legal/transactional/chinas-deepseek-raise-fresh-capital-74-billion-valuation-ahead-onshore-ipo-2026-07-15/ "China's DeepSeek to raise fresh capital at $74 billion valuation ahead of onshore IPO, sources say"

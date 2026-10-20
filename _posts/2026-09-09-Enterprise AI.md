@@ -64,7 +64,7 @@ permalink: /Enterprise-AI-Brief-2026-09-09/
 * **Source**: Moneycontrol · September 9, 2026
 * **Summary**: Paytm is expanding beyond payments with Paytm Intelligence, or Pi, an enterprise AI initiative aimed initially at banks, lenders, insurers, and other financial institutions in India and the UAE. The platform is designed to deploy AI agents across sales, customer service, and operations, with the company already offering Pi to some customers. The move represents a strategic attempt to turn Paytm's payments, behavioral, and financial technology expertise into an enterprise AI business.
 * **Why It Matters**: Paytm's move highlights a broader trend: **incumbent fintech and financial platforms are attempting to monetize proprietary domain data and workflow knowledge as AI products**. Vertical AI could become a higher-margin business layer on top of established financial infrastructure.
-* **URL**: [https://www.moneycontrol.com/news/business/markets/paytm-shares-rise-over-4-on-report-of-ai-expansion-14025940.html](https://www.moneycontrol.com/news/business/markets/paytm-shares-rise-over-4-on-report-of-ai-expansion-14025940.html?utm_source=chatgpt.com)
+* **URL**: [https://www.moneycontrol.com/news/business/markets/paytm-shares-rise-over-4-on-report-of-ai-expansion-14025940.html](https://www.moneycontrol.com/news/business/markets/paytm-shares-rise-over-4-on-report-of-ai-expansion-14025940.html)
 
 ---
 

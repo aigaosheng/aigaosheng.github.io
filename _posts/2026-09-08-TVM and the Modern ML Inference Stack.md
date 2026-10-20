@@ -137,7 +137,7 @@ ML compiler
 
 # 2. What Is Apache TVM?
 
-[Apache TVM on GitHub](https://github.com/apache/tvm?utm_source=chatgpt.com) is an open-source machine-learning compiler stack.
+[Apache TVM on GitHub](https://github.com/apache/tvm) is an open-source machine-learning compiler stack.
 
 Its fundamental objective is:
 
@@ -404,7 +404,7 @@ Therefore, they are better viewed as **complementary technologies** than direct 
 
 # 9. TVM vs llama.cpp
 
-[llama.cpp on GitHub](https://github.com/ggml-org/llama.cpp?utm_source=chatgpt.com) is primarily an LLM inference engine.
+[llama.cpp on GitHub](https://github.com/ggml-org/llama.cpp) is primarily an LLM inference engine.
 
 A typical architecture looks like:
 
@@ -472,7 +472,7 @@ llama.cpp is usually a much more direct solution than building a TVM pipeline.
 
 # 10. TVM vs ONNX Runtime
 
-[ONNX Runtime](https://onnxruntime.ai/?utm_source=chatgpt.com) is a general-purpose inference runtime.
+[ONNX Runtime](https://onnxruntime.ai/) is a general-purpose inference runtime.
 
 Its architecture is roughly:
 
@@ -518,7 +518,7 @@ There is overlap, but the design center is different.
 
 # 11. TVM vs TensorRT
 
-[NVIDIA TensorRT](https://developer.nvidia.com/tensorrt?utm_source=chatgpt.com) is an inference optimization and runtime ecosystem focused on NVIDIA hardware.
+[NVIDIA TensorRT](https://developer.nvidia.com/tensorrt) is an inference optimization and runtime ecosystem focused on NVIDIA hardware.
 
 A typical deployment path is:
 
@@ -528,7 +528,7 @@ flowchart LR
     B --> C[NVIDIA GPU]
 ```
 
-For LLMs, [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM?utm_source=chatgpt.com) extends this idea specifically for large language models.
+For LLMs, [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) extends this idea specifically for large language models.
 
 TensorRT is particularly compelling for:
 
@@ -1134,10 +1134,10 @@ That distinction is what makes TVM particularly interesting for:
 
 ## References
 
-* [Apache TVM](https://tvm.apache.org/?utm_source=chatgpt.com) — Apache TVM project and documentation
-* [Apache TVM GitHub](https://github.com/apache/tvm?utm_source=chatgpt.com) — Source code and development
-* [MLX](https://github.com/ml-explore/mlx?utm_source=chatgpt.com) — Apple's ML framework for Apple Silicon
-* [llama.cpp](https://github.com/ggml-org/llama.cpp?utm_source=chatgpt.com) — Local LLM inference engine
-* [ONNX Runtime](https://onnxruntime.ai/?utm_source=chatgpt.com) — Cross-platform ML inference runtime
-* [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt?utm_source=chatgpt.com) — NVIDIA inference optimization platform
-* [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM?utm_source=chatgpt.com) — NVIDIA LLM inference stack
+* [Apache TVM](https://tvm.apache.org/) — Apache TVM project and documentation
+* [Apache TVM GitHub](https://github.com/apache/tvm) — Source code and development
+* [MLX](https://github.com/ml-explore/mlx) — Apple's ML framework for Apple Silicon
+* [llama.cpp](https://github.com/ggml-org/llama.cpp) — Local LLM inference engine
+* [ONNX Runtime](https://onnxruntime.ai/) — Cross-platform ML inference runtime
+* [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt) — NVIDIA inference optimization platform
+* [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) — NVIDIA LLM inference stack

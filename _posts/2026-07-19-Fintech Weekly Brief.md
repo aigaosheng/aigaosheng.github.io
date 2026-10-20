@@ -223,11 +223,11 @@ Compliance automation is becoming one of the fastest-growing AI applications in 
 
 ---
 
-[1]: https://www.finextra.com/?utm_source=chatgpt.com "Finextra Research: Home"
-[2]: https://www.finextra.com/latest-news?utm_source=chatgpt.com "Latest news headlines: Finextra Research"
-[3]: https://www.fintechfutures.com/fintech?utm_source=chatgpt.com "FinTech | FinTech Futures"
-[4]: https://www.fintechfutures.com/?utm_source=chatgpt.com "FinTech Futures: Global Fintech News, Insights & Analysis"
-[5]: https://www.fintechfutures.com/fintech/ai-in-fintech?utm_source=chatgpt.com "AI in Fintech | FinTech Futures"
-[6]: https://www.finextra.com/latest-news/ai?utm_source=chatgpt.com "Latest Artificial Intelligence News: Finextra Research"
-[7]: https://www.finextra.com/newsarticle/47177/finextra-launches-nextgen-fincrime-a-new-leadership-event-redefining-trust-in-finance?utm_source=chatgpt.com "Finextra launches NextGen FinCrime, a new leadership event redefining trust in finance"
+[1]: https://www.finextra.com/ "Finextra Research: Home"
+[2]: https://www.finextra.com/latest-news "Latest news headlines: Finextra Research"
+[3]: https://www.fintechfutures.com/fintech "FinTech | FinTech Futures"
+[4]: https://www.fintechfutures.com/ "FinTech Futures: Global Fintech News, Insights & Analysis"
+[5]: https://www.fintechfutures.com/fintech/ai-in-fintech "AI in Fintech | FinTech Futures"
+[6]: https://www.finextra.com/latest-news/ai "Latest Artificial Intelligence News: Finextra Research"
+[7]: https://www.finextra.com/newsarticle/47177/finextra-launches-nextgen-fincrime-a-new-leadership-event-redefining-trust-in-finance "Finextra launches NextGen FinCrime, a new leadership event redefining trust in finance"
 [8]: https://www.finextra.com/events/timeline?year=2026&utm_source=chatgpt.com "Events: Webinars, conferences & round-tables"

@@ -103,9 +103,9 @@ permalink: /AI-Research-Brief-2026-07-02/
 
 ---
 
-[1]: https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders?utm_source=chatgpt.com "Exclusive: UN launches \"AI for Good\" commission"
-[2]: https://www.reuters.com/science/anthropic-unveils-claude-science-ai-platform-scientific-research-2026-06-30/?utm_source=chatgpt.com "Anthropic unveils 'Claude Science' for scientific research"
-[3]: https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind?utm_source=chatgpt.com "'There's this deep mystery of what, actually, is this thing?': the philosopher inside Google DeepMind AI"
-[4]: https://aitoolly.com/ai-news/2026-07-02?utm_source=chatgpt.com "July 2, 2026 AI News | Latest Artificial Intelligence Updates | AIToolly"
-[5]: https://lmmarketcap.com/news/archive/2026/07?utm_source=chatgpt.com "AI News Archive - July 2026"
-[6]: https://arxiv.org/abs/2606.08936?utm_source=chatgpt.com "Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)"
+[1]: https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders "Exclusive: UN launches \"AI for Good\" commission"
+[2]: https://www.reuters.com/science/anthropic-unveils-claude-science-ai-platform-scientific-research-2026-06-30/ "Anthropic unveils 'Claude Science' for scientific research"
+[3]: https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind "'There's this deep mystery of what, actually, is this thing?': the philosopher inside Google DeepMind AI"
+[4]: https://aitoolly.com/ai-news/2026-07-02 "July 2, 2026 AI News | Latest Artificial Intelligence Updates | AIToolly"
+[5]: https://lmmarketcap.com/news/archive/2026/07 "AI News Archive - July 2026"
+[6]: https://arxiv.org/abs/2606.08936 "Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)"

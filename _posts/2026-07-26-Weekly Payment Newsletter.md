@@ -201,8 +201,8 @@ The winners in this next cycle are likely to be companies combining:
 
 ---
 
-[1]: https://www.finextra.com/latest-news/payments?utm_source=chatgpt.com "Latest Payments News: Finextra Research"
-[2]: https://www.finextra.com/latest-announcements/ai?utm_source=chatgpt.com "Artificial Intelligence - Announcements, News, Articles & Research: Finextra"
-[3]: https://www.finextra.com/latest-news/ai?utm_source=chatgpt.com "Latest Artificial Intelligence News: Finextra Research"
-[4]: https://www.finextra.com/?utm_source=chatgpt.com "Finextra Research: Home"
+[1]: https://www.finextra.com/latest-news/payments "Latest Payments News: Finextra Research"
+[2]: https://www.finextra.com/latest-announcements/ai "Artificial Intelligence - Announcements, News, Articles & Research: Finextra"
+[3]: https://www.finextra.com/latest-news/ai "Latest Artificial Intelligence News: Finextra Research"
+[4]: https://www.finextra.com/ "Finextra Research: Home"
 [5]: https://www.finextra.com/events/grid/ai?year=2026 "Artificial Intelligence - Events & Webinars, Announcements, News, Articles & Research - Finextra"

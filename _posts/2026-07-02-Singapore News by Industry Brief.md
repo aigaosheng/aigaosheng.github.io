@@ -105,10 +105,10 @@ permalink: /Singapore-News-Brief-2026-07-02/
 
 ---
 
-[1]: https://www.china.org.cn/world/Off_the_Wire/2026-07/02/content_118579527.shtml?utm_source=chatgpt.com "Roundup: AI spending, construction drive Singapore growth upgrades"
-[2]: https://spacecycle.sg/updates/singapore-office-rents-q2-2026-cbd-supply?utm_source=chatgpt.com "Singapore Office Rents Rise for Sixth Straight Quarter as CBD Supply Stays Tight | SpaceCycle.sg | SpaceCycle.sg"
-[3]: https://www.businesstimes.com.sg/property/singapore-office-rents-climb-higher-q2-limited-cbd-supply-keeps-market-tight?utm_source=chatgpt.com "Singapore office rents climb higher in Q2 as limited CBD supply keeps market tight - The Business Times"
-[4]: https://www.edgeprop.sg/property-news/resale-flat-prices-fall-second-straight-quarter-down-03-2q2026-hdb-flash-estimates?utm_source=chatgpt.com "Resale flat prices fall for second straight quarter, down 0.3% in 2Q2026: HDB flash estimates - Singapore Property News"
-[5]: https://propertyatlas.sg/news/2h2026-gls-town-hall-link-confirmed/?utm_source=chatgpt.com "2H2026 GLS: Jurong Lake District White Site Jumps To Confirmed — 9,200 Homes, 188,100 sqm Commercial In The Pipeline | PropertyAtlas"
-[6]: https://www.reuters.com/business/media-telecom/microsoft-partners-with-singapores-lightstorm-build-india-southeast-asia-2026-07-02/?utm_source=chatgpt.com "Microsoft partners with Singapore's Lightstorm to build India-Southeast Asia undersea cable"
-[7]: https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-f0fbb82c?utm_source=chatgpt.com "Tech, Media & Telecom Roundup: Market Talk"
+[1]: https://www.china.org.cn/world/Off_the_Wire/2026-07/02/content_118579527.shtml "Roundup: AI spending, construction drive Singapore growth upgrades"
+[2]: https://spacecycle.sg/updates/singapore-office-rents-q2-2026-cbd-supply "Singapore Office Rents Rise for Sixth Straight Quarter as CBD Supply Stays Tight | SpaceCycle.sg | SpaceCycle.sg"
+[3]: https://www.businesstimes.com.sg/property/singapore-office-rents-climb-higher-q2-limited-cbd-supply-keeps-market-tight "Singapore office rents climb higher in Q2 as limited CBD supply keeps market tight - The Business Times"
+[4]: https://www.edgeprop.sg/property-news/resale-flat-prices-fall-second-straight-quarter-down-03-2q2026-hdb-flash-estimates "Resale flat prices fall for second straight quarter, down 0.3% in 2Q2026: HDB flash estimates - Singapore Property News"
+[5]: https://propertyatlas.sg/news/2h2026-gls-town-hall-link-confirmed/ "2H2026 GLS: Jurong Lake District White Site Jumps To Confirmed — 9,200 Homes, 188,100 sqm Commercial In The Pipeline | PropertyAtlas"
+[6]: https://www.reuters.com/business/media-telecom/microsoft-partners-with-singapores-lightstorm-build-india-southeast-asia-2026-07-02/ "Microsoft partners with Singapore's Lightstorm to build India-Southeast Asia undersea cable"
+[7]: https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-f0fbb82c "Tech, Media & Telecom Roundup: Market Talk"

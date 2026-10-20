@@ -68,5 +68,5 @@ permalink: /Enterprise-AI-Brief-2026-08-21/
 [1]: https://cloud.google.com/blog/products/ai-machine-learning/expanding-google-antigravity-for-enterprise-customers "Expanding Google Antigravity for enterprise customers | Google Cloud Blog"
 [2]: https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat "Slack wants to drag AI coding out of the terminal and into the group chat | VentureBeat"
 [3]: https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/ "US corporate AI debt surge tests investor limits as fatigue emerges | Reuters"
-[4]: https://www.expresscomputer.in/news/tech-mahindra-and-servicenow-expand-partnership-to-take-enterprise-ai-beyond-pilots/137952/?utm_source=chatgpt.com "Tech Mahindra and ServiceNow expand partnership to take enterprise AI beyond pilots"
+[4]: https://www.expresscomputer.in/news/tech-mahindra-and-servicenow-expand-partnership-to-take-enterprise-ai-beyond-pilots/137952/ "Tech Mahindra and ServiceNow expand partnership to take enterprise AI beyond pilots"
 [5]: https://www.wsj.com/cio-journal/an-innovation-veteran-on-whats-next-in-enterprise-ai-1e20ead2 "An Innovation Veteran on What’s Next in Enterprise AI - WSJ"

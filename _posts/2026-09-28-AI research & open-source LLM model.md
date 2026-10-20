@@ -165,7 +165,7 @@ The research focuses on the possibility that large numbers of cheap autonomous s
 
 ---
 
-[1]: https://naive.ai/en/research/?utm_source=chatgpt.com "NaiveAI"
+[1]: https://naive.ai/en/research/ "NaiveAI"
 [2]: https://arxiv-troller.com/?q=paper%3A+2604.11914 "arXiv Troller"
 [3]: https://arxiv-troller.com/?q=paper%3A+2608.26430 "arXiv Troller"
 [4]: https://arxivsignals.io/explore?date=2026-09-28&keywords=large-language-models "Explore · ArXivSignals"

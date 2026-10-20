@@ -73,6 +73,6 @@ Cleavr says its customers have reduced days sales outstanding by an average of 3
 
 ---
 
-[1]: https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions?utm_source=chatgpt.com "MAS Sets Out Supervisory Expectations on Responsible AI Adoption by Financial Institutions"
-[2]: https://www.ocbc.com/group/media/release/2026/ocbc-tokenised-deposit-ant-international-treasury.page?utm_source=chatgpt.com "OCBC launches tokenised deposit solution | OCBC Singapore"
-[3]: https://thepaypers.com/fintech/news/cleavr-raises-eur-8-million-seed-round-for-ai-invoice-collection?utm_source=chatgpt.com "Cleavr raises EUR 8 mln for AI collections | The Paypers"
+[1]: https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions "MAS Sets Out Supervisory Expectations on Responsible AI Adoption by Financial Institutions"
+[2]: https://www.ocbc.com/group/media/release/2026/ocbc-tokenised-deposit-ant-international-treasury.page "OCBC launches tokenised deposit solution | OCBC Singapore"
+[3]: https://thepaypers.com/fintech/news/cleavr-raises-eur-8-million-seed-round-for-ai-invoice-collection "Cleavr raises EUR 8 mln for AI collections | The Paypers"

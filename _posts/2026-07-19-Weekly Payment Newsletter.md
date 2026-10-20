@@ -233,10 +233,10 @@ Banks and payment networks are preparing for clearer regulatory frameworks aroun
 
 ---
 
-[1]: https://www.fintechfutures.com/paytech/digital-payments?utm_source=chatgpt.com "Digital Payments | FinTech Futures"
-[2]: https://www.finextra.com/?utm_source=chatgpt.com "Finextra Research: Home"
-[3]: https://www.fintechfutures.com/fintech/partnerships?utm_source=chatgpt.com "Partnerships | FinTech Futures"
-[4]: https://www.fintechfutures.com/ai-in-fintech/worldline-mastercard-credit-agricole-complete-first-ai-agent-payment-france?utm_source=chatgpt.com "First AI agent payment completed in France"
-[5]: https://staging.finextra.com/?utm_source=chatgpt.com "Finextra Research: Home"
-[6]: https://www.finextra.com/latest-news/ai?utm_source=chatgpt.com "Latest Artificial Intelligence News: Finextra Research"
+[1]: https://www.fintechfutures.com/paytech/digital-payments "Digital Payments | FinTech Futures"
+[2]: https://www.finextra.com/ "Finextra Research: Home"
+[3]: https://www.fintechfutures.com/fintech/partnerships "Partnerships | FinTech Futures"
+[4]: https://www.fintechfutures.com/ai-in-fintech/worldline-mastercard-credit-agricole-complete-first-ai-agent-payment-france "First AI agent payment completed in France"
+[5]: https://staging.finextra.com/ "Finextra Research: Home"
+[6]: https://www.finextra.com/latest-news/ai "Latest Artificial Intelligence News: Finextra Research"
 [7]: https://www.finextra.com/events/timeline/payments?eventtype=webinar&year=2026&utm_source=chatgpt.com "Payments - Events & Webinars, Announcements, News, Articles & Research - Finextra"

@@ -56,4 +56,4 @@ permalink: /AI-FinTech-Brief-2026-07-17/
 
 ---
 
-[1]: https://ffnews.com/news/fintech-funding-surges-23-in-h1-2026-driven-by-ai-and-infrastructure-bets?utm_source=chatgpt.com "Fintech Funding Surges 23% in H1 2026 Driven by AI and Infrastructure Bets"
+[1]: https://ffnews.com/news/fintech-funding-surges-23-in-h1-2026-driven-by-ai-and-infrastructure-bets "Fintech Funding Surges 23% in H1 2026 Driven by AI and Infrastructure Bets"

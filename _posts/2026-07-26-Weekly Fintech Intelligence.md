@@ -187,6 +187,6 @@ No significant executive quote meeting publication standards was consistently av
 
 ---
 
-[1]: https://www.finextra.com/?utm_source=chatgpt.com "Finextra Research: Home"
-[2]: https://www.fintechfutures.com/latest-news?utm_source=chatgpt.com "news"
-[3]: https://www.finextra.com/latest-news/payments?utm_source=chatgpt.com "Latest Payments 
+[1]: https://www.finextra.com/ "Finextra Research: Home"
+[2]: https://www.fintechfutures.com/latest-news "news"
+[3]: https://www.finextra.com/latest-news/payments "Latest Payments 
