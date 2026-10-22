@@ -60,4 +60,4 @@ Nexos.ai's strategic focus on security and its robust funding position it as a p
 **Source:** [TechCrunch Article on Nexos.ai's Funding](https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/)
 
 # You may enjoy reading
-[Enterprise AI Orchestration Nexos AI and Its Rivals Reimagining Secure Automation]({{ site.baseurl }}/Enterprise AI Orchestration Nexos AI and Its Rivals Reimagining Secure Automation/)
+[Enterprise AI Orchestration Nexos AI and Its Rivals Reimagining Secure Automation]({{ site.baseurl }}/enterprise-ai-orchestration-nexos-ai-and-its-rivals-reimagining-secure-automation/)

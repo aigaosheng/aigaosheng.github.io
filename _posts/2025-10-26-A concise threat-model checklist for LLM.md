@@ -214,6 +214,6 @@ permalink: /A concise threat-model checklist for LLM/
 ---
 # You may enjoy
 
-- [Prompt Injection - The Silent Backdoor Threat Inside AI Systems]({{ site.baseurl }}/Prompt Injection - The Silent Backdoor Threat Inside AI Systems/)
+- [Prompt Injection - The Silent Backdoor Threat Inside AI Systems]({{ site.baseurl }}/prompt-injection-the-silent-backdoor-threat-inside-ai-systems/)
 
-- [When Your Browser Helps Too Much — and Gives Hackers a Helping Hand]({{ site.baseurl }}/When Your Browser Helps Too Much — and Gives Hackers a Helping Hand/)
+- [When Your Browser Helps Too Much — and Gives Hackers a Helping Hand]({{ site.baseurl }}/when-your-browser-helps-too-much-and-gives-hackers-a-helping-hand/)

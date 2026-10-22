@@ -196,6 +196,6 @@ This pattern reduces risk by design: separation, explicit instructions, sanitiza
 
 ### You may enjoy
 
-- [A concise threat-model checklist for LLM]({{ site.baseurl }}/A concise threat-model checklist for LLM/)
+- [A concise threat-model checklist for LLM]({{ site.baseurl }}/a-concise-threat-model-checklist-for-llm/)
 
-- [When Your Browser Helps Too Much — and Gives Hackers a Helping Hand]({{ site.baseurl }}/When Your Browser Helps Too Much — and Gives Hackers a Helping Hand/)
+- [When Your Browser Helps Too Much — and Gives Hackers a Helping Hand]({{ site.baseurl }}/when-your-browser-helps-too-much-and-gives-hackers-a-helping-hand/)

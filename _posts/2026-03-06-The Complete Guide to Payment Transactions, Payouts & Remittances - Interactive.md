@@ -27,7 +27,7 @@ March 2026
 
 --- 
 
-[**Read full article** ](/The Complete Guide to Payment Transactions, Payouts & Remittances/)
+[**Read full article** ](/the-complete-guide-to-payment-transactions-payouts-remittances/)
 
 ---
 

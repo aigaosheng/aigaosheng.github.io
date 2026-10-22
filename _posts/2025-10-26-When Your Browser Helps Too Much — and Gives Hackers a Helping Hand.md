@@ -94,6 +94,6 @@ Source: [https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-br
 
 ## You may enjoy
 
-- [Prompt Injection - The Silent Backdoor Threat Inside AI Systems]({{ site.baseurl }}/Prompt Injection - The Silent Backdoor Threat Inside AI Systems/)
+- [Prompt Injection - The Silent Backdoor Threat Inside AI Systems]({{ site.baseurl }}/prompt-injection-the-silent-backdoor-threat-inside-ai-systems/)
 
-- [A concise threat-model checklist for LLM]({{ site.baseurl }}/A concise threat-model checklist for LLM/)
+- [A concise threat-model checklist for LLM]({{ site.baseurl }}/a-concise-threat-model-checklist-for-llm/)

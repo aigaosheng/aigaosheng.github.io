@@ -62,4 +62,4 @@ Read the full Bloomberg story: [https://www.bloomberg.com/news/articles/2025-10-
 
 You may also enjoy reading:
 
-- [VikingGPT - Viking Global Investors' In-House AI Strategy]({{ site.baseurl }}/VikingGPT - Viking Global Investors' In-House AI Strategy/)
+- [VikingGPT - Viking Global Investors' In-House AI Strategy]({{ site.baseurl }}/vikinggpt-viking-global-investors-in-house-ai-strategy/)

@@ -72,5 +72,5 @@ Domo evolved from a business intelligence platform to one that now unifies AI mo
 [20](https://twixor.ai/blog/conversational-ai-platforms/)
 
 ### You may enjoy reading
-[Nexos AI Secures to Propel Enterprise AI Adoption Amidst Rising Competition]({{ site.baseurl }}/Nexos AI Secures to Propel Enterprise AI Adoption Amidst Rising Competition/)
+[Nexos AI Secures to Propel Enterprise AI Adoption Amidst Rising Competition]({{ site.baseurl }}/nexos-ai-secures-to-propel-enterprise-ai-adoption-amidst-rising-competition/)
 

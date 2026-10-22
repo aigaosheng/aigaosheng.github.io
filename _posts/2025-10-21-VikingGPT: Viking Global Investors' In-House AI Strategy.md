@@ -78,6 +78,6 @@ In conclusion, VikingGPT represents a strategic initiative by Viking Global Inve
 ---
 You may also enjoy reading:
 
-- [TradeGPT - An Open-Source LLM-Driven Stock Trading Signal Agent Using Reinforcement Learning]({{ site.baseurl }}/TradeAgent - An Open-Source LLM-Driven Stock Trading Signal Agent Using Reinforcement Learning/)
+- [TradeGPT - An Open-Source LLM-Driven Stock Trading Signal Agent Using Reinforcement Learning]({{ site.baseurl }}/tradeagent-an-open-source-llm-driven-stock-trading-signal-agent-using-reinforcement-learning/)
 
-- [Inside Viking Global’s AI Leap - VikingGPT Shows Hedge Funds the Future—But Humans Still Call the Shots]({{ site.baseurl }}/Inside Viking Global’s AI Leap - VikingGPT Shows Hedge Funds the Future—But Humans Still Call the Shots/)
+- [Inside Viking Global’s AI Leap - VikingGPT Shows Hedge Funds the Future—But Humans Still Call the Shots]({{ site.baseurl }}/inside-viking-globals-ai-leap-vikinggpt-shows-hedge-funds-the-futurebut-humans-still-call-the-shots/)

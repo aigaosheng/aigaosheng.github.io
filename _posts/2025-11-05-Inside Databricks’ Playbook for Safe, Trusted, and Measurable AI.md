@@ -223,4 +223,4 @@ For clients (such as yourself, Sheng) building intelligent systems (email automa
 [11]: https://www.databricks.com/blog/helping-enterprises-responsibly-deploy-ai "Helping Enterprises Responsibly Deploy AI | Databricks Blog"
 [12]: https://www.databricks.com/blog/building-high-quality-and-trusted-data-products-databricks "Building High-Quality and Trusted Data Products with Databricks | Databricks Blog"
 
-[In-depth report Arduino – A Pillar of Open-Source Innovation]({{ site.baseurl }}/Arduino – A Pillar of Open-Source Innovation/)
+[In-depth report Arduino – A Pillar of Open-Source Innovation]({{ site.baseurl }}/arduino-a-pillar-of-open-source-innovation/)

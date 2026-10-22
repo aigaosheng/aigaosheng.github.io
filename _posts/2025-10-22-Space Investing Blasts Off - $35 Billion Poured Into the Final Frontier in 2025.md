@@ -49,4 +49,4 @@ Source: [Reuters – Investors pour record $35 billion into space; investors loo
 
 ### You may enjoy
 
-[Space Investment Soars - Tracking the $35 Billion Surge and Beyond Since 2020]({{ site.baseurl }}/Space Investment Soars - Tracking the $35 Billion Surge and Beyond Since 2020/)
+[Space Investment Soars - Tracking the $35 Billion Surge and Beyond Since 2020]({{ site.baseurl }}/space-investment-soars-tracking-the-35-billion-surge-and-beyond-since-2020/)

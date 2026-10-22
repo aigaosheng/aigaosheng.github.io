@@ -97,8 +97,8 @@ Source: [https://venturebeat.com/ai/when-your-ai-browser-becomes-your-enemy-the-
 
 ### You may enjoy
 
-- [A concise threat-model checklist for LLM]({{ site.baseurl }}/A concise threat-model checklist for LLM/)
+- [A concise threat-model checklist for LLM]({{ site.baseurl }}/a-concise-threat-model-checklist-for-llm/)
 
-- [When Your Browser Helps Too Much — and Gives Hackers a Helping Hand]({{ site.baseurl }}/When Your Browser Helps Too Much — and Gives Hackers a Helping Hand/)
+- [When Your Browser Helps Too Much — and Gives Hackers a Helping Hand]({{ site.baseurl }}/when-your-browser-helps-too-much-and-gives-hackers-a-helping-hand/)
 
-- [Prompt Injection - The Silent Backdoor Threat Inside AI Systems]({{ site.baseurl }}/Prompt Injection - The Silent Backdoor Threat Inside AI Systems/)
+- [Prompt Injection - The Silent Backdoor Threat Inside AI Systems]({{ site.baseurl }}/prompt-injection-the-silent-backdoor-threat-inside-ai-systems/)

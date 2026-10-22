@@ -46,4 +46,4 @@ In summary, space investment has moved from hype to sustained strategic growth, 
 
 ### You may enjoy
 
-[Space Investing Blasts Off - $35 Billion Poured Into the Final Frontier in 2025]({{ site.baseurl }}/Space Investing Blasts Off - $35 Billion Poured Into the Final Frontier in 2025/)
+[Space Investing Blasts Off - $35 Billion Poured Into the Final Frontier in 2025]({{ site.baseurl }}/space-investing-blasts-off-35-billion-poured-into-the-final-frontier-in-2025/)

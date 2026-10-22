@@ -78,8 +78,8 @@ Source: [Reuters article](https://www.reuters.com/business/retail-consumer/nokia
 
 ### You may enjoy
 
-- [Jeff Bezos Calls AI Spending Surge an 'Industrial Bubble'—But One That Will Pay Off]({{ site.baseurl }}/Jeff Bezos Calls AI Spending Surge an 'Industrial Bubble'—But One That Will Pay Off/)
+- [Jeff Bezos Calls AI Spending Surge an 'Industrial Bubble'—But One That Will Pay Off]({{ site.baseurl }}/jeff-bezos-calls-ai-spending-surge-an-industrial-bubblebut-one-that-will-pay-off/)
 
-- [Market Analysis Echoes of the Dot-Com Era in Today’s Market and Future Implications/]({{ site.baseurl }}/Market Analysis Echoes of the Dot-Com Era in Today’s Market and Future Implications/)
+- [Market Analysis Echoes of the Dot-Com Era in Today’s Market and Future Implications/]({{ site.baseurl }}/market-analysis-echoes-of-the-dot-com-era-in-todays-market-and-future-implications/)
 
-- [Is the AI Boom a Bubble? Analyzing the 2025 Tech Frenzy and What It Means for Investors]({{ site.baseurl }}/Is the AI Boom a Bubble Analyzing the 2025 Tech Frenzy and What It Means for Investors/)
+- [Is the AI Boom a Bubble? Analyzing the 2025 Tech Frenzy and What It Means for Investors]({{ site.baseurl }}/is-the-ai-boom-a-bubble-analyzing-the-2025-tech-frenzy-and-what-it-means-for-investors/)

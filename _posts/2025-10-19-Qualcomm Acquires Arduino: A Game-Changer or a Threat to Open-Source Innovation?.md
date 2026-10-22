@@ -56,4 +56,4 @@ For a more in-depth analysis, read the full article on IEEE Spectrum: [Qualcomm 
 
 ---
 
-[Introduction of Arduino: A Pillar of Open-Source Innovation]({{ site.baseurl }}/Arduino – A Pillar of Open-Source Innovation/)
+[Introduction of Arduino: A Pillar of Open-Source Innovation]({{ site.baseurl }}/arduino-a-pillar-of-open-source-innovation/)
