@@ -30,4 +30,13 @@ sitemap: false
 
 <script>
 	document.body.classList.add('page-fullscreen');
+
+	// Redirect uppercase or encoded-space URLs to their lowercase equivalents.
+	(function () {
+		var path = window.location.pathname;
+		var lower = decodeURIComponent(path).toLowerCase().replace(/ /g, '-').replace(/[^a-z0-9\-\/\.]/g, '');
+		if (lower !== path && lower !== '/404.html') {
+			window.location.replace(lower);
+		}
+	})();
 </script>

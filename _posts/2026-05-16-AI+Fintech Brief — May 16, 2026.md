@@ -13,7 +13,7 @@ tags:
 - Fintech
 - Agentic AI
 keywords: [AI in Financial Services, Agentic Banking, Stablecoin AI Payments]
-permalink: /AI Fintech Brief — May 15, 2026/
+permalink: /ai-fintech-brief-may-16-2026/
 ---
 
 ### Top Stories

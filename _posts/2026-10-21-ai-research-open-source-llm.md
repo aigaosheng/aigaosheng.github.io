@@ -19,7 +19,7 @@ keywords:
 - Time To Fly 2026
 - Le Creuset Family Sale
 - Pizza Hut promotion
-permalink: /sg-deals-2026-10-21/
+permalink: /ai-research-open-source-llm-brief-2026-10-21/
 ---
 
 Two sales end today: Mandom's beauty and household sale at Great World, and FairPrice's two-week promotions. Next up is the SIA and Scoot Time To Fly travel fair on 23 October, which opens the same day as Le Creuset's last family sale at Suntec.

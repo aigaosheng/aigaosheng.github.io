@@ -14,7 +14,7 @@ tags:
 - Investment
 - Geopolitics
 keywords: [US AI, AI regulation, AI investment, Geopolitics, AI market]
-permalink: /US-AI-Brief-2026-05-15/
+permalink: /us-ai-brief-2026-05-16/
 ---
 
 ### US AI Brief — 2026-05-16
