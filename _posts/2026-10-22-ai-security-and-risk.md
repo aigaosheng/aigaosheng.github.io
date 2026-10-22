@@ -17,6 +17,7 @@ tags:
 - CrowdStrike 
 keywords: [ai cybersecurity threats, php remote code execution, agentic ai attacks, ai vulnerability discovery, claude security risks, deepseek cybercrime ]
 permalink: /ai-security-and-risk-brief-2026-10-22/
+---
 
 # AI Security & Risk Brief: AI-Discovered PHP Flaws Trigger Global Patch Response
 
