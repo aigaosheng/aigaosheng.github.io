@@ -6,3 +6,6 @@ __pycache__/
 
 # macOS Finder metadata
 .DS_Store
+
+# Raw replies from _tools/daily_briefs.py that failed validation
+_logs/

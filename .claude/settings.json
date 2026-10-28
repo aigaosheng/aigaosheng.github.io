@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude -p --help)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 _tools/daily_briefs.py --dry-run --date 2026-10-29 --topic \"AI for science\" --publish-time 19:30)",
+      "Bash(python3 _tools/daily_briefs.py --dry-run --date 2026-10-29 --topic \"AI for science\")",
+      "Bash(python3 _tools/daily_briefs.py --date 2026-10-28)",
+      "Bash(chmod +x _tools/daily_briefs.py)"
+    ]
+  }
+}
