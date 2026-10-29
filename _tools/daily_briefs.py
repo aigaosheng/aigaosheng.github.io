@@ -6,6 +6,7 @@
     python3 _tools/daily_briefs.py --topic Payments --topic Quantum
     python3 _tools/daily_briefs.py --dry-run             # print the filled prompts, call nothing
     python3 _tools/daily_briefs.py --force               # overwrite briefs that already exist
+    python3 _tools/daily_briefs.py --jobs 4              # 4 topics at once
 
 How the placeholders are filled
 -------------------------------
@@ -16,10 +17,14 @@ How the placeholders are filled
                      _config.yml), so a time later than the deploy would hide it.
     ALREADY_COVERED  headline + URL of every story in the previous edition of the
                      same topic and in every brief already saved for EDITION_DATE.
-                     Topics run one after another so each one sees the briefs
-                     written before it.
+                     By default topics run one after another so each one sees
+                     the briefs written before it. With --jobs N, topics that run
+                     at the same time cannot see each other's stories, so expect
+                     more cross-topic repeats; the check against each topic's
+                     previous edition is unaffected.
 
-Each brief is written by `claude -p` with only WebSearch and WebFetch allowed,
+Each brief is written by `claude -p --model sonnet` (change with --model) with
+only WebSearch and WebFetch allowed,
 saved to _posts/<EDITION_DATE>-<TOPIC_SLUG>.md. Output that does not start with
 YAML front matter or carries the wrong permalink is not saved to _posts; the raw
 reply goes to _logs/ (ignored by Jekyll) for a look.
@@ -35,6 +40,7 @@ import re
 import subprocess
 import sys
 import tempfile
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATE = os.path.join(ROOT, "_templates", "daily-prompt-template2.md")
@@ -165,15 +171,64 @@ def save_failed(edition_date, slug, reply):
     return path
 
 
+def run_topic(topic, prompt, slugs, edition_date, since, args):
+    """Write one brief. Returns "done", "skipped", "failed", or None on a dry run."""
+    slug = slugs.get(topic.lower())
+    if not slug:
+        print(f"[{topic}] not in the template's topic table -- skipped")
+        return "failed"
+    path = os.path.join(POSTS, f"{edition_date}-{slug}.md")
+    if os.path.exists(path) and not args.force:
+        print(f"[{topic}] {os.path.relpath(path, ROOT)} exists -- skipped")
+        return "skipped"
+
+    publish_time = args.publish_time or dt.datetime.now(SGT).strftime("%H:%M")
+    filled = fill(prompt,
+                  TOPIC=topic,
+                  EDITION_DATE=edition_date,
+                  PUBLISH_TIME=publish_time,
+                  SINCE=since,
+                  ALREADY_COVERED=already_covered(edition_date, slug))
+
+    if args.dry_run:
+        print(f"===== {topic} =====\n{filled}\n")
+        return None
+
+    print(f"[{topic}] generating (since {since}, publish {publish_time}) ...", flush=True)
+    try:
+        reply = generate(filled, args.model)
+    except (RuntimeError, subprocess.TimeoutExpired) as e:
+        print(f"[{topic}] FAILED: {e}", flush=True)
+        return "failed"
+
+    brief = clean(reply)
+    permalink = f"permalink: /{slug}-brief-{edition_date}/"
+    if not brief or permalink not in brief:
+        log = save_failed(edition_date, slug, reply)
+        print(f"[{topic}] FAILED: reply is not a valid brief -- see {os.path.relpath(log, ROOT)}",
+              flush=True)
+        return "failed"
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(brief)
+    print(f"[{topic}] wrote {os.path.relpath(path, ROOT)}", flush=True)
+    return "done"
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     ap.add_argument("--date", help="edition date YYYY-MM-DD (default: today, SGT)")
     ap.add_argument("--publish-time", help="HH:MM SGT (default: SGT clock when each topic starts)")
     ap.add_argument("--topic", action="append", help="only this topic; repeatable")
-    ap.add_argument("--model", help="model passed to claude --model")
+    ap.add_argument("--model", default="sonnet",
+                    help="model passed to claude --model (default: sonnet)")
+    ap.add_argument("--jobs", type=int, default=1,
+                    help="topics to generate at once (default 1: one after another)")
     ap.add_argument("--force", action="store_true", help="overwrite briefs that already exist")
     ap.add_argument("--dry-run", action="store_true", help="print prompts, do not call claude")
     args = ap.parse_args()
+    if args.jobs < 1:
+        ap.error("--jobs must be 1 or more")
 
     edition = (dt.date.fromisoformat(args.date) if args.date
                else dt.datetime.now(SGT).date())
@@ -184,54 +239,17 @@ def main():
     slugs = topic_slugs(template_text)
     topics = args.topic or TOPICS
 
-    done, skipped, failed = [], [], []
-    for topic in topics:
-        slug = slugs.get(topic.lower())
-        if not slug:
-            print(f"[{topic}] not in the template's topic table -- skipped")
-            failed.append(topic)
-            continue
-        path = os.path.join(POSTS, f"{edition_date}-{slug}.md")
-        if os.path.exists(path) and not args.force:
-            print(f"[{topic}] {os.path.relpath(path, ROOT)} exists -- skipped")
-            skipped.append(topic)
-            continue
+    # A dry run only prints, so keep its output in topic order.
+    jobs = 1 if args.dry_run else args.jobs
+    with ThreadPoolExecutor(max_workers=jobs) as pool:
+        futures = {pool.submit(run_topic, topic, prompt, slugs, edition_date, since, args): topic
+                   for topic in topics}
+        results = {futures[f]: f.result() for f in as_completed(futures)}
 
-        publish_time = args.publish_time or dt.datetime.now(SGT).strftime("%H:%M")
-        filled = fill(prompt,
-                      TOPIC=topic,
-                      EDITION_DATE=edition_date,
-                      PUBLISH_TIME=publish_time,
-                      SINCE=since,
-                      ALREADY_COVERED=already_covered(edition_date, slug))
-
-        if args.dry_run:
-            print(f"===== {topic} =====\n{filled}\n")
-            continue
-
-        print(f"[{topic}] generating (since {since}, publish {publish_time}) ...", flush=True)
-        try:
-            reply = generate(filled, args.model)
-        except (RuntimeError, subprocess.TimeoutExpired) as e:
-            print(f"[{topic}] FAILED: {e}")
-            failed.append(topic)
-            continue
-
-        brief = clean(reply)
-        permalink = f"permalink: /{slug}-brief-{edition_date}/"
-        if not brief or permalink not in brief:
-            log = save_failed(edition_date, slug, reply)
-            print(f"[{topic}] FAILED: reply is not a valid brief -- see {os.path.relpath(log, ROOT)}")
-            failed.append(topic)
-            continue
-
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(brief)
-        print(f"[{topic}] wrote {os.path.relpath(path, ROOT)}")
-        done.append(topic)
-
+    failed = [t for t in topics if results[t] == "failed"]
     if not args.dry_run:
-        print(f"\n{len(done)} written, {len(skipped)} skipped, {len(failed)} failed"
+        count = lambda status: sum(1 for r in results.values() if r == status)
+        print(f"\n{count('done')} written, {count('skipped')} skipped, {len(failed)} failed"
               + (f": {', '.join(failed)}" if failed else ""))
     return 1 if failed else 0
 
