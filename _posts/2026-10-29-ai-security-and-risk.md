@@ -120,4 +120,4 @@ Attackers hid commands in GitHub issues and pull requests using HTML comments, w
 
 Watch whether South Korea's regulators convert the current audits and directives into binding requirements for internet-facing financial systems, and whether further evaluations from Irregular and academic teams show open-weight models closing the gap on multi-stage attack scenarios.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  

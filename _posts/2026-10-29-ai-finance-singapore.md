@@ -93,4 +93,4 @@ The advisory says malicious components inside the devices could capture recovery
 
 Watch whether banks begin disclosing how they are screening haze-linked exposures under the Transboundary Haze Pollution Act, and whether the Singapore Police Force reports further cases tied to the compromised hardware wallets as its advisory circulates.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  

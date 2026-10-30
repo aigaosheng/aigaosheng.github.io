@@ -122,4 +122,4 @@ The round was led by Asabys through its Sabadell Asabys II fund, with CDTI via S
 
 Whether Etcelera discloses pipeline milestones or partnered MASH programme progress now that the three platforms are combined, and whether other standards bodies adopt or extend the DualChem methodology into further scientific domains. Also watch what the five Meta-funded university projects publish, since open-weight model access in regulated clinical settings will set precedent for similar arrangements elsewhere.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  

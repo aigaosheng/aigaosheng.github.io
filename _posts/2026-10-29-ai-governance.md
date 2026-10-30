@@ -94,4 +94,4 @@ Orr examines California's Training Data Transparency Act, effective 1 January 20
 
 Australia's Senate committee is due to report on the duty-of-care bill in late November, with parliament scheduled to rise on 26 November — the key signal is whether the chatbot design provisions survive intact. In the US, watch whether the House Energy and Commerce Committee schedules any action on the FRONTIER Act after the 3 November midterms.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  

@@ -151,4 +151,4 @@ The round was co-led by Benchstrength and Misneach, with Analog Ventures and Par
 
 Watch whether ServiceNow's fourth-quarter results confirm or dispel the seat-compression thesis, and whether Zendesk converts its employee service agents from early access to general availability as promised. On the Asia side, watch whether Tencent Cloud's stated overseas growth translates into named regulated-sector customers in Southeast Asia rather than general enterprise logos.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  

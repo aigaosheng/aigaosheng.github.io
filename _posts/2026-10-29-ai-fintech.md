@@ -148,4 +148,4 @@ The two-day forum in Jeongeup, North Jeolla Province, added partners including A
 
 Whether CIBC and Scotiabank move from limiting to fully blocking third-party AI agents, and whether Canada's banking supervisor shifts from its stated principles-based stance to firmer guidance. In Korea, watch for Financial Services Commission follow-up on the forum's call to ease rules for technology entrants in finance.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  

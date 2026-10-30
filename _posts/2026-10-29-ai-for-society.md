@@ -108,4 +108,4 @@ About 20 students, teachers and campaigners made the case at the Panel for Educa
 
 The UK's NHS productivity and AI review reports in early 2027, and New York City's high school AI pilots are scheduled to begin in November — both are near-term tests of whether public-sector AI programmes survive contact with measured outcomes and community opposition. In Asia, watch whether Malaysia moves beyond its 27 pilot AI classrooms and whether Google's Singapore partnerships publish evaluation results from the clinician-facing tools.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  

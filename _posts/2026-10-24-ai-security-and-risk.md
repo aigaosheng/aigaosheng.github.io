@@ -64,7 +64,4 @@ Why it matters: AI gateways frequently sit between enterprise applications and m
 ## What to Watch
 
 Monitor OpenAI's further technical disclosures and independent verification of its agent safeguards. For LiteLLM and other AI infrastructure providers, watch for additional forensic findings, confirmed exposure scope and evidence that credentials, release processes and deployment environments have been comprehensively secured.
-
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
-
 ---

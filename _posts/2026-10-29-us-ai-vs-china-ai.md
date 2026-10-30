@@ -79,4 +79,4 @@ Writing in Foreign Affairs and reported by the South China Morning Post, Cohen s
 
 Watch for any Commerce Department or Singapore regulatory follow-up on the Megaspeed allegations and for Nvidia's next formal statement on its Southeast Asian customer base, plus whether Huawei publishes third-party verification of its Tau-based baseband performance claims.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  

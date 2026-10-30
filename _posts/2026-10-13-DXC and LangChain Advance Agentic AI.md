@@ -100,36 +100,4 @@ The collaboration combines Boomi's data integration capabilities and Agent Contr
 
 Watch for customer deployments that independently validate reported productivity and diagnostic improvements, and for clearer evidence of how enterprise agent control layers manage permissions, costs and incidents across vendors. For Asia-based enterprises, the next important signal will be whether these platforms can support regional data-residency and operational requirements without sacrificing interoperability.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
-
-Publication-window correction: The TCS and HCLTech stories were published before the specified cutoff of October 12, 2026, 20:00 SGT, so they should be excluded. The following two qualifying stories can replace them.
-
----
-
-### 2. 🤖 Boomi and Jade Global Bring Governed AI Agents to Manufacturing
-
-*Boomi · October 13, 2026*
-
-**Bottom line:** Boomi and Jade Global are expanding their partnership to help manufacturers move AI agents into production across plant operations, suppliers and enterprise systems.
-
-The collaboration combines Boomi's data integration capabilities and Agent Control Plane with Jade Global's manufacturing expertise. The offering includes policy enforcement, agent monitoring, audit trails and human approval for higher-risk actions, with deployment options intended to accommodate regional data-residency and operational requirements.
-
-**Why it matters:** Manufacturing highlights a broader enterprise challenge: agents need reliable operational data and controls before they can safely modify business-critical records or trigger consequential actions. Similar requirements apply to financial services, supply chains and payment operations, where traceability and human approval remain important.
-
-🔗 [Read the full story](https://boomi.com/ja/resources/resources-library/ai-agents-manufacturing-jade-global-boomi/)
-
----
-
-### 3. 🤖 Kore.ai Launches Autoloop for Continuous AI Agent Optimisation
-
-*Express Computer · October 12, 2026*
-
-**Bottom line:** Kore.ai has introduced Autoloop, an optimisation engine designed to continuously evaluate and improve AI agents operating on its Artemis platform.
-
-The system uses a cycle of building, evaluating, diagnosing, optimising and re-verifying agents. Its stated evaluation dimensions include task completion, accuracy, safety and cost efficiency, with changes assessed to reduce the risk of improving one metric at the expense of another.
-
-**Why it matters:** Enterprise AI teams need ongoing performance management after deployment, not just pre-launch testing. Continuous evaluation could help organisations detect regressions and manage trade-offs between reliability, safety and operating costs as agents encounter real-world workloads.
-
-🔗 [Read the full story](https://www.expresscomputer.in/news/kore-ai-launches-autoloop-to-continuously-optimise-ai-agents-at-production-scale/139770/)
-
 ---

@@ -274,7 +274,7 @@ After the stories, output:
 
 [One or two sentences identifying concrete upcoming signals, decisions, publication dates or measurable developments to monitor. Do not invent future dates.]
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  
 
 The `MY TAKE` comment must appear exactly once at the end of the body. Do not rewrite, remove or expose it as visible prose.
 

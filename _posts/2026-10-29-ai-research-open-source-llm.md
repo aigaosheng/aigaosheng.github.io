@@ -94,4 +94,4 @@ Particle says it used reinforcement learning with a rank-64 LoRA adapter over ex
 
 Watch whether Google widens Gemini 4 Carbon beyond the Fairwind cohort and publishes a general availability path, whether OpenAI, DeepSeek or Moonshot respond on the record to the distillation report, and whether Particle's token-efficiency claims hold up under independent benchmarking.
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  

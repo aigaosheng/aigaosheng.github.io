@@ -202,7 +202,7 @@ Body:
 
 [1-2 sentences: the next concrete signal or date to watch.]
 
-<!-- MY TAKE: replace this comment with "## My take" and 2-3 sentences of your own view before publishing, or leave it as is (hidden). -->
+  
 
 ---
 
