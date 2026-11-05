@@ -233,4 +233,3 @@ As enterprise architectures evolve, production systems will move toward dynamic 
 
 Before you swap your generative model next quarter, ask yourself: **do you have a language-model problem, or are you simply feeding your AI incomplete context?**
 
-{% include mermaid.html %}
