@@ -36,7 +36,7 @@ The path from an impressive single-prompt chatbot demo to a reliable, multi-agen
 
 This post distills six counter-intuitive, empirical takeaways from leading technical research and whitepapers, including findings from Iterate.ai, AgentField, Automation Anywhere, and recent academic research on Big-Data-as-a-Service (BDaaS) multi-agent architectures. Whether you are scaling your first agentic workflow or refactoring a sprawling multi-agent system, these takeaways offer architectural blueprints for building production-grade AI systems that scale securely.
 
-![Building Production-Grade AI Agents]({{ "/assets/img/production-ai-agents-2026/Building_Production_Grade_AI_Agents.png" | relative_url }})
+![Building Production-Grade AI Agents]({{ "/assets/img/Building_Production_Grade_AI_Agents.png" | relative_url }})
 
 ## Takeaway 1: Stop Over-Engineering. The Right Pattern Beats a Bigger Model
 
