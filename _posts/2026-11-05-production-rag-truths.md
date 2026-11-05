@@ -22,7 +22,9 @@ permalink: /production-rag-truths/
 mermaid: true
 ---
 
-![Mastering Enterprise RAG Architecture](Mastering_Enterprise_RAG_Architecture.png)
+---
+
+![Mastering Enterprise RAG Architecture]({{ "/assets/img/Mastering_Enterprise_RAG_Architecture.png" | relative_url }})
 
 ---
 
@@ -233,3 +235,4 @@ As enterprise architectures evolve, production systems will move toward dynamic 
 
 Before you swap your generative model next quarter, ask yourself: **do you have a language-model problem, or are you simply feeding your AI incomplete context?**
 
+{% include mermaid.html %}

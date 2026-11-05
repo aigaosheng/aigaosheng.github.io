@@ -22,7 +22,9 @@ permalink: /enterprise-ai-data-pipelines/
 mermaid: true
 ---
 
-![Unstructured Data Pipeline for RAG](Unstructured_Data_Pipeline_for_RAG.png)
+---
+
+![Mastering Enterprise RAG Architecture]({{ "/assets/img/Unstructured_Data_Pipeline_for_RAG.png" | relative_url }})
 
 ---
 
@@ -224,3 +226,4 @@ Building enterprise-grade AI applications does not require stacking fragile poin
 
 As you evaluate your AI roadmap for the coming year, ask yourself: **Are you building a resilient, unified foundation for your enterprise data, or just adding another layer of complex point solutions that your engineering team will eventually have to tear down?**
 
+{% include mermaid.html %}
