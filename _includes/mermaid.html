@@ -1,0 +1,70 @@
+<!--
+  Mermaid for Jekyll / GitHub Pages.
+  Turns ```mermaid code blocks into diagrams and matches the site's light/dark mode.
+  Use: include this file at the end of a post, or once in your layout.
+-->
+<style>
+  pre.mermaid { background: transparent; border: 0; padding: 0; margin: 1.5rem 0; text-align: center; overflow-x: auto; }
+  pre.mermaid svg { max-width: 100%; height: auto; }
+  pre.mermaid svg[aria-roledescription="pie"] { max-width: min(100%, 520px) !important; }
+</style>
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11.4.1/dist/mermaid.esm.min.mjs";
+
+  // 1. kramdown + Rouge renders ```mermaid as <div class="language-mermaid ..."><pre><code>,
+  //    the GFM parser as <pre><code class="language-mermaid">. Handle both.
+  const sources = [];
+  document.querySelectorAll("div.language-mermaid, pre > code.language-mermaid").forEach((el) => {
+    const code = el.matches("code") ? el : el.querySelector("pre code") || el.querySelector("code");
+    if (!code) return;
+    const host = el.matches("code") ? code.closest(".highlighter-rouge") || code.parentElement : el;
+    if (!host.isConnected) return;
+    const pre = document.createElement("pre");
+    pre.className = "mermaid";
+    pre.textContent = code.textContent.trim();
+    host.replaceWith(pre);
+    sources.push([pre, pre.textContent]);
+  });
+
+  // 2. Follow the site's theme: data-mode / data-theme on <html> first, then the OS setting.
+  const root = document.documentElement;
+  const isDark = () => {
+    const mode = root.getAttribute("data-mode") || root.getAttribute("data-theme");
+    if (mode) return mode === "dark";
+    return window.matchMedia("(prefers-color-scheme: dark)").matches;
+  };
+
+  const palette = (dark) => dark
+    ? { darkMode: true, primaryColor: "#222C3A", primaryTextColor: "#E7EBF1", primaryBorderColor: "#43B6A8",
+        lineColor: "#97A3B4", textColor: "#E7EBF1", clusterBkg: "#18202B", clusterBorder: "#2B3545",
+        titleColor: "#E7EBF1", edgeLabelBackground: "#18202B",
+        pie1: "#43B6A8", pie2: "#6EA8FE", pieTitleTextColor: "#E7EBF1", pieSectionTextColor: "#0F141B",
+        pieLegendTextColor: "#E7EBF1", pieStrokeColor: "#18202B", pieOuterStrokeColor: "#2B3545" }
+    : { darkMode: false, primaryColor: "#EEF3F8", primaryTextColor: "#1B2430", primaryBorderColor: "#2E8F84",
+        lineColor: "#5B6676", textColor: "#1B2430", clusterBkg: "#F6F8FB", clusterBorder: "#D3DAE3",
+        titleColor: "#1B2430", edgeLabelBackground: "#FFFFFF",
+        pie1: "#2E9C8F", pie2: "#4F86D9", pieTitleTextColor: "#1B2430", pieSectionTextColor: "#FFFFFF",
+        pieLegendTextColor: "#1B2430", pieStrokeColor: "#FFFFFF", pieOuterStrokeColor: "#D3DAE3" };
+
+  const render = async () => {
+    mermaid.initialize({
+      startOnLoad: false,
+      securityLevel: "strict",
+      theme: "base",
+      fontFamily: "-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif",
+      themeVariables: palette(isDark()),
+      flowchart: { curve: "basis", useMaxWidth: true, padding: 12 },
+      pie: { useMaxWidth: true },
+    });
+    for (const [pre, src] of sources) { pre.removeAttribute("data-processed"); pre.textContent = src; }
+    await mermaid.run({ nodes: sources.map(([pre]) => pre) });
+  };
+
+  if (sources.length) {
+    await render();
+
+    // 3. Re-render when the site or OS theme changes.
+    new MutationObserver(render).observe(root, { attributes: true, attributeFilter: ["data-mode", "data-theme"] });
+    window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", render);
+  }
+</script>
