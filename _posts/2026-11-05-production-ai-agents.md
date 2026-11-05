@@ -22,12 +22,6 @@ permalink: /production-ai-agents-2026/
 mermaid: true
 ---
 
----
-
-![Mastering Enterprise RAG Architecture]({{ "/assets/img/Enterprise_Agentic_AI_Architecture_Blueprint.png" | relative_url }})
-
----
-
 ## Introduction: The Enterprise AI Paradox
 
 The enterprise AI landscape in 2026 presents a striking paradox. Organizations are rushing to deploy autonomous agents across core operations, driven by promises of end-to-end automation. Yet according to Gartner projections, **over 40% of agentic AI projects will be canceled by the end of 2027** due to escalating cloud costs, weak operational controls, and premature architectural complexity.
@@ -36,7 +30,7 @@ The path from an impressive single-prompt chatbot demo to a reliable, multi-agen
 
 This post distills six counter-intuitive, empirical takeaways from leading technical research and whitepapers, including findings from Iterate.ai, AgentField, Automation Anywhere, and recent academic research on Big-Data-as-a-Service (BDaaS) multi-agent architectures. Whether you are scaling your first agentic workflow or refactoring a sprawling multi-agent system, these takeaways offer architectural blueprints for building production-grade AI systems that scale securely.
 
-![Building Production-Grade AI Agents]({{ "/assets/img/Building_Production_Grade_AI_Agents.png" | relative_url }})
+![Mastering Enterprise RAG Architecture]({{ "/assets/img/Enterprise_Agentic_AI_Architecture_Blueprint.png" | relative_url }})
 
 ## Takeaway 1: Stop Over-Engineering. The Right Pattern Beats a Bigger Model
 
