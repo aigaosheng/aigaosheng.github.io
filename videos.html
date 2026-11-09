@@ -1,0 +1,240 @@
+---
+layout: page
+title: "AI Videos"
+description: "Music videos and short dramas I create with AI tools, on YouTube and TikTok."
+header-img: "image/hero-beach.jpg"
+permalink: /videos/
+# Included in /search/ results (see _layouts/page.html).
+search: true
+# Standalone videos shown before "Show more".
+page_size: 12
+# How each series lays out its episodes:
+#   grid  wrapping grid, up to 3 per row (2 on a phone)
+#   row   one horizontally scrolling row per series
+series_layout: grid
+---
+{%- comment -%}
+  Videos live in _data/videos.yml -- add links there, not here.
+  Card markup and video-ID parsing are in _includes/video-card.html.
+
+  Layout, built to stay usable at 100+ videos:
+    1. Filter chips (All / Music / Drama), shown once any entry has a `kind`.
+    2. Series: per `series_layout` in the front matter, either a wrapping
+       grid (up to 3 per row) or one horizontally scrolling row per series
+       (a 10-episode series then costs one row of height). A video belongs to a series if it has
+       `series:` set, or its title is "Series name - Episode name". Episodes
+       keep file order; the series whose newest episode is lowest in the file
+       comes first.
+    3. More videos: everything else, newest first, `page_size` at a time
+       behind a "Show more" button.
+  YouTube and TikTok are mixed; each card names its platform.
+
+  Without JavaScript every card is shown and each is a plain link to the post.
+  Players are click-to-load: the YouTube/TikTok iframe is only inserted when
+  the visitor clicks, because each embedded player is ~1 MB of third-party
+  script and sets cookies.
+{%- endcomment -%}
+
+{%- assign all = site.data.videos | default: empty -%}
+
+{%- comment -%} Collect series names, newest-added first. {%- endcomment -%}
+{%- assign series_csv = "" -%}
+{%- assign rev = all | reverse -%}
+{%- for t in rev -%}
+  {%- if t.series -%}{%- assign s = t.series | strip -%}
+  {%- elsif t.title contains " - " -%}{%- assign s = t.title | split: " - " | first | strip -%}
+  {%- else -%}{%- assign s = "" -%}{%- endif -%}
+  {%- if s != "" -%}{%- assign series_csv = series_csv | append: s | append: "|" -%}{%- endif -%}
+{%- endfor -%}
+{%- assign series_list = series_csv | split: "|" | uniq -%}
+
+{%- assign kinds_csv = all | map: "kind" | compact | uniq | join: "|" -%}
+
+<p class="music-intro">
+  Music videos and short dramas I create with AI tools &mdash; story, script,
+  music, vocals and visuals. Press play on any video; the player loads from
+  YouTube or TikTok.
+</p>
+
+{%- if all.size == 0 %}
+<div class="music-empty">
+  <p><strong>First videos coming soon.</strong></p>
+  {% if site.tiktok_username %}<p>Meanwhile, follow along on <a href="https://www.tiktok.com/@{{ site.tiktok_username }}" target="_blank" rel="noopener">TikTok @{{ site.tiktok_username }}</a>.</p>{% endif %}
+</div>
+{%- endif %}
+
+<div class="vids" id="vids">
+
+{%- if kinds_csv != "" %}
+  <div class="vids-filter" role="group" aria-label="Filter videos">
+    <button type="button" class="vids-chip is-active" data-filter="">All</button>
+    {%- if kinds_csv contains "music" %}<button type="button" class="vids-chip" data-filter="music">Music</button>{% endif %}
+    {%- if kinds_csv contains "drama" %}<button type="button" class="vids-chip" data-filter="drama">Drama</button>{% endif %}
+  </div>
+{%- endif %}
+
+{%- if series_list.size > 0 %}
+  <h3 class="music-section vids-group">Series</h3>
+  {%- for s in series_list %}
+  <section class="vids-shelf">
+    {%- assign eps = 0 -%}
+    {%- for t in all -%}
+      {%- if t.series -%}{%- assign ts = t.series | strip -%}
+      {%- elsif t.title contains " - " -%}{%- assign ts = t.title | split: " - " | first | strip -%}
+      {%- else -%}{%- assign ts = "" -%}{%- endif -%}
+      {%- if ts == s -%}{%- assign eps = eps | plus: 1 -%}{%- endif -%}
+    {%- endfor %}
+    <div class="vids-shelf-head">
+      <h4 class="vids-shelf-title">{{ s }}</h4>
+      <span class="vids-shelf-count">{{ eps }} episode{% if eps != 1 %}s{% endif %}</span>
+      {%- if page.series_layout == "row" %}
+      <span class="vids-shelf-nav" hidden>
+        <button type="button" class="vids-arrow" data-dir="-1" aria-label="Scroll {{ s | escape }} left">&#8249;</button>
+        <button type="button" class="vids-arrow" data-dir="1" aria-label="Scroll {{ s | escape }} right">&#8250;</button>
+      </span>
+      {%- endif %}
+    </div>
+    <div class="{% if page.series_layout == "row" %}vids-row{% else %}vids-shelf-grid{% endif %}">
+    {%- for t in all -%}
+      {%- if t.series -%}{%- assign ts = t.series | strip -%}
+      {%- elsif t.title contains " - " -%}{%- assign ts = t.title | split: " - " | first | strip -%}
+      {%- else -%}{%- assign ts = "" -%}{%- endif -%}
+      {%- if ts != s -%}{%- continue -%}{%- endif -%}
+      {%- comment -%} "Series - Episode" shows just "Episode" inside its row. {%- endcomment -%}
+      {%- assign label = t.title -%}
+      {%- assign head = t.title | slice: 0, s.size -%}
+      {%- if head == s -%}
+        {%- assign rest = t.title | slice: s.size, t.title.size | strip -%}
+        {%- assign dash = rest | slice: 0, 1 -%}
+        {%- if dash == "-" -%}{%- assign rest = rest | slice: 1, rest.size | strip -%}{%- endif -%}
+        {%- if rest != "" -%}{%- assign label = rest -%}{%- endif -%}
+      {%- endif -%}
+      {% include video-card.html t=t label=label %}
+    {%- endfor %}
+    </div>
+  </section>
+  {%- endfor %}
+{%- endif %}
+
+{%- assign singles_n = 0 -%}
+{%- assign sorted = all | sort: "date", "first" | reverse -%}
+{%- for t in sorted -%}
+  {%- unless t.series or t.title contains " - " -%}{%- assign singles_n = singles_n | plus: 1 -%}{%- endunless -%}
+{%- endfor -%}
+
+{%- if singles_n > 0 %}
+  <h3 class="music-section vids-group">{% if series_list.size > 0 %}More videos{% else %}Videos{% endif %}</h3>
+  <div class="music-grid vids-grid">
+    {%- assign i = 0 -%}
+    {%- for t in sorted -%}
+      {%- if t.series or t.title contains " - " -%}{%- continue -%}{%- endif -%}
+      {%- assign i = i | plus: 1 -%}
+      {%- if i > page.page_size -%}{%- assign cls = "is-more" -%}{%- else -%}{%- assign cls = "" -%}{%- endif -%}
+      {% include video-card.html t=t cls=cls %}
+    {%- endfor %}
+  </div>
+  {%- if singles_n > page.page_size %}
+  <p class="vids-more-wrap"><button type="button" class="vids-more" hidden>Show more <span></span></button></p>
+  {%- endif %}
+{%- endif %}
+
+  <p class="vids-none" hidden>No videos in this category yet.</p>
+</div>
+
+<p class="music-footnote">
+  Players load only when you press play; until then nothing is requested from
+  YouTube or TikTok. See the <a href="{{ '/privacy/' | prepend: site.baseurl }}">privacy notice</a>.
+</p>
+
+<script>
+(function () {
+  var root = document.getElementById('vids');
+  if (!root) return;
+  var PAGE = {{ page.page_size | default: 12 }};
+  var grid = root.querySelector('.vids-grid');
+  var more = root.querySelector('.vids-more');
+
+  // Show more: hide everything past the first page, reveal PAGE at a time.
+  function hiddenCards() { return grid ? grid.querySelectorAll('.music-card.is-more') : []; }
+  function updateMore() {
+    if (!more) return;
+    var n = hiddenCards().length;
+    more.hidden = n === 0 || !!root.getAttribute('data-filter');
+    more.querySelector('span').textContent = '(' + n + ')';
+  }
+  if (grid && more) {
+    grid.classList.add('is-paged');
+    more.addEventListener('click', function () {
+      var cards = hiddenCards();
+      for (var i = 0; i < cards.length && i < PAGE; i++) cards[i].classList.remove('is-more');
+      updateMore();
+    });
+    updateMore();
+  }
+
+  // Filter chips. While a filter is on, paging is lifted so every match shows.
+  root.addEventListener('click', function (e) {
+    var chip = e.target.closest && e.target.closest('.vids-chip');
+    if (!chip) return;
+    var f = chip.getAttribute('data-filter');
+    if (f) root.setAttribute('data-filter', f); else root.removeAttribute('data-filter');
+    [].forEach.call(root.querySelectorAll('.vids-chip'), function (c) {
+      c.classList.toggle('is-active', c === chip);
+      c.setAttribute('aria-pressed', c === chip ? 'true' : 'false');
+    });
+    var any = false;
+    [].forEach.call(root.querySelectorAll('.vids-shelf, .vids-grid'), function (box) {
+      var has = !f || !!box.querySelector('.music-card[data-kind="' + f + '"]');
+      box.hidden = !has;
+      any = any || has;
+    });
+    // A group heading is shown only when something under it is.
+    [].forEach.call(root.querySelectorAll('.vids-group'), function (h) {
+      var el = h.nextElementSibling, has = false;
+      while (el && !el.classList.contains('vids-group')) {
+        if ((el.classList.contains('vids-shelf') || el.classList.contains('vids-grid')) && !el.hidden) has = true;
+        el = el.nextElementSibling;
+      }
+      h.hidden = !has;
+    });
+    root.querySelector('.vids-none').hidden = any;
+    updateMore();
+  });
+
+  // Series rows (series_layout: row): arrow buttons for mouse users, only
+  // when the row overflows.
+  [].forEach.call(root.querySelectorAll('.vids-shelf'), function (shelf) {
+    var row = shelf.querySelector('.vids-row');
+    var nav = shelf.querySelector('.vids-shelf-nav');
+    if (!row || !nav) return;   // grid layout: nothing to scroll
+    function check() { nav.hidden = row.scrollWidth <= row.clientWidth + 4; }
+    check();
+    // Re-check once fonts/images settle and whenever the row changes size.
+    window.addEventListener('load', check);
+    if (window.ResizeObserver) new ResizeObserver(check).observe(row);
+    else window.addEventListener('resize', check);
+    nav.addEventListener('click', function (e) {
+      var b = e.target.closest('.vids-arrow');
+      if (b) row.scrollBy({ left: b.getAttribute('data-dir') * row.clientWidth * 0.8, behavior: 'smooth' });
+    });
+  });
+
+  // Swap a card's thumbnail for the real player on click. Cards without a
+  // parsed video ID (no data-embed) keep the default: open the post in a new tab.
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('.music-player[data-embed]');
+    if (!a) return;
+    e.preventDefault();
+    var f = document.createElement('iframe');
+    f.src = a.getAttribute('data-embed');
+    f.title = a.getAttribute('aria-label').replace(/^Play /, '');
+    f.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+    f.allowFullscreen = true;
+    f.setAttribute('frameborder', '0');
+    var box = document.createElement('div');
+    box.className = a.className + ' is-playing';
+    box.appendChild(f);
+    a.parentNode.replaceChild(box, a);
+  });
+})();
+</script>

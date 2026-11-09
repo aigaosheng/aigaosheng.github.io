@@ -1,0 +1,96 @@
+# AI music videos and short dramas shown on /videos/ (videos.html).
+#
+# Add one entry per video, in any order -- the page sorts by date.
+# Paste the normal share link; the video ID is read from it.
+#
+#   title:     Video title (required)
+#   url:       Full YouTube or TikTok link (required). Accepted forms:
+#                https://www.youtube.com/watch?v=VIDEO_ID
+#                https://youtu.be/VIDEO_ID
+#                https://www.youtube.com/shorts/VIDEO_ID
+#                https://music.youtube.com/watch?v=VIDEO_ID
+#                https://www.tiktok.com/@aisengtech/video/1234567890123456789
+#              TikTok short links (vt.tiktok.com/...) do NOT carry the ID:
+#              open them in a browser and copy the full link instead.
+#   kind:      music | drama   (label on the card; leave out for no label)
+#   date:      YYYY-MM-DD      (newest first; undated videos come after
+#              dated ones, the lowest in this file first)
+#   tools:     AI tools used, e.g. "Suno, Kling" (optional)
+#   note:      One or two lines about the video (optional)
+#   thumbnail: /image/videos/xyz.jpg (optional; TikTok has no public
+#              thumbnail URL, so without this a TikTok card shows a
+#              coloured placeholder. YouTube thumbnails are automatic.)
+#
+# Example:
+#
+# - title: "Neon Rain"
+#   url: https://youtu.be/dQw4w9WgXcQ
+#   kind: music
+#   date: 2026-11-01
+#   tools: "Suno v5, Runway"
+#   note: "Synthwave about a late-night drive through Singapore."
+
+# Titles of the YouTube entries are the videos' own YouTube titles.
+
+- title: "双十一，购物季"
+  url: https://youtube.com/shorts/DCjytE8XJ4w
+
+- title: "硅机危机先生"
+  url: https://youtube.com/shorts/8Ybm_Bdws5c
+
+- title: "吸血鬼和悟空 - 吸血鬼的72变"
+  url: https://youtube.com/shorts/JDY4sMmYYj4?feature=share
+
+- title: "吸血鬼和悟空 - 吸血鬼吃孙悟空"
+  url: https://youtube.com/shorts/F_MXMFiXiok?feature=share
+
+- title: "黑豆和雪球 - 第一集"
+  url: https://youtube.com/shorts/fIDoAXmNA3g?feature=share
+
+- title: "黑豆和雪球 - 第二集"
+  url: https://youtube.com/shorts/KaVOdQyT_ww?feature=share
+
+- title: "黑豆和雪球 - 阿拉斯加"
+  url: https://youtube.com/shorts/RVKImSHG7Go?feature=share
+
+- title: "黑豆和雪球 - 瑞士滑雪"
+  url: https://youtube.com/shorts/BNpzlANWaNc?feature=share
+
+- title: "黑豆和雪球 - 西藏"
+  url: https://youtube.com/shorts/HHPHbMf8gwI?feature=share
+
+- title: "黑豆和雪球 - 一起看大熊猫"
+  url: https://youtube.com/shorts/Mmu4bQhSlPg?feature=share
+
+- title: "黑豆和雪球 - 完结版"
+  url: https://youtube.com/shorts/AkOonloLqHk?feature=share
+
+
+- title: "音乐 - 狂怒"
+  url: https://www.tiktok.com/@aisengtech/video/7706135769974426898
+  date: 2026-11-09
+
+- title: "音乐 - 风舞长卷金戈声远去"
+  url: https://www.tiktok.com/@aisengtech/video/7706136000359271732?is_from_webapp=1&sender_device=pc&web_id=7702823469922616853
+  date: 2026-11-09
+
+- title: "音乐 - 山东美食"
+  url: https://www.tiktok.com/@aisengtech/video/7706136000359271732?is_from_webapp=1&sender_device=pc&web_id=7702823469922616853
+  date: 2026-11-09
+
+- title: "音乐 - 给我一把芭蕉扇"
+  url: https://www.tiktok.com/@aisengtech/video/7706135006015458561?is_from_webapp=1&sender_device=pc&web_id=7702823469922616853
+  date: 2026-11-09
+
+- title: "音乐 - 他们没有光环闪闪的光"
+  url: https://www.tiktok.com/@aisengtech/video/7706134782937255175?is_from_webapp=1&sender_device=pc&web_id=7702823469922616853
+  date: 2026-11-09
+
+- title: "音乐 - 奋斗是他们永远无法停下的脚步"
+  url: https://www.tiktok.com/@aisengtech/video/7706134514719902994?is_from_webapp=1&sender_device=pc&web_id=7702823469922616853
+  date: 2026-11-09 
+
+- title: "音乐 - 平凡的太阳"
+  url: https://www.tiktok.com/@aisengtech/video/7705805367959194888?is_from_webapp=1&sender_device=pc&web_id=7702823469922616853
+  date: 2026-11-09 
+    

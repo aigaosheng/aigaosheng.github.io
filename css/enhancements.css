@@ -285,3 +285,188 @@ h4:hover > .heading-anchor, h5:hover > .heading-anchor, h6:hover > .heading-anch
 @media only screen and (min-width: 768px) {
   .intro-header--compact .site-heading { padding: 100px 0 36px; }
 }
+
+/* ---- /videos/ page: click-to-load YouTube & TikTok players ---- */
+.music-intro { font-size: 18px; }
+.music-section { margin-top: 36px; }
+.music-grid {
+  display: grid;
+  gap: 28px 24px;
+  margin: 16px 0 8px;
+}
+/* Standalone videos: vertical cards on a narrow grid (2 per row on a phone),
+ * 16:9 videos span two columns. */
+.vids-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+.vids-grid .music-card--wide { grid-column: span 2; }
+.vids-grid.is-paged .music-card.is-more { display: none; }
+.music-card { margin: 0; min-width: 0; }
+
+/* Filter chips */
+.vids-filter { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 4px; }
+.vids-chip {
+  padding: 4px 14px;
+  border: 1px solid #ccc;
+  border-radius: 16px;
+  background: #fff;
+  color: #404040;
+  font-size: 14px;
+  cursor: pointer;
+}
+.vids-chip:hover { border-color: #0085a1; color: #0085a1; }
+.vids-chip.is-active { background: #0085a1; border-color: #0085a1; color: #fff; }
+.vids[data-filter="music"] .music-card:not([data-kind="music"]),
+.vids[data-filter="drama"] .music-card:not([data-kind="drama"]) { display: none; }
+.vids[data-filter] .vids-grid.is-paged .music-card.is-more { display: block; }
+.vids[data-filter="music"] .vids-grid.is-paged .music-card.is-more:not([data-kind="music"]),
+.vids[data-filter="drama"] .vids-grid.is-paged .music-card.is-more:not([data-kind="drama"]) { display: none; }
+
+/* Series rows: one horizontally scrolling shelf per series */
+.vids-shelf { margin: 18px 0 26px; }
+.vids-shelf-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 10px; }
+.vids-shelf-title { margin: 0; font-size: 20px; }
+.vids-shelf-count { font-size: 13px; color: #808080; }
+.vids-shelf-nav { margin-left: auto; display: flex; gap: 6px; }
+.vids-arrow {
+  width: 32px;
+  height: 32px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  background: #fff;
+  color: #404040;
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+}
+.vids-arrow:hover { border-color: #0085a1; color: #0085a1; }
+.vids-row {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-left: 2px;
+  padding-bottom: 8px;
+  -webkit-overflow-scrolling: touch;
+}
+.vids-row .music-card { flex: 0 0 170px; scroll-snap-align: start; }
+.vids-row .music-card--wide { flex-basis: 300px; }
+.vids-row .music-player--tall { max-height: none; }
+
+/* Series grid (series_layout: grid): up to 3 per row, 2 on a phone */
+.vids-shelf-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px 16px;
+}
+@media only screen and (min-width: 600px) {
+  .vids-shelf-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+.vids-shelf-grid .music-player--tall { max-height: none; }
+
+.vids-more-wrap { text-align: center; margin: 20px 0 0; }
+.vids-more {
+  padding: 8px 24px;
+  border: 1px solid #0085a1;
+  border-radius: 20px;
+  background: #fff;
+  color: #0085a1;
+  font-weight: 600;
+  cursor: pointer;
+}
+.vids-more:hover { background: #0085a1; color: #fff; }
+.vids-none { color: #808080; }
+.music-player {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-radius: 8px;
+  background: #111;
+  border: none;
+}
+.music-player--wide { aspect-ratio: 16 / 9; }
+.music-player--tall { aspect-ratio: 9 / 16; max-height: 560px; }
+.music-player img,
+.music-player iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  object-fit: cover;
+}
+.music-placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18% 12px 14%;     /* note above, title below the centred play button */
+  text-align: center;
+  color: rgba(255, 255, 255, .85);
+  background: linear-gradient(160deg, #25f4ee 0%, #222 50%, #fe2c55 100%);
+}
+.music-placeholder-note { font-size: 56px; line-height: 1; }
+/* TikTok has no public thumbnail, so the title is the only way to tell
+ * placeholder cards apart. */
+.music-placeholder-title {
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.music-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 64px;
+  height: 64px;
+  margin: -32px 0 0 -32px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, .6);
+  transition: background .2s, transform .2s;
+}
+.music-play:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -12px 0 0 -7px;
+  border-style: solid;
+  border-width: 12px 0 12px 20px;
+  border-color: transparent transparent transparent #fff;
+}
+.music-player:hover .music-play,
+.music-player:focus .music-play { background: #0085a1; transform: scale(1.08); }
+.music-card figcaption { padding-top: 10px; }
+.music-title { margin: 6px 0 4px; font-size: 16px; line-height: 1.35; }
+.music-note { margin: 0 0 4px; font-size: 15px; line-height: 1.45; }
+.music-meta { margin: 0; font-size: 13px; color: #808080; }
+.music-badge {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: 10px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #fff;
+  background: #0085a1;
+}
+.music-badge--drama { background: #c0392b; }
+.music-empty {
+  padding: 24px;
+  border: 1px dashed #ccc;
+  border-radius: 8px;
+  text-align: center;
+}
+.music-footnote { margin-top: 32px; font-size: 13px; color: #808080; }
+/* .vids-shelf-nav, .music-grid etc. set their own display, which beats the
+ * browser's [hidden] rule; the page's script toggles `hidden`, so restore it. */
+.vids [hidden] { display: none !important; }
+/* Touch screens swipe the series rows; the arrows are for mouse users. */
+@media (hover: none) { .vids-shelf-nav { display: none !important; } }

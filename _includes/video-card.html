@@ -1,0 +1,63 @@
+{%- comment -%}
+  One video card on /videos/ (see videos.html).
+  Params:
+    t      the _data/videos.yml entry
+    label  title to show (videos.html passes just the episode name inside a
+           series row); defaults to t.title
+    cls    extra classes on the <figure> (e.g. "is-more" for paging)
+
+  Shape: YouTube Shorts and TikToks are vertical (9:16 "tall"), regular
+  YouTube videos are 16:9 "wide". Shorts thumbnails: hqdefault.jpg for a Short
+  is 4:3 with the vertical frame centred between black bars; object-fit: cover
+  in a 9:16 box crops it back to roughly the frame.
+
+  The public link drops share-tracking query strings (?si=, ?feature=share,
+  ?is_from_webapp=...&web_id=...) -- web_id identifies the browser the link
+  was copied from. watch?v= links keep their query, which holds the ID.
+{%- endcomment -%}
+{%- assign t = include.t -%}
+{%- assign kind = t.kind | default: "" -%}
+{%- assign label = include.label | default: t.title -%}
+{%- if t.url contains "tiktok.com" -%}
+  {%- assign platform = "TikTok" -%}
+  {%- assign shape = "tall" -%}
+  {%- if t.id -%}{%- assign vid = t.id -%}
+  {%- elsif t.url contains "/video/" -%}{%- assign vid = t.url | split: "/video/" | last | split: "?" | first | split: "/" | first -%}
+  {%- else -%}{%- assign vid = "" -%}{%- endif -%}
+  {%- if vid != "" -%}{%- assign embed = "https://www.tiktok.com/player/v1/" | append: vid | append: "?autoplay=1&amp;music_info=1&amp;description=1&amp;rel=0" -%}{%- else -%}{%- assign embed = "" -%}{%- endif -%}
+  {%- assign thumb = t.thumbnail | default: "" -%}
+{%- else -%}
+  {%- assign platform = "YouTube" -%}
+  {%- if t.url contains "/shorts/" -%}{%- assign shape = "tall" -%}{%- else -%}{%- assign shape = "wide" -%}{%- endif -%}
+  {%- if t.id -%}{%- assign vid = t.id -%}
+  {%- elsif t.url contains "youtu.be/" -%}{%- assign vid = t.url | split: "youtu.be/" | last | split: "?" | first -%}
+  {%- elsif t.url contains "/shorts/" -%}{%- assign vid = t.url | split: "/shorts/" | last | split: "?" | first -%}
+  {%- elsif t.url contains "v=" -%}{%- assign vid = t.url | split: "v=" | last | split: "&" | first -%}
+  {%- else -%}{%- assign vid = "" -%}{%- endif -%}
+  {%- assign embed = "" -%}
+  {%- assign thumb = t.thumbnail | default: "" -%}
+  {%- if vid != "" -%}
+    {%- assign embed = "https://www.youtube-nocookie.com/embed/" | append: vid | append: "?autoplay=1&amp;rel=0" -%}
+    {%- if thumb == "" -%}{%- assign thumb = "https://i.ytimg.com/vi/" | append: vid | append: "/hqdefault.jpg" -%}{%- endif -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if t.url contains "v=" -%}{%- assign link = t.url -%}{%- else -%}{%- assign link = t.url | split: "?" | first -%}{%- endif %}
+  <figure class="music-card music-card--{{ shape }} {{ include.cls }}"{% if kind != "" %} data-kind="{{ kind }}"{% endif %}>
+    <a class="music-player music-player--{{ shape }}"
+       href="{{ link }}" target="_blank" rel="noopener"
+       {% if embed != "" %}data-embed="{{ embed }}"{% endif %}
+       aria-label="Play {{ t.title | escape }} ({{ platform }})">
+      {% if thumb != "" %}<img src="{{ thumb }}" alt="" loading="lazy" decoding="async">{% else %}<span class="music-placeholder" aria-hidden="true"><span class="music-placeholder-note">&#9835;</span><span class="music-placeholder-title">{{ label }}</span></span>{% endif %}
+      <span class="music-play" aria-hidden="true"></span>
+    </a>
+    <figcaption>
+      {% if kind != "" %}<span class="music-badge music-badge--{{ kind }}">{{ kind }}</span>{% endif %}
+      <h4 class="music-title">{{ label }}</h4>
+      {% if t.note %}<p class="music-note">{{ t.note }}</p>{% endif %}
+      <p class="music-meta">
+        {% if t.date %}<time datetime="{{ t.date | date: '%Y-%m-%d' }}">{{ t.date | date: "%-d %b %Y" }}</time> &middot;{% endif %}
+        {% if t.tools %}Made with {{ t.tools }} &middot;{% endif %}
+        <a href="{{ link }}" target="_blank" rel="noopener" title="Open on {{ platform }}">{{ platform }} &#8599;</a>
+      </p>
+    </figcaption>
+  </figure>
