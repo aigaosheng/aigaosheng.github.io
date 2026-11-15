@@ -29,6 +29,10 @@ saved to _posts/<EDITION_DATE>-<TOPIC_SLUG>.md. Output that does not start with
 YAML front matter or carries the wrong permalink is not saved to _posts; the raw
 reply goes to _logs/ (ignored by Jekyll) for a look.
 
+A brief with zero stories is retried once (--retries) and then treated as a failure
+and not saved, because it almost always means WebSearch/WebFetch did not work;
+use --allow-empty to save one anyway.
+
 Existing briefs are skipped unless --force, so a re-run only fills the gaps.
 Read every brief before pushing: the template asks for a check of the original
 articles and dates, and a `## My take` if you want one.
@@ -160,7 +164,14 @@ def generate(prompt, model):
                             timeout=TIMEOUT, cwd=tempfile.gettempdir())
     if result.returncode != 0:
         raise RuntimeError(result.stderr.strip() or f"claude exited {result.returncode}")
+    if result.stderr.strip():
+        print(f"    claude stderr: {result.stderr.strip()[:300]}", flush=True)
     return result.stdout
+
+
+def story_count(brief):
+    """Number of numbered story headings in a generated brief."""
+    return len(re.findall(r'^###\s', brief, flags=re.M))
 
 
 def save_failed(edition_date, slug, reply):
@@ -195,18 +206,31 @@ def run_topic(topic, prompt, slugs, edition_date, since, args):
         return None
 
     print(f"[{topic}] generating (since {since}, publish {publish_time}) ...", flush=True)
-    try:
-        reply = generate(filled, args.model)
-    except (RuntimeError, subprocess.TimeoutExpired) as e:
-        print(f"[{topic}] FAILED: {e}", flush=True)
-        return "failed"
-
-    brief = clean(reply)
+    brief, reply = "", ""
     permalink = f"permalink: /{slug}-brief-{edition_date}/"
-    if not brief or permalink not in brief:
+    for attempt in range(1, args.retries + 2):
+        try:
+            reply = generate(filled, args.model)
+        except (RuntimeError, subprocess.TimeoutExpired) as e:
+            print(f"[{topic}] FAILED: {e}", flush=True)
+            return "failed"
+
+        brief = clean(reply)
+        if not brief or permalink not in brief:
+            log = save_failed(edition_date, slug, reply)
+            print(f"[{topic}] FAILED: reply is not a valid brief -- see {os.path.relpath(log, ROOT)}",
+                  flush=True)
+            return "failed"
+        if story_count(brief) > 0 or args.allow_empty:
+            break
+        # A zero-story brief usually means the search tools failed, not that
+        # nothing happened (every topic has stories most days).
+        print(f"[{topic}] attempt {attempt}: reply has 0 stories", flush=True)
+    else:
         log = save_failed(edition_date, slug, reply)
-        print(f"[{topic}] FAILED: reply is not a valid brief -- see {os.path.relpath(log, ROOT)}",
-              flush=True)
+        print(f"[{topic}] FAILED: 0 stories after {args.retries + 1} attempt(s); not saved. "
+              f"Check that WebSearch/WebFetch work in `claude -p` (or pass --allow-empty "
+              f"if the day really is empty) -- see {os.path.relpath(log, ROOT)}", flush=True)
         return "failed"
 
     with open(path, "w", encoding="utf-8") as f:
@@ -224,6 +248,10 @@ def main():
                     help="model passed to claude --model (default: sonnet)")
     ap.add_argument("--jobs", type=int, default=1,
                     help="topics to generate at once (default 1: one after another)")
+    ap.add_argument("--retries", type=int, default=1,
+                    help="extra attempts when a brief comes back with 0 stories (default 1)")
+    ap.add_argument("--allow-empty", action="store_true",
+                    help="save a zero-story brief instead of treating it as a failure")
     ap.add_argument("--force", action="store_true", help="overwrite briefs that already exist")
     ap.add_argument("--dry-run", action="store_true", help="print prompts, do not call claude")
     args = ap.parse_args()
