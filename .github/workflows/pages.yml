@@ -34,11 +34,14 @@ jobs:
       - name: Check new post permalinks
         run: python3 _tools/check_permalinks.py
 
-      # Ruby version comes from .ruby-version (3.3.6), the same one local
-      # builds use. Gemfile.lock is gitignored; setup-ruby resolves the
-      # Gemfile and caches the installed gems keyed on that resolution.
+      # Use the latest 3.3.x rather than the exact patch in .ruby-version:
+      # newer runner images (ubuntu-26.04) only ship the latest patch of
+      # each series, so pinning e.g. 3.3.6 fails with a 404.
+      # Gemfile.lock is gitignored; setup-ruby resolves the Gemfile and
+      # caches the installed gems keyed on that resolution.
       - uses: ruby/setup-ruby@v1
         with:
+          ruby-version: '3.3'
           bundler-cache: true
 
       - id: pages
