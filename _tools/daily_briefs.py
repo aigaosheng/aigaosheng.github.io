@@ -7,6 +7,7 @@
     python3 _tools/daily_briefs.py --dry-run             # print the filled prompts, call nothing
     python3 _tools/daily_briefs.py --force               # overwrite briefs that already exist
     python3 _tools/daily_briefs.py --jobs 4              # 4 topics at once
+    python3 _tools/daily_briefs.py --effort high         # thinking effort (default: high)
 
 How the placeholders are filled
 -------------------------------
@@ -39,6 +40,7 @@ articles and dates, and a `## My take` if you want one.
 """
 import argparse
 import datetime as dt
+import json
 import os
 import re
 import subprocess
@@ -55,18 +57,18 @@ SGT = dt.timezone(dt.timedelta(hours=8))
 SINCE_TIME = "20:00"
 
 TOPICS = (
-    "AI Finance in Singapore",
-    "AI Fintech",
+    # "AI Finance in Singapore",
+    # "AI Fintech",
     "AI Governance",
-    "AI Investment & Startup in China",
+    # "AI Investment & Startup in China",
     "AI Research & Open-Source LLM",
     "AI Security & Risk",
-    "Enterprise AI",
-    "Payments",
-    "Quantum",
-    "US AI vs China AI",
-    "AI for science",
-    "AI for society",
+    # "Enterprise AI",
+    # "Payments",
+    # "Quantum",
+    # "US AI vs China AI",
+    # "AI for science",
+    # "AI for society",
 )
 
 # Research can take a while; give each topic up to 20 minutes.
@@ -154,19 +156,38 @@ def clean(reply):
     return ""
 
 
-def generate(prompt, model):
-    cmd = ["claude", "-p", "--allowedTools", "WebSearch", "WebFetch"]
+def generate(prompt, model, effort=None):
+    """Run claude -p and return the reply text.
+
+    Uses --output-format json so we can see whether WebSearch/WebFetch were
+    actually allowed (permission_denials) and how many turns the run took; a
+    run with 1 turn or denied tools never searched. Falls back to plain text
+    if the output is not the JSON envelope.
+    """
+    cmd = ["claude", "-p", "--output-format", "json", "--allowedTools", "WebSearch", "WebFetch"]
     if model:
         cmd += ["--model", model]
+    if effort:
+        cmd += ["--effort", effort]
     # Run outside the repo so the session has no project context to lean on;
     # the template's rule 1 asks for a standalone research task.
     result = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
                             timeout=TIMEOUT, cwd=tempfile.gettempdir())
     if result.returncode != 0:
-        raise RuntimeError(result.stderr.strip() or f"claude exited {result.returncode}")
+        raise RuntimeError(result.stderr.strip() or result.stdout.strip()[:300]
+                           or f"claude exited {result.returncode}")
     if result.stderr.strip():
         print(f"    claude stderr: {result.stderr.strip()[:300]}", flush=True)
-    return result.stdout
+    try:
+        data = json.loads(result.stdout)
+        reply = data["result"]
+    except (ValueError, KeyError, TypeError):
+        return result.stdout
+    denials = data.get("permission_denials") or []
+    names = sorted({d.get("tool_name", "?") for d in denials if isinstance(d, dict)})
+    print(f"    claude turns={data.get('num_turns')} "
+          f"denied_tools={', '.join(names) or 'none'}", flush=True)
+    return reply
 
 
 def story_count(brief):
@@ -210,7 +231,7 @@ def run_topic(topic, prompt, slugs, edition_date, since, args):
     permalink = f"permalink: /{slug}-brief-{edition_date}/"
     for attempt in range(1, args.retries + 2):
         try:
-            reply = generate(filled, args.model)
+            reply = generate(filled, args.model, args.effort)
         except (RuntimeError, subprocess.TimeoutExpired) as e:
             print(f"[{topic}] FAILED: {e}", flush=True)
             return "failed"
@@ -246,6 +267,10 @@ def main():
     ap.add_argument("--topic", action="append", help="only this topic; repeatable")
     ap.add_argument("--model", default="sonnet",
                     help="model passed to claude --model (default: sonnet)")
+    ap.add_argument("--effort", default="high",
+                    choices=["low", "medium", "high", "xhigh", "max"],
+                    help="thinking effort passed to claude --effort (default: high); "
+                         "overrides CLAUDE_EFFORT and settings.json")
     ap.add_argument("--jobs", type=int, default=1,
                     help="topics to generate at once (default 1: one after another)")
     ap.add_argument("--retries", type=int, default=1,
