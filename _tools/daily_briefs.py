@@ -57,18 +57,18 @@ SGT = dt.timezone(dt.timedelta(hours=8))
 SINCE_TIME = "20:00"
 
 TOPICS = (
-    # "AI Finance in Singapore",
-    # "AI Fintech",
+    "AI Finance in Singapore",
+    "AI Fintech",
     "AI Governance",
-    # "AI Investment & Startup in China",
+    "AI Investment & Startup in China",
     "AI Research & Open-Source LLM",
     "AI Security & Risk",
-    # "Enterprise AI",
-    # "Payments",
-    # "Quantum",
-    # "US AI vs China AI",
-    # "AI for science",
-    # "AI for society",
+    "Enterprise AI",
+    "Payments",
+    "Quantum",
+    "US AI vs China AI",
+    "AI for science",
+    "AI for society",
 )
 
 # Research can take a while; give each topic up to 20 minutes.
