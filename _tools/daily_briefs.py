@@ -8,6 +8,7 @@
     python3 _tools/daily_briefs.py --force               # overwrite briefs that already exist
     python3 _tools/daily_briefs.py --jobs 4              # 4 topics at once
     python3 _tools/daily_briefs.py --effort high         # thinking effort (default: high)
+    python3 _tools/daily_briefs.py --provider codex      # use Codex CLI instead of Claude
 
 How the placeholders are filled
 -------------------------------
@@ -24,10 +25,12 @@ How the placeholders are filled
                      more cross-topic repeats; the check against each topic's
                      previous edition is unaffected.
 
-Each brief is written by `claude -p --model sonnet` (change with --model) with
-only WebSearch and WebFetch allowed,
-saved to _posts/<EDITION_DATE>-<TOPIC_SLUG>.md. Output that does not start with
-YAML front matter or carries the wrong permalink is not saved to _posts; the raw
+Each brief is written by Claude (`claude -p --model sonnet`) or Codex CLI
+(`codex exec --search`); choose with --provider. Claude allows only WebSearch
+and WebFetch. Codex runs ephemerally outside the repository, with live web
+search enabled and shell tools disabled. The brief is saved to
+_posts/<EDITION_DATE>-<TOPIC_SLUG>.md. Output that does not start with YAML
+front matter or carries the wrong permalink is not saved to _posts; the raw
 reply goes to _logs/ (ignored by Jekyll) for a look.
 
 A brief with zero stories is retried once (--retries) and then treated as a failure
@@ -156,38 +159,56 @@ def clean(reply):
     return ""
 
 
-def generate(prompt, model, effort=None):
-    """Run claude -p and return the reply text.
+def generate(prompt, provider, model, effort=None):
+    """Run the selected CLI and return its final reply text."""
+    if provider == "claude":
+        cmd = ["claude", "-p", "--output-format", "json",
+               "--allowedTools", "WebSearch", "WebFetch"]
+        cmd += ["--model", model or "sonnet"]
+        if effort:
+            cmd += ["--effort", effort]
+        # Run outside the repo so the session has no project context to lean on.
+        result = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
+                                timeout=TIMEOUT, cwd=tempfile.gettempdir())
+        if result.returncode != 0:
+            raise RuntimeError(result.stderr.strip() or result.stdout.strip()[:300]
+                               or f"claude exited {result.returncode}")
+        if result.stderr.strip():
+            print(f"    claude stderr: {result.stderr.strip()[:300]}", flush=True)
+        try:
+            data = json.loads(result.stdout)
+            reply = data["result"]
+        except (ValueError, KeyError, TypeError):
+            return result.stdout
+        denials = data.get("permission_denials") or []
+        names = sorted({d.get("tool_name", "?") for d in denials if isinstance(d, dict)})
+        print(f"    claude turns={data.get('num_turns')} "
+              f"denied_tools={', '.join(names) or 'none'}", flush=True)
+        return reply
 
-    Uses --output-format json so we can see whether WebSearch/WebFetch were
-    actually allowed (permission_denials) and how many turns the run took; a
-    run with 1 turn or denied tools never searched. Falls back to plain text
-    if the output is not the JSON envelope.
-    """
-    cmd = ["claude", "-p", "--output-format", "json", "--allowedTools", "WebSearch", "WebFetch"]
-    if model:
-        cmd += ["--model", model]
-    if effort:
-        cmd += ["--effort", effort]
-    # Run outside the repo so the session has no project context to lean on;
-    # the template's rule 1 asks for a standalone research task.
-    result = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
-                            timeout=TIMEOUT, cwd=tempfile.gettempdir())
-    if result.returncode != 0:
-        raise RuntimeError(result.stderr.strip() or result.stdout.strip()[:300]
-                           or f"claude exited {result.returncode}")
-    if result.stderr.strip():
-        print(f"    claude stderr: {result.stderr.strip()[:300]}", flush=True)
-    try:
-        data = json.loads(result.stdout)
-        reply = data["result"]
-    except (ValueError, KeyError, TypeError):
-        return result.stdout
-    denials = data.get("permission_denials") or []
-    names = sorted({d.get("tool_name", "?") for d in denials if isinstance(d, dict)})
-    print(f"    claude turns={data.get('num_turns')} "
-          f"denied_tools={', '.join(names) or 'none'}", flush=True)
-    return reply
+    with tempfile.TemporaryDirectory() as workdir:
+        output_path = os.path.join(workdir, "reply.md")
+        cmd = [
+            "codex", "--search", "--disable", "shell_tool",
+            "--ask-for-approval", "never", "exec",
+            "--json", "--ephemeral", "--skip-git-repo-check",
+            "--sandbox", "read-only",
+            "--ignore-user-config", "--ignore-rules",
+            "--cd", workdir, "--output-last-message", output_path,
+        ]
+        if model:
+            cmd += ["--model", model]
+        if effort:
+            cmd += ["--config", f'model_reasoning_effort="{effort}"']
+        result = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
+                                timeout=TIMEOUT, cwd=workdir)
+        if result.returncode != 0:
+            raise RuntimeError(result.stderr.strip() or result.stdout.strip()[-300:]
+                               or f"codex exited {result.returncode}")
+        if not os.path.isfile(output_path):
+            raise RuntimeError("codex completed without writing its final reply")
+        with open(output_path, encoding="utf-8") as f:
+            return f.read()
 
 
 def story_count(brief):
@@ -231,7 +252,7 @@ def run_topic(topic, prompt, slugs, edition_date, since, args):
     permalink = f"permalink: /{slug}-brief-{edition_date}/"
     for attempt in range(1, args.retries + 2):
         try:
-            reply = generate(filled, args.model, args.effort)
+            reply = generate(filled, args.provider, args.model, args.effort)
         except (RuntimeError, subprocess.TimeoutExpired) as e:
             print(f"[{topic}] FAILED: {e}", flush=True)
             return "failed"
@@ -250,7 +271,7 @@ def run_topic(topic, prompt, slugs, edition_date, since, args):
     else:
         log = save_failed(edition_date, slug, reply)
         print(f"[{topic}] FAILED: 0 stories after {args.retries + 1} attempt(s); not saved. "
-              f"Check that WebSearch/WebFetch work in `claude -p` (or pass --allow-empty "
+              f"Check that the selected CLI's web search works (or pass --allow-empty "
               f"if the day really is empty) -- see {os.path.relpath(log, ROOT)}", flush=True)
         return "failed"
 
@@ -265,12 +286,15 @@ def main():
     ap.add_argument("--date", help="edition date YYYY-MM-DD (default: today, SGT)")
     ap.add_argument("--publish-time", help="HH:MM SGT (default: SGT clock when each topic starts)")
     ap.add_argument("--topic", action="append", help="only this topic; repeatable")
-    ap.add_argument("--model", default="sonnet",
-                    help="model passed to claude --model (default: sonnet)")
+    ap.add_argument("--provider", choices=["claude", "codex"], default="claude",
+                    help="CLI backend (default: claude)")
+    ap.add_argument("--model",
+                    help="model passed to the selected CLI (default: sonnet for Claude, "
+                         "Codex CLI default for Codex)")
     ap.add_argument("--effort", default="high",
                     choices=["low", "medium", "high", "xhigh", "max"],
-                    help="thinking effort passed to claude --effort (default: high); "
-                         "overrides CLAUDE_EFFORT and settings.json")
+                    help="thinking effort passed to the selected CLI (default: high); "
+                         "overrides the CLI's configured effort")
     ap.add_argument("--jobs", type=int, default=1,
                     help="topics to generate at once (default 1: one after another)")
     ap.add_argument("--retries", type=int, default=1,
@@ -278,10 +302,12 @@ def main():
     ap.add_argument("--allow-empty", action="store_true",
                     help="save a zero-story brief instead of treating it as a failure")
     ap.add_argument("--force", action="store_true", help="overwrite briefs that already exist")
-    ap.add_argument("--dry-run", action="store_true", help="print prompts, do not call claude")
+    ap.add_argument("--dry-run", action="store_true", help="print prompts without calling a CLI")
     args = ap.parse_args()
     if args.jobs < 1:
         ap.error("--jobs must be 1 or more")
+    if args.provider == "codex" and args.effort == "max":
+        ap.error("--effort max is only supported by Claude; use high or xhigh with Codex")
 
     edition = (dt.date.fromisoformat(args.date) if args.date
                else dt.datetime.now(SGT).date())
