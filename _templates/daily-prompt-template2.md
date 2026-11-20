@@ -1,6 +1,6 @@
 # Daily Brief Prompt — GitHub Pages / Jekyll
 
-Copy this entire prompt into a new AI chat after replacing the five placeholders.
+Copy this entire prompt into a new AI chat after replacing the six placeholders.
 
 | Placeholder | What to put | Example |
 |---|---|---|
@@ -9,6 +9,7 @@ Copy this entire prompt into a new AI chat after replacing the five placeholders
 | `[PUBLISH_TIME]` | Publication time in HH:MM, 24-hour Singapore time | `20:30` |
 | `[SINCE]` | Exclusive publication cutoff, in Singapore time | `2026-10-12 20:30 SGT` |
 | `[ALREADY_COVERED]` | Headlines and original article URLs already covered in today's briefs and the previous edition of this topic. Use `none` if empty. | `Company announces AI platform — https://example.com/article` |
+| `[TARGET_STORIES]` | Target number of verified stories, up to 10 | `8` |
 
 After generation, check the original articles and dates. Replace the `MY TAKE` comment with your own `## My take` section or leave the comment unchanged. Save the file as `_posts/[EDITION_DATE]-[TOPIC_SLUG].md`. Do not use a colon in the filename.
 
@@ -101,7 +102,11 @@ Unknown topic: [TOPIC]
 
 ## 6. Story limit and ranking
 
-- Include no more than 10 stories. Fewer stories are acceptable.
+- Aim for [TARGET_STORIES] qualifying stories, with 10 as the absolute maximum.
+- Search using multiple distinct query angles and relevant source types; do not stop after finding one or two relevant results.
+- Include all distinct stories that meet the topic, date, source and verification requirements, up to 10.
+- Fewer than [TARGET_STORIES] stories are acceptable only after a broad search finds no more verifiable, in-scope, non-duplicate stories.
+- Never include weak, duplicate or unverified stories to reach the target. The target is a research goal, not permission to invent.
 - Rank stories by real-world impact, industry relevance, reader interest, strategic importance and long-term market implications.
 - Story 1 must be the lead story and must determine the post title.
 - Give each story exactly one relevant category emoji.

@@ -9,6 +9,7 @@
     python3 _tools/daily_briefs.py --jobs 4              # 4 topics at once
     python3 _tools/daily_briefs.py --effort high         # thinking effort (default: high)
     python3 _tools/daily_briefs.py --provider codex      # use Codex CLI instead of Claude
+    python3 _tools/daily_briefs.py --target-stories 8    # aim for 8 verified stories per topic
 
 How the placeholders are filled
 -------------------------------
@@ -33,9 +34,10 @@ _posts/<EDITION_DATE>-<TOPIC_SLUG>.md. Output that does not start with YAML
 front matter or carries the wrong permalink is not saved to _posts; the raw
 reply goes to _logs/ (ignored by Jekyll) for a look.
 
-A brief with zero stories is retried once (--retries) and then treated as a failure
-and not saved, because it almost always means WebSearch/WebFetch did not work;
-use --allow-empty to save one anyway.
+A brief below --target-stories is retried (--retries) with an instruction to
+broaden the research. The best valid version is saved even if the target cannot
+be met; a zero-story result is treated as a failure unless --allow-empty is set.
+No retry may invent or weaken verification requirements to hit the target.
 
 Existing briefs are skipped unless --force, so a re-run only fills the gaps.
 Read every brief before pushing: the template asks for a check of the original
@@ -58,6 +60,8 @@ LOGS = os.path.join(ROOT, "_logs")
 
 SGT = dt.timezone(dt.timedelta(hours=8))
 SINCE_TIME = "20:00"
+MAX_STORIES = 10
+DEFAULT_STORY_TARGET = 10
 
 TOPICS = (
     "AI Finance in Singapore",
@@ -216,6 +220,23 @@ def story_count(brief):
     return len(re.findall(r'^###\s', brief, flags=re.M))
 
 
+def expanded_research_prompt(prompt, previous_brief, story_count, target):
+    """Ask for a broader second pass while preserving the previous verified candidates."""
+    previous_headlines = STORY_HEADING.findall(previous_brief)
+    candidates = "\n".join(f"- {headline.strip()}" for headline in previous_headlines)
+    return (
+        f"{prompt}\n\n"
+        "## Expanded research pass\n"
+        f"The previous attempt found {story_count} qualifying stories, below the target of "
+        f"{target}. Do a broader search using additional query angles and relevant source types; "
+        "do not stop after one or two results. Preserve these candidates if they still meet all "
+        "date, topic, source and verification requirements, and add other distinct qualifying "
+        "stories. Return the complete revised Markdown brief, not an addendum. The target is a "
+        "research goal, not permission to include weak, duplicate or unverified stories.\n"
+        f"Previously found candidate headlines:\n{candidates or '- none'}"
+    )
+
+
 def save_failed(edition_date, slug, reply):
     os.makedirs(LOGS, exist_ok=True)
     path = os.path.join(LOGS, f"{edition_date}-{slug}.failed.md")
@@ -241,18 +262,22 @@ def run_topic(topic, prompt, slugs, edition_date, since, args):
                   EDITION_DATE=edition_date,
                   PUBLISH_TIME=publish_time,
                   SINCE=since,
+                  TARGET_STORIES=str(args.target_stories),
                   ALREADY_COVERED=already_covered(edition_date, slug))
 
     if args.dry_run:
         print(f"===== {topic} =====\n{filled}\n")
         return None
 
-    print(f"[{topic}] generating (since {since}, publish {publish_time}) ...", flush=True)
+    print(f"[{topic}] generating via {args.provider} "
+          f"(since {since}, publish {publish_time}) ...", flush=True)
     brief, reply = "", ""
     permalink = f"permalink: /{slug}-brief-{edition_date}/"
+    best_brief, best_reply, best_count = "", "", -1
+    attempt_prompt = filled
     for attempt in range(1, args.retries + 2):
         try:
-            reply = generate(filled, args.provider, args.model, args.effort)
+            reply = generate(attempt_prompt, args.provider, args.model, args.effort)
         except (RuntimeError, subprocess.TimeoutExpired) as e:
             print(f"[{topic}] FAILED: {e}", flush=True)
             return "failed"
@@ -263,22 +288,36 @@ def run_topic(topic, prompt, slugs, edition_date, since, args):
             print(f"[{topic}] FAILED: reply is not a valid brief -- see {os.path.relpath(log, ROOT)}",
                   flush=True)
             return "failed"
-        if story_count(brief) > 0 or args.allow_empty:
+
+        current_count = story_count(brief)
+        if current_count > best_count:
+            best_brief, best_reply, best_count = brief, reply, current_count
+        if current_count >= args.target_stories or (current_count == 0 and args.allow_empty):
             break
-        # A zero-story brief usually means the search tools failed, not that
-        # nothing happened (every topic has stories most days).
-        print(f"[{topic}] attempt {attempt}: reply has 0 stories", flush=True)
-    else:
-        log = save_failed(edition_date, slug, reply)
+        if attempt <= args.retries:
+            print(f"[{topic}] attempt {attempt}: found {current_count} stories; "
+                  f"target is {args.target_stories}, expanding research", flush=True)
+            attempt_prompt = expanded_research_prompt(
+                filled, brief, current_count, args.target_stories)
+
+    if best_count == 0 and not args.allow_empty:
+        log = save_failed(edition_date, slug, best_reply)
         print(f"[{topic}] FAILED: 0 stories after {args.retries + 1} attempt(s); not saved. "
               f"Check that the selected CLI's web search works (or pass --allow-empty "
               f"if the day really is empty) -- see {os.path.relpath(log, ROOT)}", flush=True)
         return "failed"
 
+    brief = best_brief
+    shortfall = best_count < args.target_stories
+    if shortfall:
+        print(f"[{topic}] only {best_count} stories in the best response after "
+              f"{args.retries + 1} attempt(s); saving below target "
+              f"{args.target_stories}", flush=True)
+
     with open(path, "w", encoding="utf-8") as f:
         f.write(brief)
-    print(f"[{topic}] wrote {os.path.relpath(path, ROOT)}", flush=True)
-    return "done"
+    print(f"[{topic}] wrote {os.path.relpath(path, ROOT)} ({best_count} stories)", flush=True)
+    return "short" if shortfall else "done"
 
 
 def main():
@@ -298,7 +337,10 @@ def main():
     ap.add_argument("--jobs", type=int, default=1,
                     help="topics to generate at once (default 1: one after another)")
     ap.add_argument("--retries", type=int, default=1,
-                    help="extra attempts when a brief comes back with 0 stories (default 1)")
+                    help="extra research attempts when below the story target (default 1)")
+    ap.add_argument("--target-stories", type=int, default=DEFAULT_STORY_TARGET,
+                    help=f"aim for this many verified stories per topic (default {DEFAULT_STORY_TARGET}; "
+                         f"maximum {MAX_STORIES})")
     ap.add_argument("--allow-empty", action="store_true",
                     help="save a zero-story brief instead of treating it as a failure")
     ap.add_argument("--force", action="store_true", help="overwrite briefs that already exist")
@@ -306,6 +348,10 @@ def main():
     args = ap.parse_args()
     if args.jobs < 1:
         ap.error("--jobs must be 1 or more")
+    if args.retries < 0:
+        ap.error("--retries must be 0 or more")
+    if not 1 <= args.target_stories <= MAX_STORIES:
+        ap.error(f"--target-stories must be between 1 and {MAX_STORIES}")
     if args.provider == "codex" and args.effort == "max":
         ap.error("--effort max is only supported by Claude; use high or xhigh with Codex")
 
@@ -328,7 +374,9 @@ def main():
     failed = [t for t in topics if results[t] == "failed"]
     if not args.dry_run:
         count = lambda status: sum(1 for r in results.values() if r == status)
-        print(f"\n{count('done')} written, {count('skipped')} skipped, {len(failed)} failed"
+        written = count("done") + count("short")
+        print(f"\n{written} written ({count('short')} below target), "
+              f"{count('skipped')} skipped, {len(failed)} failed"
               + (f": {', '.join(failed)}" if failed else ""))
     return 1 if failed else 0
 
