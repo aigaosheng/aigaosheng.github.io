@@ -76,4 +76,4 @@ The proposed templates cover licenses for specified works and models, as well as
 
 Watch for feedback at South Korea’s November 26 hearing on the draft training-data contracts and for revisions to the privacy decree before its January 4 comment deadline.
 
-<!-- MY TAKE -->
+---s
